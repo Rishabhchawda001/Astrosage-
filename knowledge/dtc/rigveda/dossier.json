@@ -1,0 +1,36 @@
+{
+  "canonical_name": "Ṛgveda-Saṃhitā",
+  "traditional_name": "ऋग्वेदसंहिता",
+  "iast_name": "Ṛgvedasaṃhitā",
+  "scripture_id": "RV",
+  "classification": {
+    "tradition": "Hindu",
+    "category": "Śruti (Veda)",
+    "parent": null,
+    "canonical_status": "Śruti — highest authority",
+    "recensions": ["Śākala", "Bāṣkala", "Śankhayana", "Māṇḍūkāyana"]
+  },
+  "expected_structure": {
+    "mandalas": 10,
+    "total_suktas": 1028,
+    "total_verses": 10600,
+    "language": "Vedic Sanskrit",
+    "verse_format": "Two padas per verse (a,c); four padas complete"
+  },
+  "witnesses_acquired": [
+    {"name": "Aufrecht edition (GRETIL)", "type": "critical_edition", "format": "TEI_XML", "verses": 10552, "source": "GRETIL"},
+    {"name": "Padapatha (GRETIL)", "type": "recension", "format": "TEI_XML", "source": "GRETIL"},
+    {"name": "Khilas (GRETIL)", "type": "supplement", "format": "TEI_XML", "verses": 1920, "source": "GRETIL"},
+    {"name": "Sayana Bhashya", "type": "commentary", "format": "OCR_TXT", "source": "Archive.org"},
+    {"name": "Gita Press Samhita", "type": "publisher_edition", "format": "OCR_TXT", "source": "Archive.org"},
+    {"name": "Hindi Translation", "type": "translation", "format": "OCR_TXT", "source": "Archive.org"},
+    {"name": "English Translation", "type": "translation", "format": "OCR_TXT", "source": "Archive.org"}
+  ],
+  "gap_assessment": {
+    "priority_missing": [
+      "Native Unicode Devanagari edition",
+      "Bāṣkala recension",
+      "BORI critical edition (if separate)"
+    ]
+  }
+}

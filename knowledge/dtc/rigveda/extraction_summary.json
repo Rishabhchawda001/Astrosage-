@@ -1,0 +1,11 @@
+{
+  "scripture": "Ṛgveda-Saṃhitā",
+  "samhita_verses": 10552,
+  "khila_verses": 556,
+  "total": 11108,
+  "sources": [
+    "aufrecht_gretil"
+  ],
+  "witness_diversity": "Low (1 primary Unicode source)",
+  "next_priority": "Find additional digital witnesses for collation"
+}
