@@ -3568,5 +3568,355 @@
         "authority": "Medium"
       }
     ]
+  },
+  "atharvashiras upanishad": {
+    "tei_xml": [
+      {
+        "file": "atharvashiras_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+        "chapters": 1,
+        "verses": 12,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "bhagavata gretil tei iast.txt": {
+    "tei_xml": [
+      {
+        "file": "bhagavata_gretil_tei_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Bhāgavatapurāṇa",
+        "chapters": 326,
+        "verses": 12364,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "ha tha yoga pradipika gretil2 iast.txt": {
+    "tei_xml": [
+      {
+        "file": "ha_tha_yoga_pradipika_gretil2_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Haṭhayogapradīpikā",
+        "chapters": 1,
+        "verses": 880,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "kalidasa shyamaladandaka": {
+    "tei_xml": [
+      {
+        "file": "kalidasa_shyamaladandaka_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Śyāmalādaṇḍaka",
+        "chapters": 1,
+        "verses": 25,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "madhva gita bhashya": {
+    "tei_xml": [
+      {
+        "file": "madhva_gita_bhashya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Mahābhāratatātparyanirṇaya",
+        "chapters": 1,
+        "verses": 5,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "matrkabhedatantra": {
+    "tei_xml": [
+      {
+        "file": "matrkabhedatantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Mātṛkābhedatantra",
+        "chapters": 1,
+        "verses": 1144,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "ramanuja vedartha": {
+    "tei_xml": [
+      {
+        "file": "ramanuja_vedartha_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Vedārthasaṃgraha",
+        "chapters": 1,
+        "verses": 8,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa bAdarAyaNa-brahmasUtra-comm iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "chapters": 547,
+        "verses": 7154,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa bAdarAyaNa-brahmasUtra-subcomm iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "chapters": 553,
+        "verses": 5499,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa brahmANDapurANa iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_brahmANDapurANa_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Brahmāṇḍapurāṇa",
+        "chapters": 154,
+        "verses": 28347,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa brahmabindUpaniSad iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_brahmabindUpaniSad_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Brahmabindūpaniṣad",
+        "chapters": 1,
+        "verses": 45,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa brahmagupta-brAhmasphuTasiddhAnta iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_brahmagupta-brAhmasphuTasiddhAnta_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Brāhmasphuṭasiddhānta",
+        "chapters": 1,
+        "verses": 434,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa pataJjali-yogasUtra-alt iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_pataJjali-yogasUtra-alt_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Yogasūtra",
+        "chapters": 2,
+        "verses": 37,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa pataJjali-yogasUtra-with-bhASya-alt iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_pataJjali-yogasUtra-with-bhASya-alt_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Yogasūtra with Bhāṣya",
+        "chapters": 9,
+        "verses": 25,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa pataJjali-yogasUtra-with-bhASya iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_pataJjali-yogasUtra-with-bhASya_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "chapters": 1,
+        "verses": 153,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sa pataJjali-yogasUtra iast.txt": {
+    "tei_xml": [
+      {
+        "file": "sa_pataJjali-yogasUtra_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Yogasūtra",
+        "chapters": 1,
+        "verses": 195,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "sarvadurgatiparishodhana tantra": {
+    "tei_xml": [
+      {
+        "file": "sarvadurgatiparishodhana tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Sarvadurgatipariśodhanatantra",
+        "chapters": 4,
+        "verses": 102,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "satvatatantra": {
+    "tei_xml": [
+      {
+        "file": "satvatatantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Sātvatatantra",
+        "chapters": 1,
+        "verses": 1451,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "shira upanishad": {
+    "tei_xml": [
+      {
+        "file": "shira_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+        "chapters": 1,
+        "verses": 12,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "shiva sutra varttika": {
+    "tei_xml": [
+      {
+        "file": "shiva_sutra_varttika_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Śivasūtra with vārttika",
+        "chapters": 1,
+        "verses": 686,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "taittiriya upanishad bhashya": {
+    "tei_xml": [
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "chapters": 1,
+        "verses": 3,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "vijJAnabhairava": {
+    "tei_xml": [
+      {
+        "file": "vijJAnabhairava_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Vijñānabhairava",
+        "chapters": 1,
+        "verses": 162,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "vinaashikha tantra": {
+    "tei_xml": [
+      {
+        "file": "vinaashikha tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Vīṇāśikhatantra",
+        "chapters": 1,
+        "verses": 794,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "vishnu puran gretil critical iast.txt": {
+    "tei_xml": [
+      {
+        "file": "vishnu_puran_gretil_critical_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Viṣṇupurāṇa",
+        "chapters": 120,
+        "verses": 11067,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
+  },
+  "yoga bija": {
+    "tei_xml": [
+      {
+        "file": "yoga_bija_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "scripture_name": "Yogaśataka",
+        "chapters": 1,
+        "verses": 261,
+        "authority": "High"
+      }
+    ],
+    "text_files": []
   }
 }
