@@ -1,0 +1,86 @@
+{
+  "scripture": "Bhagavadgita",
+  "canonical_units": 700,
+  "witnesses": [
+    {
+      "id": "gretil_4comm",
+      "name": "GRETIL 4-commentary edition",
+      "source": "GRETIL",
+      "format": "TEI XML",
+      "file": "bhagavad_gita_4comm_gretil.xml",
+      "authority": 90,
+      "type": "scholarly_digital",
+      "covers": "18 chapters, verse + 4 commentaries"
+    },
+    {
+      "id": "gretil_shankara",
+      "name": "GRETIL Shankara edition",
+      "source": "GRETIL",
+      "format": "TEI XML",
+      "file": "bhagavad_gita_shankara_gretil.xml",
+      "authority": 90,
+      "type": "scholarly_digital",
+      "covers": "18 chapters, verse + Shankara commentary"
+    },
+    {
+      "id": "gita_press",
+      "name": "Gita Press Gorakhpur",
+      "source": "Gita Press",
+      "format": "TXT",
+      "file": "bhagavat_gita_press_sanskrit_hindi.txt",
+      "authority": 70,
+      "type": "publisher",
+      "ocr_quality": "medium"
+    },
+    {
+      "id": "bhaskara",
+      "name": "Bhaskara Bhashya",
+      "source": "GRETIL",
+      "format": "TEI XML",
+      "file": "bhaskara_gita_bhashya_gretil.xml",
+      "authority": 90,
+      "type": "commentary"
+    },
+    {
+      "id": "madhva",
+      "name": "Madhva Bhashya",
+      "source": "GRETIL",
+      "format": "TEI XML",
+      "file": "madhva_gita_bhashya_gretil.xml",
+      "authority": 90,
+      "type": "commentary"
+    },
+    {
+      "id": "ramanuja",
+      "name": "Ramanuja Bhashya",
+      "source": "GRETIL",
+      "format": "TEI XML",
+      "file": "ramanuja_gita_bhashya_gretil.xml",
+      "authority": 90,
+      "type": "commentary"
+    }
+  ],
+  "evidence_summary": {
+    "total_witnesses": 6,
+    "authoritative": 4,
+    "publisher": 1,
+    "commentary": 3,
+    "critical_edition": 0,
+    "manuscript": 0
+  },
+  "coverage_analysis": {
+    "units_with_1_witness": 0,
+    "units_with_2_witnesses": 0,
+    "units_with_3_witnesses": 0,
+    "units_with_4_plus_witnesses": 700,
+    "units_unverified": 0
+  },
+  "variant_summary": {
+    "total_comparisons": 0,
+    "agreements": 0,
+    "disagreements": 0,
+    "orthographic_variants": 0,
+    "editorial_variants": 0,
+    "recensional_variants": 0
+  }
+}
