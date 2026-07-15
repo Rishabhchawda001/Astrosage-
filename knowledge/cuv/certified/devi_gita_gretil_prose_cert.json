@@ -1,0 +1,326 @@
+{
+  "file": "devi_gita_gretil_prose.json",
+  "title": "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
+  "status": "needs_work",
+  "total_akus": 52,
+  "certified_akus": 0,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 8,
+    "prose": 14,
+    "unknown": 19,
+    "colophon": 10,
+    "heading": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 50,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "janamejaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "īdevyuvāca",
+          "start": "nirbhayā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "śrīdevyuvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "devyuvāca",
+          "start": "himālaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "himālaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "īdevyuvāca",
+          "start": "pradhānā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "devyuvāca",
+          "start": "lābdhā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "himālaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "himālaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "navamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "himālaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "daśamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "devyuvāca",
+          "start": "vyāsa"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "Dg_5.29",
+          "body": "="
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "DbhP_7,35.29",
+          "body": "//"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "janamejaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "īdevyuvāca",
+      "start": "nirbhayā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "śrīdevyuvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "devyuvāca",
+      "start": "himālaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "himālaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "īdevyuvāca",
+      "start": "pradhānā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "devyuvāca",
+      "start": "lābdhā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "himālaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "himālaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "navamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "himālaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "daśamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "devyuvāca",
+      "start": "vyāsa"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "Dg_5.29",
+      "body": "="
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "DbhP_7,35.29",
+      "body": "//"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "file": "sarvadurgatiparishodhana tantra_gretil_prose.json",
+  "title": "Sarvadurgatipariśodhanatantra",
+  "status": "needs_work",
+  "total_akus": 1388,
+  "certified_akus": 18,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 1,
+    "mantra": 108,
+    "prose": 1160,
+    "unknown": 31,
+    "commentary": 24,
+    "heading": 7,
+    "translation": 52,
+    "critical_apparatus": 4,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1352,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "andhodakaṃ",
+          "start": "sarvaratna"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "mābhiṣekaṃ",
+          "start": "bhagavataḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "anamudrayā",
+          "start": "samidbhir"
+        }
+      ]
+    },
+    {
+      "chapter": 122,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 124,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 126,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 128,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 120,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 132,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 134,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 156,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 162,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 172,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 174,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 186,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 216,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 242,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 250,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 270,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 20,
+          "aku_ref": "20",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 20,
+          "aku_ref": "20",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 30,
+          "aku_ref": "30",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 30,
+          "aku_ref": "30",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 40,
+          "aku_ref": "40",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 40,
+          "aku_ref": "40",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 50,
+          "aku_ref": "50",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 50,
+          "aku_ref": "50",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 60,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 60,
+          "aku_ref": "60",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 60,
+          "aku_ref": "60",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 70,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 70,
+          "aku_ref": "70",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 70,
+          "aku_ref": "70",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 80,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 80,
+          "aku_ref": "80",
+          "body": "/"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 80,
+          "aku_ref": "80",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 90,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 90,
+          "aku_ref": "90",
+          "body": "/"
+        }
+      ]
+    },
+    {
+      "chapter": 100,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 294,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "andhodakaṃ",
+      "start": "sarvaratna"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "mābhiṣekaṃ",
+      "start": "bhagavataḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "anamudrayā",
+      "start": "samidbhir"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 20,
+      "aku_ref": "20",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 20,
+      "aku_ref": "20",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 30,
+      "aku_ref": "30",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 30,
+      "aku_ref": "30",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 40,
+      "aku_ref": "40",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 40,
+      "aku_ref": "40",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 50,
+      "aku_ref": "50",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 50,
+      "aku_ref": "50",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 60,
+      "aku_ref": "60",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 60,
+      "aku_ref": "60",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 70,
+      "aku_ref": "70",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 70,
+      "aku_ref": "70",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 80,
+      "aku_ref": "80",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 80,
+      "aku_ref": "80",
+      "body": "/"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 90,
+      "aku_ref": "90",
+      "body": "/"
+    }
+  ]
+}

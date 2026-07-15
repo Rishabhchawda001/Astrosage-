@@ -1,0 +1,209 @@
+{
+  "file": "vasistha_dharmasutra_gretil_prose.json",
+  "title": "Vāsiṣṭhadharmasūtra",
+  "status": "certified",
+  "total_akus": 1389,
+  "certified_akus": 1389,
+  "issues": [],
+  "class_distribution": {
+    "prose": 229,
+    "sutra": 412,
+    "translation": 222,
+    "heading": 504,
+    "metadata": 8,
+    "commentary": 12,
+    "mantra": 1,
+    "footnote": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 1,
+      "total": 52,
+      "certified": 52,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 73,
+      "certified": 73,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 98,
+      "certified": 98,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 47,
+      "certified": 47,
+      "issues": []
+    },
+    {
+      "chapter": 5,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 77,
+      "certified": 77,
+      "issues": []
+    },
+    {
+      "chapter": 7,
+      "total": 17,
+      "certified": 17,
+      "issues": []
+    },
+    {
+      "chapter": 8,
+      "total": 25,
+      "certified": 25,
+      "issues": []
+    },
+    {
+      "chapter": 9,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 42,
+      "certified": 42,
+      "issues": []
+    },
+    {
+      "chapter": 11,
+      "total": 103,
+      "certified": 103,
+      "issues": []
+    },
+    {
+      "chapter": 12,
+      "total": 54,
+      "certified": 54,
+      "issues": []
+    },
+    {
+      "chapter": 13,
+      "total": 67,
+      "certified": 67,
+      "issues": []
+    },
+    {
+      "chapter": 14,
+      "total": 64,
+      "certified": 64,
+      "issues": []
+    },
+    {
+      "chapter": 15,
+      "total": 23,
+      "certified": 23,
+      "issues": []
+    },
+    {
+      "chapter": 16,
+      "total": 51,
+      "certified": 51,
+      "issues": []
+    },
+    {
+      "chapter": 17,
+      "total": 105,
+      "certified": 105,
+      "issues": []
+    },
+    {
+      "chapter": 18,
+      "total": 25,
+      "certified": 25,
+      "issues": []
+    },
+    {
+      "chapter": 19,
+      "total": 58,
+      "certified": 58,
+      "issues": []
+    },
+    {
+      "chapter": 20,
+      "total": 58,
+      "certified": 58,
+      "issues": []
+    },
+    {
+      "chapter": 21,
+      "total": 42,
+      "certified": 42,
+      "issues": []
+    },
+    {
+      "chapter": 22,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 23,
+      "total": 57,
+      "certified": 57,
+      "issues": []
+    },
+    {
+      "chapter": 24,
+      "total": 7,
+      "certified": 7,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "total": 26,
+      "certified": 26,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "total": 39,
+      "certified": 39,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "total": 43,
+      "certified": 43,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "total": 44,
+      "certified": 44,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "total": 29,
+      "certified": 29,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 0,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

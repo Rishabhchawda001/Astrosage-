@@ -1,0 +1,2338 @@
+{
+  "file": "madhva_gita_bhashya_gretil_prose.json",
+  "title": "Mahābhāratatātparyanirṇaya",
+  "status": "partially_certified",
+  "total_akus": 5260,
+  "certified_akus": 4468,
+  "issues": [],
+  "class_distribution": {
+    "mantra": 1,
+    "verse": 4335,
+    "prose": 539,
+    "commentary": 127,
+    "heading": 37,
+    "metadata": 63,
+    "empty": 34,
+    "colophon": 35,
+    "translation": 63,
+    "ocr_artifact": 5,
+    "unknown": 17,
+    "sutra": 4
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 143,
+      "certified": 118,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.50",
+          "from": 209,
+          "to": 50
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.26",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.28",
+          "body": "|"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.3.2"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.61",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.80",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.112",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.132",
+          "body": "|"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.21"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 56,
+      "certified": 35,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 51,
+          "to": 5
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 5,
+          "aku_ref": "5.5.1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 177,
+      "certified": 151,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.33.11",
+          "from": 50,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 173,
+          "to": 2
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.3.50"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.33.11"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.1"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.15.1"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.52",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.61",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.83",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.101",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.108",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 88,
+      "certified": 74,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.3",
+          "from": 59,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.8",
+          "from": 17,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 82,
+          "to": 3
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.1.3"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.3.59"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.8"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.10",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 72,
+      "certified": 59,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 11,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.14.3",
+          "from": 13,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.10.6",
+          "from": 65,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.11"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.17.5"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "total": 63,
+      "certified": 42,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 106,
+          "to": 6
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "6.23"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 53,
+      "certified": 45,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.40.5",
+          "from": 7,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.2",
+          "from": 5,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7",
+          "from": 49,
+          "to": 7
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "7.2"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "total": 252,
+      "certified": 226,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.3.4",
+          "from": 8,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8",
+          "from": 248,
+          "to": 8
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 8,
+          "aku_ref": "8",
+          "end": "Ṛgveda",
+          "start": "vii.muktān"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.10",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.21",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "total": 117,
+      "certified": 85,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 14,
+          "aku_ref": "14",
+          "from": 112,
+          "to": 14
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 14,
+          "aku_ref": "14",
+          "body": "|"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 14,
+          "aku_ref": "14.1"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "total": 147,
+      "certified": 124,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 9,
+          "aku_ref": "9.135.2",
+          "from": 135,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 9,
+          "aku_ref": "9.4",
+          "from": 137,
+          "to": 4
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 9,
+          "aku_ref": "9.11"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 9,
+          "aku_ref": "9.12"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 9,
+          "aku_ref": "9.13"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 9,
+          "aku_ref": "9.8.96"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "total": 93,
+      "certified": 84,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10.125.5",
+          "from": 10,
+          "to": 5
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "10.125.5"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "10.55.6"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "10.86",
+          "end": "mo'dhyāyaḥ",
+          "start": "cdii.enaṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "total": 235,
+      "certified": 203,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 11,
+          "aku_ref": "11.43",
+          "from": 54,
+          "to": 43
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 11,
+          "aku_ref": "11",
+          "from": 231,
+          "to": 11
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "11.43"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 144,
+      "certified": 122,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "12.334.9",
+          "from": 12,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "12.70.6",
+          "from": 136,
+          "to": 6
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "12.337.64",
+          "body": "*"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "12.337.67",
+          "body": "*"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "12.338.1",
+          "body": "*"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "total": 140,
+      "certified": 116,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 13,
+          "aku_ref": "13",
+          "from": 138,
+          "to": 13
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 13,
+          "aku_ref": "13.44",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "total": 69,
+      "certified": 56,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 15,
+          "aku_ref": "15",
+          "from": 66,
+          "to": 15
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 15,
+          "aku_ref": "15.19"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "total": 41,
+      "certified": 26,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 16,
+          "aku_ref": "16.6",
+          "from": 16,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 16,
+          "aku_ref": "16",
+          "from": 33,
+          "to": 16
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 16,
+          "aku_ref": "16.6"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 16,
+          "aku_ref": "16.8"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 16,
+          "aku_ref": "16.14"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 16,
+          "aku_ref": "16.18"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 16,
+          "aku_ref": "16.19"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 16,
+          "aku_ref": "16.20"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "total": 226,
+      "certified": 136,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 19,
+          "aku_ref": "19",
+          "from": 223,
+          "to": 19
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "total": 299,
+      "certified": 293,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 17,
+          "aku_ref": "17",
+          "from": 297,
+          "to": 17
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "total": 161,
+      "certified": 141,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 18,
+          "aku_ref": "18.65",
+          "from": 154,
+          "to": 65
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 18,
+          "aku_ref": "18.46",
+          "from": 65,
+          "to": 46
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 18,
+          "aku_ref": "18",
+          "from": 46,
+          "to": 18
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 18,
+          "aku_ref": "18.20"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 18,
+          "aku_ref": "18.64"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 18,
+          "aku_ref": "18.65"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "total": 246,
+      "certified": 229,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 20,
+          "aku_ref": "20",
+          "from": 244,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "total": 401,
+      "certified": 367,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 21,
+          "aku_ref": "21",
+          "from": 399,
+          "to": 21
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 21,
+          "aku_ref": "21.53",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "total": 432,
+      "certified": 362,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 22,
+          "aku_ref": "22",
+          "from": 431,
+          "to": 22
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 22,
+          "aku_ref": "22.162",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 22,
+          "aku_ref": "22.195",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "total": 83,
+      "certified": 73,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 24,
+          "aku_ref": "24",
+          "from": 80,
+          "to": 24
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 24,
+          "aku_ref": "24",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "total": 59,
+      "certified": 48,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 23,
+          "aku_ref": "23",
+          "from": 57,
+          "to": 23
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "total": 138,
+      "certified": 125,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 25,
+          "aku_ref": "25",
+          "from": 136,
+          "to": 25
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "total": 310,
+      "certified": 267,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 26,
+          "aku_ref": "26",
+          "from": 307,
+          "to": 26
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "total": 186,
+      "certified": 159,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 27,
+          "aku_ref": "27",
+          "from": 184,
+          "to": 27
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "total": 228,
+      "certified": 203,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 28,
+          "aku_ref": "28",
+          "from": 226,
+          "to": 28
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "total": 61,
+      "certified": 53,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 29,
+          "aku_ref": "29",
+          "from": 58,
+          "to": 29
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "total": 171,
+      "certified": 155,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 30,
+          "aku_ref": "30",
+          "from": 169,
+          "to": 30
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 30,
+          "aku_ref": "30.44",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "total": 72,
+      "certified": 67,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 31,
+          "aku_ref": "31",
+          "from": 69,
+          "to": 31
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "total": 169,
+      "certified": 145,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 32,
+          "aku_ref": "32",
+          "from": 167,
+          "to": 32
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 35,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 35,
+          "aku_ref": "35",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 38,
+          "aku_ref": "38",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 36,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 37,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 39,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 41,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 41,
+          "aku_ref": "41",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 43,
+          "aku_ref": "43",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 40,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 42,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 45,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 46,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 47,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 48,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 49,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 50,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 51,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 51,
+          "aku_ref": "51",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 52,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 53,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 54,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 55,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 56,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 57,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 58,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 59,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 60,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 61,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 62,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 64,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 65,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 65,
+          "aku_ref": "65",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 66,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 66,
+          "aku_ref": "66",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 67,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 67,
+          "aku_ref": "67"
+        }
+      ]
+    },
+    {
+      "chapter": 68,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 69,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 69,
+          "aku_ref": "69",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 70,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 70,
+          "aku_ref": "70",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 71,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 72,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 73,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 73,
+          "aku_ref": "73",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 74,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 75,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 75,
+          "aku_ref": "75",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 102,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 77,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 78,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 78,
+          "aku_ref": "78",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 79,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 79,
+          "aku_ref": "79",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 80,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 80,
+          "aku_ref": "80",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 81,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 82,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 82,
+          "aku_ref": "82"
+        }
+      ]
+    },
+    {
+      "chapter": 83,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 83,
+          "aku_ref": "83",
+          "body": "|"
+        }
+      ]
+    },
+    {
+      "chapter": 84,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 85,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 63,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 76,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.50",
+      "from": 209,
+      "to": 50
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 51,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.33.11",
+      "from": 50,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 173,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.3",
+      "from": 59,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.8",
+      "from": 17,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 82,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 11,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.14.3",
+      "from": 13,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.10.6",
+      "from": 65,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 106,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.40.5",
+      "from": 7,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.2",
+      "from": 5,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7",
+      "from": 49,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.3.4",
+      "from": 8,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8",
+      "from": 248,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 14,
+      "aku_ref": "14",
+      "from": 112,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 9,
+      "aku_ref": "9.135.2",
+      "from": 135,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 9,
+      "aku_ref": "9.4",
+      "from": 137,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10.125.5",
+      "from": 10,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 11,
+      "aku_ref": "11.43",
+      "from": 54,
+      "to": 43
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 11,
+      "aku_ref": "11",
+      "from": 231,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "12.334.9",
+      "from": 12,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "12.70.6",
+      "from": 136,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 13,
+      "aku_ref": "13",
+      "from": 138,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 15,
+      "aku_ref": "15",
+      "from": 66,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 16,
+      "aku_ref": "16.6",
+      "from": 16,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 16,
+      "aku_ref": "16",
+      "from": 33,
+      "to": 16
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 19,
+      "aku_ref": "19",
+      "from": 223,
+      "to": 19
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 17,
+      "aku_ref": "17",
+      "from": 297,
+      "to": 17
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 18,
+      "aku_ref": "18.65",
+      "from": 154,
+      "to": 65
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 18,
+      "aku_ref": "18.46",
+      "from": 65,
+      "to": 46
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 18,
+      "aku_ref": "18",
+      "from": 46,
+      "to": 18
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 20,
+      "aku_ref": "20",
+      "from": 244,
+      "to": 20
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 21,
+      "aku_ref": "21",
+      "from": 399,
+      "to": 21
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 22,
+      "aku_ref": "22",
+      "from": 431,
+      "to": 22
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 24,
+      "aku_ref": "24",
+      "from": 80,
+      "to": 24
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 23,
+      "aku_ref": "23",
+      "from": 57,
+      "to": 23
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 25,
+      "aku_ref": "25",
+      "from": 136,
+      "to": 25
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 26,
+      "aku_ref": "26",
+      "from": 307,
+      "to": 26
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 27,
+      "aku_ref": "27",
+      "from": 184,
+      "to": 27
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 28,
+      "aku_ref": "28",
+      "from": 226,
+      "to": 28
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 29,
+      "aku_ref": "29",
+      "from": 58,
+      "to": 29
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 30,
+      "aku_ref": "30",
+      "from": 169,
+      "to": 30
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 31,
+      "aku_ref": "31",
+      "from": 69,
+      "to": 31
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 32,
+      "aku_ref": "32",
+      "from": 167,
+      "to": 32
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.26",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.28",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.3.2"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.61",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.80",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.112",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.132",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.21"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 5,
+      "aku_ref": "5.5.1"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.3.50"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.33.11"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.1"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.15.1"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.52",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.61",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.83",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.101",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.108",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.1.3"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.3.59"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.8"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.10",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.11"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.17.5"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "6.23"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "7.2"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 8,
+      "aku_ref": "8",
+      "end": "Ṛgveda",
+      "start": "vii.muktān"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.10",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.21",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 14,
+      "aku_ref": "14",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 14,
+      "aku_ref": "14.1"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 9,
+      "aku_ref": "9.11"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 9,
+      "aku_ref": "9.12"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 9,
+      "aku_ref": "9.13"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 9,
+      "aku_ref": "9.8.96"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "10.125.5"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "10.55.6"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "10.86",
+      "end": "mo'dhyāyaḥ",
+      "start": "cdii.enaṃ"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "11.43"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "12.337.64",
+      "body": "*"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "12.337.67",
+      "body": "*"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "12.338.1",
+      "body": "*"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 13,
+      "aku_ref": "13.44",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 15,
+      "aku_ref": "15.19"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 16,
+      "aku_ref": "16.6"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 16,
+      "aku_ref": "16.8"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 16,
+      "aku_ref": "16.14"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 16,
+      "aku_ref": "16.18"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 16,
+      "aku_ref": "16.19"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 16,
+      "aku_ref": "16.20"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 18,
+      "aku_ref": "18.20"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 18,
+      "aku_ref": "18.64"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 18,
+      "aku_ref": "18.65"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 21,
+      "aku_ref": "21.53",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 22,
+      "aku_ref": "22.162",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 22,
+      "aku_ref": "22.195",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 24,
+      "aku_ref": "24",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 30,
+      "aku_ref": "30.44",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 35,
+      "aku_ref": "35",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 38,
+      "aku_ref": "38",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 41,
+      "aku_ref": "41",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 43,
+      "aku_ref": "43",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 51,
+      "aku_ref": "51",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 65,
+      "aku_ref": "65",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 66,
+      "aku_ref": "66",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 67,
+      "aku_ref": "67"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 69,
+      "aku_ref": "69",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 70,
+      "aku_ref": "70",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 73,
+      "aku_ref": "73",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 75,
+      "aku_ref": "75",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 78,
+      "aku_ref": "78",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 79,
+      "aku_ref": "79",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 80,
+      "aku_ref": "80",
+      "body": "|"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 82,
+      "aku_ref": "82"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 83,
+      "aku_ref": "83",
+      "body": "|"
+    }
+  ]
+}

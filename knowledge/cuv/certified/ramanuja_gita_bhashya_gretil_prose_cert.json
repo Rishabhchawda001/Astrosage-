@@ -1,0 +1,501 @@
+{
+  "file": "ramanuja_gita_bhashya_gretil_prose.json",
+  "title": "Bhagavadgītābhāṣya",
+  "status": "needs_work",
+  "total_akus": 1738,
+  "certified_akus": 2,
+  "issues": [],
+  "class_distribution": {
+    "commentary": 812,
+    "translation": 578,
+    "prose": 268,
+    "colophon": 3,
+    "metadata": 35,
+    "unknown": 20,
+    "critical_apparatus": 8,
+    "heading": 12,
+    "ocr_artifact": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1726,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "sthitau",
+          "start": "tasya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "sthitau",
+          "start": "trailokyaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṇḍu-tanayo",
+          "start": "jñānaśakti"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "sabhrātṛko",
+          "start": "bhavadbhir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "haniṣya",
+          "start": "bhavadbhir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "bhūtvā",
+          "start": "uktair"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "bhūtvā",
+          "start": "bhūyaḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "niṣṭhārūpā",
+          "start": "śrutiḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "iṣṭhā-rūpā",
+          "start": "sthitapraj"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "vihāya",
+          "start": "kāmyanta"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "vihāya",
+          "start": "tatra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ana-bhūtaṃ",
+          "start": "śarīram"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "maivācaran",
+          "start": "avidvāṃsaḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "acaran",
+          "start": "sakalakarm"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "atroktam",
+          "start": "bhakti-yog"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "vibhāgaṃ",
+          "start": "atītena"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "vibhāgaṃ",
+          "start": "iṣṭāniṣṭav"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pṛcchate",
+          "start": "dhṛtarāṣṭr"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "BhGR_2.9",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "BhGR_2.9",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "BhGR_3.10",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "BhGR_3.10",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "BhGR_10.18",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "BhGR_10.18",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 11,
+          "aku_ref": "BhGR_11.31",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 11,
+          "aku_ref": "BhGR_11.31",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 14,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 14,
+          "aku_ref": "BhGR_14.26",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 14,
+          "aku_ref": "BhGR_14.26",
+          "body": "//"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "sthitau",
+      "start": "tasya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "sthitau",
+      "start": "trailokyaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṇḍu-tanayo",
+      "start": "jñānaśakti"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "sabhrātṛko",
+      "start": "bhavadbhir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "haniṣya",
+      "start": "bhavadbhir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "bhūtvā",
+      "start": "uktair"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "bhūtvā",
+      "start": "bhūyaḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "niṣṭhārūpā",
+      "start": "śrutiḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "iṣṭhā-rūpā",
+      "start": "sthitapraj"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "vihāya",
+      "start": "kāmyanta"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "vihāya",
+      "start": "tatra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ana-bhūtaṃ",
+      "start": "śarīram"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "maivācaran",
+      "start": "avidvāṃsaḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "acaran",
+      "start": "sakalakarm"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "atroktam",
+      "start": "bhakti-yog"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "vibhāgaṃ",
+      "start": "atītena"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "vibhāgaṃ",
+      "start": "iṣṭāniṣṭav"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pṛcchate",
+      "start": "dhṛtarāṣṭr"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "BhGR_2.9",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "BhGR_2.9",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "BhGR_3.10",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "BhGR_3.10",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "BhGR_10.18",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "BhGR_10.18",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 11,
+      "aku_ref": "BhGR_11.31",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 11,
+      "aku_ref": "BhGR_11.31",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 14,
+      "aku_ref": "BhGR_14.26",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 14,
+      "aku_ref": "BhGR_14.26",
+      "body": "//"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "file": "vamana_puran_saromahatmya_gretil_prose.json",
+  "title": "Vāmanapurāṇa, Saromāhātmya",
+  "status": "needs_work",
+  "total_akus": 44,
+  "certified_akus": 6,
+  "issues": [],
+  "class_distribution": {
+    "colophon": 24,
+    "prose": 13,
+    "unknown": 2,
+    "heading": 4,
+    "mantra": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 34,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "kaśyapa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "prasādya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "tatra"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "VamPSm_3.2",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "VamPSm_3.6",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 15,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 20,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "VamPSm_6.13",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "VamPSm_12.3",
+          "body": "//"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "kaśyapa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "prasādya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "tatra"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "VamPSm_3.2",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "VamPSm_3.6",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "VamPSm_6.13",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "VamPSm_12.3",
+      "body": "//"
+    }
+  ]
+}

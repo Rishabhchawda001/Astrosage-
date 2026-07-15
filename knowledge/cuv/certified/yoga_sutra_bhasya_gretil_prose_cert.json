@@ -1,0 +1,3182 @@
+{
+  "file": "yoga_sutra_bhasya_gretil_prose.json",
+  "title": "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+  "status": "needs_work",
+  "total_akus": 517,
+  "certified_akus": 11,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 3,
+    "commentary": 132,
+    "verse": 60,
+    "prose": 46,
+    "sutra": 9,
+    "translation": 12,
+    "colophon": 6,
+    "empty": 190,
+    "heading": 59
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 257,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ogaśāstram",
+          "start": "athety"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 72,
+      "certified": 4,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.1"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.2",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.2"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.3",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.3"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.4",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.4"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.5",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.5"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.6"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.7"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.8"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.9"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.10"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.11"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.12",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.12"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.13"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.14"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.15"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.16"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.17",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.17"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.18",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.18"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.19",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.19"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.20"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.21",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.21"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.22"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.23",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.23"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.24",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.24"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.25",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.25"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.26",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.26"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.27"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.28",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.29",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.29"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.30"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.31"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.32",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.32"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.33"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.34"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.35"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.36"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.37"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.38"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.39"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.40"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.41"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.42"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.43",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.43"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.44"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.45"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.46"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.48"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.49",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.49"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "YS_1.50",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.50"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1.51"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 82,
+      "certified": 4,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.1",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.1"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.2",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.2"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.3",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.3"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.4"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.5",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.5"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.6"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.7"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.8"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.9"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.10"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.11",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.11"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.12"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.13"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.14"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.15"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.16",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.16"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.17",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.17"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.18"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.19",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.19"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.20",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.20"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.21"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.22",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.22"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.23",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.23"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.24"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.25",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.25"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.26",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.26"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.27"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.28",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.28"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.29"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.30",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.30"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.31",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.31"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.32"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.33",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.33"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.34"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.35",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.35"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.36"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.37"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.38"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.39"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.40",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.40"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.41",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.41"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.42"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.43"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.44"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.45"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.46",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.46"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.47"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.48"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.49"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.50"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.51"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.52"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.53",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.53"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "YS_2.54",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.54"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.55"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 60,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "YS_3.1",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.1"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.2"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.3"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.4"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.5"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.7"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.8"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.9"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.10"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.11"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.12"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.13"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "YS_3.14",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.14"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.15"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "YS_3.16",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.16"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.17"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.18"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.19"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.20"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.21"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.22"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.23"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.24"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.25"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.26"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.27"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.28"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.29"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.30"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.31"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.32"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.33"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.34"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.35"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.36"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.37"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.38"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.39"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.40"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.41"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.42"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.43"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.44"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.45"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.46"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.47"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.48"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.49"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.50"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.51"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.52"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "YS_3.53",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.53"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.54"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "YS_3.55",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.55"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 46,
+      "certified": 2,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.1"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.2",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.2"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.3"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.4",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.4"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.5"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.6"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.7",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.7"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.8"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.9"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.10"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.11"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.12",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.12"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.14",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.14"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.15",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.15"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.16"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.17"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.18",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.18"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.19",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.19"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.20"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.21",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.21"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.22"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.23",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.23"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.24",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.24"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.25"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.26"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.27"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.28"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.29"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.30"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.32"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "YS_4.33",
+          "body": "||"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.33"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4.34"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ogaśāstram",
+      "start": "athety"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.1"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.2",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.2"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.3",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.3"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.4",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.4"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.5",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.5"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.6"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.7"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.8"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.9"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.10"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.11"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.12",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.12"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.13"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.14"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.15"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.16"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.17",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.17"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.18",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.18"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.19",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.19"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.20"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.21",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.21"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.22"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.23",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.23"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.24",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.24"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.25",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.25"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.26",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.26"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.27"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.28",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.29",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.29"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.30"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.31"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.32",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.32"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.33"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.34"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.35"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.36"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.37"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.38"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.39"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.40"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.41"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.42"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.43",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.43"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.44"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.45"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.46"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.48"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.49",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.49"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "YS_1.50",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.50"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1.51"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.1",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.1"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.2",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.2"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.3",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.3"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.4"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.5",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.5"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.6"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.7"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.8"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.9"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.10"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.11",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.11"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.12"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.13"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.14"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.15"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.16",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.16"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.17",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.17"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.18"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.19",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.19"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.20",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.20"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.21"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.22",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.22"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.23",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.23"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.24"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.25",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.25"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.26",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.26"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.27"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.28",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.28"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.29"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.30",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.30"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.31",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.31"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.32"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.33",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.33"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.34"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.35",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.35"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.36"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.37"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.38"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.39"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.40",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.40"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.41",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.41"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.42"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.43"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.44"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.45"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.46",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.46"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.47"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.48"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.49"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.50"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.51"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.52"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.53",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.53"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "YS_2.54",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.54"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.55"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "YS_3.1",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.1"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.2"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.3"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.4"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.5"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.7"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.8"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.9"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.10"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.11"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.12"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.13"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "YS_3.14",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.14"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.15"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "YS_3.16",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.16"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.17"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.18"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.19"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.20"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.21"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.22"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.23"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.24"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.25"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.26"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.27"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.28"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.29"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.30"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.31"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.32"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.33"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.34"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.35"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.36"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.37"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.38"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.39"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.40"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.41"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.42"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.43"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.44"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.45"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.46"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.47"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.48"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.49"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.50"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.51"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.52"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "YS_3.53",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.53"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.54"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "YS_3.55",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.55"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.1"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.2",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.2"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.3"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.4",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.4"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.5"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.6"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.7",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.7"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.8"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.9"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.10"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.11"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.12",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.12"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.14",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.14"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.15",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.15"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.16"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.17"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.18",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.18"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.19",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.19"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.20"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.21",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.21"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.22"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.23",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.23"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.24",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.24"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.25"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.26"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.27"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.28"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.29"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.30"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.32"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "YS_4.33",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.33"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4.34"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "file": "shiva_sutra_varttika_gretil_prose.json",
+  "title": "Śivasūtra with vārttika",
+  "status": "mostly_certified",
+  "total_akus": 153,
+  "certified_akus": 150,
+  "issues": [],
+  "class_distribution": {
+    "sutra": 1,
+    "verse": 140,
+    "commentary": 7,
+    "prose": 2,
+    "heading": 3
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 150,
+      "certified": 150,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "SivS_1.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "SivS_2.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "SivS_3.1",
+          "body": "//"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "SivS_1.1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "SivS_2.1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "SivS_3.1",
+      "body": "//"
+    }
+  ]
+}

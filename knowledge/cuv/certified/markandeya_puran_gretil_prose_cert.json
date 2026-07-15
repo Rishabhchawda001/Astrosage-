@@ -1,0 +1,5604 @@
+{
+  "file": "markandeya_puran_gretil_prose.json",
+  "title": "Mārkaṇḍeyapurāṇa, 1-93",
+  "status": "needs_work",
+  "total_akus": 769,
+  "certified_akus": 0,
+  "issues": [],
+  "class_distribution": {
+    "prose": 55,
+    "heading": 12,
+    "unknown": 465,
+    "metadata": 104,
+    "colophon": 88,
+    "translation": 2,
+    "empty": 43
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 713,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "eyapurāṇam",
+          "start": "prathamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "miniruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvitīyo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "tṛtīyo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "caturtho"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "miniruvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "miniruvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pañcamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣaṣṭho"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭhodhyāyaḥ",
+          "start": "saptamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dharmapakṣ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "viśvāmitra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "jaiminiruv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "miniruvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "rājapatnyu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "rājapatnyu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "rājapatnyu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "rājapatnyu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "navamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "vaśiṣṭha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "daśamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "jaiminiruv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "miniruvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pitovāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekādaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvādaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "trayodaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "caturdaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "yamakiṅkar"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pañcadaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "yamakiṅkar"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "yamapuruṣa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "yamapuruṣa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "indra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "dharma"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "indra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣoḍaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pitāvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pitāvāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pitāvāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pitovāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "nasūyovāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "nasūyovāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "nasūyovāca",
+          "start": "brāhmaṇyuv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "hmaṇyuvāca",
+          "start": "anasūyovāc"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "nasūyovāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "nasūyovāca",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "saptadaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭādaśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patiruvāca",
+          "start": "garga"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekonaviṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "viṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "pitovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pitovāca",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "pitovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pitovāca",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekaviṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pitovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pitovāca",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "stryuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "stryuvāca",
+          "start": "kuvalayāśv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "kuṇḍalovāc"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "uṇḍalovāca",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "kuṇḍalovāc"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "uṇḍalovāca",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvāviṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "tālaketuru"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "keturuvāca",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "trayoviṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "putrāvūcat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāvūcatuḥ",
+          "start": "ṛtadhvaja"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "svatyuvāca",
+          "start": "aśvatara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "caturviśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "trāpūcatuḥ",
+          "start": "aśvatara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pañcaviṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣaḍviṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "madālasauv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ālasauvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "madālasovā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "saptaviṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭāviṃśo"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 0,
+          "aku_ref": null,
+          "body": "#1"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "alarka"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "dālasovāca",
+          "start": "vaiśvadeva"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "triṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "madālasovā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "dālasovāca",
+          "start": "yugmāścātr"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekatriṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "madālasovā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvātriṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "madālasovā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "trayastriṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "madālasovā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "catustriṃś"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "madālasovā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "dālasovāca",
+          "start": "alarka"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "dālasovāca",
+          "start": "pratyavāya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pañcatriṃś"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "madālasovā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "dālasovāca",
+          "start": "asnehāścāp"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣaṭtriṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭatriṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "catvāriṃśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dattātreya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekacatvāri"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "alarka"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvicatvāri"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dattātreya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "tricatvāri"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dattātreya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "catuścatvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "subāhuruvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "bāhuruvāca",
+          "start": "kākhirāja"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "bāhuruvāca",
+          "start": "kāśirāja"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pañcacatvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "jaiminiruv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "miniruvāca",
+          "start": "pakṣiṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "śrīmanmaha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "sapraṇītaṃ",
+          "start": "śrīmārkaṇḍ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "saptacatvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "krauṣṭukir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭacatvār"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ūnapañcāśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adadhyāyaḥ",
+          "start": "pañyāśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekapañcāśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "au'dhyāyaḥ",
+          "start": "dvipañcāśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "tripañcāśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "catuḥpañcā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāya",
+          "start": "pañcapañcā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣaṭpañcāśo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "saptapañcā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭapañcāś"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ūnaṣaṣṭita"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣaṣṭitamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekaṣaṣṭita"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "thinyuvāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "thinyuvāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "thinyuvāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "thinyuvāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "thinyuvāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dviṣaṣṭita"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kaliruvāca",
+          "start": "varūthinyu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kanyovāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rociruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "catuḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "pañcaṣaṣṭi"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "saptatitam"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "hmaṇyuvāca",
+          "start": "brāhmaṇyuv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "hmaṇyuvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "rākṣasa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "rākṣasa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekasaptati"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ṛṣīruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣīruvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvisaptati"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "brāhmaṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "patnyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "patnyuvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "trisaptati"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "catuḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "mṛgyuvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "mṛgyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "mṛgyuvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "tavāguvāca",
+          "start": "ṛtavāguvāc"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "tavāguvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ekastāvada"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "rājovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "kanyovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kanyovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "kanyovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kanyovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "kanyovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kanyovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣaṭsaptati"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "gururuvāca",
+          "start": "ānanda"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "gururuvāca",
+          "start": "ānanda"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "gururuvāca",
+          "start": "ānanda"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "brahmovāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ptatitamaḥ",
+          "start": "saptasapta"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "saṃjñovāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭasaptat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ūnāśītitam"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aśītitamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṭukiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekāśītitam"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "vaiśca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājauvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "rojovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rojovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "brahmovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "brahmovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "bhagavānuv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "gavānuvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvyaśītita"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "tiṣṭha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "tryaśītita"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "devyuvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "caturaśīti"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣīruvāca",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dyāyaḥ",
+          "start": "pañcāśītit"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣirūvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "śumbha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ṣaḍaśītita"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "śrīdevyuvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "īdevyuvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "saptaśītit"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "śrīdevyuvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "aṣṭāśītita"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekonanavat"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rājovāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "navatitamo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "īdevyuvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "śrīdevyuvā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "īdevyuvāca",
+          "start": "ṛṣiruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "jajvaluścā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "ekanavatit"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "dvinavatit"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "trinavatit"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ṛṣiruvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "īdevyuvāca",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "īdevyuvāca",
+          "start": "mārkaṇḍeya"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "MarkP_7.65",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 48,
+          "aku_ref": "48"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "MarkP_8.49",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "MarkP_8.124",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 23,
+          "aku_ref": "MarkP_23.21",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 39,
+          "aku_ref": "MarkP_39.27",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 47,
+          "aku_ref": "47"
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 49,
+          "aku_ref": "MarkP_49.36",
+          "from": 49,
+          "to": 36
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 49,
+          "aku_ref": "49"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 49,
+          "aku_ref": "MarkP_49.36",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 50,
+          "aku_ref": "50"
+        }
+      ]
+    },
+    {
+      "chapter": 51,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 51,
+          "aku_ref": "51"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 51,
+          "aku_ref": "MarkP_51.92",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 52,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 52,
+          "aku_ref": "52"
+        }
+      ]
+    },
+    {
+      "chapter": 53,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 53,
+          "aku_ref": "53"
+        }
+      ]
+    },
+    {
+      "chapter": 54,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 54,
+          "aku_ref": "54"
+        }
+      ]
+    },
+    {
+      "chapter": 55,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 55,
+          "aku_ref": "55"
+        }
+      ]
+    },
+    {
+      "chapter": 56,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 56,
+          "aku_ref": "56.13",
+          "from": 56,
+          "to": 13
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 56,
+          "aku_ref": "56"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 56,
+          "aku_ref": "MarkP_56.14",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 57,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 57,
+          "aku_ref": "57"
+        }
+      ]
+    },
+    {
+      "chapter": 58,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 58,
+          "aku_ref": "58"
+        }
+      ]
+    },
+    {
+      "chapter": 59,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 59,
+          "aku_ref": "59"
+        }
+      ]
+    },
+    {
+      "chapter": 60,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 60,
+          "aku_ref": "60"
+        }
+      ]
+    },
+    {
+      "chapter": 61,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 61,
+          "aku_ref": "MarkP_61.8",
+          "from": 61,
+          "to": 8
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 61,
+          "aku_ref": "61"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 61,
+          "aku_ref": "MarkP_61.8",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 62,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 62,
+          "aku_ref": "62"
+        }
+      ]
+    },
+    {
+      "chapter": 63,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 63,
+          "aku_ref": "63"
+        }
+      ]
+    },
+    {
+      "chapter": 64,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 64,
+          "aku_ref": "64"
+        }
+      ]
+    },
+    {
+      "chapter": 65,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 65,
+          "aku_ref": "65"
+        }
+      ]
+    },
+    {
+      "chapter": 70,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 70,
+          "aku_ref": "70"
+        }
+      ]
+    },
+    {
+      "chapter": 71,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 71,
+          "aku_ref": "71"
+        }
+      ]
+    },
+    {
+      "chapter": 72,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "72"
+        }
+      ]
+    },
+    {
+      "chapter": 73,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 73,
+          "aku_ref": "73"
+        }
+      ]
+    },
+    {
+      "chapter": 74,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 74,
+          "aku_ref": "74"
+        }
+      ]
+    },
+    {
+      "chapter": 75,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 75,
+          "aku_ref": "MarkP_75.38",
+          "from": 75,
+          "to": 38
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 75,
+          "aku_ref": "75"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 75,
+          "aku_ref": "MarkP_75.38",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 76,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 76,
+          "aku_ref": "76"
+        }
+      ]
+    },
+    {
+      "chapter": 77,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 77,
+          "aku_ref": "77"
+        }
+      ]
+    },
+    {
+      "chapter": 78,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 78,
+          "aku_ref": "78"
+        }
+      ]
+    },
+    {
+      "chapter": 79,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 79,
+          "aku_ref": "79"
+        }
+      ]
+    },
+    {
+      "chapter": 80,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 80,
+          "aku_ref": "80"
+        }
+      ]
+    },
+    {
+      "chapter": 81,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 81,
+          "aku_ref": "81"
+        }
+      ]
+    },
+    {
+      "chapter": 82,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 82,
+          "aku_ref": "MarkP_82.65",
+          "from": 82,
+          "to": 65
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 82,
+          "aku_ref": "82"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 82,
+          "aku_ref": "MarkP_82.65",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 83,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 83,
+          "aku_ref": "83"
+        }
+      ]
+    },
+    {
+      "chapter": 84,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 84,
+          "aku_ref": "84"
+        }
+      ]
+    },
+    {
+      "chapter": 85,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 85,
+          "aku_ref": "85"
+        }
+      ]
+    },
+    {
+      "chapter": 86,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 86,
+          "aku_ref": "86"
+        }
+      ]
+    },
+    {
+      "chapter": 87,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 87,
+          "aku_ref": "87"
+        }
+      ]
+    },
+    {
+      "chapter": 88,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 88,
+          "aku_ref": "88"
+        }
+      ]
+    },
+    {
+      "chapter": 89,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 89,
+          "aku_ref": "89"
+        }
+      ]
+    },
+    {
+      "chapter": 90,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 90,
+          "aku_ref": "90"
+        }
+      ]
+    },
+    {
+      "chapter": 91,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 91,
+          "aku_ref": "91"
+        }
+      ]
+    },
+    {
+      "chapter": 92,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 92,
+          "aku_ref": "92"
+        }
+      ]
+    },
+    {
+      "chapter": 93,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 93,
+          "aku_ref": "93"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 49,
+      "aku_ref": "MarkP_49.36",
+      "from": 49,
+      "to": 36
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 56,
+      "aku_ref": "56.13",
+      "from": 56,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 61,
+      "aku_ref": "MarkP_61.8",
+      "from": 61,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 75,
+      "aku_ref": "MarkP_75.38",
+      "from": 75,
+      "to": 38
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 82,
+      "aku_ref": "MarkP_82.65",
+      "from": 82,
+      "to": 65
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "eyapurāṇam",
+      "start": "prathamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "miniruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvitīyo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "tṛtīyo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "caturtho"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "miniruvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "miniruvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pañcamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣaṣṭho"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭhodhyāyaḥ",
+      "start": "saptamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dharmapakṣ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "viśvāmitra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "jaiminiruv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "miniruvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "rājapatnyu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "rājapatnyu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "rājapatnyu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "rājapatnyu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "navamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "vaśiṣṭha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "daśamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "jaiminiruv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "miniruvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pitovāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekādaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvādaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "trayodaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "caturdaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "yamakiṅkar"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pañcadaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "yamakiṅkar"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "yamapuruṣa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "yamapuruṣa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "indra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "dharma"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "indra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣoḍaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pitāvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pitāvāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pitāvāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pitovāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "nasūyovāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "nasūyovāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "nasūyovāca",
+      "start": "brāhmaṇyuv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "hmaṇyuvāca",
+      "start": "anasūyovāc"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "nasūyovāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "nasūyovāca",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "saptadaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭādaśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patiruvāca",
+      "start": "garga"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekonaviṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "viṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "pitovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pitovāca",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "pitovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pitovāca",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekaviṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pitovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pitovāca",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "stryuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "stryuvāca",
+      "start": "kuvalayāśv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "kuṇḍalovāc"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "uṇḍalovāca",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "kuṇḍalovāc"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "uṇḍalovāca",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvāviṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "tālaketuru"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "keturuvāca",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "trayoviṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "putrāvūcat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāvūcatuḥ",
+      "start": "ṛtadhvaja"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "svatyuvāca",
+      "start": "aśvatara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "caturviśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "trāpūcatuḥ",
+      "start": "aśvatara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pañcaviṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣaḍviṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "madālasauv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ālasauvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "madālasovā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "saptaviṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭāviṃśo"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 0,
+      "aku_ref": null,
+      "body": "#1"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "alarka"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "dālasovāca",
+      "start": "vaiśvadeva"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "triṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "madālasovā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "dālasovāca",
+      "start": "yugmāścātr"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekatriṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "madālasovā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvātriṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "madālasovā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "trayastriṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "madālasovā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "catustriṃś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "madālasovā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "dālasovāca",
+      "start": "alarka"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "dālasovāca",
+      "start": "pratyavāya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pañcatriṃś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "madālasovā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "dālasovāca",
+      "start": "asnehāścāp"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣaṭtriṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭatriṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "catvāriṃśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dattātreya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekacatvāri"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "alarka"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvicatvāri"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dattātreya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "tricatvāri"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dattātreya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "catuścatvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "subāhuruvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "bāhuruvāca",
+      "start": "kākhirāja"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "bāhuruvāca",
+      "start": "kāśirāja"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pañcacatvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "jaiminiruv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "miniruvāca",
+      "start": "pakṣiṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "śrīmanmaha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "sapraṇītaṃ",
+      "start": "śrīmārkaṇḍ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "saptacatvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "krauṣṭukir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭacatvār"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ūnapañcāśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adadhyāyaḥ",
+      "start": "pañyāśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekapañcāśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "au'dhyāyaḥ",
+      "start": "dvipañcāśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "tripañcāśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "catuḥpañcā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāya",
+      "start": "pañcapañcā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣaṭpañcāśo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "saptapañcā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭapañcāś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ūnaṣaṣṭita"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣaṣṭitamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekaṣaṣṭita"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "thinyuvāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "thinyuvāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "thinyuvāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "thinyuvāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "thinyuvāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dviṣaṣṭita"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kaliruvāca",
+      "start": "varūthinyu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kanyovāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rociruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "catuḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "pañcaṣaṣṭi"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "saptatitam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "hmaṇyuvāca",
+      "start": "brāhmaṇyuv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "hmaṇyuvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "rākṣasa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "rākṣasa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekasaptati"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ṛṣīruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣīruvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvisaptati"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "brāhmaṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "patnyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "patnyuvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "trisaptati"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "catuḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "mṛgyuvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "mṛgyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "mṛgyuvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "tavāguvāca",
+      "start": "ṛtavāguvāc"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "tavāguvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ekastāvada"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "rājovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "kanyovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kanyovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "kanyovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kanyovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "kanyovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kanyovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣaṭsaptati"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "gururuvāca",
+      "start": "ānanda"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "gururuvāca",
+      "start": "ānanda"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "gururuvāca",
+      "start": "ānanda"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "brahmovāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ptatitamaḥ",
+      "start": "saptasapta"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "saṃjñovāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭasaptat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ūnāśītitam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aśītitamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṭukiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekāśītitam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "vaiśca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājauvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "rojovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rojovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "brahmovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "brahmovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "bhagavānuv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "gavānuvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvyaśītita"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "tiṣṭha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "tryaśītita"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "devyuvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "caturaśīti"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣīruvāca",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dyāyaḥ",
+      "start": "pañcāśītit"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣirūvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "śumbha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ṣaḍaśītita"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "śrīdevyuvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "īdevyuvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "saptaśītit"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "śrīdevyuvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "aṣṭāśītita"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekonanavat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rājovāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "navatitamo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "īdevyuvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "śrīdevyuvā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "īdevyuvāca",
+      "start": "ṛṣiruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "jajvaluścā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "ekanavatit"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "dvinavatit"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "trinavatit"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ṛṣiruvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "īdevyuvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "īdevyuvāca",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "MarkP_7.65",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 48,
+      "aku_ref": "48"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "MarkP_8.49",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "MarkP_8.124",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 23,
+      "aku_ref": "MarkP_23.21",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 39,
+      "aku_ref": "MarkP_39.27",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 47,
+      "aku_ref": "47"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 49,
+      "aku_ref": "49"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 49,
+      "aku_ref": "MarkP_49.36",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 50,
+      "aku_ref": "50"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 51,
+      "aku_ref": "51"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 51,
+      "aku_ref": "MarkP_51.92",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 52,
+      "aku_ref": "52"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 53,
+      "aku_ref": "53"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 54,
+      "aku_ref": "54"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 55,
+      "aku_ref": "55"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 56,
+      "aku_ref": "56"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 56,
+      "aku_ref": "MarkP_56.14",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 57,
+      "aku_ref": "57"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 58,
+      "aku_ref": "58"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 59,
+      "aku_ref": "59"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 60,
+      "aku_ref": "60"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 61,
+      "aku_ref": "61"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 61,
+      "aku_ref": "MarkP_61.8",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 62,
+      "aku_ref": "62"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 63,
+      "aku_ref": "63"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 64,
+      "aku_ref": "64"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 65,
+      "aku_ref": "65"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 70,
+      "aku_ref": "70"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 71,
+      "aku_ref": "71"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "72"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 73,
+      "aku_ref": "73"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 74,
+      "aku_ref": "74"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 75,
+      "aku_ref": "75"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 75,
+      "aku_ref": "MarkP_75.38",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 76,
+      "aku_ref": "76"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 77,
+      "aku_ref": "77"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 78,
+      "aku_ref": "78"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 79,
+      "aku_ref": "79"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 80,
+      "aku_ref": "80"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 81,
+      "aku_ref": "81"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 82,
+      "aku_ref": "82"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 82,
+      "aku_ref": "MarkP_82.65",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 83,
+      "aku_ref": "83"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 84,
+      "aku_ref": "84"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 85,
+      "aku_ref": "85"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 86,
+      "aku_ref": "86"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 87,
+      "aku_ref": "87"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 88,
+      "aku_ref": "88"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 89,
+      "aku_ref": "89"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 90,
+      "aku_ref": "90"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 91,
+      "aku_ref": "91"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 92,
+      "aku_ref": "92"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 93,
+      "aku_ref": "93"
+    }
+  ]
+}

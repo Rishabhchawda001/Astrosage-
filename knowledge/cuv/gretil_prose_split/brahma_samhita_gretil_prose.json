@@ -1,0 +1,2974 @@
+{
+  "file": "brahma_samhita_gretil.xml",
+  "title": "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+  "total_chapters": 41,
+  "total_akus": 680,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 460,
+      "akus": [
+        {
+          "ref": null,
+          "body": "Brahma-saṃhitā - Śrī-Jīva-gosvāmi-kṛta-dig-darśanī-ṭīkā-sahitā"
+        },
+        {
+          "ref": null,
+          "body": "īśvaraḥ paramaḥ kṛṣṇaḥ saccidānanda-vigrahaḥ | anādir ādir govindaḥ sarva-kāraṇa-kāraṇam ||"
+        },
+        {
+          "ref": null,
+          "body": "1 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "śrī-śrī-rādhā-kṛṣṇābhyāṃ namaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "atha śrīmad-bhāgavate yad uktaṃ ete cāṃśa-kalāḥ puṃsaḥ kṛṣṇas tu bhagavān svayam [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ataiva brahmāṇḍa-purāṇe śrī-kṛṣṇāṣṭottara-śata-nāma-stotre -"
+        },
+        {
+          "ref": null,
+          "body": "ity atra śrī-kṛṣṇasyety evoktaṃ yat tv agre govinda-nāmnā stoṣyate tat khalu kṛṣṇatve'pi tasya gavendratva-vaiśiṣṭya-darśanārtham eva |"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ rūḍhitvena prādhānyāt tasya iśvara ity ādīni viśeṣaṇāni | atha guṇa-dvārāpi tad dṛśyate | yathāha gargaḥ -"
+        },
+        {
+          "ref": null,
+          "body": "anayor arthaḥ | asya kṛṣṇatvena dṛśyamānasya prati-yugaṃ tanūr nānāvatārān gṛhṇataḥ prakāśyataḥ śuklādayas trayo āsan prakāśam avāpuḥ | sa ca sa ca śuklādir avatāra idānīṃ sākṣād asyāvatāra-samaye kṛṣṇāṅgataḥ etasminn evāntarbhūtaḥ | ataiva kṛṣṇe kartṛtvāt sarvotkarṣakatvāt kṛṣṇa iti mukhyaṃ nāma | tasmād asyaiva tāni rūpāṇīty āha bahūnīti | tad evaṃ guṇa-dvārā tan-nāmni prādhyānya-sūcakasya kṛṣṇasya tan-nāmnaḥ prādhānye labdhe -"
+        },
+        {
+          "ref": null,
+          "body": "iti yoga-vṛttitve tasya tādṛśatvaṃ labhyate | na cedaṃ padyam anya-param | tad-upāsanā-tantra-gautamīya-tantre aṣṭādaśākṣara-vyākhyāyāṃ tad etat tulyaṃ padyaṃ dṛśyate -"
+        },
+        {
+          "ref": null,
+          "body": "kṛṣi-śabdaś ca sattārtho ṇaś cānanda-svarūpakaḥ | sukha-rūpo bhaved ātmā bhāvānanda-mayatvataḥ || iti |"
+        },
+        {
+          "ref": null,
+          "body": "tasmād ayam arthaḥ - bhavanty asmāt sarve'rthā iti bhūḥ dhātv-artha ucyate bhāva-śadavat sa cātra karṣter evārthas tasyaiva prāptatvāt | gautamīye bhū-śabdasya sattā-vācakatve'pi tad-dhātv-artha-sattaivocyate | ghaṭatvaṃ sattā-vācakam ity ukte ghaṭa-sattaiva gamyate na tu paṭa-sattā na vā sāmānya-satteti |"
+        },
+        {
+          "ref": null,
+          "body": "atha nivṛttir ānandas tayor aikyaṃ sāmānādhikaraṇyena vyaktaṃ yat paraṃ brahma sarvato'pi sarvasyāpi bṛṃhaṇaṃ vastu tat bṛhattamaṃ kṛṣṇa ity abhidhīyate kintu kṛṣer ākarṣa-mātrārthatvena ṇa-śabdasya ca pratipādyenānandena saha sāmānādhikaraṇyāsambhavād dhetu-mator abhedopacāraḥ kāryaḥ | tac cākarṣa-prācuryārtham āyur ghṛtam itivat | brahma-śabdasya tat-tad-arthatvaṃ ca bṛhattvād bṛṃhaṇatvāc ca tad brahma paramaṃ vidur [ViP"
+        },
+        {
+          "ref": null,
+          "body": "evam evoktaṃ bṛhad-gautamīye -"
+        },
+        {
+          "ref": null,
+          "body": "kṛṣi-śabdaś ca sattārtho ṇaś cānanda-svarūpakaḥ | sattā-svānandayor yogāt cit paraṃ brahma cocyate || iti |"
+        },
+        {
+          "ref": null,
+          "body": "advaya-vādibhir api sattānandayor aikyaṃ tathā mantavyam | śābdikair bhinnābhidheyatvena pratīteḥ | sattā-śabdena cātra sarveṣāṃ satāṃ pravṛtti-hetur yat paramaṃ sa tad evocyate | sad eva saumyedam agra āsīd [Chā"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ svarūpa-guṇābhyāṃ parama-bṛhattamaḥ sarvākarṣaka ānandaḥ kṛṣṇa-śabda-vācya iti jñeyam | sa ca śabdaḥ śrī-devakīnandana eva rūḍhaḥ | asyaiva sarvānandakatvaṃ vāsudevopaniṣadi dṛṣṭam - devakī-nandano nikhilam ānandayat iti | āhuś ca nāma-kaumudī-kārāḥ - kṛṣṇa-śabdasya tamāla-śyāmala-tviṣi śrī-yaśodā-stanandhaye para-brahmaṇi rūḍhiḥ iti | tataś cāsau śabdo nānyatra saṅkramaṇīyaḥ | yathāha bhaṭṭaḥ -"
+        },
+        {
+          "ref": null,
+          "body": "iti para-brahmatvaṃ ca śrīmad-bhāgavate gūḍhaṃ paraṃ brahma manuṣya-liṅgam [BhP"
+        },
+        {
+          "ref": null,
+          "body": "atha mūlam anusarāmaḥ | yasmād eva tādṛk kṛṣṇa-śabda-vācyas tasmād īśvaraḥ sarva-vaśāyitā | tad idam upalakṣitaṃ bṛhad-gautamīye kṛṣṇa-śabdasyaivārthāntareṇa |"
+        },
+        {
+          "ref": null,
+          "body": "athavā karṣayet sarvaṃ jagat sthāvara-jaṅgamam | kāla-rūpeṇa bhagavān tenāyaṃ kṛṣṇa ucyate || iti |"
+        },
+        {
+          "ref": null,
+          "body": "kalayati niyamayati sarvam iti kāla-śabdārthaḥ | tathā ca tṛtīye tam uddiśoddhavasya pūrṇa eva nirṇayaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "svayaṃ tv asāmyātiśayas tryadhīśaḥ svārājya-lakṣmy-āpta-samasta-kāmaḥ | baliṃ haradbhiś cira-loka-pālaiḥ kirīṭa-koṭy-eḍita-pāda-pīṭhaḥ || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "śrī-gītāsu viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat [Gītā"
+        },
+        {
+          "ref": null,
+          "body": "śrutvājitaṃ jarāsandhaṃ nṛpater dhyāyato hariḥ | āhopāyaṃ tam evādya uddhavo yam uvāca ha || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ṭīkā ca svāmi-pādānām - ādyo hariḥ śrī-kṛṣṇa ity eṣā | ekādaśe tu tasya śreṣṭhatvam ādyatvaṃ ca yugapad āha | puruṣam ṛṣabham ādyaṃ kṛṣṇa-saṃjñaṃ nato'smi iti |"
+        },
+        {
+          "ref": null,
+          "body": "na caitad āditvaṃ tad-avatārāpekṣaṃ kintu anādi na vidyate ādir yasya tādṛśaḥ | tāpanyāṃ ca -- eko vaśī sarvagaḥ kṛṣṇa īḍyaḥ ity uktvāha nityo nityānām iti ca yasmād eva tādṛśatayā ādis tasmāt sarva-kāraṇa-kāraṇam | tathā ca daśame taṃ prati devakī-vākyam -"
+        },
+        {
+          "ref": null,
+          "body": "yasyāṃśāṃśāṃśa-bhāgena viśvotpatti-layodayāḥ | bhavanti kila viśvātmaṃs taṃ tvādyāhaṃ gatiṃ gatā || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ṭīkā ca - yasyāṃśaḥ puruṣas tasyāṃśo māyā tasyā aṃśā guṇās teṣāṃ bhāgena paramāṇu-mātra-leśena viśvotpatty-ādayo bhavanti | taṃ tvā tvāṃ gatiṃ śaraṇaṃ gatāsmi ity eṣā | tathā ca brahma-stutau - nārāyaṇo'ṅga nara-bhū-jalāyanāt [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ity anena lakṣito yo nārāyaṇaḥ sa tavāṅgaṃ tvaṃ punar aṅgīty arthaḥ | śrī-gītāsu viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat iti | tad evaṃ kṛṣṇa-śabdasya yaugikārtho'pi sādhitaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "ye ca tac-chabdena kṛṣiṇābhyāṃ paramānanda-mātraṃ vācayanti te'pi īśvarādi-viśeṣaṇais tatra svābhāvikī śaktiṃ manyeran | tasmin na dvitīyatvena sarva-kāraṇatvena ca vastv-antara-śaktiṃ manyeran | tasmin na dvitīyatvena sarva-kāraṇatvena ca vastv-antara-śakty-āropāyogāt | tathā ca śrutiḥ - ānando brahma iti | ko hy evānyāt kaḥ prāṇyād yad eṣa ākāśa ānando na syāt | ānandād dhīmāni bhūtāni jāyante | [TaittU"
+        },
+        {
+          "ref": null,
+          "body": "na tasya kāryaṃ karaṇaṃ ca vidyate na tat-samaś cābhyadhikaś ca dṛśyate | parāsya śaktir vividhaiva śrūyate svābhāvikī jñāna-bala-kriyā ca || [ŚvetU"
+        },
+        {
+          "ref": null,
+          "body": "nanu sva-mate yoga-vṛttau ca sarvākarṣakaṃ parama-bṛhattamānandaḥ kṛṣṇa ity abhidhānāt avigraha eva sa ity avagamyate ānandasya vigrahānavagamāt | satyam | kintv ayaṃ paramo'pūrvaḥ pūrva-siddhānanda-vigrahaḥ iti | sac-cid-ānanda-lakṣaṇo yo vigrahas tad-rūpa evety arthaḥ | tathā ca śrī-daśame brahmaṇaḥ stave tvayy eva nitya-sukha-bodha-tanāv iti | tāpanī-hayaśīrṣayor api - sac-cid-ānanada-rūpāya kṛṣṇāyākliṣṭa-kāriṇe iti | brahmāṇḍe ca śrī-kṛṣṇāṣṭottara-śata-nāma-stotre nanda-vraja-janānandī sac-cid-ānanda-vigrahaḥ iti |"
+        },
+        {
+          "ref": null,
+          "body": "etad uktaṃ bhavati | sattvaṃ khalv avyabhicāritvam ucyate tad-rūpatvaṃ ca tasya śrī-daśame brahmādi-vākye -"
+        },
+        {
+          "ref": null,
+          "body": "satye pratiṣṭhitaḥ kṛṣṇaḥ satyam atra pratiṣṭhitam | satyāt satyaṃ ca govindas tasmāt satyo hi nāmataḥ || [Mbh"
+        },
+        {
+          "ref": null,
+          "body": "śrī-devakī-vākye ca --"
+        },
+        {
+          "ref": null,
+          "body": "martyo mṛtyu-vyāla-bhītaḥ palāyan lokān sarvān nirbhayaṃ nādyagacchat | tat-pādābjaṃ prāpya yadṛcchayādya svasthaḥ śete mṛtyur asmād apaiti || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "eko'si prathamam [BhP"
+        },
+        {
+          "ref": null,
+          "body": "yasmāt kṣaram atīto'ham akṣarād api cottamaḥ | ato'smi loke vede ca prathitaḥ puruṣottamaḥ || iti |"
+        },
+        {
+          "ref": null,
+          "body": "tāpanyām -"
+        },
+        {
+          "ref": null,
+          "body": "janma-jarābhyāṃ bhinnaḥ sthānur ayam acchedyo'yaṃ yo'sau saurye tiṣṭhati | yo'sau goṣu tiṣṭhati, yo'sau gāḥ pālayati, yo'sau gopeṣu tiṣṭhati govindān mṛtyur bibheti || [GTU"
+        },
+        {
+          "ref": null,
+          "body": "atha cid-rūpatvaṃ sva-prakāśatvena para-prakāśatvam | tac coktaṃ śrī-daśame brahmaṇā ekas tvam ātmā ity ādau svayaṃ jyotīr iti | tāpanyāṃ -"
+        },
+        {
+          "ref": null,
+          "body": "yo brahmāṇaṃ vidadhāti pūrvaṃ yo vidyāstasmai gopāyati sma kṛṣṇaḥ | taṃ ha daivamātmabuddhiprakāśaṃ mumukṣurvai śaraṇamanuvrajeta || [GTU"
+        },
+        {
+          "ref": null,
+          "body": "na cakṣuṣā paśyati rūpam asya yam evaiṣa vṛṇute tena labhyas tasyaiṣa ātmā vṛṇute tanuṃ svām || ity śruty-antaravat |"
+        },
+        {
+          "ref": null,
+          "body": "yathānanda-svarūpatvaṃ sarvāṃśena nirupādhi-parama-premāspadatvam | tac ca śrī-daśame brahma-stavānte - brahman parodbhave kṛṣṇe [BhP"
+        },
+        {
+          "ref": null,
+          "body": "vidito 'si bhavān sākṣāt puruṣaḥ prakṛteḥ paraḥ kevalānubhavānanda- svarūpaḥ sarva-buddhi-dṛk || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ānandaṃ brahmaṇo rūpaṃ iti śruty-antaravat |"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ tasya sac-cid-ānanda-vigraha-rūpatve siddhe, vigraha evātmā tathātmaiva vigraha iti siddham | tato jīvavad dehitvaṃ tasya nety api siddhāntitam | yathoktaṃ śrī-śukena -"
+        },
+        {
+          "ref": null,
+          "body": "kṛṣṇam enam avehi tvam ātmānam akhilātmanām | jagad-dhitāya so'py atra dehīvābhāti māyayā || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "tathāpi tasya dehival-līlā-kṛpā-paravaśatayaivety arthaḥ | māyā dambhe kṛpāyāṃ ca iti viśva-prakāśaḥ | tad evam asya tathā tathā-lakṣaṇa-śrī-kṛṣṇa-rūptave siddhe cobhaya-līlābhiniviṣṭatvena kvacid vṛṣṇīndratvaṃ kvacid govindatvaṃ ca dṛśyate | tathāha dvādaśe śrī-sūtaḥ --"
+        },
+        {
+          "ref": null,
+          "body": "śrī-kṛṣṇa-kṛṣṇa-sakha-vṛṣṇy-ṛṣabhāvani-dhrug- rājanya-vaṃśa-dahanānapavargya-vīrya | govinda gopa-vanitā-vraja-bhṛtya-gīta- tīrtha-śravaḥ śravaṇa-maṅgala pāhi bhṛtyān || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "tad evam api svābhīṣṭa-rūpa-līlā-parikara-viśiṣṭatayā govindatvam eva svārādhyatvena yojayati govinda iti | yathā atraivāgre stoṣyate cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa iti | abhiṣekānte govinda iti cābhyadhāt [BhP"
+        },
+        {
+          "ref": null,
+          "body": "gobhyo yajñāḥ pravartante gobhyo devāḥ samutthitāḥ | gobhir vedāḥ samudgīrṇāḥ ṣaḍ-aṅga-padaka-kramāḥ || iti |"
+        },
+        {
+          "ref": null,
+          "body": "astu tāvat parama-golokāvatīrṇānāṃ tāsāṃ gavām indratvam iti tāpanīṣu ca brahmaṇā tadīyam eva svenārādhanaṃ prakāśitam -- govindaṃ sac-cid-ānanda-vigrahaṃ vṛndāvana-sura-bhūruha-talāsīnaṃ satataṃ samarud-gaṇo'haṃ toṣayāmi | [GTU"
+        },
+        {
+          "ref": null,
+          "body": "tathaiva daśame -- tad bhūri bhāgyam iha janma kim apy aṭavyām [BhP"
+        },
+        {
+          "ref": null,
+          "body": "kārya-kāraṇayor īśaḥ śrutibhis tena gīyate ||"
+        },
+        {
+          "ref": null,
+          "body": "prakṛtim iti māyākhyāṃ jagat-kāraṇa-śaktim ity arthaḥ tattva-samūhako mahad-ādi-rūpaḥ | anayor āśrayaḥ sāndrānandaṃ paraṃ jyotir īśvarao vallabha-śabdena kathyate | īśvaratve hetur vyāptyā kāraṇatvena ceti | prakṛtir iti svarūpa-bhūtā māyātītā vaikuṇṭhādau prakāśamānā mahā-lakṣmy-ākhyā śaktir ity arthaḥ | aṃśa-maṇḍalaṃ saṅkarṣaṇādi-rūpam | aneka-janma-siddhānām ity atra | bahūni me vyatītāni janmāni tava cārjuna [Gītā"
+        },
+        {
+          "ref": null,
+          "body": "tad evam atrāpi nanda-nandanatvam evābhimataṃ śrī-gargeṇa ca yathoktam | prāg ayaṃ vāsudevasya kvacij jātas tavātmajaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "atha śrī-śukadevena tathaiva nirṇītaṃ nāyaṃ sukhāpo bhagavān dehināṃ gopikā-sutaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "sahasra-patra-kamalaṃ gokulākhyaṃ mahat padam | tat-karṇikāraṃ tad-dhāma tad-anantāṃśa-sambhavam ||"
+        },
+        {
+          "ref": null,
+          "body": "2 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tasya tad-rūpatā-sādhakaṃ nityaṃ dhāma pratipādayati sahasra-patraṃ kamalam ity ādinā | sahasrāṇi patrāṇi yatra tat kamalam | bhūmiś cintāmaṇi-gaṇamayīti vakṣyamāṇānusāreṇa cintāmaṇi-mayaṃ padmaṃ tad-rūpaṃ mahat sarvotkṛṣṭaṃ padaṃ sthānam | mahataḥ śrī-kṛṣṇasya mahā-bhagavato vā padaṃ mahā-vaikuṇṭhādi-rūpaṃ ity arthaḥ | rūḍhir yogam apaharatīti nyāyena tasyaiva pratīteḥ | etad abhipretyoktaṃ śrī-daśame bhagavān gokuleśvaraḥ iti śīlārthe tv atra varac-pratyayaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "ataiva tad-anukūlatvenottara-grantho'pi vyākhyeyaḥ | tad eva cāmnātaṃ gokulaṃ vana-vaikuṇṭham iti | tasya śrī-kṛṣṇasya dhāma śrī-nanda-yaśodādibhiḥ saha vāsa-yogyaṃ mahāntaḥ-puraṃ taiḥ sahavāsitātvagre samuddekṣyate | tasya svarūpam āha tad iti | anantasya śrī-baladevasyāṃśena jyotir-vibhāga-viśeṣeṇa sambhavaḥ sadāvirbhāvo yasya tat tathā tantreṇaitad api bodhyate | ananto'ṃśo yasya tasya śrī-baladevasyāpi sambhavo nivāso yatra tad iti |"
+        },
+        {
+          "ref": null,
+          "body": "karṇikāraṃ mahad yantraṃ ṣaṭ-koṇaṃ vajra-kīlakam | ṣaḍ-aṅga-ṣaṭ-padī-sthānaṃ prakṛtyā puruṣeṇa ca || //"
+        },
+        {
+          "ref": null,
+          "body": "premānanda-mahānanda-rasenāvasthitaṃ hi yat | jyotī-rūpeṇa manunā kāma-bījena saṅgatam ||"
+        },
+        {
+          "ref": null,
+          "body": "3 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "sarva-gaṇa-sevitasya śrīmad-aṣṭadaśākṣara-mantra-rājasya bahu-pīṭhasya mukhya-pīṭham idam ity āha karṇikāram iti dvayena | mahad-yantram iti | yat prakṛtir eva sarvatra mantratvena pūjārthaṃ likhyate ity arthaḥ | yantram eva darśayati ṣaṭ-koṇā abhyantare yasya tat | vajra-kīlakaṃ karṇikāre bīja-rūpa-hīra-kakolaka-śobhitam || yantre ca-kāropalakṣitā | caturthy-antā catur-akṣarī kīla-rūpā jñeyā | ṣaṭ-koṇatve prayojanam āha ṣaḍ-aṅgāni yasyāḥ sā ṣaṭ-padī śrīmad-aṣṭādaśākṣarī tasyāḥ sthānam | prakṛtir mantrasya svarūpaṃ svayam eva śrī-kṛṣṇaḥ, kāraṇa-rūpatvāt | tac coktam ṛṣy-ādi-smaraṇe - kṛṣṇaḥ prakṛtir iti |"
+        },
+        {
+          "ref": null,
+          "body": "puruṣaś ca sa eva tad-adhiṣṭhātṛ-devatā-rūpaḥ | tābhyām avasthitam adhiṣṭhitam | sa hi mantre caturdhā pratīyate | mantrasya kāraṇa-rūpatvena, adhiṣṭhātṛ-devatā-rūpatvena, varṇa-samudāya-rūpatvena, ārādhya-rūpatvena ca | tatra kāraṇa-rūpatvena adhiṣṭhātṛ-devatā-rūpatvenātrocyate | ārādhya-rūpatvena prāg uktaḥ | īśvaraḥ paramaḥ kṛṣṇa iti | varṇa-rūpatvenāgre uddhariṣyate kāmaḥ kṛṣṇāya iti | yathoktaṃ hāyaśīrṣa-pañcarātre - vācyatvaṃ vācakatvaṃ devatā-mantrayor iha | abhedenocyate brahma tattva-vidbhir vicārataḥ || iti |"
+        },
+        {
+          "ref": null,
+          "body": "gopāla-tāpanī-śrutiṣu -"
+        },
+        {
+          "ref": null,
+          "body": "vāyur yathaiko bhuvanaṃ praviṣṭo janye janye pañca-rūpo babhūva | kṛṣṇas tathaiko'pi jagad-dhitārthaṃ śabdenāsau pañca-pado vibhāti || iti |"
+        },
+        {
+          "ref": null,
+          "body": "kvacid durgāyā adhiṣṭhātṛtvaṃ śakti-śaktimator abheda-vivakṣayā yathā ca bṛhad-gautamīye -"
+        },
+        {
+          "ref": null,
+          "body": "ataivoktaṃ gautamīya-kalpe -- yaḥ kṛṣṇaḥ saiva durgā syād yā durgā kṛṣṇa eva saḥ | anayor antarādarśī saṃsārān no vimucyate || ity ādi |"
+        },
+        {
+          "ref": null,
+          "body": "ataḥ svayam eva śrī-kṛṣṇas tatra svarūpa-śakti-rūpeṇa durgā nāmeti | tasmān neyaṃ māyāṃśa-bhūtā durgātigamyate | niruktiś cātra kṛcchreṇa durgārādhanādi bahu-prayāsena gamyate jñāyate iti | tathā ca nārada-pañcarātre śruti-vidyā-saṃvāde -"
+        },
+        {
+          "ref": null,
+          "body": "durgeti gīyate sadbhir akhaṇḍa-rasa-vallabhā | asyā āvarikā śaktir mahā-māyākhileśvarī | yayā mugdhaṃ jagat sarvaṃ sarva-dehābhimānataḥ || iti ca |"
+        },
+        {
+          "ref": null,
+          "body": "tathā ca sammohana-tantre jayāṃ prati śrī-durgā-vacanaṃ -"
+        },
+        {
+          "ref": null,
+          "body": "yan nāmnā nāmnī durgāhaṃ guṇair guṇavatī hy aham | yad-vaibhavā mahā-lakṣmī rādhā nityāparā dvayā || iti |"
+        },
+        {
+          "ref": null,
+          "body": "kiṃ ca prema-rūpā ye ānanda-mahānanda-rasās tat paripāka-bhedās tad-ātmakena tathā jyotī-rūpeṇa sva-prakāśakena manunā mantra-rūpeṇa kāma-bījena saṅgatam iti mūlāntargatatve'pi kāma-bījasya pṛthag-uktiḥ kutracana svātantryāpekṣayā ||"
+        },
+        {
+          "ref": null,
+          "body": "3 ||"
+        },
+        {
+          "ref": null,
+          "body": "tat-kiñjalkaṃ tad-aṃśānāṃ tat-patrāṇi śriyām api ||"
+        },
+        {
+          "ref": null,
+          "body": "4 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ tad-dhāmoktvā tad-āvaraṇāny āha tad ity ardhena | tasya karṇikā-rūpa-dhāmnaḥ kiñjalkāḥ śikharāvali-valita-prācīra-paṅktya ity arthaḥ | tac ca tad-aṃśānāṃ tasminn aṃśodāyo vidyate yeṣāṃ parama-prema-bhājāṃ sajātīyānāṃ dhāmety arthaḥ | gokulākhyam ity uktir eva | teṣāṃ sajātīyatvaṃ coktaṃ śrī-bādarāyaṇinā -"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ kakudminaṃ hatvā stūyamānaḥ dvijātibhiḥ | viveśa goṣṭhaṃ sa-balo gopīnāṃ nayanotsavaḥ || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "kaṃsa-vadhānte śrī-vraja-rājaṃ prati svayaṃ bhagavatā - jñātīn vo draṣṭum eṣyāmo vidhāya suhṛdāṃ sukham [BhP"
+        },
+        {
+          "ref": null,
+          "body": "devī kṛṣṇamayī proktā rādhikā para-devatā | sarva-lakṣmī-mayī sarva-kāntiḥ sammohinī parā || iti bṛhad-gautamīyāt |"
+        },
+        {
+          "ref": null,
+          "body": "vārāṇasyāṃ viśālākṣī vimalā puruṣottame | rukmiṇī dvāravatyāṃ tu rādhā vṛndāvane vane || iti matsya-purāṇāt |"
+        },
+        {
+          "ref": null,
+          "body": "rādhayā mādhavo devo mādhavenaiva rādhikā | vibhrājante janeṣv ā iti ṛk-pariśiṣṭa-śrutau ca |"
+        },
+        {
+          "ref": null,
+          "body": "atra viśeṣa-jijñāsāyāṃ kṛṣṇārcana-dīpikā draṣṭavyā | tatra patrāṇām ucchrita-prāntānāṃ vartmāṇy agrima-sandhiṣu tu goṣṭhāni jñeyāni | akhaṇḍa-kamalasya gokulatvāt tathaiva gokula-samāveśāc ca goṣṭhaṃ tathaiva yat tu sthānāntare vacanam asti -"
+        },
+        {
+          "ref": null,
+          "body": "arthaḥ | tatra go-saṅkhyair iti tu pāṭhaḥ samañjasaḥ | go-saṅkhyāś ca gopāḥ iti | gope gopāla-gosaṅkhya-godhug-ābhīra-vallabhā ity amaraḥ | akhila-śaktyā prakaṭitaḥ prabhāvaḥ yena saḥ parama-puruṣaḥ śrī-kṛṣṇa ity arthaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "4 ||"
+        },
+        {
+          "ref": null,
+          "body": "catur-asraṃ tat-paritaḥ śvetadvīpākhyam adbhutam | catur-asraṃ catur-mūrteś catur-dhāma catuṣ-kṛtam || //"
+        },
+        {
+          "ref": null,
+          "body": "caturbhiḥ puruṣārthaiś ca caturbhir hetubhir vṛtam | śūlair daśabhir ānaddham ūrdhvādho dig-vidikṣv api || //"
+        },
+        {
+          "ref": null,
+          "body": "aṣṭabhir nidhibhir juṣṭam aṣṭabhiḥ siddhibhis tathā manu-rūpaiś ca daśabhir dik-pālaiḥ parito vṛtam || //"
+        },
+        {
+          "ref": null,
+          "body": "śyāmair gauraiś ca raktaiś ca śuklaiś ca pārṣadarṣabhaiḥ śobhitaṃ śaktibhis tābhir adbhutābhiḥ samantataḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "5 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha gokulāvaraṇāny āha caturasram iti caturbhiḥ | tasya gokulasya bahiḥ sarvataś caturasraṃ catuṣkoṇātmakaṃ sthānaṃ śvetadvīpākhyam | tad etad upalakṣaṇaṃ golokākhyaṃ cety arthaḥ | yadyapi gokule śvetadvīpatvam asty eva tad-avāntara-bhūmimayatvāt | tathāpi viśeṣa-nāmnoktatvāt tenaiva tat pratīyate iti tathoktam | kintu caturasre'py antar-maṇḍalaṃ śrī-vṛndāvanākhyaṃ jñeyam | tathā ca svāyambhuvāgame - dhyāyet tatra-viśuddhātmā idaṃ sarvaṃ krameṇa ca ity ādikam uktvā tan-madhye vṛndāvanaṃ kusumitaṃ nānā-vṛkṣa-vihaṅgamaṃ saṃsmaret ity uktam | tathā ca bṛhad-vāmane śrutīnāṃ prārthanā pūrvakāṇi padyāni"
+        },
+        {
+          "ref": null,
+          "body": "yatra vṛndāvanaṃ nāma vanaṃ kāma-dughair drumaiḥ | manorama-nikuñjāḍhyaṃ sarvartu-sukha-saṃyutam || ity ādi tac ca caturasram |"
+        },
+        {
+          "ref": null,
+          "body": "catur-mūrteś catur-vyūhasya vāsudevādi-catuṣṭayasya | catuṣkṛtaṃ caturdhā vibhaktam catur-dhāma | kintu deva-līlatvāt tad-upari-vyoma-yāna-sthā eva jñeyā hetubhiḥ | tat-puruṣārtha-sādhanaiḥ | manu-rūpaiḥ sva-sva-mantrātmakaiḥ | dik-pālaiḥ indrādibhiḥ | śyāmādayaḥ catvāro vedāḥ tair ity arthaḥ | kṛṣṇaṃ ca tatra chandobhiḥ stūyamānaṃ suvismitāḥ iti daśamāt | śaktibhiḥ vimalādibhiḥ |"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ goloka-nāmā ayaṃ lokaḥ śrī-bhāgavate sādhitaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "nandādayas tu taṃ dṛṣṭvā paramānanda-nirvṛtāḥ | kṛṣṇaṃ ca tatra cchandobhiḥ stūyamānaṃ suvismitāḥ || [BhP 10.28.10-17] iti |"
+        },
+        {
+          "ref": null,
+          "body": "atīndriyam adṛṣṭa-pūrvam | sva-gatiṃ sva-dhāma | sūkṣmāṃ durjñeyām | upādhāsyan upadhāsyati | asmān prāpayiṣyatīty arthaḥ | iti saṅkalpitavanta iti śeṣaḥ | jano'sau vraja-vāsī mama svajanaḥ | sālokya-sārṣṭi- [BhP"
+        },
+        {
+          "ref": null,
+          "body": "tasmān mac-charaṇaṃ goṣṭhaṃ man-nāthaṃ mat-parigraham | gopāye svātma-yogena so'yaṃ me vrata āhitaḥ || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "sa etasmin prāpañcike loke avidyābhir yā uccāvacā deva-tiryag-ādi-rūpā gatayas tāsu svāṃ gatiṃ bhraman tan-miśratayābhivyakteḥ tan-nirviśeṣatayā jānan, tām eva svāṃ gatiṃ bhaved ity arthaḥ madīya-laukika-līlāveśena jñānāṃśa-tirodhānād iti bhāvaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "iti śrī-daśamokter avidyā-kāma-karmaṇāṃ tatrāsāmarthyāt | gopīnāṃ svāṃ lokaṃ golokam iti | arthāt tān praty eva sandarśayāmāsa | tamasaḥ prakṛteḥ param svarūpa-śaktyābhivyaktatvāt | ataiva saccidānanda-rūpa evāsau loka ity āha satyam iti |"
+        },
+        {
+          "ref": null,
+          "body": "atha śrī-vṛndāvane tādṛśa-darśanaṃ katama-deśa-sthitānāṃ teṣām ity ata āha te tv iti | brahma-hradaṃ akrūra-tīrthaṃ kṛṣṇena nītā punaś ca tenaiva magnāḥ majjitāḥ punaś ca tasmāt tenaivoddhṛtāḥ | uddhṛtya punaḥ sva-sthāna-prāpitāḥ santo, brahmaṇaḥ parama-bṛhattamasya tasyaiva lokaṃ golokākhyaṃ dadṛśuḥ | mūrdhabhiḥ satya-lokas tu brahma-lokaḥ sanātanaṃ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ko'sau brahma-hradaḥ ? tatrāha yatreti | purety etat-prasaṅgād bhāvi-kāla ity arthaḥ | purā purāṇe nikaṭe prabandhātīta-bhāviṣu iti koṣa-kārāḥ | seyaṃ ca paripāṭī tat tīrthaṃ mahimānaṃ lakṣyam eva vidhātum iti bhāvaḥ | tatra svāṃ gatim iti tadīyatā-nirdeśo gopānāṃ svaṃ lokam iti ṣaṣṭhī-sva-śabdayor nirdeśaḥ | kṛṣṇam iti sākṣān-nirdeśaś ca vaikuṇṭhāntaraṃ vyavacchidya śrī-golokam eva sthāpitavān iti |"
+        },
+        {
+          "ref": null,
+          "body": "tathā ca harivaṃśe śakra-vacanam -"
+        },
+        {
+          "ref": null,
+          "body": "sa tu lokas tvayā kṛṣṇa sīdamānaḥ kṛtātmanā | dhṛto dhṛtimatā vīra nighantopdadravān gavām || [HV 2.19.29-35] iti |"
+        },
+        {
+          "ref": null,
+          "body": "tatrāpāta-pratītārthāntare svargād ūrdhvaṃ brahmaṇo loka ity ayuktaṃ syāt loka-trayam atikramyokteḥ | tatra soma-gatiś caivety api na sambhavati candrasyānyeṣām api jyotiṣāṃ dhruva-lokādhastād eva gateḥ | tatra sādhyās taṃ pālayantīty api nopapadyate | deva-yoni-rūpāṇāṃ teṣāṃ svarga-lokasyāpi pālanam asambhavyam | kim uta tad-upari golokasya | tathā tasya lokasya surabhi-lokatve sati sarva-gata ity anupapannaṃ syāt | śrī-bhagavad-vigraha-lokayor acintya-śaktitvena vibhutvaṃ ghaṭate na punar asyeti | ataiva sarvātītatvāt tatrāpi tava gatir ity api śabdo vismaye prayuktaḥ | yāṃ na vidmo vayaṃ sarve ity-ādikaṃ coktam |"
+        },
+        {
+          "ref": null,
+          "body": "tasmāt prākṛta-golokād anya evāsau goloka iti siddham | tathā ca mokṣa-dharme nārāyaṇīyopākhyāne śrī-bhagavad-vākyaṃ -"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ bahu-vidhai rūpaiś carāmīha vasundharām | brahma-lokaṃ ca kaunteya golokaṃ ca sanātanam || [Mbh"
+        },
+        {
+          "ref": null,
+          "body": "tasmād ayam arthaḥ svarga-śabdena --"
+        },
+        {
+          "ref": null,
+          "body": "iti dvitīyānusāreṇa svar-lokam ārabhya satya-loka-paryantaṃ loka-pañcakam ucyate | tasmād ūrdhvam upari brahma-loko brahmātmako loko brahma-lokaḥ sac-cid-ānanda-rūpatvāt | brahmaṇo bhagavato loka iti vā | mūrdhabhiḥ satya-lokas tu brahma-lokaḥ sanātanaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "sa ca brahmarṣi-gaṇa-sevitaḥ | brahmāṇi mūrtimanto vedāḥ | ṛṣayaś ca śrī-nāradādayaḥ | gaṇāś ca śrī-garuḍa-viṣvaksenādayaḥ | taiḥ sevitaḥ | evaṃ nityāśritān uktvā tad-gamanādhikāriṇa āha | tatra brahma-loke umayā saha vartata iti somaḥ śrī-śivas tasya gatiḥ |"
+        },
+        {
+          "ref": null,
+          "body": "śrī-rudra-gītam |"
+        },
+        {
+          "ref": null,
+          "body": "someti supāṃ sulug ity ādinā ṣaṣṭhyā luk chāndasaḥ | tata uttaratrāpi gatir ity asyānvayaḥ | jyotir brahma tad-aikātmya-bhāvānāṃ muktānām ity arthaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "nanu tādṛśām api sarveṣāṃ kintu mahātmanāṃ mahāśayānāṃ mokṣānādaratayā bhajatāṃ śrī-sanakādi-tulyānām ity arthaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "muktānām api siddhānāṃ nārāyaṇa-parāyaṇaḥ sudurlabhaḥ praśāntātmā koṭiṣv api mahā-mune || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "gītābhyaś ca |"
+        },
+        {
+          "ref": null,
+          "body": "teṣv eva mahattva-paryavasanāt | tasya ca brahma-lokasyopari sarvordhva-pradeśe gavāṃ lokaḥ śrī-goloka ity arthaḥ | taṃ ca golokaṃ sādhyāḥ prāpañcika-devānāṃ prasādhanīyā mūla-rūpā nitya-tadīya-deva-gaṇāḥ pālayanti dik-pālatayā vartante te ha nākaṃ mahimānaḥ sacantaḥ yatra pūrve sādhyāḥ santi devāḥ [Rk"
+        },
+        {
+          "ref": null,
+          "body": "mahā-vaikuṇṭha-varṇane pādmottara-khaṇḍāc ca |"
+        },
+        {
+          "ref": null,
+          "body": "yad vā tad bhūri-bhāgyam iha janma kim apy aṭavyāṃ yad gokule'pi [BhP"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ sarvopari-gatatve'pi | hi prasiddhau | sa śrī-golokaḥ sarva-gataḥ śrī-nārāyaṇa iva prāpañcikāprāpañcika-vastu-vyāpakaḥ | kaiścit krama-mukti-vyavasthayā tathā prāpyamāno'py asau dvitīya-skandha-varṇita-kamalāsana-dṛṣṭa-vaikuṇṭhavat śrī-vraja-vāsinbhir atrāpi yasmād dṛṣṭa iti bhāvaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "iti śruteḥ | tatra hetuḥ | mahākāśaḥ parama-vyomākhyaḥ brahma-viśeṣaṇa-lābhād ākāśas tal-liṅgād [Vs"
+        },
+        {
+          "ref": null,
+          "body": "ataiva sā ca gatiḥ sādhāraṇī na bhavati kintu tapomayī | tapo'trānavacchinnaiśvaryaṃ sahasra-nāma-bhāṣye'pi paramaṃ yo mahat tapaḥ ity atra tatra vyākhyātam | sa tapo'tapyata iti parameśvara-viṣayaka-śruteḥ | aiśvaryaṃ prākāśayad iti tatrārthaḥ | ataiva brahmādi-durvitarkyatvam apy āha yām iti | adhunā tasya śrī-goloka ity ākhyā bījam abhivyañjayati gatir iti | brāhmye brahma-loka-prāpake tapasi viṣṇu-viṣayaka-manaḥ-praṇidhāne yuktānāṃ yata-cittānāṃ tat-prema-bhaktānām ity arthaḥ | yasya jñāna-mayaṃ tapaḥ iti śruteḥ | brahma-loko vaikuṇṭha-lokaḥ | parā prakṛtyatītā | gavāṃ vraja-vāsi-mātrāṇāṃ mocayan vraja-gavāṃ dina-tāpam [BhP"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ bahu-vidhai rūpaiś carāmīha vasundharām | brahma-lokaṃ ca kaunteya golokaṃ ca sanātanam || [Mbh"
+        },
+        {
+          "ref": null,
+          "body": "tathā ca mṛtyu-sañjaya-tantre --"
+        },
+        {
+          "ref": null,
+          "body": "ekadā sāntarīkṣāc ca vaikuṇṭhaṃ svecchayā bhuvi | gokulatvena saṃsthāpya gopīmaya-mahotsavā | bhakti-rūpāṃ satāṃ bhaktim utpāditavatī bhṛśam || iti |"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ nārada-pañcarātre vijayākhyāne -"
+        },
+        {
+          "ref": null,
+          "body": "tat sarvopari goloke śrī-govindaḥ sadā svayam | viharet paramānandī gopī-gokula-nāyakaḥ || iti |"
+        },
+        {
+          "ref": null,
+          "body": "tathā ṛkṣu cāyam eva pradiṣṭaḥ -"
+        },
+        {
+          "ref": null,
+          "body": "tāṃ vāṃ vāstūny uśmasi gamadhyai yatra gāvo bhūri-śṛṅgā ayāsaḥ | atrāha tad urugāyasya vṛṣṇaḥ paramaṃ padam avabhāti bhūri || iti | vyākhyātaṃ ca - tāṃ tāni vāṃ yuvayoḥ kṛṣṇa-rāmayor vāstūni līlā-sthānāni gamadhyai prāptuṃ uśmasi kāmayāmahe | tāni kiṃ viśiṣṭāni ? yatra yeṣu bhūri-śṛṅgā mahā-śṛṅgyo gāvo bahu-śubha-lakṣaṇā iti vā | ayāsaḥ śubhāḥ | ayaḥ śubhāvaho vidhir ity amaraḥ | devāsa itivat jasantaṃ padam | atra bhūmau tal-loke vede ca prasiddhaṃ śrī-golokākhyaṃ urugāyasya svayaṃ bhagavato tac-caraṇāravindasya paramaṃ prapañcātītaṃ padaṃ sthānaṃ bhūri bahudhā avabhātīty āha veda iti |"
+        },
+        {
+          "ref": null,
+          "body": "yajuḥsu - mādhyandinīyā stūyate dhāmāny uśmasi ity ādau | viṣṇoḥ paramaṃ padam avabhātīti bhūrīti cātra prakārāntaraṃ paṭhanti śeṣaṃ samānam ||"
+        },
+        {
+          "ref": null,
+          "body": "5 ||"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ jyotir-mayo devaḥ sad-ānandaṃ parāt paraḥ | ātmārāmasya tasyāsti prakṛtyā na samāgamaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "6 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha mūla-vyākhyām anusarāmaḥ | virāṭ-tad-antaryāminor abheda-vivakṣayā puruṣa-sūktādāv eka-puruṣatvaṃ yathā nirūpitaṃ, tathā goloka-tad-adhiṣṭhātror apy āha evam iti | devo golokas tad-adhiṣṭhātṛ-śrī-govinda-rūpaḥ | sadānandam iti tat-svarūpam ity arthaḥ | napuṃsakatvaṃ vijñānam ānandaṃ brahma iti śruteḥ | ātmārāmasya anya-nirapekṣasya prakṛtyā māyayā na samāgamaḥ | yathoktaṃ dvitīye - na yatra māyā kim utāpare harer anuvratā yatra surāsurārcitāḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "māyayāramamāṇasya na viyogas tayā saha | ātmanā ramayā reme tyakta-kālaṃ sisṛkṣayā | //"
+        },
+        {
+          "ref": null,
+          "body": "niyatiḥ sā ramā devi tat-priyā tad-vaśaṃ tadā ||"
+        },
+        {
+          "ref": null,
+          "body": "7 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha prapañcātmanas tad-aṃśasya puruṣasya tu na tādṛśatvam ity āha māyayeti | prākṛta-pralaye'pi tasmiṃs tasyālayāt yasyāṃśāṃśāṃśa-bhāgenety ādeḥ |"
+        },
+        {
+          "ref": null,
+          "body": "nanu tarhi jīvavat-tal-liptatvena aniīśvaratvaṃ syāt ? tatrāha ātmaneti | sa tu ātmanā antarvṛtyā tu ramayā svarūpa-śaktyaiva reme ratiṃ prāpnoti | bahir eva māyayā sevya ity arthaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "eṣa prapanna-varado ramayātma-śaktyā yad yat kariṣyati gṛhīta-guṇāvatāraḥ || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "atra -māyāṃ vyudasya cic-chaktyā kaivalye sthita ātmani [BhP"
+        },
+        {
+          "ref": null,
+          "body": "prabhāvaṃ pauruṣaṃ prāhuḥ kālam eke yato bhayam [BhP"
+        },
+        {
+          "ref": null,
+          "body": "kāla-vṛttyā tu māyāyāṃ guṇa-mayyām adhokṣajaḥ | puruṣeṇātma-bhūtena vīryam ādhatta vīryavān || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "nanu ramaiva sā kā tatrāha niyatir ity ardhena | niyamyate svayaṃ bhagavatyeva nityatā bhavatīti niyatiḥ svarūpa-bhūtā tac-chaktiḥ | devī dyotamānā sva-prakāśa-rūpā ity arthaḥ | tad-uktaṃ dvādaśe - anapāyinī bhagavatī śrīḥ śākṣād ātmano hareḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "atra sākṣāt-śabdena vilajjamānayā yasya sthātum īkṣā-pathe'muyā ity ā̆dy-uktyā māyā neti dhvanitam | tatrānapāyitvaṃ yathā viṣṇu-purāṇe"
+        },
+        {
+          "ref": null,
+          "body": "nityaiva sā jagan-mātā viṣṇoḥ śrīr anapāyinī yathā sarva-gato viṣṇus tathaiveyaṃ dvijottamaḥ || [ViP"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ yathā jagat-svāmī deva-devo janārdanaḥ | avatāraṃ karoty eṣā tathā śrīs tat-sahāyinī || [ViP"
+        },
+        {
+          "ref": null,
+          "body": "devatve deva-dehā sā mānuṣatve ca mānuṣī | harer dehānṛ-rūpāṃ vai karoty eṣātmanas tanum || [ViP"
+        },
+        {
+          "ref": null,
+          "body": "hayaśīrṣa-pañcarātre - na viṣṇunā vinā devī na hariḥ padmajāṃ vinā iti ||"
+        },
+        {
+          "ref": null,
+          "body": "tal-liṅgaṃ bhagavān śambhur jyoti-rūpaḥ sanātanaḥ | yā yoniḥ sāparā śaktiḥ kāmo bījaṃ mahad dhareḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "8 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "nanu kutrāpi śiva-śaktyoḥ kāraṇatā śrūyate, tatra virāḍ-varṇanavat kalpanayeti tad-aṅga-viśeṣatvenāha - tal-liṅgam iti | yasyāyutāyutāṃśāṃśe viśva-śaktir iyaṃ sthitā iti viṣṇu-purāṇānusāreṇa prapañcātmanas tasyamahā-bhagavad-aṃśasya svāṃśa-jyotir-ācchannatvād aprakaṭa-rūpasya puruṣasya liṅgaṃ liṅga-sthānīyaḥ yaḥ prapañcotpādako'ṃśaḥ sa eva śambhuḥ | anyas tu tad-āvirbhāva-viśeṣatvād eva śambhur ucyate ity arthaḥ | vakṣyate ca kṣīraṃ yathā dadhi-vikāra-viśeṣa-yogād sañjāyate na tu tataḥ pṛthag asti hetor ity ādi |"
+        },
+        {
+          "ref": null,
+          "body": "tathā tasya vīryāvadhāna-sthāna-rūpāyā māyāyā apy aprakaṭa-rūpāyā yā yonir yoni-sthānīyo'ṃśaḥ saivāparā pradhānākhyā śaktir iti pūrvavat | tatra ca hares tasya puruṣākhya-hary-aṃśasya kāmo bhavati sṛṣṭy-arthaṃ tad-didiṛkṣā jāyate ity arthaḥ | tataś ca mahad iti sa-jīva-mahat-tattva-rūpaṃ tu māyāyām iti tṛtīyāc ca ||"
+        },
+        {
+          "ref": null,
+          "body": "liṅga-yony-ātmikā jātā imā māheśvarī-prajāḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "9 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "vastutas tu pūrvābhiprāyatvam evety āha liṅgety ardhena | māheśvarīḥ māheśvaryaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "śaktimān puruṣaḥ so 'yaṃ liṅga-rūpī maheśvaraḥ | tasminnāvirabhūlliṅge mahā-viṣṇur jagat-patiḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "10 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "śaktimān ity ardhena tad evānūdya tasmin pūrvoktāprakaṭa-rūpasya prakaṭa-rūpatayāpunar abhivyaktir ity āha tasminn ity ardhena | tasmāl liṅga-rūpī prapañcotpādakas tad-aṃśo'pi śaktimān puruṣocyate | maheśvaro'py ucyate tataś ca tasmin bhūta-sūkṣma-paryantatāṃ prāpte liṅge svayaṃ tad-aṃśī mahā-viṣṇur āvirabhūt prakaṭa-rūpeṇāvirbhavati | yato jagatāṃ sarveṣāṃ parāvareṣāṃ jīvānāṃ sa eva patir iti ||"
+        },
+        {
+          "ref": null,
+          "body": "sahasra-śīrṣā puruṣaḥ sahasrākṣaḥ sahasra-pāt | sahasra-bāhur viśvātmā sahasrāṃśaḥ sahasra-sūḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "11 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ rūpaṃ vivṛṇoti sahasra-śīrṣeti | sahasram aṃśā avatārā yasya sa sahasrāṃśaḥ | sahasraṃ sūte sṛjati yaḥ sa sahasra-sūḥ | sahasra-śabda-sarvatrāsaṅkhyatā-paraḥ | dvitīye ca tasyaiva rūpam idam uktam -- ādyo'vatāraḥ puruṣaḥ parasya [BhP"
+        },
+        {
+          "ref": null,
+          "body": "nārāyaṇaḥ sa bhagavān āpas tasmāt sanātanāt | āvirāsīt kāraṇārṇo nidhiḥ saṅkarṣaṇātmakaḥ | yoga-nidrāṃ gatas tasmin sahasrāṃśaḥ svayaṃ mahān ||"
+        },
+        {
+          "ref": null,
+          "body": "12 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "ayam eva kāraṇārṇavaśāyīty āha nārāyaṇa iti sārdhena | tāḥ āpa eva kāraṇārṇo-nidhir āvirāsīt sa tu nārāyaṇaḥ saṅkarṣaṇātmakaḥ iti | pūrvaṃ golokāvaraṇatayā yaś caturvyūha-madhye saṅkarṣaṇaḥ sammataḥ tasyaivāṃśo'yam ity arthaḥ | tad uktaṃ -"
+        },
+        {
+          "ref": null,
+          "body": "tad-roma-bila jāleṣu bījaṃ saṅkarṣaṇasya ca | haimāny aṇḍāni jātāni mahā-bhūtāvṛtāni tu ||"
+        },
+        {
+          "ref": null,
+          "body": "13 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tasmād eva brahmāṇḍānām utpattim āha tad rometi | tad iti tasyety arthaḥ tasya saṅkarṣaṇātmakasya yad bījaṃ yoni-śaktāvadhyas taṃ tad eva pūrvaṃ bhūta-sūkṣma-paryantatāṃ prāptaṃ sat paścāt tasya loma-bila-jāleṣu vivareṣu antarbhūtaṃ ca sat haimāni aṇḍāni jātāni tāni cāpañcī-kṛtāṃśaiḥ mahābhūtair jātānīty arthaḥ | tad uktaṃ daśame brahmaṇā -"
+        },
+        {
+          "ref": null,
+          "body": "kvedṛg-vidhāvigaṇitāṇḍa-parāṇu-caryā- vātādhva-roma-vivarasya ca te mahitvam || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "daśottarādhikair yatra praviṣṭaḥ paramāṇuvat | lakṣyate 'ntar-gatāś cānye koṭiśo hy aṇḍa-rāśayaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "[BhP 3.11.39-40] iti ||"
+        },
+        {
+          "ref": null,
+          "body": "13 ||"
+        },
+        {
+          "ref": null,
+          "body": "sahasra-mūrdhā viśvātmā mahā-viṣṇuḥ sanātanaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "14 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tataś ca teṣu brahmāṇḍeṣu pṛthak pṛthak svarūpaiḥ svarūpāntaraiḥ sa eva praviveśety āha pratyaṇḍam iti | ekāṃśād ekāṃśād ekenaikenāṃśenety arthaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "vāmāṅgād asṛjad viṣṇuṃ dakṣiṇāṅgāt prajāpatim | jyotir-liṅga-mayaṃ śambhuṃ kūrca-deśād avāsṛjat ||"
+        },
+        {
+          "ref": null,
+          "body": "15 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "punaḥ kiṃ cakāra tatrāha - vāmāṅgād iti | viṣṇv-ādaya ime sarveṣām eva brahmāṇḍānāṃ pālakādayaḥ prati brahmāṇḍāntaḥ sthitānāṃ viṣṇv-ādīnāṃ svāṃśānāṃ prayoktāraḥ | yathā prati-brahmāṇḍe tathā adhi brahmāṇḍa-maṇḍalam abhyupagantavyam iti bhāvaḥ | yeṣu prajāpatir ayaṃ hiraṇyagarbha-rūpa eva na tu vakṣyamāṇa-caturmukha-rūpa eva, so'yaṃ tat-tad-āvaraṇa-gata-tat-tad-devānāṃ sraṣṭeti | viṣṇu-śambhū api tat-tat-pālana-saṃhāra-kartārau jñeyau | kūrca-deśāt bhruvor madhyāt | eṣāṃ jalāvaraṇa eva sthānāni jñeyāni ||"
+        },
+        {
+          "ref": null,
+          "body": "ahaṅkārātmakaṃ viśvaṃ tasmād etad vyajāyata ||"
+        },
+        {
+          "ref": null,
+          "body": "16 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tatra śambhoḥ kāryāntaram apy āha ahaṅkārātmakam ity ardhena | etad viśvaṃ tasmād evāhaṅkārātmakaṃ vyajāyata babhūva | viśvasyāhaṅkārātmakatā tasmāj jātety arthaḥ sarvāhaṅkārādhiṣṭhātṛtvāt tasya ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tais tri-vidhair veśair līlām udvahataḥ kila | yoga-nidrā bhagavatī tasya śrīr iva saṅgatā ||"
+        },
+        {
+          "ref": null,
+          "body": "17 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "brahmāṇḍa-praviṣṭasya tu tat-tad-rūpasya līlām āha atha tair ity ādi | tais tat sadṛśais trividhaiḥ prati-brahmāṇḍa-gata-viṣṇv-ādibhir veśai rūpair līlāṃ brahmāṇḍāntargata-pālanādi-rūpām udvahato brahmāṇḍāntargata-puruṣasyeti tām udvahati | tasminn ity arthaḥ | yoga-nidrā - pūrvokta-mahā-yoga-nidrāṃśa-bhūtā bhagavatī svarūpānanda-samādhimayatvād antarbhūta-sarvaiśvaryā saṅgatā śrīr iveti | tatra yathā śrīr apy aṃśena saṅgatā tathā sāpīty arthaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "17 ||"
+        },
+        {
+          "ref": null,
+          "body": "sisṛkṣāyāṃ tato nābhes tasya padmaṃ viniryayau | tan-nālaṃ hema-nalinaṃ brahmaṇo lokam adbhutam ||"
+        },
+        {
+          "ref": null,
+          "body": "18 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tataś ca sisṛkṣāyām iti | nālaṃ nāla-yuktaṃ tad-dhema-nalinaṃ brahmaṇo janma-śayanayoḥ sthānatvāt loka ity arthaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "18 ||"
+        },
+        {
+          "ref": null,
+          "body": "tattvāni pūrva-rūḍhāni kāraṇāni parasparam | samavāyāprayogāc ca vibhinnāni pṛthak pṛthak || //"
+        },
+        {
+          "ref": null,
+          "body": "cic-chaktyā sajjamāno 'tha bhagavān ādi-pūruṣaḥ | yojayan māyayā devo yoga-nidrām akalpayat ||"
+        },
+        {
+          "ref": null,
+          "body": "19 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tathā asaṅkhya-jīvātmakasya samaṣṭi-jīvasya prabodhaṃ vaktuṃ punaḥ kāraṇārṇonidhi-śāyinas tṛtīya-skandhoktānusāriṇīṃ sṛṣṭi-prakriyāṃ vivṛtyāha - tattvānīti trayeṇa | tatra dvayam āha - māyayā sva-śaktyā parasparaṃ tattvāni yojayann iti yojanānantaram eva nirīhatayā yoga-nidrām eva svīkṛtavān ity arthaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "yojayitvā tu tāny eva praviveśa svayaṃ guhām | guhāṃ praviṣṭe tasmiṃs tu jīvātmā pratibudhyate ||"
+        },
+        {
+          "ref": null,
+          "body": "20 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tṛtīyam āha yojayitveti | yojayitvā tad yojanā-yoga-nidrayor antarāle ity arthaḥ | guhāḥ virāḍ-vigraham | pratibudhyate pralaya-svāpāj jāgarti ||"
+        },
+        {
+          "ref": null,
+          "body": "sa nityo nitya-sambandhaḥ prakṛtiś ca paraiva sā ||"
+        },
+        {
+          "ref": null,
+          "body": "21 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "jīvasya svābhāvikī sthitim āha sa nity ity ardheneti | nityo'nādy-ananta-kāla-bhāvī nitya-sambandho bhagavatā saha samavāyo yasya saḥ | sūryeṇa tad-raśmi-jālasyeveti bhāvaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "yat-taṭasthaṃ tu cid-rūpaṃ sva-saṃvedyād vinirgatam | rañjitaṃ guṇa-rāgeṇa sa jīva iti kathyate || iti nārada-pañcarātrāt |"
+        },
+        {
+          "ref": null,
+          "body": "mamaivāṃśo jīva-loke jīva-bhūtaḥ sanātanaḥ || iti śrī-gītopaniṣadbhyaś ca |"
+        },
+        {
+          "ref": null,
+          "body": "ataiva prakṛtiḥ sākṣi-rūpeṇa svarūpa-sthita eva | sva-pratibimba-rūpeṇa pramātṛ-rūpeṇa prakṛtim iva prāptaś cety arthaḥ | prakṛtiṃ viddhi me parām jīva-bhūtām iti śrī-gītāsv eva | dvā suparṇā sayujā sakhāyā iti śrutiś ca nitya-svarūpaṃ darśayati ||"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ sarvātma-sambandhaṃ nābhyāṃ padmaṃ harer abhūt | tatra brahmābhavad bhūyaś catur-vedi catur-mukhaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "22 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tasya samaṣṭi-jīvāsthānaṃ guhā-praviṣṭāt puruṣād udbhūtam ity āha evam iti | tataḥ samaṣṭi-dehābhimāninas tasya hiraṇya-garbha-brahmaṇas tasmāt bhoga-vigrahotpattim āha tatreti ||"
+        },
+        {
+          "ref": null,
+          "body": "sa jāto bhagavac-chaktyā tat-kālaṃ kila coditaḥ | sisṛkṣāyāṃ matiṃ cakre pūrva-saṃskāra-saṃskṛtaḥ | dadarśa kevalaṃ dhvāntaṃ nānyat kim api sarvataḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "23 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tasya caturmukhasya ceṣṭām āha sa jāta ity sārdhena | spaṣṭam ||"
+        },
+        {
+          "ref": null,
+          "body": "uvāca puratas tasmai tasya divya sarasvatī | kāmaḥ kṛṣṇāya govinda he gopī-jana ity api | vallabhāya priyā vahner mantram te dāsyati priyam ||"
+        },
+        {
+          "ref": null,
+          "body": "24 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tasmin pūrvopāsanā-bhāgya-labdhāṃ bhagavat-kṛpām āhovāceti sārdhena | spaṣṭam ||"
+        },
+        {
+          "ref": null,
+          "body": "tapas tvaṃ tapa etena tava siddhir bhaviṣyati ||"
+        },
+        {
+          "ref": null,
+          "body": "25 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "etad eva sparśeṣu yat ṣoḍaśam ekaviṃśam iti tṛtīya-skandhānusāreṇa yojayati tapa tvaṃ ity ardhena | spaṣṭam ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tepe sa suciraṃ prīṇan govindam avyayam | śvetadvīpa-patiṃ kṛṣṇaṃ goloka-sthaṃ parāt param || //"
+        },
+        {
+          "ref": null,
+          "body": "prakṛtyā guṇa-rūpiṇyā rūpiṇyā paryupāsitam | sahasra-dala-sampanne koṭi-kiñjalka-bṛṃhite || //"
+        },
+        {
+          "ref": null,
+          "body": "bhūmiś cintāmaṇis tatra karṇikāre mahāsane | samāsīnaṃ cid-ānandaṃ jyoti-rūpaṃ sanātanam || //"
+        },
+        {
+          "ref": null,
+          "body": "śabda-brahma-mayaṃ veṇuṃ vādayantaṃ mukhāmbuje | vilāsinī-gaṇa-vṛtaṃ svaiḥ svair aṃśair abhiṣṭutam ||"
+        },
+        {
+          "ref": null,
+          "body": "26 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "sa tu tena mantreṇa sva-kāmanā-viśeṣānusārāt sṛṣṭikṛt-śakti-viśiṣṭatayā vakṣyamāṇas tavānusārāt gokulākhya-pīṭha-gatatayā śrī-govindam upāsitavān ity āha -- atha tepe ity ādi caturbhiḥ | guṇa-rūpiṇyā sattva-rajas-tamo-guṇa-mayyā rūpiṇyā mūrtimatyā paryupāsitaṃ paritas tad gokulād bahiḥ-sthitayopāsitam dhyānādinā arcitam | māyā parety abhimukhe ca vilajjamānā [BhP"
+        },
+        {
+          "ref": null,
+          "body": "atha veṇu-ninādasya trayī-mūrti-mayī gatiḥ | sphurantī praviveśāśu mukhābjāni svayambhuvaḥ || //"
+        },
+        {
+          "ref": null,
+          "body": "gāyatrīṃ gāyatas tasmād adhigatya sarojajaḥ | saṃskṛtaś cādi-gunuṇā dvijatām agamat tataḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "27 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ dīkṣātaḥ parastād eva tasya dhruvasyeva dvijatva-saṃskāras tad-ārādhitāt tan-mantrādhidevāj jātaḥ ity āha atha veṇv iti dvayena | trayī-mūrtir gāyatrī veda-mātṛtvāt | dvitīya padye tasya eva vyaktibhāvitvāc ca | tan-mayī gatiḥ paripāṭī | mukhābjāni praviveśety aṣṭa-karṇaiḥ praviveśety arthaḥ | ādi-guruṇā śrī-kṛṣṇena ||"
+        },
+        {
+          "ref": null,
+          "body": "27 ||"
+        },
+        {
+          "ref": null,
+          "body": "trayyā prabuddho 'tha vidhir vījñāta-tattva-sāgaraḥ | tuṣṭāva veda-sāreṇa stotreṇānena keśavam ||"
+        },
+        {
+          "ref": null,
+          "body": "28 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tataś ca trayīm api tasmāt prāpya tam eva tuṣṭāvety āha trayyeti | keśān aṃśūna vayati vistārayatīti keśavas tam |"
+        },
+        {
+          "ref": null,
+          "body": "cintāmaṇi-prakara-sadmasu kalpa-vṛkṣa- lakṣāvṛteṣu surabhir abhipālayantam | lakṣmī-sahasra-śata-sambhrama-sevyamānaṃ govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "29 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "stutim āha cintāmaṇīty ādibhiḥ | tatra goloke'smin mantra-bhedena tad-eka-deśeṣu bṛhad-dhyāna-mayādiṣv ekasyāpi mantrasya rāsa-mayādiṣu ca pīṭheṣu satsv api madhyasthatvena mukhyatayā prathamaṃ golokākhya-pīṭha-nivāsa-yogya-līlayā stauti cintāmṇīty ekena |"
+        },
+        {
+          "ref": null,
+          "body": "abhi sarvato-bhāvena vana-nayana-cāraṇa-go-sthānānayana-sambhālana-prakāreṇa pālayantaṃ sa-snehaṃ rakṣantam | kadācid rahasi tu vailakṣaṇyam ity āha lakṣmīti lakṣmyo'tra gopa-sundarya eveti vyākhyātam eva ||"
+        },
+        {
+          "ref": null,
+          "body": "29 ||"
+        },
+        {
+          "ref": null,
+          "body": "veṇuṃ kvaṇantam aravinda-dalāyatākṣam- barhāvataṃsam asitāmbuda-sundarāṅgam | kandarpa-koṭi-kamanīya-viśeṣa-śobhaṃ govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "30 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ cintāmaṇi-prakara-sadma-mayīṃ kathā-gānaṃ nāṭyaṃ gamanam apīti vakṣyamāṇānusāreṇa golokhākhya-vilakṣaṇa-pīṭha-gatāṃ līlām uktvā eka-sthāna-sthitikāṃ kathā-gānādi-rahitāṃ bṛhad-dhyānādi-dṛṣṭāṃ dvitīya-pīṭha-gatāṃ līlām āha veṇum iti dvayena | veṇum iti tatra spaṣṭam ||"
+        },
+        {
+          "ref": null,
+          "body": "30 ||"
+        },
+        {
+          "ref": null,
+          "body": "ālola-candraka-lasad-vanamālya-vaṃśī- ratnāṅgadaṃ praṇaya-keli-kalā-vilāsam | śyāmaṃ tri-bhaṅga-lalitaṃ niyata-prakāśaṃ govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "31 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "ālolety ādi | praṇaya-pūrvako yaḥ keli-parihāsas tatra yā vaidagdhī saiva vilāso yasya taṃ, drava-keli-parīhāsā ity amaraḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "31 ||"
+        },
+        {
+          "ref": null,
+          "body": "aṅgāni yasya sakalendriya-vṛtti-manti paśyanti pānti kalayanti ciraṃ jaganti | ānanda-cinmaya-sad-ujjvala-vigrahasya govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "32 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ līlā-dvayam uktvā paramācintya-śaktyā vaibhava-viśeṣān āha aṅgānīti caturbhiḥ | tatra śrī-vigrahasya aṅgāni hasto'pi draṣṭuṃ śaknoti, cakṣur api pālayituṃ pārayati, tathā anyad anyad apy aṅgam anyad anyat kalayituṃ prabhavatīti | evam evoktaṃ - sarvataḥ pāṇi-pādaṃ tat sarvato'kṣi-śiro-mukham ity ādi | jagantīti | līlā-parikareṣu tat-tad-aṅgaṃ yathā-svam eva vyavaharatīti bhāvaḥ | tatra ca tasya vigrahasya vailakṣaṇyam eva hetur ity āha ānandeti ||"
+        },
+        {
+          "ref": null,
+          "body": "32 ||"
+        },
+        {
+          "ref": null,
+          "body": "advaitam acyutam anādim ananta-rūpam ādyaṃ purāṇa-puruṣaṃ nava-yauvanaṃ ca | vedeṣu durlabham adurlabham ātma-bhaktau govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "33 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "vailakṣaṇyam eva puṣṇāti advaitam iti tribhiḥ | advaitaṃ pṛthivyā mayam advaito rājetvad atulyam ity arthaḥ | vismāpanaṃ svasya ca tṛtīya-sthasyoddhava-vākyāt | acyutaṃ"
+        },
+        {
+          "ref": null,
+          "body": "na cyavante hi yad bhaktāḥ mahatyāṃ pralayāpadi | ato'cyuto'khile loke sa ekaḥ sarvago'vyayaḥ || iti kāśī-kāṇḍa-vacanāt |"
+        },
+        {
+          "ref": null,
+          "body": "yad-arcitaṃ brahma-bhavādibhiḥ suraiḥ śriyā ca ity ādi daśama-sthākrūra-vākyān |"
+        },
+        {
+          "ref": null,
+          "body": "śrīmad-uddhava-vākyam |"
+        },
+        {
+          "ref": null,
+          "body": "darśayāmāsa lokaṃ svaṃ gopānāṃ tamasaḥ param [BhP"
+        },
+        {
+          "ref": null,
+          "body": "nandādayas tu taṃ dṛṣṭvā paramānanda-nirvṛtāḥ | kṛṣṇaṃ ca tatra cchandobhiḥ stūyamānaṃ suvismitāḥ || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "anādim ity ādi-trayaṃ yathaikādaśa-sāṅkhya-kathane, kālo māyā-maye jīvaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "eṣa sāṅkhya-vidhiḥ proktaḥ saṃśaya-granthi-bhedanaḥ | pratilomānulomābhyāṃ parāvara-dṛśā mayā || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "purāṇa puruṣaḥ -- ekas tvam ātmā puruṣaḥ purāṇaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "tathāpi nava-yauvanaṃ -- purāpi navaḥ purāṇa iti nirukteḥ | gopyas tapaḥ kim acaran yad amuṣya rūpam [BhP"
+        },
+        {
+          "ref": null,
+          "body": "prathamāt |"
+        },
+        {
+          "ref": null,
+          "body": "bṛhad-dhyānādau tathā śravaṇāt -- gopa-veśam abhrābhaṃ taruṇaṃ kalpa-drumāśritam [GTU"
+        },
+        {
+          "ref": null,
+          "body": "vedeṣu durlabhaṃ -- bhejur mukunda-padavīṃ śrutibhir vimṛgyām [BhP"
+        },
+        {
+          "ref": null,
+          "body": "adurlabham ātma-bhaktau -- bhaktyāham ekayā grāhyaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "yad vā, nanu tasyātulyatve kim iti svārthaḥ | kathaṃ vātulyatvaṃ nija-bhaktebhyaḥ ātmano dehasyāpi pradānāt | kiṃ vāvaśiṣyata ity āha acyutam iti | nija-bhaktebhya ātma-pradānādināpi na vidyate cyutir yasya sadaiva eka-rasam ity arthaḥ | tarhi kiṃ nārāyaṇaṃ stauṣi tasyaivācyutatvād anādeś ca nety āha anādim iti na vidyate ādir yasya yasmād vā sarveṣāṃ parama-kāraṇaṃ svayaṃ tu sva-prakāśaṃ kāraṇa-śūnyam ity arthaḥ | nanv ekena kathaṃ sarveṣāṃ paripālanaṃ ghaṭate ity ata āha ananteti | anantaṃ rūpaṃ yasya | athavā prapañca-gatatvena nāsty anto yasya | athavā anantasya rūpaṃ svarūpaṃ yasya | yasmād evāṃśenānantādīnām utpattiḥ |"
+        },
+        {
+          "ref": null,
+          "body": "nanu nārāyaṇād evānantādi prākāṭya-prasiddhir ity āha ādyaṃ yasya vilāsa-rūpo nārāyaṇas tam | nanu jñātaṃ tasyaiva puruṣākhyānaṃ, nety āha purāṇeti yasya vilāsa-vapuḥ puruṣākhyas taṃ nanv āyātaṃ tasya vṛddhatvam ity āha nava-yauvanam iti kaiśoram ity arthaḥ | ca-kārāt ya eva purātanaḥ | sa eva kiśora-vayā ity anirvacanatvaṃ nityatvaṃ ca | nanu vedeṣu nārāyaṇa eva gīyate ity āha | vedeṣv iti vedais tattvaṃ jñāyate cet teṣu sulabham ity arthaḥ | bhaktiṃ vinā na jñāyate ity āha adurlabham iti ||"
+        },
+        {
+          "ref": null,
+          "body": "panthās tu koṭi-śata-vatsara-sampragamyo vāyor athāpi manaso muni-puṅgavānām | so 'py asti yat-prapada-sīmny avicintya-tattve govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "34 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "panthās tv iti prapada-sīmni caraṇāravindayor agre |"
+        },
+        {
+          "ref": null,
+          "body": "eko vaśī sarvagaḥ kṛṣṇa īḍya eko'pi san bahudhā yo'vabhāti | [GTU"
+        },
+        {
+          "ref": null,
+          "body": "tatra siddhāntam āha avicintya-tattve iti | ātmeśvaro'tarkya-sahasra-śaktiḥ iti tṛtīyāt |"
+        },
+        {
+          "ref": null,
+          "body": "bhāratāc ca |"
+        },
+        {
+          "ref": null,
+          "body": "śrutes tu śabda-mūlatvāt [Vs"
+        },
+        {
+          "ref": null,
+          "body": "eko 'py asau racayituṃ jagad-aṇḍa-koṭiṃ yac-chaktir asti jagad-aṇḍa-cayā yad-antaḥ | aṇḍāntara-stha-paramāṇu-cayāntara-stham- govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "35 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "acintya-śaktim āha - eko'py asāv iti |"
+        },
+        {
+          "ref": null,
+          "body": "ity ārabhya taiḥ vatsa-pālādibhir evānanta-brahmāṇḍa-sāmagrī-yuta-tat-tadhi-puruṣāṇāṃ tenāvirbhāvanāt | jagad-aṇḍa-cayā iti na cāntar na bahir yasya [BhP"
+        },
+        {
+          "ref": null,
+          "body": "yad-bhāva-bhāvita-dhiyo manujās tathaiva samprāpya rūpa-mahimāsana-yāna-bhūṣāḥ | sūktair yam eva nigama-prathitaiḥ stuvanti govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "36 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tasya sādhaka-cayeṣv api bhakteṣu vadānyatvaṃ vadann ity eṣu kaimutyam āha yad-bhāveti | yathā samāna-guṇa-śīla-vayo-vilāsa-veśaiś cety āgama-rītyā nitya-tat-saṅgināṃ tat sāmyaṃ śrūyate tathaiva sambhāvyety arthaḥ -"
+        },
+        {
+          "ref": null,
+          "body": "ānanda-cinmaya-rasa-pratibhāvitābhis tābhir ya eva nija-rūpatayā kalābhiḥ | goloka eva nivasaty akhilātma-bhūto govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "37 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tat-preyasīnāṃ tu kiṃ vaktavyam, yataḥ parama-śrīṇāṃ tāsāṃ sāhityenaiva tasya tal-loke vāsa ity āha ānandeti | akhilānāṃ goloka-vāsināṃ anyeṣām api priya-vargānāṃ ātma-bhūtaḥ parama-preṣṭhatayātmavad avyabhicāry api tābhir eva saha nivasatīti tāsām atiśayitvaṃ darśitam | atra hetuḥ - kalābhiḥ hlādinī-śakti-vṛtti-rūpābhiḥ | atrāpi vaiśiṣṭyam āha - ānanda-cinmayo yo rasaḥ, parama-prema-maya ujvvala-nāmā, tena prati bhāvitābhiḥ | pūrvaṃ tāvat tāsāṃ tan-nāmnā rasena so'yaṃ bhāvito vāsito jātaḥ | tataś ca tena yāḥ pratibhāvitā jātāḥ, tābhiḥ saha ity arthaḥ | pratiśabdāl labhyate | yathā praty-upakṛtaḥ sa ity ukteḥ | tasya prāg-upakāritvam āyāti tadvat tatrāpi nija-rūpatayā sva-dāratvenaiva na tu prakaṭa-līlāvat para-dāratva-vyavahāreṇety arthaḥ | parama-lakṣmīṇāṃ tāsāṃ tat-para-dāratvāsambhavād asya sva-dāratva-maya-rasasya kautukāvaguṇṭhitatayā saumutkaṇṭhā poṣaṇārthaṃ prakaṭa-līlāyāṃ māyayaiva tādṛśatvaṃ vyañjitam iti bhāvaḥ | ya eva ity eva-kāreṇa yat prāpañcika-prakaṭa-līlāyāṃ tāsu para-dāratā-vyavahāreṇa nivasati so'yaṃ ya eva tad-aprakaṭa-līlāyāṃ tāsu para-dāratā vyavahāreṇa nivasati so'yaṃ ya eva tad-aprakaṭa-līlāspade goloke nija-rūpatā-vyavahāreṇa nivasatīti vyajyate | tathā ca vyākhyātaṃ gautamīya-tantre tad-aprakaṭa-nitya-līlā-śīlana-daśārṇa-vyākhyāne - aneka-janma-siddhānām ity ādau darśitam eva | goloka evety eva-kāreṇa seyaṃ līlā tu kvāpi nānyatra vidyate iti prakāśyate ||"
+        },
+        {
+          "ref": null,
+          "body": "premāñjana-cchurita-bhakti-vilocanena santaḥ sadaiva hṛdayeṣu vilokayanti | yaṃ śyāmasundaram acintya-guṇa-svarūpaṃ govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "38 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "yadyapi goloka eva nivasati tathāpi premāñjaneti | acintya-guṇa-svarūpam api premākhyaṃ yad añjana-cchuritavad uccaiḥ prakāśamānaṃ bhakti-rūpa-vilocanaṃ tenety arthaḥ | tena pratibimbavad dūrād apy uditaṃ hṛdaye manasy api paśyantīty arthaḥ | bhaktir atra samādhiḥ | tad uktaṃ śrī-gītāsu - ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham [Gītā"
+        },
+        {
+          "ref": null,
+          "body": "rāmādi-mūrtiṣu kalā-niyamena tiṣṭhan nānāvatāram akarod bhuvaneṣu kintu | kṛṣṇaḥ svayaṃ samabhavat paramaḥ pumān yo govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "39 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "sa eva kadācit prapañce nijāṃśena svayam avataratīty āha rāmādīnti yaḥ kṛṣṇākhyaḥ paramaḥ pumān kalā-niyamena tatra tatra niyatānām eva śaktīnāṃ prakāśena rāmādi-mūrtiṣu tiṣṭhan tat-tan-mūrtīḥ prakāśayan nānāvatāram akarot | ya eva svayaṃ samabhavad avatatāra | taṃ līlā-viśeṣeṇa govindaṃ santam ahaṃ bhajāmīty arthaḥ | tad uktaṃ śrī-daśame devaiḥ --"
+        },
+        {
+          "ref": null,
+          "body": "matsyāśva-kacchapa-nṛsiṃha-varāha-haṃsa- rājanya-vipra-vibudheṣu kṛtāvatāraḥ | tvaṃ pāsi nas tri-bhuvanaṃ ca yathādhuneśa bhāraṃ bhuvo hara yadūttama vandanaṃ te || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "yasya prabhā prabhavato jagad-aṇḍa-koṭi- koṭiṣv aśeṣa-vasudhādi vibhūti-bhinnam | tad brahma niṣkalam anantam aśeṣa-bhūtaṃ govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "40 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ tasya sarvāvatāritvena pūrṇatvam uktvā svarūpeṇāpy āha yasyeti | dvayor eka-rūpatve'pi viśiṣṭatayāvirbhāvāt śrī-govindasya dharmi-rūpatvam aviśiṣṭatayāvirbhāvāt brahmaṇo dharma-rūpatvaṃ tataḥ pūrvasya maṇḍala-snānīyatvam iti bhāvaḥ | tatra viṣṇu-purāṇam api sampravadate śubhāśrayaḥ sa-cittasya sarvagasya tathātmanaḥ [ViP"
+        },
+        {
+          "ref": null,
+          "body": "ataivaikādaśe sva-vibhūti-gaṇanāyāṃ tad api svayaṃ gaṇitam --"
+        },
+        {
+          "ref": null,
+          "body": "pṛthivī vāyur ākāśa āpo jyotir ahaṃ mahān | vikāraḥ puruṣo 'vyaktaṃ rajaḥ sattvaṃ tamaḥ param || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ṭīkā cātra - paraṃ brahma ca ity eṣā | śrī-matsya-devenāpy aṣṭame tathoktam - madīyaṃ mahimānaṃ ca paraṃ brahmeti śabditam [BhP"
+        },
+        {
+          "ref": null,
+          "body": "yad-aṇḍāntara-gocaraṃ ca yad daśottarāṇy āvaraṇāni yāni ca | guṇāḥ pradhānaṃ puruṣaḥ paraṃ padaṃ parātparaṃ brahma ca te vibhūtayaḥ || [Stotra-ratnam"
+        },
+        {
+          "ref": null,
+          "body": "ataivāha dhruvaś caturthe -"
+        },
+        {
+          "ref": null,
+          "body": "ataivātmārāmāṇām api tad guṇenākarṣaḥ śrūyate |"
+        },
+        {
+          "ref": null,
+          "body": "ātmārāmāś ca munayo nirgranthā apy urukrame | kurvanty ahaitukīṃ bhaktim itthambhūto guṇo hariḥ || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "atra viśeṣa-jijñāsā cet śrī-bhāgavata-sandarbho dṛśyatām ity alam ativistareṇa ||"
+        },
+        {
+          "ref": null,
+          "body": "māyā hi yasya jagad-aṇḍa-śatāni sūte traiguṇya-tad-viṣaya-veda-vitāyamānā | sattvāvalambi-para-sattvaṃ viśuddha-sattvam- govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "41 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ tasya svarūpa-gata-māhātmyaṃ darśayitvā jagad-gata-māhātmyaṃ darśayati dvābhyām | tatra bahiraṅga-śakti-māyācintya-kārya-gatam āha māyā hīti | māyayā hi tasya sparśo nāstīty āha sattveti | sattvasya rajas-tamo-miśrasyāśrayi yat paraṃ tad amiśraṃ śuddhaṃ sattvaṃ tasmād api viśuddhaṃ cic-chakti-vṛtti-rūpaṃ sattvaṃ yasya tam | tathoktaṃ śrī-viṣṇu-purāṇe -"
+        },
+        {
+          "ref": null,
+          "body": "hlādinī sandhinī saṃvit tvayy ekā guṇa-saṃśraye | hlāda-tāpa-karī miśrā tvayi no guṇa-varjite || [ViP 1.9.44-45] iti |"
+        },
+        {
+          "ref": null,
+          "body": "ānanda-cinmaya-rasātmatayā manaḥsu yaḥ prāṇināṃ pratiphalan smaratām upetya | līlāyitena bhuvanāni jayaty ajasram- govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "42 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha tan-maya-mohanatvam āha ānandeti | ānanda-cin-mayasya ujjvalākhyaḥ prema-rasaḥ | tad-ātmatayā tad-āliṅgitatayā prāṇināṃ manaḥsu pratiphalan-sarva-mohana-svāṃśa-cchurita-paramāṇu-pratibimbatayākiñcid udayann api smaratām upetyety ādi yojyam | yad uktaṃ rāsa-pañcādhyāyyāṃ - sākṣān manmatha-manmathaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "goloka-nāmni nija-dhāmni tale ca tasya devi maheśa-hari-dhāmasu teṣu teṣu | te te prabhāva-nicayā vihitāś ca yena govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "43 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad idaṃ prapañca-gataṃ māhātmyam uktvā nija-dhāma-gata-māhātmyam āha goloketi | devī-maheśety-ādi-gaṇanaṃ vyutkrameṇa jñeyam | devy-ādīnāṃ yathottara-mūrdhārdha-prabhavatvāt tal-lokānām ūrdhvordhva-bhāvitvam iti | golokasya sarvordhva-gāmitvaṃ vyāpakatvaṃ ca vyavasthāpitam asti | bhuvi prakāśamānasya vṛndāvanasya tu tenābhedaḥ pūrvatra darśitaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "sa tu lokas tvayā kṛṣṇa sīdamānaḥ kṛtātmanā | dhṛto dhṛtimatā vīra nighantopdadravān gavām || [HV"
+        },
+        {
+          "ref": null,
+          "body": "ity anenābhedenaiva hi goloka eva nivasatīty eva-kāraḥ saṃghaṭate | yato bhuvi prakāśamāne'smin vṛndāvane'pi tasya nitya-vihāritvaṃ śrūyate | yathā ādi-vārāhe -"
+        },
+        {
+          "ref": null,
+          "body": "gopakaiḥ sahitas tatra kṣaṇam ekaṃ dine dine | tatraiva ramaṇārthaṃ hi nitya-kālaṃ sa gacchati || iti |"
+        },
+        {
+          "ref": null,
+          "body": "ataiva gautamīye śrī-nārada uvāca --"
+        },
+        {
+          "ref": null,
+          "body": "etad-rūpam evāśritya vārāhādau te nitya-kadambādayo varṇitāḥ | tasmād adṛśyamānasyaiva vṛndāvanasya asmad-adṛśya tādṛśa-prakāśa-viśeṣa eva goloka iti labdham | yadā cāsmad-dṛśyamāne prakāśe sa-parikaraḥ śrī-kṛṣṇa āvirbhavati tadaiva tasyāvatāra ucyate | tadaiva ca rasa-viśeṣa-poṣāya saṃyoga-virahaḥ, punaḥ saṃyogādimaya-vicitra-līlā-pāradāryādi-vyavahāraś ca gamyate | yadā tu yathātra yathā vānyatra tantra-yāmala-saṃhitā-pañcarātrādiṣu tathā dig-darśanena viśeṣā jñeyāḥ | tathā ca daśame jayati jananivāso devakī janma-vādaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "gopa-kanyāvṛtaṃ gopaṃ hasantaṃ gopa-bālakaiḥ || iti |"
+        },
+        {
+          "ref": null,
+          "body": "anena atra yā gopa-kanyāś ceti pūrvoktena ca anālabdha-strī-dharma-vayaskatādi-bodhakena kanyā-padena tāsām anyādṛśatvaṃ nirākriyate | tathā ca gautamīye caturthādhyāye - atha vṛndāvanaṃ dhyāyet ity ārabhya tad-dhyānaṃ -"
+        },
+        {
+          "ref": null,
+          "body": "gopa-kanyā-sahasrais tu padma-patrāyatekṣaṇaiḥ | arcitaṃ bhāva-kusumais trailokyaika-guruṃ param || ity ādi |"
+        },
+        {
+          "ref": null,
+          "body": "tad-darśanādikārī ca darśitas tatraiva sad-ācāra-prasaṅge -"
+        },
+        {
+          "ref": null,
+          "body": "ahar-niśaṃ japen mantraṃ mantrī niyata-mānasaḥ | sa paśyati na sandeho gopa-veśa-dharaṃ harim || iti |"
+        },
+        {
+          "ref": null,
+          "body": "ataiva tāpanyāṃ brahma-vākyam - tad u hovāca brahmaṇo'sāv anavarataṃ me dhyātaḥ stutaḥ | parārdhānte so'budhyata | gopaveśo me puruṣaḥ purastād āvirbabhūva ||"
+        },
+        {
+          "ref": null,
+          "body": "iti tasmāt kṣīroda-śāyy ādy-avatāratayā tasya yat kathanaṃ tat tu tad-aṃśānāṃ tatra praveśāpekṣayā alam ativistareṇa śrī-kṛṣṇa-sandarbhe darśita-careṇa ||"
+        },
+        {
+          "ref": null,
+          "body": "sṛṣṭi-sthiti-pralaya-sādhana-śaktir ekā chāyeva yasya bhuvanāni bibharti durgā | icchānurūpam api yasya ca ceṣṭate sā govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "44 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha prastutam anusarāmaḥ | pūrvaṃ devī-maheśa-hari-dhāmnām uparicara-dhāmatvaṃ tasya caritaṃ, samprati tu tat-tad-āśrayatvād eva yogyam iti darśayati sṛṣṭīti pañcabhiḥ | yathoktaṃ śrutibhiḥ | tvam akaraṇaḥ svarāḍ akhila-kāraka-śakti-dharas tava balim udvahanti samadantyajayā nimiṣā iti ||"
+        },
+        {
+          "ref": null,
+          "body": "kṣīraṃ yathā dadhi vikāra-viśeṣa-yogāt sañjāyate na hi tataḥ pṛthag asti hetoḥ | yaḥ śambhutām api tathā samupaiti kāryād govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "45 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha krama-prāptaṃ maheśaṃ nirūpayati kṣīram iti | kārya-kāraṇa-bhāva-mātrāṃśe dṛṣṭānto'yaṃ dārṣṭāntika-kāraṇasya nirvikāratvāt cintāmaṇy-ādivat acintya-śaktyaiva tad-ādi-kāryatayāpi sthitatvāt | śrutiś ca eko nārāyaṇa evāgra āsīt, na brahmā na ca śaṅkaraḥ, sa munir bhūtvā samacintayat | tata evaite vyajāyanta viśvo hiraṇyagarbho'gnir varuṇa-rudrendrāḥ iti tathā sa brahmaṇā sṛjati rudreṇa nāśayati | so'nutpatti-laya eva hariḥ | kāraṇa-rūpaḥ paraḥ paramānandaḥ | iti | śambhor api kāryatvaṃ guṇa-saṃvalanāt | yathoktaṃ śrī-daśame -"
+        },
+        {
+          "ref": null,
+          "body": "harir hi nirguṇaḥ sākṣāt puruṣaḥ prakṛteḥ paraḥ sa sarva-dṛg upadraṣṭā taṃ bhajan nirguṇo bhavet || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "etad evoktaṃ - vikāra-viśeṣa-yogād iti | kutracid abhedoktir yā dṛśyate tām api samādadhāti tato hetoḥ pṛthaktvaṃ nāstīti | yathoktam ṛg-veda-śirasi - atha nityo deva eko nārāyaṇaḥ | brahmā nārāyaṇaḥ | śivaś ca nārāyaṇaḥ | śakraś ca nārāyaṇaḥ | dvādaśādityāś ca nārāyaṇaḥ | vāsavo nārāyaṇaḥ | aśvinī nārāyaṇaḥ | sarve ṛṣayo nārāyaṇaḥ | kālaś ca nārāyaṇaḥ | diśaś ca nārāyaṇaḥ | adhaś ca nārāyaṇaḥ | ūrdhvaś ca nārāyaṇaḥ | antar bahiś ca nārāyaṇaḥ | nārāyaṇa evedaṃ sarvaṃ jātaṃ jagatyāṃ jagad ity ādi | dvitīye brahmaṇā tv evam uktaṃ -"
+        },
+        {
+          "ref": null,
+          "body": "sṛjāmi tan-niyukto 'haṃ haro harati tad-vaśaḥ | viśvaṃ puruṣa-rūpeṇa paripāti tri-śakti-dhṛk || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "dīpārcir eva hi daśāntaram abhyupetya dīpāyate vivṛta-hetu-samāna-dharmā | yas tādṛg eva hi ca viṣṇutayā vibhāti govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "46 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha krama-prāptaṃ hari-svarūpam ekaṃ nirūpayan guṇāvatāra-maheśa-prasaṅgād guṇāvatāraṃ viṣṇuṃ nirūpayati dīpārcir iti | tādṛktve hetuḥ | vivṛta-heta-samāna-dharmeti | yadyaḸ śrī-govindāṃśāṃśaḥ kāraṇārṇava-śāyī tasya garbhodaka-śāyī, tasya cāvatāro'yaṃ viṣṇur iti labhyate tathāpi mahā-dīpāt krama-paramparayātisūkṣma-nirmala-dīpasyoditasya | jyoti-rūpatvāṃśe yathā tena saha sāmyam | tathā govindena viṣṇur gamyate | śambhos tu tamo'dhiṣṭhānatvāt kajjvala-maya-sūkṣma-dīpa-śikhā-sthānīyasya na tathā sāmyam iti bodhanāya tad ittham ucyate | mahā-viṣṇor api kalā-viśeṣatvena darśayiṣyamāṇatvāt ||"
+        },
+        {
+          "ref": null,
+          "body": "46 ||"
+        },
+        {
+          "ref": null,
+          "body": "yaḥ kāraṇārṇava-jale bhajati sma yoga- nidrām ananta-jagad-aṇḍa-sa-roma-kūpaḥ | ādhāra-śaktim avalambya parāṃ sva-mūrtiṃ govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "47 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha kāraṇārṇava-śāyinaṃ nirūpayati | ananta-jagad-aṇḍaiḥ saha roma-kūpā yasya saḥ | saha-śabdasya pūrva-nipātābhāvaḥ, ārṣaḥ | ādhāra-śakti-mayīṃ parāṃ sva-mūrtiṃ, śeṣākhyām ||"
+        },
+        {
+          "ref": null,
+          "body": "47 ||"
+        },
+        {
+          "ref": null,
+          "body": "yasyaika-niśvasita-kālam athāvalambya jīvanti loma-vilajā jagad-aṇḍa-nāthāḥ | viṣṇur mahān sa iha yasya kalā-viśeṣo govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "48 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tatra sarva-brahmāṇḍa-pālako yas tavāvatāratayā mahā-brahmādi-sahacaratvena tad-atibhinnatvena ca mahā-viṣṇur darśitaḥ | atra ca tam apy evaṃ tat-salakṣaṇatayā varṇayati | tat-taj-jagad-aṇḍa-nāthā viṣṇv-ādayaḥ jīvanti tat-tad-adhikāritayā jagati prakaṭaṃ tiṣṭhanti ||"
+        },
+        {
+          "ref": null,
+          "body": "48 ||"
+        },
+        {
+          "ref": null,
+          "body": "bhāsvān yathāśma-śakaleṣu nijeṣu tejaḥ svīyam kiyat prakaṭayaty api tadvad atra | brahmā ya eṣa jagad-aṇḍa-vidhāna-kartā govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "49 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ devy-ādīnāṃ tad-āśrayakatvaṃ darśayitvā prasaṅga-saṅgatyā brahmaṇaś ca darśayan atīva-bhinnatayā jīvatvam eva spaṣṭayati bhāsvān iti | bhāsvān sūryo, yathā nijeṣu nitya-svīyatvena vikhyāteṣu aśma-sakaleṣu sūrya-kāntākhyeṣu svīyaṃ kiñcit tejaḥ prakaṭayati | api-śabdāt tena tad-upādhikāṃśena dāhādi-kāryaṃ svayam eva karoti | tathā ya eva jīva-viśeṣa-kiñcit-tejaḥ prakaṭayati | tena tad-upādhikāṃśena svayam eva brahmā san jagad-aṇḍe brahmāṇḍe vidhāna-kartā vyaṣṭi-sṛṣṭi-kartā bhavatīty arthaḥ | yad vā mahā-brahmaivāyaṃ varṇyate | tad-upalakṣito mahā-śivaś ca jñeyaḥ | tataś ca jagad-aṇḍānāṃ vidhāna-kartṛtvaṃ ca yuktam eva | yadyapi durgākhyā māyā kāraṇārṇava-śāyina eva karmakarī | yadyapi ca brahma-viṣṇv-ādyā garbhodaka-śāyina evāvatārās tathāpi tasya sarvāśrayatayā te'pi tad-āśritatayā gaṇitāḥ | evam uttaratrāpi ||"
+        },
+        {
+          "ref": null,
+          "body": "49 ||"
+        },
+        {
+          "ref": null,
+          "body": "yat-pāda-pallava-yugaṃ vinidhāya kumbha- dvandve praṇāma-samaye sa gaṇādhirājaḥ | vighnān vihantum alam asya jagat-trayasya govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "50 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "atha sarve sarva-vighna-nivāraṇārthaṃ prathamaṃ gaṇapatiṃ stuvantīti tasyaiva stuti-yogyatety āśaṅkayā pratyācaṣṭe yat-pādeti | kaimutyena tad evaṃ dṛḍhīkṛtaṃ śrī-kapila-devena -- yat-pāda-niḥsṛta-sarit-pravarodakena tīrthena mūrdhny adhikṛtena śivaḥ śivo 'bhūt [BhP"
+        },
+        {
+          "ref": null,
+          "body": "agnir mahi gaganam ambu marud diśaś ca kālas tathātma-manasīti jagat-trayāṇi | yasmād bhavanti vibhavanti viśanti yaṃ ca govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "51 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tac ca yuktam ity āha agnir mahīti | sarvaṃ spaṣṭam ||"
+        },
+        {
+          "ref": null,
+          "body": "51 ||"
+        },
+        {
+          "ref": null,
+          "body": "yac-cakṣur eṣa savitā sakala-grahāṇāṃ rājā samasta-sura-mūrtir aśeṣa-tejāḥ | yasyājñayā bhramati sambhṛta-kāla-cakro govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "52 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "kecit sa-vitāraṃ sarveśvaraṃ vadanti yathāha yac-cakṣur iti ya eva cakṣuḥ prakāśako yasya saḥ |"
+        },
+        {
+          "ref": null,
+          "body": "yad āditya-gataṃ tejo jagad bhāsayate'khilam | yac candramasi yac cāgnau tat tejo viddhi māmakam || iti gītābhyaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "bhīṣāsmād vātaḥ pavate bhīṣodeti sūryaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "ity ādi śruteḥ | virāḍ-rūpasyaiva savitṛ-cakṣuṣṭvāc ca ||"
+        },
+        {
+          "ref": null,
+          "body": "dharmo 'tha pāpa-nicayaḥ śrutayas tapāṃsi brahmādi-kīṭa-patagāvadhayaś ca jīvāḥ | yad-datta-mātra-vibhava-prakaṭa-prabhāvā govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "53 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "kiṃ bahunā, dharma iti | ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate [Gītā"
+        },
+        {
+          "ref": null,
+          "body": "yas tv indragopam athavendram aho sva-karma- bandhānurūpa-phala-bhājanam ātanoti | karmāṇi nirdahati kintu ca bhakti-bhājāṃ govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "54 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "ataiva sarveśvaras tu parjanyavad draṣṭavyaḥ iti nyāyena karmānurūpa-phala-dātṛtvena sāmye'pi bhakte tu pakṣapāta-viśeṣaṃ karotīty āha yas tv indreti |"
+        },
+        {
+          "ref": null,
+          "body": "samo'haṃ sarva-bhūteṣu na me dveṣo'sti na priyaḥ | ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham || [Gītā"
+        },
+        {
+          "ref": null,
+          "body": "yaṃ krodha-kāma-sahaja-praṇayādi-bhīti- vātsalya-moha-guru-gaurava-sevya-bhāvaiḥ | sañcintya tasya sadṛśīṃ tanum āpur ete govindam ādi-puruṣaṃ tam ahaṃ bhajāmi ||"
+        },
+        {
+          "ref": null,
+          "body": "55 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "ya eva ca vairbhyo'py anya-durlabha-phalaṃ dadāti kim uta sva-viṣayaka-kāmādinā niṣkāma-śreṣṭhebhyaḥ | tataḥ ko vānyo bhajanīya iti bhajāmīty anta-prakaraṇam upasaṃharati yaṃ krodheti | sahaja-praṇayaṃ sakhyam | vātsalya-pitrādy-ucita-bhāvaḥ | mohaḥ sarva-vismaraṇa-maya-bhāvaḥ | para-brahmatayāsphūrtiḥ | guru-gauravaṃ svasmin pitṛtvādi-bhāvanāmayam | sevyo'yaṃ memeti bhāvanā dāsyam ity arthaḥ | tasya sadṛśīṃ krodhāveśino'prākṛta-mātrāṃśena, tu tat tad bhāvanā yogya-rūpa-guṇāṃśa-lābha-tāratamyena tulyam ity arthaḥ | adṛṣṭānyatamaṃ loke śīlaudārya-guṇaiḥ samam iti śrī-vāsudeva-vākyasya | jagad-vyāpāra-varjam [Vs."
+        },
+        {
+          "ref": null,
+          "body": "śriyaḥ kāntāḥ kāntaḥ parama-puruṣaḥ kalpa-taravo drumā bhūmiś cintāmaṇi-gaṇa-mayi toyam amṛtam | kathā gānaṃ nāṭyaṃ gamanam api vaṃśī priya-sakhi cid-ānandaṃ jyotiḥ param api tad āsvādyam api ca || //"
+        },
+        {
+          "ref": null,
+          "body": "sa yatra kṣīrābdhiḥ sravati surabhībhyaś ca su-mahān nimeṣārdhākhyo vā vrajati na hi yatrāpi samayaḥ | bhaje śvetadvīpaṃ tam aham iha golokam iti yaṃ vidantas te santaḥ kṣiti-virala-cārāḥ katipaye ||"
+        },
+        {
+          "ref": null,
+          "body": "56 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ nijeṣṭa-devaṃ bhajanīyatvena stutvā tena viśiṣṭaṃ tal lokaṃ tathā stauti śriyaḥ kāntā iti yugmakena | śriyaḥ śrī-vraja-sundarī rūpās tāsām eva mantre dhyāne ca sarvatra prasiddheḥ | tāsām anantānām apy eka eva kāntaḥ iti parama-nārāyaṇādibhyo'pi tasya tat-tal-lokebhyo'pi tadīya-lokasya cāsya māhātmyaṃ darśitam | kalpa-taravo drumāḥ iti teṣāṃ sarveṣām eva sarva-pradatvāt tvāt tathaiva prathitam |"
+        },
+        {
+          "ref": null,
+          "body": "bhūmir ity ādikaṃ ca tadvad bhūmir api sarva-spṛhāṃ dadāti kim uta kaustubhādi | toyam apy amṛtam iva svādu kim utāmṛtam ity ādi | vaṃśī priya-sakhīva sarvataḥ śrī-kṛṣṇasya sukha-sthiti-śrāvakatvena jñeyam | cid-ānanda-lakṣaṇaṃ vastv eva jyotiś candra-sūryādi-rūpam | samānodita-candrārkam iti vṛndāvana-viśeṣaṇaṃ gautamīya-tantra-dvaye | tac ca nitya-pūrṇa-candratvāt tathā tad eva param api tat tat prakāśyam apīty arthaḥ |"
+        },
+        {
+          "ref": null,
+          "body": "tathā tad eva teṣām āsvādyaṃ bhogyam api ca cic-chaktimayatvād iti bhāvaḥ | darśayāmāsa lokaṃ svaṃ gopānāṃ tamasaḥ param [BhP"
+        },
+        {
+          "ref": null,
+          "body": "tvag-bījaṃ caiva heyāṃśaṃ kaṭhināṃśaṃ ca yad bhavet | sarvaṃ tad bhautikaṃ viddhi nahi bhūtamayaṃ hi tat | rasavad bhautikaṃ dravyam atra syād rasa-rūpakam || iti |"
+        },
+        {
+          "ref": null,
+          "body": "surabhībhyaś ca saratīti tvadīya-vaṃśī-dhvany-ādy-āveśād iti bhāvaḥ | vrajati nahīti tad-āveśena te tad-vāsinaḥ kālam api na jānantīti bhāvaḥ | kāla-doṣās tatra na santīti vā | na ca kālaḥ vikramaḥ [BhP"
+        },
+        {
+          "ref": null,
+          "body": "athovāca mahā-viṣṇur bhagavantaṃ prajāpatim | brahman mahattva-vijñāne prajā-sarge ca cen matiḥ | pañca-ślokīm imāṃ vidyāṃ vatsa dattāṃ nibodha me ||"
+        },
+        {
+          "ref": null,
+          "body": "57 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tad evaṃ tasya stutim uktvā śrī-bhagavat-prasāda-lābham āha atheti | sarvaṃ spaṣṭam ||"
+        },
+        {
+          "ref": null,
+          "body": "prabuddhe jñāna-bhaktibhyām ātmany ānanda-cin-mayī | udety anuttamā bhaktir bhagavat-prema-lakṣaṇā ||"
+        },
+        {
+          "ref": null,
+          "body": "58 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "pramāṇais tat-sad-ācārais tad-abhyāsair nirantaram | bodhayan ātmanātmānaṃ bhaktim apy uttamāṃ labhet ||"
+        },
+        {
+          "ref": null,
+          "body": "59 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "prema-lakṣaṇa-bhakteḥ sādhana-jñāna-rūpayoḥ bhaktyoḥ prāpty-upāyam āha pramāṇair iti | pramāṇair bhagavac-chāstrais tat-sadācārais tadīyā ye santas teṣām ācārair anusṭānais tad-abhyāsais teṣām eva paunaḥpuṇyena bāhulyena ātmanā ātmānaṃ bodhayati svayam eva svaṃ bhagavad-āśritaḥ śuddha-jīva-rūpam anubhavati, tato'py uttamāṃ śuddhāṃ bhaktiṃ labhata iti | tathā ca śruti-stave -"
+        },
+        {
+          "ref": null,
+          "body": "sva-kṛta-pureṣv amīṣv abahir-antara-saṃvaraṇaṃ tava puruṣaṃ vadanty akhila-śakti-dhṛto 'ṃśa-kṛtam | iti nṛ-gatiṃ vivicya kavayo nigamāvapanaṃ bhavata upāsate 'ṅghrim abhavaṃ bhuvi viśvasitāḥ || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "yasyāḥ śreyas-karaṃ nāsti yayā nirvṛtim āpnuyāt | yā sādhayati mām eva bhaktiṃ tām eva sādhayet ||"
+        },
+        {
+          "ref": null,
+          "body": "60 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "dharmān anyān parityajya mām ekaṃ bhaja viśvasan | yādṛśī yādṛśī śraddhā siddhir bhavati tādṛśī || //"
+        },
+        {
+          "ref": null,
+          "body": "kurvan nirantaraṃ karma loko 'yam anuvartate | tenaiva karmaṇā dhyāyan māṃ parāṃ bhaktim icchati ||"
+        },
+        {
+          "ref": null,
+          "body": "61 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "punaḥ śuddhām eva sādhana-bhaktiṃ draḍhayann akāmair api tām eva kuryād ity āha - dharmān anyān iti | tad uktaṃ -"
+        },
+        {
+          "ref": null,
+          "body": "akāmaḥ sarva-kāmo vā mokṣa-kāma udāra-dhīḥ | tīvreṇa bhakti-yogena yajeta puruṣaṃ param || [BhP"
+        },
+        {
+          "ref": null,
+          "body": "ahaṃ hi viśvasya carācarasya bījaṃ pradhānaṃ prakṛtiḥ pumāṃś ca | mayāhitaṃ teja idaṃ bibharṣi vidhe vidhehi tvam atho jaganti ||"
+        },
+        {
+          "ref": null,
+          "body": "62 ||"
+        },
+        {
+          "ref": null,
+          "body": "// ||"
+        },
+        {
+          "ref": null,
+          "body": "tasmāt tava sisṛkṣāpi phaliṣyatīti sa-yuktikam āha - ahaṃ hīti | pradhānaṃ śreṣṭhaṃ bījaṃ, pūrṇa-bhagavad-rūpaṃ prakṛtir avyaktaṃ, pumān tad-draṣṭā, kiṃ bahunā tavam api mayā āhitaṃ arpitaṃ teja idaṃ bibharṣi, tasmāt tena mat-tejasā jaganti sarvāṇi sthāvara-jaṅgamāni he vidhe hi kurv iti ||"
+        },
+        {
+          "ref": null,
+          "body": "62 ||"
+        },
+        {
+          "ref": null,
+          "body": "iti śrī-brahma-saṃhitāyāṃ mūla-sūtrākhyasya pañcamādhyāyasya śrīla-śrīpāda-śrī-jīva-gosvāmi-kṛtā dig-darśanī nāmnī ṭīkā samāptā ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "aku_count": 76,
+      "akus": [
+        {
+          "ref": "BrS_5.1",
+          "body": "//"
+        },
+        {
+          "ref": "5.56",
+          "body": "iti | tāpanyāṃ ca -kṛṣṇo vai paramaṃ daivatam [GTU"
+        },
+        {
+          "ref": "5.68.12",
+          "body": "iti |"
+        },
+        {
+          "ref": "BrS_5.2",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.3",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.4",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.5",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.6",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.7",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.8",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.9",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.10",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.11",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.12ab",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.12",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.13",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.14",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.14",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.16",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.17",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.18add",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.19",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.20",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.21",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.22",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.23",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.24",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.25",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.26",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.27",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.28",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.29",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.30",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.31",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.32",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.33",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.34",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.35",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.36",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.37",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.38",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.39",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.40",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.41",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.42",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.43",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.44",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.45",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.46",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.47",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.48",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.49",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.50",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.51",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.52",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.53",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.54",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.55",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.56",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.57",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.58",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.59",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.60",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.61",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.62",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.63",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.64",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.65",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.66",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.67",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.68",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.69",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.70",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.71",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.72",
+          "body": "//"
+        },
+        {
+          "ref": "BrS_5.73",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 1,
+      "aku_count": 16,
+      "akus": [
+        {
+          "ref": "1.3.28",
+          "body": "iti tad eva prathamam āha īśvara iti | atra kṛṣṇa ity eva viśeṣya tan-nāmaiva | kṛṣṇāvatārotsavety ādau śrī-śukādi-mahājana-prasiddhyā | kṛṣṇāya vāsudevāya devakī-nandanāya ity ādau sāmopaniṣadi ca | prathama-pratītatvena tan-nāma-vargāvirbhāva-kṛtā gargeṇa prathamam uddiṣṭatvena tathā yaṃ mantram adhikṛtya so'yam ārambhaḥ tatrāgrataḥ paricitatvena mūla-rūpatvāt | tad uktaṃ padma-purāṇe prabhāsa-khaṇḍe nārada-kuśadhvaja-saṃvāde śrī-bhagavad-uktau - nāmnāṃ mukhyatamaṃ nāma kṛṣṇākhyaṃ me parantapa iti |"
+        },
+        {
+          "ref": "1.12.57",
+          "body": "iti viṣṇu-purāṇāt |"
+        },
+        {
+          "ref": "1.19",
+          "body": "iti | yasmād eva tādṛg-īśvaraḥ, tasmāt paramaḥ | sarvotkṛṣṭā mā lakṣmī-rūpāḥ śaktayo yasmin | tad uktaṃ śrī-bhāgavate --reme ramābhir nija-kāma-samplutaḥ [BhP"
+        },
+        {
+          "ref": "1.3",
+          "body": "iti | yasmād eva tādṛk paramas tasmād ādiś ca | tad uktaṃ śrī-daśame -"
+        },
+        {
+          "ref": "1.26",
+          "body": "iti |"
+        },
+        {
+          "ref": "1.37",
+          "body": "iti |"
+        },
+        {
+          "ref": "1.1.22",
+          "body": "iti nyāya-prasiddheś ca | tad-gata-brahmākārodayāntaram eva vaikuṇṭha-prāpteḥ yathājāmilasya | tad evam upary upari sarvopary api virājamāne tatra śrī-goloke'pi tava gatiḥ | śrī-govinda-rūpeṇa krīḍā vartata ity arthaḥ |"
+        },
+        {
+          "ref": "1.7.23",
+          "body": "iti prathame śrīmad-arjuna-vacanāt | tarhi tat-preraṇaṃ vinā kathaṃ sṛṣṭis tatrāha | sisṛkṣayā sraṣṭum icchayā tyaktaḥ sṛṣṭy-arthaṃ prahitaḥ kālaḥ yasmāt ramaṇāt tādṛśaṃ yathā syāt tathā reme | prathamānta-pāṭhas tu sugamaḥ | tat prabhāva-rūpeṇa tenaiva sā sidhyatīti bhāvaḥ |"
+        },
+        {
+          "ref": "1.8.17",
+          "body": "iti |"
+        },
+        {
+          "ref": "1.9.142",
+          "body": "iti ca |"
+        },
+        {
+          "ref": "1.9.145",
+          "body": "iti ca |"
+        },
+        {
+          "ref": "1.8",
+          "body": "iti tāpanī-śrutau | tad-dhyāne taruṇa-śabdasya nava-yauvana eva śobhā vidhānatvena tātparyāt |"
+        },
+        {
+          "ref": "1.19",
+          "body": "iti gopāla-tāpanyām |"
+        },
+        {
+          "ref": "1.7.11",
+          "body": "iti |"
+        },
+        {
+          "ref": "1.2",
+          "body": "itivat | tad evaṃ tat-kāraṇatve'pi smarāveśasya duṣṭatvaṃ jagad-āveśavat ||"
+        },
+        {
+          "ref": "1.2",
+          "body": "42 ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "6.2.1",
+          "body": "iti śruteḥ | abhinnābhidheyatve'pi vṛkṣas tarur ityvad viśeṣaṇa-viśeṣyatvāyogād ekasya vaiyarthyāc ca | gautamīyaṃ padyaṃ caiva vyākhyeyam | pūrvārdhe sarvākarṣaṇa-śakti-viśiṣṭa ānandaḥ kṛṣṇa ity arthaḥ | uttarārdhe yasmād evaṃ sarvākarṣaka-sukha-rūpo'sau tasmād ātmā jīvaś ca tatra sukha-rūpo bhavet | tatra hetu-bhāvaḥ premā tanmayānandatvād iti |"
+        },
+        {
+          "ref": "6.8",
+          "body": "iti |"
+        },
+        {
+          "ref": "6.14.5",
+          "body": "iti ṣaṣṭhāt |"
+        },
+        {
+          "ref": "6.7.76",
+          "body": "iti | vyākhyātaṃ ca śrīdhara-svāmibhiḥ - sarvagasyātmanaḥ ppara-brahmaṇo apy āśrayaḥ pratiṣṭhā | tad uktaṃ bhagavatā brahmaṇo hi pratiṣṭhāham [Gītā"
+        }
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "7.15.58",
+          "body": "iti, yan-mitraṃ paramānandaṃ pūrṇaṃ brahma sanātanam iti [BhP"
+        },
+        {
+          "ref": "7",
+          "body": "||"
+        },
+        {
+          "ref": "7.15.58",
+          "body": "iti māthura-vākyāc ca |"
+        }
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "aku_count": 46,
+      "akus": [
+        {
+          "ref": "10.14.32",
+          "body": "| śrī-viṣṇu-purāṇe - yatrāvatīrṇaṃ kṛṣṇākhyaṃ paraṃ brahma narākṛti [ViP"
+        },
+        {
+          "ref": "10.42",
+          "body": "iti | śrī-gopāla-tāpanyām-eko vaśī sarvagaḥ kṛṣṇa īḍyaḥ [GTU"
+        },
+        {
+          "ref": "10.59.43",
+          "body": "iti | nāyaṃ śriyo'ṅga u nitānta-rateḥ prasādaḥ [BhP"
+        },
+        {
+          "ref": "10.47.60",
+          "body": "ityādi | tatrātiśuśubhe tābhir bhagavān devakī-sutaḥ [BhP"
+        },
+        {
+          "ref": "10.33.6",
+          "body": "iti | tābhir vidhūta-śokābhir bhagavān acyuto vṛtaḥ | vyarocatādhikam [BhP"
+        },
+        {
+          "ref": "10.32.20",
+          "body": "iti ca | atraivāgre vakṣyate - śriyaḥ kāntāḥ kāntaḥ parama-puruṣaḥ [BrahmaS"
+        },
+        {
+          "ref": "10.72.15",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.85.31",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.14.3",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.3.24",
+          "body": "ity ādi |"
+        },
+        {
+          "ref": "10.14.18",
+          "body": "ity ādi śrī-brahmaṇo vākye tad amitaṃ brahmādvayaṃ śiṣyate iti | śrī-gītāsu brahmaṇo hi pratiṣṭhāham iti |"
+        },
+        {
+          "ref": "10.14.49",
+          "body": "ity-ādi-praśnottarayor vyaktam | tathā cānubhūtam ānakadundubhinā --"
+        },
+        {
+          "ref": "10.3.13",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.14.55",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.27.23",
+          "body": "ity uktvā tat prakaraṇārambhe śrī-śuka-prārthanā prīyān na indro gavām [BhP"
+        },
+        {
+          "ref": "10.26.25",
+          "body": "iti gavāṃ sarvāśrayatvād gavendratvenaiva sarvendratva-siddheḥ | na cedaṃ nyūnaṃ mantavyam | tathā hi go-sūktam -"
+        },
+        {
+          "ref": "10.14.34",
+          "body": "ity ādi, śrī-nanda-nandanatvenaiva ca taṃ labdhuṃ prārthanā | naumīḍya te'bhra-vapuṣe taḍid-ambarāya ity ādi paśupāṅgajāya [BhP"
+        },
+        {
+          "ref": "10.14.1",
+          "body": "iti | tad evaṃ govinda-śabdasya nānā-pāramaiśvarya-mayy anyārthatāpi tena nābhimatā | tathā coktaṃ - īśvaratve parameśvaratvānuvāda-pūrvaka-tātparyāvasānatayā gautamīya-tantre śrīmad-daśākṣara-mantrārtha-kathane -"
+        },
+        {
+          "ref": "10.8.14",
+          "body": "iti | ātmajatvaṃ hi tasya śrī-vasudevasyāpi manasy āvirbhūtatvam evābhimatam | āviveśāṃśa-bhāgena mana ānakadundubheḥ [BhP"
+        },
+        {
+          "ref": "10.2.16",
+          "body": "iti | śrī-devakyām api dadhāra sarvātmakam ātma-bhūtaṃ kāṣṭhā yathānanda-karaṃ manastaḥ [BhP"
+        },
+        {
+          "ref": "10.2.18",
+          "body": "ity ādeḥ | śrī-vrajeśvarayo'pi tathāsīd eva phalena phala-kāraṇam anumīyate | śrī-bhagavat-prādurbhāvasya pūrvāvyavahita-kālaṃ vyāpya tathā tathā sarvatra darśanāt | kintv ātmani tasyāvirbhāve saty apy ātmajatvāya pitṛ-bhāva-maya-śuddha-mahā-premaiva prayojakam | brahmaṇaḥ sakāśād varāha-devasyāvirbhāve'pi parasparaṃ tathā bhāva-darśanābhāvāt | tathā nṛsiṃha-devaḥ stambhayor api | na ca vaktavyam udara-praveśe sati putratvaṃ syāt | parīkṣid-rakṣaṇārthaṃ tan-mātur udara-praviṣṭe ca tayos tādṛśa-vyavahārābhāvāt | tasmāt vātsalyābhidha-premaiva putratve kāraṇam | tādṛśa-śuddha-premā tu śrī-vrajeśvarayor eva śrī-vasudeva-devakyos tu paramaiśvarya-jñānaṃ pratibandhakaṃ iti sādhūktaṃ prāg ayaṃ vasudevasya iti |"
+        },
+        {
+          "ref": "10.9.21",
+          "body": "iti | āgama-vidbhir api sakala-loka-maṅgalo nanda-gopa-tanayo devatā iti | ataḥ śrīmad-daśākṣara-viniyoge'pi tan-maya eva dṛśyate iti | atha viśeṣaḥ śrī-vaiṣṇava-toṣaṇyāṃ nandas tv ātmaja utpannaḥ [BhP"
+        },
+        {
+          "ref": "10.5.1",
+          "body": "ity ādau draṣṭavyaḥ |"
+        },
+        {
+          "ref": "10.36.15",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.45.23",
+          "body": "iti | ataiva kamalasya patrāṇi śriyāṃ tat-preyasīnāṃ gopī-rūpāṇāṃ śrī-rādhādīnām upavana-rūpāṇi dhāmānīty arthaḥ | gopī-rūpatvaṃ cāsāṃ mantrasya tan-nāmnāliṅgitatvāt rādhāditvaṃ ca -"
+        },
+        {
+          "ref": "10.25.18",
+          "body": "ity anena |"
+        },
+        {
+          "ref": "10.90.16",
+          "body": "iti śruteḥ |"
+        },
+        {
+          "ref": "10.14.34",
+          "body": "iti śrī-brahma-stavānusāreṇa tad-vidha-parama-bhaktānām api sādhyās tādṛśa-siddhi-prāptaye prāsādhanīyāḥ śrī-gopī-prabhṛtayas taṃ pālayanti |"
+        },
+        {
+          "ref": "10.35.25",
+          "body": "ity-uktānusāreṇa atraiva nighnatopadravān gavām ity uktyā ca goloka-vāsi-mātrāṇāṃ svatas tad-bhāva-bhāvitānāṃ ca sādhana-vaśād ity arthaḥ | atas tad-bhāvasya durlabhatvād durārohā | tad evaṃ golokaṃ varṇayitvā tasya gokulena sahābhedam āha sa tv iti | sa eva tu sa loko dhṛto rakṣitaḥ śrī-govardhanoddharaṇeneti | evam eva mokṣa-dharma-śrī-nārāyaṇīyopākhyāne śrī-bhagavad-vākyam -"
+        },
+        {
+          "ref": "10",
+          "body": "||"
+        },
+        {
+          "ref": "10.14.11",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.28.14",
+          "body": "ity uktvā,"
+        },
+        {
+          "ref": "10.28.17",
+          "body": "iti śrī-śuka-vākyāc ca |"
+        },
+        {
+          "ref": "10.14.20",
+          "body": "iti brahma-vākyāt gūḍhaḥ purāṇa-puruṣo vana-citra-mālyaḥ [BhP"
+        },
+        {
+          "ref": "10.44.14",
+          "body": "ity ādau | anusavābhinavaṃ iti daśamāt | yasyānanaṃ makara-kuṇḍalādi nityotsavam [BhP"
+        },
+        {
+          "ref": "10.47.61",
+          "body": "iti | adyāpi yat-pada-rajaḥ śruti-mṛgyam eva [BhP"
+        },
+        {
+          "ref": "10.14.34",
+          "body": "iti ca śrī-daśamāt |"
+        },
+        {
+          "ref": "10.14.5",
+          "body": "ity ādi śrī-daśamāc ca |"
+        },
+        {
+          "ref": "10.9.13",
+          "body": "ity ādeḥ | aṇor aṇīyān mahato mahīyān [ŚvetU"
+        },
+        {
+          "ref": "10.2.40",
+          "body": "iti ||"
+        },
+        {
+          "ref": "10.32.2",
+          "body": "iti, cakṣuṣaś cakṣuḥ [KenaU"
+        },
+        {
+          "ref": "10.90.48",
+          "body": "ity ādi | tathā ca pādme nirvāṇa-khaṇḍe śrī-bhagavad-vyāsa-vākye -"
+        },
+        {
+          "ref": "10.88.5",
+          "body": "iti |"
+        },
+        {
+          "ref": "10.8",
+          "body": "iti śrī-gītābhyaḥ ||"
+        },
+        {
+          "ref": "10.28.14",
+          "body": "iti śrī-daśamāt | hayaśīrṣa-pañcarātre ca vaikuṇṭhastha-tattva-nirūpaṇe --"
+        },
+        {
+          "ref": "10.87.20",
+          "body": "iti ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "4.11.2",
+          "body": "iti | śrī-gītāsu ca brahmaṇo hi pratiṣṭhāham [Gītā"
+        },
+        {
+          "ref": "4.5",
+          "body": "iti śrī-bhagavad-gītā-vacanām anādi-janma-paramparāyām eva tātparyam |"
+        },
+        {
+          "ref": "4.4.17",
+          "body": "iti brahma-sūtrasya, prayojyamāne mayi tāṃ śuddhāṃ bhāgavatīṃ tanum iti śrī-nārada-vākyasya ca dṛṣṭyā sarvathā tat-sadṛśatve virodhāt | vaireṇa yaṃ nṛpatayaḥ ity ādau anurakta-dhiyām punaḥ kim ity anurakta-dhīṣu suṣṭhv iti | anena goloka-stha-prapañcāvatīrṇayor ekatvam eva darśitam | tad uktaṃ - nandādayas tu taṃ dṛṣṭvā ity ādi ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 14,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "14.27",
+          "body": "iti | śrī-gopāla-tāpanīṣu ca yo'sau paraṃ brahma gopālaḥ iti |"
+        },
+        {
+          "ref": "14",
+          "body": "||"
+        },
+        {
+          "ref": "14.27",
+          "body": "iti |"
+        },
+        {
+          "ref": "14",
+          "body": "iti |"
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "aku_count": 7,
+      "akus": [
+        {
+          "ref": "3.2.21",
+          "body": "iti |"
+        },
+        {
+          "ref": "3.29.12",
+          "body": "ity ādi padye janā itivad ubhayatrāpy anya-janatvam aprastutatam iti | vraja-janasya tu tadīya-svajanatamatvaṃ tena svayam eva vibhāvitam -"
+        },
+        {
+          "ref": "3.9.23",
+          "body": "iti tṛtīye brahma-stavāt |"
+        },
+        {
+          "ref": "3.26.16",
+          "body": ""
+        },
+        {
+          "ref": "3.5.26",
+          "body": "iti ca tṛtīyāt |"
+        },
+        {
+          "ref": "3.20",
+          "body": "ity ādi śruteḥ | yo'sau sarveṣu bhūteṣu āviśya bhūtāni vidadhāti sa vo hi svāmī bhavati [GTU"
+        },
+        {
+          "ref": "3.28.22",
+          "body": "iti ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "aku_count": 18,
+      "akus": [
+        {
+          "ref": "2.7.1",
+          "body": ""
+        },
+        {
+          "ref": "2.23",
+          "body": "ity ādi ca | tatra pūrvatra saurya iti | saurī yamunā, tad adūra-deśe vṛndāvane ity arthaḥ |"
+        },
+        {
+          "ref": "2.5.38",
+          "body": "iti dvitīye | vaikuṇṭhāntarasyāpi tat tayākhyāteḥ |"
+        },
+        {
+          "ref": "2.5.38",
+          "body": "iti dvitīyāt | tathā ca ṭīkā -brahma-loko vaikuṇṭhākhyaḥ | sanātano nityaḥ | na tu sṛjyaḥ prapañcāntarvartī | ity eṣā | śrutiś ca eṣa brahma-lokaḥ | eṣa ātma-lokaḥ | iti |"
+        },
+        {
+          "ref": "2.9.10",
+          "body": "||6||"
+        },
+        {
+          "ref": "2.6.42",
+          "body": "iti | asya ṭīkāyāṃ - yasya sahasra-śīrṣety ukto līlā-vigrahaḥ parasya bhūmnaḥ ādyo'vatāraḥ iti ||"
+        },
+        {
+          "ref": "2.6.42",
+          "body": "11 ||"
+        },
+        {
+          "ref": "2.7.47",
+          "body": "iti | balim udvahanty ajayā nimiṣā iti ca śrī-bhāgavatāt | aṃśais tad-āvaraṇa-sthaiḥ parikaraiḥ ||"
+        },
+        {
+          "ref": "2.1.27",
+          "body": "iti brahma-sūtrāt | acintyo hi maṇi-mantra-mahauṣadhīnāṃ prabhāvaḥ iti bhāṣya-yukteś ceti bhāvaḥ ||"
+        },
+        {
+          "ref": "2.22",
+          "body": "| yo'sau sarva-bhūtātmā gopālaḥ [GTU"
+        },
+        {
+          "ref": "2.94",
+          "body": "| eko devaḥ sarva-bhūteṣu gūḍhaḥ [GTU"
+        },
+        {
+          "ref": "2.96",
+          "body": "ity ādi tāpanībhyaḥ ||"
+        },
+        {
+          "ref": "2.96",
+          "body": "35 ||"
+        },
+        {
+          "ref": "2.6.33",
+          "body": "iti ||"
+        },
+        {
+          "ref": "2.6.33",
+          "body": "45 ||"
+        },
+        {
+          "ref": "2.9.10",
+          "body": "iti dvitīyāt | ataiva śvetaṃ śuddhaṃ dvīpaṃ anyāsaṅga-rahitam | yathā -- sarasi padmaṃ tiṣṭhati tathā-bhūmyāṃ hi tiṣṭhati [GTU"
+        },
+        {
+          "ref": "2.27",
+          "body": "iti tāpanībhyaḥ | kṣitīti | tad uktaṃ yaṃ na vidmo vayaṃ sarve pṛcchanto'pi pitāmaham [HV"
+        },
+        {
+          "ref": "2.3.10",
+          "body": "iti ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 12,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "12.11.25",
+          "body": "iti |"
+        },
+        {
+          "ref": "12.330.68",
+          "body": "iti |"
+        },
+        {
+          "ref": "12.330.68",
+          "body": "iti |"
+        },
+        {
+          "ref": "12.11.20",
+          "body": "iti | ṭīkā ca -- anapāyinī hareḥ śaktiḥ | tatra hetuḥ sākṣād ātmana iti svarūpasya cid-rūpatvāt tasyās tad-abhedād ity arthaḥ | ity eṣā |"
+        }
+      ]
+    },
+    {
+      "chapter_num": 8,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "8",
+          "body": "||"
+        },
+        {
+          "ref": "8.24.38",
+          "body": "| ataiva śrī-yāmunācārya-caraṇair api -"
+        }
+      ]
+    },
+    {
+      "chapter_num": 9,
+      "aku_count": 5,
+      "akus": [
+        {
+          "ref": "9",
+          "body": "||"
+        },
+        {
+          "ref": "9.24.65",
+          "body": "iti navamāt | satyaṃ śaucam ity ādau saubhaga-kānty-ādīn paṭhitvā,"
+        },
+        {
+          "ref": "9.29",
+          "body": "iti ||"
+        },
+        {
+          "ref": "9.29",
+          "body": "38 ||"
+        },
+        {
+          "ref": "9.29",
+          "body": "iti |"
+        }
+      ]
+    },
+    {
+      "chapter_num": 15,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "15",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 16,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "16",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 19,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "19",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 20,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "20",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 21,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "21",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 22,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "22",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 23,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "23",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 24,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "24",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 25,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "25",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 26,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "26",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 11,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "11.24.27",
+          "body": "ity ādau mahā-pralaye sarvāvaśiṣṭatvena brahmopadiśya tadāpi tasya draṣṭṛtvaṃ svayaṃ bhagavān svasminn āha --"
+        },
+        {
+          "ref": "11.24.29",
+          "body": "iti |"
+        },
+        {
+          "ref": "11.14.11",
+          "body": "ity ekādaśāt | pureha bhūman [BhP"
+        },
+        {
+          "ref": "11.16.37",
+          "body": "iti |"
+        }
+      ]
+    },
+    {
+      "chapter_num": 33,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "33",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 34,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "34",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 36,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "36",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 37,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "37",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 39,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "39",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 40,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "40",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 62,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "62.33",
+          "body": "iti |"
+        },
+        {
+          "ref": "62.29",
+          "body": "iti ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 43,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "43",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 44,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "44",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 50,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "50",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 52,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "52",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 53,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "53",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 55,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "55",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 56,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "56",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 57,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "57",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 59,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "59",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 61,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "61",
+          "body": "||"
+        }
+      ]
+    }
+  ]
+}

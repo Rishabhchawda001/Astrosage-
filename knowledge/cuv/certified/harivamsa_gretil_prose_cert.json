@@ -1,0 +1,23 @@
+{
+  "file": "harivamsa_gretil_prose.json",
+  "title": "Harivaṃśa constituted text with star passages",
+  "status": "certified",
+  "total_akus": 3,
+  "certified_akus": 3,
+  "issues": [],
+  "class_distribution": {
+    "verse": 2,
+    "mantra": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

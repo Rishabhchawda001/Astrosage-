@@ -1,0 +1,36 @@
+{
+  "file": "yoga_bija_gretil.xml",
+  "title": "Yogaśataka",
+  "total_chapters": 2,
+  "total_akus": 4,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": null,
+          "body": "oṃ namaḥ sarvajñāya //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ namo dhanvantarāye //"
+        },
+        {
+          "ref": null,
+          "body": "natamadhukakarañjalākṣāpaṭolīsamaṅgāvacāpāṭalīhiṅgusiddhārthasiṃhīniśāyuglatārohiṇī- phalakhadirakaṭutrikākāṇḍadārukrimighnājagandhāmarāṅkollakośātakīśigrunimbāmbudendrāhvayaiḥ / gadaśukatarupuṣpabījāmbuyaṣṭyadrikarṇīnikumbhāgnibilvaiḥ samaiḥ kalkitair mūtravargeṇa siddhaṃ ghṛtaṃ vidhivinihitam āśu sarvaiḥ kramair yojitaṃ hanti sarvagrahonmādakuṣṭhajvarāṃs tan mahābhūtarāvaṃ smṛtam //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 74,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "Yś_74",
+          "body": "//"
+        }
+      ]
+    }
+  ]
+}

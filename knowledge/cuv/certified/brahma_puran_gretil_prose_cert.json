@@ -1,0 +1,24 @@
+{
+  "file": "brahma_puran_gretil_prose.json",
+  "title": "Brahmapurāṇa 1-246",
+  "status": "certified",
+  "total_akus": 16,
+  "certified_akus": 16,
+  "issues": [],
+  "class_distribution": {
+    "mantra": 2,
+    "verse": 1,
+    "heading": 13
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 16,
+      "certified": 16,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

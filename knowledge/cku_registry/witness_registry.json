@@ -1,0 +1,949 @@
+{
+  "Harivamsha": [
+    {
+      "file": "2015.325684.Shri-Harivansh_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 4260895,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "harivamsha_bori.txt",
+      "publisher": "BORI",
+      "size": 6010337,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "harivamsha_sanskrit_supplement.txt",
+      "publisher": "Other",
+      "size": 10662516,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "harivansh_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 11009621,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "harivansh_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 11009621,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "harivansh_puran_original.txt",
+      "publisher": "Other",
+      "size": 11120180,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Upanishads": [
+    {
+      "file": "Upanishads_110.txt",
+      "publisher": "Other",
+      "size": 2027327,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brhadaranyaka_upanishad_ia.txt",
+      "publisher": "Other",
+      "size": 2385583,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "kena_upanishad_ia.txt",
+      "publisher": "Other",
+      "size": 43363,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "mandukya_upanishad_ia.txt",
+      "publisher": "Other",
+      "size": 1196683,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "mundaka_upanishad_ia.txt",
+      "publisher": "Other",
+      "size": 32697,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "taittiriya_upanishad_ia.txt",
+      "publisher": "Other",
+      "size": 1191022,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Agni Purana": [
+    {
+      "file": "agni_puran_anand_ashram.txt",
+      "publisher": "Anandashram",
+      "size": 3580187,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "agni_puran_chowkhamba.txt",
+      "publisher": "Chowkhamba",
+      "size": 7612575,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "agni_puran_english_motilal.txt",
+      "publisher": "Motilal Banarsidass",
+      "size": 2614972,
+      "language": "English",
+      "edition_type": "Text"
+    },
+    {
+      "file": "agni_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 6679116,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "agni_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 2893476,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "agni_puran_gitapress_old.txt",
+      "publisher": "Gita Press",
+      "size": 6799538,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Atharvaveda": [
+    {
+      "file": "atharvaveda_jayadev_part1.txt",
+      "publisher": "Jayadev",
+      "size": 2113053,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "atharvaveda_samhita_sanskrit.txt",
+      "publisher": "Other",
+      "size": 3081784,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "atharvaveda_samhita_sayana_ia.txt",
+      "publisher": "Other",
+      "size": 2941883,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "atharvaveda_vol1_sayana.txt",
+      "publisher": "Other",
+      "size": 3369803,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Bhagavata Purana": [
+    {
+      "file": "bhagavat_chaukhamba_gudhartha_vol1.txt",
+      "publisher": "Other",
+      "size": 5469581,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagavat_chaukhamba_gudhartha_vol2.txt",
+      "publisher": "Other",
+      "size": 4649143,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagavat_gita_press_sanskrit_hindi.txt",
+      "publisher": "Gita Press",
+      "size": 6801917,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagavat_gitapress_complete.txt",
+      "publisher": "Gita Press",
+      "size": 13000671,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagavat_purana_hindi_full.txt",
+      "publisher": "Other",
+      "size": 9273505,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagavat_searchable.txt",
+      "publisher": "Other",
+      "size": 2571249,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagavat_vol1_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 6648787,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagavat_vol2_sanskrit_hindi.txt",
+      "publisher": "Other",
+      "size": 6559049,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagwat_puran_part1_khemraj.txt",
+      "publisher": "Khemraj",
+      "size": 6612594,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhagwat_puran_part2_khemraj.txt",
+      "publisher": "Khemraj",
+      "size": 6558545,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "devi_bhagwat_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 12085032,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "devi_bhagwat_gitapress_2.txt",
+      "publisher": "Gita Press",
+      "size": 6241673,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "devi_bhagwat_ia_ia.txt",
+      "publisher": "Other",
+      "size": 6000980,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "devi_bhagwat_nilkanthi.txt",
+      "publisher": "Nilkanthi",
+      "size": 6964978,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "devi_bhagwat_prasang_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 132705,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Bhavishya Purana": [
+    {
+      "file": "bhavishya_puran.txt",
+      "publisher": "Other",
+      "size": 4728614,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "bhavishya_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 4709487,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Veda Rahasya": [
+    {
+      "file": "bhs.vedarahasya0000bhsh.txt",
+      "publisher": "Other",
+      "size": 3055708,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    }
+  ],
+  "Brahma Purana": [
+    {
+      "file": "brahma_puran_anandashram.txt",
+      "publisher": "Anandashram",
+      "size": 5068158,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_puran_anandashram_series.txt",
+      "publisher": "Anandashram",
+      "size": 5068158,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 3034115,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 1091484,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_puran_part2.txt",
+      "publisher": "Other",
+      "size": 3955933,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_purana_part1_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 4079692,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Brahma Sutra": [
+    {
+      "file": "brahma_sutra_shankara_bhashya.txt",
+      "publisher": "Other",
+      "size": 2155693,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Brahma Vaivarta Purana": [
+    {
+      "file": "brahma_vaivarta_dli.txt",
+      "publisher": "Digital Library of India",
+      "size": 1870353,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_vaivarta_puran.txt",
+      "publisher": "Other",
+      "size": 6033236,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_vaivarta_puran_english.txt",
+      "publisher": "Other",
+      "size": 3713002,
+      "language": "English",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_vaivarta_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 5966482,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_vaivarta_puran_gitapress_hindi.txt",
+      "publisher": "Gita Press",
+      "size": 3374608,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_vaivarta_puran_ia_ia.txt",
+      "publisher": "Other",
+      "size": 6033067,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_vaivarta_puran_sanskrit_dli.txt",
+      "publisher": "Digital Library of India",
+      "size": 137508,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "brahma_vaivarta_puran_sanskrit_full.txt",
+      "publisher": "Other",
+      "size": 1739314,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Garuda Purana": [
+    {
+      "file": "garuda_puran.txt",
+      "publisher": "Other",
+      "size": 4593049,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "garuda_puran_1887.txt",
+      "publisher": "Other",
+      "size": 335048,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "garuda_puran_1990.txt",
+      "publisher": "Other",
+      "size": 2363082,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "garuda_puran_bhashya.txt",
+      "publisher": "Other",
+      "size": 780967,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "garuda_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 1625986,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "garuda_puran_hindi.txt",
+      "publisher": "Other",
+      "size": 4423584,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "garuda_purana_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 2276851,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Kurma Purana": [
+    {
+      "file": "kurma_puran.txt",
+      "publisher": "Other",
+      "size": 3810922,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "kurma_puran_critical.txt",
+      "publisher": "Other",
+      "size": 7988004,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "kurma_puran_dli.txt",
+      "publisher": "Digital Library of India",
+      "size": 1874439,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "kurma_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 1275301,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    }
+  ],
+  "Linga Purana": [
+    {
+      "file": "linga_puran.txt",
+      "publisher": "Other",
+      "size": 6337527,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "linga_puran_1890.txt",
+      "publisher": "Other",
+      "size": 2211437,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "linga_puran_commentary.txt",
+      "publisher": "Other",
+      "size": 4212691,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Markandeya Purana": [
+    {
+      "file": "markandeya_puran_hindi_translation.txt",
+      "publisher": "Other",
+      "size": 3245277,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "markandeya_puran_sanskrit.txt",
+      "publisher": "Other",
+      "size": 1842581,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "markandeya_purana_hindi_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 3245277,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Matsya Purana": [
+    {
+      "file": "matsya_puran.txt",
+      "publisher": "Other",
+      "size": 8604999,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "matsya_puran_gitapress_hindi.txt",
+      "publisher": "Gita Press",
+      "size": 8364305,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Padma Purana": [
+    {
+      "file": "padma_puran.txt",
+      "publisher": "Other",
+      "size": 7943401,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "padma_puran_gita_press_2025.txt",
+      "publisher": "Gita Press",
+      "size": 9047588,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "padma_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 8378446,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "padma_puran_part1.txt",
+      "publisher": "Other",
+      "size": 6919298,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "padma_purana_part1_ia.txt",
+      "publisher": "Other",
+      "size": 6937303,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "padma_purana_part3_ia.txt",
+      "publisher": "Other",
+      "size": 2528340,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Ramayana": [
+    {
+      "file": "ramayana_baroda_critical_vol1.txt",
+      "publisher": "Other",
+      "size": 3891378,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "ramayana_critical_2022.txt",
+      "publisher": "Other",
+      "size": 3318519,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "ramayana_part2_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 8072331,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "ramayana_sanskrit_dpsharma.txt",
+      "publisher": "DP Sharma",
+      "size": 1950960,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "ramayanamahabhar0000valm.txt",
+      "publisher": "Other",
+      "size": 896806,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    }
+  ],
+  "Rigveda": [
+    {
+      "file": "rigveda_bhashyam.txt",
+      "publisher": "Other",
+      "size": 379372,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "rigveda_hindi.txt",
+      "publisher": "Other",
+      "size": 5781110,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "rigveda_jayadev_part1.txt",
+      "publisher": "Jayadev",
+      "size": 2474344,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "rigveda_samhita_ramtek_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 1330816,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "rigveda_sayanacharya_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 7065865,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "rigvedasanhitc01wils.txt",
+      "publisher": "Other",
+      "size": 865154,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    }
+  ],
+  "Samaveda": [
+    {
+      "file": "samaveda_jayadev.txt",
+      "publisher": "Jayadev",
+      "size": 3008265,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "samaveda_samhita.txt",
+      "publisher": "Other",
+      "size": 2762687,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Shiva Purana": [
+    {
+      "file": "shiv_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 5178110,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "shiv_puran_khand2_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 7661722,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Skanda Purana": [
+    {
+      "file": "skand_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 10588900,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "skand_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 10502414,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "skanda_puran_full.txt",
+      "publisher": "Other",
+      "size": 10382979,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "skanda_puran_ia_ia.txt",
+      "publisher": "Other",
+      "size": 297364,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    }
+  ],
+  "Vachanamrut": [
+    {
+      "file": "vachanamrut_gokulnathaji.txt",
+      "publisher": "Other",
+      "size": 240164,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vachanamrut_gujarati_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 288413,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vachanamrut_shiksha_patri.txt",
+      "publisher": "Other",
+      "size": 127887,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    }
+  ],
+  "Vamana Purana": [
+    {
+      "file": "vaman_puran_dli.txt",
+      "publisher": "Digital Library of India",
+      "size": 1859964,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vaman_puran_gita_press.txt",
+      "publisher": "Gita Press",
+      "size": 3631214,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vaman_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 3631214,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vaman_puran_hindi.txt",
+      "publisher": "Other",
+      "size": 1421046,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Varaha Purana": [
+    {
+      "file": "varaha_puran.txt",
+      "publisher": "Other",
+      "size": 2906025,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "varaha_puran_2.txt",
+      "publisher": "Other",
+      "size": 6698392,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "varaha_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 1079820,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "varaha_puran_sanskrit.txt",
+      "publisher": "Other",
+      "size": 2743882,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Vidur Niti": [
+    {
+      "file": "vidur_niti_chaukhambha_1997_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 1393122,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vidur_niti_english_1955_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 496897,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vidur_niti_gitapress_djvu.txt",
+      "publisher": "Gita Press",
+      "size": 175494,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    }
+  ],
+  "Vishnu Purana": [
+    {
+      "file": "vishnu_puran.txt",
+      "publisher": "Other",
+      "size": 4176797,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vishnu_puran_gita_press_2.txt",
+      "publisher": "Gita Press",
+      "size": 3599547,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vishnu_puran_gita_press_new.txt",
+      "publisher": "Gita Press",
+      "size": 1374016,
+      "language": "Sanskrit (Roman)",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vishnu_puran_hindi_new.txt",
+      "publisher": "Other",
+      "size": 4189152,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "vishnu_puran_sanskrit_english.txt",
+      "publisher": "Other",
+      "size": 1935950,
+      "language": "English",
+      "edition_type": "Text"
+    }
+  ],
+  "Yajurveda": [
+    {
+      "file": "yajurveda_gujarati_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 3595221,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "yajurveda_jayadev.txt",
+      "publisher": "Jayadev",
+      "size": 2894662,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Yoga Sutra": [
+    {
+      "file": "yoga_sutra_darshan.txt",
+      "publisher": "Other",
+      "size": 539807,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ],
+  "Yogavasishtha": [
+    {
+      "file": "yogavasishtha_full_djvu.txt",
+      "publisher": "DjVu Archive",
+      "size": 17764150,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "yogavasishtha_hindi_part2.txt",
+      "publisher": "Other",
+      "size": 3912964,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "yogavasishtha_hindi_part3.txt",
+      "publisher": "Other",
+      "size": 3531755,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "yogavasishtha_hindi_part4.txt",
+      "publisher": "Other",
+      "size": 5672028,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "yogavasishtha_marathi.txt",
+      "publisher": "Other",
+      "size": 4682550,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    },
+    {
+      "file": "yogavasishtha_sanskrit_tatparyaprakasha_v2.txt",
+      "publisher": "Other",
+      "size": 8538203,
+      "language": "Sanskrit/Hindi Devanagari",
+      "edition_type": "Text"
+    }
+  ]
+}

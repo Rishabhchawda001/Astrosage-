@@ -1,0 +1,125 @@
+{
+  "file": "gautama_dharmasutra_gretil_prose.json",
+  "title": "Dharmasūtra",
+  "status": "needs_work",
+  "total_akus": 1027,
+  "certified_akus": 3,
+  "issues": [],
+  "class_distribution": {
+    "unknown": 128,
+    "verse": 772,
+    "sutra": 96,
+    "mantra": 5,
+    "prose": 4,
+    "metadata": 5,
+    "translation": 9,
+    "commentary": 4,
+    "heading": 4
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1023,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "yāṃsaptame",
+          "start": "pañcame"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "antarikṣe",
+          "start": "balir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "dharmasya",
+          "start": "śruteś"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "pārayeti",
+          "start": "tadvrata"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 3,
+      "certified": 2,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "RV_1,91.17",
+          "end": "payāṃsi",
+          "start": "navonava"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "yāṃsaptame",
+      "start": "pañcame"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "antarikṣe",
+      "start": "balir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "dharmasya",
+      "start": "śruteś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "pārayeti",
+      "start": "tadvrata"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "RV_1,91.17",
+      "end": "payāṃsi",
+      "start": "navonava"
+    }
+  ]
+}

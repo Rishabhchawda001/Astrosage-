@@ -1,0 +1,784 @@
+{
+  "file": "atharva_prayashchittani_gretil_prose.json",
+  "title": "Atharvaprāyaścittāni",
+  "status": "mostly_certified",
+  "total_akus": 922,
+  "certified_akus": 872,
+  "issues": [],
+  "class_distribution": {
+    "critical_apparatus": 14,
+    "verse": 704,
+    "translation": 68,
+    "footnote": 18,
+    "sutra": 40,
+    "mantra": 24,
+    "prose": 21,
+    "commentary": 11,
+    "metadata": 5,
+    "colophon": 6,
+    "heading": 5,
+    "empty": 3,
+    "ocr_artifact": 3
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 857,
+      "certified": 857,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 8,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 251,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 251,
+          "aku_ref": "251"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 8,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.7.2",
+          "body": "|"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 7,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 6,
+      "certified": 3,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 7,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 18,
+          "to": 5
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "total": 2,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 20,
+          "aku_ref": "20.25.1d"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 6,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 4,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "total": 4,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8",
+          "from": 17,
+          "to": 8
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8",
+          "body": "||"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 108,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 19,
+      "total": 2,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 19,
+          "aku_ref": "19.16.5d"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 9,
+          "aku_ref": "9",
+          "body": "||"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 15,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 18,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8",
+      "from": 17,
+      "to": 8
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 251,
+      "aku_ref": "251"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.7.2",
+      "body": "|"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 20,
+      "aku_ref": "20.25.1d"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8",
+      "body": "||"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8",
+      "body": "||"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 19,
+      "aku_ref": "19.16.5d"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 9,
+      "aku_ref": "9",
+      "body": "||"
+    }
+  ]
+}

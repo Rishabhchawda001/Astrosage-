@@ -1,0 +1,22 @@
+{
+  "file": "namaskaraikavimshati stotra_gretil.xml",
+  "title": "Namaskāraikaviṃśatistotra",
+  "total_chapters": 1,
+  "total_akus": 2,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": null,
+          "body": "Ekaviṃśatistotra"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīsaṃyaksaṃbuddhavairocanabhāṣitaṃ bhagavatyāryatāradevyā namaskāraikaviṃśatistotraṃ saṃpūrṇaṃ samāptaṃ // śubham //"
+        }
+      ]
+    }
+  ]
+}

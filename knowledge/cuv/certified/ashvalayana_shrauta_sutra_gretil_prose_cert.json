@@ -1,0 +1,48 @@
+{
+  "file": "ashvalayana_shrauta_sutra_gretil_prose.json",
+  "title": "Āśvalāyanaśrautasūtra",
+  "status": "certified",
+  "total_akus": 3026,
+  "certified_akus": 3026,
+  "issues": [],
+  "class_distribution": {
+    "prose": 1538,
+    "commentary": 33,
+    "sutra": 912,
+    "mantra": 56,
+    "colophon": 1,
+    "metadata": 34,
+    "heading": 26,
+    "translation": 424,
+    "unknown": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 2995,
+      "certified": 2995,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 11,
+      "total": 5,
+      "certified": 5,
+      "issues": []
+    },
+    {
+      "chapter": 49,
+      "total": 25,
+      "certified": 25,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

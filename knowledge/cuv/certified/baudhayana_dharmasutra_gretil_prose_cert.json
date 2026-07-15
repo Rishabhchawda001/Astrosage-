@@ -1,0 +1,267 @@
+{
+  "file": "baudhayana_dharmasutra_gretil_prose.json",
+  "title": "Baudhāyanadharmasūtra",
+  "status": "partially_certified",
+  "total_akus": 1487,
+  "certified_akus": 1243,
+  "issues": [],
+  "class_distribution": {
+    "prose": 1,
+    "sutra": 758,
+    "translation": 244,
+    "footnote": 4,
+    "commentary": 17,
+    "mantra": 18,
+    "critical_apparatus": 12,
+    "colophon": 2,
+    "heading": 420,
+    "metadata": 4,
+    "empty": 7
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 108,
+      "certified": 108,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 494,
+      "certified": 435,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "Baudh1.4.7.2",
+          "from": 16,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.8.16.14",
+          "from": 15,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "Baudh1.9.17.2",
+          "from": 14,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "12.109"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 466,
+      "certified": 382,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2.112"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "Baudh2.1.1.34"
+        }
+      ]
+    },
+    {
+      "chapter": 136,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 184,
+      "certified": 142,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "Baudh3.2.19",
+          "from": 22,
+          "to": 19
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "Baudh3.2.3"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "Baudh3.2.19",
+          "body": "="
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "Baudh3.3.22"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "Baudh3.3.22",
+          "body": "="
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "Baudh3.2.19"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 233,
+      "certified": 175,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "Baudh4.8.8ab",
+          "from": 12,
+          "to": 8
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "Baudh4.8.12"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "Baudh1.4.7.2",
+      "from": 16,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.8.16.14",
+      "from": 15,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "Baudh1.9.17.2",
+      "from": 14,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "Baudh3.2.19",
+      "from": 22,
+      "to": 19
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "Baudh4.8.8ab",
+      "from": 12,
+      "to": 8
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "12.109"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2.112"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "Baudh2.1.1.34"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "Baudh3.2.3"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "Baudh3.2.19",
+      "body": "="
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "Baudh3.3.22"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "Baudh3.3.22",
+      "body": "="
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "Baudh3.2.19"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "Baudh4.8.12"
+    }
+  ]
+}

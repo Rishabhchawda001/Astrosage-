@@ -1,0 +1,110 @@
+{
+  "file": "kalidasa_shyamaladandaka_gretil_prose.json",
+  "title": "Śyāmalādaṇḍaka",
+  "status": "partially_certified",
+  "total_akus": 10,
+  "certified_akus": 6,
+  "issues": [],
+  "class_distribution": {
+    "prose": 4,
+    "mantra": 1,
+    "colophon": 1,
+    "unknown": 4
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "body": "//"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "body": "//"
+    }
+  ]
+}

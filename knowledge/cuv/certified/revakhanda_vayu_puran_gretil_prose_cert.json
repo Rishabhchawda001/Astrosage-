@@ -1,0 +1,5075 @@
+{
+  "file": "revakhanda_vayu_puran_gretil_prose.json",
+  "title": "Revākhāṇḍa of the Vāyupurāṇa (RKV)",
+  "status": "needs_work",
+  "total_akus": 743,
+  "certified_akus": 1,
+  "issues": [],
+  "class_distribution": {
+    "prose": 27,
+    "metadata": 233,
+    "mantra": 2,
+    "colophon": 232,
+    "heading": 22,
+    "unknown": 1,
+    "empty": 226
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 489,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "mokṣārthaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "andhaka"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "śrutaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "īśvara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "īśvara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "īśvara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "śrīmārkaṇḍ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "īśvara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "mārkaṇḍeya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "yudhiṣṭhir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "īśvara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "tvayā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "lakṣmīḥ"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 3,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "RKV_1.1",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "RKV_1.2",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "RKV_2.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "4"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 5,
+          "aku_ref": "5"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "6"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "7"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 8,
+          "aku_ref": "8"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 9,
+          "aku_ref": "9"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "RKV_10.4",
+          "from": 10,
+          "to": 4
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "10"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "RKV_10.4",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "11"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "12"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "13"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 14,
+          "aku_ref": "14"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 15,
+          "aku_ref": "15"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 16,
+          "aku_ref": "16"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 17,
+          "aku_ref": "17"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 18,
+          "aku_ref": "18"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 19,
+          "aku_ref": "19"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 20,
+          "aku_ref": "20"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 21,
+          "aku_ref": "21"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 22,
+          "aku_ref": "22"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 23,
+          "aku_ref": "23"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 24,
+          "aku_ref": "24"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 25,
+          "aku_ref": "25"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 26,
+          "aku_ref": "26"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 27,
+          "aku_ref": "27"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 28,
+          "aku_ref": "28"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 29,
+          "aku_ref": "29"
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 30,
+          "aku_ref": "30"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 31,
+          "aku_ref": "31"
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 32,
+          "aku_ref": "32"
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 33,
+          "aku_ref": "33"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 34,
+          "aku_ref": "34"
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 35,
+          "aku_ref": "35"
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 36,
+          "aku_ref": "36"
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 37,
+          "aku_ref": "37"
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 38,
+          "aku_ref": "38"
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 39,
+          "aku_ref": "39"
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 40,
+          "aku_ref": "40"
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 41,
+          "aku_ref": "41"
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 42,
+          "aku_ref": "42"
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 43,
+          "aku_ref": "43"
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "44"
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "45"
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "46"
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 47,
+          "aku_ref": "47"
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 48,
+          "aku_ref": "RKV_48.29",
+          "from": 48,
+          "to": 29
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 48,
+          "aku_ref": "48"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 48,
+          "aku_ref": "RKV_48.29",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 48,
+          "aku_ref": "RKV_48.30",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 49,
+          "aku_ref": "49"
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 50,
+          "aku_ref": "50"
+        }
+      ]
+    },
+    {
+      "chapter": 51,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 51,
+          "aku_ref": "51"
+        }
+      ]
+    },
+    {
+      "chapter": 52,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 52,
+          "aku_ref": "52"
+        }
+      ]
+    },
+    {
+      "chapter": 53,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 53,
+          "aku_ref": "53"
+        }
+      ]
+    },
+    {
+      "chapter": 54,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 54,
+          "aku_ref": "54"
+        }
+      ]
+    },
+    {
+      "chapter": 55,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 55,
+          "aku_ref": "55"
+        }
+      ]
+    },
+    {
+      "chapter": 56,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 56,
+          "aku_ref": "56"
+        }
+      ]
+    },
+    {
+      "chapter": 57,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 57,
+          "aku_ref": "RKV_57.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 58,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 58,
+          "aku_ref": "58"
+        }
+      ]
+    },
+    {
+      "chapter": 59,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 59,
+          "aku_ref": "59"
+        }
+      ]
+    },
+    {
+      "chapter": 60,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 60,
+          "aku_ref": "60"
+        }
+      ]
+    },
+    {
+      "chapter": 61,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 61,
+          "aku_ref": "61"
+        }
+      ]
+    },
+    {
+      "chapter": 62,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 62,
+          "aku_ref": "62"
+        }
+      ]
+    },
+    {
+      "chapter": 63,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 63,
+          "aku_ref": "63"
+        }
+      ]
+    },
+    {
+      "chapter": 64,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 64,
+          "aku_ref": "64"
+        }
+      ]
+    },
+    {
+      "chapter": 65,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 65,
+          "aku_ref": "65"
+        }
+      ]
+    },
+    {
+      "chapter": 66,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 66,
+          "aku_ref": "66"
+        }
+      ]
+    },
+    {
+      "chapter": 67,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 67,
+          "aku_ref": "67"
+        }
+      ]
+    },
+    {
+      "chapter": 68,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 68,
+          "aku_ref": "68"
+        }
+      ]
+    },
+    {
+      "chapter": 69,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 69,
+          "aku_ref": "69"
+        }
+      ]
+    },
+    {
+      "chapter": 70,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 70,
+          "aku_ref": "70"
+        }
+      ]
+    },
+    {
+      "chapter": 71,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 71,
+          "aku_ref": "71"
+        }
+      ]
+    },
+    {
+      "chapter": 72,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "72"
+        }
+      ]
+    },
+    {
+      "chapter": 73,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 73,
+          "aku_ref": "73"
+        }
+      ]
+    },
+    {
+      "chapter": 74,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 74,
+          "aku_ref": "74"
+        }
+      ]
+    },
+    {
+      "chapter": 75,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 75,
+          "aku_ref": "75"
+        }
+      ]
+    },
+    {
+      "chapter": 76,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 76,
+          "aku_ref": "76"
+        }
+      ]
+    },
+    {
+      "chapter": 77,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 77,
+          "aku_ref": "77"
+        }
+      ]
+    },
+    {
+      "chapter": 78,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 78,
+          "aku_ref": "78"
+        }
+      ]
+    },
+    {
+      "chapter": 79,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 79,
+          "aku_ref": "79"
+        }
+      ]
+    },
+    {
+      "chapter": 80,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 80,
+          "aku_ref": "80"
+        }
+      ]
+    },
+    {
+      "chapter": 81,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 81,
+          "aku_ref": "81"
+        }
+      ]
+    },
+    {
+      "chapter": 82,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 82,
+          "aku_ref": "82"
+        }
+      ]
+    },
+    {
+      "chapter": 83,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 83,
+          "aku_ref": "83"
+        }
+      ]
+    },
+    {
+      "chapter": 84,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 84,
+          "aku_ref": "84"
+        }
+      ]
+    },
+    {
+      "chapter": 85,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 85,
+          "aku_ref": "85"
+        }
+      ]
+    },
+    {
+      "chapter": 86,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 86,
+          "aku_ref": "RKV_86.7",
+          "from": 86,
+          "to": 7
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 86,
+          "aku_ref": "86"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 86,
+          "aku_ref": "RKV_86.7",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 87,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 87,
+          "aku_ref": "87"
+        }
+      ]
+    },
+    {
+      "chapter": 88,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 88,
+          "aku_ref": "88"
+        }
+      ]
+    },
+    {
+      "chapter": 89,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 89,
+          "aku_ref": "89"
+        }
+      ]
+    },
+    {
+      "chapter": 90,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 90,
+          "aku_ref": "90"
+        }
+      ]
+    },
+    {
+      "chapter": 91,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 91,
+          "aku_ref": "91"
+        }
+      ]
+    },
+    {
+      "chapter": 92,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 92,
+          "aku_ref": "92"
+        }
+      ]
+    },
+    {
+      "chapter": 93,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 93,
+          "aku_ref": "93"
+        }
+      ]
+    },
+    {
+      "chapter": 94,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 94,
+          "aku_ref": "94"
+        }
+      ]
+    },
+    {
+      "chapter": 95,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 95,
+          "aku_ref": "95"
+        }
+      ]
+    },
+    {
+      "chapter": 96,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 96,
+          "aku_ref": "96"
+        }
+      ]
+    },
+    {
+      "chapter": 97,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 97,
+          "aku_ref": "RKV_97.84",
+          "from": 97,
+          "to": 84
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 97,
+          "aku_ref": "97"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 97,
+          "aku_ref": "RKV_97.84",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 98,
+      "total": 4,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 98,
+          "aku_ref": "RKV_98.8",
+          "from": 98,
+          "to": 8
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 98,
+          "aku_ref": "98"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 98,
+          "aku_ref": "RKV_98.8",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 98,
+          "aku_ref": "RKV_98.11",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 98,
+          "aku_ref": "RKV_98.12",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 99,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 99,
+          "aku_ref": "RKV_99.3",
+          "from": 99,
+          "to": 3
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 99,
+          "aku_ref": "99"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 99,
+          "aku_ref": "RKV_99.3",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 100,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 100,
+          "aku_ref": "100"
+        }
+      ]
+    },
+    {
+      "chapter": 101,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 101,
+          "aku_ref": "101"
+        }
+      ]
+    },
+    {
+      "chapter": 102,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 102,
+          "aku_ref": "102"
+        }
+      ]
+    },
+    {
+      "chapter": 103,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 103,
+          "aku_ref": "103"
+        }
+      ]
+    },
+    {
+      "chapter": 104,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 104,
+          "aku_ref": "104"
+        }
+      ]
+    },
+    {
+      "chapter": 105,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 105,
+          "aku_ref": "105"
+        }
+      ]
+    },
+    {
+      "chapter": 106,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 106,
+          "aku_ref": "106"
+        }
+      ]
+    },
+    {
+      "chapter": 107,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 107,
+          "aku_ref": "107"
+        }
+      ]
+    },
+    {
+      "chapter": 108,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 108,
+          "aku_ref": "108"
+        }
+      ]
+    },
+    {
+      "chapter": 109,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 109,
+          "aku_ref": "109"
+        }
+      ]
+    },
+    {
+      "chapter": 110,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 110,
+          "aku_ref": "110"
+        }
+      ]
+    },
+    {
+      "chapter": 111,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 111,
+          "aku_ref": "RKV_111.33",
+          "from": 111,
+          "to": 33
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 111,
+          "aku_ref": "111"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 111,
+          "aku_ref": "RKV_111.33",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 112,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 112,
+          "aku_ref": "112"
+        }
+      ]
+    },
+    {
+      "chapter": 113,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 113,
+          "aku_ref": "113"
+        }
+      ]
+    },
+    {
+      "chapter": 114,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 114,
+          "aku_ref": "114"
+        }
+      ]
+    },
+    {
+      "chapter": 115,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 115,
+          "aku_ref": "115"
+        }
+      ]
+    },
+    {
+      "chapter": 116,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 116,
+          "aku_ref": "116"
+        }
+      ]
+    },
+    {
+      "chapter": 117,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 117,
+          "aku_ref": "117"
+        }
+      ]
+    },
+    {
+      "chapter": 118,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 118,
+          "aku_ref": "118"
+        }
+      ]
+    },
+    {
+      "chapter": 119,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 119,
+          "aku_ref": "119"
+        }
+      ]
+    },
+    {
+      "chapter": 120,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 120,
+          "aku_ref": "120"
+        }
+      ]
+    },
+    {
+      "chapter": 121,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 121,
+          "aku_ref": "121"
+        }
+      ]
+    },
+    {
+      "chapter": 122,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 122,
+          "aku_ref": "RKV_122.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 123,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 123,
+          "aku_ref": "123"
+        }
+      ]
+    },
+    {
+      "chapter": 124,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 124,
+          "aku_ref": "124"
+        }
+      ]
+    },
+    {
+      "chapter": 125,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 125,
+          "aku_ref": "125"
+        }
+      ]
+    },
+    {
+      "chapter": 126,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 126,
+          "aku_ref": "126"
+        }
+      ]
+    },
+    {
+      "chapter": 127,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 127,
+          "aku_ref": "127"
+        }
+      ]
+    },
+    {
+      "chapter": 128,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 128,
+          "aku_ref": "128"
+        }
+      ]
+    },
+    {
+      "chapter": 129,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 129,
+          "aku_ref": "129"
+        }
+      ]
+    },
+    {
+      "chapter": 130,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 130,
+          "aku_ref": "130"
+        }
+      ]
+    },
+    {
+      "chapter": 131,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 131,
+          "aku_ref": "131"
+        }
+      ]
+    },
+    {
+      "chapter": 132,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 132,
+          "aku_ref": "132"
+        }
+      ]
+    },
+    {
+      "chapter": 133,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 133,
+          "aku_ref": "133"
+        }
+      ]
+    },
+    {
+      "chapter": 134,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 134,
+          "aku_ref": "134"
+        }
+      ]
+    },
+    {
+      "chapter": 135,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 135,
+          "aku_ref": "135"
+        }
+      ]
+    },
+    {
+      "chapter": 136,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 136,
+          "aku_ref": "136"
+        }
+      ]
+    },
+    {
+      "chapter": 137,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 137,
+          "aku_ref": "137"
+        }
+      ]
+    },
+    {
+      "chapter": 138,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 138,
+          "aku_ref": "138"
+        }
+      ]
+    },
+    {
+      "chapter": 139,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 139,
+          "aku_ref": "139"
+        }
+      ]
+    },
+    {
+      "chapter": 140,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 140,
+          "aku_ref": "140"
+        }
+      ]
+    },
+    {
+      "chapter": 141,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 141,
+          "aku_ref": "141"
+        }
+      ]
+    },
+    {
+      "chapter": 142,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 142,
+          "aku_ref": "142"
+        }
+      ]
+    },
+    {
+      "chapter": 143,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 143,
+          "aku_ref": "143"
+        }
+      ]
+    },
+    {
+      "chapter": 144,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 144,
+          "aku_ref": "144"
+        }
+      ]
+    },
+    {
+      "chapter": 145,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 145,
+          "aku_ref": "RKV_145.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 146,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 146,
+          "aku_ref": "RKV_146.35",
+          "from": 146,
+          "to": 35
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 146,
+          "aku_ref": "146"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 146,
+          "aku_ref": "RKV_146.35",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 147,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 147,
+          "aku_ref": "147"
+        }
+      ]
+    },
+    {
+      "chapter": 148,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 148,
+          "aku_ref": "148"
+        }
+      ]
+    },
+    {
+      "chapter": 149,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 149,
+          "aku_ref": "149"
+        }
+      ]
+    },
+    {
+      "chapter": 150,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 150,
+          "aku_ref": "150"
+        }
+      ]
+    },
+    {
+      "chapter": 151,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 151,
+          "aku_ref": "151"
+        }
+      ]
+    },
+    {
+      "chapter": 152,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 152,
+          "aku_ref": "152"
+        }
+      ]
+    },
+    {
+      "chapter": 153,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 153,
+          "aku_ref": "153"
+        }
+      ]
+    },
+    {
+      "chapter": 154,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 154,
+          "aku_ref": "154"
+        }
+      ]
+    },
+    {
+      "chapter": 155,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 155,
+          "aku_ref": "155"
+        }
+      ]
+    },
+    {
+      "chapter": 156,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 156,
+          "aku_ref": "156"
+        }
+      ]
+    },
+    {
+      "chapter": 157,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 157,
+          "aku_ref": "157"
+        }
+      ]
+    },
+    {
+      "chapter": 158,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 158,
+          "aku_ref": "158"
+        }
+      ]
+    },
+    {
+      "chapter": 159,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 159,
+          "aku_ref": "159"
+        }
+      ]
+    },
+    {
+      "chapter": 160,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 160,
+          "aku_ref": "160"
+        }
+      ]
+    },
+    {
+      "chapter": 161,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 161,
+          "aku_ref": "161"
+        }
+      ]
+    },
+    {
+      "chapter": 162,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 162,
+          "aku_ref": "162"
+        }
+      ]
+    },
+    {
+      "chapter": 163,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 163,
+          "aku_ref": "163"
+        }
+      ]
+    },
+    {
+      "chapter": 164,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 164,
+          "aku_ref": "164"
+        }
+      ]
+    },
+    {
+      "chapter": 165,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 165,
+          "aku_ref": "165"
+        }
+      ]
+    },
+    {
+      "chapter": 166,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 166,
+          "aku_ref": "166"
+        }
+      ]
+    },
+    {
+      "chapter": 167,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 167,
+          "aku_ref": "167"
+        }
+      ]
+    },
+    {
+      "chapter": 168,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 168,
+          "aku_ref": "168"
+        }
+      ]
+    },
+    {
+      "chapter": 169,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 169,
+          "aku_ref": "169"
+        }
+      ]
+    },
+    {
+      "chapter": 170,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 170,
+          "aku_ref": "170"
+        }
+      ]
+    },
+    {
+      "chapter": 171,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 171,
+          "aku_ref": "171"
+        }
+      ]
+    },
+    {
+      "chapter": 172,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 172,
+          "aku_ref": "172"
+        }
+      ]
+    },
+    {
+      "chapter": 173,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 173,
+          "aku_ref": "173"
+        }
+      ]
+    },
+    {
+      "chapter": 174,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 174,
+          "aku_ref": "174"
+        }
+      ]
+    },
+    {
+      "chapter": 175,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 175,
+          "aku_ref": "175"
+        }
+      ]
+    },
+    {
+      "chapter": 176,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 176,
+          "aku_ref": "176"
+        }
+      ]
+    },
+    {
+      "chapter": 177,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 177,
+          "aku_ref": "177"
+        }
+      ]
+    },
+    {
+      "chapter": 178,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 178,
+          "aku_ref": "178"
+        }
+      ]
+    },
+    {
+      "chapter": 179,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 179,
+          "aku_ref": "179"
+        }
+      ]
+    },
+    {
+      "chapter": 180,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 180,
+          "aku_ref": "180"
+        }
+      ]
+    },
+    {
+      "chapter": 181,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 181,
+          "aku_ref": "RKV_181.39",
+          "from": 181,
+          "to": 39
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 181,
+          "aku_ref": "181"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 181,
+          "aku_ref": "RKV_181.39",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 182,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 182,
+          "aku_ref": "182"
+        }
+      ]
+    },
+    {
+      "chapter": 183,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 183,
+          "aku_ref": "183"
+        }
+      ]
+    },
+    {
+      "chapter": 184,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 184,
+          "aku_ref": "184"
+        }
+      ]
+    },
+    {
+      "chapter": 185,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 185,
+          "aku_ref": "RKV_185.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 186,
+      "total": 3,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 186,
+          "aku_ref": "RKV_186.34",
+          "from": 186,
+          "to": 34
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 186,
+          "aku_ref": "186"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 186,
+          "aku_ref": "RKV_186.34",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 186,
+          "aku_ref": "RKV_186.36",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 187,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 187,
+          "aku_ref": "187"
+        }
+      ]
+    },
+    {
+      "chapter": 188,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 188,
+          "aku_ref": "188"
+        }
+      ]
+    },
+    {
+      "chapter": 189,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 189,
+          "aku_ref": "189"
+        }
+      ]
+    },
+    {
+      "chapter": 190,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 190,
+          "aku_ref": "190"
+        }
+      ]
+    },
+    {
+      "chapter": 191,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 191,
+          "aku_ref": "191"
+        }
+      ]
+    },
+    {
+      "chapter": 192,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 192,
+          "aku_ref": "192"
+        }
+      ]
+    },
+    {
+      "chapter": 193,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 193,
+          "aku_ref": "193"
+        }
+      ]
+    },
+    {
+      "chapter": 194,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 194,
+          "aku_ref": "RKV_194.59",
+          "from": 194,
+          "to": 59
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 194,
+          "aku_ref": "194"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 194,
+          "aku_ref": "RKV_194.59",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 195,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 195,
+          "aku_ref": "195"
+        }
+      ]
+    },
+    {
+      "chapter": 196,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 196,
+          "aku_ref": "196"
+        }
+      ]
+    },
+    {
+      "chapter": 197,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 197,
+          "aku_ref": "197"
+        }
+      ]
+    },
+    {
+      "chapter": 198,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 198,
+          "aku_ref": "198"
+        }
+      ]
+    },
+    {
+      "chapter": 199,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 199,
+          "aku_ref": "199"
+        }
+      ]
+    },
+    {
+      "chapter": 200,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 200,
+          "aku_ref": "200"
+        }
+      ]
+    },
+    {
+      "chapter": 201,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 201,
+          "aku_ref": "201"
+        }
+      ]
+    },
+    {
+      "chapter": 202,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 202,
+          "aku_ref": "202"
+        }
+      ]
+    },
+    {
+      "chapter": 203,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 203,
+          "aku_ref": "203"
+        }
+      ]
+    },
+    {
+      "chapter": 204,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 204,
+          "aku_ref": "204"
+        }
+      ]
+    },
+    {
+      "chapter": 205,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 205,
+          "aku_ref": "205"
+        }
+      ]
+    },
+    {
+      "chapter": 206,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 206,
+          "aku_ref": "206"
+        }
+      ]
+    },
+    {
+      "chapter": 207,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 207,
+          "aku_ref": "207"
+        }
+      ]
+    },
+    {
+      "chapter": 208,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 208,
+          "aku_ref": "208"
+        }
+      ]
+    },
+    {
+      "chapter": 209,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 209,
+          "aku_ref": "209"
+        }
+      ]
+    },
+    {
+      "chapter": 210,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 210,
+          "aku_ref": "210"
+        }
+      ]
+    },
+    {
+      "chapter": 211,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 211,
+          "aku_ref": "211"
+        }
+      ]
+    },
+    {
+      "chapter": 212,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 212,
+          "aku_ref": "212"
+        }
+      ]
+    },
+    {
+      "chapter": 213,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 213,
+          "aku_ref": "213"
+        }
+      ]
+    },
+    {
+      "chapter": 214,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 214,
+          "aku_ref": "214"
+        }
+      ]
+    },
+    {
+      "chapter": 215,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 215,
+          "aku_ref": "215"
+        }
+      ]
+    },
+    {
+      "chapter": 216,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 216,
+          "aku_ref": "216"
+        }
+      ]
+    },
+    {
+      "chapter": 217,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 217,
+          "aku_ref": "217"
+        }
+      ]
+    },
+    {
+      "chapter": 218,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 218,
+          "aku_ref": "218"
+        }
+      ]
+    },
+    {
+      "chapter": 219,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 219,
+          "aku_ref": "219"
+        }
+      ]
+    },
+    {
+      "chapter": 220,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 220,
+          "aku_ref": "220"
+        }
+      ]
+    },
+    {
+      "chapter": 221,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 221,
+          "aku_ref": "221"
+        }
+      ]
+    },
+    {
+      "chapter": 222,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 222,
+          "aku_ref": "222"
+        }
+      ]
+    },
+    {
+      "chapter": 223,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 223,
+          "aku_ref": "223"
+        }
+      ]
+    },
+    {
+      "chapter": 224,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 224,
+          "aku_ref": "224"
+        }
+      ]
+    },
+    {
+      "chapter": 225,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 225,
+          "aku_ref": "225"
+        }
+      ]
+    },
+    {
+      "chapter": 226,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 226,
+          "aku_ref": "226"
+        }
+      ]
+    },
+    {
+      "chapter": 227,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 227,
+          "aku_ref": "227"
+        }
+      ]
+    },
+    {
+      "chapter": 228,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 228,
+          "aku_ref": "228"
+        }
+      ]
+    },
+    {
+      "chapter": 229,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 229,
+          "aku_ref": "229"
+        }
+      ]
+    },
+    {
+      "chapter": 230,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 230,
+          "aku_ref": "230"
+        }
+      ]
+    },
+    {
+      "chapter": 231,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 231,
+          "aku_ref": "231"
+        }
+      ]
+    },
+    {
+      "chapter": 232,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 232,
+          "aku_ref": "232"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "RKV_10.4",
+      "from": 10,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 48,
+      "aku_ref": "RKV_48.29",
+      "from": 48,
+      "to": 29
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 86,
+      "aku_ref": "RKV_86.7",
+      "from": 86,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 97,
+      "aku_ref": "RKV_97.84",
+      "from": 97,
+      "to": 84
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 98,
+      "aku_ref": "RKV_98.8",
+      "from": 98,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 99,
+      "aku_ref": "RKV_99.3",
+      "from": 99,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 111,
+      "aku_ref": "RKV_111.33",
+      "from": 111,
+      "to": 33
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 146,
+      "aku_ref": "RKV_146.35",
+      "from": 146,
+      "to": 35
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 181,
+      "aku_ref": "RKV_181.39",
+      "from": 181,
+      "to": 39
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 186,
+      "aku_ref": "RKV_186.34",
+      "from": 186,
+      "to": 34
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 194,
+      "aku_ref": "RKV_194.59",
+      "from": 194,
+      "to": 59
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "mokṣārthaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "andhaka"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "śrutaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "īśvara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "īśvara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "īśvara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "śrīmārkaṇḍ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "īśvara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "mārkaṇḍeya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "yudhiṣṭhir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "īśvara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "tvayā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "lakṣmīḥ"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "RKV_1.1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "RKV_1.2",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "RKV_2.1",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "4"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 5,
+      "aku_ref": "5"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "6"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "7"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 8,
+      "aku_ref": "8"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 9,
+      "aku_ref": "9"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "10"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "RKV_10.4",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "11"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "12"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "13"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 14,
+      "aku_ref": "14"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 15,
+      "aku_ref": "15"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 16,
+      "aku_ref": "16"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 17,
+      "aku_ref": "17"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 18,
+      "aku_ref": "18"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 19,
+      "aku_ref": "19"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 20,
+      "aku_ref": "20"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 21,
+      "aku_ref": "21"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 22,
+      "aku_ref": "22"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 23,
+      "aku_ref": "23"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 24,
+      "aku_ref": "24"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 25,
+      "aku_ref": "25"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 26,
+      "aku_ref": "26"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 27,
+      "aku_ref": "27"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 28,
+      "aku_ref": "28"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 29,
+      "aku_ref": "29"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 30,
+      "aku_ref": "30"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 31,
+      "aku_ref": "31"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 32,
+      "aku_ref": "32"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 33,
+      "aku_ref": "33"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 34,
+      "aku_ref": "34"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 35,
+      "aku_ref": "35"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 36,
+      "aku_ref": "36"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 37,
+      "aku_ref": "37"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 38,
+      "aku_ref": "38"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 39,
+      "aku_ref": "39"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 40,
+      "aku_ref": "40"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 41,
+      "aku_ref": "41"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 42,
+      "aku_ref": "42"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 43,
+      "aku_ref": "43"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "44"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "45"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "46"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 47,
+      "aku_ref": "47"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 48,
+      "aku_ref": "48"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 48,
+      "aku_ref": "RKV_48.29",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 48,
+      "aku_ref": "RKV_48.30",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 49,
+      "aku_ref": "49"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 50,
+      "aku_ref": "50"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 51,
+      "aku_ref": "51"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 52,
+      "aku_ref": "52"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 53,
+      "aku_ref": "53"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 54,
+      "aku_ref": "54"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 55,
+      "aku_ref": "55"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 56,
+      "aku_ref": "56"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 57,
+      "aku_ref": "RKV_57.1",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 58,
+      "aku_ref": "58"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 59,
+      "aku_ref": "59"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 60,
+      "aku_ref": "60"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 61,
+      "aku_ref": "61"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 62,
+      "aku_ref": "62"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 63,
+      "aku_ref": "63"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 64,
+      "aku_ref": "64"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 65,
+      "aku_ref": "65"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 66,
+      "aku_ref": "66"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 67,
+      "aku_ref": "67"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 68,
+      "aku_ref": "68"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 69,
+      "aku_ref": "69"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 70,
+      "aku_ref": "70"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 71,
+      "aku_ref": "71"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "72"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 73,
+      "aku_ref": "73"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 74,
+      "aku_ref": "74"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 75,
+      "aku_ref": "75"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 76,
+      "aku_ref": "76"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 77,
+      "aku_ref": "77"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 78,
+      "aku_ref": "78"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 79,
+      "aku_ref": "79"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 80,
+      "aku_ref": "80"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 81,
+      "aku_ref": "81"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 82,
+      "aku_ref": "82"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 83,
+      "aku_ref": "83"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 84,
+      "aku_ref": "84"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 85,
+      "aku_ref": "85"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 86,
+      "aku_ref": "86"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 86,
+      "aku_ref": "RKV_86.7",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 87,
+      "aku_ref": "87"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 88,
+      "aku_ref": "88"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 89,
+      "aku_ref": "89"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 90,
+      "aku_ref": "90"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 91,
+      "aku_ref": "91"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 92,
+      "aku_ref": "92"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 93,
+      "aku_ref": "93"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 94,
+      "aku_ref": "94"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 95,
+      "aku_ref": "95"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 96,
+      "aku_ref": "96"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 97,
+      "aku_ref": "97"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 97,
+      "aku_ref": "RKV_97.84",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 98,
+      "aku_ref": "98"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 98,
+      "aku_ref": "RKV_98.8",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 98,
+      "aku_ref": "RKV_98.11",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 98,
+      "aku_ref": "RKV_98.12",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 99,
+      "aku_ref": "99"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 99,
+      "aku_ref": "RKV_99.3",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 100,
+      "aku_ref": "100"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 101,
+      "aku_ref": "101"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 102,
+      "aku_ref": "102"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 103,
+      "aku_ref": "103"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 104,
+      "aku_ref": "104"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 105,
+      "aku_ref": "105"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 106,
+      "aku_ref": "106"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 107,
+      "aku_ref": "107"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 108,
+      "aku_ref": "108"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 109,
+      "aku_ref": "109"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 110,
+      "aku_ref": "110"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 111,
+      "aku_ref": "111"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 111,
+      "aku_ref": "RKV_111.33",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 112,
+      "aku_ref": "112"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 113,
+      "aku_ref": "113"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 114,
+      "aku_ref": "114"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 115,
+      "aku_ref": "115"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 116,
+      "aku_ref": "116"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 117,
+      "aku_ref": "117"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 118,
+      "aku_ref": "118"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 119,
+      "aku_ref": "119"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 120,
+      "aku_ref": "120"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 121,
+      "aku_ref": "121"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 122,
+      "aku_ref": "RKV_122.1",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 123,
+      "aku_ref": "123"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 124,
+      "aku_ref": "124"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 125,
+      "aku_ref": "125"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 126,
+      "aku_ref": "126"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 127,
+      "aku_ref": "127"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 128,
+      "aku_ref": "128"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 129,
+      "aku_ref": "129"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 130,
+      "aku_ref": "130"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 131,
+      "aku_ref": "131"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 132,
+      "aku_ref": "132"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 133,
+      "aku_ref": "133"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 134,
+      "aku_ref": "134"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 135,
+      "aku_ref": "135"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 136,
+      "aku_ref": "136"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 137,
+      "aku_ref": "137"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 138,
+      "aku_ref": "138"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 139,
+      "aku_ref": "139"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 140,
+      "aku_ref": "140"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 141,
+      "aku_ref": "141"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 142,
+      "aku_ref": "142"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 143,
+      "aku_ref": "143"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 144,
+      "aku_ref": "144"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 145,
+      "aku_ref": "RKV_145.1",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 146,
+      "aku_ref": "146"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 146,
+      "aku_ref": "RKV_146.35",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 147,
+      "aku_ref": "147"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 148,
+      "aku_ref": "148"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 149,
+      "aku_ref": "149"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 150,
+      "aku_ref": "150"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 151,
+      "aku_ref": "151"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 152,
+      "aku_ref": "152"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 153,
+      "aku_ref": "153"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 154,
+      "aku_ref": "154"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 155,
+      "aku_ref": "155"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 156,
+      "aku_ref": "156"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 157,
+      "aku_ref": "157"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 158,
+      "aku_ref": "158"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 159,
+      "aku_ref": "159"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 160,
+      "aku_ref": "160"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 161,
+      "aku_ref": "161"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 162,
+      "aku_ref": "162"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 163,
+      "aku_ref": "163"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 164,
+      "aku_ref": "164"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 165,
+      "aku_ref": "165"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 166,
+      "aku_ref": "166"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 167,
+      "aku_ref": "167"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 168,
+      "aku_ref": "168"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 169,
+      "aku_ref": "169"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 170,
+      "aku_ref": "170"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 171,
+      "aku_ref": "171"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 172,
+      "aku_ref": "172"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 173,
+      "aku_ref": "173"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 174,
+      "aku_ref": "174"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 175,
+      "aku_ref": "175"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 176,
+      "aku_ref": "176"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 177,
+      "aku_ref": "177"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 178,
+      "aku_ref": "178"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 179,
+      "aku_ref": "179"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 180,
+      "aku_ref": "180"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 181,
+      "aku_ref": "181"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 181,
+      "aku_ref": "RKV_181.39",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 182,
+      "aku_ref": "182"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 183,
+      "aku_ref": "183"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 184,
+      "aku_ref": "184"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 185,
+      "aku_ref": "RKV_185.1",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 186,
+      "aku_ref": "186"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 186,
+      "aku_ref": "RKV_186.34",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 186,
+      "aku_ref": "RKV_186.36",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 187,
+      "aku_ref": "187"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 188,
+      "aku_ref": "188"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 189,
+      "aku_ref": "189"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 190,
+      "aku_ref": "190"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 191,
+      "aku_ref": "191"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 192,
+      "aku_ref": "192"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 193,
+      "aku_ref": "193"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 194,
+      "aku_ref": "194"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 194,
+      "aku_ref": "RKV_194.59",
+      "body": "//"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 195,
+      "aku_ref": "195"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 196,
+      "aku_ref": "196"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 197,
+      "aku_ref": "197"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 198,
+      "aku_ref": "198"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 199,
+      "aku_ref": "199"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 200,
+      "aku_ref": "200"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 201,
+      "aku_ref": "201"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 202,
+      "aku_ref": "202"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 203,
+      "aku_ref": "203"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 204,
+      "aku_ref": "204"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 205,
+      "aku_ref": "205"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 206,
+      "aku_ref": "206"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 207,
+      "aku_ref": "207"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 208,
+      "aku_ref": "208"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 209,
+      "aku_ref": "209"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 210,
+      "aku_ref": "210"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 211,
+      "aku_ref": "211"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 212,
+      "aku_ref": "212"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 213,
+      "aku_ref": "213"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 214,
+      "aku_ref": "214"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 215,
+      "aku_ref": "215"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 216,
+      "aku_ref": "216"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 217,
+      "aku_ref": "217"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 218,
+      "aku_ref": "218"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 219,
+      "aku_ref": "219"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 220,
+      "aku_ref": "220"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 221,
+      "aku_ref": "221"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 222,
+      "aku_ref": "222"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 223,
+      "aku_ref": "223"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 224,
+      "aku_ref": "224"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 225,
+      "aku_ref": "225"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 226,
+      "aku_ref": "226"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 227,
+      "aku_ref": "227"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 228,
+      "aku_ref": "228"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 229,
+      "aku_ref": "229"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 230,
+      "aku_ref": "230"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 231,
+      "aku_ref": "231"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 232,
+      "aku_ref": "232"
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "file": "kubjikamata tantra_gretil.xml",
+  "title": "Kubjikamatatantra",
+  "total_chapters": 37,
+  "total_akus": 111,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 61,
+      "akus": [
+        {
+          "ref": null,
+          "body": "(1)jayati paramatattvanirvāṇasambhūtitejomayī niḥsṛtā vyaktarūpā (2)parā jñānaśaktis tvam icchā kriyā ṛjvirekhā punaḥ suptanāgendravat (3)kuṇḍalākārarūpā prabhur nādaśaktis tu saṅgīyase bhāsurā (4)jyotirūpā surūpā śivā jyeṣṭhanāmā ca vāmā ca raudrī manākhyāmbikā (5)bindurūpāvadhūtārdhacandrākṛtis tvaṃ trikoṇā a-u-ma-kāra i-kāra (6)e-kārasaṃyojitaikatvam āpadyase tattvarūpā bhagākāravat sthāyinī (7)āditattvodbhavā yonirūpā ca śrīkaṇṭhasambodhanī rudramātā (8)tathānantaśaktiḥ susūkṣmā trimūrtyāmarīśārghinī bhārabhūtis (9)tithīśātmikā sthāṇubhūtā harākhyā ca jhaṇṭīśabhauktīśa-"
+        },
+        {
+          "ref": null,
+          "body": "sarvasattva vaśīkaraṇocchādanonmūlanasamastakarmapravṛttīnāṃ padaṃ cāṣṭamakaṃ bhavet |"
+        },
+        {
+          "ref": null,
+          "body": "yastrā-a yaivvāṇāṅkako ccevi ṇiki ṇiki | yayātratrane yaikārintāhama chīṃ chāṃ | yacāvaka yaipārūhuba khimurāgho-a me na ṇa ña ṅa | yaikhāśi kheśirarbaba hrauṃ hrīṃ hrāṃ | seraśi yaipādīlaku yaikābjikuśrī | yayādahṛ yailāmatkahṛ tivagabha mona ||"
+        },
+        {
+          "ref": null,
+          "body": "chīṃ chāṃ caiva tṛtīyaṃ syāt hrauṃ hrīṃ hrāṃ rdhvekhośitri caturthakam | hreṃ me na ṇa ña ṅa pañcamaṃ khimurāgho-aśrī ṣaṣṭham ||"
+        },
+        {
+          "ref": null,
+          "body": "yaikābjiku mona hrīṃ saptamam | raphasaha eaṃ kūṭam aiṃ vilomena cāṣṭamam ||"
+        },
+        {
+          "ref": null,
+          "body": "stram-a vvāṇāṅkako ccevi | traṃne nijiteśvavi ṇiki ṇiki caṃvaka keghvila chīṃ chāṃ | yaikhāśi kerintāhama hrauṃ hrīṃ hrāṃ me na ṇa ña ṅa | seraśi rarbaba khimurāgho-aśrī | yaṃdahṛ yaikābjikulamaka mona hrīṃ hsphreṃ aiṃ ||"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāsvā ṭpha"
+        },
+        {
+          "ref": null,
+          "body": "hāsvā yairīśvaṇḍemucā kterahāma ktera ktera oṃ ||"
+        },
+        {
+          "ref": null,
+          "body": "hāsvā yaikābjikuhyagu ṭpha hūṃ hreṃ hūṃ hrīṃ hreṃ lirākaṣṭrādaṃ naha naha rvānsa tān tiṣyarika taṃpirākā taṃkṛ naye kaṃdigāyoprarṇacūntratantramantrayavāndraparvosa mama ṭpha hūṃ kebjikuhyagu oṃ ||"
+        },
+        {
+          "ref": null,
+          "body": "o-jā-pū-kā-ḍi-lam-rṇa-ma-ā-dha-gi-rū-ṇa-ra-ri-pū |"
+        },
+        {
+          "ref": null,
+          "body": "hrīṃ ru aghore hrīṃ shauṃ aghoryāyai prathamaṃ śiraḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "hrīṃ ru paramaghore hūṃ shauṃ paramaghorāyai mukham ||"
+        },
+        {
+          "ref": null,
+          "body": "hrīṃ ru shauṃ ghorarūpe shauṃ ghorarūpāyai hṛdi ||"
+        },
+        {
+          "ref": null,
+          "body": "hrīṃ ru shauṃ ghoramukhi shauṃ ghoramukhyai guhye ||"
+        },
+        {
+          "ref": null,
+          "body": "hrīṃ phaṭ bhīmanāme shauṃ bhīmāyai dakṣiṇabhuje ||"
+        },
+        {
+          "ref": null,
+          "body": "hrīṃ hūṃ bhīṣaṇe shauṃ bhīṣaṇāyai vāmato bhuje ||"
+        },
+        {
+          "ref": null,
+          "body": "shauṃ hrīṃ haḥ vama shauṃ vamanyai dakṣiṇoru ||"
+        },
+        {
+          "ref": null,
+          "body": "hrīṃ hūṃ phaṭ piba he shauṃ pibanyai vāmatoru ||"
+        },
+        {
+          "ref": null,
+          "body": "shāṃ sarvajña hṛdayāya namaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "amṛte tejomālini tṛpti śirase shīṃ svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "vedavedini hūṃ phaṭ shūṃ anādibodhāya śikhāyai vauṣaṭ ||"
+        },
+        {
+          "ref": null,
+          "body": "shaiṃ vajriṇe vajradharāya svatantra kavacāya hūṃ ||"
+        },
+        {
+          "ref": null,
+          "body": "shauṃ nit yam aluptaśakti shauṃ vauṃ dhauṃ sahaje trinetrarūpiṇe namas tubhyam anantaśakti ||"
+        },
+        {
+          "ref": null,
+          "body": "shaḥ ślīṃ paśu hūṃ phaṭ pāśupatāstrāya sahasrākṣāya hūṃ phaṭ ||"
+        },
+        {
+          "ref": null,
+          "body": "yatra yat padavinyāsaṃ $ tat kubjīśe-m-ataḥ śṛṇu //"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ a paramānande haḥ ā siddhidānandane haḥ i parāpare hrūṃ phreṃ phaṭ kṣaḥ ī śrīkulāmbike ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ u kālarudrasthe haḥ ū ṛddhibalānvite haḥ ṛ śirohāre hrūṃ phreṃ phaṭ kṣaḥ ṝ śrīkulāmbike ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ ḷ narakāntasthe haḥ ḹ guhyamahāmbike haḥ e sṛṣṭigate hrūṃ phreṃ phaṭ kṣaḥ ai śrīkulāmbike ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ o kuṇḍalaguhyānte haḥ au kuṇḍalalakṣmike haḥ aṃ kuṇḍalinī hrūṃ phreṃ phaṭ kṣaḥ aḥ kulamālinī ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ ka kamaladīpte haḥ kha kuṇḍalanābhige haḥ ga kālahare hrūṃ phreṃ phaṭ kṣaḥ gha svatejaśive ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ ṅa kamalamāle haḥ ca kramasauhṛdi haḥ cha pāpahane hrūṃ phreṃ phaṭ kṣaḥ ja kāmarūpiṇī ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ jha kaṇṭhakūpasthe haḥ ña śaivāmṛtātmike haḥ ṭa candrātmike hrūṃ phreṃ phaṭ kṣaḥ ṭha sukhadeśvarī ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ ḍa kuharāntasthe haḥ ḍha saumukhyatāmane haḥ ṇa svānandane hrūṃ phreṃ phaṭ kṣaḥ ta kālanāśanī ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ tha kālavamani haḥ da cogrānunāsike haḥ dha karoti sā hrūṃ phreṃ phaṭ kṣaḥ na kālarodanī ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ pa śrāvaṇāntasthe haḥ pha siddhim āśrite haḥ ba karoti sā hrūṃ phreṃ phaṭ kṣaḥ bha pārameśvarī ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ ma kālakalātīte haḥ ya śrībindunetrage haḥ ra śrīhārike hrūṃ phreṃ phaṭ kṣaḥ la sṛṣṭibinduge ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ haḥ va prakaṭagupte haḥ śa mahāmukhe pare haḥ ṣa svākāśage hrūṃ phreṃ phaṭ kṣaḥ sa śrīkujāmbike ||"
+        },
+        {
+          "ref": null,
+          "body": "ana aiṃ | ā tha hrīṃ | i ṛ a | ī ṛ gho | u ḷ re | ū ḹ hrīṃ | ṛ ca hsaḥ | ṛ dha pa | ḷ ṇa ra | ḹ u ma | e ū gho | ai ī re | o ba hūṃ | au ka gho | aṃ kha ra | aḥ ga rū | ka gha pe | kha ṅa hsauṃ | ga i gho | gha a ra | ṅa va mu | ca bha khi | cha ya bhī | ja ḍa ma | jha ḍha bhī | ña ṭha ṣa | ṭa jha ṇe | ṭha ña va | ḍa aḥ ma | ḍha ṭa va | ṇa ra ma | ta ja pi | tha pa va | da sa pi | dha ha va | na cha ha | pa la he | pha ā ru | ba ṣa ru | bha kṣa ru | ma ma ru | ya śa ra | ra aṃ ra | la ta ra | va e ra | śa ai hrīṃ | ṣa o hūṃ | sa au phreṃ | ha da hsauṃ | kṣa pha aiṃ ||"
+        },
+        {
+          "ref": null,
+          "body": "mahākalpāntasaṃhāre mahāpralayam adbhutam"
+        },
+        {
+          "ref": null,
+          "body": "kṣa krodhāvali a ananta ajara bhairava ha haṃsāvali ā mahānanda āpakumbha bhairava sa ānandāvali i pracaṇḍa iḍācāra bhairava ṣa garbhāvali ī ḍāmara indramūrti bhairava śa saṃhārāvali u udyāna ulkāsya bhairava va amṛtāvali ū vasanta ūṣmāda bhairava la vipulāvali ṛ ṛpudarpa ṛpusūdana bhairava ra kālāntakāvali ṝ kṛtānta ṝmukta bhairava ya pracaṇḍāvali ḷ prasanna ḷptakāya bhairava ma mahāmohāvali ḹ mahāmāyā ḹpāda bhairava bha bhūtabhayāvali e raudra ekadaṃṣṭra bhairava ba vaḍavāmukhāvali ai mahādaṃṣṭra airāvata bhairava pha lampaṭāvali o kaṅkāla oghāmbu bhairava pa pavanāvali au anaṅga auṣadhīghna bhairava na kusumāvali aṃ svacchanda aṃjana bhairava dha vipulāvali aḥ manmatha aḥhvakāyabhairava da suratāvali ka unmatta kambala bhairava tha kūrmāvali kha meghanāda kharuṣānana bhairava ta tvaritāvali ga karāla gomukha bhairava ṇa mandarāvali gha vikarāla ghaṇṭāla bhairava ḍha khaṭvāṅgāvali ṅa mahābala ṅaṇanāntabhairava ḍa candrāvali ca asitāṅga caṇḍadhāra bhairava ṭha vajrāvali cha ulka chaṭāṭopa bhairava ṭa manthāvali ja ekapāda jaṭālākṣa bhairava ña kāntāvali jha kapāla jhaṅkīśa bhairava jha ambikāvali ña vyoma ñabhaṭeśvara bhairava ja bhedakāvali ṭa vetāla ṭaṅkapāṇi bhairava cha kṛtāntāvali ṭha āmardaka ṭhānubandha bhairava ca caturbhujāvali ḍa mahāsāha ḍāmara bhairava ṅa yogāvali ḍha ruru ḍhaḍhṛkarṇa bhairava gha bhūtāvali ṇa bhuvana ṇatīkānta bhairava ga abhayāvali ta vibhūti taḍidbhāsvara bhairava kha carcakāvali tha ūrdhvasepha thavira bhairava ka bhasmāntakāvali da krūra dantura bhairava aḥ sṛṣṭikāvali dha lohita dhanada bhairava aṃ vijayāvali na lampaṭa nāgakarṇa bhairava au brahmāvali pa carcaka pracaṇḍa bhairava o sadyojātāvali pha ....... phetkāra bhairava ai phetkārāvali ba acintya vīrasiṃha bhairava e karṇamoṭāvali bha mahādevāṅga bhṛkuṭi bhairava ḹ mahāmohāvali ma mahākālāgni meghabhāsura bhairava ḷ mahāmāyāvali ya mārtaṇḍa yugānta bhairava ṝ gāndhārāvali ra prāṇa raurava bhairava ṛ puṣpāvali la ananta lamboṣṭha bhairava ū śabdāvali va ucchuṣma vasala bhairava u mahāghoṣāvali śa mahāyaśa śukatuṇḍa bhairava ī sūkṣmāvali ṣa mahodyāna ṣaṭālākṣa bhairava vidyāvali sa amṛta sunāsa bhairava ā vyāpakāvali ha śubhaṅkara hūhūka bhairava a mahāmāyāvali kṣa pralayāntaka kṣayānta bhairava ||"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hūṃ kṣaḥ hūṃ phaṭ hrīṃ chrīṃ kṣaḥ ślīṃ phreṃ hrūṃ hūṃ hūṃ phaṭ ||"
+        },
+        {
+          "ref": null,
+          "body": "%%22.16A a anantāvali kṣa gaganavīra ā pralayāntakāvali ha bhuvanavīra anantaśaktyāvali sa vijayavīra ī haṃsāvali ṣa ajayavīra u mohāvali śa mahā-ajayavīra ū kriyāśaktyāvali va aṅkuravīra ṛ bṛhodarāvali la saṃhāravīra ṝ ripumardakāvali ra kumāravīra ḷ vidyāśaktyāvali ya mahāyaśavīra ḹ icchāvali ma mahāsāhasavīra e ratnāvali bha pracaṇḍavīra ai vijñānaśaktyāvali ba mahārṇavavīra o lohitāvali pha mahāmaravīra au ulkāvali pa mahādambhakavīra aṃ lolupāvali na carcikavīra aḥ barbarāvali dha pramathavīra ka pavanāvali da kanakavīra kha lampaṭāvali tha kharodakavīra ga mātāvali ta garuḍavīra gha raudrāvali ṇa meghanādavīra ṅa sarvabhakṣāvali ḍha mahāgarjanavīra ca jyeṣṭhāvali ḍa carvakavīra cha ambikāvali ṭha chedakavīra ja vedāvali ṭa triśikhavīra jha krodhāvali ña mārīcivīra ña brahmaghoṣāvali jha vidhānavīra ṭa sarvavīrāvali ja vikaṭavīra ṭha vajrakāvali cha vasantakavīra ḍa kanyāvali ca abhayavīra ḍha prasannāvali ṅa vipakṣavīra ṇa mahākrodhāvali gha mahābalivīra ta ḍāmarāvali ga kaṭaṅkaṭavīra tha mahādaṃṣṭrāvali kha ḍamarukavīra da ādhārāvali ka dharmavīra dha āsannāvali aḥ mahātibalavīra na ujjvalāvali aṃ sarvavīra pa sāgarāvali au mahākāyavīra pha tribhuvanāvali o varalāmukhavīra ba valayāvali ai bhasmāntakavīra bha nidrāvali e durjayavīra ma sandhyāvali ḹ mahāvetālavīra ya candravīṇāvali ḷ mahārauravavīra ra manmathāvali ṝ mahādurdharavīra la vyomāvali ṛ mahābhogavīra va ūṣmāvali ū vajravīra śa sitāvali u kālāgnivīra ṣa mahāmāyāvali ī sarvalokavīra sa sarvadevatāvali i mahānādavīra ha yogāvali ā parāparavīra kṣa anantākhyāvali a mahākṣayāntavīra"
+        },
+        {
+          "ref": null,
+          "body": "yryauṃ rryauṃ lryauṃ vryauṃ śryauṃ ṣryauṃ sryauṃ hryauṃ kṣryauṃ kāmākhyasya hsryauṃ pūrṇagiri smryauṃ oḍḍiyāna kṣmryauṃ jālandhara | śrī hā ka ḍo ka śrī kāmarivāḍī śrī devavāḍī śrīṃ hrīṃ amṛtavidye putraṃ dehi āyuṃ dehi yaśaṃ dehi ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ śrīṃ hāṃ hīṃ hūṃ kusumamālinīye idaṃ pradhānadhātuṃ gṛhṇa gṛhṇa devadattasya udaragataṃ āṇimāri vaśaṅkari sarvaśatrūṇāṃ svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ śrīṃ yāṃ yīṃ yūṃ yakṣiṇī jambhaya jambhaya sarvaśatrūṇāṃ devadattānām asthi bhañja bhañja āṇimāri vaśīkuru kuru svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ śrīṃ śāṃ śīṃ śūṃ śaṅkhinī śaṅkhagrahena sarvaśatrūṇāṃ devadattānāṃ āṇimāri vaśīkuru kuru majjaṃ gṛhṇa gṛhṇa svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ śrīṃ kāṃ kīṃ kūṃ kākinī kāyaṃ saṃhāraya saṃhāraya medaṃ sarvaśatrūṇāṃ devadattānāṃ āṇimāri vaśīkuru kuru svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ śrīṃ lāṃ līṃ lūṃ lākinī sarvaśatrūṇāṃ devadattānāṃ āṇimāri vaśīkuru kuru māṃsaṃ bhakṣaya bhakṣaya stambhaya stambhaya svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ śrīṃ rāṃ rīṃ rūṃ rākiṇī āṇimāri vaśīkuru kuru sarvaśatrūṇāṃ devadattānāṃ raktaṃ gṛhṇa gṛhṇa svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ śrīṃ ḍāṃ ḍīṃ ḍūṃ ḍākinī sarvaśatrūṇāṃ devadattānāṃ āṇimāri vaśīkuru kuru tvacadhātuṃ gṛhṇa gṛhṇa svāhā ||"
+        },
+        {
+          "ref": null,
+          "body": "ṭha ṭha ya lā ba hā ma mi mi hi hi sa gra sa gra ||"
+        },
+        {
+          "ref": null,
+          "body": "kaṃ mu a hūṃ hūṃ la jva la jva na śa nā ra gho ||"
+        },
+        {
+          "ref": null,
+          "body": "pa rū ra gho ra gho a ra śva the ma pra tha ma pra ||"
+        },
+        {
+          "ref": null,
+          "body": "tha ma pra śa vi ā śa vi ā da bhiṃ da bhiṃ ya ||"
+        },
+        {
+          "ref": null,
+          "body": "śa dhvaṃ vi ya śa dhvaṃ vi tha ma tha ma sa gra ||"
+        },
+        {
+          "ref": null,
+          "body": "sa gra kaṃ mu aka ha lo hi e hi e ya rā śva me ra ||"
+        },
+        {
+          "ref": null,
+          "body": "pa ya rā pa rā pa ya vā de ya sā hā ṭṭa ṅgā ||"
+        },
+        {
+          "ref": null,
+          "body": "li sphu vi ye ta pa dhi ṇā ga hā ma ya kā ha lo ||"
+        },
+        {
+          "ref": null,
+          "body": "mo na ya rā śva 'je ste ma na aiṃ ||"
+        },
+        {
+          "ref": null,
+          "body": "ya madhye kṣe ma me da abhyantaracakre vidikṣu hūṃkāreṇa nāma vidarbhya yac ca ni rā [rā] ja sa do [do] ru ṇa yo [yo] ni ra [ya] iti dvitīyacakre l oṃ hrīḥ ṣṭrīḥ vikṛtānana hūṃ hūṃ phaṭ phaṭ amukaṃ māraya vidveṣaya uccāṭaya vaśīkuru ākṛṣṭiṃ kuru śāntiṃ kuru puṣṭiṃ kuru stobhaṃ kuru stambhaṃ kuru hūṃ hūṃ phaṭ phaṭ ṭha ṭha tṛtīyacakre / māraṇe hūṃ vidveṣe hraṃḥ uccāṭe hyaḥ vaśe hsklīṃ ākṛṣṭau hrīṃ śāntike sphauṃ pauṣṭike sphaḥ stobhe hrūṃ mohe hlauṃ stambhe hlūṃ ||"
+        },
+        {
+          "ref": null,
+          "body": "loṇa umākānta pāde tu dakṣiṇe ca mahābalaḥ ḍhārdhanārī sthito devi jaṅghikāyāṃ varānane"
+        }
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "10",
+          "body": "sadyātmikānugraheśārcitā krūrasaṅge mahāsenasambhoginī"
+        }
+      ]
+    },
+    {
+      "chapter_num": 11,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "11",
+          "body": "ṣoḍaśāntāmṛtā bindusandohaniṣyandadehaplutāśeṣasamyakparānanda-"
+        }
+      ]
+    },
+    {
+      "chapter_num": 12,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "12",
+          "body": "nirvāṇasaukhyaprade bhairavī bhairavodyānakrīḍānuṣakte"
+        }
+      ]
+    },
+    {
+      "chapter_num": 13,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "13",
+          "body": "parā mālinī rudramālārcite rudraśaktiḥ khagī siddhayogeśvarī"
+        }
+      ]
+    },
+    {
+      "chapter_num": 14,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "14",
+          "body": "siddhamātā vibhuḥ śabdarāśīti yonyārṇavī vāgviśuddhāsi vāgeśvarī"
+        }
+      ]
+    },
+    {
+      "chapter_num": 15,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "15",
+          "body": "mātṛkāsiddham icchā kriyā maṅgalā siddhalakṣmī vibhūtiḥ subhūtir"
+        }
+      ]
+    },
+    {
+      "chapter_num": 16,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "16",
+          "body": "gatiḥ śāśvatā khyāti nārāyaṇī raktacaṇḍā karālekṣaṇā bhīmarūpā"
+        }
+      ]
+    },
+    {
+      "chapter_num": 17,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "17",
+          "body": "mahocchuṣmayāgapriyā tvam jayantyājitā rudrasammohanī"
+        }
+      ]
+    },
+    {
+      "chapter_num": 18,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "18",
+          "body": "tvaṃ navātmānadevasya cotsaṅgayānāśritā"
+        }
+      ]
+    },
+    {
+      "chapter_num": 19,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "19",
+          "body": "mantramārgānugair mantribhir vīrapānānuraktaiḥ subhaktaiś ca"
+        }
+      ]
+    },
+    {
+      "chapter_num": 20,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "20",
+          "body": "sampūjyase devi pañcāmṛtair divyapānotsavair ekajanmadvijanma-"
+        }
+      ]
+    },
+    {
+      "chapter_num": 21,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "21",
+          "body": "trijanmacatuḥpañcaṣaṭsaptajanmodbhavais taiś ca nāraiḥ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 22,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "22",
+          "body": "śubhaiḥ phalguṣais tarpyase madyamāṃsapriye"
+        }
+      ]
+    },
+    {
+      "chapter_num": 23,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "23",
+          "body": "mantravidyāvratodbhāṣibhir muṇḍakaṅkālakāpālibhir"
+        }
+      ]
+    },
+    {
+      "chapter_num": 24,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "24",
+          "body": "divyacaryānurūḍhair namaskāra oṃkārasvāhāsvadhākāravauṣaḍvaṣaṭ-"
+        }
+      ]
+    },
+    {
+      "chapter_num": 25,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "25",
+          "body": "kāraphaṭkārahūṃkārajātībhir etaiś ca mantrākṣaroccāribhir"
+        }
+      ]
+    },
+    {
+      "chapter_num": 26,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "26",
+          "body": "vāmahastasthitaiś cākṣasūtrāvalījāpibhiḥ sādhakaiḥ putrakair"
+        }
+      ]
+    },
+    {
+      "chapter_num": 27,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "27",
+          "body": "mātṛbhir maṇḍale dīkṣitair yogibhir yoginīvṛndamelāpakai"
+        }
+      ]
+    },
+    {
+      "chapter_num": 28,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "28",
+          "body": "rudrakrīḍālasaiḥ pūjyase yogināṃ yogasiddhiprade devi tvaṃ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 29,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "29",
+          "body": "padmapattropamair locanaiḥ snehapūrṇais tu yaṃ paśyase"
+        }
+      ]
+    },
+    {
+      "chapter_num": 30,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "30",
+          "body": "tasya divyāntarīkṣasthitā saptapātālasatkhecarī siddhir avyāhatā"
+        }
+      ]
+    },
+    {
+      "chapter_num": 31,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "31",
+          "body": "vartate. bhaktito yaḥ paṭhed daṇḍakaṃ ekakālaṃ dvikālaṃ trikālaṃ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 32,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "32",
+          "body": "śuciḥ saṃsmared yaḥ sadā mānavaḥ so'pi śastrāgnicaurārṇave"
+        }
+      ]
+    },
+    {
+      "chapter_num": 33,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "33",
+          "body": "parvatāgre 'pi saṃrakṣase devi putrānurāgān mahālakṣmi ye"
+        }
+      ]
+    },
+    {
+      "chapter_num": 34,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "34",
+          "body": "hemacaurānyadārānuṣaktāś ca brahmaghnagoghnā mahādoṣaduṣṭā"
+        }
+      ]
+    },
+    {
+      "chapter_num": 35,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "35",
+          "body": "vimuñcanti saṃsmṛtya devi tvadīyaṃ mukhaṃ pūrṇacandrānukāraṃ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 36,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "36",
+          "body": "sphuraddi vyamāṇikyasatkuṇḍalodghṛṣṭagaṇḍasthalaṃ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 37,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "37",
+          "body": "ye 'pi baddhā dṛḍhair bandhanair nāgapāśair bhujābaddha-"
+        }
+      ]
+    },
+    {
+      "chapter_num": 38,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "38",
+          "body": "pādārgalais te 'pi tvannāmasaṅkīrtanād devi muñcanti"
+        }
+      ]
+    },
+    {
+      "chapter_num": 39,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "39",
+          "body": "ghorair mahāvyādhibhiḥ saṃsmṛtya pādāravindadvayaṃ te"
+        }
+      ]
+    },
+    {
+      "chapter_num": 40,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "40",
+          "body": "mahākāli kālāgnitejaḥprabhe skandagovindabrahmendracandrārka-"
+        }
+      ]
+    },
+    {
+      "chapter_num": 41,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "41",
+          "body": "puṣpāyudhair maulimālālisatpadmakiñjalkasatpiñjaraiḥ sevyase"
+        }
+      ]
+    },
+    {
+      "chapter_num": 42,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "42",
+          "body": "sarvavīrāmbike bhairavī bhairavas te śaraṇyāgato 'haṃ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 43,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "43",
+          "body": "kṣamasvāparādhaṃ kṣamasvāparādhaṃ śive"
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "aku_count": 14,
+      "akus": [
+        {
+          "ref": "2",
+          "body": "hūṃ"
+        },
+        {
+          "ref": "2",
+          "body": "sagra"
+        },
+        {
+          "ref": "2",
+          "body": "yaramā kaṃmu-a"
+        },
+        {
+          "ref": "2",
+          "body": "capa"
+        },
+        {
+          "ref": "2",
+          "body": "madha"
+        },
+        {
+          "ref": "2",
+          "body": "hada"
+        },
+        {
+          "ref": "2",
+          "body": "naha ṇiridhāṅgaṭvākhalapāka ṇikṣabhasamāṃradhiru līṇḍācāṣṭaju tivagabha mona oṃ ||"
+        },
+        {
+          "ref": "2",
+          "body": "yataghāvi"
+        },
+        {
+          "ref": "2",
+          "body": "yataghā"
+        },
+        {
+          "ref": "2",
+          "body": "mava"
+        },
+        {
+          "ref": "2",
+          "body": "haka"
+        },
+        {
+          "ref": "2",
+          "body": "ṭacapra"
+        },
+        {
+          "ref": "2",
+          "body": "ṭaca parūnuta rataragho"
+        },
+        {
+          "ref": "2",
+          "body": "rasphupra hrauṃ hrīṃ hrāṃ ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "3",
+          "body": "ṭpha"
+        },
+        {
+          "ref": "3",
+          "body": "hūṃ"
+        }
+      ]
+    }
+  ]
+}

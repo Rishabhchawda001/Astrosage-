@@ -1,0 +1,26 @@
+{
+  "file": "ashvalayana_grihya_sutra_gretil_prose.json",
+  "title": "Āśvalāyanagṛhyasūtra",
+  "status": "certified",
+  "total_akus": 760,
+  "certified_akus": 760,
+  "issues": [],
+  "class_distribution": {
+    "prose": 303,
+    "sutra": 350,
+    "commentary": 2,
+    "mantra": 35,
+    "unknown": 70
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 760,
+      "certified": 760,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

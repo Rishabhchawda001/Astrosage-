@@ -1,0 +1,25 @@
+{
+  "file": "atharvashiras_upanishad_gretil_prose.json",
+  "title": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+  "status": "certified",
+  "total_akus": 42,
+  "certified_akus": 42,
+  "issues": [],
+  "class_distribution": {
+    "mantra": 2,
+    "prose": 32,
+    "translation": 5,
+    "commentary": 3
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 42,
+      "certified": 42,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

@@ -1,0 +1,22 @@
+{
+  "file": "nadabindi_upanishad_gretil_prose.json",
+  "title": "Nādabindūpaniṣad",
+  "status": "certified",
+  "total_akus": 1,
+  "certified_akus": 1,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

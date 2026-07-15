@@ -1,0 +1,4378 @@
+{
+  "file": "revakhanda_vayu_puran_gretil.xml",
+  "title": "Revākhāṇḍa of the Vāyupurāṇa (RKV)",
+  "total_chapters": 233,
+  "total_akus": 743,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 489,
+      "akus": [
+        {
+          "ref": null,
+          "body": "Revākhaṇḍa of the Vāyupurāṇa"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "oṃ namaḥ śrīpuruṣottamāya / oṃ namaḥ śrīnarmadāyai / oṃ namo hariharahiraṇyagarbhebhyo namo vyāsavālmīkiśukaparāśarebhyo namo gurugobrāhmaṇebhyaḥ / oṃ majjanmātaṅgagaṇḍacyutamadamadirāmodamattālimālaṃ snānaiḥ siddhāṅganānāṃ kucayugavigalat kuṅkumāsaṅgapiṅgam / sāyaṃ prātarmunīnāṃ kusumacayasamācchannatīrasthavṛkṣaṃ pāyādvo narmadāmbhaḥ karimakarakarākrāntarahaṃstaraṃgam //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe purāṇasaṃhitāvarṇanām prathamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe revāmāhātmyavarṇanaṃnāma dvitīyo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye mārkaṇḍeyadharmarājasaṃvāde kalpakṣaye mārkaṇḍeyakṛtapotārdhārohaṇavṛttāntavarṇanaṃnāma tṛtīyo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāpañcadaśanāmavarṇanaṃ nāma caturtho 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe pañcamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye sahaitukarevānāmamāhātmyavarṇane mayūrakalpasamudbhavo nāma ṣaṣṭho 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye kūrmakalpasamudbhavo nāma saptamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye bakakalpasamudbhavo nāmāṣṭamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye narmadotpattitatsnānaphalādikathanaṃ nāma navamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: vakṣye 'haṃ śrūyatāṃ sarvaiḥ katheyaṃ pūrvataḥ śrutā //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye narmadāsnānaphalaśrutikathanaṃ nāma daśamo'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīnarmadāmāhātmyavarṇanaṃ nāma ekādaśo'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīnarmadāmāhātmye narmadāstotrakathanaṃ nāma dvādaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmya ekaviṃśatikalpakathānakavarṇanaṃ nāma trayodaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye kalpānukathane kālarātrikṛtajagatsaṃharaṇavarṇanaṃ nāma caturdaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye sṛṣṭisaṃharaṇasaṃrambhavarṇanaṃ nāma pañcadaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye brahmakṛtaśivastutivarṇanaṃ nāma ṣoḍaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīnarmadāmāhātmye dvādaśādityarūpeṇa jagatsaṃharaṇavarṇanaṃ nāma saptadaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmyavarṇanaṃ nāmāṣṭādaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīnarmadāmāhātmye vārāhakalpavṛttāntavarṇanaṃ nāmaikonaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe vārāhakalpavṛttāntavarṇanaṃ nāma viṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye kapilāsaritsambhavavarṇanaṃ nāmaikaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye viśalyāsambhavo nāma dvāviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe viśalyāsaṅgamamāhātmyavarṇanaṃ nāma trayoviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye karanarmadāsaṅgamamāhātmyavarṇanaṃ nāma caturviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye nīlagaṅgāyāḥ saṅgamamāhātmyavarṇanaṃnāma pañcaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye madhūkatṛtīyāvratavidhānamāhātmyavarṇanaṃ nāma ṣaḍviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye tripurakṣobhaṇavarṇanaṃ nāma saptaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe tripuravidhvaṃsane jvāleśvaratīrthāmareśvatīrthamāhātmyavarṇanaṃ nāmāṣṭāviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye kāverīsaṅgamamāhātmyavarṇanaṃ nāmaikonatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dārutīrthamāhātmyavarṇanaṃ nāma triṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe brahmāvartatīrthamāhātmyavarṇanaṃ nāmaikatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe patreśvaratīrthamāhātmyavarṇanaṃ nāma dvātriṃśo'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe 'gnitīrthamāhātmyavarṇanaṃ nāma trayastriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ravitīrthavarṇanaṃ nāma catustriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe meghanādatīrthamāhātmyavarṇanaṃ nāma pañcatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dārukatīrthamāhātmyavarṇanaṃ nāma ṣaṭtriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe devatīrthamāhātmyavarṇanaṃ nāma saptaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye narmadeśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīnarmadāmāhātmye kapilātīrthamāhātmyavarṇanaṃ nāmaikonacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye karañjeśvaratīrthamāhātmyavarṇanaṃ nāma catvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye kuṇḍaleśvaratīrthamāhātmyavarṇanaṃ nāmaikacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye pippalādatīrthamāhātmyavarṇanaṃ nāma dvicatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe vimaleśvaratīrthamāhātmyavarṇanaṃ nāma tricatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "mokṣārthaṃ mānavendrāṇāṃ nirmitaṃ nṛpasattama /"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedapraśaṃsāvarṇanaṃ nāma catuścatvāriṃśo 'dhyāyaḥ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe andhakavarapradānavarṇanaṃ nāma pañcacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedamāhātmye śacīharaṇavarṇanaṃ nāma ṣaṭcatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe gīrvāṇasvargamanavarṇanaṃ nāma saptacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "andhaka uvāca: na tatra sidhyate kāryaṃ devaṃ prati maheśvaram //"
+        },
+        {
+          "ref": null,
+          "body": "śrībhagavān uvāca: putra tvaṃ śikharaṃ gatvā dhūnayasva balena ca //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe 'ndhakavadhatadvarapradānavarṇanaṃ nāmāṣṭacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedotpattimāhātmyavarṇanaṃ nāmaikonapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedamāhātmye pātrāpātraparīkṣādānādiniyamavarṇanaṃ nāma pañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhede dānadharmapraśaṃsāvarṇanaṃ nāmaikapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedamāhātmye ṛkṣaśṛṅgacaritre dīrghatapomunyākhyānavarṇanaṃ nāma dvipañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedamāhātmye ṛkṣaśṛṅgasvargagamanavarṇanaṃ nāma tripañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcamāvantyakhaṇḍe revākhaṇḍe dīrghatapasaḥ svargārohaṇavarṇanaṃ nāma catuḥpañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedamāhātmye kāśīrājamokṣagamanaṃ nāma pañcapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe vyādhavākyopadeśakathanapūrvakadānādiphalavarṇanaṃ nāma ṣaṭpañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe vyādhasvargagamanavarṇanaṃ nāma saptapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūlabhedatīrthamāhātmyavarṇanaṃ nāmāṣṭapañcāśattamo 'dhyāyaḥ||"
+        },
+        {
+          "ref": null,
+          "body": "śūlabhedamāhātmyaṃ samāptam"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe puṣkariṇyām ādityatīrthamāhātmyavarṇanaṃ nāmaikonaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "śrutaṃ rudrācca taiḥ sarvair ahaṃ tatra samīpagaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ādityeśvaratīrthamāhātmyavarṇanaṃ nāma ṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śakreśvaratīrthamāhātmyavarṇanaṃ nāmaikaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe karoḍīśvaratīrthamāhātmyavarṇanaṃ nāma dviṣaṣṭitamo 'dhyāyaḥ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kumāreśvaratīrthamāhātmyavarṇanaṃ nāma triṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe agastyeśvaratīrthamāhātmyavarṇanaṃ nāma catuḥṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ānandeśvaratīrthamāhātmyavarṇanaṃ nāma pañcaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe mātṛtīrthamāhātmyavarṇanaṃ nāma ṣaṭṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe luṅkeśvaratīrthamāhātmyavarṇanaṃ nāma saptaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dhanadatīrthamāhātmyavarṇanaṃ nāmāṣṭaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe maṅgaleśvaratīrthamāhātmyavarṇanaṃ nāmaikonasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ravitīrthamāhātmyavarṇanaṃ nāma saptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kāmeśvaratīrthamāhātmyavarṇanaṃ nāmaikasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe maṇināgeśvaratīrthamāhātmyavarṇanaṃ nāma dvisaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe gopāreśvaramāhātmyavarṇanaṃ nāma trisaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcamāvantyakhaṇḍe revākhaṇḍe gautameśvaratīrthamāhātmyavarṇanaṃ nāma catuḥsaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śaṅkhacūḍatīrthamāhātmyavarṇanaṃ nāma pañcasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe pāreśvaratīrthamāhātmyavarṇanaṃ nāma ṣaṭsaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhīmeśvaratīrthamāhātmyavarṇanaṃ nāma saptasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nāradeśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dadhiskandamadhuskandatīrthamāhātmyavarṇanaṃ nāmaikonāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nandikeśvaratīrthamāhātmyavarṇanaṃ nāmāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe varuṇeśvaratīrthamāhātmyavarṇanaṃ nāmaikāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dadhiskandādipañcatīrthamāhātmyavarṇanaṃ nāma dvyaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe hanūmanteśvaratīrthamāhātmyavarṇanaṃ nāma tryaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kapitīrtharāmeśvaralakṣmaṇeśvarakumbheśvaramāhātmyavarṇanaṃ nāma caturaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tadā sa kaṇvabhūpālaḥ svakaṃ dūtaṃ samādiśat /"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe somanāthatīrthamāhātmyavarṇanaṃ nāma pañcāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: varaṃ vṛṇīṣva havyāśa yaste manasi vartate //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe piṅgaleśvaratīrthamāhātmyavarṇanaṃ nāma ṣaḍaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ṛṇatrayamocanatīrthamāhātmyavarṇanaṃ nāma saptāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kapileśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe pūtikeśvaratīrthamāhātmyavarṇanaṃ nāmaikonanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe jalaśāyitīrthamāhātmyavarṇanaṃ nāma navatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe caṇḍādityatīrthamāhātmyavarṇanaṃ nāmaikanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe yamahāsyatīrthamāhātmyavarṇanaṃ nāma dvinavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kalhoḍītīrthamāhātmyavarṇanaṃ nāma trinavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nandikeśvaratīrthamāhātmyavarṇanaṃ nāma caturnavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nārāyaṇītīrthamāhātmyavarṇanaṃ nāma pañcanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe koṭīśvaratīrthamāhātmyavarṇanaṃ nāma ṣaṇṇavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: toṣito 'haṃ tvayā vatsa varaṃ varaya śobhanam //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe vyāsatīrthamāhātmyavarṇanaṃ nāma saptanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: vallabhā bhāskarasyaiva matprasādādbhaviṣyasi //"
+        },
+        {
+          "ref": null,
+          "body": "bhānuruvāca: āhūto 'smi kathaṃ deva hyaghāsuraniṣūdana //"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: prabhāṃ pālaya bho bhāno saṃtoṣeṇa pareṇa hi //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe prabhāsatīrthamāhātmyavarṇanaṃ nāmāṣṭanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "śrīmārkaṇḍeya uvāca: etatsarvaṃ samāsthāya nṛtyaṃ śambhuścakāra vai //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nāgeśvaratīrthamāhātmyavarṇanaṃ nāmaikonaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe mārkaṇḍeśvaratīrthamāhātmyavarṇanaṃ nāma śatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe saṃkarṣaṇatīrthamāhātmyavarṇanaṃ nāmaikādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe manmatheśvaratīrthamāhātmyavarṇanaṃ nāma dvyadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe eraṇḍīsaṅgamatīrthaphalamāhātmyavarṇanaṃ nāma tryadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe suvarṇaśilātīrthamāhātmyavarṇanaṃ nāma caturadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe karañjatīrthamāhātmyavarṇanaṃ nāma pañcādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kāmadatīrthamāhātmyavarṇanaṃ nāma ṣaḍuttaraśatatamo 'dhyāyaḥ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhaṇḍārītīrthamāhātmyavarṇanaṃ nāma saptottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe rohiṇīsomanāthatīrthamāhātmyavarṇanaṃ nāmāṣṭottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe senāpure cakratīrthamāhātmyavarṇanaṃ nāma navottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dhautapāpatīrthamāhātmyavarṇanaṃ nāma daśottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: akṣayaścāvyayaścaiva senānīs tvaṃ bhaviṣyasi //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe skandatīrthamāhātmyavarṇanaṃ nāmaikādaśottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe 'gnirasatīrthamāhātmyavarṇanaṃ nāma dvādaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe koṭitīrthamāhātmyavarṇanaṃ nāma trayodaśādhikaśātatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ayonisambhavatīrthamāhātmyavarṇanaṃ nāma caturdaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe aṅgārakatīrthamāhātmyavarṇanaṃ nāma pañcadaśottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe pāṇḍutīrthamāhātmyavarṇanaṃ nāma ṣoḍaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe trilocanatīrthamāhātmyavarṇanaṃ nāma saptadaśottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe indratīrthamāhātmyavarṇanaṃ nāmāṣṭādaśottaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kahloḍītīrthamāhātmyavarṇanaṃ nāmaikonaviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kambukeśvaratīrthamāhātmyavarṇanaṃ nāma viṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe somatīrthamāhātmyavarṇanaṃ nāmaikaviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kohanatīrthamāhātmyavarṇanaṃ nāma dvāviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe karmadeśvaratīrthamāhatmyavarṇanaṃ nāma trayoviṃśatyuttaraśatatamo 'dhyāyaḥ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadeśvaratīrthamāhātmyavarṇanaṃ nāma caturviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ravitīrthamāhātmyavarṇanaṃ nāma pañcaviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ayoniprabhavatīrthamāhātmyavarṇanaṃ nāma ṣaḍviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe agnitīrthamāhātmyavarṇanaṃ nāma saptaviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhṛkuṭeśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭāviṃśatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe brahmatīrthamāhātmyavarṇanaṃ nāmaikonatriṃśadadhikaśatatamo 'dhyāyaḥ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe devatīrthamāhātmyavarṇanaṃ nāma triṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nāgeśvaratīrthamāhātmyavarṇanaṃ nāmaikatriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ādivārāhatīrthamāhātmyavarṇanaṃ nāma dvātriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kuberāditīrthacatuṣṭayamāhātmyavarṇanaṃ nāma trayastriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe rāmeśvaratīrthamāhātmyavarṇanaṃ nāma catustriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe siddheśvaramāhātmyavarṇanaṃ nāma pañcatriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ahalyātīrthamāhātmyavarṇanaṃ nāma ṣaṭtriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe karkaṭeśvaratīrthamāhātmyavarṇanaṃ nāma saptatriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śakratīrthamāhātmyavarṇanam nāmāṣṭatriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe somatīrthamāhātmyavarṇanaṃ nāmaikonacatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nandāhradatīrthamāhātmyavarṇanaṃ nāma catvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe tāpeśvaratīrthamāhātmyavarṇanaṃ nāmaikacatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe rukmiṇītīrthamāhātmyavarṇanaṃ nāma dvicatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe yojaneśvaratīrthamāhātmyavarṇanaṃ nāma tricatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dvādaśītīrthamahātmyavarṇanaṃ nāma catuścatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śivatīrthamāhātmyavarṇanaṃ nāma pañcacatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: eṣa tvayokto nṛpate mahāpraśnaḥ smṛto mayā //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe asmāhakatīrthamāhātmyavarṇanaṃ nāma ṣaṭcatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe siddheśvaratīrthamāhātmyavarṇanaṃ nāma saptacatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇe ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe maṅgaleśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭācatvāriṃśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe liṅgavārāhatīrthamāhātmyavarṇanaṃ nāmaikonapañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kusumeśvaratīrthamāhātmyavarṇanaṃ nāma pañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śvetavārāhatīrthamāhātmyavarṇanaṃ nāmaikapañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhārgaleśvaratīrthamāhātmyavarṇanaṃ nāma dvipañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ādityeśvaratīrthamāhātmyavarṇanaṃ nāma tripañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kalakaleśvaratīrthaphalamāhātmyavarṇanaṃ nāma catuḥpañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe cāṇakyasiddhiprāptivarṇanaṃ nāma pañcapañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śuklatīrthamahātmyavarṇanaṃ nāma ṣaṭpañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe huṅkārasvāmitīrthamāhātmyavarṇanaṃ nāma saptapañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe saṅgameśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭapañcāśadadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskande mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe 'narakeśvaratīrthamāhātmyavarṇanaṃ nāmaikonaṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe mokṣatīrthamāhātmyavarṇanaṃ nāma ṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe sarpatīrthamāhātmyavarṇanaṃ nāmaikaṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe gopeśvaratīrthamāhātmyavarṇanaṃ nāma dviṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe nāgatīrthamāhātmyavarṇanaṃ nāma triṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe sāṃvaureśvaratīrthamāhātmyavarṇanaṃ nāma catuḥṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe siddheśvaratīrthamāhātmyavarṇanaṃ nāma pañcaṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe siddheśvaratīrthamāhātmyavarṇanaṃ nāma ṣaṭṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe mārkaṇḍeśvaratīrthamāhātmyavarṇanaṃ nāma saptaṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe aṅkūreśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭaṣaṣṭyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kāmamodinīharaṇavarṇanaṃ nāmaikonasaptatyadhiśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe māṇḍavyaśūlāropaṇavarṇanaṃ nāma saptatyadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śāṇḍilīṛṣisaṃvādavarṇanaṃ nāmaikasaptatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye māṇḍavyatīrthamāhātmyavarṇanaṃ nāma dvisaptatyadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śuddheśvaratīrthamāhātmyavarṇanaṃ nāma trisaptatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe gopeśvaratīrthamāhātmyavarṇanaṃ nāma catuḥsaptatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kapileśvaratīrthamāhātmyavarṇanaṃ nāma pañcasaptādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe piṅgaleśvaratīrthamāhātmyavarṇanaṃ nāma ṣaṭsaptatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhūtīśvaratīrthamāhātmyavarṇanaṃ nāma saptasaptatyadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe gaṅgāvahakatīrthamāhātmyavarṇanaṃ nāmāṣṭasaptatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe gautameśvaratīrthamāhātmyavarṇanaṃ nāma ekonāśītyadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: sarasvatī mahāpuṇyā nadīnāmuttamā nadī /"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe daśāśvamedhatīrthamāhātmyavarṇanaṃ nāmāśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: paśya devi mahābhāge śamaṃ viprasya sundari //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhṛgukacchotpattivarṇanaṃ nāmaikāśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhṛgukacchatīrthamāhātmyavarṇanaṃ nāma dvyaśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kedāreśvaratīrthamāhātmyavarṇanaṃ nāma tryaśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dhautapāpatīrthamāhātmyavarṇanaṃ nāma caturaśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe eraṇḍītīrthamāhātmyavarṇanaṃ nāma pañcāśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tvayā cātra sadā devi sthātavyaṃ tīrthasannidhau /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: evaṃ bhaviṣyatītyuktvā devī devairabhiṣṭutā //"
+        },
+        {
+          "ref": null,
+          "body": "anumānya tadā devīṃ kṛtaṃ tasyāṃ samarpitam /"
+        },
+        {
+          "ref": null,
+          "body": "lakṣmīruvāca: rakṣaṇāya mayā devi yogakṣemārthasiddhaye //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kanakhaleśvaratīrthamāhātmyavarṇanaṃ nāma ṣaḍaśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kālāgnirudratīrthamāhātmyavarṇanaṃ nāma saptāśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śālagrāmatīrthamahātmyavarṇanaṃ nāmāṣṭāśītyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye udīrṇavarāhatīrthamāhātmyavarṇanaṃ nāmaikonanavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe candrahāsyatīrthamahātmyavarṇanaṃ nāma navatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe dvādaśādityatīrthamāhātmyavarṇanaṃ nāmaikanavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe narmadāmāhātmye śrīpatyutpattivarṇanaṃ nāma dvinavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīpatimāhātmyavarṇanaṃ nāma trinavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "lakṣmīḥ śrīpatināmānamāha devaṃ vacastadā /"
+        },
+        {
+          "ref": null,
+          "body": "śrīruvāca: ya ete brāhmaṇāḥ śiṣyā bhṛgvādīnāṃ yatavratāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīpativivāhavarṇanaṃ nāma caturnavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīpatimāhātmyavarṇanaṃ nāma pañcanavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe haṃsatīrthamāhātmyavarṇanaṃ nāma ṣaṇṇavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe mūlasthānatīrthamāhātmyavarṇanaṃ nāma saptanavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śūleśvaratīrthamāhātmyavarṇanaṃ nāmāṣṭanavatyuttaraśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe āśvinatīrthamāhātmyavarṇanaṃ nāmaikonadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe sāvitrītīrthamāhātmyavarṇanaṃ nāma dviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe devatīrthamāhātmyavarṇanaṃ nāmaikottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śikhitīrthamāhātmyavarṇanaṃ nāma dvyadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe koṭitīrthamāhātmyavarṇanaṃ nāma tryuttaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe paitāmahatīrthamāhātmyavarṇanaṃ nāma caturadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe kurkurītīrthamāhātmyavarṇanaṃ nāma pañcādhikadviśatatamo 'dhyāyaḥ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe daśakanyātīrthamāhātmyavarṇanaṃ nāma ṣaḍuttaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe suvarṇabindutīrthamāhātmyavarṇanaṃ nāma saptādhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ṛṇamocanatīrthamāhātmyavarṇanaṃ nāmāṣṭottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe bhārabhūtitīrthamāhātmyavarṇanaṃ nāma navādhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe puṅkhilatīrthamāhātmyavarṇanaṃ nāma daśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe muṇḍitīrthamāhātmyavarṇanaṃ nāmaikādaśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe ekaśālaḍiṇḍimeśvaratīrthamāhātmyavarṇanaṃ nāma dvādaśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe āmaleśvaratīrthamāhātmyavarṇanaṃ nāma trayodaśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śrīkapālatīrthamāhātmyavarṇanaṃ nāma caturdaśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe śṛṅgitīrthamāhātmyavarṇanaṃ nāma pañcadaśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe aṣāḍhītīrthamāhātmyavarṇanaṃ nāma ṣoḍaśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe eraṇḍītīrthamāhātmyavarṇanaṃ nāma saptadaśottaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe jāmadagnyatīrthamāhātmyavarṇanaṃ nāmāṣṭādaśādhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe koṭitīrthamāhātmyavarṇanaṃ nāmaikonaviṃśadadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe loṭaṇeśvaratīrthamāhātmyavarṇanaṃ nāma viṃśatyuttaradviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe haṃseśvaratīrthamāhātmyavarṇanaṃ nāmaikaviṃśadadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe tilādeśvaratīrthamāhātmyavarṇanaṃ nāma dvāviṃśadadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe vāsaveśvaratīrthamāhātmyavarṇanaṃ nāma trayoviṃśatyadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe koṭīśvaratīrthamāhātmyavarṇanaṃ nāma caturviṃśatyadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe revāsāgarasaṅgame 'likeśvaratīrthamāhātmyavarṇanaṃ nāma pañcaviṃśatyadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe vimaleśvaratīrthamāhātmyavarṇanaṃ nāma ṣaḍviṃśatyadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe tīrthayātrādividhānaviśeṣakathanaṃ nāma saptaviṃśatyadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe parārthatīrthayātrāphalakathanaṃ nāmāṣṭaviṃśatyadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe mārkaṇḍeyayudhiṣṭhirasaṃvāde revākhaṇḍapaṭhanaśravaṇadānādiphalaśrutivarṇanaṃ nāmaikonatriṃśadadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe tīrthāvalikathanaṃ triṃśadadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe tīrthasaṃkhyāparigaṇanavarṇanaṃ nāmaikatriṃśadadhikadviśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKV adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "|| iti śrīskānde mahāpurāṇa ekāśītisāhasryāṃ saṃhitāyāṃ pañcama āvantyakhaṇḍe revākhaṇḍe revākhaṇḍasamāptirevākhaṇḍapustakadānādimāhātmyavarṇanaṃ nāma dvātriṃśadadhikadviśatatamo 'dhyāyaḥ ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 1,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "1",
+          "body": "śrīgaṇeśāya namaḥ //"
+        },
+        {
+          "ref": "RKV_1.1",
+          "body": "//"
+        },
+        {
+          "ref": "RKV_1.2",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "2",
+          "body": "sūta uvāca //"
+        },
+        {
+          "ref": "RKV_2.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "3",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "4",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "5",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "6",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "7",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 8,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "8",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 9,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "9",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "10",
+          "body": ""
+        },
+        {
+          "ref": "RKV_10.4",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 11,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "11",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 12,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "12",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 13,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "13",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 14,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "14",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 15,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "15",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 16,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "16",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 17,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "17",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 18,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "18",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 19,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "19",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 20,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "20",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 21,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "21",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 22,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "22",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 23,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "23",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 24,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "24",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 25,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "25",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 26,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "26",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 27,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "27",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 28,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "28",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 29,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "29",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 30,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "30",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 31,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "31",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 32,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "32",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 33,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "33",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 34,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "34",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 35,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "35",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 36,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "36",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 37,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "37",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 38,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "38",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 39,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "39",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 40,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "40",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 41,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "41",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 42,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "42",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 43,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "43",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 44,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "44",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 45,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "45",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 46,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "46",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 47,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "47",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 48,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "48",
+          "body": ""
+        },
+        {
+          "ref": "RKV_48.29",
+          "body": "//"
+        },
+        {
+          "ref": "RKV_48.30",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 49,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "49",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 50,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "50",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 51,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "51",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 52,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "52",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 53,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "53",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 54,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "54",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 55,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "55",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 56,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "56",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 57,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "57",
+          "body": "īśvara uvāca: bhānumatī dvijānbhojya bubhuje bhuktaśeṣataḥ / bhuktvā susukhamāsthāya tadannaṃ pariṇāmya ca //"
+        },
+        {
+          "ref": "RKV_57.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 58,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "58",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 59,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "59",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 60,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "60",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 61,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "61",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 62,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "62",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 63,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "63",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 64,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "64",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 65,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "65",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 66,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "66",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 67,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "67",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 68,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "68",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 69,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "69",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 70,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "70",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 71,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "71",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 72,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "72",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 73,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "73",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 74,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "74",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 75,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "75",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 76,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "76",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 77,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "77",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 78,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "78",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 79,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "79",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 80,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "80",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 81,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "81",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 82,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "82",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 83,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "83",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 84,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "84",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 85,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "85",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 86,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "86",
+          "body": ""
+        },
+        {
+          "ref": "RKV_86.7",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 87,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "87",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 88,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "88",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 89,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "89",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 90,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "90",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 91,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "91",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 92,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "92",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 93,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "93",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 94,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "94",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 95,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "95",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 96,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "96",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 97,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "97",
+          "body": ""
+        },
+        {
+          "ref": "RKV_97.84",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 98,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "98",
+          "body": ""
+        },
+        {
+          "ref": "RKV_98.8",
+          "body": "//"
+        },
+        {
+          "ref": "RKV_98.11",
+          "body": "//"
+        },
+        {
+          "ref": "RKV_98.12",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 99,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "99",
+          "body": ""
+        },
+        {
+          "ref": "RKV_99.3",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 100,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "100",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 101,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "101",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 102,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "102",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 103,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "103",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 104,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "104",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 105,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "105",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 106,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "106",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 107,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "107",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 108,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "108",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 109,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "109",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 110,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "110",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 111,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "111",
+          "body": ""
+        },
+        {
+          "ref": "RKV_111.33",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 112,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "112",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 113,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "113",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 114,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "114",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 115,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "115",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 116,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "116",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 117,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "117",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 118,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "118",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 119,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "119",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 120,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "120",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 121,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "121",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 122,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "122",
+          "body": "śrīmārkaṇḍeya uvāca: tato gacchenmahīpāla kohanasveti viśrutam / sarvapāpaharaṃ puṇyaṃ tīrthaṃ mṛtyuvināśanam //"
+        },
+        {
+          "ref": "RKV_122.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 123,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "123",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 124,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "124",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 125,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "125",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 126,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "126",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 127,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "127",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 128,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "128",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 129,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "129",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 130,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "130",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 131,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "131",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 132,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "132",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 133,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "133",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 134,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "134",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 135,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "135",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 136,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "136",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 137,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "137",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 138,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "138",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 139,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "139",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 140,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "140",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 141,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "141",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 142,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "142",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 143,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "143",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 144,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "144",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 145,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "145",
+          "body": "mārkaṇḍeya uvāca: tato gaccheddharāpāla śīvatīrthamanuttamam / darśanādyasya devasya mucyate sarvakilbiṣaiḥ //"
+        },
+        {
+          "ref": "RKV_145.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 146,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "146",
+          "body": ""
+        },
+        {
+          "ref": "RKV_146.35",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 147,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "147",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 148,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "148",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 149,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "149",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 150,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "150",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 151,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "151",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 152,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "152",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 153,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "153",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 154,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "154",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 155,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "155",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 156,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "156",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 157,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "157",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 158,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "158",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 159,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "159",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 160,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "160",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 161,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "161",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 162,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "162",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 163,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "163",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 164,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "164",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 165,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "165",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 166,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "166",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 167,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "167",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 168,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "168",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 169,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "169",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 170,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "170",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 171,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "171",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 172,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "172",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 173,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "173",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 174,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "174",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 175,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "175",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 176,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "176",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 177,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "177",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 178,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "178",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 179,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "179",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 180,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "180",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 181,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "181",
+          "body": ""
+        },
+        {
+          "ref": "RKV_181.39",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 182,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "182",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 183,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "183",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 184,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "184",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 185,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "185",
+          "body": "śrīmārkaṇḍeya uvāca: tato gacchenmahīpāla eraṇḍītīrthamuttamam / snānamātreṇa tatraiva brahmahatyā praṇaśyati //"
+        },
+        {
+          "ref": "RKV_185.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 186,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "186",
+          "body": ""
+        },
+        {
+          "ref": "RKV_186.34",
+          "body": "//"
+        },
+        {
+          "ref": "RKV_186.36",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 187,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "187",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 188,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "188",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 189,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "189",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 190,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "190",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 191,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "191",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 192,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "192",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 193,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "193",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 194,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "194",
+          "body": ""
+        },
+        {
+          "ref": "RKV_194.59",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 195,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "195",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 196,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "196",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 197,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "197",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 198,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "198",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 199,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "199",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 200,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "200",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 201,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "201",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 202,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "202",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 203,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "203",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 204,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "204",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 205,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "205",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 206,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "206",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 207,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "207",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 208,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "208",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 209,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "209",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 210,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "210",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 211,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "211",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 212,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "212",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 213,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "213",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 214,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "214",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 215,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "215",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 216,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "216",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 217,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "217",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 218,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "218",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 219,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "219",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 220,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "220",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 221,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "221",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 222,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "222",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 223,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "223",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 224,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "224",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 225,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "225",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 226,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "226",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 227,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "227",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 228,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "228",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 229,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "229",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 230,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "230",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 231,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "231",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 232,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "232",
+          "body": ""
+        }
+      ]
+    }
+  ]
+}

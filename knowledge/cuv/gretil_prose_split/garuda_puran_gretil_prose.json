@@ -1,0 +1,2590 @@
+{
+  "file": "garuda_puran_gretil.xml",
+  "title": "Garuḍapurāṇa",
+  "total_chapters": 37,
+  "total_akus": 590,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 438,
+      "akus": [
+        {
+          "ref": null,
+          "body": "śrīgaṇādhipataye namaḥ / sarasvatyainamaḥ / atha śrīgaruḍamahāpurāṇaṃ prārabhyate / tatrādau karmakāṇḍākhyaḥ pūrvakhaṇḍaḥ prārabhyate /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye karmakāṇḍe etatpurāṇapravṛttihetunirūpaṇaṃ nāma prathamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śrīgaruḍamahāpurāṇotpattinirūpaṇaṃ nāma dvitīyo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣayanirūpaṇaṃ nāma tṛtīyo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sṛṣṭivarṇanaṃ nāma caturtho 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe prajākartrādisṛṣṭirnāma pañcamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śukyaudakānpakṣigaṇānsugrīvī tu vyajāyata / (aśvānuṣṭān gardabhāṃśca tāmrāvaṃśaḥ prakīrtitaḥ // GarP_1,6."
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe uttānapādavaṃśādivarṇanaṃ nāma ṣaṣṭho 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ sūryāsanāya namaḥ / oṃ namaḥ sūryamūrtaye / oṃ hrāṃ hrīṃ saḥ sūryāya namaḥ / oṃ somāya namaḥ / oṃ maṅgalāya namaḥ / oṃ budhāya namaḥ oṃ bṛhaspataye namaḥ / oṃ śukrāya namaḥ / oṃ śanaiścarāya namaḥ / oṃ rāhave namaḥ / oṃ ketave namaḥ / oṃ tejaścaṇḍāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hrāṃśivāya namaḥ / oṃ hrāṃ śivamūrtaye śivāya namaḥ / oṃ hrāṃ hṛdayāya namaḥ / oṃ hrīṃ śirase svāhā / oṃ hrūṃ śikhāyai vaṣaṭ / oṃ hrai kavacāya huṃ / oṃ hrauṃ netratrayāya vauṣaṭ / oṃ hraḥ astrāya namaḥ / oṃ hrāṃ sadyojātaya namaḥ / oṃ hrīṃ vāmadevāya namaḥ / oṃ hrūṃ aghorāya namaḥ / oṃ hraiṃ tatpuruṣāya namaḥ / oṃ hrauṃ īśānāya namaḥ / oṃ hrīṃ gauryai namaḥ / oṃ hrauṃ gurubhyo namaḥ / oṃ hrauṃ indrāya namaḥ / oṃ hrauṃ caṇḍāya namaḥ / oṃ hrāṃ aghorāya namaḥ / oṃ vāsudevāsanāya namaḥ / oṃ vāsudavamūrtaye namaḥ / oṃ aṃ oṃ namo bhagavate vāsudevāya namaḥ / oṃ āṃ oṃ namo bhagavate saṅkarṣaṇāya namaḥ / oṃ aṃ oṃ namo bhagavate pradyumnāya namaḥ / oṃ aḥ oṃ namo bhagavate aniruddhāya namaḥ / oṃ nārāyaṇāya namaḥ / oṃ tatsabdrahyaṇe namaḥ / oṃ hrāṃ viṣṇave namaḥ / oṃ kṣauṃ namo bhagavate narasiṃhāya namaḥ / oṃ bhūḥ oṃ namo bhagavate varāhāya namaḥ / oṃ kaṃ ṭaṃ paṃ śaṃ vainateyāya namaḥ / oṃ jaṃ khaṃ raṃ sudarśa nāya namaḥ / oṃ khaṃ ṭhaṃ phaṃ ṣaṃ gadaiyau namaḥ / oṃ vaṃ laṃ maṃ kṣaṃ pāñcajanyāya namaḥ / oṃ ghaṃ ḍhaṃ bhaṃ haṃ śriyai namaḥ / oṃ gaṃ ḍaṃ vaṃ saṃ puṣṭyai namaḥ / oṃ dhaṃ ṣaṃ vaṃ saṃ vanamālāyai namaḥ / oṃ saṃ daṃ laṃ śrīvatsāya namaḥ / oṃ ṭhaṃ caṃ bhaṃ yaṃ kaustubhāya namaḥ / oṃ gurubhyo namaḥ / oṃ indrādidikpālebhyo namaḥ / oṃ viṣvaksenāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hrīṃ sarasvatyai namaḥ / oṃ hrāṃ hṛdayāya namaḥ / oṃ hrīṃ śirase namaḥ / oṃ hrūṃ śikhāyai namaḥ / oṃ hraiṃ kavacāya namaḥ / oṃ hrauṃ netratrayāya namaḥ / oṃ hraḥ astrāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sūryādīnāṃ sarasvatyāśca pūjanaṃ nāma saptamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇupūjopayogivajranābhamaṇḍalanirūpaṇaṃ nāmāṣṭamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇudīkṣānidṛ nāma navamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe lakṣmyarcananirūpaṇaṃ nāma daśamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe navavyūhārcanaṃ nāmaikādaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "tatastrividhaḥ karakāyanyāsaḥ / tato tdṛdisthayogapīṭhapūjā / oṃ anantāya namaḥ / oṃ dharmāya namaḥ / oṃ jñānāya namaḥ / oṃ vairāgyāya namaḥ / oṃ aiśvaryāya namaḥ / oṃ adharṃmāya namaḥ / oṃ ajñānāya namaḥ / oṃ avairāgyāya namaḥ / oṃ anaiśvaryāya namaḥ / oṃ padmāya namaḥ / oṃ ādityamaṇḍalāya namaḥ / oṃ candramaṇḍalāya namaḥ / oṃ vahnimaṇḍalāya namaḥ / oṃ vimalāyai namaḥ / oṃ utkarṣiṇyai namaḥ / oṃ jñānāyai namaḥ / oṃ kriyāyai namaḥ / oṃ yogāyai namaḥ / oṃ prahvyai namaḥ / oṃ satyāyai namaḥ / oṃ īśānāyai namaḥ / oṃ sarvatomukhyai namaḥ / oṃ saṃgopāṅgāya harerāsanāya namaḥ / tataḥ karṇikāyām-aṃ vāsudevāya namaḥ / āṃ hṛdayāya namaḥ / īṃ śirase namaḥ / ūṃ śikhāyai namaḥ / aiṃ kavacāya namaḥ / auṃ netratrayāya namaḥ / aḥ phaṭ astrāya namaḥ / āṃ saṅkarṣaṇāya namaḥ / aṃ pradyumnāya namaḥ / aḥ aniruddhāya namaḥ / oṃ aḥ nārāyaṇāya namaḥ / oṃ tatsabdahmaṇe namaḥ / oṃ huṃ viṣṇave namaḥ / kṣaiṃ narasiṃhāya bhūrvarāhya kaṃ vainateyāya jaṃ khaṃ vaṃ sudarśanāya khaṃ caṃ phaṃ ṣaṃ gadāyai vaṃ laṃ maṃ kṣaṃ pāñcajanyāya ghaṃ ḍhaṃ bhaṃ haṃ śriyai gaṃ ḍaṃ vaṃ śaṃ puṣṭyai dhaṃ vaṃ vanamālāyai daṃ śaṃ śrīvatsāya chaṃ ḍaṃ yaṃ kaustubhāya śaṃ śārṅgāya iṃ iṣudhibhyāṃ caṃ carmaṇe khaṃ khaḍgāya indrāya surāya partaye agnaye tejodhipatayeyamāyadharmādhipatayekṣaṃnairṛtāyarakṣodhipataye varuṇāya jalādhipataye yoṃ vāyave prāṇādhipataye dhāṃ dhanadāya dhanādhipataye hāṃ īśānāya vidyādhipataye oṃ vajrāya śaktyai oṃ daṇḍāya khaṅgāya oṃ pāśāya dhvajāya gadāyai triśūlāya laṃ anantāya pātālādhipataye khaṃ brahmaṇe sarvalokādhipataye oṃ namo bhagavate vāsudevāya namaḥ / oṃ oṃ namaḥ / oṃ naṃ namaḥ / oṃ moṃ namaḥ / oṃ oṃ bhaṃ namaḥ / oṃ gaṃ namaḥ / oṃ vaṃ namaḥ / oṃ teṃ namaḥ / oṃ vāṃ namaḥ / oṃ suṃ namaḥ / oṃ deṃ namaḥ / oṃ vāṃ namaḥ / oṃ yaṃ namaḥ / oṃ oṃ namaḥ / oṃ naṃ namaḥ / oṃ moṃ namaḥ / oṃ nāṃ namaḥ / oṃ rāṃ namaḥ / oṃ ṇāṃ namaḥ / oṃ yaṃ namaḥ / oṃ naṃnoṃ bhagavateṃ vāṃsuṃdevāyaṃ oṃ namo nārāyaṇāya namaḥ / oṃ puruṣottamāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe pūjānukramanirūpaṇaṃ nāma dvādaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇupañjarastotraṃ nāma trayodaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe dhyānayogo nāma caturdaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "suvarṇavarṇavāṃścaiva suvarṇākhyastathaiva ca (280)suvarṇāvayavaścaiva suvarṇaḥ svarṇamekhalaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śrīviṣṇusahasranāmastotranirūpaṇaṃ nāma pañcadaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "vajrapāṇiṃ ca nairṛtyāṃ bhūrbhuvaḥsvaśca vāyave / oṃ candrāya nakṣatrādhipataye namaḥ / oṃ aṅgārakāya kṣitisutāya namaḥ / oṃ budhāya somasutāya namaḥ / oṃ vāgīśvarāya sarvavidyādhipataye namaḥ / oṃ śukrāya maharṣaye bhṛgusutāya namaḥ / oṃ śanaiścarāya sūryātmajāya namaḥ / oṃ rāhave namaḥ / oṃ ketave namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe haridhyānasūryārcanayornirūpaṇaṃ nāma ṣoḍaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sūryārcana vidhirnāma saptadaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśāvye ācārakāṇḍe 'mṛteśamṛtyuñjayapūjanaṃ nāmāṣṭādaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sarpaviṣaharopāya(prāṇeśvaravidyā) nirūpaṇaṃ nāmaikonaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣādiharamantrabṛndanirūpaṇaṃ nāma viṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍaṃ pañcavakkrapūjanaṃ nāmaikaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śivārcanaprakāro nāma dvāviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śivārcananirūpaṇaṃ nāma trayoviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "(iti_śivādipūjā_samāptā) /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe tripurādipūjānirūpaṇaṃ nam caturviśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe āsanapūjānirūpaṇaṃ nāma pañcaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgarūḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "aiṃ hrīṃ śrīṃ hrīṃ sphaiṃ namo bhagavate sphaiṃ kubjīkāyai namaḥ / hraṃ hrīṃ hrauṃ ṅañaṇaname aghorāmukhi hrāṃ hrīṃ kilikili vicce sthaulyakrośī hrīṃ hrīṃ śrīṃ aiṃ namo bhagavate urdhvavaktrāya namaḥ / sphaiṃ kubjikāyai pūrvavaktrāya namaḥ / hrīṃ śrīṃ hrīṃ ṅaāñaṇaname dakṣiṇavaktrāya namaḥ / oṃ hrīṃ śrīṃ kilikili paścimavaktrāya namaḥ / oṃ akhoramukhi uttaravaktrāya namaḥ / oṃ namo bhagavate hṛdayāya namaḥ kṣaiṃ (kṣeṃ aiṃ) kubjikāyai śirase svāhā / hrīṃ krīṃ hrīṃ āṃ ṅa ña ṇa name śikhāyai vaṣaṭ / aghorāmukhi kavacāya huṃ / haiṃ haiṃ īṃ netratrayāya vauṣaṭ / kilikili vicce astrāya phaṭ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe ācārakāṇḍe karanyāsādinirūpaṇaṃ nāma ṣaḍviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe nāgādivividhaviṣahara mantranirūpaṇaṃ nāma saptaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "mukuṭaṃ valamālāṃ ca aindrādyāndhvajamukhyakān / kumudādyānviṣvaksenaṃ śriyā kṛṣṇaṃ sahārcayet / japyāddhyānātpūjanācca sarvānkāmānavānpuyāt /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śrīgopālapūjānirūpaṇaṃ nāmāṣṭāviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāḍe trailokyamohinī(śrīdhara) pūjanavidhirnāmaikonatriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ śrāṃ hṛdayāya namaḥ / oṃ śrīṃśirase svāhā / oṃ śrū śikhāyai vaṣaṭū / oṃ śraiṃ kavacāya huṃ / oṃ śrauṃ netratrayāya vauṣaṭ / oṃ śraḥ astrāya phaṭ iti //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ dhātre namaḥ / oṃ vidhātre namaḥ / oṃ gaṅgāyai namaḥ / oṃ yamunāyai namaḥ / oṃ ādhāraśaktayai namaḥ / oṃ kūrṃmāya namaḥ / oṃ anantāya namaḥ / oṃ pṛthivyai namaḥ / oṃ dharṃmāya namaḥ / oṃ jñānāya namaḥ / oṃ vairāgyāya namaḥ / oṃ aiśvaryāya namaḥ / oṃ adharṃmāya namaḥ / oṃ ajñānāya namaḥ / oṃ avairāgyāya namaḥ / oṃ anaiśvaryāya namaḥ / oṃ kandāya namaḥ / oṃ nālāya namaḥ / oṃ padmāya namaḥ / oṃ vimalāyai namaḥ / oṃ utkarṣiṇyai namaḥ / oṃ jñānāyai namaḥ / oṃ kriyāyai namaḥ / oṃ yogāyai namaḥ / oṃ prahvyai namaḥ / oṃ satyāyai namaḥ / oṃ īśānāyai namaḥ / oṃ anugrahāyai namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ śriyai namaḥ / oṃ śrāṃ hṛdayāya namaḥ / oṃ śrīṃ śirase namaḥ / oṃ śrūṃ śikhāyai namaḥ / oṃ śraiṃ kavacāya namaḥ / oṃ śrauṃ netratrayāya namaḥ / oṃ śraḥ astrāya namaḥ / oṃ śaṅkhāya namaḥ / oṃ padmāya namaḥ / oṃ cakrāya namaḥ / oṃ gadāyai namaḥ / oṃ śrī vatsāya namaḥ / oṃ kaustubhya namaḥ / oṃ vanamālāyai namaḥ / oṃ pītāmbarāya namaḥ / oṃ vrahmaṇe namaḥ / oṃ nāradāya namaḥ / oṃ gurubhyo namaḥ / oṃ indrāya namaḥ / oṃ agnaye namaḥ / oṃ yamāya namaḥ / oṃ nirṛtaye namaḥ / oṃ varuṇāya namaḥ / oṃ vāyave namaḥ / oṃ somāya namaḥ / oṃ īśānāya namaḥ / oṃ anantāya namaḥ / oṃ brahmaṇe namaḥ / oṃ sattvāya namaḥ / oṃ rajase namaḥ / oṃ tamase namaḥ / oṃ viṣvaksenāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śrīdharā (viṣṇvar) canavidhirnāma triṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "aṅganyāsaṃ tataḥ kuyyāndebhirmantraurvicakṣaṇaḥ / oṃ hāṃ hṛdayāya namaḥ / oṃ hīṃ śirase svāhā / oṃ hūṃ śikhāyai vaṣaṭ / oṃ haiṃ kavacāya huṃ / oṃ hauṃ netratrayāya vauṣaṭ / oṃ haḥ astrāya phaṭ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ samastaparivārāyācyutāya namaḥ / oṃ dhātre namaḥ / oṃ vidhātre namaḥ / oṃ gaṅgāyai namaḥ / oṃ yamunāyai namaḥ / oṃ śaṅkhanidhaye namaḥ / oṃ padmanidhaye namaḥ / oṃ caṇḍāya namaḥ / oṃ pracaṇḍāya namaḥ / oṃ dvāraśriyai namaḥ / oṃ ādhāraśaktyai namaḥ / oṃ kūrṃmāya namaḥ / oṃ anantāya namaḥ / oṃ śriyai namaḥ / oṃ dharṃmāya namaḥ / oṃ jñānāya namaḥ / oṃ vairāgyāya namaḥ / oṃ aiśvaryāya namaḥ / oṃ adharṃmāya namaḥ / oṃ ajñānāya namaḥ / oṃ avairāgyāya namaḥ / oṃ anaiśvaryāya namaḥ / oṃsaṃ sattvāya namaḥ / oṃ raṃ rajase namaḥ / oṃ taṃ tamase namaḥ / oṃ kaṃ kandāya namaḥ / oṃ naṃ nālāya namaḥ / oṃ lāṃ padmāya namaḥ / oṃ aṃ arkamaṇḍalāya namaḥ / oṃ soṃ somamaṇḍalāya namaḥ / oṃ vaṃ vahnimaṇḍalāya namaḥ / oṃ vimalāyai namaḥ / oṃ utkarṣiṇyai namaḥ / oṃ jñānāyai namaḥ / oṃ kriyāyai namaḥ / oṃ yogāyai namaḥ / oṃ prahvyai namaḥ / oṃ satyāyai namaḥ / oṃ īśānāyai namaḥ / oṃ anugrahāyai namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāṃ hṛdayāya namaḥ / oṃ hīṃ śirase namaḥ / oṃ hūṃ śikhāyai namaḥ / oṃ haiṃ kavacāya namaḥ / oṃ hauṃ netratrayāya namaḥ / oṃ haḥ astrāya namaḥ / oṃ śriyai namaḥ / oṃ śaṅkāya namaḥ / oṃ padmāya namaḥ / oṃ cakrāya namaḥ / oṃ gadāyainamaḥ / oṃ śrīvatsāya namaḥ / oṃ kaustubhāya namaḥ / oṃ vanamālāyai namaḥ / oṃ pītāmbarāya namaḥ / oṃ khaḍgāya namaḥ / oṃ musalāya namaḥ / oṃ pāśāya namaḥ / oṃ aṅkuśāya namaḥ / śārṅgāya namaḥ / oṃ śarāya namaḥ / oṃ brahmaṇe namaḥ / oṃ nārādāya namaḥ / oṃ pūrvasiddhebhyo namaḥ / oṃ bhāgavatebhyo namaḥ / oṃ gurubhyo namaḥ / oṃ paramagurubhyo namaḥ / oṃ indrāya surādhipataye savāhanaparivārāya namaḥ / oṃ agnaye tejo 'dhipataye savāhanaparivārāya namaḥ / oṃ yamāya pretādhipataye savāhanaparivārāya namaḥ / oṃ nirṛtaye rakṣo 'dhipataye savāhanaparivārāya namaḥ / oṃ varuṇāya jalādhipataye savādanaparivārāya namaḥ / oṃ vāyave prāṇādhipataye savāhanaparivārāya namaḥ / oṃ somāya nakṣatrādhipataye savāhanaparivārāya namaḥ / oṃ īśānāya vidyādhipataye savāhanaparivārāya namaḥ / oṃ anantāya nāgādhipataye savāhanaparivārāya namaḥ / oṃ brahmaṇe lokādhipataye savāhanaparivārāya namaḥ / oṃ vajrāya huṃ phaṭ namaḥ / oṃ śaktyai huṃ phaṭ namaḥ / oṃ daṇḍāya huṃ phaṭ namaḥ / oṃ khaḍgāya huṃ phaṭ namaḥ / oṃ pāśāya huṃ phaṭ namaḥ / oṃ dhvajāya huṃ phaṭ namaḥ / oṃ gadāyai huṃ phaṭ namaḥ / oṃ triśūlāya huṃ phaṭ namaḥ / oṃ cakrāya huṃ phaṭ namaḥ / oṃ padmāya huṃ phaṭ namaḥ / oṃ vaiṃ viṣvaksenāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇupūjāvidhirnāmaikatriṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "eteṣāṃ vācakānmantrānetāñchṛṇu vṛṣadhvaja ! / oṃ aṃ vāsudevāya namaḥ / oṃ āṃ saṃkarṣaṇāya namaḥ / oṃ aṃ pradyumnāya namaḥ / oṃ aniruddhāya namaḥ / oṃ oṃ nārāyaṇāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "aṅgamantrairmahādeva ! tānmantrāñśṛṇu suvrata ! / oṃ āṃ hṛdayāya namaḥ / oṃ īṃ śirase namaḥ / oṃ ūṃ śikhāyai namaḥ / oṃ aiṃ kavacāya namaḥ / oṃ auṃ netratrayāya namaḥ / oṃ aḥ astrāya phaṭ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ samastaparivārāyācyutāya namaḥ / oṃ dhātre namaḥ / oṃ vidhātre namaḥ / oṃ ādhāraśaktayai namaḥ / oṃ kūrmāya namaḥ / oṃ anantāya namaḥ / oṃ pṛthivyainamaḥ / oṃ dharmāya namaḥ / oṃ dharmāya namaḥ / oṃ jñānāya namaḥ / oṃ vairāgyāya namaḥ / oṃ aiśvaryāya namaḥ / oṃ ajñānāya namaḥ / oṃ anaiśvaryāya namaḥ / oṃ aṃ arkamaṇḍalāya namaḥ / oṃ soṃ somamaṇāḍalāya namaḥ / oṃ vaṃ vahnimaṇḍalāya namaḥ / oṃ vaṃ vāsudevāya parabrahmaṇe śivāya tejorūpāya vyāpine sarvadevādhidevāya namaḥ / oṃ pāñcajanyāya namaḥ / oṃ sudarśavanāya namaḥ / oṃ gadāyai namaḥ / oṃ padmāya namaḥ / oṃ śriyai namaḥ / oṃ hriyai namaḥ / oṃ puṣṭyai namaḥ / oṃ gītyai namaḥ / oṃ śaktyai namaḥ / oṃ prītyai namaḥ / oṃ indrāya namaḥ / oṃ agnaye namaḥ / oṃ yamāya namaḥ / oṃ nirṛtaye namaḥ / oṃ varuṇāya namaḥ / oṃ vāyave namaḥ / oṃ somāya namaḥ / oṃ īśānāya namaḥ / oṃ anantāya namaḥ / oṃ brahmaṇe namaḥ / oṃ viṣvaksenāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe pañcatattvā(viṣṇavar) ca navidhirnāma dvātriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sudarśanapūjāvidhirnāma trayastriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe hayagrīvapūjāvidhirnāma catustriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gāyattrīnyāsanirūpaṇaṃ nāma pañcatriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe saṃdhyāvidhirnāma ṣaṭtriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gāyattrīkalpanirūpaṇaṃ nāma saptatriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe durgājapapūjābalimantranirūpaṇaṃ nāmāṣṭatriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "vāsudeva uvāca / śṛṇu sūryasya rudra tvaṃ punarvakṣyāmi pūjanam / oṃ uccaiḥ śravase namaḥ oṃ aruṇāya namaḥ / oṃ daṇḍine namaḥ / oṃ piṅgalāya namaḥ / ete dvāre prapūjyā vai epirmantrairvṛṣadhvaja //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ aṃ prabhūtāya namaḥ / imaṃ tu pūjayenmadhye prabhūtāmalasaṃjñakam / oṃ aṃ vimalāya namaḥ / oṃ aṃ sārāya namaḥ / oṃ aṃādhārāya namaḥ / oṃ aṃ paramamukhāya namaḥ / ityāgneyādikoṇeṣu pūjyā vai vimalādayaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ padmāya namaḥ / oṃ karṇikāyai namaḥ / maghye tu pūjayedrudra pūrvādiṣu tathaiva ca / dīptādyāḥ pūjayenmadhye pūjayetsarvatomukhīḥ / oṃ vāṃ (rāṃ) dīptāyai namaḥ / oṃ vīṃ (rīṃ) sūkṣmāyai namaḥ / oṃ vūṃ (rūṃ bhadrāyai namaḥ / oṃ vaiṃ (raiṃ) jayāyai namaḥ / oṃ vauṃ (rauṃ) vibūtyai namaḥ / oṃ vaṃ (raṃ) adhorāyai namaḥ / oṃ vaṃ (raṃ) vaidyutāyai namaḥ / oṃ vaḥ (raḥ) vijayāyai namaḥ / oṃ ro sarvatomukhyai namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ arkāsanāya namaḥ / oṃ hrāṃ sūryamūrtaye namaḥ / etāstu pūjayenmadhye hranmantrāñchṛṇu śaṅkara / oṃ haṃ saṃ khaṃ khakholkāya krāṃ krīṃ saḥ svāhā sūryamūrtaye namaḥ / anenāvāhanaṃ kuryātsthāpanaṃ sannidhāpanam / sanniropanamantreṇa sakalīkaraṇaṃ tathā //"
+        },
+        {
+          "ref": null,
+          "body": "vāratrayaṃ padmamudrāṃ bimbamudrāṃ ca darśayet / oṃ āṃ hṛdayāya namaḥ / oṃ arkāya śirase svāhā / oṃ aḥ bhūrbhuvaḥ svaḥ jvālini śikhāyai vaṣaṭ / oṃ huṃ kavacāya huṃ / oṃ bhāṃ netrābhyāṃ vauṣaṭ / oṃ vaḥ astrāya phaḍiti //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ soṃ somāya namaḥ / oṃ buṃ budhāya namaḥ / oṃ bṛṃ bṛhaspataye namaḥ / oṃ bhaṃ bhārgavāya namaḥ / oṃ aṃ aṅgārakāya namaḥ / oṃ śaṃ śanaiścarāya namaḥ / oṃ raṃ rāhave namaḥ / oṃ kaṃ ketave nama iti //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sūryārcanaprakāro nāmaikonacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāṃ gaṇapataye namaḥ / oṃ hāṃ sarasvatyai namaḥ / oṃ hāṃ nandine namaḥ / oṃ hāṃ mahākālāya namaḥ / oṃ hāṃ gaṅgāyai namaḥ / oṃ hāṃ lakṣmyai namaḥ / oṃ hāṃ mahākalāyai namaḥ / oṃ hāṃ astrāya nama iti //"
+        },
+        {
+          "ref": null,
+          "body": "ete dvāre prapūjyā vai snānagandhādibhirhara / oṃ hāṃ brahmaṇe vāstvadhipataye namaḥ / oṃ hāṃ gurubhyo namaḥ / oṃ hāṃ ādhāraśaktyai namaḥ / oṃ hāṃ anantāya namaḥ / oṃ hāṃ dharmāya namaḥ / oṃ hāṃ jñānāya namaḥ / oṃ hāṃ vairāgyāya namaḥ / oṃ hāṃ aiśvaryāya namaḥ / oṃ hāṃ adharmāya namaḥ / oṃ hāṃ ajñānāya namaḥ / oṃ hāṃ avairāgyāya namaḥ / oṃ hāṃ anaiśvaryāya namaḥ / oṃ hāṃ urdhvacchandāya namaḥ / oṃ hāṃ adhaśchandāya namaḥ / oṃ hāṃ padmāya namaḥ / oṃ hāṃ karṇikāyai namaḥ / oṃ hāṃ vāmāyai namaḥ / oṃ hāṃ jyeṣṭhāyai namaḥ / oṃ hāṃ raudyai namaḥ / oṃ kālyai namaḥ / oṃ hāṃ kalavikaraṇyai namaḥ / oṃ balapramathinyai namaḥ / oṃ hāṃ sarvabhūtadamanyai namaḥ / oṃ hāṃ manonmanyai namaḥ / oṃ hāṃ maṇḍalatritayāya namaḥ / oṃ hāṃ hauṃ haṃ śivamūrtaye namaḥ / oṃ hāṃ vidyādhipataye namaḥ / oṃ hāṃ hīṃ hauṃ śivāya namaḥ / oṃ hāṃ hṛdayāya namaḥ / oṃ śirase namaḥ / oṃ hūṃ śikhāyai namaḥ / oṃ haiṃ kavacāya namaḥ / oṃ hauṃ netratrayāya namaḥ / oṃ haḥ astrāya namaḥ / oṃ sadyojātāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāṃ siddhyai namaḥ / oṃ hāṃ ṛddhyai namaḥ / oṃ hāṃ vidyutāyai namaḥ / oṃ hāṃ lakṣmyai namaḥ / oṃ hāṃ bodhāyai namaḥ / oṃ hāṃ kālyai namaḥ / oṃ hāṃ svadhāyai namaḥ / oṃ hāṃ prabhāyai namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāṃ vāmadevāya namaḥ / oṃ hāṃ rajase namaḥ / oṃ hāṃ rakṣāyai namaḥ / oṃ hāṃ ratyai namaḥ / oṃ hāṃ kanyāyai namaḥ / oṃ hāṃ kāmāyai namaḥ / oṃ hāṃ jananyai namaḥ / oṃ hāṃ kriyāyai namaḥ / oṃ hāṃ vṛddhyai namaḥ / oṃ hāṃ kāryāyai namaḥ / oṃ rā(dhā) tryai namaḥ / oṃ hāṃ bhrāmaṇyai namaḥ / oṃ hāṃ mohinyai namaḥ / oṃ hāṃ kṣa(tva)rāyai namaḥ / vāmadevakalā jñeyāstrayo daśa vṛṣadhvaja //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāṃ tatpuruṣāya namaḥ / oṃ hāṃ nivṛttyai namaḥ / oṃ hāṃ pratiṣṭhāyai namaḥ / oṃ hāṃ vidyāyai namaḥ / oṃ hāṃ śāntyai namaḥ / jñeyāstatpuruṣasyaiva catasro vṛṣabhadhvaja //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāṃ īśānāya namaḥ / oṃ hāṃ samityai namaḥ / oṃ hāṃ aṅgadāyai namaḥ / oṃ hāṃ kṛṣṇāyai namaḥ / oṃ hāṃ marīcyai namaḥ / oṃ hāṃ jvālāyai namaḥ / īśānasya kalāḥ pañca jānīhi vṛṣabhadhvaja //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ hāṃ śivaparivārebhyo namaḥ / oṃ hāṃ indrāya surādhipataye namaḥ / oṃ hāṃ agnaye tejo 'dhipataye namaḥ / oṃ hāṃ yamāya pretādhipataye namaḥ / oṃ hāṃ nirṛtaye rakṣo 'dhipataye namaḥ / oṃ hāṃ varuṇāya jalādhipataye namaḥ / oṃ hāṃ vāyave prāṇādhipataye namaḥ / oṃ hāṃ somāya netrādhipataye namaḥ / oṃ hāṃ īśānāya sarvavidyādhipataye namaḥ / oṃ hāṃ anantāya nāgādhipataye namaḥ / oṃ hāṃ brahmaṇe sarvalokādhipataye namaḥ / oṃ hāṃ dhūlicaṇḍeśvarāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe maheśvarapūjāvidhirnāma catvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ namo bhagavati ṛkṣakarṇi caturbhuje ūrdhvakeśi trinayane kālarātri mānuṣāṇāṃ vasārudhirabhojane amukasya prāptakālasya mṛtyuprade huṃ phaṭ hanahana dahadaha māṃsarudhiraṃ pacapaca ṛkṣapatni svāhā / na tithirna ca nakṣatraṃ nopavāso vidhīyate //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaśyādisādhikamantranirūpaṇaṃ nāmaikacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śivapavitrāropaṇaṃ nāma dvicatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇupavitrāropaṇaṃ nāma tricatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe brahmamūrtidhyānanirūpaṇaṃ nāma catuścatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śālagrāmamūrtilakṣaṇaṃ nāma pañcacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "dauvāriko 'tha sugrīvaḥ puṣpadanto gaṇādhipaḥ / asuraḥ śeṣapāpau (dau) ca rogo/ḍahimukha (khya) eva ca //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vāstumānalakṣaṇaṃ nāma ṣaṭcatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśe ācārakāṇḍe prāsādaliṅgamaṇḍapādilakṣaṇanirūpaṇaṃnāma saptacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe devapratiṣṭhādinirūpaṇaṃ nāmāṣṭacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe varṇāśramadharmanirūpaṇaṃ nāmaikonapañcāśattamodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti gāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe nityakarmāśaucayornirūpaṇaṃ nāma pañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe dānadharmanirūpaṇaṃ nāmaikapañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe prāyaścittanirūpaṇaṃ nāma dvipañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe navanidhivarṇanaṃ nāma tripañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhuvanakośavarṇanopayogipriyavratavaṃśanirūpaṇaṃ nāma catuḥ pañcaśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhuvanakośavarṇanaṃ nāma pañcapañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhuvanakośavarṇanaṃ nāma ṣaṭpañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti gāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhuvanakośagatāpātalanarakādinirūpaṇaṃ nāma saptapañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "varuṇo vasiṣṭho rambhā sahajanyā kuhūrbudhaḥ / rathacitrastathā śukro vasantyāṣāḍhasaṃjñite / //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhuvanakośanirūpaṇaṃ nāmāṣṭapañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre nakṣatrataddevatādagdhayogādinirūpaṇaṃ nāmaikonaṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍaṃ prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre grahadaśādinirūpaṇaṃ nāma ṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre grahāṇāṃ śubhāśubhasthānādinirūpaṇaṃ nāmaikapaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre lagnaghaṭikā pramāṇādinirūpaṇaṃ nāma dviṣaṣṭitamo 'dhyāyaḥ śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre sāmudrike puṃllakṣaṇanirūpaṇaṃ nāma triṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre sāmudrike strīlakṣaṇanirūpaṇaṃ nāma catuḥ ṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre sāmudrike strīnaralakṣaṇaṃ nāma pañcaṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jyotiḥ śāstre śālagrāmaṣaṣṭyūbdasvarodayānāṃ nirūpaṇaṃ nāma ṣaṭṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍemahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe svarodaye śubhāśubhanirūpaṇaṃ nāma saptaṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ratnatadviśeṣavajraparīkṣaṇādivarṇanaṃ nāmāṣṭaṣaṣṭitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe muktāphalapramāṇādivarṇanaṃ nāma muktāphalaparīkṣā nāmaikonasaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe padmarāgaparīkṣaṇaṃ nāma saptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe purvakhaṇḍe prathamāṃśākhye ācārakāṇḍa marakataparīkṣaṇaṃ nāmaikasaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe indranīlaparīkṣaṇaṃ nāma dvisaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaidūryaparīkṣaṇaṃ nāma trisaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe puṣparāgaparīkṣaṇaṃ nāma catuḥ saptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe karketanaparīkṣaṇaṃ nāma pañcasaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaidūryaparīkṣaṇaṃ nāma ṣaṭsaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe pulakaparīkṣaṇaṃ nāma saptasaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe rudhirākṣaratnaparīkṣaṇaṃ nāmāṣṭasaptatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sphaṭikaparīkṣaṇaṃ nāmaikonāśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vidrumaparīkṣaṇaṃ nāmāśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sarvatīrtha māhātmyaṃ nāmaikāśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nāma dvyaśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nāma tryaśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nāma caturaśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe purvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nāma pañcāśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nāma ṣaḍaśītitamo 'dhyāyaḥ (iti_gayāmāhātmyaṃ_samāptam) /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe manutadvaṃśanirūpaṇaṃ nāma spatāśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe karmajñānamā nāmāṣṭāśītitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe rucikṛtapitṛstotraṃ nāmaikonanavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "tasyāṃ tasya suto jajñe mahāvīryo mahādyutiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe prathamāṃśākhye ācārakāṇḍe haridhyānaṃ nāmaikanavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇudhyānaṃ nāma dvinavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktavarṇadharṃmanirūpaṇaṃ nāma trinavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "ita śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākye ācārakāṇḍe yājñavalkyoktavarṇadharmanirūpaṇaṃ nāma caturnavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktagṛhalthadharmanirṇayo nāma pañcanavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruje mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktaśrāddhanirūpaṇaṃ nāma ṣaṇṇavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktadravyaśuddhinirūpaṇaṃ nāma saptanavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktadānadharmanirūpaṇaṃ nāmāṣṭanavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktaśrāddhavidhinirūpaṇaṃ nāma navanavatitamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkloktagaṇapatikalpanirūpaṇaṃ nāma śatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktagrahaśāntinirūpaṇaṃ nāmaikottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruje mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktavānaprasthadharmanirūpaṇaṃ nāma dvyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktavānaprasthasannyāsadharmanirūpaṇaṃ nāma tryuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktakarmavipākanirūpaṇaṃ nāma caturuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrāgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktaprāyaścittaviveko nāma pañcottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yājñavalkyoktāśaucāpadvṛttyornirūpaṇaṃ nāma paḍuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākye ācārakāṇḍe parāśaroktadharmanirūpaṇaṃ nāma saptottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bṛhaspatiproktanītisāranirūpaṇaṃ nāmāṣṭottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bṛhadṛ nītisāre navottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bṛhadṛ nītisāre daśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bṛhadṛ nītisāre ekādaśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bṛhaspatyukta nītiptāre dvādaśottarakaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bṛhadṛ nītisāre trayośottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bṛhadṛ nītisāre caturdaśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śaunakoktanītisārādivarṇanaṃ nāma pañcadaśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe tithyādivratavarṇanaṃ nāma ṣoḍaśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe 'naṅgatrayodaśīvrataṃ nāma saptadaśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe 'khaṇḍadvādaśīvratakathanaṃnāmāṣṭādaśottara śatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe prathamāṃśākhye ācārakāṇḍe 'gastyārghyavrataṃ nāmakonaviṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe rambhātṛtīyāvrataṃ nāma viṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe cāturmāsyavratanirūpaṇaṃ nāmakāvaśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe māsopavāsavrataṃ nāma dvāviṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhīṣmapañcakādivrataṃ nāma trayoviṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śivarātrivrataṃ nāma caturviṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekādaśīmāhātmyaṃ nāma pañcaviṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekādaśīmāhātmyaṃ nāma saptaviṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vrataparibhāṣā nāmāṣṭāviṃśatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe daṣṭoddhārapañcamavritaṃ nāmaikonatriṃśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "aṣṭamyāṃ pāraṇaṃ kuryānmarīcaṃ prāśya svargabhāk saptamyāṃ niyataḥ snātvā pūjayitvā divākaram //"
+        },
+        {
+          "ref": null,
+          "body": "(iti_vijayasaptamīvratam) /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe saptamīvratanirūpaṇaṃ nāma triṃśottaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "(iti_kṛṣṇāṣṭamīvratam) /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe kṛṣṇāṣṭamīvratanirūpaṇaṃ nā maikatriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe budhāṣṭamīvratanirūpaṇaṃ nāma dvātriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe mahānavamīvrataṃ nāma trayastriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe mahānavamyāṃ mahākauśikamantrakṛtyādivivaraṇaṃ nāma catustriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ṛṣyekādaśīvrataṃ nāma pañcatriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe purvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śravaṇadvādaśīvratanirūpaṇaṃ nāma ṣaṭtriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe tithivāranakṣatrādivratanirūpaṇaṃ nāma saptatriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sūryavaṃśavarṇanaṃ nāmāṣṭatriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahupārāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe candravaṃśavarṇanaṃ nāmaikonacatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe candravaṃśavarṇanaṃ nāma catvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhaviṣya rājavaṃśa dṛ nāmaikacatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe daśāvatāradṛ nāma dvicatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe rāmāyaṇavarṇanaṃ nāma tricatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe harivaṃśavarṇanaṃ nāma catuścātvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhāratādivarṇanaṃ nāma pañcacatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākye ācārakāṇḍe sarvaroganidānaṃ nāma ṣaṭcatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jvaranidānādikaṃ nāma saptacatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe raktapittanidānaṃ nāmāṣṭacatvāriṃśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe kāsanidānā nāmaikonapañcāśaduttaraśatatamodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śvāsanidānā nāma pañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe hikrānidānā nāmaikapañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yakṣmanidānā nāma dvipañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe 'rocakanidānā nāma tripañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe āmlapittanidānā nāma catuḥ pañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe madātyayādinidānaṃ nāma pañcapañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍer'śonidānā nāma ṣaṭpañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍetisāranidāna nāma saptañcāśaduttaraśatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe mūtrāghātamūtrākṛcchanidāna nāmāṣṭapañcāśaduttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe pramehanidāna nāmaikonaṣaṣṭyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vidradhigulmanidāna nāma ṣaṣṭyuttaraśatatamodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇme pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekaṣaṣṭyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe pāṇḍusothanidānaṃ nāma dviṣaṣṭyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vīsarpanidānaṃ nāma tripaṣṭyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe kuṣṭharoganidāna nāma catuḥ ṣaṣṭyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe kriminidānaṃ nāma pañcaṣaṣṭhyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vātavyādhinidānaṃ nāma ṣaṭūṣaṣṭyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vātaraktani saptaṣaṣṭyādhikaśatatamodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaidyakaśāstraparibhāṣā nāmāṣṭaṣaṣṭyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe anupānādividhikathanaṃ nāmaikonasaptatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jvarādicikitsānirūpaṇaṃ nāma saptatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe nāḍīvraṇādicikitsāvarṇanaṃ nāmaikasaptatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe strīrogacikitsādikayanaṃ nāma dvisaptatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yogasamadivarṇanaṃ nāma trisaptanyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe brāhmīghṛtādivarṇanaṃ nāma catuḥ saptatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe jvaraharanānāyogādivarṇanaṃ nāma pañcasaptatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe keśotpattyādivarṇanaṃ nāma ṣaṭsaptatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe netrāñjanādinirūpaṇaṃ nāma saptasaptatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "oṃ namaḥ khaḍgavajrapāṇaye mahāyakṣasenāpataye svāhā / oṃ rudraṃ hrāṃ hrīṃ varaśaktā tvaritāvidyā / oṃ mātaraḥ stambhayasvāhā / sahasraṃ parijapyāttu vidyeyaṃ cauravāriṇī / mahāsugandhikāmūlaṃ śukraṃ stambhetkaṭau sthitam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe hyaṣṭasaptatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekonāśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe aśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekāśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe dvyāśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe tryaśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaidyaśāstre caturaśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe mantratantravaidyaprayodṛpañcāśītyadhiśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ṣaḍaśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe āyuṣkarayogodṛsaptāśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vraṇāci dṛmāṣṭāśītyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekonanavatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe navatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekanavatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe dvinavatyadhika śatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe trinavatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "anādyanta ! jagadbīja ! padmanābha ! namo 'stu te / oṃ kālāya svāhā / oṃ kālapuruṣāya svāhā / oṃ kṛṣṇāya svāhā / oṃ kṛṣṇarūpāya svāhā / oṃ caṇḍāya svāhā / oṃ caṇḍarūpāya svāhā / oṃ pracaṇḍāya svāhā / oṃ pracaṇarūpāya svāhā / oṃ sarvāya svāhā / oṃ sarvarūpāya svāhā / oṃ namo bhuvaneśāya trilokadhātre iha viṭi siviṭi siviṭi svāhā/ oṃ namaḥ ayokhetaye ye ye saṃjñāpaya daityadānavayakṣarākṣasabhūtapiśācakūṣmāṇḍāntāpasmārakacchardanaduddharrāṇāmekāhikadvyāhikatryāhikacāturthikamauhūrtikadinajvararātrijvarasandhyājvarasarvajvarādīnāṃ lūtākīṭakaṇṭakapūtanābhujaṅgasthāvarajaṅgamaviṣādī nāmidaṃ śarīraṃ mama pathyaṃ tvaṃ kuru sphuṭa sphuṭa sphuṭa prakoṭa laphaṭa vikaṭadaṃṣṭra pūrvato rakṣatu oṃ hai hai hai hai dinakarasahasrakālasamāhato jaya paścimato rakṣa oṃ nivi nivi pradīptajvalanajvālākāra mahākapila uttarato rakṣa oṃ vili vili mili mili garuḍi garuḍi gaurīgāndhārīviṣamohaviṣamaviṣamāṃ mahohayatu svāhā dakṣiṇato rakṣa māṃ paśya sarvabhūtabhayopadravebhyo rakṣa rakṣa jaya jaya vijaya tena hīyate riputrāsāhaṅkṛtavādyato bhayanudabhayato 'bhayaṃ diśatucyutaṃ / tadudaramakhilaṃ viśantu yugaparivartasahasrasaṃkhyeyo 'staṃhaṃsamiva praviśanti raśmayaḥ / vāsudevasaṅkarṣaṇapradyumnāścāniruddhakaḥ / sarvajvarānmamaghnantu viṣṇurnārāyaṇo hariḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaiṣṇavakavacakathanaṃ nāma caturnavatyuttaraśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākye ācārakāṇḍe pañcanavatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ṣaṇṇavatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe saptanavatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe aṣṭanavatyadhikaśatatamodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe navanavatyadhikaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe dviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gajāśvāyurvedanirūpaṇaṃ nāmaikādhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe nānāvidhoṣadhaprayogānirūpaṇaṃ nāma dvyuttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe nānauṣadhaprayoganirūpaṇaṃ nāma tryuttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe caturattaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vyākaraṇanirūpaṇaṃ nāma pañcottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamān- ācāradṛ nāma ṣaḍuttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe chandaḥ śāstrechandaḥsaṃjñāparibhāṣānirūpaṇaṃ nāma saptottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe chandaḥ śāstre āryāvṛttādichandolakṣaṇanirūpaṇaṃ nāmāṣṭottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe samavṛttalakṣaṇādinirūpaṇaṃ nāma navottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍer'ddhasamavṛttalakṣaṇādinirūpaṇaṃ nāma daśottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣamavṛttalakṣaṇādinirūpaṇaṃ nāmaikādaśottaradviśaśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamān- ācā- chandolakṣaṇaṃ nāma dvādaśottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe pañcottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ ye te śataṃ varuṇaye sahasraṃ yajñiyāḥ pāśā vitatā mahāntaḥ / tebhirno adya savitota viṣṇurviśve muñcantu marutaḥ svarkāḥ svāhā / sumitriyāna ityabañjalimākṛtyottareṇa toyaṃ paścādvirājya caiva viniḥ kṣipet / oṃ sumitriyā na āpa oṣadhayaḥ santu / durmitriyāstasmai santu yo 'smāndveṣṭi yañca vayaṃ dviṣmaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ tattvayāmi brahmaṇā vandamānastadāśāste yajamāno havirbhiḥ / aheḍamāno varuṇeha bodhyuruśaṃ samāna āyuḥ pramoṣīḥ / oṃ tvanno agne varuṇasya vidvāndevasya heḍo avayāsisīṣṭhāḥ / yajiṣṭho vahnitamaḥ śośucāno viśvā dveṣāṃsipramumugdhyasmatsvāhā / oṃ sa tvanno agnevamo bhavatī nediṣṭho asyā uṣasovyuṣṭau / avayakṣvano varuṇaṃ rarāṇo vīhimṛḍīkaṃ suhavo na edhi / oṃ āpo nauṣadhi hiṃsārdhamno rājastato varuṇo nomuñcā yadāharaghnyā iti varuṇeti śapārmahe tato varuṇa no muñca / oṃ uduttamaṃ varuṇa pāśamasmadavādhamaṃ vimadhyamaṃśrathāya / athāvayamādityavrate tavānāgaso aditaye syāma / muñcantumāmapyathādvaruṇasya tvat / aho yamasya patnīmānaḥ sarvasmādeva kilbiṣāt / avabhṛthanicaṃ punarvicerusi nityaṃ prannaḥ / avadevairdevakṛtā manoyāsi samavatyai kṛtaṃ puṣpācchā devadhīmalpāhī //"
+        },
+        {
+          "ref": null,
+          "body": "āpo mā tasmādenasaḥ pāvamānaśca muñcatu iviṣmato vimā āpohaviṣmān āvirāsati / haviṣmān deva asuro haviṣmān astu sūryaḥ / devīrāpo apā patnyā yaśca ūrmirhaviṣyaḥ indriyavānmādityantanaḥ taṃ devebhyo devatā dābhuśukralebhyasteṣāṃ bhāgakarṣivasisamudrasya dakṣiṇyāgrayāsimenāpograrbhiraśmatamodhoḥ / āpo devī madhumatīragṛhṇantu hyannatī rājasvatilāḥ / yābhirmitrāvaruṇasya siñcayābhirindramanayatyanna vātī vadrupadāṃ śanno devī apāmasṛgdvayasaṃsūrye santaṃ samāhitaṃ apāṃrasasya yo rasya yo gṛhṇāsyuttamam / āpo devīrupasūrya madhumatīvayasyāya prajābhyaḥ tāsā māsthānātvarjihatāmoṣadhayaḥ sapippalāḥ / punantu mā pitaraḥ saumyāsaḥ punantvanāpi pitā sahasāḥ pavitreṇa gatāyuṣā / punantu mā pitāmahāḥ punantu prapitāmahāḥ / pavitreṇa gatāyuṣā viśvamāyurvyaśravaiḥ / agna āyūṃṣi parasatmācarorjamiṣañca tvace vāvasvatvacchūnām / punantu mā devajanāḥ punantu manasā dhiyaḥ / punantu viśvā bhūtāni jātavedaḥ ! punīhi mā / pavitreṇa punīhi mā śukreṇa deva dīdyat / agne kratvā kratūṃranu / yatte pavitramarciṣyagne vitatamantarā brahmā tena punātu mā / pavamānaḥ suvarjanaḥ / pavitreṇa vicarṣaṇiḥ / yaḥ potā sa punātu mā / ubhābhyāṃ deva savitaḥ / pavitreṇa savena ca / idaṃ brahmapunīmahe / vaiśvadevīḥ punatī devyā gṛbhnāsyāmisāvakṣyastānnovīta pūjyāḥ / tayāmadantaḥ sadhamādeṣu vayaṃ syāma patayo rayīṇām / citpa tirmā punātvacchidreṇa pavitreṇa sūryasya raśmibhiḥ / tasya te pavitrapūtasya yatkāmaḥ / praṇitacchakeyaṃ devo vākpatirmā savitā tvacchidreṇa pavitreṇa sūryasya raśmibhiḥ / tasya te pavitrapate ! pavitrapūtasya catkāmaḥ / punastacchakeyaṃ dyupatiṃ ayaṃ gauḥ pṛśrirakramīsadaśaśataṃ mātaraṃ punaḥ pitarañca prayasmaḥ / devo mā savitā punātvacchidreṇa pavitreṇa sūryasya raśmibhiḥ / tasya te pavitrapate pavitrapūtasya yatkāmaḥ punātacchakeyam? / oṃ tadviṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ / divīva cakṣurātatam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe snānavidhivivaraṇaṃ nāma caturdaśottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ modāstṛpyantām / oṃ pramodāstṛpyantām / oṃ sumukhāstṛpyantām / oṃ durmukhāstṛpyantām / oṃ vighnāstṛpyantām / oṃ vighnakartārastṛpyantām / oṃ chandāṃsi tṛpyantām / oṃ vedāstṛpyantām / oṃ oṣadhayastṛpyantām / oṃ sanātanastṛpyatām / oṃ itarācāryāstṛpyantām / oṃ saṃvatsaraḥsāvayavastṛpyatām / oṃ devāstṛpyantām / oṃ apsarasastṛpyantām / oṃ devāndhakāstṛpyantām / oṃ sāgarastṛpyantām / oṃ nāgāstṛpyantām / oṃ parvatāstṛpyantām / oṃ sarinmanuṣyā yakṣāstṛpyantām / oṃ rakṣāṃsi tṛpyantām / oṃ piśācāstṛpyantām / oṃ suparṇāstṛpyantām / oṃ bhūtāni tṛpyantām / oṃ bhūtagrāmāścaturvidhāstṛpyantām / oṃ dakṣastṛpyatām / oṃ pracetāstṛpyatām / oṃ marīcistṛpyatām / oṃ ātristṛpyatām / oṃ aṅgirāstṛpyatām / oṃ pulastyastṛpyatām / oṃ pulahastṛpyatām / oṃ kratustṛpyatām / oṃ nāradastṛpyatām ! oṃ bhṛgustṛpyatām / oṃ viśvāmitrastṛpyatām / oṃ raivatastṛpyatām / oṃ cākṣuṣastṛpyatām / oṃ mahātejāstṛpyatām / oṃ vaivasvatastṛpyatām / oṃ dhruvastṛpyatām / oṃ dhavastṛpyatām / oṃ anilastṛpyatām / oṃ prabhāsastṛpyatām //"
+        },
+        {
+          "ref": null,
+          "body": "nīvītī / oṃ sanakastṛpyatām / oṃ sanandanastṛpyatām / oṃ sanātanastṛpyatām / oṃ kapilastṛpyatām / oṃ āsuristṛpyatām / oṃ voḍhustṛpyatām / oṃ pañcaśikhastṛpyatām / oṃ manuṣyāṇāṃ kavyavāhastṛpyatām / oṃ analastṛpyantām / oṃ somastṛtām / oṃ yamastṛpyatām / oṃ aryamātṛpyatām //"
+        },
+        {
+          "ref": null,
+          "body": "prācīnāvītī / oṃ agniṣvāttāḥ pitarastṛpyantām / oṃ somapāḥ pitarastṛpyantām / oṃ barhiṣadaḥ pitarastṛpyantām / yamāya namaḥ / dharmarājāya namaḥ / mṛtyave namaḥ / antakāya namaḥ / vaivasvatāya namaḥ / kālāya namaḥ / sarvabhūtakṣayāya namaḥ / audumbarāya namaḥ! dadhnāya namaḥ / nīlāya namaḥ / parameṣṭhine namaḥ / vṛkodarāya namaḥ / citrāya namaḥ / citraguptāya namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "brahmādistambaparyantaṃ jagattṛpyatu / oṃ pitṛbhyaḥ svadhā namaḥ / oṃ pitāmahebhyaḥ svadhā namaḥ / oṃ prapitāmahebhyaḥ svadhā namaḥ / oṃ mātṛbhyaḥ svadhānamaḥ / oṃ pitāmahībhyaḥ svadhā namaḥ / oṃ prapitāmahībhyaḥ svadhā namaḥ / oṃ mātāmahebhyaḥ svadhā namaḥ / oṃ pramātāmahebhyaḥ svadhā namaḥ / oṃ vṛddhapramātāmahebhyaḥ svadhānamaḥ tṛpyatāmiti / udīratāmavara utparāso unmadhyamāḥ pitaraḥ somyāsaḥ / asuṃya īyuravṛkā ṛtajñāsteno 'vantupitarohaveṣu / gotroccāraṇena prathamāñjaliḥ pituḥ / oṃ aṅgiraso naḥ pitarodṛ- / atharvāṇobhṛgavaḥdṛ - / teṣāṃ vayaṃ sumatau yajñiyānāṃ api bhadre saumanase syāma / oṃ āyantu naḥ pitaraḥ saumyāsogniṣvāttāḥ pathibhirdevayānaiḥ / asminyajñe svadhayā madanto 'dhibruvantu te 'vantvasmān //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ ūrjaṃ vahantīramṛtaṃ ghṛtaṃ payaḥ kīlālaṃ parisnutaṃ svadhā stha tarpayata me pitṝn / oṃ pitṛbhyaḥ svadhā namaḥ / oṃ pitāmahebhyaḥ svadhā namaḥ / oṃ prapitāmahebhyaḥ svadhāna namaḥ / oṃ mātāmahebhyaḥ svadhā namaḥ / oṃ pramātāmahebhyaḥ svadhā namaḥ / oṃ vṛddhapramātāmahebhyaḥ svadhā namaḥ / pitāmahasyadṛ / oṃ akṣanpitaro amīmadanta pitaro amī tṛpyantaḥ pitaraḥ śuṃ(sva) dhadhvaṃ pibeha pitaro 'pi vānatrayāṃśca viśrayāṃśca bhavanapavitratvā rathapati te jātavedāḥ svadhābhiryajñaṃ sukṛtaṃ jupasva? / oṃ ṇaduvātā ṛtāyate madhu kṣaranti sindhavaḥ / mādhvīrnaḥ santvoṣadhīrmadhunaktamutoṣaso madhumatpārthivaṃ rajaḥ / madhu dyaurastu naḥ pitā madhu mānno vanaspatirmadhubhām astu sūryo mādhvīrgāvo bhavantu naḥ //"
+        },
+        {
+          "ref": null,
+          "body": "prapitāmahasyāñjalidānam / oṃ namo vaḥ pitaro rasāya namo vaḥ pitaraḥ śuṣmāya namo vaḥ pitaro jīvāya namo vaḥ pitaraḥ svadhāyai namo vaḥ pitaro ghorāya namo vaḥ pitaro manyave / namo vaḥ pitaro gṛhānna pitaro dattaḥ / namo vaḥ pitaro dadhme tadvaḥ pitaro vāsaḥ / mātāmahānāṃ trirañjalidṛ / tato mātrādīnāndṛ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe devāditarpaṇanirūpaṇaṃ nāma pañjadaśottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "oṃ prajāpataye svāhā / oṃ somāya svāhā / oṃ bṛhaspataye svāhā / oṃ agniṣomābhyāṃ svāhā / oṃ indrāgnibhyāṃ svāhā / oṃ dyāvāpṛthivībhyāṃ svāhā / oṃ indrāya svāhā / oṃ viśvebhyo devebhyaḥ svāhā / oṃ brahmaṇe svāhā / oṃ adbhyaḥ svāhā / oṃ oṣadhivanaspatibhyaḥ svāhā / oṃ grahyāya svāhā / oṃ devadevatābhyaḥ svāhā / oṃ indrāya svāhā / oṃ indrapuruṣebhyaḥ svāhā / oṃ yamāya svāhā / oṃ yamapuruṣāya svāhā / oṃ sarvebhyo bhūtebhyo divācāribhyaḥ svāhā / oṃ vasudhāpitṛbhyaḥ svāhā / oṃ ye bhūtā pracaranti dīnāca nimihanto bhuvanasya madhye / tebhyo baliṃ puṣṭikāmo dadāmi mayi puṣṭiṃ puṣṭipatirdadātu / oṃ ācāṇḍālapatirdadātu ācāṇḍālapatitavāyasebhyaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe vaiśvadevanirūpaṇaṃ nāma ṣoḍaśottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "gāyattrīcchando viśvāmitra ṛṣistripāt / samudrāḥ kukṣiścandrādityau locanau / agnirmukham / viṣṇurhṛdayam / brahmarudrau śiraḥ / rudraḥ śikhā / upanaya ne viniyogaḥ / oṃ bhūḥ pāde / bhuvaḥ jānuti / svaḥ hṛdaye / mahaḥ śirasi / janaḥ śikhāyām / tapaḥ kaṇṭhe / satyaṃ lalāṭe / oṃ hṛdayāya namaḥ / oṃ bhūḥ śirase svāhā / oṃ bhuvaḥ śikhāyai vauṣaṭ / oṃ svaḥ kavacāya huṃ / oṃ bhūrbhuvaḥ svaḥ astrāya phaṭ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ bhūḥ oṃ bhuvaḥ oṃ svaḥ oṃ mahaḥ oṃ janaḥ oṃ tapaḥ oṃ satyaṃ tatstripadā / oṃ āpo jyo 'tī raso 'mṛtaṃ brahma bhūrbhuvaḥ svarom / oṃ sūryaścetyādi / oṃ āpaḥ punantvityādi / oṃ agniścetyādi //"
+        },
+        {
+          "ref": null,
+          "body": "maheraṇāya cakṣuse / oṃ yo vaḥ śivatamo rasaḥ / tasya bhājayeteha naḥ / aśatīriva mātaraḥ / oṃ tasmā araṅgamāma vo yasya kṣayāya jinvatha / āpo jana yathā ca naḥ / oṃ sumitriyā na āpa oṣadhayaḥ santu oṃ durmitriyāstasmai santu yo 'smān dveṣṭi yañca vayaṃ dviṣmaḥ / oṃ drupadādivamumucānaḥ svinnaḥ snāto malādiva / pūtaṃ pavitreṇevājyamāpaḥ śundhantu mainasaḥ / oṃ ṛtaṃ ca satyaṃ cābhīddhāttapaso 'dhyajāyata / tatorātryajāyata / tataḥ samudror'ṇavaḥ samudrādarṇavādadhisaṃvatsaro ajāyata / ahaurātrāṇi vidadhadviśvasya miṣato vaśī / sūryācandramasau dhātā yathāpūrvamakalpayat / divaṃ ca pṛthivīṃ cāntarikṣamatho svaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "gāyattryā viśvāmitra ṛṣirgāyattrīchandaḥ / savitā devatā jape viniyogaḥ / oṃ udutyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ / dṛśe viśvāya sūryam / oṃ citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ / āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatastasthuṣaśca / oṃ taccakṣardevahitaṃ purastācchukramuccarat / paśyema śaradaḥ śataṃ jīvema śaradaḥ śatam / śṛṇuyāma śaradaḥ śatam / oṃ viśvataścakṣuruta viśvatomukhoviśvato bāhuruta viśvataspāt / saṃbāhubhyāṃ dhamati saṃpatraidyārvābhūmī janayandeva ekaḥ / devā gātuvido nāṅgavidvānādbhamitamanasaspata imaṃ devayajñaṃ svāhā vātedhāḥ japet //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe sandhyāvidhinirūpaṇaṃ nāma saptadaśottaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ adyāsmindeśe amukamāse amukarāśiṅgate savitaryamukatithāvamukagotrāṇāmasmatpitṛpitāmahaprapitāmahānāṃ yathānāmaśarmaṇāṃ viśvedevapūrvakandṛśrāddhaṃ kariṣye / oṃ viśvebhyo devabhyaḥ svāhā oṃ viśvedevānāvāhayiṣye / āvāhayetyukte oṃ viśvedevāḥ sa āgata śṛṇutām imaṃ havam / edaṃ barhirniṣīdata oṃ viśvedevāḥ śṛṇutemaṃ ivaṃ me ye antarikṣe ya upadyaviṣṭa / ye agnijihvā uta vā yajatrā āsadyāsminbarhiṣi mādayadhvam / oṃ oṣadhayaḥ saṃvadante somena saha rājñā / yasmai kṛṇoti brāhmaṇastaṃ rājanpārayāmasi / oṃ āgacchantu mahābhāgā viśvedevā mahābalāḥ / ye atra vihitāḥ śrāddhe sāvadhānā bhavantu te / oṃ apahatāsurā rakṣāṃsi vediṣada iti tritriryavavikiraṇam //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ śanno devīrabhiṣṭaya āpo bhavantu pītaye / śaṃyorabhistravantu na iti pātre jaladānam / oṃ yavo 'si yavayāsmadveṣo yavayārātīriti yavadānam / gandhadvārāṃ durādharṣāṃ nityapuṣṭāṃ karīṣiṇīm / īśvarīṃ sarvabhūtānāṃ tā (tvā) mihopahvaye śriyamiti gandhadānam / oṃ yā divyā āpaḥ payasā saṃbabhūvuryā antarikṣauta pārthavīryāḥ / hiraṇyavarṇā yajñiyāstāna āpaḥ śivāḥ śaṃ syonā suhavā bhavantu / eṣor'gho nama iti brāhmaṇahaste jalaṃ dattvānenaiva pātreṇa pavitragrahaṇaṃ kṛtvā saṃstravaṃ pavitraṃ ca brāhmaṇapārśve dadyāt / tataḥ prathamapātre saṃstravajalaṃ saṃsthāpya kuśopari ūrdhvamukhaṃ sthāpanaṃ kuryat / tadupari kuśadānam //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ amukagotrebyo 'smatpitṛpitāmahebhyo yathānāmaśarmabhyaḥ sapatnīkebhyaḥ idamāsanaṃ svadhā iti brāhmaṇavāme āsanadānam / oṃ pitṝnāvāhayiṣye / oṃ / āvāhayetyukte oṃ uśantastvā nidhīmahyuśantaḥ samidhīmahi / uśannu śata āvaha pitṝnhaviṣe uttave / oṃ āyantu naḥ pitaraḥ saumyāso 'gniṣvāttāḥ pathibhirdevayānaiḥ / asminyajñe svadhayā madanto 'dhibruvantu tevantvasmān ityāvāhanam / oṃ apahatā surā rakṣāṃsi vediṣadaḥ iti tilavikiraṇam / pūrvavaktrameṇa sthāpitapātreṣūdakadānam / oṃ tilo 'si somadevatyo gosavo devanirmitaḥ / pratnamadbhiḥ pṛktaḥ svadhayā pitṝṃllokānprīṇīhi naḥ svāhā iti tiladānam //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ śundhantāṃ lokāḥ pitṛsadanāḥ pitṛsadanamasi / adhomukhapāttrasparśanam / amukagotrebhyo 'smatpitṛpitāmaha prapitāmahebhyaḥ sapatnīkebhya etāni gandhapuṣpadhūpadīpavāsoguṇasottarīyayajñopavītāni vaḥ svadhā pitṛtīrthena gandhādidānam / gandhādidānamakṣayyamastu / saṃkalpasiddhirastu / brāhmaṇavacanam / evaṃ mātāmahādīnāmanujñāpanādikarma / oṃ yādivyetibhūmisaṃmārjanam / tato ghṛtāktamannaṃ gṛhītvā dakṣiṇopavītī pitṛbrāhmaṇam oṃ agnau karaṇamahaṃ kariṣye / oṃ kuruṣveti tenokte oṃ agnaye kavyavāhanāya svāhā iti āhutidvayaṃ devabrāhmaṇahaste dattvā avaśiṣṭānnaṃ piṇḍārthaṃ sthāpayitvā aparamardhaṃ pitrādipātre mātāmahādipātre ca niḥ kṣipet //"
+        },
+        {
+          "ref": null,
+          "body": "tato viparītopavītena savyañjanaṃ saghṛtamannaṃ pitrādi brāhmaṇapātre nidhāya tadupari bhūmisaṃlagnakuśaṃ dattvā oṃ pṛthivī te pātraṃ iti mantreṇa uttānābhyāṃ pātraṃ gṛhītvā oṃ idaṃ viṣṇorityannopari uttānaṃ dvijāṅguṣṭhaṃ niveśayet / oṃ apahateti tilavikiraṇam / bhūmipātitavāmajānuḥ amukagotrebhyaḥ asmatpitṛpitāmahebhyaḥ sapatnīkebhyaḥ etadannaṃ saghṛtaṃ sapānīyaṃ savyañjanaṃ pratiṣiddhavarjitaṃ svadhā / annaṃ saṅkalpya oṃ ūrjaṃ vahantīramṛtaṃ ghṛta payaḥ kīlālaṃ paristrutaṃ svadhāstu tarpayata me pitaram / dakṣiṇāmukhavaridhāratyāgaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "tato brāhmaṇakrameṇa jalagaṇḍūṣaṃ dattvā pūrvavatsavyāhṛtikāṃ gāyattrīṃ madhuvātetitryṛcaṃ japtvā oṃ rucitaṃ bhavadbhiriti devabrāhmaṇapraśraḥ / surucitamiti tenokte oṃ śeṣamannamiti praśraḥ / iṣṭaiḥ saha bhojanam / pitrādibrāhmaṇaṃ vāmopavītena oṃ tṛptāḥ stha iti praśraḥ / oṃ tṛptāḥ sma iti tenokte bhūmyabhyukṣaṇaṃ maṇḍalacatuṣkoṇaṃ ti lavikiraṇam //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ amukagotra ! asmatpitaḥ ! amukadevadarśan ! sapatnīka ! etatte piṇḍāsanaṃ svadhā / itthaṃ rekhāmadhye pitāmahāya khavyāhṛtikāṃ gāyattrīṃ madhuvāteti trarjapannannaṃ sājyaṃ piṇḍaṃ kṛtvā kuśopari amukagotra asmatpitaḥ ! amukadevaśraman ! sapatnīka eṣa piṇḍaste svadhā / itthaṃ rekhāmadhye pitāmahāya / tataḥ savyāhṛtikāṃ gāyattrīṃ madhuvāteti trirjaṃpanpiṇḍavikiraṇaṃ piṇḍāntike / oṃ lepabhujaḥ prīyantamiti staraṇkuśeṣu hastamārjanaṃ prakṣālitapiṇḍodakena oṃ amukagotra ! asmatpitaḥ ! amukaśarman sapatnīka etatte jalamavanekṣva ye cātratvāmanujāśca tvāmanu tasmai tesvadheti pitṛpiṇḍasecanam / piṇḍapātramadhomukhaṃ kṛtvā baddhāñjaliḥ oṃ pitaro mādayadhvaṃ yathābhāgamāvṛṣāyadhvamiti japet / apaḥ spṛṣṭvā vāmena parāvṛttya udaṅmukhaḥ prāṇāṃstriḥ saṃyamya ṣaḍbhya ṛtubhyo namaḥ iti japaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "vāmenaiva parāvṛtya puṣpadānam / akṣatañcāriṣṭañcāstu me puṇyaṃ śāntipuṣṭidṛ / dakṣiṇāmukhaḥ amī madantaḥ pitaro yathābhāgamāvṛṣāyiṣata iti japaḥ / vāsaḥ śithilīkṛtvāñjaliṃ kṛtvā oṃ namo vaḥ pitaro namo vaḥ iti japaḥ / gṛhānnaḥ pitaro datta iti gṛhavīkṣaṇam / tataḥ sadā vaḥ pitaro dveṣma iti vīkṣya etadvaḥ pitaro vāsa ityuccārya amukagotra etatte vāsaḥ svadhā iti sūtradānam / vāmena pāṇinā udakapātraṃ gṛhītvā ūrjaṃ vahantīramṛtaṃ ghṛtaṃ payaḥ ityādi piṇḍopari dhārātyāgaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ itthaṃ mātāmahādibrāhmaṇānāmācamanam / oṃ susuprokṣitamastviti bhūmyabhyukṣaṇaṃ kṛtvā / oṃ apāṃ madhye sthitā devāḥ sarvamapsu pratiṣṭhitam / brāhmaṇasya kare nyastāḥ śivā āpo bhavantu naḥ / śivā āpaḥ santviti brāhmaṇahaste jaladānam / lakṣmīrvasatipuṣpeṣu lakṣmīrvasati puṣkare / lakṣmīrvasati goṣṭheṣu saumanasyaṃ sadāstu te / saumanasyamastviti puṣpadānam / akṣataṃ cāstu me puṇyaṃ śāntiḥ puṣṭirdhṛtiśca me / yadyacchreyaskaraṃ loke tattadastu sadā mama / oṃ akṣatañcāriṣṭañcāstu iti yavataṇḍuladānam //"
+        },
+        {
+          "ref": null,
+          "body": "amukagotrāṇāmasmatpitṛpitāmahaprapitāmahānāṃ sapatnīkānāmidamannapānādikamakṣayyamastviti pitrādibrāhmaṇahaste tilajaladānam / astviti brāhmaṇo vadet / etanmātāmahādīnāmakṣayyamāśiṣaḥ / oṃ aghorāḥ pitaraḥ santu gotraṃ no vardhatāṃ--dātāro no 'bhivardhantāṃ vedāḥ santatireva ca / śraddhā ca no mā vyagamadbahudeyañca no 'stviti / annañca no bahu bhavedatithīṃśca labhemahi / yācitāraśca naḥ santu mā ca yāciṣma kañcana / etāḥ satyāśiṣaḥ santu //"
+        },
+        {
+          "ref": null,
+          "body": "tataḥ pitṛbrāhmaṇe piṇḍāḥ sampannā iti praśraḥ / susampannā iti piṇḍe kṣīradhārāṃ dattvā piṇḍacālanaṃ atithibrāhmaṇe piṇḍapātramuttānaṃ kṛtvā oṃ vāje vāje vata vājino no dhaneṣu viprā amṛtā ṛtajñāḥ / asyamadhvaḥ pibata mādayadhvaṃ tṛptā yāta pathibhirdevayānairiti piṇḍā divisarjanaṃ-āmāvājasya prasavo jagamyādeme dyāvāpṛthivī viśvarūpe āmāgantāṃ pitarā cāmā somo 'mṛtatvena gamyāt / iti devavisarjanam / oṃ abhigamyatāmiti pitṛbrāhmaṇavisarjanam / brāhmaṇairanudgatasya nivartanam / gavādiṣu piṇḍapratipādanamiti śeṣaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe pārvaṇaśrāddhakathanaṃ nāmāṣṭradaśādhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "devapitṛsarvadevabrāhmaṇaṃ śrāddhakaraṇānujñāpanam / āsane oṃ viśvedevāsa āgata śṛṇutāma imaṃrṭha ivam / taṃ barhirniṣīdata / oṃ viśvedevāḥ śṛṇutemaṃ ivaṃ ye me antarikṣe ya udadyaviṣṭa / pe agnijihvā utavā yadatrā āsādyāsminbarhiṣi mādayadhvam / oṃ āgacchantu iti viśvedevāvāhanaṃ-gandhādidānam / acchidrāvadhāraṇavācanam //"
+        },
+        {
+          "ref": null,
+          "body": "tataḥ prapitāmahīprabhṛtīnāmanujñāpanamāsanadānaṃ gandhādidānañca acchidrāvadhāraṇavācanam / itthaṃ pitāmahyāḥ mātuḥ / tataḥ prapitāmahādīnāṃ anujñāpanam / āsanamāvāhanaṅgandhādidānaṃ-vṛddhapramātāmahādīnāmanujñāpanādikaraṇam / oṃ vasusatyasaṃjñakebhyo devebhya etadannaṃ saghṛtaṃ sapānīyaṃ savyañjanaṃ savadaraṃ sadadhi pratiṣiddhavarjitaṃ nama iti annasaṅkalpanam / oṃ amukagotre ! matpitāmahamukadevi nāndīmukhi ! etadannaṃ sabadaraṃ sadadhi namaḥ / evaṃ mātāmahaprabhātāmahebhyaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "ekoddiṣṭaṃ puro 'vaśyaṃ tadviśeṣaṃ vade śṛṇu / prathamaṃ nimantraṇaṃ pādaprakṣālanam āsanam / adya amukagotrasya matpituramukadevaśarmaṇaḥ pratisāṃvatsarikamekoddiṣṭaśrāddhaṃ siddhānnena yuṣmāsvahaṃ kariṣye / śrāddhakaraṇānujñāpanam āsanaṃ gandhādidānam annānukalpanam / japyaṃ nivītī / uttarābhimukhībhūyātithiśrāddhaṃ kuryāt //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ekonaviṃśādhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "sapiṇḍīkaraṇaṃ kuryādaparāhne tu pūrvavat / pitāmahādibrāhmaṇanimantraṇam / oṃ purūravārdravasaṃjñakebhyo devebhya etadāsanaṃ namaḥ / vāmapārśve cāsanadānam / āvāhanam / tataḥ pitāmahaprapitāmahavṛddhaprapitāmahānāṃ sapatnīkānāṃ śrāddhamahaṃ kariṣye ityanujñāgrahaṇaṃ-pātratrayakaraṇaṃ-pātropari kuśaṃ dattvā pātrāntareṇa pidhāya acchidrāvadhāraṇāntaṃ parisamāpya tathaiva piturapi sapatnīkasya pretapadāntanāmnā śrāddhakaraṇānujñāpanaṃ devapātrācchidrāvadhāraṇam //"
+        },
+        {
+          "ref": null,
+          "body": "tatparisamāpya pitāmahaprapitāmahavṛddhaprapitāmahakrameṇa pātrāṇāṃ manāk cālanam / uddhāṭanaṃ kṛtvā--oṃ ye samānāḥ samanasaḥ pitaro yamarājye / teṣāṃ lokaḥ svadhā namo yajño deveṣu kalpatām / oṃ ye samānāḥ samanaso jīvā jīveṣu māmakāḥ / teṣāṃ śrīrmayi kalpatāmasmin loke śataṃ samāḥ / etanmantradvayena pitṛpātrodakaṃ pitāmahaprapitāmahapātre vṛddhaprapitāmahapātraṃ parityajya pitāmahaprapitāmahayorudakaṃ pavitrañca pitṛpātre kṣipet //"
+        },
+        {
+          "ref": null,
+          "body": "tato devaprabhṛtibhya apośānaṃ dadyāt / atithiprāptau atidhiśrāddhaṃ kuryāt / asminnavasare vikiraṇam / pitāmāhadau praśraṃ kṛtvā pitṛbrāhmaṇam oṃ svaditaṃ bhavadbhiriti praśraḥ / oṃ amukagotra matpitaḥ amukaśarman sapatnīka eṣa te piṇḍo ye cātratvāmanuyāśca tvāmanu tasmai svadheti piṇḍapātramacchidramastu / tataḥ saṅkalpa siddhivācanaṃ samāpya piṇḍaṃ dvidhā kṛtvā ye samānāḥ sumanasa iti mantradvayaṃ paṭhitvā pitāmahavṛddhaprapitāmahapātreṣu kṣipet / piṇḍeṣu gandhādikaṃ dattvā piṇḍacālanam / atithibrāhmaṇe svaditādipraśraḥ / brāhmaṇānāmācamanam / bhuktikrameṇa tāmbūladānam / suprokṣitamastu śivā āpaḥ santu--vṛddhaprapitāmahakrameṇa brāhmaṇahaste jaladānam / gotrasyākṣayyamastu pitṛbrāhmaṇahaste upatiṣṭatāmiti satijaladānam //"
+        },
+        {
+          "ref": null,
+          "body": "oṃ vācyatāṃ ityukte oṃ pitāmahādibhyaḥ svadhocyatām / astu svadhetyukte pitṛbrāhmaṇa pitṛbhyaḥ svadhocyatāmiti / astu svadhetyukte oṃ ūrjaṃ vahantīriti dakṣiṇābhimukhavāridhārātyāgaḥ / oṃ viśvedevā asmin yajñe prīyantāmiti devabrāhmaṇahaste oṃ yavodakadānam / oṃ devatābhya iti trirjapaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śrāddhānuṣṭhānaṃ nāmaviṃśādhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe dharmasārakathanaṃ nāmaikaviṃśādhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe prāyaścitakathanaṃ nāma dvāviṃśatyadhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe yugadharmakathanaṃ nāma trayoviṃśatyadhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe naimittikapralayonāma caturviṃśatyadhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe karmavipākādikathanaṃ nāma pañcaviṃśatyadhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍeṣṭāṅgayogakathanaṃ nāma ṣaḍviṃśatyadhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe bhagavadbhaktivivaraṇaṃ nāma saptaviṃśatyadhikadviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇubhaktivivaraṇaṃ nāmāṣṭāviṃśatyuttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇupūjānirūpaṇaṃ nāmaikonatriśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe viṣṇumahātmyavarṇanaṃ nāma triṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe nṛsiṃhastotraṃ nāmaikatriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe kulāmṛtastotraṃ nāma dvātriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe mārkaṇḍeyakṛtaṃ mṛtyvaṣṭakastotraṃ nāma trayastriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe 'cyutastotraṃ nāma catustriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe brahmavijñānasvarūpaṇaṃ nāma pañcatriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe ātmajñānasvarūpavarṇanaṃ nāma ṣaṭtriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe śrīmadbhagavadgītāsāranirūpaṇaṃ nāma saptatriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe brahmagītāsāravarṇanaṃ nāmaikonacatvāriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe prathamāṃśe ācārakāṇḍe brahmagītāsāro nāmekonacatvāriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "oṃ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśe ācārakāṇḍe garuḍapurāṇamāhātmyaṃ nāma catvāriṃśaduttaradviśatatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śubhaṃ bhūyāt /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe prathamāṃśa ācārakāṇḍaḥ samāptaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaṇeśāya namaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "tatrādime dvitīyāṃśe pretakāṇḍo dharmakāṇḍanāmārabhyate / oṃ namo bhagavate vāsudevāya /"
+        },
+        {
+          "ref": null,
+          "body": "tadahaṃ kṛṣṇagaruḍasaṃvādadvārakaṃ dvijāḥ /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśākhye dharmakāṇḍe (pretakhaṇḍe) śrīkṛṣṇagaruḍasaṃvāde praśraprapañco nāma prathamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe pratakā(kha)ṇḍe śrīkṛṣṇagaruḍasaṃvāde aurdhvadehikavidhikarmavipākayorvarṇanaṃ nāma dvitīyo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe dharmakāṇḍe dvitīyāṃśe pretakalpe śrīkṛṣṇagaruḍasaṃvāde narakatatpraveśanirgamanādivarṇanaṃ nāma tṛtīyo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde dahanavidhikṛcchralakṣaṇadagdhāgamanarajasvalāmaraṇavidhipañcakamaraṇaprāyaścittanirūpaṇaṃ nāma caturtho 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde varṣakṛtyayamalokamārgayātanādinirūpaṇaṃ nāma pañcamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvidṛ dhadṛpretakalpe śrīkṛṣṇagaruḍasaṃvāde vṛṣotsargamāhātmyanirūpaṇaṃ nāma ṣaṣṭho 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe śrīkṛṣṇagaruḍasaṃvāde pretakalpe pañcapretopākhyānaṃ nāma saptamo 'dyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇa garuḍasaṃvāde śrāddhakartrātmaśrāddhayornirūpaṇaṃ nāmāṣṭamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde rājakṛtavṛṣotsargakriyādinirūpaṇaṃ nāma navamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpu- uttarakhaṇḍe dvitīdṛdharmadṛpretakalpe śrīkṛṣṇagaruḍasaṃvāde śrāddhasya tṛptidatvādinirūpaṇaṃ nāma daśamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāhe ūrdhvādhogatijñāpakotkramaṇadvāranirūpaṇaṃ nāmaikādaśo 'dhyyāḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakādṛpretakalpe śrīkṛṣṇagaruḍasaṃvāde mṛtasya dharmamātrānuyāyitvanirūpaṇaṃ nāma dvādaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde vṛṣotsargadānadharmaputrādipraśaṃsanaṃ nāma trayodaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde godānavṛṣotsargadaśadānabhūridānādinirūpaṇaṃ nāma caturdaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmadṛpretakalpe śrīkṛṣṇagaruḍasaṃvāde yamalokavistāratanmāhātmyatadyānanirūpaṇaṃ nāma pañcadaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde pretayātrādinirūpaṇaṃ nāma ṣoḍaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretaklape śravaṇamahātmyanirūpaṇaṃ nāma saptadaso 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmadṛpretadṛśrīkṛṣṇagaruḍa saṃvāde vṛṣotsarganānādānaphalayamalokagamanakarmajadehaprāptinirūpaṇaṃ nāmāṣṭādaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde yamamandirapraveśatadājñālabdhamanuṣyādi dehāṃntaraprāptinirūpaṇaṃ nāmaikonaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pratakalpe śrīkṛṣṇagaruḍasaṃvāde pretāvāsatadbādhāprakāranirūpaṇaṃ nāma viṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakādṛpretakalpe śrīkṛṣṇagaruḍasaṃvāde svapnādhyāyo nāmaikaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe bhīṣma yudhiṣṭhirasaṃvāde pretatvotpattitanmuktipeñcapretopākhyāna nirūpaṇaṃ nāma dvāviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde pretakṛtitaduktitaccihnatadvimuktyupāyanirūpaṇaṃ nāma trayoviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "taporato yogaśīlo mahājñānī ca yo naraḥ / sarvajñānarataḥ śrīmāndharmātmātulavikramaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśākhye dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde 'lpāyurmaraṇahe tubālāntyeṣṭyornirūpaṇaṃ nāma caturviśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dhamakāṇḍe pretakalpe śrīkṛṣṇagaruḍasavāde mṛtabālāntyeṣṭibhinnābhinnasutakṛtāntyeṣṭyorvarṇanaṃ nāma pañcaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍedvitīyāṃśe dharmakāṇḍe śrīkṛṣṇagaruḍasaṃvāde pretakalpe sapiṇḍananirūpaṇaṃ nāma ṣaḍviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde babhruvāhanapretasaṃvāde pretatvahetutannivṛttyupāyanirūpaṇaṃ nāma saptaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde aurdhvadahikakarmakālakriyamāṇanānādānādiphalapraśranirūpaṇaṃ nāmāṣṭāviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe pretakalpe dharmakāṇḍe śrīkṛṣṇagaruḍasaṃvāde aurdhvadehikakarmaṇi putradarbhatilatulasīgobhūlepatāmrapātradānā dīnāmāvaśyakatvanirūpaṇaṃ nāmaikonatriśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde nānādānanirūpaṇaṃ nāma triṃso 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe pretakalpe śrīkṛṣṇagaruḍasaṃvāde dānapha lānyadehapraveśādinirūpaṇaṃ nāmai katriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīdṛ dharmadṛpretadṛśrīkṛṣṇagaruḍasaṃvāde jantūtpattitadgadhātvādivibhāgabhuvanādivibhāgavarṇanaṃ nāma dvātriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pratakalpe śrīkṛṣṇagaruḍasaṃvāde yamalokavistṛtidṛvarṇanaṃ nāma trayastriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde aurdhvadehikādinirūpaṇaṃ nāma catustriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "tāmbūlaṃ dantakāṣṭhañca bhojanaṃ ṛtusevanam / grāmamadhye sthite prete varjayet piṇḍapātanam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīdṛ dhadṛpretakalpe śrīkṛṣṇagaruḍasaṃvāde sapiṇḍanaśavavidhyornirūpaṇaṃ nāma pañcatriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde 'naśanamṛta gatinirūpaṇaṃ nāma ṣaṭtriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe dvitīyāṃśe pretakalpe dharmakāṇḍe sodakumbhaśrāddhanirūpaṇaṃ nāma saptatriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde uttamalokagatyāgatimokṣamānuṣyahetunirūpaṇaṃ nāmāṣṭātriṃśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīdṛ dhadṛpretakalpe śrīkṛṣṇagaruḍasaṃvāde sūtakakālādinirūpaṇaṃ nāmai konacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde 'pamṛtyau sukhaduḥ khalābhālābhanirūpaṇaṃ nāma catvāriṃśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde vṛṣotsarganirūpaṇaṃ nāmai kacatvāriṃśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde bhūdānādinirūpaṇaṃ nāma dvicatvāriṃśatamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde śuddhinirūpaṇaṃ nāma tricatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśākhye dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde durmaraṇe kāryākāryakriyādinirūpaṇaṃ nāma catuścatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde pratyābdikādiśrāddhanirūpaṇaṃ nāma pañcacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe jīvasya śubhāśubhagatinirūpaṇaṃ nāma ṣaṭcatvāriṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpu- uttarakhaṇḍe dvitīdṛ dharmakādṛpretadṛśrīkṛṣṇagaruḍasaṃvāde karmavipākādinirūpaṇaṃ nāma saptacatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe pretakalpe śrīkṛṣṇagaruḍasaṃvāde manuṣyasya sukhaduḥ khaprāpakadharmādharmanirūpaṇaṃ nāmāṣṭacatvāriṃśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "apūjayaṃste munayastadānīmudākhāgbhirmuhureva sūtam / dhanyo 'si sūta tvamihetyudairayanvyasarjayaṃstaṃ ca nivartite 'dhvare //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe śrīkṛṣṇagaruḍasaṃvāde dvitīyāṃśe dharmakāṇḍe pretakalpe mokṣopāyanirūpaṇaṃ nāmaikonapañcāśattamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe dvitīyo dharmakāṇḍaḥ samāptaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaṇeśāyanamaḥ / śrīlakṣmīnṛsiṃhāya namaḥ / śrīdattātreyāya namaḥ / śrīvedavyāsāya namaḥ / śrīhayagrīvāya namaḥ / atha gāruḍe brahmakāṇḍastṛtīya ārabhyate / oṃ mallānāmaśanirnṛṇāṃ naravaraḥ strīṇāṃ smaro mūrtimān gopānāṃ svajano 'satāṃ kṣitibhṛtāṃ śāstā svapitroḥ śiśuḥ / mṛtyurbhojapatervidhātṛvihita stattvaṃ paraṃ yogināṃ vṛṣṇīnāṃ ca patiḥ sadaiva śuśubhe raṅge 'cyutaḥ sāgrajaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "namaskāro nānyathā vipravaryā ādhīyatāṃ hṛdi sarvai rahasyamam / ye vaiṣṇavā vaiṣṇa vadāsabhṛtyāḥ sarvepi te sarvadā viṣṇumeva //"
+        },
+        {
+          "ref": null,
+          "body": "tathaiva vai vāyupurāṇamāhustrīṇyeva cāhuḥ sāttvikānīti loke /"
+        },
+        {
+          "ref": null,
+          "body": "gāruḍākhyapurāṇe tu pratipādyo hariḥ smṛtaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe sūtaśaunakasaṃvāde uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe sāttvikādipurāṇavibhāganamyānamyadevavibhāgādiviṣayanirūpaṇaṃ nāma prathamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe kṛṣṇagaruḍasaṃvāde uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe brahmāviṣṇumaheśvarādidevatātāramyanirūpaṇaṃ nāma dvitīyo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe tṛtīyāṃśe brahmakāṇḍe bhagavadvīryasvarūpatadādhānadvārakaguṇatraya sṛṣṭijaḍeśabhedādinirūpaṇaṃ nāma tṛtīyo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe kṛṣṇa garuḍasaṃvāde tṛtīyāṃśe brahmakāṇḍe guṇavaiṣamyabhedabrahmadehasvarūpaguṇasāmyanirūpaṇaṃ nāma caturtho 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe tṛtīyāṃśe brahmakāṇḍe tattvābhimāni devatotpattitattāratamyanirūpaṇaṃ nāma pañcamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe śrīkṛṣṇagaruḍasaṃvāde uttara- tṛtīyāṃśe brahmakāṇḍe tattvābhimānitattaddevatākṛtaviṣṇustutitattaddevatātāratamyanirūpaṇaṃ nāma ṣaṣṭho 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe kṛṣṇagaruḍasaṃvāde devādistutitattattāratamyanirūpaṇaṃ nāma saptamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgā- ma- u- tṛ- dha- viṣṇustutirdevatāramyādi- aṣṭamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe tṛtī- utta- brahmakāṇḍe devakṛtaviṣṇustutidevatātāratamyanirūpaṇaṃ nāma navamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "jīvāḥ saṃti hyaneke ca pratikalpe sṛjanti te / dvātriṃśallakṣaṇaiḥ samyagyuktā vāyutvayogyakāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe śrīkṛṣṇagaruḍasaṃvāde dvitīyāṃśe dharmakāṇḍe pretakalpe brahmāṇḍādivaikṛtaikadeśaprākṛtasṛṣṭinirūpaṇaṃ nāma daśamo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe dvitīyāṃśe dharmakāṇḍe śrīkṛthṇagaruḍasaṃvāde 'jñānahetunirūpaṇaṃ nāmaikādaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe dvitīyāṃśe dharmakāṇḍe śrīkṛṣṇagaruḍasaṃvāde brahmastutivarṇanaṃ nāma dvādaśo 'dyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "ādau sasarja garuḍa puruṣātmā sa eva ca / tato dakṣiṇahastāttu brahmāṇīṃ bhārantī tathā //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe śrīkṛṣṇagaruḍasaṃvāde uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe devotpattinirūpaṇaṃ nāma trayodaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe vaiśvadevārthakasārāsāravastuviveko nāma caturdaśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe viṣṇoravatāranirūpaṇaṃ nāma pañcadaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe mahālakṣmyavatārādinirūpaṇaṃ nāma ṣoḍaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe bhāratyā viśiṣṭadeha saṃprāptyai kāraṇanirūpaṇaṃ nāma saptadaśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe rudrarodanahetvānanantānandatāratamyanirūpaṇaṃ nāmāṣṭādaśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe nīlāvivāhanirṇayo nāmaikonaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "svayaṃvare mitravindā rājñāṃ madhye tu bhāminī / mamāṃse vyasṛjanmālāṃ tāṃ gṛhītvā khageśvara / vidhūya nṛpatīnsarvānpurīṃ prāptāḥ khageśvara //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe bhadrākṛtabhagavatpatitvaprāpakatapaścaryādinirūpaṇaṃ nāma viṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe bhagavataḥ kālindyā vivāhe hetunirūpaṇaṃ nāmaikaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe lakṣmaṇāvivāhahetunirūpaṇaṃ nāma dvāviṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe veṅkaṭeśagiriyātrākramanirūpaṇaṃ nāma trayoviṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe śrīveṅkaṭeśagiryārohaṇakramatadbhaktatatparvatanāmādinirūpaṇaṃ nāma caturviśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe devī kṛtaveṅkaṭeśadarśanatatstutyādivarṇanaṃ nāma pañcaviṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "śrīgaruḍamahāpurāṇam-"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe vyaṅkaṭagirimāhātmye svāmipuṣkariṇyāditīrthatatratyadevatadīyaśālagrāmalakṣaṇa taddānādivarṇanaṃ nāma ṣaḍviṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe utta dṛ tṛ dṛ brahma dṛ kanyākṛtanānātīrthayātrādinirūpaṇaṃ nāma saptaviṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe tāratamyanirūpaṇadvārā viṣṇorevopāsyatvamityarthanirūpaṇaṃ nāmāṣṭāviṃśatamodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgāruḍe mahāpurāṇe uttarakhaṇḍe tṛtīyāṃśe brahmakāṇḍe kṛṣṇagaruḍasaṃvāde tattvarahasyaṃ nāmaikonatriṃśodhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "samāptamidaṃ garuḍamahāpurāṇam /"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīgaruḍamahāpurāṇaṃ samāptam /"
+        }
+      ]
+    },
+    {
+      "chapter_num": 58,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "58",
+          "body": "//) vinatāyāstu putrau dvau vikhyātau garuḍāruṇau / surasāyāḥ sahasraṃ tu sarpāṇāmamitaujasām //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 1,
+      "aku_count": 91,
+      "akus": [
+        {
+          "ref": "GarP_1,6.59",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,7.3",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,7.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,7.8",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,10.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,12.3",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,15.46",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,16.16",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,26.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,26.3",
+          "body": "//"
+        },
+        {
+          "ref": "1",
+          "body": "aiṃ hrīṃ śrīṃ akhaṇḍamaṇḍalākāramahāśūlamaṇḍalamāya namaḥ"
+        },
+        {
+          "ref": "GarP_1,26.4",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,28.1",
+          "body": "/ śaṅkhapadmanidhī caiva sāraṅgaḥ śarabhaḥ śriyā / pūrve bhadraḥ subhadro dvau dakṣe caṇḍapracaṇḍakau //"
+        },
+        {
+          "ref": "GarP_1,28.2",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,30.2",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,30.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,30.9",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,31.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,31.15",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,31.22",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,32.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,32.17",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,32.18",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,39.2",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,39.3",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,39.4",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,39.5",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,39.8",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,39.15",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,40.5",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,40.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,40.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,40.9",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,40.10",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,40.12",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,40.13",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,41.2",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,46.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,49.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,58.11",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,81.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,82.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,130.3",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,138.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,147.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,160.1",
+          "body": "/"
+        },
+        {
+          "ref": "GarP_1,168.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,170.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,178.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,178.10",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,180.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,184.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,188.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,194.29",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,198.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,202.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,214.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,214.16",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,214.29",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,215.2",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,215.3",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,215.4",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,215.5",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,215.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,215.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,216.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,216.2",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,217.3",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,217.4",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,217.11",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,217.12",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.9",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.12",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.14",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.18",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.23",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.24",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.25",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.27",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.28",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,218.32",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,219.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,219.5",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,219.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,219.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,220.2",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,220.3",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,220.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,220.8",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_1,222.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "10",
+          "body": "hariruvāca / r śyādipūjāṃ pravarśyāmi sthaṇḍilādiṣu siddhaye / śrīṃ hrīṃ mahālakṣmyai namaḥ / śrāṃ śrīṃ śrūṃ śraiṃ śrauṃ śraḥ kramāddhṛdayaṃ ca śiraḥ śikhām / kavacaṃ netramastraṃ ca āsanaṃ mūrtimarcayet //"
+        },
+        {
+          "ref": "10.28",
+          "body": "aṣṭāviṃśallakṣaṇaiśca girīśapadayoginaḥ / caturviṃśatimārabhyāṣoḍaśācca surāḥ smṛtāḥ //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 26,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "26",
+          "body": "sūta uvāca / anantaraṃ karanyāsaḥ / vidyākarī śuddhiḥ kāryā / padmamudrāṃ baddhvā mantranyāsaṃ kuryāt / kaiṃ kaniṣṭhāyai namaḥ / naiṃ anāmikāyai namaḥ / maiṃ madhyamāyai namaḥ / taiṃ tarjanyai namaḥ / aṃ aṅguṣṭhāyai namaḥ / lāṃ karatalāyai namaḥ / vāṃ karapṛṣṭhāyai namaḥ //"
+        },
+        {
+          "ref": "26",
+          "body": "kanyovāca / śrīnivāsaḥ kimarthaṃ vai āgatotra vadasva me / śeṣācalopi kutrā bhūtkadāyātaśca pāpahā / svāmipuṣkariṇī cātra kimarthaṃ hyagatā vada //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "aku_count": 9,
+      "akus": [
+        {
+          "ref": "2",
+          "body": "aiṃ hrīṃ śrīṃ vāyumaṇḍalāya namaḥ /"
+        },
+        {
+          "ref": "GarP_2,24.6",
+          "body": "// ) sarvametadaśaṣeṇa jāyate vasudhātale / kasmānmṛtyumavāpnoti rājā vā śrotriyo 'pi vā //"
+        },
+        {
+          "ref": "GarP_2,24.7",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_2,27.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_2,33.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_2,35.42",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_2,35.43",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_2,35.44",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_2,49.131",
+          "body": "//purāṇaṃ gāruḍaṃ puṇyaṃ pavitraṃ pāpanāśanam //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "aku_count": 12,
+      "akus": [
+        {
+          "ref": "3",
+          "body": "aiṃ hrīṃ śrīṃ somamaṇḍalāya namaḥ /"
+        },
+        {
+          "ref": "GarP_3,1.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,1.36",
+          "body": "/ namanti ye vai pratipādayanti tathaiva puṇyāni ca sāttvikāni / namanti ye vāsudevaṃ hariṃ ca samyak svaśaktyā pratipādayanti //"
+        },
+        {
+          "ref": "GarP_3,1.37",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,7.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,10.29",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,10.29",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,11.1",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,13.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,13.6",
+          "body": "//"
+        },
+        {
+          "ref": "GarP_3,20.50",
+          "body": "// //"
+        },
+        {
+          "ref": "GarP_3,26.1",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "4",
+          "body": "aiṃ hrīṃ śrīṃ mahākulabodhāvalimaṇḍalāya namaḥ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "5",
+          "body": "aiṃ hrīṃ śrīṃ mahākaulamaṇḍalāya namaḥ /"
+        }
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "6",
+          "body": "aiṃ hrīṃ śrīṃ gurumaṇḍalāya namaḥ"
+        }
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "7",
+          "body": "aiṃ hrīṃ śrīṃ sāmamaṇḍalāya namaḥ(8) aiṃ hrīṃ śrīṃ samagra (9)siddha (10)yogīnīpīṭhāpapīṭha"
+        },
+        {
+          "ref": "7",
+          "body": "śrīkṛṣṇa uvāca / pārvatyānantarotpanna indro vacanamabravīt / indra uvāca / tava svarūpaṃ hṛdi saṃvijānan samutsukaḥ syātstavane yastu mūḍhaḥ / ajānataḥ stavanaṃ devadeva tadevāhurhelanaṃ cakrapāṇe //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 11,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "11",
+          "body": "kṣetrepakṣetramahāsantānamaṇḍalāya namaḥ / evaṃ maṇḍalānāṃ dvādaśakaṃ krameṇa pūjyam //"
+        },
+        {
+          "ref": "11",
+          "body": "śrīkṛṣṇa uvāca / puruṣākhyo hariḥ sākṣādbhagavānpuruṣottamaḥ / śiśyetvaṇḍodaka viṣṇurnṛṇāṃ sāhasravatsaram / lakṣmīścodakarūpeṇa śayyārūpeṇa bhoṇḍajā //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 28,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "28",
+          "body": "sūta uvāca / gopālapūjāṃ vakṣyāmi bhuktimuktipradāyinīm / dvāre dhātā vidhātā ca gaṅgāyamunayā saha //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 49,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "49",
+          "body": "iti pratiṣṭhāprakaraṇaṃ samāptam / brahmovāca / sargādikṛddhariścaiva pūjyaḥ svāyambhuvādibhiḥ / viprādyaiḥ svena dharmeṇa taddharmaṃ vyāsa ! vai śṛṇu //"
+        },
+        {
+          "ref": "49",
+          "body": "garuḍa uvāca / śrutā mayā dayāsindho hyajñānājjīvasaṃsṛtiḥ /"
+        }
+      ]
+    },
+    {
+      "chapter_num": 59,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "59",
+          "body": "(atha_jyotiḥ_śāstram)"
+        }
+      ]
+    },
+    {
+      "chapter_num": 63,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "63",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 81,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "81",
+          "body": "(iti_ratnamuktādi_parīkṣā_samāptā_) / (atha_tīrthakṣetramāhātmyamārabhyate_) / sūta uvāca / sarvatīrthāni vakṣyāmi gaṅgā tīrthottamottamā / sarvatra sulabhā gaṅgātriṣu sthāneṣu durlabhā //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 82,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "82",
+          "body": "śrīgaṇeśāya namaḥ / (atha_gayāmāhātmyaṃ_prārabhyate) / brahmovāca / sārātsārataraṃ vyāsa gayābhāhātmya muttamam / pravakṣyāmi samāsena buktimuktipradaṃ śṛṇu //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 138,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "138",
+          "body": "(iti_vratāni_samāptāni) / hariruvāca / rājñāṃ vaṃśānpravakṣyāmi vaṃśānucaritāni ca / viṣṇunābhyabjato brahmā dakṣo 'ṅguṣṭhācca tasya vai //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 147,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "147",
+          "body": "dhanvantariruvāca / vakṣye jvaranidānaṃ hi sarvajvaravibuddhaye / jvaro rogapatiḥ pāpmā mṛtyurājo 'śano 'ntakaḥ / kruddhadakṣādhvaradhvaṃsirudrordhvanayanodbhavaḥ //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 160,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "160",
+          "body": "dhanvantariruvāca / nidānaṃ vidradhervakṣye gulmasya śṛṇu śuśruta ! / bhuktaiḥ paryuṣitātyuṣṇaśuṣkarūkṣavidāhibhiḥ //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 168,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "168",
+          "body": "nidānaṃ samāptam / dhanvantariruvāca / sarvarogaharaṃ siddhaṃ yogasāraṃ vadāmyaham / śṛṇu suśrutaṃ saṃkṣepātprāṇināṃ jīvahetave //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 170,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "170",
+          "body": "dhanvantariruvāca / jvaro 'ṣṭadhā pṛthagdvandvasaṃghātāgantujaḥ smṛtaḥ / mustaparpaṭakośīracandanodīcyanāgaraiḥ / śṛtaśītaṃ jalaṃ dadyātpipāsājvaraśāntaye //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 178,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "178",
+          "body": "hariruvāca / brahmadaṇḍīvacākuṣṭhaṃ priyaṅgarnāgakeśaram / dadyāttāmbūlasaṃyuktaṃ strīṇāṃ mantreṇa tadvaśam / oṃ nārāyaṇyai svāhā //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 180,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "180",
+          "body": "hariruvāca / vacā māṃsī ca bilvañca tagaraṃ padmakesaram / nāgapuṣpaṃ priyaṅguñca samabhāgāni cūrṇayet / anena dhūpito martyaḥ kāmavadvicarenmahīm //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 184,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "184",
+          "body": "hariruvāca / rajanīkadalīkṣāralepaḥ sidhmavināśanaḥ / kuṣṭhasya bhāgamekantu pathyābhāgadvayaṃ tathā / uṣṇodakena saṃpīya kaṭiśūlavināśanam //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 188,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "188",
+          "body": "hariruvāca / nirvraṇaḥ syātpūyaṃhīno prahāro ghṛpūritaḥ / apāmārgasya vai mūlaṃ hastābhyāñca vimarditam / tadrasena prahārasya raktastrāvo na pūraṇāt //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 198,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "198",
+          "body": "bhairava uvāca / nityaklinnāmatho vakṣye tripurāṃ bhuktimuktidām / oṃ hrīṃ āgaccha devi aiṃ hrīṃ hrīṃ rekhākāraṇam / oṃ hrīṃ kledinī bhaṃ namaḥ madanakṣobhiṇā tathā / ai yaṃ yaṃ krīṃ vā guṇarekhayā hrīṃ madanāntare ca / aiṃ hrīṃ hrīṃ ca nirañjanā vāgati madanāntarekhe khanetrāvalīti ca / vegavati mahāpretāsanāya ca pūjayet / oṃ hrīṃ kraiṃ naiṃ kraiṃ nityaṃ madadrave krīṃ namaḥ / aiṃ hrīṃ tripurāyai namaḥ / oṃ hrīṃ krīṃ paścimavaktraṃ oṃ aiṃ hrīṃ hrīṃ ca tathottaram / aiṃ hrīṃ dakṣiṇamūrdhvaṃvaktraṃ tu paścimam / oṃ hrīṃ pāśāya krīṃ aṅkuśāya aiṃ kapālāya namaḥ / ādyaṃ bhayaṃ aiṃ hrīṃ ca tathā śiraḥ tathā śikhāyai kavace / aiṃ hrīṃ krīṃ astrāyaphaṭ //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 202,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "202",
+          "body": "hariruvāca / ekaṃ punarnavāmūlamapāmārgasya vā śiva / sarasaṃ yoniniḥ kṣiptaṃ varāṅgasya vyathāṃ haret / prasūtivedanāñcaiva taruṇīnāṃ vyathāṃ haret //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 216,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "216",
+          "body": "brahmovāca / vaiśvadevaṃ pravakṣyāmi homalakṣaṇamuttamam / prajvālya cāgniṃ paryukṣya-oṃ kraṣyādamagniṃ prahiṇomi dūraṃ yamarājyaṃ gacchatu ripravāhaḥ / ihaivāyamitaro jātavedā devebhyo havyaṃ vahatu prajānat / oṃ pāvaka vaiśvānara idamāsanaṃ araṇīgarbhasaṃskṛtatejorūpa mahābrahman muhūrtāstriṣu vaiśvānaraṃ pratibodhayāmi / oṃ vaiśvānare na ubhayaṃ āprayātu parāvataḥ agnirna svadyutīrūpapṛṣṭho divi pṛṣṭho 'śvi pṛthivyāṃ pṛṣṭhā vivevā oṣadhīcāviveśa vaiśvānaraḥ sahasā pṛṣṭho 'gniḥ namo divya sa ṣaṣṭhāṃ naktam //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 219,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "219",
+          "body": "brahmovāca / nityaśrāddhaṃ pravakṣyāmi pūrvavattadviśeṣavat / oṃ amukagotrāṇāmasmatpitṛpitāmahānāṃ amukaśarmaṇāṃ sapatnīkānāṃ śrāddhaṃ siddhānnena yuṣmāsvahaṃ kariṣye / āsanādikamatra syādviśvedevāvivarjitam //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 222,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "222",
+          "body": "brahmovāca / prāyaścittādi vakṣye 'haṃ narakaughavimardanam / makṣikā vipruṣo nārī bhuvi toyaṃ hutāśanaḥ / mārjāro nakulaścaiva śucīnyetāni nityaśaḥ //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 27,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "27",
+          "body": "tārkṣya uvāca / kathaṃ pretā vasantyatra kīdṛgrūpā bhavanti te / mahāpretāḥ piśācāśca kaiḥkaiḥ karmaphalairvibho / sarveṣāmanukampārthaṃ brūhi me madhusūdana //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 33,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "33",
+          "body": "garuḍa uvāca / utpattilakṣaṇaṃ jantoḥ kathitaṃ mayi puttrake / yamalokaḥ kiyanmātrastrailokye sacarācare / vistaraṃ tasya me brūhi adhvā caiva kiyān smṛtaḥ //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 35,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "35.44",
+          "body": "snānaṃ dānaṃ japo homastarpaṇaṃ surapūjanam / grāmamadhye sthite prete śuddhyarthaṃ jñātidharmataḥ //"
+        },
+        {
+          "ref": "35.45",
+          "body": "jñātisambandhināmevaṃ vyavahāraḥ khageśvara / vilupya jñātidharmañca pretapāpena lipyate //"
+        },
+        {
+          "ref": "35.46",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 13,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "13.5",
+          "body": "asṛjatte mahābhāge avyaktasya niyāmike / vāmahastātsatyaputro mahattatvātmako 'nalaḥ //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 51,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "51",
+          "body": "//"
+        }
+      ]
+    }
+  ]
+}

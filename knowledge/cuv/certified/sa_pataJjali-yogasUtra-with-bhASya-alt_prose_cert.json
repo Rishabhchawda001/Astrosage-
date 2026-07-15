@@ -1,0 +1,46 @@
+{
+  "file": "sa_pataJjali-yogasUtra-with-bhASya-alt_prose.json",
+  "title": "Yogasūtra with Bhāṣya",
+  "status": "needs_work",
+  "total_akus": 1512,
+  "certified_akus": 0,
+  "issues": [],
+  "class_distribution": {
+    "prose": 797,
+    "sutra": 520,
+    "metadata": 81,
+    "commentary": 91,
+    "critical_apparatus": 10,
+    "heading": 12,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1512,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "..anekeṣām",
+          "start": "bahūnām..c"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "..anekeṣām",
+      "start": "bahūnām..c"
+    }
+  ]
+}

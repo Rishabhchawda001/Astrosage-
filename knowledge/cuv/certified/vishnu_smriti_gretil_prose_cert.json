@@ -1,0 +1,27 @@
+{
+  "file": "vishnu_smriti_gretil_prose.json",
+  "title": "Viṣṇusmṛti",
+  "status": "certified",
+  "total_akus": 4748,
+  "certified_akus": 4748,
+  "issues": [],
+  "class_distribution": {
+    "verse": 4492,
+    "translation": 220,
+    "metadata": 9,
+    "heading": 2,
+    "commentary": 17,
+    "mantra": 8
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 4748,
+      "certified": 4748,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}

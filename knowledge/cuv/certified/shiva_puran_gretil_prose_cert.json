@@ -1,0 +1,6292 @@
+{
+  "file": "shiva_puran_gretil_prose.json",
+  "title": "Śivapurāṇa, Books 1 and 7",
+  "status": "needs_work",
+  "total_akus": 7194,
+  "certified_akus": 3496,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 166,
+    "verse": 3303,
+    "mantra": 29,
+    "colophon": 102,
+    "prose": 3061,
+    "translation": 98,
+    "unknown": 24,
+    "empty": 328,
+    "commentary": 76,
+    "heading": 7
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 255,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "chinnaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'dhyāyaḥ",
+          "start": "vāyavīyasa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "jīvairebhi"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "vāyuruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "munaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "vidadhāti"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "brahmovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "vāyuruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "brahmovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "dakṣa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "vīrabhadra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "brahmovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "tasya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "devyuvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "vāyuruvācv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "tattvānyet"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "vāyuruvāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "śakra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "upamanyuru"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "yāvatpaśur"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "pāpairna"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "viliṃpaṃte",
+          "start": "upamanyuru"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "tasmānmaṃt"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "aṃtarbahiḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "tadādhārāṇ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "mahādevāśr"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "vāśritānāṃ",
+          "start": "śivayorājñ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "brahmovāca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "prāṇasya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "bhānuvarṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "sadya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "Chapter",
+          "start": "vyāsa"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 3053,
+      "certified": 51,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,1.38cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,2.67cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,3.27cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,4.23cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,5.31ef"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,6.28ef"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,7.33cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,8.21cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,9.46cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,10.39cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,11.69cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,12.43ef"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,13.85cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,14.46cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,15.61cd"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,16.117cd",
+          "end": "'dhyāyaḥ",
+          "start": "śivabhakta"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,17.153ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,18.162cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,19.37cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,20.66cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,21.56cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,22.36cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,23.45cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,24.116cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,25.44ab"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "aṃnamaḥ",
+          "start": "rudrākṣānd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "ŚivP_1,25.95cd"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "rathamārṣī",
+          "start": "prathamānt"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "padamārṣam",
+          "start": "nalopa"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1ityanusmaran",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "padamārṣam",
+          "start": "padmapatra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "padamārṣam",
+          "start": "nāśayuktān"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "nityarthaḥ",
+          "start": "tatkāyaśod"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "mahattaram",
+          "start": "klībatvamā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "atvamārṣam",
+          "start": "sarvāṇi"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "aṃgacchate",
+          "start": "adantatvam"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1",
+          "body": "//"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "mityarthaḥ",
+          "start": "bhūmiṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "1",
+          "end": "āṭhāntaram",
+          "start": "udyogaṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 18,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "canamārṣam",
+          "start": "vividhairb"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "padamārṣam",
+          "start": "ṛṣaya"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "//"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "bhāvaḥ",
+          "start": "kuṃkumādir"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 5,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3",
+          "end": "ṃhrīṃnamaḥ",
+          "start": "brahamovāc"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 5,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 4,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "6",
+          "end": "aṃhuṃnamaḥ",
+          "start": "munaya"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 3565,
+      "certified": 3355,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7",
+          "from": 76,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7",
+          "from": 22,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,8.32ab",
+          "from": 831,
+          "to": 32
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "7",
+          "end": "aṃhuṃnamaḥ",
+          "start": "pradhānapu"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,1.19cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,1.42ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,2.31cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,3.6cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,3.27cd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,4.1cd",
+          "end": "maharṣiṇām",
+          "start": "viśvaṃ"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,4.4cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,4.24cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,5.20ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,5.39cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,5.60cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,5.64cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,6.14cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,6.34cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,6.76cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,7.21cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,8.31cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,9.3cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,10.20cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,10.42cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,11.13cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,12.18ab"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,12.57ab",
+          "end": "jātayaḥ",
+          "start": "auṣadhyaḥ"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,12.59cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,13.3ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,13.25ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,14.21ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,15.21ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,16.7cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,16.28cd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,17.8cd",
+          "end": "okamātaraḥ",
+          "start": "catasro"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,17.19ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,18.15cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,18.60cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,19.18ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,19.39cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,19.62ab"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,19.67cd",
+          "end": "'dhyāyaḥ",
+          "start": "dadarśa"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,20.14cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,20.36ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,21.11cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,22.58ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,23.4cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,23.26ab"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,23.42ab",
+          "end": "bhairiti",
+          "start": "tathoktvā"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,23.45ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,23.56cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,24.7cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,24.51ab"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,24.58cd",
+          "end": "'dhyāyaḥ",
+          "start": "niyamya"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,25.12cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,25.33cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,25.48cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,26.5cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,26.25ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,27.16cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,27.37cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,28.20cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,29.21ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,30.4cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,31.37ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,31.99ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,32.20ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,33.6ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,33.47cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,34.13ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,34.33cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,34.53cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,35.14ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,35.33cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,35.55cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.1,35.65cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,1.21ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,2.14cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,2.57ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,3.18ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,4.5ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,5.21ab"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,5.37cd",
+          "end": "'dhyāyaḥ",
+          "start": "prākṛto"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,6.22cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,7.11cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,8.12cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,8.34ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,9.3ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,10.18cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,11.9cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,11.30cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,11.53ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,12.16cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,13.19cd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,13.60cd",
+          "end": "'dhyāyaḥ",
+          "start": "ājñārthaṃ"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,14.2cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,14.77cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,15.9ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,16.18cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,17.3cd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,18.15cd",
+          "end": "saṃgamalaṃ",
+          "start": "kṛtvaivame"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,18.20ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,19.19ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,20.13ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,21.3ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,22.1cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,23.3ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,24.22cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,24.42cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,25.13ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,25.53cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,26.9cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,27.13cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,28.2ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,29.10ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,30.12ef"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,31.18cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,31.82ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,31.166cd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,32.12cd",
+          "end": "śakṛtā",
+          "start": "vilikhetka"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,32.17cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,33.16cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,34.18ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,35.18ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,35.83cd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,36.4cd",
+          "end": "kāṃcanayā",
+          "start": "lakṣitaṃ"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,36.17ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,37.10ab"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,37.52cd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,37.67cd",
+          "end": "'dhyāyaḥ",
+          "start": "anavasthit"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,38.5ab"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,38.68ab",
+          "end": "etasya",
+          "start": "vidhūmāṃgā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,38.78ab",
+          "end": "'dhyāyaḥ",
+          "start": "prasidhyaṃ"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,39.11cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,39.51cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,40.10cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,41.4cd"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 7,
+          "aku_ref": "ŚivP_7.2,41.46cd"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "total": 5,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 8,
+          "aku_ref": "8",
+          "end": "īṃhuṃnamaḥ",
+          "start": "ṛṣaya"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 4,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "10",
+          "end": "īṃhuṃnamaḥ",
+          "start": "vāyuruvāca"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 12,
+      "total": 4,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "12",
+          "end": "ṃhrīṃnamaḥ",
+          "start": "vāyuruvāca"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "total": 4,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "13",
+          "end": "aṃnama",
+          "start": "ṛṣaya"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 15,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 16,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 106,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 17,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 78,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 88,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 18,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 19,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 20,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 21,
+      "total": 5,
+      "certified": 5,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 34,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 46,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 22,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 23,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 24,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 502,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 502,
+          "aku_ref": "502a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 502,
+          "aku_ref": "502b"
+        }
+      ]
+    },
+    {
+      "chapter": 504,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 504,
+          "aku_ref": "504a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 504,
+          "aku_ref": "504b"
+        }
+      ]
+    },
+    {
+      "chapter": 505,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 505,
+          "aku_ref": "505a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 505,
+          "aku_ref": "505b"
+        }
+      ]
+    },
+    {
+      "chapter": 506,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 506,
+          "aku_ref": "506a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 506,
+          "aku_ref": "506b"
+        }
+      ]
+    },
+    {
+      "chapter": 507,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 507,
+          "aku_ref": "507a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 507,
+          "aku_ref": "507b"
+        }
+      ]
+    },
+    {
+      "chapter": 508,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 508,
+          "aku_ref": "508a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 508,
+          "aku_ref": "508b"
+        }
+      ]
+    },
+    {
+      "chapter": 509,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 509,
+          "aku_ref": "509b"
+        }
+      ]
+    },
+    {
+      "chapter": 510,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 510,
+          "aku_ref": "510a"
+        }
+      ]
+    },
+    {
+      "chapter": 511,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 511,
+          "aku_ref": "511a"
+        }
+      ]
+    },
+    {
+      "chapter": 512,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 512,
+          "aku_ref": "512b"
+        }
+      ]
+    },
+    {
+      "chapter": 513,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 513,
+          "aku_ref": "513a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 513,
+          "aku_ref": "513b"
+        }
+      ]
+    },
+    {
+      "chapter": 514,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 514,
+          "aku_ref": "514a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 514,
+          "aku_ref": "514b"
+        }
+      ]
+    },
+    {
+      "chapter": 515,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 515,
+          "aku_ref": "515a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 515,
+          "aku_ref": "515b"
+        }
+      ]
+    },
+    {
+      "chapter": 516,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 516,
+          "aku_ref": "516a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 516,
+          "aku_ref": "516b"
+        }
+      ]
+    },
+    {
+      "chapter": 517,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 517,
+          "aku_ref": "517a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 517,
+          "aku_ref": "517b"
+        }
+      ]
+    },
+    {
+      "chapter": 518,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 518,
+          "aku_ref": "518a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 518,
+          "aku_ref": "518b"
+        }
+      ]
+    },
+    {
+      "chapter": 519,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 519,
+          "aku_ref": "519a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 519,
+          "aku_ref": "519b"
+        }
+      ]
+    },
+    {
+      "chapter": 520,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 520,
+          "aku_ref": "520a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 520,
+          "aku_ref": "520b"
+        }
+      ]
+    },
+    {
+      "chapter": 521,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 521,
+          "aku_ref": "521a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 521,
+          "aku_ref": "521b"
+        }
+      ]
+    },
+    {
+      "chapter": 522,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 522,
+          "aku_ref": "522a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 522,
+          "aku_ref": "522b"
+        }
+      ]
+    },
+    {
+      "chapter": 523,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 523,
+          "aku_ref": "523a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 523,
+          "aku_ref": "523b"
+        }
+      ]
+    },
+    {
+      "chapter": 524,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 524,
+          "aku_ref": "524a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 524,
+          "aku_ref": "524b"
+        }
+      ]
+    },
+    {
+      "chapter": 525,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 525,
+          "aku_ref": "525a"
+        }
+      ]
+    },
+    {
+      "chapter": 526,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 526,
+          "aku_ref": "526b"
+        }
+      ]
+    },
+    {
+      "chapter": 527,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 527,
+          "aku_ref": "527a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 527,
+          "aku_ref": "527b"
+        }
+      ]
+    },
+    {
+      "chapter": 528,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 528,
+          "aku_ref": "528a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 528,
+          "aku_ref": "528b"
+        }
+      ]
+    },
+    {
+      "chapter": 529,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 529,
+          "aku_ref": "529a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 529,
+          "aku_ref": "529b"
+        }
+      ]
+    },
+    {
+      "chapter": 530,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 530,
+          "aku_ref": "530a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 530,
+          "aku_ref": "530b"
+        }
+      ]
+    },
+    {
+      "chapter": 531,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 531,
+          "aku_ref": "531a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 531,
+          "aku_ref": "531b"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 532,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 532,
+          "aku_ref": "532a"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 533,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 533,
+          "aku_ref": "533a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 533,
+          "aku_ref": "533b"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 534,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 534,
+          "aku_ref": "534a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 534,
+          "aku_ref": "534b"
+        }
+      ]
+    },
+    {
+      "chapter": 535,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 535,
+          "aku_ref": "535a"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 536,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 536,
+          "aku_ref": "536a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 536,
+          "aku_ref": "536b"
+        }
+      ]
+    },
+    {
+      "chapter": 537,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 537,
+          "aku_ref": "537a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 537,
+          "aku_ref": "537b"
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 538,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 538,
+          "aku_ref": "538a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 538,
+          "aku_ref": "538b"
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 539,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 539,
+          "aku_ref": "539a"
+        }
+      ]
+    },
+    {
+      "chapter": 540,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 540,
+          "aku_ref": "540a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 540,
+          "aku_ref": "540b"
+        }
+      ]
+    },
+    {
+      "chapter": 541,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 541,
+          "aku_ref": "541a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 541,
+          "aku_ref": "541b"
+        }
+      ]
+    },
+    {
+      "chapter": 542,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 542,
+          "aku_ref": "542a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 542,
+          "aku_ref": "542b"
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 543,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 543,
+          "aku_ref": "543a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 543,
+          "aku_ref": "543b"
+        }
+      ]
+    },
+    {
+      "chapter": 544,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 544,
+          "aku_ref": "544a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 544,
+          "aku_ref": "544b"
+        }
+      ]
+    },
+    {
+      "chapter": 545,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 545,
+          "aku_ref": "545a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 545,
+          "aku_ref": "545b"
+        }
+      ]
+    },
+    {
+      "chapter": 546,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 546,
+          "aku_ref": "546a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 546,
+          "aku_ref": "546b"
+        }
+      ]
+    },
+    {
+      "chapter": 547,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 547,
+          "aku_ref": "547a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 547,
+          "aku_ref": "547b"
+        }
+      ]
+    },
+    {
+      "chapter": 548,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 548,
+          "aku_ref": "548a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 548,
+          "aku_ref": "548b"
+        }
+      ]
+    },
+    {
+      "chapter": 549,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 549,
+          "aku_ref": "549a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 549,
+          "aku_ref": "549b"
+        }
+      ]
+    },
+    {
+      "chapter": 550,
+      "total": 2,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 550,
+          "aku_ref": "550a"
+        }
+      ]
+    },
+    {
+      "chapter": 551,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 551,
+          "aku_ref": "551a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 551,
+          "aku_ref": "551b"
+        }
+      ]
+    },
+    {
+      "chapter": 552,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 552,
+          "aku_ref": "552a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 552,
+          "aku_ref": "552b"
+        }
+      ]
+    },
+    {
+      "chapter": 553,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 553,
+          "aku_ref": "553b"
+        }
+      ]
+    },
+    {
+      "chapter": 554,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 554,
+          "aku_ref": "554a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 554,
+          "aku_ref": "554b"
+        }
+      ]
+    },
+    {
+      "chapter": 555,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 555,
+          "aku_ref": "555a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 555,
+          "aku_ref": "555b"
+        }
+      ]
+    },
+    {
+      "chapter": 556,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 556,
+          "aku_ref": "556a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 556,
+          "aku_ref": "556b"
+        }
+      ]
+    },
+    {
+      "chapter": 557,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 557,
+          "aku_ref": "557a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 557,
+          "aku_ref": "557b"
+        }
+      ]
+    },
+    {
+      "chapter": 558,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 558,
+          "aku_ref": "558b"
+        }
+      ]
+    },
+    {
+      "chapter": 559,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 559,
+          "aku_ref": "559b"
+        }
+      ]
+    },
+    {
+      "chapter": 560,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 560,
+          "aku_ref": "560a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 560,
+          "aku_ref": "560b"
+        }
+      ]
+    },
+    {
+      "chapter": 561,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 561,
+          "aku_ref": "561a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 561,
+          "aku_ref": "561b"
+        }
+      ]
+    },
+    {
+      "chapter": 562,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 562,
+          "aku_ref": "562a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 562,
+          "aku_ref": "562b"
+        }
+      ]
+    },
+    {
+      "chapter": 563,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 563,
+          "aku_ref": "563a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 563,
+          "aku_ref": "563b"
+        }
+      ]
+    },
+    {
+      "chapter": 564,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 564,
+          "aku_ref": "564a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 564,
+          "aku_ref": "564b"
+        }
+      ]
+    },
+    {
+      "chapter": 565,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 565,
+          "aku_ref": "565a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 565,
+          "aku_ref": "565b"
+        }
+      ]
+    },
+    {
+      "chapter": 566,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 566,
+          "aku_ref": "566a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 566,
+          "aku_ref": "566b"
+        }
+      ]
+    },
+    {
+      "chapter": 567,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 567,
+          "aku_ref": "567a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 567,
+          "aku_ref": "567b"
+        }
+      ]
+    },
+    {
+      "chapter": 568,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 568,
+          "aku_ref": "568a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 568,
+          "aku_ref": "568b"
+        }
+      ]
+    },
+    {
+      "chapter": 569,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 569,
+          "aku_ref": "569a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 569,
+          "aku_ref": "569b"
+        }
+      ]
+    },
+    {
+      "chapter": 570,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 570,
+          "aku_ref": "570a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 570,
+          "aku_ref": "570b"
+        }
+      ]
+    },
+    {
+      "chapter": 571,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 571,
+          "aku_ref": "571a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 571,
+          "aku_ref": "571b"
+        }
+      ]
+    },
+    {
+      "chapter": 572,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 572,
+          "aku_ref": "572a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 572,
+          "aku_ref": "572b"
+        }
+      ]
+    },
+    {
+      "chapter": 573,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 573,
+          "aku_ref": "573a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 573,
+          "aku_ref": "573b"
+        }
+      ]
+    },
+    {
+      "chapter": 574,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 574,
+          "aku_ref": "574a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 574,
+          "aku_ref": "574b"
+        }
+      ]
+    },
+    {
+      "chapter": 575,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 575,
+          "aku_ref": "575a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 575,
+          "aku_ref": "575b"
+        }
+      ]
+    },
+    {
+      "chapter": 576,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 576,
+          "aku_ref": "576a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 576,
+          "aku_ref": "576b"
+        }
+      ]
+    },
+    {
+      "chapter": 577,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 577,
+          "aku_ref": "577a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 577,
+          "aku_ref": "577b"
+        }
+      ]
+    },
+    {
+      "chapter": 578,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 578,
+          "aku_ref": "578a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 578,
+          "aku_ref": "578b"
+        }
+      ]
+    },
+    {
+      "chapter": 579,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 579,
+          "aku_ref": "579a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 579,
+          "aku_ref": "579b"
+        }
+      ]
+    },
+    {
+      "chapter": 580,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 580,
+          "aku_ref": "580a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 580,
+          "aku_ref": "580b"
+        }
+      ]
+    },
+    {
+      "chapter": 581,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 581,
+          "aku_ref": "581a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 581,
+          "aku_ref": "581b"
+        }
+      ]
+    },
+    {
+      "chapter": 582,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 582,
+          "aku_ref": "582a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 582,
+          "aku_ref": "582b"
+        }
+      ]
+    },
+    {
+      "chapter": 583,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 583,
+          "aku_ref": "583a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 583,
+          "aku_ref": "583b"
+        }
+      ]
+    },
+    {
+      "chapter": 584,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 584,
+          "aku_ref": "584a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 584,
+          "aku_ref": "584b"
+        }
+      ]
+    },
+    {
+      "chapter": 585,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 585,
+          "aku_ref": "585a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 585,
+          "aku_ref": "585b"
+        }
+      ]
+    },
+    {
+      "chapter": 586,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 586,
+          "aku_ref": "586a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 586,
+          "aku_ref": "586b"
+        }
+      ]
+    },
+    {
+      "chapter": 587,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 587,
+          "aku_ref": "587a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 587,
+          "aku_ref": "587b"
+        }
+      ]
+    },
+    {
+      "chapter": 588,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 588,
+          "aku_ref": "588a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 588,
+          "aku_ref": "588b"
+        }
+      ]
+    },
+    {
+      "chapter": 589,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 589,
+          "aku_ref": "589a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 589,
+          "aku_ref": "589b"
+        }
+      ]
+    },
+    {
+      "chapter": 590,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 590,
+          "aku_ref": "590a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 590,
+          "aku_ref": "590b"
+        }
+      ]
+    },
+    {
+      "chapter": 591,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 591,
+          "aku_ref": "591a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 591,
+          "aku_ref": "591b"
+        }
+      ]
+    },
+    {
+      "chapter": 592,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 592,
+          "aku_ref": "592a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 592,
+          "aku_ref": "592b"
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 593,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 593,
+          "aku_ref": "593a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 593,
+          "aku_ref": "593b"
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 594,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 594,
+          "aku_ref": "594a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 594,
+          "aku_ref": "594b"
+        }
+      ]
+    },
+    {
+      "chapter": 595,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 595,
+          "aku_ref": "595b"
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 596,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 596,
+          "aku_ref": "596a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 596,
+          "aku_ref": "596b"
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 597,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 597,
+          "aku_ref": "597b"
+        }
+      ]
+    },
+    {
+      "chapter": 598,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 598,
+          "aku_ref": "598a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 598,
+          "aku_ref": "598b"
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 599,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 599,
+          "aku_ref": "599a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 599,
+          "aku_ref": "599b"
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 600,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 600,
+          "aku_ref": "600a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 600,
+          "aku_ref": "600b"
+        }
+      ]
+    },
+    {
+      "chapter": 601,
+      "total": 2,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 601,
+          "aku_ref": "601a"
+        },
+        {
+          "type": "empty_aku",
+          "severity": "low",
+          "chapter": 601,
+          "aku_ref": "601b"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7",
+      "from": 76,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7",
+      "from": 22,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,8.32ab",
+      "from": 831,
+      "to": 32
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "chinnaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'dhyāyaḥ",
+      "start": "vāyavīyasa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "jīvairebhi"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "vāyuruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "munaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "vidadhāti"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "brahmovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "vāyuruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "brahmovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "dakṣa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "vīrabhadra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "brahmovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "tasya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "devyuvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "vāyuruvācv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "tattvānyet"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "vāyuruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "śakra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "upamanyuru"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "yāvatpaśur"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "pāpairna"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "viliṃpaṃte",
+      "start": "upamanyuru"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "tasmānmaṃt"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "aṃtarbahiḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "tadādhārāṇ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "mahādevāśr"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "vāśritānāṃ",
+      "start": "śivayorājñ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "brahmovāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "prāṇasya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "bhānuvarṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "sadya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "Chapter",
+      "start": "vyāsa"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,1.38cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,2.67cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,3.27cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,4.23cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,5.31ef"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,6.28ef"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,7.33cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,8.21cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,9.46cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,10.39cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,11.69cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,12.43ef"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,13.85cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,14.46cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,15.61cd"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,16.117cd",
+      "end": "'dhyāyaḥ",
+      "start": "śivabhakta"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,17.153ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,18.162cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,19.37cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,20.66cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,21.56cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,22.36cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,23.45cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,24.116cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,25.44ab"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "aṃnamaḥ",
+      "start": "rudrākṣānd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "ŚivP_1,25.95cd"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "rathamārṣī",
+      "start": "prathamānt"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "padamārṣam",
+      "start": "nalopa"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1ityanusmaran",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "padamārṣam",
+      "start": "padmapatra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "padamārṣam",
+      "start": "nāśayuktān"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "nityarthaḥ",
+      "start": "tatkāyaśod"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "mahattaram",
+      "start": "klībatvamā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "atvamārṣam",
+      "start": "sarvāṇi"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "aṃgacchate",
+      "start": "adantatvam"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1",
+      "body": "//"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "mityarthaḥ",
+      "start": "bhūmiṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "1",
+      "end": "āṭhāntaram",
+      "start": "udyogaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "canamārṣam",
+      "start": "vividhairb"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "padamārṣam",
+      "start": "ṛṣaya"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "//"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "bhāvaḥ",
+      "start": "kuṃkumādir"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "body": "//"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3",
+      "end": "ṃhrīṃnamaḥ",
+      "start": "brahamovāc"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "6",
+      "end": "aṃhuṃnamaḥ",
+      "start": "munaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "7",
+      "end": "aṃhuṃnamaḥ",
+      "start": "pradhānapu"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,1.19cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,1.42ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,2.31cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,3.6cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,3.27cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,4.1cd",
+      "end": "maharṣiṇām",
+      "start": "viśvaṃ"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,4.4cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,4.24cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,5.20ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,5.39cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,5.60cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,5.64cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,6.14cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,6.34cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,6.76cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,7.21cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,8.31cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,9.3cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,10.20cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,10.42cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,11.13cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,12.18ab"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,12.57ab",
+      "end": "jātayaḥ",
+      "start": "auṣadhyaḥ"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,12.59cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,13.3ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,13.25ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,14.21ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,15.21ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,16.7cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,16.28cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,17.8cd",
+      "end": "okamātaraḥ",
+      "start": "catasro"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,17.19ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,18.15cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,18.60cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,19.18ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,19.39cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,19.62ab"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,19.67cd",
+      "end": "'dhyāyaḥ",
+      "start": "dadarśa"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,20.14cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,20.36ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,21.11cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,22.58ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,23.4cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,23.26ab"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,23.42ab",
+      "end": "bhairiti",
+      "start": "tathoktvā"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,23.45ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,23.56cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,24.7cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,24.51ab"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,24.58cd",
+      "end": "'dhyāyaḥ",
+      "start": "niyamya"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,25.12cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,25.33cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,25.48cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,26.5cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,26.25ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,27.16cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,27.37cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,28.20cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,29.21ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,30.4cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,31.37ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,31.99ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,32.20ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,33.6ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,33.47cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,34.13ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,34.33cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,34.53cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,35.14ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,35.33cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,35.55cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.1,35.65cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,1.21ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,2.14cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,2.57ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,3.18ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,4.5ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,5.21ab"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,5.37cd",
+      "end": "'dhyāyaḥ",
+      "start": "prākṛto"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,6.22cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,7.11cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,8.12cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,8.34ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,9.3ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,10.18cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,11.9cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,11.30cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,11.53ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,12.16cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,13.19cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,13.60cd",
+      "end": "'dhyāyaḥ",
+      "start": "ājñārthaṃ"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,14.2cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,14.77cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,15.9ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,16.18cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,17.3cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,18.15cd",
+      "end": "saṃgamalaṃ",
+      "start": "kṛtvaivame"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,18.20ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,19.19ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,20.13ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,21.3ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,22.1cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,23.3ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,24.22cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,24.42cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,25.13ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,25.53cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,26.9cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,27.13cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,28.2ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,29.10ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,30.12ef"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,31.18cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,31.82ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,31.166cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,32.12cd",
+      "end": "śakṛtā",
+      "start": "vilikhetka"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,32.17cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,33.16cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,34.18ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,35.18ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,35.83cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,36.4cd",
+      "end": "kāṃcanayā",
+      "start": "lakṣitaṃ"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,36.17ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,37.10ab"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,37.52cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,37.67cd",
+      "end": "'dhyāyaḥ",
+      "start": "anavasthit"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,38.5ab"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,38.68ab",
+      "end": "etasya",
+      "start": "vidhūmāṃgā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,38.78ab",
+      "end": "'dhyāyaḥ",
+      "start": "prasidhyaṃ"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,39.11cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,39.51cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,40.10cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,41.4cd"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 7,
+      "aku_ref": "ŚivP_7.2,41.46cd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 8,
+      "aku_ref": "8",
+      "end": "īṃhuṃnamaḥ",
+      "start": "ṛṣaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "10",
+      "end": "īṃhuṃnamaḥ",
+      "start": "vāyuruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "12",
+      "end": "ṃhrīṃnamaḥ",
+      "start": "vāyuruvāca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "13",
+      "end": "aṃnama",
+      "start": "ṛṣaya"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 502,
+      "aku_ref": "502a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 502,
+      "aku_ref": "502b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 504,
+      "aku_ref": "504a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 504,
+      "aku_ref": "504b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 505,
+      "aku_ref": "505a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 505,
+      "aku_ref": "505b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 506,
+      "aku_ref": "506a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 506,
+      "aku_ref": "506b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 507,
+      "aku_ref": "507a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 507,
+      "aku_ref": "507b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 508,
+      "aku_ref": "508a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 508,
+      "aku_ref": "508b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 509,
+      "aku_ref": "509b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 510,
+      "aku_ref": "510a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 511,
+      "aku_ref": "511a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 512,
+      "aku_ref": "512b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 513,
+      "aku_ref": "513a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 513,
+      "aku_ref": "513b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 514,
+      "aku_ref": "514a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 514,
+      "aku_ref": "514b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 515,
+      "aku_ref": "515a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 515,
+      "aku_ref": "515b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 516,
+      "aku_ref": "516a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 516,
+      "aku_ref": "516b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 517,
+      "aku_ref": "517a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 517,
+      "aku_ref": "517b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 518,
+      "aku_ref": "518a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 518,
+      "aku_ref": "518b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 519,
+      "aku_ref": "519a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 519,
+      "aku_ref": "519b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 520,
+      "aku_ref": "520a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 520,
+      "aku_ref": "520b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 521,
+      "aku_ref": "521a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 521,
+      "aku_ref": "521b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 522,
+      "aku_ref": "522a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 522,
+      "aku_ref": "522b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 523,
+      "aku_ref": "523a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 523,
+      "aku_ref": "523b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 524,
+      "aku_ref": "524a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 524,
+      "aku_ref": "524b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 525,
+      "aku_ref": "525a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 526,
+      "aku_ref": "526b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 527,
+      "aku_ref": "527a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 527,
+      "aku_ref": "527b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 528,
+      "aku_ref": "528a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 528,
+      "aku_ref": "528b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 529,
+      "aku_ref": "529a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 529,
+      "aku_ref": "529b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 530,
+      "aku_ref": "530a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 530,
+      "aku_ref": "530b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 531,
+      "aku_ref": "531a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 531,
+      "aku_ref": "531b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 532,
+      "aku_ref": "532a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 533,
+      "aku_ref": "533a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 533,
+      "aku_ref": "533b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 534,
+      "aku_ref": "534a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 534,
+      "aku_ref": "534b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 535,
+      "aku_ref": "535a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 536,
+      "aku_ref": "536a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 536,
+      "aku_ref": "536b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 537,
+      "aku_ref": "537a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 537,
+      "aku_ref": "537b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 538,
+      "aku_ref": "538a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 538,
+      "aku_ref": "538b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 539,
+      "aku_ref": "539a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 540,
+      "aku_ref": "540a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 540,
+      "aku_ref": "540b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 541,
+      "aku_ref": "541a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 541,
+      "aku_ref": "541b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 542,
+      "aku_ref": "542a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 542,
+      "aku_ref": "542b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 543,
+      "aku_ref": "543a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 543,
+      "aku_ref": "543b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 544,
+      "aku_ref": "544a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 544,
+      "aku_ref": "544b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 545,
+      "aku_ref": "545a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 545,
+      "aku_ref": "545b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 546,
+      "aku_ref": "546a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 546,
+      "aku_ref": "546b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 547,
+      "aku_ref": "547a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 547,
+      "aku_ref": "547b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 548,
+      "aku_ref": "548a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 548,
+      "aku_ref": "548b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 549,
+      "aku_ref": "549a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 549,
+      "aku_ref": "549b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 550,
+      "aku_ref": "550a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 551,
+      "aku_ref": "551a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 551,
+      "aku_ref": "551b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 552,
+      "aku_ref": "552a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 552,
+      "aku_ref": "552b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 553,
+      "aku_ref": "553b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 554,
+      "aku_ref": "554a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 554,
+      "aku_ref": "554b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 555,
+      "aku_ref": "555a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 555,
+      "aku_ref": "555b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 556,
+      "aku_ref": "556a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 556,
+      "aku_ref": "556b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 557,
+      "aku_ref": "557a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 557,
+      "aku_ref": "557b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 558,
+      "aku_ref": "558b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 559,
+      "aku_ref": "559b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 560,
+      "aku_ref": "560a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 560,
+      "aku_ref": "560b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 561,
+      "aku_ref": "561a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 561,
+      "aku_ref": "561b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 562,
+      "aku_ref": "562a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 562,
+      "aku_ref": "562b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 563,
+      "aku_ref": "563a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 563,
+      "aku_ref": "563b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 564,
+      "aku_ref": "564a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 564,
+      "aku_ref": "564b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 565,
+      "aku_ref": "565a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 565,
+      "aku_ref": "565b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 566,
+      "aku_ref": "566a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 566,
+      "aku_ref": "566b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 567,
+      "aku_ref": "567a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 567,
+      "aku_ref": "567b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 568,
+      "aku_ref": "568a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 568,
+      "aku_ref": "568b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 569,
+      "aku_ref": "569a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 569,
+      "aku_ref": "569b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 570,
+      "aku_ref": "570a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 570,
+      "aku_ref": "570b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 571,
+      "aku_ref": "571a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 571,
+      "aku_ref": "571b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 572,
+      "aku_ref": "572a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 572,
+      "aku_ref": "572b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 573,
+      "aku_ref": "573a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 573,
+      "aku_ref": "573b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 574,
+      "aku_ref": "574a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 574,
+      "aku_ref": "574b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 575,
+      "aku_ref": "575a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 575,
+      "aku_ref": "575b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 576,
+      "aku_ref": "576a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 576,
+      "aku_ref": "576b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 577,
+      "aku_ref": "577a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 577,
+      "aku_ref": "577b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 578,
+      "aku_ref": "578a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 578,
+      "aku_ref": "578b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 579,
+      "aku_ref": "579a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 579,
+      "aku_ref": "579b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 580,
+      "aku_ref": "580a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 580,
+      "aku_ref": "580b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 581,
+      "aku_ref": "581a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 581,
+      "aku_ref": "581b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 582,
+      "aku_ref": "582a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 582,
+      "aku_ref": "582b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 583,
+      "aku_ref": "583a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 583,
+      "aku_ref": "583b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 584,
+      "aku_ref": "584a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 584,
+      "aku_ref": "584b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 585,
+      "aku_ref": "585a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 585,
+      "aku_ref": "585b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 586,
+      "aku_ref": "586a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 586,
+      "aku_ref": "586b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 587,
+      "aku_ref": "587a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 587,
+      "aku_ref": "587b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 588,
+      "aku_ref": "588a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 588,
+      "aku_ref": "588b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 589,
+      "aku_ref": "589a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 589,
+      "aku_ref": "589b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 590,
+      "aku_ref": "590a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 590,
+      "aku_ref": "590b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 591,
+      "aku_ref": "591a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 591,
+      "aku_ref": "591b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 592,
+      "aku_ref": "592a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 592,
+      "aku_ref": "592b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 593,
+      "aku_ref": "593a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 593,
+      "aku_ref": "593b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 594,
+      "aku_ref": "594a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 594,
+      "aku_ref": "594b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 595,
+      "aku_ref": "595b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 596,
+      "aku_ref": "596a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 596,
+      "aku_ref": "596b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 597,
+      "aku_ref": "597b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 598,
+      "aku_ref": "598a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 598,
+      "aku_ref": "598b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 599,
+      "aku_ref": "599a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 599,
+      "aku_ref": "599b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 600,
+      "aku_ref": "600a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 600,
+      "aku_ref": "600b"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 601,
+      "aku_ref": "601a"
+    },
+    {
+      "type": "empty_aku",
+      "severity": "low",
+      "chapter": 601,
+      "aku_ref": "601b"
+    }
+  ]
+}

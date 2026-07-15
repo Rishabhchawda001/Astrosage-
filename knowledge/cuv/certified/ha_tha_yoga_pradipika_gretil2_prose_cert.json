@@ -1,0 +1,124 @@
+{
+  "file": "ha_tha_yoga_pradipika_gretil2_prose.json",
+  "title": "Haṭhayogapradīpikā",
+  "status": "partially_certified",
+  "total_akus": 22,
+  "certified_akus": 17,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 7,
+    "translation": 2,
+    "prose": 3,
+    "sutra": 5,
+    "heading": 5
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 3,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "HYP_1.37",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "HYP_1.46",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 3,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "HYP_2.38",
+          "body": "//"
+        },
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "HYP_2.68",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 1,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "ocr_artifact",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "HYP_3.96",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "HYP_1.37",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "HYP_1.46",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "HYP_2.38",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "HYP_2.68",
+      "body": "//"
+    },
+    {
+      "type": "ocr_artifact",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "HYP_3.96",
+      "body": "//"
+    }
+  ]
+}

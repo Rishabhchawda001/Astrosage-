@@ -1,0 +1,30 @@
+{
+  "file": "ramanuja_vedartha_gretil_prose.json",
+  "title": "Vedārthasaṃgraha",
+  "status": "certified",
+  "total_akus": 286,
+  "certified_akus": 286,
+  "issues": [],
+  "class_distribution": {
+    "prose": 88,
+    "translation": 122,
+    "commentary": 76
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 284,
+      "certified": 284,
+      "issues": []
+    },
+    {
+      "chapter": 93,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": []
+}
