@@ -1,0 +1,18 @@
+{
+  "file": "narada_smriti_gretil.xml",
+  "title": "Nāradasmṛti",
+  "total_chapters": 1,
+  "total_akus": 1,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": null,
+          "body": "nāradīyadharmaśāstraḥ samāptaḥ."
+        }
+      ]
+    }
+  ]
+}

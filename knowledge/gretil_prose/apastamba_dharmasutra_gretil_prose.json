@@ -1,0 +1,6056 @@
+{
+  "file": "apastamba_dharmasutra_gretil.xml",
+  "title": "Āpastambadharmasūtra",
+  "total_chapters": 36,
+  "total_akus": 1458,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "aku_count": 748,
+      "akus": [
+        {
+          "ref": "Ap1.1.1.1",
+          "body": "atha-atas- sāmayācārikān ( <samayācāra ) dharmān [vyākhyāsyāmaḥ[vi.ā\\khyā] / Ap1.1.1.2-3/ dharmajña.samayaḥ pramāṇam / vedāś ca / Ap1.1.1.4-5/ catvāro varṇo brāhmaṇa.kṣatriya.vaiśya.śūdrāḥ / teṣāṃ pūrvas- pūrvas- janmatas- śreyān /"
+        },
+        {
+          "ref": "Ap1.1.1.6",
+          "body": "aśūdrāṇām aduṣṭakarmaṇām upāyanaṃ veda.adhyayanam agnyādheyaṃ phalavanti ca karmāṇi /"
+        },
+        {
+          "ref": "Ap1.1.1.7",
+          "body": "śuśrūṣā śūdrasya-itareṣāṃ varṇānām /"
+        },
+        {
+          "ref": "Ap1.1.1.8",
+          "body": "pūrvasmin pūrvasmin varṇe niḥśreyasam bhūyaḥ /"
+        },
+        {
+          "ref": "Ap1.1.1.9",
+          "body": "upanayanaṃ vidyā.arthasya śrutitaḥ saṃskāraḥ /"
+        },
+        {
+          "ref": "Ap1.1.1.10",
+          "body": "sarvebhyo vedebhyaḥ sāvitrī-[anūcyata[anu\\vac] iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.1.1.11",
+          "body": "tamasas- vai- eṣa tamaḥ [praviśati[pra\\viś] yam avidvān(avidvas) [upanayate[upa\\nī] yaś ca-avidvān(avidvas) iti hi brāhmanam /"
+        },
+        {
+          "ref": "Ap1.1.1.12",
+          "body": "tasminn abhijana.vidyā.[samudetam[sam.ut\\i] [samāhitam[sam.ā\\dhā] saṃskartāram [īpset[\\āp, des.opt.] /"
+        },
+        {
+          "ref": "Ap1.1.1.13",
+          "body": "tasmiṃś ca-eva vidyā.karma.antam [avipratipanne[vi.prati\\pad] dharmebhyaḥ /"
+        },
+        {
+          "ref": "Ap1.1.1.14",
+          "body": "yasmāt-dharmān [ācinoti [ā\\ci] sa ācāryaḥ /"
+        },
+        {
+          "ref": "Ap1.1.1.15",
+          "body": "tasmai na [druhyet[\\druh, opt.] kadā cana /"
+        },
+        {
+          "ref": "Ap1.1.1.16",
+          "body": "sa hi vidyātas taṃ [janayati[\\jan, caus.] /"
+        },
+        {
+          "ref": "Ap1.1.1.17",
+          "body": "tat-śreṣṭhaṃ janma /"
+        },
+        {
+          "ref": "Ap1.1.1.18",
+          "body": "śarīram eva mātā.pitarau(mātṛ/pitṛ) [janayataḥ[\\jan, caus.] /"
+        },
+        {
+          "ref": "Ap1.1.1.19",
+          "body": "vasante brāhmaṇam [upanayīta[upa\\nī, opt.] grīṣme rājanyaṃ śaradi vaiśyaṃ garbha.aṣṭameṣu brāhmaṇaṃ garbha.ekādaśeṣu rājanyaṃ garbha.dvādaśeṣu vaiśyam /"
+        },
+        {
+          "ref": "Ap1.1.1.20",
+          "body": "atha kāmyāni / Ap1.1.1.21-26/ saptame brahmavarcasa.kāmam , aṣṭama āyuṣ.kāmam , navame tejas.kāmam, daśame- 'annādya.kāmam, ekādaśa indriya.kāmam, dvādaśe paśu.kāmam /"
+        },
+        {
+          "ref": "Ap1.1.1.27",
+          "body": "ā ṣoḍaśād brāhmaṇasya-anātyaya , ā dvāviṃśāt kṣatriyasya-ā caturviṃśād vaiśyasya yathā vrateṣu samarthaḥ [syāt[\\as,opt.]-yāni [vakṣyāmas[\\vac] /"
+        },
+        {
+          "ref": "Ap1.1.1.28",
+          "body": "[atikrānte[ati\\kram, ppp] sāvitryāḥ kāla# ṛtuṃ traividyakaṃ brahmacaryaṃ [caret[\\car] / (K_om._kāla_)"
+        },
+        {
+          "ref": "Ap1.1.1.29",
+          "body": "atha-upanayanam /"
+        },
+        {
+          "ref": "Ap1.1.1.30",
+          "body": "tataḥ saṃvatsaram udaka.upasparśanam /"
+        },
+        {
+          "ref": "Ap1.1.1.31",
+          "body": "atha-[adhyāpyaḥ [adhi\\āp, ger.] /"
+        },
+        {
+          "ref": "Ap1.1.1.32",
+          "body": "atha yasya pitā pitāmaha iti [anupetau[upa\\i, ppp] [syātāṃ[\\as, opt.] te [brahmaha.saṃstutāḥ[sam\\stu, ppp] /"
+        },
+        {
+          "ref": "Ap1.1.1.33",
+          "body": "teṣām abhyāgamanaṃ bhojanaṃ vivāham iti ca [varjayet[\\vṛj, caus.] /"
+        },
+        {
+          "ref": "Ap1.1.1.34",
+          "body": "teṣām [icchatāṃ[\\iṣ] prāyaścittam /"
+        },
+        {
+          "ref": "Ap1.1.1.35",
+          "body": "yathā prathame- 'atikrama ṛtur evaṃ saṃvatsaraḥ /"
+        },
+        {
+          "ref": "Ap1.1.1.36",
+          "body": "atha-upanayanaṃ tata udaka.upasparśanam /"
+        },
+        {
+          "ref": "Ap1.1.2.1",
+          "body": "prati.pūrusaṃ [saṃkhyāya[sam\\khyā] saṃvatsarān yāvanto- '[anupetāḥ[upa\\i] [syuḥ[ppp+\\as, opt.] /"
+        },
+        {
+          "ref": "Ap1.1.2.2",
+          "body": "saptabhiḥ pāvamānībhir \"yad anti yac ca dūraka\" iti etābhir yajus.pavitreṇa sāma.pavitreṇa-āṅgiraseṇa-iti /"
+        },
+        {
+          "ref": "Ap1.1.2.3",
+          "body": "api vā vyāhṛtībhir# eva / (K_vyāhṛtibhir_)"
+        },
+        {
+          "ref": "Ap1.1.2.4",
+          "body": "atha-[adhyāpyaḥ[adhi\\āp]/"
+        },
+        {
+          "ref": "Ap1.1.2.5",
+          "body": "atha yasya prapitāmaha.ādi na-[anusmaryata[anu\\smṛ] upanayanaṃ te [śmaśāna.saṃstutāḥ[sam\\stu, ppp] /"
+        },
+        {
+          "ref": "Ap1.1.2.6",
+          "body": "teṣām abhyāgamanaṃ bhojanaṃ vivāham iti ca [varjayet[\\vṛj] teṣām [icchatāṃ[\\iṣ] prāyaścittaṃ dvādaśa.varṣāṇi traividyakaṃ brahmacaryaṃ [cared[\\car] / atha-upanayanaṃ tatas- udaka.upasparśanaṃ pāvamānī.ādibhiḥ //"
+        },
+        {
+          "ref": "Ap1.1.2.7",
+          "body": "atha gṛhamedha.upadeśanam /"
+        },
+        {
+          "ref": "Ap1.1.2.8",
+          "body": "na-adhyāpanam /"
+        },
+        {
+          "ref": "Ap1.1.2.9",
+          "body": "tato yo [nirvartate[nis\\vṛt]# tasya saṃskāro yathā prathame- 'atikrame /(K_nivartate_)"
+        },
+        {
+          "ref": "Ap1.1.2.10",
+          "body": "tata ūrdhvaṃ prakṛtivat /"
+        },
+        {
+          "ref": "Ap1.1.2.11",
+          "body": "[upetasya[upa\\i, ppp]-ācārya.kule brahmacāri.vāsaḥ /"
+        },
+        {
+          "ref": "Ap1.1.2.12",
+          "body": "aṣṭācatvāriṃśad varṣāṇi / Ap1.1.2.13-15/ pādūnam*, ardhena, tribhir vā / (*var: pāda.ūnam)"
+        },
+        {
+          "ref": "Ap1.1.2.16",
+          "body": "dvādaśa.avara.ardhyam / Ap1.1.2.17-18/ na brahmacāriṇo vidyā.arthasya para.upavāso- '[asti[\\as] / ( = K 17, K"
+        },
+        {
+          "ref": "Ap1.1.2.19",
+          "body": "ācārya.adhīnaḥ [syād[\\as, op.] anyatra [patanīyebhyaḥ[\\pat] /"
+        },
+        {
+          "ref": "Ap1.1.2.20",
+          "body": "hita.kārī(hita.kārin) guror [apratilomayan[\\pratiloma] vācā /"
+        },
+        {
+          "ref": "Ap1.1.2.21",
+          "body": "adha.āsana.śāyī /"
+        },
+        {
+          "ref": "Ap1.1.2.22",
+          "body": "na-[anudeśyaṃ[anu\\diś] [bhuñjīta[\\bhuj, op.] /"
+        },
+        {
+          "ref": "Ap1.1.2.23",
+          "body": "tathā kṣāra.lavaṇa.madhu.māṃsāni /"
+        },
+        {
+          "ref": "Ap1.1.2.24",
+          "body": "adivā.svāpī /"
+        },
+        {
+          "ref": "Ap1.1.2.25",
+          "body": "agandha.sevī /"
+        },
+        {
+          "ref": "Ap1.1.2.26",
+          "body": "maithunaṃ na [caret[\\car] /"
+        },
+        {
+          "ref": "Ap1.1.2.27",
+          "body": "[utsanna.ślāghaḥ [ut\\sad] /"
+        },
+        {
+          "ref": "Ap1.1.2.28",
+          "body": "aṅgāni na [prakṣālayīta[pra\\kṣal, op.] /"
+        },
+        {
+          "ref": "Ap1.1.2.29",
+          "body": "[prakṣālayīta[pra\\kṣal, op.] tv [aśuci.liptāni[\\lip] guror asaṃdarśe/"
+        },
+        {
+          "ref": "Ap1.1.2.30",
+          "body": "na-apsu(ap.) [ślāghamānaḥ[\\ślāgh, pp.] [snāyād[\\snā, op.] yadi [snāyād daṇḍavat [plavet[\\plu] / Ap1.1.2.31-32/ jaṭilaḥ, śikhā.jaṭas(jaṭā)- vā [vāpayed[\\vap, caus.op.] itarān /"
+        },
+        {
+          "ref": "Ap1.1.2.33",
+          "body": "mauñjī (<muñja.) mekhalā trivṛd brāhmaṇasya śakti.viṣaye [dakṣiṇā.āvṛttānām [ā\\vṛt]/"
+        },
+        {
+          "ref": "Ap1.1.2.34",
+          "body": "jyā rājanyasya /"
+        },
+        {
+          "ref": "Ap1.1.2.35",
+          "body": "mauñjī(<muñja.) vā-ayo.miśrā /"
+        },
+        {
+          "ref": "Ap1.1.2.36",
+          "body": "āvī.sūtraṃ vaiśyasya /"
+        },
+        {
+          "ref": "Ap1.1.2.37",
+          "body": "sairī(<sirā.) tāmalī vā-iti-eke /"
+        },
+        {
+          "ref": "Ap1.1.2.38",
+          "body": "pālāśo daṇḍo brāhmaṇasya , naiyyagrodha.skandhajo- 'avāṅgro rājanyasya , bādara audumbaro vā vaiśyasya , vārkṣo daṇḍa ity avarṇasaṃyogena-eke- [upadiśanti[upa\\diś] /"
+        },
+        {
+          "ref": "Ap1.1.2.39",
+          "body": "vāsaḥ /"
+        },
+        {
+          "ref": "Ap1.1.2.40",
+          "body": "śāṇī.kṣauma.ajināni /"
+        },
+        {
+          "ref": "Ap1.1.2.41",
+          "body": "kaṣāyaṃ ca-eke vastram [upadiśanti[upa\\diś] /"
+        },
+        {
+          "ref": "Ap1.1.3.1",
+          "body": "māñjiṣṭhaṃ rājanyasya /"
+        },
+        {
+          "ref": "Ap1.1.3.2",
+          "body": "hāridraṃ vaiśyasya /"
+        },
+        {
+          "ref": "Ap1.1.3.3",
+          "body": "hāriṇam aiṇeyaṃ vā kṛṣṇaṃ brāhmaṇasya /"
+        },
+        {
+          "ref": "Ap1.1.3.4",
+          "body": "kṛṣṇaṃ ced [anupastīrṇa.āsana.śāyī[upa\\stṛṛ] [syāt[\\as, op.] /"
+        },
+        {
+          "ref": "Ap1.1.3.5",
+          "body": "rauravaṃ rājanyasya /"
+        },
+        {
+          "ref": "Ap1.1.3.6",
+          "body": "basta.ajinaṃ vaiśyasya / Ap1.1.3.7-8/ āvikaṃ sārvavarṇikam(<sarva.varṇa), kambalaś ca /"
+        },
+        {
+          "ref": "Ap1.1.3.9",
+          "body": "brahma.vṛddhim [icchann[\\iṣ] ajināny eva [vasīta[\\vas] kṣatra.vṛddhim [icchan[\\iṣ] vastrāṇy eva-ubhaya.vṛddhim [icchann[\\iṣ] ubhayam iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.1.3.10",
+          "body": "ajinaṃ tv eva-uttaraṃ [dhārayet[\\dhṛ, caus.] /"
+        },
+        {
+          "ref": "Ap1.1.3.11",
+          "body": "[anṛtta.darśī[\\dṛś] /"
+        },
+        {
+          "ref": "Ap1.1.3.12",
+          "body": "sabhāḥ samājāṃś ca-agantā(agantṛ) /"
+        },
+        {
+          "ref": "Ap1.1.3.13",
+          "body": "a.janavāda.śīlaḥ /"
+        },
+        {
+          "ref": "Ap1.1.3.14",
+          "body": "rahas.śīlaḥ /"
+        },
+        {
+          "ref": "Ap1.1.3.15",
+          "body": "guror udācāreṣv akartā(akartṛ) svairi.karmāṇi /"
+        },
+        {
+          "ref": "Ap1.1.3.16",
+          "body": "strībhir [yāvad.artha.saṃbhāṣī[sam\\bhās] / Ap1.1.3.17-24/ mṛduḥ , [śāntaḥ[\\śam, adj.], [dāntaḥ[\\dam, adj.], hrīmān(hrī.mat), dṛḍha.dhṛtiḥ, aglāṃsnuḥ, akrodhanaḥ, anasūyuḥ /"
+        },
+        {
+          "ref": "Ap1.1.3.25",
+          "body": "sarvaṃ lābham [āharan[ā\\hṛ,pp] gurave sāyaṃ prātar amantreṇa# bhikṣā.caryaṃ [cared[\\car], [bhikṣamāṇo[\\bhīks, pp.]- 'anyatra-apapātrebhyo- '[abhiśastāc[abhi\\śas, ppp.] ca / (K_amatreṇa_)"
+        },
+        {
+          "ref": "Ap1.1.3.26a",
+          "body": "strīṇāṃ [pratyācakṣāṇānāṃ[prati.ā\\cakṣ] [samāhito[sam.ā\\dhā,ppp] brahmacārī-[iṣṭaṃ[\\yaj, ppp.] [dattaṃ[\\dā, ppp.] [hutaṃ[\\hu, ppp.] prajāṃ paśūn brahmavarcasam annādyaṃ [vṛṅkte[\\vṛj] /"
+        },
+        {
+          "ref": "Ap1.1.3.26b",
+          "body": "tasmād u ha vai brahmacāri.samghaṃ [carantaṃ[\\car, pp.] na [pratyācakṣīta[prati.ā\\caks]-, api ha-eṣv evam.vidha evaṃ.vrataḥ [syād[\\as, op.] iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.1.3.27",
+          "body": "na-anumānena bhaikṣam ucchiṣṭaṃ [dṛṣṭa.śrutābhyāṃ[\\dṛś][\\śru] tu /"
+        },
+        {
+          "ref": "Ap1.1.3.28",
+          "body": "bhavat.pūrvayā brāhmaṇo [bhikṣeta[\\bhikṣ] /"
+        },
+        {
+          "ref": "Ap1.1.3.29",
+          "body": "bhavat.madhyayā rājanyaḥ /"
+        },
+        {
+          "ref": "Ap1.1.3.30",
+          "body": "bhavat.antyayā vaiśyaḥ /"
+        },
+        {
+          "ref": "Ap1.1.3.31",
+          "body": "tat [samāhṛtya[sam.ā\\hṛ]-[upanidhāya[upa.ni\\dhā]-ācāryāya [prabrūyāt[pra\\brū] /"
+        },
+        {
+          "ref": "Ap1.1.3.32",
+          "body": "tena [pradiṣṭaṃ[pra\\diś,ppp] [bhuñjīta[\\bhuj]/"
+        },
+        {
+          "ref": "Ap1.1.3.33",
+          "body": "vipravāse guror ācārya.kulāya /"
+        },
+        {
+          "ref": "Ap1.1.3.34",
+          "body": "tair vipravāse- 'anyebhyo- 'api śrotriyebhyaḥ /"
+        },
+        {
+          "ref": "Ap1.1.3.35",
+          "body": "na-ātma.prayojanaś [caret[\\car] /"
+        },
+        {
+          "ref": "Ap1.1.3.36",
+          "body": "[bhuktvā[\\bhuj] svayam amatraṃ [prakṣālayīta[pra\\kṣal] /"
+        },
+        {
+          "ref": "Ap1.1.3.37",
+          "body": "na ca-[ucchiṣṭaṃ[ut\\siṣ] [kuryāt[\\kṛ] /"
+        },
+        {
+          "ref": "Ap1.1.3.38",
+          "body": "aśaktau bhūmau [nikhanet[ni\\khan] /"
+        },
+        {
+          "ref": "Ap1.1.3.39",
+          "body": "apsu vā [praveśayet[pra\\viś] /"
+        },
+        {
+          "ref": "Ap1.1.3.40",
+          "body": "āryāya vā [paryavadadhyāt[pari.ava\\dhā] /"
+        },
+        {
+          "ref": "Ap1.1.3.41",
+          "body": "antardhine vā śūdrāya /"
+        },
+        {
+          "ref": "Ap1.1.3.42",
+          "body": "[proṣito[pra\\vas] bhaikṣād agnau [kṛtvā[\\kṛ] [bhuñjīta[\\bhuj] /"
+        },
+        {
+          "ref": "Ap1.1.3.43",
+          "body": "bhaikṣaṃ haviṣā [saṃstutaṃ[sam\\stu] tatra-ācāryo devatā.arthe /"
+        },
+        {
+          "ref": "Ap1.1.3.44",
+          "body": "āhavanīya.arthe ca /"
+        },
+        {
+          "ref": "Ap1.1.3.45",
+          "body": "taṃ [bhojayitvā[\\bhuj] (yad_ucchiṣtaṃ[ut\\śiṣ]_[prāśñāti[pra\\aś])1.1.4.1./"
+        },
+        {
+          "ref": "Ap1.1.4.1",
+          "body": "yad [ucchiṣṭaṃ[ut\\śiṣ] [prāśñāti[pra\\aś] /"
+        },
+        {
+          "ref": "Ap1.1.4.2",
+          "body": "havir.ucchiṣṭam eva tat /"
+        },
+        {
+          "ref": "Ap1.1.4.3",
+          "body": "yad anyāni dravyāṇi yathālābham [upaharati[upa\\hṛ] dakṣiṇā eva tāḥ /"
+        },
+        {
+          "ref": "Ap1.1.4.4",
+          "body": "sa eṣa brahmacāriṇo yajño [nitya.pratataḥ[pra\\tan] /"
+        },
+        {
+          "ref": "Ap1.1.4.5",
+          "body": "na ca-asmai [śruti.vipratiṣiddham ucchiṣṭaṃ [dadyāt[\\dā] /"
+        },
+        {
+          "ref": "Ap1.1.4.6",
+          "body": "yathā kṣāra.lavaṇa.madhu.māṃsāni-iti /"
+        },
+        {
+          "ref": "Ap1.1.4.7",
+          "body": "etena-anye niyamā [vyākhyātāḥ[vi.ā\\khyā] /"
+        },
+        {
+          "ref": "Ap1.1.4.8",
+          "body": "śrutir hi balīyasy ānumānikād ācārāt /"
+        },
+        {
+          "ref": "Ap1.1.4.9",
+          "body": "[dṛśyate[\\dṛś] ca-api pravṛtti.kāraṇam /"
+        },
+        {
+          "ref": "Ap1.1.4.10",
+          "body": "prītir hy [upalabhyate[upa\\labh] /"
+        },
+        {
+          "ref": "Ap1.1.4.11",
+          "body": "pitur jyeṣṭhasya ca bhrātur [ucchiṣṭaṃ[ut\\śiṣ] [bhoktavyam[\\bhuj] /"
+        },
+        {
+          "ref": "Ap1.1.4.12",
+          "body": "dharma.vipratipattāv [abhojyam[\\bhuj] /"
+        },
+        {
+          "ref": "Ap1.1.4.13",
+          "body": "sāyaṃ prātar udakumbham [āharet[ā\\hṛ] /"
+        },
+        {
+          "ref": "Ap1.1.4.14",
+          "body": "sadā-āraṇyād edhān [āhṛtya[ā\\hṛ]- adho [nidadhyāt[ni\\dhā] /"
+        },
+        {
+          "ref": "Ap1.1.4.15",
+          "body": "na-[astamite[astam\\i] samid.dhāro [gacchet[\\gam] /"
+        },
+        {
+          "ref": "Ap1.1.4.16",
+          "body": "agnim [iddhvā[\\indh] [parisamūhya[pari.sam\\ūh] samidha [ādadhyāt[ā\\dhā] sāyaṃ prātar yathā.upadeśam /"
+        },
+        {
+          "ref": "Ap1.1.4.17",
+          "body": "sāyam eva-agni.pūjā-ity eke /"
+        },
+        {
+          "ref": "Ap1.1.4.18",
+          "body": "[samiddham[sam\\indh] agniṃ pāṇinā [parisamūhen[pari.sam\\ūh] na samūhanyā /"
+        },
+        {
+          "ref": "Ap1.1.4.19",
+          "body": "prāk tu yāthākāmī /"
+        },
+        {
+          "ref": "Ap1.1.4.20",
+          "body": "na-agni.udaka.śeṣeṇa vṛthā.karmāṇi [kurvīta[\\kṛ]-[ācāmed[ā\\cam] vā /"
+        },
+        {
+          "ref": "Ap1.1.4.21",
+          "body": "pāṇi.saṃkṣubdhena[sam\\kṣubh]-udakena-[eka.pāṇi.āvarjitena[ā\\vṛj] ca na-[ācāmet[ā\\cam] /"
+        },
+        {
+          "ref": "Ap1.1.4.22",
+          "body": "svapnaṃ ca [varjayet[\\vṛj] /"
+        },
+        {
+          "ref": "Ap1.1.4.23",
+          "body": "atha-ahar.ahar ācāryaṃ [gopāyed[\\gopay] [dharma.artha.yuktaiḥ[\\yuj] karmabhiḥ /"
+        },
+        {
+          "ref": "Ap1.1.4.24",
+          "body": "sa [guptvā[\\gup] [saṃviśan[sam\\viś] [brūyād[\\brū] dharma.gopāyam [ājūgupam[ā\\gup] aham iti /"
+        },
+        {
+          "ref": "Ap1.1.4.25",
+          "body": "pramādād ācāryasya buddhi.pūrvaṃ vā niyama.atikramaṃ rahasi [bodhayet[\\budh] / Ap1.1.4.26-27/ anivṛttau svayaṃ karmāṇy [ārabheta[ā\\rabh] ,[nivartayed[ni\\vṛt] vā /"
+        },
+        {
+          "ref": "Ap1.1.4.28",
+          "body": "atha yaḥ pūrva.utthāyī jaghanya.saṃveśī tam [āhur[\\ah] na [svapiti[\\svap]-iti /"
+        },
+        {
+          "ref": "Ap1.1.4.29",
+          "body": "sa ya evaṃ [praṇihita.ātmā[pra.ni\\dhā] brahmacāry atra-eva-asya sarvāṇi karmāṇi phalavanty [avāptāni[ava\\āp] [bhavanti[\\bhū,+ ppp] yāny api gṛhamedhe /"
+        },
+        {
+          "ref": "Ap1.2.5.1",
+          "body": "niyameṣu tapas.śabdaḥ /"
+        },
+        {
+          "ref": "Ap1.2.5.2",
+          "body": "tad.atikrame vidyā.karma [niḥsravati[nir\\sru] brahma saha-apatyād etasmāt /"
+        },
+        {
+          "ref": "Ap1.2.5.3",
+          "body": "kartapatyam* anāyuṣyaṃ ca /(*var. gartapatyam)"
+        },
+        {
+          "ref": "Ap1.2.5.4",
+          "body": "tasmād ṛṣayo- 'avareṣu na [jāyante[\\jan] niyama.atikramāt / Ap1.2.5.5-6/ śruta.ṛṣayas tu [bhavanti[\\bhū] kecit karma.phala.śeṣeṇa punaḥ.saṃbhave , yathā śvetaketuḥ /"
+        },
+        {
+          "ref": "Ap1.2.5.7",
+          "body": "yat kiṃ ca [samāhito[sam.ā\\dhā] brahma py(apy) ācāryād [upayuṅkte[upa\\yuj] brahmavad eva tasmin phalaṃ [bhavati[\\bhū] /"
+        },
+        {
+          "ref": "Ap1.2.5.8",
+          "body": "atha-u yat kiñ ca manasā vācā cakṣuṣā vā [saṅkalpan[sam\\kḷp]# [dhyāyaty[\\dhyai] [āha[\\ah]-[abhivipaśyati[abhi.vi\\paś] vā tathā-eva tad [bhavati-ity[\\bhū] [upadiśanti[upa\\diś] / (K_saṅkalpayan_)"
+        },
+        {
+          "ref": "Ap1.2.5.9",
+          "body": "[guru.prasādanīyāni[pra\\sad] karmāṇi svastyayanam adhyayana.saṃvṛttir iti /"
+        },
+        {
+          "ref": "Ap1.2.5.10",
+          "body": "ato- 'anyāni [nivartante[ni\\vṛt] brahmacāriṇaḥ karmāṇi /"
+        },
+        {
+          "ref": "Ap1.2.5.11",
+          "body": "svādhyāya.dhṛg dharma.rucis tapsvy ṛjur# mṛduḥ [sidhyati[\\sidh] brahmacārī / (K_ajur_)"
+        },
+        {
+          "ref": "Ap1.2.5.12",
+          "body": "sadā mahāntam apara.rātram [utthāya[ut\\sthā] guros [tiṣṭhan[\\sthā] prātar.abhivādam# [abhivādayīta[abhi\\vad]-asāv ahaṃ bho iti / (K_abhivādanam_)"
+        },
+        {
+          "ref": "Ap1.2.5.13",
+          "body": "samāna.grāme ca [vasatām[\\vas,pp] anyeṣām api vṛddhatarāṇāṃ prāk prātar.āśāt /"
+        },
+        {
+          "ref": "Ap1.2.5.14",
+          "body": "[proṣya[pra\\vas] ca samāgame /"
+        },
+        {
+          "ref": "Ap1.2.5.15",
+          "body": "svargam āyuś ca-[īpsan[\\āp, des.] /"
+        },
+        {
+          "ref": "Ap1.2.5.16",
+          "body": "dakṣiṇam bāhuṃ śrotra.samaṃ [prasārya[pra\\sṛ] brāhmaṇo- '[abhivādayīta[abhi\\vad]-uraḥ.samaṃ rājanyo madhya.samaṃ vaiśyo nīcaiḥ śūdraḥ prañjalim /"
+        },
+        {
+          "ref": "Ap1.2.5.17",
+          "body": "plāvanaṃ ca nāmno- 'abhivādana.pratyabhivādane ca pūrveṣāṃ varṇānām /"
+        },
+        {
+          "ref": "Ap1.2.5.18",
+          "body": "[udite[ut\\i] tv āditya ācāryeṇa [sametya[sam\\i]-upasaṅgrahaṇam /"
+        },
+        {
+          "ref": "Ap1.2.5.19",
+          "body": "sadā-eva-abhivādanam /"
+        },
+        {
+          "ref": "Ap1.2.5.20",
+          "body": "[upasaṃgrāhya[upa.sam\\grah] ācārya ity eke /"
+        },
+        {
+          "ref": "Ap1.2.5.21",
+          "body": "dakṣiṇena pāṇinā daksiṇaṃ pādam adhastād abhy [adhimṛśya[abhi\\mṛś] sa.kuṣṭhikam [upasaṃgṛhṇīyāt[upa.sam\\grah] /"
+        },
+        {
+          "ref": "Ap1.2.5.22",
+          "body": "ubhābhyām eva-ubhāv [abhipīḍayata[abhi\\pīḍ] [upasaṃgrāhyāv[upa.sam\\grah] ity eke /"
+        },
+        {
+          "ref": "Ap1.2.5.23",
+          "body": "sarva.ahṇaṃ [su.yukto[\\yuj]- 'adhyayanād anantaro-'adhyāye /"
+        },
+        {
+          "ref": "Ap1.2.5.24",
+          "body": "tathā guru.karmasu /"
+        },
+        {
+          "ref": "Ap1.2.5.25",
+          "body": "manasā ca-anadhyāye /"
+        },
+        {
+          "ref": "Ap1.2.5.26",
+          "body": "[āhūta.adhyāyī[ā\\hve] ca [syāt[\\as] /"
+        },
+        {
+          "ref": "Ap1.2.6.1",
+          "body": "sadā niśāyāṃ guruṃ [saṃveśayet[sam\\viś] tasya pādau [prakṣālya[pra\\kṣal] [saṃvāhya[sam\\vah] /"
+        },
+        {
+          "ref": "Ap1.2.6.2",
+          "body": "[anujñātaḥ[anu\\jñā] [saṃviśet[sam\\viś] /"
+        },
+        {
+          "ref": "Ap1.2.6.3",
+          "body": "na ca-enam [abhiprasārayīta[abhi.pra\\sṛ] /"
+        },
+        {
+          "ref": "Ap1.2.6.4",
+          "body": "na khaṭvāyāṃ sato- 'abhiprasāraṇam [asti[\\as]-ity eke /"
+        },
+        {
+          "ref": "Ap1.2.6.5",
+          "body": "na ca-asya sakāśe [saṃviṣṭo[sam\\viś] [bhāṣet[\\bhāṣ] / Ap1.2.6.6-7/ [abhibhāṣitas[abhi\\bhāṣ] tv [āsīnaḥ[\\ās] [pratibrūyāt[prati\\brū] , [anūtthāya[anu.ut\\sthā] [tiṣṭhantam[\\sthā] / Ap1.2.6.8-9/ [gacchantam[\\gam] [anugacchet[anu\\gam] , [dhāvantam[\\dhāv] [anudhāvet[anu\\dhāv] /"
+        },
+        {
+          "ref": "Ap1.2.6.10",
+          "body": "na [sa.upānah.veṣṭitaśirā[\\veṣṭ] [avahita.pāṇir[ava\\dhā] vā-[āsīdet[ā\\sad] /"
+        },
+        {
+          "ref": "Ap1.2.6.11",
+          "body": "adhvā-[āpannas[ā\\pad] tu [karma.yukto[\\yuj] vā-[āsīdet[ā\\sad] /"
+        },
+        {
+          "ref": "Ap1.2.6.12",
+          "body": "na ced [upasīdet[upa\\sad] /"
+        },
+        {
+          "ref": "Ap1.2.6.13",
+          "body": "devam iva-ācāryam [upāsīta[upa\\ās]-[avikathayann[vi\\kathay] avimanā vācaṃ [śuśrūṣamāṇo[\\śru, des.]- 'asya /"
+        },
+        {
+          "ref": "Ap1.2.6.14",
+          "body": "[anupastha.kṛtaḥ[upastha\\kṛ] / Ap1.2.6.15-17/ [anuvāti[anu\\vā]# [vītaḥ[vi\\i], [apratiṣṭabdhaḥ[prati\\stabh] pāṇinā , [anapaśrito[apa\\śri]- 'anyatra / (K_anuvāti_vāte_)"
+        },
+        {
+          "ref": "Ap1.2.6.18",
+          "body": "yajñopavītī dvi.vastraḥ /"
+        },
+        {
+          "ref": "Ap1.2.6.19",
+          "body": "[adho.nivītas[ni\\vye] tv eka.vastraḥ /"
+        },
+        {
+          "ref": "Ap1.2.6.20",
+          "body": "abhimukho- 'anabhimukham /"
+        },
+        {
+          "ref": "Ap1.2.6.21",
+          "body": "anāsanno- 'anatidūre# / (K_anatidūre_ca_)"
+        },
+        {
+          "ref": "Ap1.2.6.22",
+          "body": "[yāvad.āsīno[\\ās] bāhubhyām [prāpnuyāt[pra\\āp] /"
+        },
+        {
+          "ref": "Ap1.2.6.23",
+          "body": "aprati.vātam / Ap1.2.6.24-25/ eka.adhyāyī dakṣiṇaṃ bāhuṃ praty [upasīdet[upa\\sad] , yathā.avakāśaṃ bahavaḥ /"
+        },
+        {
+          "ref": "Ap1.2.6.26",
+          "body": "[tiṣṭhati[\\sthā] ca na-[āsīta[\\ās]-[anāsana.yoga.vihite[vi\\dhā] /"
+        },
+        {
+          "ref": "Ap1.2.6.27",
+          "body": "[āsīne[\\ās] ca na [saṃviśet[sam\\viś] /"
+        },
+        {
+          "ref": "Ap1.2.6.28",
+          "body": "[ceṣṭati[\\ceṣṭ] ca [cikīrṣan[\\kṛ, des.]-tac.chakti.viṣaye /"
+        },
+        {
+          "ref": "Ap1.2.6.29",
+          "body": "na ca-asya sakāśe- 'anvak.sthāninam# [upasaṃgṛhṇīyāt[upa.sam\\grah] / (K_--.sthānina_)"
+        },
+        {
+          "ref": "Ap1.2.6.30",
+          "body": "gotreṇa vā [kīrtayet[\\kīrtay] /"
+        },
+        {
+          "ref": "Ap1.2.6.31",
+          "body": "na ca-enaṃ praty [uttiṣṭhed[ut\\sthā] [anūttiṣṭhed[anu.ut\\sthā]# vā / (K_anuttiṣṭhed_)"
+        },
+        {
+          "ref": "Ap1.2.6.32",
+          "body": "api cet tasya guruḥ [syāt[\\as] / ( 31+32 = K"
+        },
+        {
+          "ref": "Ap1.2.6.33",
+          "body": "deśāt tv āsanāc ca [saṃsarpet[sam\\sṛp] / ( = K"
+        },
+        {
+          "ref": "Ap1.2.6.34",
+          "body": "nāmnā tad.antevāsinaṃ gurum apy ātmana ity eke / ( = K"
+        },
+        {
+          "ref": "Ap1.2.6.35",
+          "body": "yasmiṃs tv anācāryasaṃbandhād gauravaṃ vṛttis tasminn anvak.sthānīye- 'apy ācāryasya / ( = K"
+        },
+        {
+          "ref": "Ap1.2.6.38",
+          "body": "kiṃ [karavāṇi[\\kṛ]-ity āmantrya ( uttiṣṭhet tūṣṇīṃ vā"
+        },
+        {
+          "ref": "1.2.7.1",
+          "body": "/ ( = K"
+        },
+        {
+          "ref": "Ap1.2.7.1",
+          "body": "[uttiṣṭhet[ut\\sthā] tūṣṇīṃ vā /"
+        },
+        {
+          "ref": "Ap1.2.7.2",
+          "body": "na-[apaparyāvarteta[apa.pari.ā\\vṛt] guroḥ [pradakṣiṇīkṛtya[pradakṣiṇī\\kṛ]-[apeyāt[apa\\i] /"
+        },
+        {
+          "ref": "Ap1.2.7.3",
+          "body": "na [prekṣeta[pra\\īkṣ] nagnāṃ striyam /"
+        },
+        {
+          "ref": "Ap1.2.7.4",
+          "body": "oṣadhi.vanaspatīnām [ācchidya[ā\\chid] na-[upajighret[upa\\ghrā] /"
+        },
+        {
+          "ref": "Ap1.2.7.5",
+          "body": "upānahau chatraṃ yānam iti ca [varjayet[\\vṛj] /"
+        },
+        {
+          "ref": "Ap1.2.7.6",
+          "body": "na [smayeta[\\smi]# /"
+        },
+        {
+          "ref": "Ap1.2.7.7",
+          "body": "yadi [smayeta[\\smi]-[apigṛhya[api\\grah] [smayeta[\\smi]-iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.2.7.8",
+          "body": "na-[upajighret[upa\\ghrā] striyaṃ mukhena /"
+        },
+        {
+          "ref": "Ap1.2.7.9",
+          "body": "na hṛdayena prārthayet[pra\\arth] /"
+        },
+        {
+          "ref": "Ap1.2.7.10",
+          "body": "na-akāraṇād [upaspṛśet[upa\\spṛś] /"
+        },
+        {
+          "ref": "Ap1.2.7.11",
+          "body": "rajasvalo rakta.dan satya.vādī [syād[\\as] iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.2.7.12",
+          "body": "yāṃ vidyāṃ [kurute[\\kṛ] gurau te- 'apy asya-ācāryā ye tasyāṃ guror vaṃśyāḥ /"
+        },
+        {
+          "ref": "Ap1.2.7.13",
+          "body": "yān anyān [paśyato[\\paś]- 'asya-[upasaṃgṛhṇīyāt[upa.sam\\grah] tadā tv ete- upasaṃgrāhyāḥ /"
+        },
+        {
+          "ref": "Ap1.2.7.14",
+          "body": "guru.samavāye bhikṣāyām [utpannāyāṃ[ut\\pad] yam [anubaddhas[anu\\bandh] tad.adhīnā bhikṣā / Ap1.2.7.15-17/ [samāvṛtto[sam.ā\\vṛt] mātre [dadyāt[\\dā] , mātā bhartāraṃ [gamayet[\\gam] , bhartā gurum /"
+        },
+        {
+          "ref": "Ap1.2.7.18",
+          "body": "dharmakṛtyeṣu vā-[upayojayet[upa\\yuj] /"
+        },
+        {
+          "ref": "Ap1.2.7.19",
+          "body": "[kṛtvā[\\kṛ] vidyāṃ yāvatīṃ [śaknuyād[\\śak] veda.dakṣiṇām [āhared[ā\\hṛ] dharmato yathā.śakti /"
+        },
+        {
+          "ref": "Ap1.2.7.20",
+          "body": "viṣama.gate tv ācārya ugrataḥ śūdrato vā-[āharet[ā\\hṛ]"
+        },
+        {
+          "ref": "Ap1.2.7.21",
+          "body": "sarvadā śūdrata ugrato vā-ācārya.arthasya-āharaṇaṃ dhārmyam# ity eke / (K_dharmyam_)"
+        },
+        {
+          "ref": "Ap1.2.7.22",
+          "body": "[datvā[\\dā] ca na-[anukathayet[anu\\kathay] /"
+        },
+        {
+          "ref": "Ap1.2.7.23",
+          "body": "[kṛtvā[\\kṛ] ca na-[anusmaret[anu\\smṛ] /"
+        },
+        {
+          "ref": "Ap1.2.7.24",
+          "body": "ātma.praśaṃsāṃ para.garhām iti ca [varjayet[\\vṛj] /"
+        },
+        {
+          "ref": "Ap1.2.7.25",
+          "body": "[preṣitas[pra\\iṣ] tad# eva [pratipadyeta[prati\\pad] / (K_tadā_)"
+        },
+        {
+          "ref": "Ap1.2.7.26",
+          "body": "śāstuś ca-anāgamād vṛttir anyatra /"
+        },
+        {
+          "ref": "Ap1.2.7.27",
+          "body": "anyatra-upasaṃgrahaṇād ucchiṣṭa.aśanāc ca-ācāryavad ācārya.dāre vṛttiḥ /"
+        },
+        {
+          "ref": "Ap1.2.7.28",
+          "body": "tathā [samādiṣṭe[sam.ā\\diś]- '[adhyāpayati[adhi\\i] /"
+        },
+        {
+          "ref": "Ap1.2.7.29",
+          "body": "vṛddhatare ca sa.brahmacāriṇi /"
+        },
+        {
+          "ref": "Ap1.2.7.30",
+          "body": "ucchiṣṭa.aśana.varjam ācāryavad ācāryaputre vṛttiḥ /"
+        },
+        {
+          "ref": "Ap1.2.7.31",
+          "body": "[samāvṛttasya[sam.ā\\vṛt]-apy etad eva sāmayācārikam(<samaya.ācāra) eteṣu /"
+        },
+        {
+          "ref": "Ap1.2.8.1",
+          "body": "yathā brahmacāriṇo vṛttam /"
+        },
+        {
+          "ref": "Ap1.2.8.2",
+          "body": "[mālya.ālipta.mukha[ā\\lip] [upalipta.keśa.śmaśrur[upa\\lip] [akto[\\añj]- '[abhyakto[abhi\\añj] veṣṭity.upaveṣṭitī kāñcuky upānahī pādukī /"
+        },
+        {
+          "ref": "Ap1.2.8.3",
+          "body": "udācāreṣu ca-asya-etāni na [kuryāt[\\kṛ] [kārayed vā /"
+        },
+        {
+          "ref": "Ap1.2.8.4",
+          "body": "svairi.karmasu ca /"
+        },
+        {
+          "ref": "Ap1.2.8.5",
+          "body": "yathā danta.prakṣālana.utsādana.avalekhanāni-iti /"
+        },
+        {
+          "ref": "Ap1.2.8.6",
+          "body": "tad.dravyāṇāṃ ca na [kathayed[\\kathay] ātma.saṃyogena-ācāryaḥ /"
+        },
+        {
+          "ref": "Ap1.2.8.7",
+          "body": "[snātas[\\snā] tu kāle yathāvidhy [abhihṛtam[abhi\\hṛ] [āhūto[ā\\hve]- '[abhyeto[abhi\\i] vā na [pratisaṃhared[prati.sam\\hṛ] ity eke / Ap1.2.8.8-10/ uccaistarāṃ na-[āsīta[\\ās] , tathā bahu.pāde , sarvataḥ [pratiṣṭhite[prati\\sthā] /"
+        },
+        {
+          "ref": "Ap1.2.8.11",
+          "body": "śayyā.āsane ca-[ācarite[ā\\car] na-[āviśet[ā\\viś] /"
+        },
+        {
+          "ref": "Ap1.2.8.12",
+          "body": "yānam [ukto[\\vac]- 'adhvany [anvārohet[anu.ā\\ruh] /"
+        },
+        {
+          "ref": "Ap1.2.8.13",
+          "body": "sabhā.nikaṣa.kaṭa.svastarāṃś ca /"
+        },
+        {
+          "ref": "Ap1.2.8.14",
+          "body": "na-anabhibhāṣito gurum [abhibhāṣeta[abhi\\bhāṣ] priyād anyat /"
+        },
+        {
+          "ref": "Ap1.2.8.15",
+          "body": "vyupatoda.vyupajāva#.vyabhihāsa.udāmantraṇa.nāmadheya.grahaṇa.preṣaṇāni-iti guror [varjayet[\\vṛj] / (K_--.vyupajāpa.--_)"
+        },
+        {
+          "ref": "Ap1.2.8.16",
+          "body": "āpady arthaṃ [jñāpayet[\\jñā] /"
+        },
+        {
+          "ref": "Ap1.2.8.17",
+          "body": "saha [vasan[\\vas] sāyaṃ prātar [anāhūto[ā\\hve] guruṃ darśana.artho [gacchet[\\gam] /"
+        },
+        {
+          "ref": "Ap1.2.8.18",
+          "body": "[viproṣya[vi.pra\\vas] ca tad ahar eva [paśyet[\\paś] / Ap1.2.8.19-20/ ācārya.prācārya.saṃnipāte prācāryāya-upasaṃgṛhya-[upasaṃjighṛkṣed[upa.sam\\grah, des.] ācāryam , [pratiṣedhed[prati\\sidh] itaraḥ /"
+        },
+        {
+          "ref": "Ap1.2.8.21",
+          "body": "[lupyate[\\lup] pūjā ca-asya sakāśe /"
+        },
+        {
+          "ref": "Ap1.2.8.22",
+          "body": "muhūṃś ca-ācārya.kulaṃ darśana.artho [gacched[\\gam] yathāśakty adhihastyam [ādāya[ā\\dā]-api danta.prakṣālanāni-iti / (K_inserts_8.23_mātaraṃ_pitaram_ācaryam_agnīṃś_ca_gṛhāṇi_ca_rikta.pāṇir_na-[upagachhed[upa\\gam]_rājānaṃ_cen_na_śrutam_iti_/_)"
+        },
+        {
+          "ref": "Ap1.2.8.23",
+          "body": "tasmin guror vṛttiḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.2.8.24",
+          "body": "putram iva-enam [anukāṅkṣan[anu\\kaṅkṣ] sarva.dharmeṣv [anapacchādayamānaḥ[apa\\chad] [su.yukto[\\yuj] vidyāṃ [grāhayet[\\grah] / (K_=_25_)"
+        },
+        {
+          "ref": "Ap1.2.8.25",
+          "body": "na ca-enam adhyayana.vighnena-ātma.artheṣu-[uparundhyād[upa\\rudh] anāpatsu / ( = K"
+        },
+        {
+          "ref": "Ap1.2.8.26",
+          "body": "antevāsy.anantevāsī bhavati [vinihita.ātmā[vi.ni\\dhā] gurāv.anaipuṇam [āpadyamānaḥ[ā\\pad] / ( = K"
+        },
+        {
+          "ref": "Ap1.2.8.27",
+          "body": "ācāryo- 'apy anācāryo [bhavati[\\bhū] [śrutāt[\\śru] [pariharamāṇaḥ[pari\\hṛ] / ( = K"
+        },
+        {
+          "ref": "Ap1.2.8.28",
+          "body": "aparādheṣu ca-enaṃ* satatam [upālabheta[upa.ā\\labh] / ( = K"
+        },
+        {
+          "ref": "Ap1.2.8.29",
+          "body": "abhitrāsa upavāsa udaka.upasparśanam adarśanam iti daṇḍā yathāmātram ā nivṛtteḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.2.8.30",
+          "body": "[nivṛttaṃ[ni\\vṛt] [carita.brahmacaryam[\\car] anyebhyo dharmebhyo- 'anantaro [bhava[\\bhū]-ity [atisṛjet[ati\\sṛj] / ( = K"
+        },
+        {
+          "ref": "Ap1.3.9.1",
+          "body": "śrāvaṇyāṃ paurṇamāsyām adhyāyam [upākṛtya[upa.ā\\kṛ] māsaṃ pradoṣe na-[adhīyīta[adhi\\i] /"
+        },
+        {
+          "ref": "Ap1.3.9.2",
+          "body": "taiṣyāṃ paurṇamāsyāṃ rohiṇyāṃ vā [viramet[vi\\ram] /"
+        },
+        {
+          "ref": "Ap1.3.9.3",
+          "body": "ardhapañcamāṃś caturo māsān ity eke /"
+        },
+        {
+          "ref": "Ap1.3.9.4",
+          "body": "nigameṣv adhyayanaṃ [varjayet[\\vṛj] /"
+        },
+        {
+          "ref": "Ap1.3.9.5",
+          "body": "ānaḍuhena vā śakṛt.piṇḍena-[upalipte[upa\\lip]- '[adhīyīta[adhi\\i] /"
+        },
+        {
+          "ref": "Ap1.3.9.6",
+          "body": "śmaśāne sarvataḥ śamyā.prāsāt /"
+        },
+        {
+          "ref": "Ap1.3.9.7",
+          "body": "grāmeṇa-[adhyavasite[adhi.ava\\so] kṣetreṇa vā na-anadhyāyaḥ /"
+        },
+        {
+          "ref": "Ap1.3.9.8",
+          "body": "[jñāyamāne[\\jñā] tu tasminn eva deśe na-[adhīyīta[adhi\\i] /"
+        },
+        {
+          "ref": "Ap1.3.9.9",
+          "body": "śmaśānavac-śūdra.patitau /"
+        },
+        {
+          "ref": "Ap1.3.9.10",
+          "body": "samāna.agāra ity eke /"
+        },
+        {
+          "ref": "Ap1.3.9.11",
+          "body": "śūdrāyāṃ tu prekṣaṇa.pratiprekṣaṇayor eva-anadhyāyaḥ /"
+        },
+        {
+          "ref": "Ap1.3.9.12",
+          "body": "tathā-anyasyāṃ striyāṃ [varṇa.vyatikrāntāyāṃ[vi.ati\\kram] maithune /"
+        },
+        {
+          "ref": "Ap1.3.9.13",
+          "body": "brahma-[adhyeṣyamāṇo[adhi\\i] malavad.vāsasā-[icchan[\\iṣ] [saṃbhāṣituṃ[sam\\bhāṣ] brāhmaṇena saṃbhāṣya tayā saṃbhāṣeta / saṃbhāṣya tu brāhmaṇena-eva saṃbhāṣya-[adhīyīta[adhi\\i] / evaṃ tasyāḥ prajā.niḥśreyasam //"
+        },
+        {
+          "ref": "Ap1.3.9.14",
+          "body": "antaḥ.śavam /"
+        },
+        {
+          "ref": "Ap1.3.9.15",
+          "body": "antaś.cāṇḍālam /"
+        },
+        {
+          "ref": "Ap1.3.9.16",
+          "body": "[abhinirhṛtānāṃ[abhi.nir\\hṛ]# tu sīmny anadhyāyaḥ / (K_abhinissṛtānāṃ,_in_variant_abhinirhṛtānāṃ_)"
+        },
+        {
+          "ref": "Ap1.3.9.17",
+          "body": "saṃdarśane ca-araṇye /"
+        },
+        {
+          "ref": "Ap1.3.9.18",
+          "body": "tad ahar [āgateṣu[ā\\gam] ca grāmaṃ bāhyeṣu /"
+        },
+        {
+          "ref": "Ap1.3.9.19",
+          "body": "api satsu /"
+        },
+        {
+          "ref": "Ap1.3.9.20",
+          "body": "saṃdhāvanu.stanite rātrim /"
+        },
+        {
+          "ref": "Ap1.3.9.21",
+          "body": "svapna.paryāntaṃ vidyuti /"
+        },
+        {
+          "ref": "Ap1.3.9.22",
+          "body": "upavyuṣaṃ yāvatā vā kṛṣṇāṃ rohiṇīm iti śamyā.prāsād [vijānīyād[vi\\jñā] etasmin kāle [vidyotamāne[vi\\dyut] sa.pradoṣam ahar anadhyāyaḥ /"
+        },
+        {
+          "ref": "Ap1.3.9.23",
+          "body": "dahre- 'apararātre stanayitnunā /"
+        },
+        {
+          "ref": "Ap1.3.9.24",
+          "body": "ūrdhvam ardharātrād ity eke /"
+        },
+        {
+          "ref": "Ap1.3.9.25",
+          "body": "gavāṃ ca-avarodhe /"
+        },
+        {
+          "ref": "Ap1.3.9.26",
+          "body": "[vadhyānāṃ[\\vadh] ca yāvatā [hanyante[\\han] /"
+        },
+        {
+          "ref": "Ap1.3.9.27",
+          "body": "[pṛṣṭha.ārūḍhaḥ[ā\\ruh] paśūnāṃ na-[adhīyīta[adhi\\i] /"
+        },
+        {
+          "ref": "Ap1.3.9.28",
+          "body": "ahorātrāv amāvāsyāsu /"
+        },
+        {
+          "ref": "Ap1.3.10.1",
+          "body": "cāturmāsīṣu ca /"
+        },
+        {
+          "ref": "Ap1.3.10.2",
+          "body": "vairamaṇo guruṣv aṣṭākya aupākaraṇa iti try.ahāḥ /"
+        },
+        {
+          "ref": "Ap1.3.10.3",
+          "body": "tathā saṃbandheṣu jñātiṣu /"
+        },
+        {
+          "ref": "Ap1.3.10.4",
+          "body": "mātari pitary ācārya iti dvādaśa.ahāḥ /"
+        },
+        {
+          "ref": "Ap1.3.10.5",
+          "body": "teṣu ca-udaka.upasparśanaṃ tāvantaṃ kālam /"
+        },
+        {
+          "ref": "Ap1.3.10.6",
+          "body": "anubhāvināṃ ca parivāpanam /"
+        },
+        {
+          "ref": "Ap1.3.10.7",
+          "body": "na [samāvṛttā[sam.ā\\vṛt] [vaperann[\\vap] anyatra vihārād ity eke /"
+        },
+        {
+          "ref": "Ap1.3.10.8",
+          "body": "atha-api brāhmaṇam, rikto vā eṣo- '[anapihito[api\\dhā] yan muṇḍas tasya-etad apidhānaṃ yac-śikhā-iti /"
+        },
+        {
+          "ref": "Ap1.3.10.9",
+          "body": "satreṣu tu vacanād vapanaṃ śikhāyāḥ /"
+        },
+        {
+          "ref": "Ap1.3.10.10",
+          "body": "ācārye trīn ahorātrān ity eke /"
+        },
+        {
+          "ref": "Ap1.3.10.11",
+          "body": "śrotriya.saṃsthāyām aparisaṃvatsarāyām ekām /"
+        },
+        {
+          "ref": "Ap1.3.10.12",
+          "body": "sa.brahmacāriṇi-ity eke /"
+        },
+        {
+          "ref": "Ap1.3.10.13",
+          "body": "śrotriya.abhyāgame- '[adhijigāṃsamāno[adhi\\gam, des.]- '[adhīyāno[adhi\\i] vā-/[anujñāpya[anu\\jñā]-[adhīyīta /"
+        },
+        {
+          "ref": "Ap1.3.10.14",
+          "body": "[adhyāpayed[adhi\\i] vā /"
+        },
+        {
+          "ref": "Ap1.3.10.15",
+          "body": "guru.saṃnidhau ca-[adhīhi[adhi\\i] bho ity [uktvā[\\vac]-[adhīyīta /"
+        },
+        {
+          "ref": "Ap1.3.10.16",
+          "body": "[adhyāpayed[adhi\\i] vā /"
+        },
+        {
+          "ref": "Ap1.3.10.17",
+          "body": "ubhayata upasaṃgrahaṇam [adhijigāṃsamānasya[adhi\\gam, des.]-[adhītya[adhi\\i] ca /"
+        },
+        {
+          "ref": "Ap1.3.10.18",
+          "body": "[adhīyāneṣu[adhi\\i] vā yatra-anyo [vyaveyād[vi.ava\\i] etam eva śabdam utsṛjya-[adhīyīta[ut\\sṛj] /"
+        },
+        {
+          "ref": "Ap1.3.10.19",
+          "body": "śva.gardabha.nādāḥ salāvṛky.ekasṛka.ulūka.śabdāḥ sarve vāditra.śabdā rodana.gīta.sāma.śabdāś ca /"
+        },
+        {
+          "ref": "Ap1.3.10.20",
+          "body": "śākhāntare ca sāmnām anadhyāyaḥ /"
+        },
+        {
+          "ref": "Ap1.3.10.21",
+          "body": "sarveṣu ca śabda.karmasu yatra [saṃsṛjyeran[sam\\srj] /"
+        },
+        {
+          "ref": "Ap1.3.10.22",
+          "body": "[chardayitvā[\\chard] svapna.antam /"
+        },
+        {
+          "ref": "Ap1.3.10.23",
+          "body": "sarpir vā [prāśya[pra\\aś] /"
+        },
+        {
+          "ref": "Ap1.3.10.24",
+          "body": "pūtī.gandhaḥ# / (K_pūti.--_)"
+        },
+        {
+          "ref": "Ap1.3.10.25",
+          "body": "śuktaṃ ca-[ātma.saṃyuktam[sam\\yuj] /"
+        },
+        {
+          "ref": "Ap1.3.10.26",
+          "body": "pradoṣe ca [bhuktvā[\\bhuj]# / (K_adds_na-adhīyīta_)"
+        },
+        {
+          "ref": "Ap1.3.10.27",
+          "body": "prodakayoś ca pāṇyoḥ /"
+        },
+        {
+          "ref": "Ap1.3.10.28",
+          "body": "[preta.saṃkḷptaṃ[sam\\kḷp] ca-annaṃ [bhuktvā[\\bhuj] sa.pradoṣam ahar anadhyāyaḥ /"
+        },
+        {
+          "ref": "Ap1.3.10.29",
+          "body": "ā ca vipākāt /"
+        },
+        {
+          "ref": "Ap1.3.10.30",
+          "body": "aśrāddhena tu [paryavadadhyāt[pari.ava\\dhā] /"
+        },
+        {
+          "ref": "Ap1.3.11.1",
+          "body": "kāṇḍa.upākaraṇe ca-amātṛkasya /"
+        },
+        {
+          "ref": "Ap1.3.11.2",
+          "body": "kāṇḍasamāpane ca-apitṛkasya /"
+        },
+        {
+          "ref": "Ap1.3.11.3",
+          "body": "manuṣya.prakṛtīnāṃ ca devānāṃ yajñe [bhuktvā[\\bhuj]-ity eke //"
+        },
+        {
+          "ref": "Ap1.3.11.4",
+          "body": "[paryuṣitais[pari\\vas] taṇḍulair āma.māṃsena ca na-anadhyāyāḥ# / (K_anadhyāyaḥ_)"
+        },
+        {
+          "ref": "Ap1.3.11.5",
+          "body": "tathā-oṣadhi.vanaspati.mūla.phalaiḥ /"
+        },
+        {
+          "ref": "Ap1.3.11.6",
+          "body": "yat kāṇḍam [upākurvīta[upa.ā\\kṛ] yasya ca-anuvākyaṃ [kurvīta[\\kṛ] na tat tad ahar [adhīyīta[adhi\\i] /"
+        },
+        {
+          "ref": "Ap1.3.11.7",
+          "body": "upākaraṇa.samāpanayoś ca pārāyaṇasya tāṃ vidyām /"
+        },
+        {
+          "ref": "Ap1.3.11.8",
+          "body": "vāyur ghoṣavān bhūmau vā tṛṇa saṃvāho [varṣati[\\vṛṣ] vā yatra dhārāḥ [pravahet /"
+        },
+        {
+          "ref": "Ap1.3.11.9",
+          "body": "grāma.āraṇyayoś ca sandhau /"
+        },
+        {
+          "ref": "Ap1.3.11.10",
+          "body": "mahāpathe ca /"
+        },
+        {
+          "ref": "Ap1.3.11.11",
+          "body": "[viproṣya[vi.pra\\uṣ] ca samadhyayanaṃ tad ahaḥ / ( 9+10+11 = K"
+        },
+        {
+          "ref": "Ap1.3.11.12",
+          "body": "svairi.karmasu ca / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.13",
+          "body": "yathā pāda#1.prakṣālana.utsādanā.anulepanāṇi#2-iti / ( = K 11, 1:hasta, 2:anulekhaṇāni )"
+        },
+        {
+          "ref": "Ap1.3.11.14",
+          "body": "tāvantaṃ kālaṃ na-[adhīyīta[adhi\\i]-[adhyāpayed[adhi\\āp] vā / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.15",
+          "body": "sandhyoḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.16",
+          "body": "tathā vṛkṣam [ārūḍhaḥ[ā\\ruh] /"
+        },
+        {
+          "ref": "Ap1.3.11.17",
+          "body": "apsu ca-[avagāḍhaḥ[ava\\gāh] /"
+        },
+        {
+          "ref": "Ap1.3.11.18",
+          "body": "naktaṃ ca-[apāvṛte[apa.ā\\vṛ] / ( 16+17+18 = K"
+        },
+        {
+          "ref": "Ap1.3.11.19",
+          "body": "divā ca-[apihite / ( = K 15, pihite instead of apihite )"
+        },
+        {
+          "ref": "Ap1.3.11.20",
+          "body": "[avihitam anuvāka.adhyayanam āṣāḍha.vāsantikayoḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.21",
+          "body": "nitya.praśnasya ca-avidhinā / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.22",
+          "body": "tasya vidhiḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.23",
+          "body": "[akṛta.prātarāśa udaka.antaṃ [gatvā [prayataḥ śucau deśe- '[adhīyīta yathā.adhyāyam [utsṛjan vācā / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.24",
+          "body": "manasā ca-anadhyāye / (K_=_20_)"
+        },
+        {
+          "ref": "Ap1.3.11.25",
+          "body": "vidyuti ca-abhyagrāyāṃ stanayitnāv aprāyatye preta.anne nīhāre ca mānasaṃ [paricakṣate / (K_=_21_)"
+        },
+        {
+          "ref": "Ap1.3.11.26",
+          "body": "śrāddha.bhojana eva-eke / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.27",
+          "body": "vidyut.stanayitnur vṛṣṭiś ca-apartau yatra [saṃnipateyus try.aham anadhyāyaḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.28",
+          "body": "yāvad bhūmir vyudakā-ity eke / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.29",
+          "body": "ekena dvābhyāṃ vā-eteṣām ā.kālam / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.30",
+          "body": "sūryā.candramasor grahaṇe bhūmi.cale- 'apasvāna ulkāyām agny.utpāte ca sarvāsāṃ vidyānāṃ sārvakālikam ā.kālam / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.31",
+          "body": "abhraṃ ca-apartau sūryā.candramasoḥ pariveṣa indradhanuḥ pratisūrya.matsyaś ca vāte pūtī.gandhe#1 nīhāre ca sarveṣv eteṣu tāvantaṃ#2 kālam / ( = K 27, 1:pūti.--, 2:tāvat )"
+        },
+        {
+          "ref": "Ap1.3.11.32",
+          "body": "muhūrtaṃ [virate vāte / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.33",
+          "body": "salāvṛkyām ekasṛka iti svapna.paryāntam / ( = K 29, --.paryantam instead of --.paryāntam )"
+        },
+        {
+          "ref": "Ap1.3.11.34",
+          "body": "naktaṃ ca-araṇye- 'anagnāv ahiraṇye vā / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.35",
+          "body": "[ananūktaṃ ca-apartau chandaso na-[adhīyīta / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.36",
+          "body": "pradoṣe ca / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.37",
+          "body": "sārvakālikam [āmnātam / ( = K"
+        },
+        {
+          "ref": "Ap1.3.11.38",
+          "body": "[yathā.uktam anyad ataḥ pariṣatsu / ( = K"
+        },
+        {
+          "ref": "Ap1.4.12.1",
+          "body": "tapaḥ svādhyāya iti brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.4.12.2",
+          "body": "tatra [śrūyate / sa yadi [tiṣṭhann [āsīnaḥ [śayāno vā svādhyāyam [adhīte tapa eva tat [tapyate tapo hi svādhyāya iti /"
+        },
+        {
+          "ref": "Ap1.4.12.3",
+          "body": "atha-api vājasaneyi.brāhmaṇam / brahma.yajño ha vā eṣa yat svādhyāyas tasya-ete vaṣaṭ.kārā* yat [stanayati yad vidyotate yad [avasphūrjati yad vāto [vāyati / tasmāt [stanayati [vidyotamāne- 'avasphūrjati vāte vā [vāyaty [adhīyīta-eva vaṣaṭ.kārāṇām acchambaṭkārāya-iti / [*ed. vaṣakārā]"
+        },
+        {
+          "ref": "Ap1.4.12.4",
+          "body": "tasya śākhā.antare vākya.samāptiḥ /"
+        },
+        {
+          "ref": "Ap1.4.12.5",
+          "body": "atha yadi vāto#1 vā#1 [vāyāt [stanayed vā [vidyoteta vā-[avasphūrjed vā-ekāṃ vā-ṛcam ekaṃ vā yajur ekaṃ vā sāma-[abhivyāhared bhūr bhuvaḥ suvaḥ satyaṃ tapaḥ śraddhāyāṃ [juhomi-iti vā-etat / teno ha-eva#2-asya-etad ahaḥ svādhyāya [upātto [bhavati / (K_1:vā_vāto_instead_of_vāto_vā,_2:tena-ūha-eva_instead_of_teno_ha-eva_)"
+        },
+        {
+          "ref": "Ap1.4.12.6",
+          "body": "evaṃ saty ārya.samayena-[avipratiṣiddham /"
+        },
+        {
+          "ref": "Ap1.4.12.7",
+          "body": "adhyāya.anadhyāyaṃ hy [upadiśanti / tad anarthakaṃ [syād vājasaneyi.brāhmaṇaṃ ced [avekṣeta /"
+        },
+        {
+          "ref": "Ap1.4.12.8",
+          "body": "ārya.samayo hy agṛhyamāna.kāraṇaḥ /"
+        },
+        {
+          "ref": "Ap1.4.12.9",
+          "body": "vidyāṃ praty anadhyāyaḥ [śrūyate na karma.yoge mantrāṇām /"
+        },
+        {
+          "ref": "Ap1.4.12.10",
+          "body": "brāhmaṇa.[uktā vidhayas teṣām [utsannāḥ pāṭhāḥ prayogād [anumīyante /"
+        },
+        {
+          "ref": "Ap1.4.12.11",
+          "body": "yatra tu prīti.upalabdhitaḥ pravṛttir na tatra śāstram [asti /"
+        },
+        {
+          "ref": "Ap1.4.12.12",
+          "body": "tad [anuvartamāno narakāya [rādhyati /"
+        },
+        {
+          "ref": "Ap1.4.12.13",
+          "body": "atha brāhmaṇa.[uktā vidhayaḥ /"
+        },
+        {
+          "ref": "Ap1.4.12.14",
+          "body": "teṣāṃ mahā.yajñā mahā.sattrāṇi-iti saṃstutiḥ /"
+        },
+        {
+          "ref": "Ap1.4.12.15",
+          "body": "ahar ahar bhūta.balir manuṣyebhyo yathā.śakti dānam /"
+        },
+        {
+          "ref": "Ap1.4.13.1",
+          "body": "devebhyaḥ svāhā.kāra ā kāṣṭhāt , pitṛbhyaḥ svadhā.kāra ā-uda.pātrāt svādhyāya iti / Ap1.4.13.2-3/ pūjā varṇa.jyāyasāṃ [kāryā , vṛddhatarāṇāṃ ca /"
+        },
+        {
+          "ref": "Ap1.4.13.4",
+          "body": "[hṛṣṭo [darpati [dṛpto dharmam [atikrāmati dharma.atikrame khalu punar narakaḥ /"
+        },
+        {
+          "ref": "Ap1.4.13.5",
+          "body": "na [samāvṛtte samādeśo [vidyate /"
+        },
+        {
+          "ref": "Ap1.4.13.6",
+          "body": "oṃ.kāraḥ svarga.dvāraṃ tasmād brahma-[adhyeṣyamāṇa etad.ādi [pratipadyeta /"
+        },
+        {
+          "ref": "Ap1.4.13.7",
+          "body": "vikathāṃ ca-anyāṃ [kṛtvā-evaṃ laukikyā vācā [vyāvartate brahma/"
+        },
+        {
+          "ref": "Ap1.4.13.8",
+          "body": "yajñeṣu ca-etad.ādayaḥ prasavāḥ/"
+        },
+        {
+          "ref": "Ap1.4.13.9",
+          "body": "loke ca bhūti.karmasv etad.ādīny eva vākyāni [syur yathā puṇya.ahaṃ svasti.ṛddhim iti /"
+        },
+        {
+          "ref": "Ap1.4.13.10",
+          "body": "na-asamayena kṛcchraṃ [kurvīta triḥśrāvaṇaṃ triḥsahavacanam iti [parihāpya /"
+        },
+        {
+          "ref": "Ap1.4.13.11",
+          "body": "avicikitsā yāvad brahma [nigantavyam iti hārītaḥ /"
+        },
+        {
+          "ref": "Ap1.4.13.12",
+          "body": "na bahir.vede gatir [vidyate /"
+        },
+        {
+          "ref": "Ap1.4.13.13",
+          "body": "[samādiṣṭam [adhyāpayantaṃ yāvad adhyayanam [upasaṃgṛhṇīyāt /"
+        },
+        {
+          "ref": "Ap1.4.13.14",
+          "body": "nityam [arhantam ity eke /"
+        },
+        {
+          "ref": "Ap1.4.13.15",
+          "body": "na gatir [vidyate /"
+        },
+        {
+          "ref": "Ap1.4.13.16",
+          "body": "vṛddhānāṃ tu /"
+        },
+        {
+          "ref": "Ap1.4.13.17",
+          "body": "brahmaṇi mitho viniyoge na gatir [vidyate /"
+        },
+        {
+          "ref": "Ap1.4.13.18",
+          "body": "brahma [vardhata ity [upadiśanti /"
+        },
+        {
+          "ref": "Ap1.4.13.19",
+          "body": "niveśe [vṛtte saṃvatsare saṃvatsare dvau dvau māsau [samāhita ācārya.kule [vased bhūyaḥ [śrutam# [icchann iti śvetaketuḥ /"
+        },
+        {
+          "ref": "Ap1.4.13.20",
+          "body": "etena hy ahaṃ yogena bhūyaḥ pūrvasmāt kālāt-śrutam [akurvi-iti / (K_śrutim_)"
+        },
+        {
+          "ref": "Ap1.4.13.21",
+          "body": "tat-śāstrair [vipratiṣiddham /"
+        },
+        {
+          "ref": "Ap1.4.13.22",
+          "body": "niveśe hi [vṛtte naiyamikāni [śrūyante /"
+        },
+        {
+          "ref": "Ap1.4.14.1",
+          "body": "agnihotram atithayaḥ /"
+        },
+        {
+          "ref": "Ap1.4.14.2",
+          "body": "yac ca-anyad evaṃ [yuktam / ( 1+2 = K"
+        },
+        {
+          "ref": "1",
+          "body": ")"
+        },
+        {
+          "ref": "Ap1.4.14.3",
+          "body": "adhyayana.arthena yaṃ [codayen na ca-enaṃ [pratyācakṣīta / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.4",
+          "body": "na ca-asmin doṣaṃ [paśyet / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.5",
+          "body": "yad.ṛcchāyām [asaṃvṛttau gatir eva tasmin / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.6",
+          "body": "mātari pitary ācāryavat-śuśrūṣā / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.7",
+          "body": "samāvṛttena sarve gurava [upasaṃgrāhyāḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.8",
+          "body": "[proṣya ca samāgame / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.9",
+          "body": "bhrātṛṣu bhaginīṣu ca yathā.pūrvam upasaṃgrahaṇam / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.10",
+          "body": "nityā ca pūjā yathā.upadeśam / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.11",
+          "body": "ṛtvik.śvaśura.pitṛvya.mātulān avara.vayasaḥ [pratyutthāya-[abhivadet / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.12",
+          "body": "tūṣṇīṃ vā-[upasaṃgṛhṇīyāt / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.13",
+          "body": "(ś) daśa.varṣaṃ paura.sakhyaṃ pañca.varṣaṃ tu cāraṇam / tri.varṣa.pūrvaḥ śrotriyaḥ abhivādanam [arhati //( = K"
+        },
+        {
+          "ref": "Ap1.4.14.14",
+          "body": "[jñāyamāne vayo.viśeṣe vṛddhatarāya-[abhivādyam / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.15",
+          "body": "viṣama.gatāya-agurave na-[abhivādyam / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.16",
+          "body": "[anvāruhya vā-abhivādayīta / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.17",
+          "body": "sarvatra tu [pratyutthāya-abhivādanam / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.18",
+          "body": "[aprayatena na-[abhivādyam /"
+        },
+        {
+          "ref": "Ap1.4.14.19",
+          "body": "tathā-aprayatāya /"
+        },
+        {
+          "ref": "Ap1.4.14.20",
+          "body": "aprayataś ca na [pratyabhivadet / ( 18+19+20 = K"
+        },
+        {
+          "ref": "Ap1.4.14.21",
+          "body": "pati.vayasaḥ striyaḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.22",
+          "body": "na sa.upānah.[veṣṭita.śirā [avahita.pāṇir vā-[abhivādayīta / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.23",
+          "body": "sarva.nāmnā striyo rājanya.vaiśyau ca na nāmnā / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.24",
+          "body": "mātaram ācārya.dāraṃ ca-ity eke / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.25",
+          "body": "(ś) daśa.varṣaś ca brāhmaṇaḥ śata.varṣaś ca kṣatriyaḥ / pitā.putrau sma tau [viddhi tayos tu brāhmaṇaḥ pitā //( = K"
+        },
+        {
+          "ref": "Ap1.4.14.26",
+          "body": "kuśalam avara.vayasaṃ vayasyaṃ vā [pṛcchet / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.27",
+          "body": "anāmayaṃ kṣatriyam / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.28",
+          "body": "[anaṣṭaṃ vaiśyam / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.29",
+          "body": "ārogyaṃ śūdram / ( = K"
+        },
+        {
+          "ref": "Ap1.4.14.30",
+          "body": "na-asaṃbhāṣya śrotriyaṃ [vyativrajet / (K_=_27_)"
+        },
+        {
+          "ref": "Ap1.4.14.31",
+          "body": "araṇye ca striyam / ( = K"
+        },
+        {
+          "ref": "Ap1.5.15.1",
+          "body": "upāsane gurūṇāṃ vṛddhānām atithīnāṃ home [japya.karmaṇi bhojana ācamane svādhyāye ca yajñopavītī [syāt /"
+        },
+        {
+          "ref": "Ap1.5.15.2",
+          "body": "[bhūmi.gatāsv apsv [ācamya [prayato [bhavati /"
+        },
+        {
+          "ref": "Ap1.5.15.3",
+          "body": "yaṃ vā [prayata [ācāmayet /"
+        },
+        {
+          "ref": "Ap1.5.15.4",
+          "body": "na varṣa.dhārāsv [ācāmet /"
+        },
+        {
+          "ref": "Ap1.5.15.5",
+          "body": "tathā pradara.udake /"
+        },
+        {
+          "ref": "Ap1.5.15.6",
+          "body": "[taptābhiś ca-akāraṇāt /"
+        },
+        {
+          "ref": "Ap1.5.15.7",
+          "body": "rikta.pāṇir vayasa [udyamya-apa [upaspṛśet / Ap1.5.15.8-9/ śakti.viṣaye na muhūrtam apy [aprayataḥ [syāt , nagno vā /"
+        },
+        {
+          "ref": "Ap1.5.15.10",
+          "body": "na-apsu sataḥ prayamaṇam [vidyate /"
+        },
+        {
+          "ref": "Ap1.5.15.11",
+          "body": "[uttīrya tv ācāmet /"
+        },
+        {
+          "ref": "Ap1.5.15.12",
+          "body": "na-[aprokṣitam indhanam agnāv [ādadhyāt /"
+        },
+        {
+          "ref": "Ap1.5.15.13",
+          "body": "mūḍha.svastare ca-[asaṃspṛśann anyān aprayatān [prayato [manyeta /"
+        },
+        {
+          "ref": "Ap1.5.15.14",
+          "body": "tathā tṛṇa.kāṣṭheṣu [nikhāteṣu /"
+        },
+        {
+          "ref": "Ap1.5.15.15",
+          "body": "[prokṣya vāsa [upayojayet /"
+        },
+        {
+          "ref": "Ap1.5.15.16",
+          "body": "śūna.[upahataḥ sa.celo- '[avagāheta /"
+        },
+        {
+          "ref": "Ap1.5.15.17",
+          "body": "[prakṣālya vā taṃ deśam agninā [saṃspṛśya punaḥ [prakṣālya pādau ca-ācamya [prayato [bhavati /"
+        },
+        {
+          "ref": "Ap1.5.15.18",
+          "body": "agniṃ na-aprayata [āsīdet /"
+        },
+        {
+          "ref": "Ap1.5.15.19",
+          "body": "iṣu.mātrād ity eke /"
+        },
+        {
+          "ref": "Ap1.5.15.20",
+          "body": "na ca-enam [upadhamet /"
+        },
+        {
+          "ref": "Ap1.5.15.21",
+          "body": "khaṭvāyāṃ ca na-upadadhyāt /"
+        },
+        {
+          "ref": "Ap1.5.15.22",
+          "body": "prabhūta.edha.udake grāme yatra-ātma.adhīnaṃ prayamaṇaṃ tatra vāso dhārmyo brāhmaṇasya /"
+        },
+        {
+          "ref": "Ap1.5.15.23",
+          "body": "mūtraṃ [kṛtvā purīṣaṃ vā mūtra.purīṣa.lepān anna.lepān ucchiṣṭa.lepān retasaś ca ye lepās tān [prakṣālya pādau ca-[ācamya [prayato [bhavati /"
+        },
+        {
+          "ref": "Ap1.5.16.1",
+          "body": "[tiṣṭhann [ācāmet prahvo vā /"
+        },
+        {
+          "ref": "Ap1.5.16.2",
+          "body": "[āsīnas trir [ācāmed-dhṛdayaṅgamābhir adbhiḥ / Ap1.5.16.3-4/ trir oṣṭhau [parimṛjet , dvir ity eke / Ap1.5.16.5-6/ sakṛd [upaspṛśet , dvir ity eke /"
+        },
+        {
+          "ref": "Ap1.5.16.7",
+          "body": "dakṣiṇena pāṇinā savyaṃ [prokṣya pādau śiraś ca-indriyāṇy [upaspṛśec cakṣuṣī nāsike śrotre ca /"
+        },
+        {
+          "ref": "Ap1.5.16.8",
+          "body": "atha-apa [upaspṛśet /"
+        },
+        {
+          "ref": "Ap1.5.16.9",
+          "body": "[bhokṣyamāṇas tu [prayato- 'api dvir [ācāmed dviḥ [parimṛjet sakṛd [upaspṛśet /"
+        },
+        {
+          "ref": "Ap1.5.16.10",
+          "body": "śyāva.anta.paryantāv oṣṭhāv [upaspṛśya-[ācāmet /"
+        },
+        {
+          "ref": "Ap1.5.16.11",
+          "body": "na śmaśrubhir ucchiṣṭo [bhavaty antar āsye sadbhir yāvan na hastena-[upaspṛśati /"
+        },
+        {
+          "ref": "Ap1.5.16.12",
+          "body": "ya āsyād bindavaḥ [patanta [upalabhyante teṣv ācamanaṃ [vihitam /"
+        },
+        {
+          "ref": "Ap1.5.16.13",
+          "body": "ye bhūmau na teṣv [ācāmed ity eke /"
+        },
+        {
+          "ref": "Ap1.5.16.14",
+          "body": "svapne* kṣavathau#1 śṛṅkhāṇikā#2.aśrv.ālambhe lohitasya keśānām agner gavāṃ brāhmaṇasya striyāś ca-ālambhe mahāpathaṃ ca [gatvā-amedhyaṃ ca-[upaspṛśya-[aprayataṃ ca manuṣyaṃ nīvīṃ ca [paridhāya-apa [upaspṛśet / (K_1:kṣavadhau,_2:śiṅghaṇikā_and_variant_śṛṅghāṇikā_) [*ed. svapnai ]"
+        },
+        {
+          "ref": "Ap1.5.16.15",
+          "body": "ārdraṃ vā śakṛd oṣadhīr bhūmiṃ vā /"
+        },
+        {
+          "ref": "Ap1.5.16.16",
+          "body": "hiṃsā.arthena-asinā māṃsaṃ [chinnam abhojyam /"
+        },
+        {
+          "ref": "Ap1.5.16.17",
+          "body": "dadbhir apūpasya na-[apacchindyāt /"
+        },
+        {
+          "ref": "Ap1.5.16.18",
+          "body": "yasya kule [mriyeta* na tatra-anirdaśe [bhoktavyam / [*ed. mriyet ]"
+        },
+        {
+          "ref": "Ap1.5.16.19",
+          "body": "tathā-anutthitāyāṃ sūtikāyām# / (K_sūtakāyām_)"
+        },
+        {
+          "ref": "Ap1.5.16.20",
+          "body": "antaḥ.śave ca /"
+        },
+        {
+          "ref": "Ap1.5.16.21",
+          "body": "[aprayato- '[apahatam# annam [aprayataṃ na tv [abhojyam / (K_aprayata-upahatam_)"
+        },
+        {
+          "ref": "Ap1.5.16.22",
+          "body": "[aprayatena tu śūdreṇa-upahṛtam [abhojyam /"
+        },
+        {
+          "ref": "Ap1.5.16.23",
+          "body": "yasmiṃś ca-anne keśaḥ [syāt /"
+        },
+        {
+          "ref": "Ap1.5.16.24",
+          "body": "anyad vā-amedhyam /"
+        },
+        {
+          "ref": "Ap1.5.16.25",
+          "body": "amedhyair [avamṛṣṭam /"
+        },
+        {
+          "ref": "Ap1.5.16.26",
+          "body": "kīṭo vā-amedhya.sevī /"
+        },
+        {
+          "ref": "Ap1.5.16.27",
+          "body": "mūṣakalāṅgaṃ# vā / (K_mūsikalāṅgam_)"
+        },
+        {
+          "ref": "Ap1.5.16.28",
+          "body": "padā vā-[upahatam /"
+        },
+        {
+          "ref": "Ap1.5.16.29",
+          "body": "sicā vā /"
+        },
+        {
+          "ref": "Ap1.5.16.30",
+          "body": "śunā vā-apapātreṇa vā [dṛṣṭam /"
+        },
+        {
+          "ref": "Ap1.5.16.31",
+          "body": "sicā vā-[upahṛtam /"
+        },
+        {
+          "ref": "Ap1.5.16.32",
+          "body": "dāsyā vā naktam [āhṛtam /"
+        },
+        {
+          "ref": "Ap1.5.16.33",
+          "body": "[bhuñjānaṃ vā /"
+        },
+        {
+          "ref": "Ap1.5.17.1",
+          "body": "yatra śūdra [upaspṛśet /"
+        },
+        {
+          "ref": "Ap1.5.17.2",
+          "body": "anarhadbhir vā samāna.paṅktau /"
+        },
+        {
+          "ref": "Ap1.5.17.3",
+          "body": "[bhuñjāneṣu va yatra-[anūtthāya-ucchiṣṭaṃ [prayacched [ācāmed vā /"
+        },
+        {
+          "ref": "Ap1.5.17.4",
+          "body": "[kutsayitvā vā yatra-annaṃ [dadyuḥ /"
+        },
+        {
+          "ref": "Ap1.5.17.5",
+          "body": "manuṣyair [avaghrātam anyair vā-amedhyaiḥ /"
+        },
+        {
+          "ref": "Ap1.5.17.6",
+          "body": "na nāvi [bhuñjīta /"
+        },
+        {
+          "ref": "Ap1.5.17.7",
+          "body": "tathā prāsāde /"
+        },
+        {
+          "ref": "Ap1.5.17.8",
+          "body": "[kṛta.bhūmau tu [bhuñjīta /"
+        },
+        {
+          "ref": "Ap1.5.17.9",
+          "body": "[anāprīte mṛn.maye [bhoktavyam /"
+        },
+        {
+          "ref": "Ap1.5.17.10",
+          "body": "[āprītaṃ ced [abhidagdhe /"
+        },
+        {
+          "ref": "Ap1.5.17.11",
+          "body": "[parimṛṣṭaṃ lauhaṃ [prayatam /"
+        },
+        {
+          "ref": "Ap1.5.17.12",
+          "body": "[nirlikhitaṃ dāru.mayam /"
+        },
+        {
+          "ref": "Ap1.5.17.13",
+          "body": "yathā.āgamaṃ yajñe /"
+        },
+        {
+          "ref": "Ap1.5.17.14",
+          "body": "na-[apaṇīyam annam [aśnīyāt /"
+        },
+        {
+          "ref": "Ap1.5.17.15",
+          "body": "tathā rasānām amāṃsa.madhu.lavaṇāni-iti [parihāpya /"
+        },
+        {
+          "ref": "Ap1.5.17.16",
+          "body": "taila.sarpiṣī tu-[upayojayed udake- '[avadhāya / Ap1.5.17.17-18/ [kṛta.annaṃ [paryuṣitam [akhādya.apeya.anādyam , śuktaṃ ca /"
+        },
+        {
+          "ref": "Ap1.5.17.19",
+          "body": "[phāṇita.pṛthuka.taṇḍula.karambharuja#.saktu.śāka.māṃsa.piṣṭa.kṣīra.vikāra.oṣadhi.vanaspati.mūla.phala.varjam / (K_karamba_bharūja.--,_variant_bharuja-iti_and_bharija-iti_)"
+        },
+        {
+          "ref": "Ap1.5.17.20",
+          "body": "śuktaṃ ca-apara.yogam /"
+        },
+        {
+          "ref": "Ap1.5.17.21",
+          "body": "sarvaṃ madyam [apeyam /"
+        },
+        {
+          "ref": "Ap1.5.17.22",
+          "body": "tathā-elakaṃ payaḥ /"
+        },
+        {
+          "ref": "Ap1.5.17.23",
+          "body": "uṣṭrī.kṣīra.mṛgī.kṣīra.sandhinī.kṣīra.yamasū.kṣīrāṇi-iti /"
+        },
+        {
+          "ref": "Ap1.5.17.24",
+          "body": "dhenoś ca-anirdaśāyāḥ /"
+        },
+        {
+          "ref": "Ap1.5.17.25",
+          "body": "tathā kīlāla.oṣadhīnāṃ# ca / (K_oṣadhīnā_ca_)"
+        },
+        {
+          "ref": "Ap1.5.17.26",
+          "body": "karañja.palaṇḍu.parārīkāḥ /"
+        },
+        {
+          "ref": "Ap1.5.17.27",
+          "body": "yac ca-anyat [paricakṣate /"
+        },
+        {
+          "ref": "Ap1.5.17.28",
+          "body": "kyākva.[bhojyam iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.5.17.29",
+          "body": "ekakhura.uṣṭra.gavaya.grāmasūkara.śarabha.gavām /"
+        },
+        {
+          "ref": "Ap1.5.17.30",
+          "body": "dhenu.anaḍuhor [bhakṣyam /"
+        },
+        {
+          "ref": "Ap1.5.17.31",
+          "body": "medhyam ānaḍuham iti vājasaneyakam /"
+        },
+        {
+          "ref": "Ap1.5.17.32",
+          "body": "kukkuṭo vikirāṇām /"
+        },
+        {
+          "ref": "Ap1.5.17.33",
+          "body": "plavaḥ pratudām /"
+        },
+        {
+          "ref": "Ap1.5.17.34",
+          "body": "kravya.adaḥ /"
+        },
+        {
+          "ref": "Ap1.5.17.35",
+          "body": "haṃsa.bhāsa.cakravāka.suparṇāś ca /"
+        },
+        {
+          "ref": "Ap1.5.17.36",
+          "body": "kruñca.krauñca.vārdhrāṇasa.lakṣṃana.varjam /"
+        },
+        {
+          "ref": "Ap1.5.17.37",
+          "body": "pañca.nakhānāṃ godhā.kacchapa.śvāviṭ.śalyaka.khaṇga.śaśa.pūtikhaṣa.varjam /"
+        },
+        {
+          "ref": "Ap1.5.17.38",
+          "body": "[abhakṣyaś ceṭo matsyānām /"
+        },
+        {
+          "ref": "Ap1.5.17.39",
+          "body": "sarpa.śīrṣī mṛduraḥ kravya.ado ye ca-anye [vikṛtā yathā manuṣya.śirasaḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.1",
+          "body": "madhv āmaṃ mārgaṃ māṃsaṃ bhūmir mūla.phalāni rakṣā gavyūtir niveśanaṃ yugya.ghāsaś ca-ugrataḥ [pratigṛhyāṇi /"
+        },
+        {
+          "ref": "Ap1.6.18.2",
+          "body": "etāny api na-anantevāsy.[āhṛtāni-iti hārītaḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.3",
+          "body": "āmaṃ vā [gṛhṇīran /"
+        },
+        {
+          "ref": "Ap1.6.18.4",
+          "body": "[kṛta.annasya vā vi.rasasya /"
+        },
+        {
+          "ref": "Ap1.6.18.5",
+          "body": "na su.bhikṣāḥ [syuḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.6",
+          "body": "svayam apy [avṛttau suvarṇaṃ [dattvā paśuṃ vā [bhuñjīta /"
+        },
+        {
+          "ref": "Ap1.6.18.7",
+          "body": "na-atyantam [anvavasyet /"
+        },
+        {
+          "ref": "Ap1.6.18.8",
+          "body": "vṛttiṃ [prāpya [viramet /"
+        },
+        {
+          "ref": "Ap1.6.18.9",
+          "body": "trayāṇāṃ varṇānāṃ kṣatriya.prabhṛtīnāṃ [samāvṛttena na [bhoktavyam /"
+        },
+        {
+          "ref": "Ap1.6.18.10",
+          "body": "prakṛtyā brāhmaṇasya [bhoktavyaṃ# kāraṇād# [abhojyam / (K_bhokravyam_akāraṇād_)"
+        },
+        {
+          "ref": "Ap1.6.18.11",
+          "body": "yatra-aprāyaścittaṃ karma-[āsevate prāyaścittavati /"
+        },
+        {
+          "ref": "Ap1.6.18.12",
+          "body": "[carita.nirveṣasya [bhoktavyam /"
+        },
+        {
+          "ref": "Ap1.6.18.13",
+          "body": "sarva.varṇānāṃ svadharme [vartamānānāṃ [bhoktavyaṃ śūdra.varjam ity eke /"
+        },
+        {
+          "ref": "Ap1.6.18.14",
+          "body": "tasya-api [dharma.upanatasya /"
+        },
+        {
+          "ref": "Ap1.6.18.15",
+          "body": "suvarṇam [datvā paśuṃ vā [bhuñjīta na-atyantam [anvavasyed vṛttiṃ [prāpya [viramet /"
+        },
+        {
+          "ref": "Ap1.6.18.16",
+          "body": "saṅgha.annam [abhojyam /"
+        },
+        {
+          "ref": "Ap1.6.18.17",
+          "body": "[parikruṣṭaṃ ca /"
+        },
+        {
+          "ref": "Ap1.6.18.18",
+          "body": "sarveṣāṃ ca śilpa.ājīvānām /"
+        },
+        {
+          "ref": "Ap1.6.18.19",
+          "body": "ye ca śastram [ājīvanti /"
+        },
+        {
+          "ref": "Ap1.6.18.20",
+          "body": "ye ca-ādhim /"
+        },
+        {
+          "ref": "Ap1.6.18.21",
+          "body": "bhiṣak /"
+        },
+        {
+          "ref": "Ap1.6.18.22",
+          "body": "vārdhuṣikaḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.23",
+          "body": "[dīkṣito- '[akrīta.rājakaḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.24",
+          "body": "agnīṣomīya.saṃsthāyām eva /"
+        },
+        {
+          "ref": "Ap1.6.18.25",
+          "body": "[hutāyāṃ vā# vapāyāṃ [dīkṣitasya [bhoktavyam / (K_om._vā_)"
+        },
+        {
+          "ref": "Ap1.6.18.26",
+          "body": "yajña.arthe vā [nirdiṣṭe śeṣād [bhuñjīrann iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap1.6.18.27",
+          "body": "klībaḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.28",
+          "body": "rājñāṃ praiṣa.karaḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.29",
+          "body": "ahaviryājī /"
+        },
+        {
+          "ref": "Ap1.6.18.30",
+          "body": "cārī /"
+        },
+        {
+          "ref": "Ap1.6.18.31",
+          "body": "avidhinā ca [pravrajitaḥ /"
+        },
+        {
+          "ref": "Ap1.6.18.32",
+          "body": "yaś ca-agnīn [apāsyati /"
+        },
+        {
+          "ref": "Ap1.6.18.33",
+          "body": "yaś ca sarvān [varjayate sarvānnī ca śrotriyo nirākṛtir vṛṣalī.patiḥ /"
+        },
+        {
+          "ref": "Ap1.6.19.1",
+          "body": "[matta [unmatto [baddho- 'aṇikaḥ [pratyupaviṣṭo yaś ca [pratyupaveśayate tāvantaṃ kālam /"
+        },
+        {
+          "ref": "Ap1.6.19.2",
+          "body": "ka [aśya.annaḥ# / (K_āśya.--_)"
+        },
+        {
+          "ref": "Ap1.6.19.3",
+          "body": "ya [īpsed iti kaṇvaḥ /"
+        },
+        {
+          "ref": "Ap1.6.19.4",
+          "body": "puṇya iti kautsaḥ /"
+        },
+        {
+          "ref": "Ap1.6.19.5",
+          "body": "yaḥ kaś cid [dadyād iti vārṣyāyaṇiḥ /"
+        },
+        {
+          "ref": "Ap1.6.19.6",
+          "body": "yadi ha# rajaḥ sthāvaraṃ puruṣe [bhoktavyam atha cet-calaṃ dānena nirdoṣo [bhavati / (K_hi_)"
+        },
+        {
+          "ref": "Ap1.6.19.7",
+          "body": "[śuddhā bhikṣā [bhoktavyā-eka.kuṇikau kāṇva.kutsau tathā puṣkarasādiḥ /"
+        },
+        {
+          "ref": "Ap1.6.19.8",
+          "body": "sarvatopetaṃ vārṣyāyaṇīyam / (sarvata_upetam) double sandhi?"
+        },
+        {
+          "ref": "Ap1.6.19.9",
+          "body": "puṇyasya-[īpsato [bhoktavyam /"
+        },
+        {
+          "ref": "Ap1.6.19.10",
+          "body": "puṇyasya-apy [anīpsato na [bhoktavyam /"
+        },
+        {
+          "ref": "Ap1.6.19.11",
+          "body": "yataḥ kutaś ca-[abhyudyataṃ [bhoktavyam /"
+        },
+        {
+          "ref": "Ap1.6.19.12",
+          "body": "na-ananiyoga.pūrvam iti hārītaḥ /"
+        },
+        {
+          "ref": "Ap1.6.19.13",
+          "body": "atha purāṇe ślokāv [udāharanti / `(ś) [udyatām [āhṛtāṃ bhikṣāṃ purastād [apraveditām / [bhojyāṃ [mene prajāpatir api [duṣkṛta.kāriṇaḥ // (ś) na tasya pitaro- 'aśnanti daśa varṣāṇi pañca ca / na ca [havyaṃ [vahaty agnir yas tām abhy [adhimanyata iti //"
+        },
+        {
+          "ref": "Ap1.6.19.14",
+          "body": "(ś) cikitsakasya mṛgayoḥ śalya.[kṛntasya pāśinaḥ / kulaṭāyāḥ ṣaṇḍhakasya# ca teṣām annam [anādyam // (K_ṣaṇḍakasya_)"
+        },
+        {
+          "ref": "Ap1.6.19.15",
+          "body": "atha-apy [udāharanti / (ś) annāde bhrūṇahā [mārṣṭi anenā [abhiśaṃsati / stenaḥ [pramukto rājani [yācann anṛta.saṃkara iti //"
+        },
+        {
+          "ref": "Ap1.7.20.1",
+          "body": "na-imaṃ laukikam arthaṃ [puraskṛtya dharmāṃś [caret /"
+        },
+        {
+          "ref": "Ap1.7.20.2",
+          "body": "niṣphalā hy abhyudaye [bhavanti /"
+        },
+        {
+          "ref": "Ap1.7.20.3",
+          "body": "tad yathā-amre phala.arthe [nirmite# chāyā gandha ity [anūtpadyete / evaṃ dharmaṃ [caryamāṇam arthā [anūtpadyante / (K_nimitte_)"
+        },
+        {
+          "ref": "Ap1.7.20.4",
+          "body": "na-u ced [anūtpadyante na dharma.hānir [bhavati /"
+        },
+        {
+          "ref": "Ap1.7.20.5",
+          "body": "anasūyur duṣpralambhaḥ [syāt kuhaka.śaṭha.nāstika.bālavādeṣu /"
+        },
+        {
+          "ref": "Ap1.7.20.6",
+          "body": "na dharma.adharmau [carata āvaṃ sva iti / na deva.gandharvā na pitara ity [ācakṣate- 'ayaṃ dharmo- 'ayam adharma iti /"
+        },
+        {
+          "ref": "Ap1.7.20.7",
+          "body": "yat#1 tv āryāḥ [kriyamāṇaṃ [praśaṃsanti sa dharmo yad#2 [garhante so- 'adharmaḥ / (K_1:yaṃ,_2:yaṃ_)"
+        },
+        {
+          "ref": "Ap1.7.20.8",
+          "body": "sarvajanapadeṣv ekānta.samāhitam āryāṇām [vṛttaṃ samyag.[vinītānāṃ vṛddhānām ātmavatām alolupānām adāmbhikānāṃ vṛtta.sādṛśyaṃ [bhajeta /"
+        },
+        {
+          "ref": "Ap1.7.20.9",
+          "body": "evam ubhau lokāv [abhijayati /"
+        },
+        {
+          "ref": "Ap1.7.20.10",
+          "body": "[avihitā brāhmaṇasya vaṇijyā /"
+        },
+        {
+          "ref": "Ap1.7.20.11",
+          "body": "āpadi [vyavahareta paṇyānām apaṇyāni [vyudasyan /"
+        },
+        {
+          "ref": "Ap1.7.20.12",
+          "body": "manuṣyān rasān rāgān gandhān annaṃ carma gavāṃ vaśāṃ śleṣma.udake tokmakiṇve pippali.marīce dhānyaṃ māṃsam āyudhaṃ [sukṛta.āśāṃ ca /"
+        },
+        {
+          "ref": "Ap1.7.20.13",
+          "body": "tila.taṇḍulāṃs tv eva dhānyasya viśeṣeṇa na [vikrīṇīyāt /"
+        },
+        {
+          "ref": "Ap1.7.20.14",
+          "body": "[avihitaś ca-eteṣāṃ mitho vinimayaḥ /"
+        },
+        {
+          "ref": "Ap1.7.20.15",
+          "body": "annena ca-annasya manuṣyāṇāṃ ca manusyai rasānāṃ ca rasair gandhānāṃ ca gandhair vidyayā ca vidyānām /"
+        },
+        {
+          "ref": "Ap1.7.20.16",
+          "body": "[akrīta.paṇyair [vyavahareta /"
+        },
+        {
+          "ref": "Ap1.7.21.1",
+          "body": "muñja.balbajair mūla.phalaiḥ /"
+        },
+        {
+          "ref": "Ap1.7.21.2",
+          "body": "tṛṇa.kāṣṭhair [a.vikṛtaiḥ /"
+        },
+        {
+          "ref": "Ap1.7.21.3",
+          "body": "na-atyantam [anvavasyet /"
+        },
+        {
+          "ref": "Ap1.7.21.4",
+          "body": "vṛttiṃ [prāpya [viramet /"
+        },
+        {
+          "ref": "Ap1.7.21.5",
+          "body": "na [patitaiḥ [saṃvyavahāro [vidyate /"
+        },
+        {
+          "ref": "Ap1.7.21.6",
+          "body": "tathā-apapātraiḥ /"
+        },
+        {
+          "ref": "Ap1.7.21.7",
+          "body": "atha [patanīyāni /"
+        },
+        {
+          "ref": "Ap1.7.21.8",
+          "body": "steyam ābhiśastyaṃ puruṣa.vadho brahma.ujjhaṃ garbha.śātanam mātuḥ pitur iti yoni.saṃbandhe saha-apatye strī.gamanaṃ surā.pānam asaṃyoga.saṃyogaḥ /"
+        },
+        {
+          "ref": "Ap1.7.21.9",
+          "body": "gurvī.sakhiṃ guru.sakhiṃ ca [gatvā-anyāṃś ca para.talpān /"
+        },
+        {
+          "ref": "Ap1.7.21.10",
+          "body": "na-aguru.talpe [patati-ity eke /"
+        },
+        {
+          "ref": "Ap1.7.21.11",
+          "body": "adharmāṇāṃ tu satatam ācāraḥ /"
+        },
+        {
+          "ref": "Ap1.7.21.12",
+          "body": "atha-aśuci.karāṇi /"
+        },
+        {
+          "ref": "Ap1.7.21.13",
+          "body": "śūdra.gamanam ārya.strīṇām /"
+        },
+        {
+          "ref": "Ap1.7.21.14",
+          "body": "[pratiṣiddhānāṃ māṃsa.bhakṣaṇam /"
+        },
+        {
+          "ref": "Ap1.7.21.15",
+          "body": "śuno manuṣyasya ca kukkuṭa.sūkarāṇāṃ grāmyāṇāṃ kravyādasām /"
+        },
+        {
+          "ref": "Ap1.7.21.16",
+          "body": "manuṣyāṇāṃ mūtra.purīṣa.prāśanam /"
+        },
+        {
+          "ref": "Ap1.7.21.17",
+          "body": "śūdra.ucchiṣṭam apapātra.āgamanaṃ#1 ca.āryāṇām#2 / (K_1:--.gamanaṃ,_2:ca_āryāṇām_)"
+        },
+        {
+          "ref": "Ap1.7.21.18",
+          "body": "etāny api [patanīyāni-ity eke /"
+        },
+        {
+          "ref": "Ap1.7.21.19",
+          "body": "ato- 'anyāni doṣavanty aśuci.karāṇi [bhavanti /"
+        },
+        {
+          "ref": "Ap1.7.21.20",
+          "body": "doṣaṃ [buddhvā na pūrvaḥ parebhyaḥ [patitasya samākhyāne [syād [varjayet tv enaṃ dharmeṣu /"
+        },
+        {
+          "ref": "Ap1.8.22.1",
+          "body": "adhyātmikān yogān [anutiṣṭhen nyāya.saṃhitān anaiścārikān /"
+        },
+        {
+          "ref": "Ap1.8.22.2",
+          "body": "ātma.lābhān na paraṃ [vidyate /"
+        },
+        {
+          "ref": "Ap1.8.22.3",
+          "body": "tatra-ātma.lābhīyān-ślokān [udāhariṣyāmaḥ /"
+        },
+        {
+          "ref": "Ap1.8.22.4",
+          "body": "(ś)? pūḥ prāṇinaḥ sarva eva guhā.śayasya / [ahanyamānasya vikalmaṣasya / acalaṃ cala.niketaṃ ye- 'anutiṣṭhanti te- 'amṛtāḥ /"
+        },
+        {
+          "ref": "Ap1.8.22.5",
+          "body": "(ś) yad idam id iha-id iha loke viṣayam [ucyate / [vidhūya kavir etad [anutiṣṭhed guhā.śayam /"
+        },
+        {
+          "ref": "Ap1.8.22.6",
+          "body": "ātmann eva-aham alabdhvā-etad dhitaṃ sevasva na-ahitam / (ś) atha-anyeṣu [pratīcchāmi sādhuṣṭhānam anapekṣayā / mahāntaṃ tejasas- kāyaṃ sarvatra [nihitaṃ prabhum /"
+        },
+        {
+          "ref": "Ap1.8.22.7",
+          "body": "(ś)? sarva.bhūteṣu yo nityo vipaścid amṛto dhruvaḥ / anaṅgo- 'aśabdo- 'aśarīro- 'asparśaś ca mahān-śuciḥ / sa sarvaṃ paramā kāṣṭhā sa vaiṣuvataṃ(<viṣuvat) sa vai vaibhājanaṃ puram /"
+        },
+        {
+          "ref": "Ap1.8.22.8",
+          "body": "(ś) taṃ yo- 'anutiṣṭhet sarvatra prādhvaṃ ca-asya sadā- ācaret / durdarśaṃ nipuṇaṃ [yukto yaḥ [paśyet sa [modeta viṣṭape //"
+        },
+        {
+          "ref": "Ap1.8.23.1",
+          "body": "(ś) ātman [paśyan sarva.bhūtāni na [muhyec [cintayan kaviḥ / ātmānaṃ ca-eva sarvatra yaḥ [paśyet sa vai brahmā nāka.pṛṣṭhe [virājati //"
+        },
+        {
+          "ref": "Ap1.8.23.2",
+          "body": "(ś)? nipuṇo- 'aṇīyān bisorṇāyā yaḥ sarvam [āvṛtya [tiṣṭhati / varṣīyāṃś ca pṛthivyā dhruvaḥ sarvam [ārabhya [tiṣṭhati / sa indriyair jagato- 'asya jñānād anyo- 'ananyasya [jñeyāt parameṣṭhī vibhājaḥ / tasmāt kāyāḥ [prabhavanti sarve sa mūlaṃ śāśvatikaḥ sa nityaḥ //"
+        },
+        {
+          "ref": "Ap1.8.23.3",
+          "body": "(ś)? doṣāṇāṃ tu [vinirghāto yoga.mūla iha [jīvite / [nirhṛtya bhūta.dāhīyān kṣemaṃ [gacchati paṇḍitaḥ //"
+        },
+        {
+          "ref": "Ap1.8.23.4",
+          "body": "atha bhūta.dāhīyān doṣān [udāhariṣyāmaḥ /"
+        },
+        {
+          "ref": "Ap1.8.23.5",
+          "body": "krodho harṣo roṣo lobho moho dambho droho mṛṣodyam atyāśa.parīvāda.avasūyā kāma.manyū anātmyam ayogas teṣāṃ yoga.mūlo [nirghātaḥ /"
+        },
+        {
+          "ref": "Ap1.8.23.6",
+          "body": "akrodho- 'aharṣo- 'aroṣo- 'alobho- 'amoho- 'adambho- 'adrohaḥ satya.vacanam anatyāśo- 'apaiśunam anasūyā saṃvibhāgas tyāga ārjavaṃ mārdavaṃ śamo damaḥ sarva.bhūtair avirodho yoga āryam ānṛśaṃsaṃ tuṣṭir iti sarva.āśramāṇāṃ samaya.padāni tāny [anutiṣṭhan vidhinā sārvagāmī [bhavati /"
+        },
+        {
+          "ref": "Ap1.9.24.4",
+          "body": "ṛṣabhaś ca-atra-adhikaḥ sarvatra prāyaścitta.arthaḥ /"
+        },
+        {
+          "ref": "Ap1.9.24.5",
+          "body": "strīṣu ca-eteṣām evam / Ap1.9.24.6-7/ pūrvayor varṇayor veda.adhyāyaṃ [hatvā savana.gataṃ vā-[abhiśastaḥ / brāhmaṇa.mātram ca / Ap1.9.24.8-9/ garbhaṃ ca tasya-[avijñātam / ātreyīṃ ca striyam /"
+        },
+        {
+          "ref": "Ap1.9.24.10",
+          "body": "tasya nirveṣaḥ /"
+        },
+        {
+          "ref": "Ap1.9.24.11",
+          "body": "araṇye kuṭiṃ [kṛtvā [vāg.yataḥ śavaśira.dhvajo- 'ardhaśāṇī.pakṣam adhonābhy.uparijānu- ācchādya /"
+        },
+        {
+          "ref": "Ap1.9.24.12",
+          "body": "tasya panthā antarā vartmanī /"
+        },
+        {
+          "ref": "Ap1.9.24.13",
+          "body": "[dṛṣṭvā ca-anyam [utkrāmet /"
+        },
+        {
+          "ref": "Ap1.9.24.14",
+          "body": "khaṇḍena lohitakena śarāveṇa grāme [pratiṣṭheta /"
+        },
+        {
+          "ref": "Ap1.9.24.15",
+          "body": "ko- '[abhiśastāya bhikṣām iti sapta.agārāṇi# [caret / (K_--.agāraṃ_and_--.agārāṇi_in_variant_)"
+        },
+        {
+          "ref": "Ap1.9.24.16",
+          "body": "sā vṛttiḥ /"
+        },
+        {
+          "ref": "Ap1.9.24.17",
+          "body": "[alabdhā#-upavāsaḥ / (K_alabdhvā-)"
+        },
+        {
+          "ref": "Ap1.9.24.18",
+          "body": "gāś ca [rakṣet /"
+        },
+        {
+          "ref": "Ap1.9.24.19",
+          "body": "tāsāṃ niṣkramaṇa.praveśane dvitīyo grāme- 'arthaḥ /"
+        },
+        {
+          "ref": "Ap1.9.24.20",
+          "body": "dvādaśa varṣāṇi [caritvā siddhaḥ sadbhiḥ saṃprayogaḥ /"
+        },
+        {
+          "ref": "Ap1.9.24.21",
+          "body": "āji.pathe vā kuṭim [kṛtvā brāhmaṇa.gavya.[upajigīṣaṃāṇo [vaset triḥ pratirāddho- '[apajitya vā [muktaḥ /"
+        },
+        {
+          "ref": "Ap1.9.24.22",
+          "body": "āśvamedhikaṃ vā-avabhṛtham [avetya [mucyate /"
+        },
+        {
+          "ref": "Ap1.9.24.23",
+          "body": "dharma.artha.[saṃnipāte- 'artha.grāhiṇa etad eva /"
+        },
+        {
+          "ref": "Ap1.9.24.24",
+          "body": "guruṃ [hatvā śrotriyaṃ vā [karma.samāptam etena-eva vidhinā-uttamād ucchvāsāc [caret /"
+        },
+        {
+          "ref": "Ap1.9.24.25",
+          "body": "na-asya-asmiṃl loke pratyāpattir [vidyate kalmaṣaṃ tu [nirhaṇyate /"
+        },
+        {
+          "ref": "Ap1.9.25.1",
+          "body": "gurutalpa.gāmī sa.vṛṣaṇaṃ śiśnaṃ [parivāsya-añjalāv [ādhāya dakṣiṇāṃ diśam anāvṛttiṃ [vrajet /"
+        },
+        {
+          "ref": "Ap1.9.25.2",
+          "body": "[jvalitāṃ vā sūrmiṃ [pariṣvajya [samāpnuyāt /"
+        },
+        {
+          "ref": "Ap1.9.25.3",
+          "body": "surā.āpo- 'agni.sparśā surāṃ [pibet /"
+        },
+        {
+          "ref": "Ap1.9.25.4",
+          "body": "stenaḥ prakīrṇa.keśo- 'aṃse musalam [ādāya# rājānaṃ [gatvā karma-[ācakṣīta / tena-enaṃ hanyād vadhe mokṣaḥ / (K_ādhāya_)"
+        },
+        {
+          "ref": "Ap1.9.25.5",
+          "body": "[anujñāte- 'anujñātāram enaḥ /# (K_adds_apṛśati_)"
+        },
+        {
+          "ref": "Ap1.9.25.6",
+          "body": "agniṃ vā [praviśet tīkṣṇaṃ vā tapa [āyacchet / ( = K 6,"
+        },
+        {
+          "ref": "Ap1.9.25.7",
+          "body": "[bhakta.apacayena vā-ātmānaṃ [samāpnuyāt / ( = K"
+        },
+        {
+          "ref": "Ap1.9.25.8",
+          "body": "kṛcchra.saṃvatsaraṃ vā [caret / ( = k"
+        },
+        {
+          "ref": "1",
+          "body": "= K 10,"
+        },
+        {
+          "ref": "Ap1.9.25.11",
+          "body": "prathamaṃ varṇaṃ [parihāpya prathamaṃ varṇaṃ [hatvā saṃgrāmaṃ [gatvā-[avatiṣṭheta / tatra-enaṃ [hanyuḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.9.25.12",
+          "body": "api vā lomāni tvacaṃ māṃsam iti [hāvayitvā-agniṃ [praviśet / ( = K"
+        },
+        {
+          "ref": "Ap1.9.25.13",
+          "body": "vāyasa.pracalāka.barhiṇa.cakravāka.haṃsa.bhāsa.maṇḍūka.nakulaḍerika.aśvahiṃsāyāṃ śūdravat prāyaścittam // ( = K"
+        },
+        {
+          "ref": "Ap1.9.26.1",
+          "body": "dhenv.anaḍuhoś ca-akāraṇāt /"
+        },
+        {
+          "ref": "Ap1.9.26.2",
+          "body": "dhurya.vāha.[pravṛttau ca-itareṣāṃ prāṇinām /"
+        },
+        {
+          "ref": "Ap1.9.26.3",
+          "body": "[anākrośyam ākruśya-anṛtaṃ vā-[uktvā trirātram akṣīra.akṣāra.alavaṇa.bhojanaṃ /"
+        },
+        {
+          "ref": "Ap1.9.26.4",
+          "body": "śūdrasya sapta.rātram abhojanam /"
+        },
+        {
+          "ref": "Ap1.9.26.5",
+          "body": "strīṇāṃ ca-evam /"
+        },
+        {
+          "ref": "Ap1.9.26.6",
+          "body": "yeṣv ābhiśastyaṃ teṣām ekāṅgaṃ [chittvā-aprāṇa.hiṃsāyām /"
+        },
+        {
+          "ref": "Ap1.9.26.7",
+          "body": "anāryavapaiśuna[pratiṣiddhāacāreṣv [abhakṣya.abhojya.apeyaprāśane śūdrāyāṃ ca retaḥ [siktvā-ayonau ca doṣavac ca karma.abhisaṃdhi.pūrvaṃ [kṛtvā-anabhisaṃdhi.pūrvaṃ vā-ab.liṅgābhir apa [upaspṛśed vāruṇībhir vā-anyair vā pavitrair# yathā karma.abhyāsaḥ / (K_pavitra.mantrair_)"
+        },
+        {
+          "ref": "Ap1.9.26.8",
+          "body": "gardabhena-[avakīrṇī nirṛtiṃ pāka.yajñena [yajeta /"
+        },
+        {
+          "ref": "Ap1.9.26.9",
+          "body": "tasya śūdraḥ [prāśnīyāt /"
+        },
+        {
+          "ref": "Ap1.9.26.10",
+          "body": "[mithyāadhītaprāyaścittam /"
+        },
+        {
+          "ref": "Ap1.9.26.11",
+          "body": "saṃvatsaram ācārya.hite [vartamāno vācaṃ [yacchet svādhyāya eva-[utsṛjamāno vācam ācārya ācārya.dāre bhikṣā.carye ca /"
+        },
+        {
+          "ref": "Ap1.9.26.12",
+          "body": "evam anyeṣv api doṣavat sva.patanīyeṣu-uttarāṇi yāni [vakṣyāmaḥ /"
+        },
+        {
+          "ref": "Ap1.9.26.13",
+          "body": "kāma.manyubhyāṃ vā [juhuyāt kāmo- 'akārṣīn manyur [akārṣīd iti [japed vā /"
+        },
+        {
+          "ref": "Ap1.9.26.14",
+          "body": "parvaṇi vā tila.bhakṣa [upoṣya vā śvo.bhūta udakam [upaspṛśya sāvitrīṃ prāṇāyāmaśaḥ sahasra.kṛtva [āvartayed aprāṇāyāmaśo vā //"
+        },
+        {
+          "ref": "Ap1.9.27.1",
+          "body": "śrāvaṇyāṃ#1 paurṇamāsyāṃ tilabhaksa [upoṣya vā śvobhūte#2 mahā.nadam udakam [upaspṛśya sāvitryā samit.sahasram [ādadhyāj [japed vā / (K_1:inserts_vā_after_śrāvaṇyāṃ,_2:śvo_bhūte_)"
+        },
+        {
+          "ref": "Ap1.9.27.2",
+          "body": "iṣṭi.yajña.kratūn vā pavitra.arthān [āharet /"
+        },
+        {
+          "ref": "Ap1.9.27.3",
+          "body": "[abhojyaṃ [bhuktvā naiṣpurīṣyam /"
+        },
+        {
+          "ref": "Ap1.9.27.4",
+          "body": "tat sapta.rātreṇa-[avāpyate /"
+        },
+        {
+          "ref": "Ap1.9.27.5",
+          "body": "hemanta.śiśirayor vā-ubhayoḥ saṃdhyor# udakam [upaspṛśet / (K_saṃdhyor_vā_)"
+        },
+        {
+          "ref": "Ap1.9.27.6",
+          "body": "kṛcchra.dvādaśa.rātraṃ vā [caret /"
+        },
+        {
+          "ref": "Ap1.9.27.7",
+          "body": "tryaham anakta.āśy adivā.āśī tatas tryahaṃ tryaham [ayācita.vratas tryahaṃ na-aśnāti kiṃcana-iti kṛcchra.dvādaśa.rātrasya vidhiḥ /"
+        },
+        {
+          "ref": "Ap1.9.27.8",
+          "body": "etam eva-[abhyaset# saṃvatsaraṃ sa kṛcchra.saṃvatsaraḥ / (K_abhyasyet_)"
+        },
+        {
+          "ref": "Ap1.9.27.9",
+          "body": "atha-aparam#1 / bahūny apy [apatanīyāni [kṛtvā tribhir anaśnat#2 pārāyaṇaiḥ [kṛta.prāyaścitto [bhavati / (K_1:-aparaṃ_bahūny_...,_2:anaśnan_)"
+        },
+        {
+          "ref": "Ap1.9.27.10",
+          "body": "(ś) anāryāṃ śayane [bibhred# [dadad vṛddhiṃ kaṣāyapaḥ / abrāhmaṇa iva [vanditvā tṛṇeṣv [āsīta pṛṣṭhatap // (K_bibhtad_)"
+        },
+        {
+          "ref": "Ap1.9.27.11",
+          "body": "(ś) yad eka.rātreṇa karoti pāpaṃ kṛṣṇaṃ varṇaṃ brāhmaṇaḥ sevamānaḥ / caturtha.kāla udaka.abhyavāyī tribhir varṣais tad [apahanti pāpam //"
+        },
+        {
+          "ref": "Ap1.10.28.1",
+          "body": "yathā kathā ca para.parigraham [abhimanyate steno ha [bhavati-iti kautsa.hārītau tathā kaṇva.puṣkarasādī /"
+        },
+        {
+          "ref": "Ap1.10.28.2",
+          "body": "[santy apavādāḥ parigraheṣv iti vārṣyāyaṇiḥ /"
+        },
+        {
+          "ref": "Ap1.10.28.3",
+          "body": "śamyoṣā yugya.ghāso na svāminaḥ [pratiṣedhayanti /"
+        },
+        {
+          "ref": "Ap1.10.28.4",
+          "body": "ativyapahāro [vyṛddho [bhavati /"
+        },
+        {
+          "ref": "Ap1.10.28.5",
+          "body": "sarvatra-anumati.pūrvam iti hārītaḥ /"
+        },
+        {
+          "ref": "Ap1.10.28.6",
+          "body": "na patitam ācāryaṃ jñātiṃ vā darśanārtho [gacchet /"
+        },
+        {
+          "ref": "Ap1.10.28.7",
+          "body": "na ca-asmād bhogān [upayuñjīta /"
+        },
+        {
+          "ref": "Ap1.10.28.8",
+          "body": "yadṛcchā[saṃnipāta [upasaṃgṛhya tūṣṇīṃ [vyativrajet /"
+        },
+        {
+          "ref": "Ap1.10.28.9",
+          "body": "mātā putratvasya bhūyāṃsi karmāṇy [ārabhate tasyāṃ śuśrūṣā nityā [patitāyām api /"
+        },
+        {
+          "ref": "Ap1.10.28.10",
+          "body": "na tu dharma.saṃnipātaḥ#[ [syāt / (K_sannivāpaḥ_)"
+        },
+        {
+          "ref": "Ap1.10.28.11",
+          "body": "adharma.āhṛtān[ bhogān [anujñāya na vayaṃ ca-adharmaś ca-ity [abhivyāhṛtya-adho.nābhi#1-upari.jānu-āchādya#2 tri.ṣavaṇam udakam [upaspṛśann akṣīra.akṣāra.alavaṇaṃ#3 [bhuñjāno dvādaśa varṣāṇi nāgāraṃ#4 [praviśet / (K_1:---adho_na-abhi---,_2:jānu-ācchādyaḥ,_3:--.kṣāralavaṇaṃ,_4:na-āgāraṃ_)"
+        },
+        {
+          "ref": "Ap1.10.28.12",
+          "body": "tataḥ siddhiḥ /"
+        },
+        {
+          "ref": "Ap1.10.28.13",
+          "body": "atha saṃprayogaḥ [syād āryaiḥ /"
+        },
+        {
+          "ref": "Ap1.10.28.14",
+          "body": "etad eva-anyeṣām api [patanīyānām /"
+        },
+        {
+          "ref": "Ap1.10.28.15",
+          "body": "guru.talpa.gāmī tu suṣirāṃ sūrmiṃ [praviśya-ubhayata [ādīpya-abhidahed ātmānam /"
+        },
+        {
+          "ref": "Ap1.10.28.16",
+          "body": "mithyā-etad iti hārītaḥ /"
+        },
+        {
+          "ref": "Ap1.10.28.17",
+          "body": "yo hy ātmānaṃ paraṃ vā-abhimanyate- 'abhiśasta eva sa [bhavati /"
+        },
+        {
+          "ref": "Ap1.10.28.18",
+          "body": "etena-eva vidhinā-uttamād ucchvāsāc#1 [caret / na-asya-asmiṃl loke pratyāpattir [vidyate / kalmaṣaṃ#2 tu [nirhaṇyate / (K_1:ujchāsāc?,_2:kalpaṣaṃ_)"
+        },
+        {
+          "ref": "Ap1.10.28.19",
+          "body": "dāra.vyatikramī khara.ajinaṃ bahir.loma [paridhāya dāra.vyatikramiṇe bhikṣām iti sapta.agārāṇi [caret / sā vṛttiḥ ṣaṇ.māsān /"
+        },
+        {
+          "ref": "Ap1.10.28.20",
+          "body": "striyās tu bhartṛ.vyatikrame#1 #2kṛcchra.dvādaśa.rātrābhyāsas tāvantaṃ kālam / (K_1:bhartu.--,_2:kṛccha--_)"
+        },
+        {
+          "ref": "Ap1.10.28.21",
+          "body": "atha bhrūṇahā śva.ajinaṃ khara.ajinaṃ vā bahir.loma [paridhāya puruṣa.śiraḥ pratīpāna.artham [ādāya //"
+        },
+        {
+          "ref": "Ap1.10.29.1a",
+          "body": "khaṭva.aṅgam daṇḍa.arthe karma.nāmadheyaṃ [prabruvāṇaś [caṅkramyeta ko bhrūṇa.ghne bhikṣām iti / grāme prāṇa.vṛttiṃ [pratilabhya śūnya.agāraṃ vṛkṣa.mūlaṃ vā-[abhyupāśrayen na hi ma āryaiḥ# saṃprayogo [vidyate / (K_āryaiḥ_saha_)"
+        },
+        {
+          "ref": "Ap1.10.29.1b",
+          "body": "etena-eva vidhinā-uttamād ucchvāsāc [caret / na-asya-asmiṃl loke pratyāpattir [vidyate / kalmaṣaṃ tu [nirhaṇyate /"
+        },
+        {
+          "ref": "Ap1.10.29.2",
+          "body": "yaḥ [pramatto [hanti [prāptam doṣa.phalam /"
+        },
+        {
+          "ref": "Ap1.10.29.3",
+          "body": "saha saṃkalpena bhūyaḥ /"
+        },
+        {
+          "ref": "Ap1.10.29.4",
+          "body": "evam anyeṣv api doṣavatsu karmasu /"
+        },
+        {
+          "ref": "Ap1.10.29.5",
+          "body": "tathā puṇya.kriyāsu /"
+        },
+        {
+          "ref": "Ap1.10.29.6",
+          "body": "parīkṣā.artho- 'api brāhmaṇa āyudhaṃ na-ādadīta /"
+        },
+        {
+          "ref": "Ap1.10.29.7",
+          "body": "yo hiṃsā.artham [abhikrāntaṃ [hanti manyur eva manyuṃ [spṛśati na tasmin doṣa iti purāṇe /"
+        },
+        {
+          "ref": "Ap1.10.29.8",
+          "body": "atha-[abhiśastāḥ [samavasāya [careyur dhārmyam iti [sāṃśitya-itaretara.yājakā itaretara.adhyāpakā mitho [vivahamānāḥ# / (K_vivāhamānāḥ_)"
+        },
+        {
+          "ref": "Ap1.10.29.9",
+          "body": "putrān [saṃniṣpādya [brūyur vipra# [vrajatata#-asmad evaṃ hy asmatsv āryāḥ [saṃpratyapatsyata-iti / (K_viprajata_instead_of_vipra_vrajatata-_)"
+        },
+        {
+          "ref": "Ap1.10.29.10",
+          "body": "atha-api na sa.indriyaḥ [patati /"
+        },
+        {
+          "ref": "Ap1.10.29.11",
+          "body": "tad etena [veditavyam / aṅga.hīno hi# sa.aṅgaṃ [janayati / (K_api_)"
+        },
+        {
+          "ref": "Ap1.10.29.12",
+          "body": "mithyā-etad iti hārītaḥ /"
+        },
+        {
+          "ref": "Ap1.10.29.13",
+          "body": "dadhi.dhānī.sa.dharmā strī [bhavati /"
+        },
+        {
+          "ref": "Ap1.10.29.14",
+          "body": "yo hi dadhi.dhānyām [aprayataṃ paya [ātacya# [manthati na tena dharma.kṛtyaṃ [kriyate / evam aśuci śuklaṃ yan [nivartate na tena saha saṃprayogo [vidyate / (K_ātañcya_)"
+        },
+        {
+          "ref": "Ap1.10.29.15",
+          "body": "abhīcārā.anuvyāhārāv aśuci.karāv [apatanīyau /"
+        },
+        {
+          "ref": "Ap1.10.29.16",
+          "body": "[patanīyāv iti hārītaḥ /"
+        },
+        {
+          "ref": "Ap1.10.29.17",
+          "body": "[patanīya.vṛttis tv aśuci.karāṇāṃ dvādaśa māsān dvādaśa.ardhamāsān dvādaśa dvādaśa.ahān dvādaśa sapta.ahān dvādaśa try.ahān#1 dvādaśa.ahaṃ sapta.ahaṃ try.aham#2 eka.aham / (K_1:inserts_dvādaśa_dvahān_between_try.ahān_and_dvādaśa.ahaṃ,_2:inserts_dvyaham_)"
+        },
+        {
+          "ref": "Ap1.10.29.18",
+          "body": "ity aśuci.kara.nirveṣo yathā karma.abhyāsaḥ //"
+        },
+        {
+          "ref": "Ap1.11.30.1",
+          "body": "vidyayā [snāti-ity eke /"
+        },
+        {
+          "ref": "Ap1.11.30.2",
+          "body": "tathā vratena-aṣṭācatvāriṃśat parīmāṇena /"
+        },
+        {
+          "ref": "Ap1.11.30.3",
+          "body": "vidyā.vratena ca-ity eke /"
+        },
+        {
+          "ref": "Ap1.11.30.4",
+          "body": "teṣu sarveṣu snātakavad.vṛttiḥ /"
+        },
+        {
+          "ref": "Ap1.11.30.5",
+          "body": "samādhi.viśeṣāt-śruti.viśeṣāt-ca pūjāyāṃ phala.viśeṣaḥ /"
+        },
+        {
+          "ref": "Ap1.11.30.6",
+          "body": "atha snātaka.vratāni /"
+        },
+        {
+          "ref": "Ap1.11.30.7",
+          "body": "pūrveṇa grāmān niṣkramaṇa.praveśanāni [śīlayed uttareṇa vā /"
+        },
+        {
+          "ref": "Ap1.11.30.8",
+          "body": "saṃdhyoś ca bahir.grāmād āsanaṃ vāg.yataś ca /"
+        },
+        {
+          "ref": "Ap1.11.30.9",
+          "body": "vipratiṣedhe śruti.lakṣaṇaṃ balīyaḥ /"
+        },
+        {
+          "ref": "Ap1.11.30.10",
+          "body": "sarvān rāgān vāsasi [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.30.11",
+          "body": "kṛṣṇaṃ ca svābhāvikam /"
+        },
+        {
+          "ref": "Ap1.11.30.12",
+          "body": "anūdbhāsi vāso [vasīta /"
+        },
+        {
+          "ref": "Ap1.11.30.13",
+          "body": "apratikṛṣṭaṃ ca śakti.viṣaye /"
+        },
+        {
+          "ref": "Ap1.11.30.14",
+          "body": "divā ca śirasaḥ prāvaraṇaṃ [varjayen mūtra.purīṣayoḥ karma [parihāpya /"
+        },
+        {
+          "ref": "Ap1.11.30.15",
+          "body": "śiras tu [prāvṛtya mūtra.purīṣe [kuryād bhūmyāṃ kiṃcid [antardhāya /"
+        },
+        {
+          "ref": "Ap1.11.30.16",
+          "body": "chāyāyām mūtra.purīṣayoḥ karma [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.30.17",
+          "body": "svāṃ tu chāyām [avamehet /"
+        },
+        {
+          "ref": "Ap1.11.30.18",
+          "body": "na sa.upānah-mūtra.purīṣe [kuryāt [kṛṣṭe pathy apsu ca / ( = K18+19+20+21 )"
+        },
+        {
+          "ref": "Ap1.11.30.19",
+          "body": "tathā ṣṭhevana.maithunayoḥ karma-apsu [varjayet / ( = K"
+        },
+        {
+          "ref": "Ap1.11.30.20",
+          "body": "agnim ādityam apo brāhmaṇaṃ gā devatāś ca-abhimukho mūtra.purīṣayoḥ karma [varjayet / ( = K"
+        },
+        {
+          "ref": "Ap1.11.30.21",
+          "body": "aśmānaṃ loṣṭham ārdrāan oṣadhi.vanaspatīn ūrdhvān [ācchidya mūtra.purīṣayoḥ śundhane [varjayet / ( = K"
+        },
+        {
+          "ref": "Ap1.11.30.22",
+          "body": "agnim#1 apo brāhmaṇaṃ gā devatā#2 dvāraṃ#2 pratīvātam ca śakti.viṣaye na-[abhiprasārayīta / ( = K 25, K 1:inserts ādityam, 2:devatādvāraṃ )"
+        },
+        {
+          "ref": "Ap1.11.30.23",
+          "body": "atha-apy [udāharanti /"
+        },
+        {
+          "ref": "Ap1.11.31.1",
+          "body": "(ś) prāṅ.mukho- 'annāni [bhuñjīta# [uccared dakṣiṇā.mukhaḥ / udaṅ.mukhaḥ- mūtraṃ [kuryāt pratyak.pādāvanejanam iti // (K_bhuñjīttocared_)"
+        },
+        {
+          "ref": "Ap.1.11.31.2",
+          "body": "ārāc ca-āvasathān mūtra.purīṣe [kuryād dakṣiṇāṃ diśaṃ dakṣiṇā.parāṃ vā /"
+        },
+        {
+          "ref": "Ap1.11.31.3",
+          "body": "astam.ite ca bahir grāmād ārād āvasathād vā mūtra.purīṣayoḥ karma [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.31.4",
+          "body": "devatā.abhidhānaṃ ca-aprayataḥ /"
+        },
+        {
+          "ref": "Ap1.11.31.5",
+          "body": "puruṣam ca-ubhayor devatānāṃ rājñaś ca /"
+        },
+        {
+          "ref": "Ap1.11.31.6",
+          "body": "brāhmaṇasya gor iti pada.upasparśanaṃ [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.31.7",
+          "body": "hastena ca-akāraṇāt /"
+        },
+        {
+          "ref": "Ap1.11.31.8",
+          "body": "gor dakṣiṇānāṃ kumāryāś ca parīvādān [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.31.9",
+          "body": "stṛhatīṃ# ca gāṃ na-[ācakṣīta / (K_spṛhatīṃ_)"
+        },
+        {
+          "ref": "Ap1.11.31.10",
+          "body": "[saṃsṛṣṭāṃ ca vatsena-animitte /"
+        },
+        {
+          "ref": "Ap1.11.31.11",
+          "body": "na-adhenum adhenur iti [brūyāt /dhenu.bhavyā-ity eva [brūyāt /"
+        },
+        {
+          "ref": "Ap1.11.31.12",
+          "body": "na bhadram bhadram iti [brūyāt / puṇyaṃ praśāstam ity eva [brūyāt / ( = K 13+14 )"
+        },
+        {
+          "ref": "Ap1.11.31.13",
+          "body": "vatsa.tantīṃ ca na-upari [gacchet / ( = K"
+        },
+        {
+          "ref": "Ap1.11.31.14",
+          "body": "pleṅkhāv antareṇa ca na-[atīyāt / ( = K"
+        },
+        {
+          "ref": "Ap1.11.31.15",
+          "body": "na-asau me sapatna iti [brūyāt / yady asau me sapatna iti brūyād [dviṣantaṃ bhrātṛvyaṃ [janayet / (K_=_17_)"
+        },
+        {
+          "ref": "Ap1.11.31.16",
+          "body": "na-indra.dhanur iti parasmai [prabrūyāt / ( = K"
+        },
+        {
+          "ref": "Ap1.11.31.17",
+          "body": "na [patataḥ [saṃcakṣītaḥ# /( = K 19, saṃcakṣīta )"
+        },
+        {
+          "ref": "Ap1.11.31.18",
+          "body": "[udyantam astaṃ yantaṃ# ca-ādityaṃ darśane [varjayet / ( = K 20, yas taṃ )"
+        },
+        {
+          "ref": "Ap1.11.31.19",
+          "body": "divā-ādityaḥ sattvāni#1 [gopāyati naktaṃ candramās#2 tasmād amāvāsyāyāṃ niśāyāṃ [svādhīya ātmano guptim [icchet [prāyatya brahmacaryakāle caryayā ca / ( = K 21, 1:satvāni, 2:inserts / )"
+        },
+        {
+          "ref": "Ap1.11.31.20",
+          "body": "saha hy etāṃ rātriṃ sūryā.candramasau [vasataḥ / ( = K"
+        },
+        {
+          "ref": "Ap1.11.31.21",
+          "body": "na kusṛtyā grāmaṃ [praviśet / yadi [praviśen namo rudrāya vāstoṣpataya ity etām ṛcaṃ [japed anyāṃ vā raudrīm // ( = K"
+        },
+        {
+          "ref": "Ap1.11.31.22",
+          "body": "na-abrāhmaṇāya-ucchiṣṭaṃ [prayacchet / yadi [prayacched dantān skuptvā tasminn [avadhāya [prayacchet // ( = K 25+26 )"
+        },
+        {
+          "ref": "Ap1.11.31.23",
+          "body": "krodhādīṃś ca bhūta.dāhīyān doṣān [varjayet // ( = K"
+        },
+        {
+          "ref": "Ap1.11.32.1",
+          "body": "pravacana.yukto varṣā.śaradaṃ maithunaṃ [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.32.2",
+          "body": "[mithunī.bhūya ca na tayā saha sarvāṃ rātriṃ [śayīta /"
+        },
+        {
+          "ref": "Ap1.11.32.3",
+          "body": "[śayānaś ca-adhyāpanaṃ [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.32.4",
+          "body": "na ca tasyāṃ śayyāyām [adhyāpayed yasyāṃ [śayīta /"
+        },
+        {
+          "ref": "Ap1.11.32.5",
+          "body": "anāviḥsrag.anulepaṇaḥ [syāt /"
+        },
+        {
+          "ref": "Ap1.11.32.6",
+          "body": "sadā niśāyāṃ dāraṃ praty [alaṃkurvīta /"
+        },
+        {
+          "ref": "Ap1.11.32.7",
+          "body": "saśirā vamajjanam apsu [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.32.8",
+          "body": "[astamite ca snānam /"
+        },
+        {
+          "ref": "Ap1.11.32.9",
+          "body": "pālāśam āsanaṃ pāduke danta.prakṣālanam iti ca [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.32.10",
+          "body": "stutiṃ ca guroḥ samakṣaṃ yathā [su.snātam iti /"
+        },
+        {
+          "ref": "Ap1.11.32.11",
+          "body": "ā niśāyā jāgaraṇam /"
+        },
+        {
+          "ref": "Ap1.11.32.12",
+          "body": "anadhyāyo niśāyām anyatra dharma.upadeśāt-śiṣyebhyaḥ /"
+        },
+        {
+          "ref": "Ap1.11.32.13",
+          "body": "manasā vā svayam /"
+        },
+        {
+          "ref": "Ap1.11.32.14",
+          "body": "ūrdhvam ardha.rātrād adhyāpanam /."
+        },
+        {
+          "ref": "Ap1.11.32.15",
+          "body": "na-apara.rātram [utthāya-anadhyāya iti [saṃviśet /"
+        },
+        {
+          "ref": "Ap1.11.32.16",
+          "body": "kāmam apaś [śayīta /"
+        },
+        {
+          "ref": "Ap1.11.32.17",
+          "body": "manasā vā-[adhīyīta /"
+        },
+        {
+          "ref": "Ap1.11.32.18",
+          "body": "kṣudrān [kṣudrā.caritāṃś ca deśān na [seveta /"
+        },
+        {
+          "ref": "Ap1.11.32.19",
+          "body": "sabhāḥ samājāṃś ca /"
+        },
+        {
+          "ref": "Ap1.11.32.20",
+          "body": "samājaṃ ced [gacchet [pradakṣiṇī.kṛtya-[apeyāt /"
+        },
+        {
+          "ref": "Ap1.11.32.21",
+          "body": "nagara.praveśanāni ca [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.32.22",
+          "body": "praśnaṃ ca na [vibrūyāt /"
+        },
+        {
+          "ref": "Ap1.11.32.23",
+          "body": "atha-apy [udāharanti /"
+        },
+        {
+          "ref": "Ap1.11.32.24",
+          "body": "(ś) mūlaṃ tūlaṃ [vṛhati durvivaktuḥ prajāṃ paśūn āyatanaṃ [hinasti / dharma.prahrāda na kumālanāya [rudan ha mṛtyur [vyuvāca praśnam iti //"
+        },
+        {
+          "ref": "Ap1.11.32.25",
+          "body": "gārdabhaṃ yānam ārohaṇe viṣam ārohaṇa.avarohaṇāni ca [varjayet /"
+        },
+        {
+          "ref": "Ap1.11.32.26",
+          "body": "bāhubhyāṃ ca nadītaram# / (K_nadītaraṇam_)"
+        },
+        {
+          "ref": "Ap1.11.32.27",
+          "body": "nāvāṃ# ca sāṃśayikīm / (K_nāvaṃ_)"
+        },
+        {
+          "ref": "Ap1.11.32.28",
+          "body": "tṛṇa.cchedana.loṣṭa.vimardanā#.ṣṭhevanāni ca-akāraṇāt / (K_vimardana_)"
+        },
+        {
+          "ref": "Ap1.11.32.29",
+          "body": "yac ca-anyat [paricakṣate yac ca-anyat [paricakṣate //"
+        },
+        {
+          "ref": "1",
+          "body": "upākaraṇādyā-utsarjanād ,"
+        },
+        {
+          "ref": "1",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 18,
+      "aku_count": 7,
+      "akus": [
+        {
+          "ref": "18",
+          "body": "atha brahmacarya.vidhiḥ )"
+        },
+        {
+          "ref": "18",
+          "body": ")"
+        },
+        {
+          "ref": "18",
+          "body": ")"
+        },
+        {
+          "ref": "18",
+          "body": ")"
+        },
+        {
+          "ref": "18",
+          "body": ")"
+        },
+        {
+          "ref": "18",
+          "body": ")"
+        },
+        {
+          "ref": "18",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 31,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "31",
+          "body": ")"
+        },
+        {
+          "ref": "31",
+          "body": ")"
+        },
+        {
+          "ref": "31",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 32,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "32",
+          "body": ""
+        },
+        {
+          "ref": "32",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 33,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "33",
+          "body": ")"
+        },
+        {
+          "ref": "33",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 34,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "34",
+          "body": ") Ap1.2.6.36-37/ [bhuktvā[\\bhuj] ca-asya sakāśe na-[anūtthāya[anu.ut\\sthā]-ucchiṣṭaṃ [prayacchet[pra\\yam] ,[ācāmed[ā\\cam] vā / ( = K 35-36 )"
+        },
+        {
+          "ref": "34",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 37,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "37",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "chapter_num": 24,
+      "aku_count": 6,
+      "akus": [
+        {
+          "ref": "24",
+          "body": ")"
+        },
+        {
+          "ref": "24",
+          "body": ")"
+        },
+        {
+          "ref": "24",
+          "body": ")"
+        },
+        {
+          "ref": "24",
+          "body": ")"
+        },
+        {
+          "ref": "24",
+          "body": ")"
+        },
+        {
+          "ref": "24",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 26,
+      "aku_count": 5,
+      "akus": [
+        {
+          "ref": "26",
+          "body": ")"
+        },
+        {
+          "ref": "26",
+          "body": ")"
+        },
+        {
+          "ref": "26",
+          "body": ")"
+        },
+        {
+          "ref": "26",
+          "body": ")"
+        },
+        {
+          "ref": "26",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 27,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "27",
+          "body": ")"
+        },
+        {
+          "ref": "27",
+          "body": ")"
+        },
+        {
+          "ref": "27",
+          "body": ")"
+        },
+        {
+          "ref": "27",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 28,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "28",
+          "body": ")"
+        },
+        {
+          "ref": "28",
+          "body": ")"
+        },
+        {
+          "ref": "28",
+          "body": ")"
+        },
+        {
+          "ref": "28",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 29,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "29",
+          "body": ")[*ed. cenaṃ ! ]"
+        }
+      ]
+    },
+    {
+      "chapter_num": 30,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "30",
+          "body": ")"
+        },
+        {
+          "ref": "30",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 9,
+      "aku_count": 6,
+      "akus": [
+        {
+          "ref": "9",
+          "body": ")"
+        },
+        {
+          "ref": "9",
+          "body": ")"
+        },
+        {
+          "ref": "9",
+          "body": ") Ap1.9.25.9-10/ atha-apy [udāharanti #1/ steyaṃ [kṛtvā surāṃ [pītvā guru.dāraṃ ca [gatvā brahmahatyām [akṛtvā#2 caturtha.kālā [mita.bhojanāḥ [syur apo- '[abhyaveyuḥ savana.anukalpam / sthāna.āsanābhyāṃ [viharanta ete tribhir varṣair apa pāpaṃ [nundate (nudante)#3 / ("
+        },
+        {
+          "ref": "9",
+          "body": ")"
+        },
+        {
+          "ref": "9",
+          "body": ")"
+        },
+        {
+          "ref": "9",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "aku_count": 6,
+      "akus": [
+        {
+          "ref": "10",
+          "body": ")"
+        },
+        {
+          "ref": "10",
+          "body": ")"
+        },
+        {
+          "ref": "10",
+          "body": ")"
+        },
+        {
+          "ref": "10",
+          "body": ")"
+        },
+        {
+          "ref": "10",
+          "body": ")"
+        },
+        {
+          "ref": "10",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 12,
+      "aku_count": 11,
+      "akus": [
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": "= K"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        },
+        {
+          "ref": "12",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 13,
+      "aku_count": 9,
+      "akus": [
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        },
+        {
+          "ref": "13",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 14,
+      "aku_count": 9,
+      "akus": [
+        {
+          "ref": "14",
+          "body": "tathā vṛkṣam ārūḍho- 'apsu ca-avagāḍho naktaṃ ca-apāvṛte )"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        },
+        {
+          "ref": "14",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 16,
+      "aku_count": 8,
+      "akus": [
+        {
+          "ref": "16",
+          "body": ")"
+        },
+        {
+          "ref": "16",
+          "body": ")"
+        },
+        {
+          "ref": "16",
+          "body": ")"
+        },
+        {
+          "ref": "16",
+          "body": ")"
+        },
+        {
+          "ref": "16",
+          "body": ")"
+        },
+        {
+          "ref": "16",
+          "body": ")"
+        },
+        {
+          "ref": "16",
+          "body": ")"
+        },
+        {
+          "ref": "16",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 17,
+      "aku_count": 5,
+      "akus": [
+        {
+          "ref": "17",
+          "body": ")"
+        },
+        {
+          "ref": "17",
+          "body": ")"
+        },
+        {
+          "ref": "17",
+          "body": ")"
+        },
+        {
+          "ref": "17",
+          "body": ")"
+        },
+        {
+          "ref": "17",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 19,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": "19",
+          "body": ")"
+        },
+        {
+          "ref": "19",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 22,
+      "aku_count": 6,
+      "akus": [
+        {
+          "ref": "22",
+          "body": ")"
+        },
+        {
+          "ref": "22",
+          "body": ")"
+        },
+        {
+          "ref": "22",
+          "body": ")"
+        },
+        {
+          "ref": "22",
+          "body": ")"
+        },
+        {
+          "ref": "22",
+          "body": ")"
+        },
+        {
+          "ref": "22",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 23,
+      "aku_count": 6,
+      "akus": [
+        {
+          "ref": "23",
+          "body": ")"
+        },
+        {
+          "ref": "23",
+          "body": ")"
+        },
+        {
+          "ref": "23",
+          "body": ")"
+        },
+        {
+          "ref": "23",
+          "body": ")"
+        },
+        {
+          "ref": "23",
+          "body": ")"
+        },
+        {
+          "ref": "23",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 25,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "25",
+          "body": ")"
+        },
+        {
+          "ref": "25",
+          "body": ")"
+        },
+        {
+          "ref": "25",
+          "body": ")"
+        },
+        {
+          "ref": "25",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "aku_count": 543,
+      "akus": [
+        {
+          "ref": "2",
+          "body": ")"
+        },
+        {
+          "ref": "Ap2.1.1.1",
+          "body": "pāṇi.grahaṇād adhi gṛhamedhinor vratam /"
+        },
+        {
+          "ref": "Ap2.1.1.2",
+          "body": "kālayor bhojanam /"
+        },
+        {
+          "ref": "Ap2.1.1.3",
+          "body": "atṛptiś ca-annasya /"
+        },
+        {
+          "ref": "Ap2.1.1.4",
+          "body": "parvasu ca-ubhayor upavāsaḥ /"
+        },
+        {
+          "ref": "Ap2.1.1.5",
+          "body": "aupavastam eva kāla.antare bhojanam /"
+        },
+        {
+          "ref": "Ap2.1.1.6",
+          "body": "tṛptiś ca-annasya /"
+        },
+        {
+          "ref": "Ap2.1.1.7",
+          "body": "yac ca-enayoḥ priyaṃ [syāt tad etasminn ahani [bhuñjīyātām /"
+        },
+        {
+          "ref": "Ap2.1.1.8",
+          "body": "adhaś ca [śayīyātām /"
+        },
+        {
+          "ref": "Ap2.1.1.9",
+          "body": "maithuna.varjanaṃ ca /"
+        },
+        {
+          "ref": "Ap2.1.1.10",
+          "body": "śvo.bhūte# sthālīpākaḥ / (K_śvo_bhūte_)"
+        },
+        {
+          "ref": "Ap2.1.1.11",
+          "body": "tasya-upacāraḥ pārvaṇena [vyākhyātaḥ /"
+        },
+        {
+          "ref": "Ap2.1.1.12",
+          "body": "nityaṃ loka [upadiśanti /"
+        },
+        {
+          "ref": "Ap2.1.1.13",
+          "body": "yatra kva ca-agnim [upasamādhāsyan [syāt tatra prācīr udīcīś ca tisras tisro lekhā [likhitvā-adbhir [avokṣya-agnim [upasamindhyāt /"
+        },
+        {
+          "ref": "Ap2.1.1.14",
+          "body": "[utsicya-etad udakam uttareṇa pūrveṇa vā-anyad [upadadhyāt /"
+        },
+        {
+          "ref": "Ap2.1.1.15",
+          "body": "nityam uda.dhānāny adbhir ariktāni [syur gṛhamedhinor vratam /"
+        },
+        {
+          "ref": "Ap2.1.1.16",
+          "body": "ahany asaṃveśanam /"
+        },
+        {
+          "ref": "Ap2.1.1.17",
+          "body": "ṛtau ca [saṃnipāto dāreṇa-anuvratam /"
+        },
+        {
+          "ref": "Ap2.1.1.18",
+          "body": "antarāle- 'api dāra eva /"
+        },
+        {
+          "ref": "Ap2.1.1.19",
+          "body": "brāhmaṇa.vacanāc ca saṃveśanam /"
+        },
+        {
+          "ref": "Ap2.1.1.20",
+          "body": "strī.vāsasā-eva [saṃnipātaḥ [syāt /"
+        },
+        {
+          "ref": "Ap2.1.1.21",
+          "body": "[yāvat.saṃnipātaṃ ca-eva sahaśayyā# / (K_saha_śayyā_)"
+        },
+        {
+          "ref": "Ap2.1.1.22",
+          "body": "tato nānā /"
+        },
+        {
+          "ref": "Ap2.1.1.23",
+          "body": "udaka.upasparśanam //"
+        },
+        {
+          "ref": "Ap2.1.2.1",
+          "body": "api vā lepān [prakṣālya-[ācamya prokṣaṇam aṅgānām /"
+        },
+        {
+          "ref": "Ap2.1.2.2",
+          "body": "sarva.varṇānāṃ sva.dharma.anuṣṭhāne parama.parimitaṃ sukham /"
+        },
+        {
+          "ref": "Ap2.1.2.3",
+          "body": "tataḥ [parivṛttau karma.phala.śeṣeṇa jātiṃ rūpaṃ varṇaṃ balaṃ medhāṃ prajñāṃ dravyāṇi dharma.anuṣṭhānam iti [pratipadyate / tat-cakravad ubhayor lokayoḥ sukha eva [vartate /"
+        },
+        {
+          "ref": "Ap2.1.2.4",
+          "body": "yathā-oṣadhi.vanaspatīnāṃ bījasya kṣetra.karma.viśeṣe phala.parivṛddhir evam /"
+        },
+        {
+          "ref": "Ap2.1.2.5",
+          "body": "etena doṣa.phala.parivṛddhir [uktā /"
+        },
+        {
+          "ref": "Ap2.1.2.6",
+          "body": "steno- '[abhiśasto brāhmaṇo rājanyo vaiśyo vā parasmiṃl loke [parimite# niraye [vṛtte [jāyate cāṇḍālo brāhmaṇaḥ paulkaso rājanyo vaiṇo vaiśyaḥ / (K_parimitaṃ_)"
+        },
+        {
+          "ref": "Ap2.1.2.7",
+          "body": "etena-anye doṣa.phalaiḥ karmabhiḥ paridhvaṃsā doṣa.phalāsu yoniṣu [jāyante varṇa.paridhvaṃsāyām /"
+        },
+        {
+          "ref": "Ap2.1.2.8",
+          "body": "yathā cāṇḍāla.upasparśane saṃbhāṣāyāṃ darśane ca doṣas tatra prāyaścittam /"
+        },
+        {
+          "ref": "Ap2.1.2.9",
+          "body": "avagāhanam apām upasparśane saṃbhāṣāyāṃ brāhmaṇa.saṃbhāṣā darśane jyotiṣāṃ darśanam // ( = K 9+10 )"
+        },
+        {
+          "ref": "Ap2.2.3.1",
+          "body": "āryāḥ [prayatā vaiśvadeve- 'anna.saṃskartāraḥ [syuḥ /"
+        },
+        {
+          "ref": "Ap2.2.3.2",
+          "body": "bhāṣāṃ kāsaṃ kṣavayum# ity abhimukho- 'annaṃ [varjayet / (K_kṣavadhum_)"
+        },
+        {
+          "ref": "Ap2.2.3.3",
+          "body": "keśān aṅgaṃ vāsaś ca-ālabhya-apa [upaspṛśet /"
+        },
+        {
+          "ref": "Ap2.2.3.4",
+          "body": "ārya.adhiṣṭhitā[ vā śūdrāḥ saṃskartāraḥ syuḥ /"
+        },
+        {
+          "ref": "Ap2.2.3.5",
+          "body": "teṣāṃ sa eva-ācamana.kalpaḥ /"
+        },
+        {
+          "ref": "Ap2.2.3.6",
+          "body": "adhikam ahar ahaḥ keśa.śmaśru.loma.nakha.vāpanam /"
+        },
+        {
+          "ref": "Ap2.2.3.7",
+          "body": "udaka.upasparśanaṃ ca saha vāsasā /"
+        },
+        {
+          "ref": "Ap2.2.3.8",
+          "body": "api vā-aṣṭamīṣv eva parvasu vā [vaperan# / (K_vaparen_)"
+        },
+        {
+          "ref": "Ap2.2.3.9",
+          "body": "parokṣam annaṃ [saṃskṛtam agnāv [adhiśritya-adbhiḥ [prokṣet / tad deva.pavitram ity [ācakṣate /"
+        },
+        {
+          "ref": "Ap2.2.3.10",
+          "body": "[siddhe- 'anne [tiṣṭhan bhūtam iti svāmine [prabrūyāt /"
+        },
+        {
+          "ref": "Ap2.2.3.11",
+          "body": "tat [su.bhūtaṃ virāḍ annaṃ tan mā [kṣāyi-iti prativacanaḥ /"
+        },
+        {
+          "ref": "Ap2.2.3.12",
+          "body": "gṛhamedhinor# yad [aśanīyasya homā balayaś ca svarga.puṣṭi.[saṃyuktāḥ / (K_gṛhamedhino_)"
+        },
+        {
+          "ref": "Ap2.2.3.13",
+          "body": "teṣāṃ mantrāṇām upayoge dvādaśa.aham adhaḥ.śayyā brahma.caryaṃ kṣāra.lavaṇa.varjanaṃ ca /"
+        },
+        {
+          "ref": "Ap2.2.3.14",
+          "body": "uttamasya-eka.rātram upavāsaḥ /"
+        },
+        {
+          "ref": "Ap2.2.3.15",
+          "body": "balīnāṃ tasya tasya deśe saṃskāro hastena [parimṛjya-[avokṣya [nyupya paścāt pariṣecanam /"
+        },
+        {
+          "ref": "Ap2.2.3.16",
+          "body": "aupāsane pacane vā ṣaḍbhir [ādyaiḥ pratimantraṃ hastena [juhuyāt /"
+        },
+        {
+          "ref": "Ap2.2.3.17",
+          "body": "ubhayataḥ pariṣecanaṃ yathā purastāt /"
+        },
+        {
+          "ref": "Ap2.2.3.18",
+          "body": "evaṃ balīnāṃ deśe deśe [samavetānāṃ sakṛt sakṛd ante pariṣecanam /"
+        },
+        {
+          "ref": "Ap2.2.3.19",
+          "body": "[sati su.upasaṃsṛṣṭena[ [kāryāḥ /"
+        },
+        {
+          "ref": "Ap2.2.3.20",
+          "body": "apareṇa-agniṃ saptama.aṣṭamābhyām udag.apavargam /"
+        },
+        {
+          "ref": "Ap2.2.3.21",
+          "body": "uda.dhāna.saṃnidhau navamena /"
+        },
+        {
+          "ref": "Ap2.2.3.22",
+          "body": "madhye- 'agārasya daśama.ekādaśābhyāṃ prāg.apavargam /"
+        },
+        {
+          "ref": "Ap2.2.3.23",
+          "body": "uttara.pūrvadeśe#- 'agārasya-uttaraiś caturbhiḥ // (K_uttara.pūrve_deśe_)"
+        },
+        {
+          "ref": "Ap2.2.4.1",
+          "body": "śayyā.deśe kāma.liṅgena /"
+        },
+        {
+          "ref": "Ap2.2.4.2",
+          "body": "dehalyām antarikṣa.liṅgena /"
+        },
+        {
+          "ref": "Ap2.2.4.3",
+          "body": "uttareṇa-apidhānyām /"
+        },
+        {
+          "ref": "Ap2.2.4.4",
+          "body": "uttarair brahma.sadane /"
+        },
+        {
+          "ref": "Ap2.2.4.5",
+          "body": "dakṣiṇataḥ pitṛ.liṅgena prācīna.āvīty.avācīna.pāṇiḥ [kuryāt /"
+        },
+        {
+          "ref": "Ap2.2.4.6",
+          "body": "raudra uttaro yathā devatābhyaḥ /"
+        },
+        {
+          "ref": "Ap2.2.4.7",
+          "body": "tayor nānā pariṣecanaṃ dharma.bhedāt /"
+        },
+        {
+          "ref": "Ap2.2.4.8",
+          "body": "naktam eva-uttamena vaihāyasam /"
+        },
+        {
+          "ref": "Ap2.2.4.9",
+          "body": "ya etān avyagro yathā.upadeśaṃ [kurute nityaḥ svargaḥ puṣṭiś ca /"
+        },
+        {
+          "ref": "Ap2.2.4.10",
+          "body": "agraṃ ca [deyam /"
+        },
+        {
+          "ref": "Ap2.2.4.11",
+          "body": "atithīn eva-agre [bhojayet /"
+        },
+        {
+          "ref": "Ap2.2.4.12",
+          "body": "bālān vṛddhān roga.saṃbandhān strīś ca-antarvatnīḥ /"
+        },
+        {
+          "ref": "Ap2.2.4.13",
+          "body": "kāle svāmināv annārthinaṃ na [pratyā.cakṣīyātām /"
+        },
+        {
+          "ref": "Ap2.2.4.14",
+          "body": "abhāve bhūmir udakaṃ tṛṇāni kalyāṇī vāg iti /# etāni vai sato- 'agāre na [kṣīyante kadācana-iti / (K_om._/_)"
+        },
+        {
+          "ref": "Ap2.2.4.15",
+          "body": "evaṃ.vṛttāv ananta.lokau [bhavataḥ /"
+        },
+        {
+          "ref": "Ap2.2.4.16",
+          "body": "brāhmaṇāya-anadhīyāanāya-āsanam udakam annam iti [deyam /# na [pratyuttiṣṭhet / (K_om._/_)"
+        },
+        {
+          "ref": "Ap2.2.4.17",
+          "body": "abhivādanāya-eva-uttiṣṭhed [abhivādyaś cet /"
+        },
+        {
+          "ref": "Ap2.2.4.18",
+          "body": "rājanya.vaiśyau ca /"
+        },
+        {
+          "ref": "Ap2.2.4.19",
+          "body": "śūdram [abhyāgataṃ karmaṇi [niyuñjyāt / atha-asmai [dadyāt / ( = K 19+20 )"
+        },
+        {
+          "ref": "Ap2.2.4.20",
+          "body": "dāsā vā rāja.kulād [āhṛtya-atithivat-śūdram [pūjayeyuḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.2.4.21",
+          "body": "nityam uttaraṃ vāsaḥ [kāryam / ( = K"
+        },
+        {
+          "ref": "Ap2.2.4.22",
+          "body": "api vā sūtram eva-[upavītārthe / ( = K"
+        },
+        {
+          "ref": "Ap2.2.4.23",
+          "body": "yatra [bhujyate tat [samūhya [nirhṛtya-[avokṣya taṃ deśam amatrebhyo lepān [saṃkṛṣya-adbhiḥ [saṃsṛjya-uttarataḥ śucau deśe rudrāya [ninayet / evaṃ vāstu śivaṃ [bhavati / ( = K"
+        },
+        {
+          "ref": "Ap2.2.4.24",
+          "body": "brāhmaṇa ācāryaḥ [smaryate tu / ( = K"
+        },
+        {
+          "ref": "Ap2.2.4.25",
+          "body": "āpadi brāhmaṇena rājanye vaiśye vā-adhyayanam / ( = K"
+        },
+        {
+          "ref": "Ap2.2.4.26",
+          "body": "anugamanaṃ ca paścāt / ( = K"
+        },
+        {
+          "ref": "Ap2.2.4.27",
+          "body": "tata ūrdhvaṃ brāhmaṇa eva-agre [gatau [syāt // ( =K"
+        },
+        {
+          "ref": "Ap2.2.5.1",
+          "body": "sarva.vidyānām apy upaniṣadām [upākṛtya-anadhyayanaṃ tad ahaḥ /"
+        },
+        {
+          "ref": "Ap2.2.5.2",
+          "body": "[adhītya ca-avikramaṇaṃ sadyaḥ /"
+        },
+        {
+          "ref": "Ap2.2.5.3",
+          "body": "yadi [tvareta guroḥ samīkṣāyāṃ svādhyāyam [adhītya kāmaṃ gacchet /# evam ubhayoḥ śivaṃ [bhavati // (K_om._/_)"
+        },
+        {
+          "ref": "Ap2.2.5.4",
+          "body": "[samāvṛttaṃ ced ācāryo- '[abhyāgacchet tam abhimukho- '[abhyāgamya tasya-[upasaṃgṛhya na [bībhatsamāna udakam [upaspṛśet [puraskṛtya-[upasthāpya yathā.upadeśaṃ [pūjayet /"
+        },
+        {
+          "ref": "Ap2.2.5.5",
+          "body": "āsane śayane [bhakṣye [bhojye vāsasi vā [saṃnihite nihīnatara.vṛttiḥ [syāt /"
+        },
+        {
+          "ref": "Ap2.2.5.6",
+          "body": "[tiṣṭhan savyena pāṇinā-[anugṛhya-ācāryam [ācamayet /"
+        },
+        {
+          "ref": "Ap2.2.5.7",
+          "body": "anyaṃ vā [samudetam /"
+        },
+        {
+          "ref": "Ap2.2.5.8",
+          "body": "sthāna.āsana.caṅkramaṇa.smiteṣv [anucikīrṣan /"
+        },
+        {
+          "ref": "Ap2.2.5.9",
+          "body": "[saṃnihite mūtrā.purīṣa.vāta.karma-uccair bhāṣā.hāsa.ṣṭhevana#.danta.skavana.niḥśṛṅkhaṇa.bhrukṣepaṇa.tālana.niṣṭhyāni-iti / (K_--.ṣṭhīvana--_)"
+        },
+        {
+          "ref": "Ap2.2.5.10",
+          "body": "dāre prajāyāṃ ca-upasparśana.bhāṣā visrambha.pūrvāḥ [parivarjayet /"
+        },
+        {
+          "ref": "Ap2.2.5.11",
+          "body": "vākyena vākyasya [pratīghātam ācāryasya [varjayet /"
+        },
+        {
+          "ref": "Ap2.2.5.12",
+          "body": "śreyasāṃ ca / ( 11+"
+        },
+        {
+          "ref": "Ap2.2.5.13",
+          "body": "sarva.bhūta.parīvāda.ākrośāṃś ca / ( = K"
+        },
+        {
+          "ref": "Ap2.2.5.14",
+          "body": "vidyayā ca vidyānām / ( = K"
+        },
+        {
+          "ref": "Ap2.2.5.15",
+          "body": "yayā vidyayā na [viroceta punar ācāryam [upetya niyamena [sādhayet / ( = K"
+        },
+        {
+          "ref": "Ap2.2.5.16",
+          "body": "upākaraṇād ā-utsarjanād#1 adhyāpayitur niyamaḥ /#2 loma.saṃharaṇaṃ māṃsaṃ śrāddhaṃ maithunam iti ca [varjayet / ( = K 15,"
+        },
+        {
+          "ref": "2",
+          "body": "om. / )"
+        },
+        {
+          "ref": "Ap2.2.5.17",
+          "body": "ṛtve vā jāyām / ( = K"
+        },
+        {
+          "ref": "Ap2.2.5.18",
+          "body": "yathā.āgamaṃ śiṣyebhyo vidyā.saṃpradāne niyameṣu ca [yuktaḥ [syāt /# evaṃ [vartamānaḥ pūrva.aparān saṃbandhān ātmānaṃ ca kṣeme [yunakti / ( = K 17, om. / )"
+        },
+        {
+          "ref": "Ap2.2.5.19",
+          "body": "manasā vācā prāṇena cakṣuṣā śrotreṇa tvak.śiśna.udara.ārambhanaṇa.anāsrāvān [parivṛñjāno- 'amṛtatvāya [kalpate // ( = K"
+        },
+        {
+          "ref": "Ap2.3.6.1",
+          "body": "jāti.ācāra.saṃśaye dharma.artham [āgatam agnim [upasamādhāya jātim ācāraṃ ca pṛcchet /"
+        },
+        {
+          "ref": "Ap2.3.6.2",
+          "body": "sādhutāṃ cet [pratijānīte- 'agnir upadraṣṭā vāyur upaśrotā-ādityo- 'anukhyātā sādhutāṃ#1 [pratijānīte sādhu-asmā [astu vitatha eṣa enasa ity [uktvā [śāstuṃ [pratipadyeta#2 / (K_1:insets_cet,_2:pratipadyate_)"
+        },
+        {
+          "ref": "Ap2.3.6.3",
+          "body": "agnir iva [jvalann atithir [abhyāgacchati /"
+        },
+        {
+          "ref": "Ap2.3.6.4",
+          "body": "dharmeṇa vedānām eka.ekāṃ śākhām [adhītya śrotriyo [bhavati /"
+        },
+        {
+          "ref": "Ap2.3.6.5",
+          "body": "[sva.dharma.yuktaṃ kuṭumbinam [abhyāgacchati dharma.puraskāro na-anya.prayojanaḥ so- 'atithir [bhavati /"
+        },
+        {
+          "ref": "Ap2.3.6.6",
+          "body": "tasya pūjāyāṃ śāntiḥ svargaś ca /"
+        },
+        {
+          "ref": "Ap2.3.6.7",
+          "body": "tam abhimukho- 'abhyāgamya yathā.vayaḥ [sametya tasya-āsanam [āhārayet /"
+        },
+        {
+          "ref": "Ap2.3.6.8",
+          "body": "śakti.viṣaye na-abahu.pādam āsanaṃ [bhavati-ity eke /"
+        },
+        {
+          "ref": "Ap2.3.6.9",
+          "body": "tasya pādau [prakṣālayet /# śūdra.mithunāv ity eke /(K_om._/_)"
+        },
+        {
+          "ref": "Ap2.3.6.10",
+          "body": "anyataro- 'abhiṣecane [syāt /"
+        },
+        {
+          "ref": "Ap2.3.6.11",
+          "body": "tasya-udakam [āhārayen mṛnmayena#-ity eke / (K_mṛṇ.mayena_)"
+        },
+        {
+          "ref": "Ap2.3.6.12",
+          "body": "na-udakam [ācārayed(āhārayed?)# [asamāvṛttaḥ / (K_āhārayed_)"
+        },
+        {
+          "ref": "Ap2.3.6.13",
+          "body": "adhyayana.sāṃvṛttiś ca-atra-adhikā /"
+        },
+        {
+          "ref": "Ap2.3.6.14",
+          "body": "[sāntvayitvā [tarpayed rasair bhakṣyair adbhir [avarārdhyena*-iti / [*ed. avarārghyena-]"
+        },
+        {
+          "ref": "Ap2.3.6.15",
+          "body": "āvasathaṃ [dadyād upari.śayyām upastaraṇam upadhānaṃ sa.avastaraṇam abhyañjanaṃ ca-iti /"
+        },
+        {
+          "ref": "Ap2.3.6.16",
+          "body": "anna.saṃskartāram [āhūya vrīhīn yavān vā tad.arthān [nirvapet /"
+        },
+        {
+          "ref": "Ap2.3.6.17",
+          "body": "[uddhṛtāny annāny [avekṣeta-idaṃ"
+        },
+        {
+          "ref": "Ap2.3.6.18",
+          "body": "bhūya [uddhara-ity eva [brūyāt /"
+        },
+        {
+          "ref": "Ap2.3.6.19",
+          "body": "[dviṣan [dviṣato vā na-annam [aśnīyād doṣeṇa vā [mīmāṃsamānasya [mīmāṃsitasya vā /"
+        },
+        {
+          "ref": "Ap2.3.6.20",
+          "body": "pāpmānaṃ hi sa tasya [bhakṣayati-iti [vijñāyate //"
+        },
+        {
+          "ref": "Ap2.3.7.1",
+          "body": "sa eṣa prājāpatyaḥ# kuṭumbino yajño nitya.pratataḥ[ / (K_prajāpatyaḥ_)"
+        },
+        {
+          "ref": "Ap2.3.7.2",
+          "body": "yo- 'atithīnām agniḥ sa āhavanīyo yaḥ kuṭumbe sa gārhapatyo yasmin [pacyate so- 'anvāhāryapacanaḥ /"
+        },
+        {
+          "ref": "Ap2.3.7.3",
+          "body": "ūrjaṃ puṣṭiṃ prajāṃ paśūn iṣṭā.pūrtam iti gṛhāṇām [aśnāti yaḥ pūrvo- 'atither [aśnāti /"
+        },
+        {
+          "ref": "Ap2.3.7.4",
+          "body": "paya.upasecanam annam agniṣṭoma.saṃmitaṃ[ sarpiṣā-ukthya.saṃmitaṃ[ madhunā-atirātra.saṃmitaṃ[ māṃsena dvādaśa.aha.saṃmitam[ udakena prajā.vṛddhir āyuṣaś ca /"
+        },
+        {
+          "ref": "Ap2.3.7.5",
+          "body": "priyā apriyāś ca-atithayaḥ svargaṃ lokaṃ [gamayanti-iti [vijñāyate /"
+        },
+        {
+          "ref": "Ap2.3.7.6",
+          "body": "sa yat prātar madhyaṃdine sāyam iti [dadāti savanāny eva tāni [bhavanti /"
+        },
+        {
+          "ref": "Ap2.3.7.7",
+          "body": "yad [anutiṣṭhaty [udavasyaty eva tat /"
+        },
+        {
+          "ref": "Ap2.3.7.8",
+          "body": "yat [sāntvayatati# sā dakṣiṇā praśaṃsā / (K_sāntavayati_)"
+        },
+        {
+          "ref": "Ap2.3.7.9",
+          "body": "yat [saṃsādhayati te viṣṇu.kramāḥ /"
+        },
+        {
+          "ref": "Ap2.3.7.10",
+          "body": "yad [upāvartate so- 'avabhṛthaḥ /"
+        },
+        {
+          "ref": "Ap2.3.7.11",
+          "body": "iti hi# brāhmaṇam / (K_om._hi_)"
+        },
+        {
+          "ref": "Ap2.3.7.12",
+          "body": "rājānaṃ ced atithir [abhyāgacchet-śreyasīm asmai pūjām ātmanaḥ [kārayet /"
+        },
+        {
+          "ref": "Ap2.3.7.13",
+          "body": "[āhita.agniṃ ced atithir [abhyāgacchet svayam enam [abhyudetya [brūyāt / vrātya kva-avātsīr iti / vrātya udakam iti / vrātya [tarpayaṃs tv iti /"
+        },
+        {
+          "ref": "Ap2.3.7.14",
+          "body": "purā-agnihotrasya homād upāṃśu [japet / vrātya yathā te manas tathā-[astu-iti / vrātya yathā te vaśas tathā-[astu-iti / vrātya yathā te priyaṃ tathā-[astu-iti / vrātya yathā te nikāmas tathā-[astu-iti //"
+        },
+        {
+          "ref": "Ap2.3.7.15",
+          "body": "yasya-[uddhṛteṣv [ahuteṣv agniṣv atithir [abhyāgacchet svayam enam [abhyudetya [brūyāt vrātya [atisṛja [hoṣyāmi / ity [atisṛṣṭena [hotavyam / [anatisṛṣṭaś cej-[juhuyād doṣaṃ brāhmaṇam [āha //"
+        },
+        {
+          "ref": "Ap2.3.7.16",
+          "body": "eka.rātraṃ ced atithīn [vāsayet pārthivāṃl lokān [abhijayati dvitīyayā-antarikṣyāṃs tṛtīyayā divyāṃś caturthyā parāvato lokān aparimitābhir [aparimitāṃl lokān [abhijayati-iti [vijñāyate /"
+        },
+        {
+          "ref": "Ap2.3.7.17",
+          "body": "[asamudetaś ced atithir [bruvāṇa [āgacched āsanam udakam annaṃ śrotriyāya [dadāmi-ity eva [dadyāt / evam asya [samṛddhaṃ [bhavati //"
+        },
+        {
+          "ref": "Ap2.4.8.1",
+          "body": "yena [kṛta.āvasathaḥ [syād atithir na taṃ [pratyuttiṣṭhet [pratyavarohed vā purastāt-ced [abhivāditaḥ /"
+        },
+        {
+          "ref": "Ap2.4.8.2",
+          "body": "śeṣabhojī-atithīnāṃ [syāt /"
+        },
+        {
+          "ref": "Ap2.4.8.3",
+          "body": "na rasān gṛhe [bhuñjīta-anavaśeṣam atithibhyaḥ /"
+        },
+        {
+          "ref": "Ap2.4.8.4",
+          "body": "na-ātma.artham abhirūpam annaṃ [pācayet /"
+        },
+        {
+          "ref": "Ap2.4.8.5",
+          "body": "go.madhu.parka.arho veda.adhyāyaḥ /"
+        },
+        {
+          "ref": "Ap2.4.8.6",
+          "body": "ācārya ṛtvik snātako rājā vā dharma[yuktaḥ /"
+        },
+        {
+          "ref": "Ap2.4.8.7",
+          "body": "ācāryāya-ṛtvije śvaśurāya rājña iti parisaṃvatsarād [upatiṣṭhadbhyo gaur madhu.parkaś ca /"
+        },
+        {
+          "ref": "Ap2.4.8.8",
+          "body": "dadhi madhu.[saṃsṛṣṭaṃ madhu.parkaḥ payo vā madhu.saṃsṛṣṭam[ /"
+        },
+        {
+          "ref": "Ap2.4.8.9",
+          "body": "abhāva udakam /"
+        },
+        {
+          "ref": "Ap2.4.8.10",
+          "body": "ṣaḍaṅgo vedaḥ /"
+        },
+        {
+          "ref": "Ap2.4.8.11",
+          "body": "chandaḥ kalpo vyākaraṇaṃ jyotiṣaṃ niruktaṃ śīkṣā chando.vicitir iti /"
+        },
+        {
+          "ref": "Ap2.4.8.12",
+          "body": "śabda. artha.ārambhaṇānāṃ tu karmaṇāṃ samāmnāya.samāptau veda.śabdaḥ / tatra saṃkhyā [vipratiṣiddhā /"
+        },
+        {
+          "ref": "Ap2.4.8.13",
+          "body": "aṅgānāṃ tu pradhānair avyapadeśa iti nyāyavit.samayaḥ /"
+        },
+        {
+          "ref": "Ap2.4.8.14",
+          "body": "atithiṃ [nirākṛtya yatra [gate bhojane [smaret tato [viramya-[upoṣya //"
+        },
+        {
+          "ref": "Ap2.4.9.1",
+          "body": "śvo.bhūte#1 yathā.manasaṃ#2 [tarpayitvā [saṃsādhayet / (K_1._śvo_bhūte_,_2.yathā.mānasaṃ_)"
+        },
+        {
+          "ref": "Ap2.4.9.2",
+          "body": "yānavantam ā yānāt /"
+        },
+        {
+          "ref": "Ap2.4.9.3",
+          "body": "yāvat-na-[anujānīyād itaraḥ /"
+        },
+        {
+          "ref": "Ap2.4.9.4",
+          "body": "apratībhāyāṃ sīmno [nivarteta /"
+        },
+        {
+          "ref": "Ap2.4.9.5",
+          "body": "sarvān vaiśvadeve bhāginaḥ [kurvīta-ā śva.cāṇḍālebhyaḥ# / (K_śva.caṇḍālebhyaḥ_)"
+        },
+        {
+          "ref": "Ap2.4.9.6",
+          "body": "na-[anarhadbhyo [dadyād ity eke /"
+        },
+        {
+          "ref": "Ap2.4.9.7",
+          "body": "[upetaḥ strīṇām [anupetasya ca-ucchiṣṭaṃ [varjayet /"
+        },
+        {
+          "ref": "Ap2.4.9.8",
+          "body": "sarvāṇy udaka.pūrvāṇi dānāni /"
+        },
+        {
+          "ref": "Ap2.4.9.9",
+          "body": "yathā.śruti vihāre /"
+        },
+        {
+          "ref": "Ap2.4.9.10",
+          "body": "ye nityā bhāktikās teṣām anuparodhena saṃvibhāgo [vihitaḥ /"
+        },
+        {
+          "ref": "Ap2.4.9.11",
+          "body": "kāmam ātmānaṃ bhāryāṃ putraṃ vā-[uparundhyān na tu-eva dāsa.karma.karam /"
+        },
+        {
+          "ref": "Ap2.4.9.12",
+          "body": "tathā ca-ātmano- 'anuparodhaṃ [kuryād yathā karmasv# asamarthaḥ# [syāt / (K_karmasu_samarthas_)"
+        },
+        {
+          "ref": "Ap2.4.9.13a",
+          "body": "atha-apy [udāharanti / (ś) aṣṭau grāsā muner bhakṣaḥ# ṣoḍaśa-araṇyavāsinaḥ / dvātriṃśataṃ gṛhasthasya-[aparimitaṃ brahmacāriṇaḥ // (K_bhakṣyāḥ_)"
+        },
+        {
+          "ref": "Ap2.4.9.13b",
+          "body": "(ś) āhita.agnir anaḍvāṃś ca brahmacārī ca te trayaḥ / [aśnanta eva [sidhyanti na-eṣāṃ siddhir [anaśnatām iti //"
+        },
+        {
+          "ref": "Ap2.5.10.1",
+          "body": "bhikṣaṇe nimittam ācāryo vivāho yajño mātā.pitror bubhūrṣā-[arhataś ca niyama.vilopaḥ /"
+        },
+        {
+          "ref": "Ap2.5.10.2",
+          "body": "tatra guṇān [samīkṣya yathā.śakti [deyam /"
+        },
+        {
+          "ref": "Ap2.5.10.3",
+          "body": "indriya.prīty.arthasya tu bhikṣaṇam animittam / na tad [ādriyeta // ( = K 3+4 )"
+        },
+        {
+          "ref": "Ap2.5.10.4",
+          "body": "svakarma brāhmaṇasya-adhyayanam adhyāpanam yajño yājanam dānaṃ pratigrahaṇam dāyād yaṃ śiloñchaḥ# / ( = K 5, siloñchaḥ )"
+        },
+        {
+          "ref": "Ap2.5.10.5",
+          "body": "anyat-ca-[aparigṛhītam / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.6",
+          "body": "etāny eva kṣatriyasya-adhyāpana.yājana.pratigrahaṇāni-iti [parihāpya daṇḍa.yuddha.adhikāni / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.7",
+          "body": "kṣatriyavad vaiśyasya daṇḍa.yuddha.varjaṃ kṛṣi.go.rakṣya.vāṇijya.adhikam / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.8",
+          "body": "na-[ananūcānam ṛtvijaṃ [vṛṇīte na paṇamānam# / ( = 9, --.māṇam )"
+        },
+        {
+          "ref": "Ap2.5.10.9",
+          "body": "[ayājyo- '[anadhīyānaḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.10",
+          "body": "yuddhe tad yogā yathā.upāyam [upadiśanti tathā [pratipattavyam / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.11",
+          "body": "[nyasta.āyudha.prakīrṇa.keśa.prāñjali.[parāṅ.āvṛttānām āryā vadhaṃ [paricakṣate / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.12",
+          "body": "śāstrair [adhigatānām indriya.daurbalyād [vipratipannānāṃ [śāstā nirveṣam [upadiśed yathā.karma [yathā.uktam / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.13",
+          "body": "tasya cet-śāstram [atipravarteran rajānaṃ [gamayet / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.14",
+          "body": "rājā purohitaṃ dharma.artha.kuśalam / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.15",
+          "body": "sa brāhmaṇān [niyuñjyāt / ( = K"
+        },
+        {
+          "ref": "Ap2.5.10.16",
+          "body": "bala.viśeṣeṇa vadha.dāsya.varjaṃ niyamair [upaśoṣayet // ( = K"
+        },
+        {
+          "ref": "Ap2.5.11.1",
+          "body": "itareṣāṃ varṇānām ā prāṇa.viprayogāt [samavekṣya teṣāṃ karmāṇi rājā daṇḍam [praṇayet /"
+        },
+        {
+          "ref": "Ap2.5.11.2",
+          "body": "na ca saṃdehe daṇḍaṃ [kuryāt /"
+        },
+        {
+          "ref": "Ap2.5.11.3",
+          "body": "[su.vicitaṃ [vicitya-ā daiva.praśnebhyo rājā daṇḍāya [pratipadyeta /"
+        },
+        {
+          "ref": "Ap2.5.11.4",
+          "body": "evaṃ.vṛtto[ rājā-ubhau lokāv [abhijayati /"
+        },
+        {
+          "ref": "Ap2.5.11.5",
+          "body": "rājñaḥ panthā brāhmaṇena-[asametya /"
+        },
+        {
+          "ref": "Ap2.5.11.6",
+          "body": "sametya tu brāhmaṇasya-eva panthāḥ /"
+        },
+        {
+          "ref": "Ap2.5.11.7",
+          "body": "yānasya bhāra.abhinihitasya-aturasya[ striyā iti sarvair [dātavyaḥ /"
+        },
+        {
+          "ref": "Ap2.5.11.8",
+          "body": "varṇa.jyāyasāṃ ca-itarair varṇaiḥ /"
+        },
+        {
+          "ref": "Ap2.5.11.9",
+          "body": "[aśiṣṭa.patita.matta.unmattānām ātma.svasti.ayana.arthena sarvair eva [dātavyaḥ /"
+        },
+        {
+          "ref": "Ap2.5.11.10",
+          "body": "dharma.caryayā jaghanyo varṇaḥ pūrvaṃ pūrvaṃ varṇam [āpadyate jāti.[parivṛttau /"
+        },
+        {
+          "ref": "Ap2.5.11.11",
+          "body": "adharma.caryayā pūrvo varṇo jaghanyaṃ jaghanyaṃ varṇam [āpadyate jāti.parivṛttau /"
+        },
+        {
+          "ref": "Ap2.5.11.12",
+          "body": "dharma.prajā.saṃpanne[ dāre na-anyāṃ [kurvīta /"
+        },
+        {
+          "ref": "Ap2.5.11.13",
+          "body": "anyatara.abhāve [kāryā prāg agnyādheyāt /"
+        },
+        {
+          "ref": "Ap2.5.11.14",
+          "body": "ādhāne hi [satī karmabhiḥ [saṃbadhyate yeṣām etad aṅgam /"
+        },
+        {
+          "ref": "Ap2.5.11.15",
+          "body": "sagotrāya duhitaraṃ na [prayacchet /"
+        },
+        {
+          "ref": "Ap2.5.11.16",
+          "body": "mātuś ca yoni.saṃbandhebhyaḥ /"
+        },
+        {
+          "ref": "Ap2.5.11.17",
+          "body": "brāhme vivāhe bandhu.śīla#1.śruta.arogyāṇi [buddhvā prajā.sahatva#2.karmabhyaḥ [pratipādayet-śakti.viṣayeṇa-[alaṃkṛtya / (K_1:inserts_lakṣaṇasampanna,_2:prajāṃ_sahatva--_)"
+        },
+        {
+          "ref": "Ap2.5.11.18",
+          "body": "ārṣe duhitṛmate mithunau gāvau [deyau /"
+        },
+        {
+          "ref": "Ap2.5.11.19",
+          "body": "daive yajña.tantra ṛtvije [pratipādayet /"
+        },
+        {
+          "ref": "Ap2.5.11.20",
+          "body": "mithaḥ kāmāt [sāṃvartete sa gāndharvaḥ //"
+        },
+        {
+          "ref": "Ap2.5.12.1",
+          "body": "śakti.viṣayeṇa dravyāṇi [datvā# [vaheran# sa āsuraḥ / (K_datvā-āvaheran_)"
+        },
+        {
+          "ref": "Ap2.5.12.2",
+          "body": "duhitṛmataḥ [prothayitvā# [vaheran# sa rākṣasaḥ / (K_prothayitvā`āvaheran_)"
+        },
+        {
+          "ref": "Ap2.5.12.3",
+          "body": "teṣāṃ traya ādyāḥ [praśastāḥ pūrvaḥ pūrvaḥ śreyān /"
+        },
+        {
+          "ref": "Ap2.5.12.4",
+          "body": "yathā# [yukto# vivāhas tathā [yuktā prajā [bhavati / (K_yathāyukto_)"
+        },
+        {
+          "ref": "Ap2.5.12.5",
+          "body": "pāṇi.samūḍhaṃ[ brāhmaṇasya na-aprokṣitam [abhitiṣṭhet / Ap2.5.12.6-7/ agniṃ brāhmaṇam ca-antareṇa na-[atikrāmet / brāhmaṇāṃś ca /"
+        },
+        {
+          "ref": "Ap2.5.12.8",
+          "body": "[anujñāpya vā-[atikrāmet /"
+        },
+        {
+          "ref": "Ap2.5.12.9",
+          "body": "agnim apaś ca na yugapad-[dhārayīta /"
+        },
+        {
+          "ref": "Ap2.5.12.10",
+          "body": "nānā.agnīnāṃ ca saṃnivāpaṃ# [varjayet / (K_sannipātaṃ_)"
+        },
+        {
+          "ref": "Ap2.5.12.11",
+          "body": "pratimukham agnim [āhriyamāṇam na-apratiṣṭhitaṃ bhūmau [pradakṣiṇī.kuryāt /"
+        },
+        {
+          "ref": "Ap2.5.12.12",
+          "body": "pṛṣṭhataś ca-ātmanaḥ pāṇī na [saṃśleṣayet /"
+        },
+        {
+          "ref": "Ap2.5.12.13",
+          "body": "[svapann [abhinimrukto na-[āśvān vāg.yato[ rātrim [āsīta / śvo. bhūta udakam [upaspṛśya vācaṃ [visṛjet /"
+        },
+        {
+          "ref": "Ap2.5.12.14",
+          "body": "[svapann [abhyudito na-[āśvān [vāg.yato- 'ahas [tiṣṭhet /"
+        },
+        {
+          "ref": "Ap2.5.12.15",
+          "body": "ā# [tamitoḥ# prāṇam [āyacched ity eke / (K_ātamitoḥ_)"
+        },
+        {
+          "ref": "Ap2.5.12.16",
+          "body": "svapnaṃ vā pāpakaṃ [dṛṣṭvā /"
+        },
+        {
+          "ref": "Ap2.5.12.17",
+          "body": "arthaṃ vā [siṣādhayiṣan /"
+        },
+        {
+          "ref": "Ap2.5.12.18",
+          "body": "niyama.atikrame ca-anyasmin /"
+        },
+        {
+          "ref": "Ap2.5.12.19",
+          "body": "doṣa.phala.saṃśaye na tat [kartavyam /"
+        },
+        {
+          "ref": "Ap2.5.12.20",
+          "body": "evam adhyāya.anadhyāye /"
+        },
+        {
+          "ref": "Ap2.5.12.21",
+          "body": "na saṃśaye pratyakṣavad [brūyāt /"
+        },
+        {
+          "ref": "Ap2.5.12.22",
+          "body": "[abhinimrukta.abhyudita.kunakhi.śyāvadāgradidhiṣu.didhiṣūpati.paryāhita.parīṣṭa.parivitta.parivinna.parivividāneṣu ca-uttara.uttarasminn aśuci.kara.nirveṣo garīyān garīyān //"
+        },
+        {
+          "ref": "Ap2.5.12.23",
+          "body": "tat-ca liṅgaṃ [caritvā-[uddhāryam ity eke //"
+        },
+        {
+          "ref": "Ap2.6.13.1",
+          "body": "savarṇāpūrva.śāstra.vihitāyāṃ yatha.rtu [gacchataḥ putrās teṣāṃ karmabhiḥ saṃbandhaḥ /"
+        },
+        {
+          "ref": "Ap2.6.13.2",
+          "body": "dāyena#-avyatikramaś ca-ubhayoḥ / (K_dāyena_ca-_)"
+        },
+        {
+          "ref": "Ap2.6.13.3",
+          "body": "pūrvavatyām [asaṃskṛtāyāṃ varṇa.antare ca maithune doṣaḥ /"
+        },
+        {
+          "ref": "Ap2.6.13.4",
+          "body": "tatra-api doṣavān putra eva /"
+        },
+        {
+          "ref": "Ap2.6.13.5",
+          "body": "utpādayituḥ putra iti hi brāhmaṇam /"
+        },
+        {
+          "ref": "Ap2.6.13.6a",
+          "body": "atha-apy [udāharanti /(ś) idānīm eva-ahaṃ janaka strīṇām [īrṣyāmi no purā / yadā yamasya sādane janayituḥ putram [abruvan //"
+        },
+        {
+          "ref": "Ap2.6.13.6b",
+          "body": "(ś) reto.dhāḥ putraṃ [nayati [paretya yama.sādane / tasmād bhāryāṃ [rakṣanti [bibhyantaḥ para.retasaḥ //"
+        },
+        {
+          "ref": "Ap2.6.13.6c",
+          "body": "(ś) [apramattā [rakṣatha tantum etaṃ mā vaḥ kṣetre parabījāni [vāpsuḥ / janayituḥ putro [bhavati sāṃparāye moghaṃ [vettā [kurute tantum etam iti //"
+        },
+        {
+          "ref": "Ap2.6.13.7",
+          "body": "[dṛṣṭo dharma.vyatikramaḥ sāhasaṃ ca pūrveṣām /"
+        },
+        {
+          "ref": "Ap2.6.13.8",
+          "body": "teṣāṃ tejo.viśeṣeṇa pratyavāyo na [vidyate /"
+        },
+        {
+          "ref": "Ap2.6.13.9",
+          "body": "tad [anvīkṣya [prayuñjānaḥ [sīdaty avaraḥ /"
+        },
+        {
+          "ref": "Ap2.6.13.10",
+          "body": "dānaṃ kraya.dharmaś ca-apatyasya na [vidyate /"
+        },
+        {
+          "ref": "Ap2.6.13.11a",
+          "body": "vivāhe duhitṛmate dānaṃ [kāmyaṃ dharmārthaṃ [śrūyate tasmād duhitṛmate- 'adhirathaṃ śataṃ [deyaṃ tan mithuyā [kuryād iti /"
+        },
+        {
+          "ref": "Ap2.6.13.11b",
+          "body": "tasyāṃ kraya.śabdaḥ saṃstuti.mātram /# dharmād-hi saṃbandhaḥ /"
+        },
+        {
+          "ref": "Ap2.6.13.12",
+          "body": "eka.dhanena jyeṣṭhaṃ [toṣayitvā / (K_om._/_)"
+        },
+        {
+          "ref": "Ap2.6.14.1",
+          "body": "[jīvan putrebhyo dāyaṃ [vibhajet samaṃ klībam [unmattaṃ# [patitaṃ ca [parihāpya / (K_unmatta_)"
+        },
+        {
+          "ref": "Ap2.6.14.2",
+          "body": "putra.abhāve yaḥ [pratyāsannaḥ sapiṇḍaḥ /"
+        },
+        {
+          "ref": "Ap2.6.14.3",
+          "body": "tad.abhāva ācārya ācārya.abhāve- 'antevāsī [hṛtvā tad.artheṣu dharma.kṛtyeṣu vā-[upayojayet /"
+        },
+        {
+          "ref": "Ap2.6.14.4",
+          "body": "duhitā vā/"
+        },
+        {
+          "ref": "Ap2.6.14.5",
+          "body": "sarva.abhāve rājā dāyaṃ [hareta# / (K_haret_)"
+        },
+        {
+          "ref": "Ap2.6.14.6",
+          "body": "jyeṣṭho dāyāda ity eke /"
+        },
+        {
+          "ref": "Ap2.6.14.7",
+          "body": "deśa.viśeṣe suvarṇam kṛṣṇā gāvaḥ kṛṣṇaṃ bhaumaṃ jyeṣṭhasya /"
+        },
+        {
+          "ref": "Ap2.6.14.8",
+          "body": "rathaḥ pituḥ parībhāṇḍaṃ# ca gṛhe / (K_paribhāṇḍaṃ_)"
+        },
+        {
+          "ref": "Ap2.6.14.9",
+          "body": "alaṃkāro bhāryāyā# jñāti.dhanaṃ ca-ity eke / (K_bhāryāyāḥ_)"
+        },
+        {
+          "ref": "Ap2.6.14.10",
+          "body": "tat-śāstrair [vipratiṣiddham /"
+        },
+        {
+          "ref": "Ap2.6.14.11",
+          "body": "manuḥ putrebhyo dāyaṃ [vyabhajad ity aviśeṣeṇa [śrūyate /"
+        },
+        {
+          "ref": "Ap2.6.14.12",
+          "body": "atha-api tasmāt-jyeṣṭhaṃ putraṃ dhanena [niravasāyayanti-ity ekavat-[śrūyate /"
+        },
+        {
+          "ref": "Ap2.6.14.13",
+          "body": "atha-api nitya.anuvādam avidhim [āhur nyāyavido yathā tasmād ajāvayaḥ paśūnāṃ saha#1 [caranti#1-iti#2 tasmāt snātakasya mukhaṃ [rebhāyati#3-iva#4 tasmād bastaś ca śrotriyaś ca strī.kāmatamāv iti / (K_1:sahacaranti-,_2:inserts_/,_3:rephāyati-,_4:inserts_/_)"
+        },
+        {
+          "ref": "Ap2.6.14.14",
+          "body": "sarve hi dharma.yuktā[ bhāginaḥ /"
+        },
+        {
+          "ref": "Ap2.6.14.15",
+          "body": "yas tv adharmeṇa dravyāṇi [pratipādayati jyeṣṭho- 'api tam abhāgaṃ [kurvīta /"
+        },
+        {
+          "ref": "Ap2.6.14.16",
+          "body": "jāyāa.patyor na vibhāgo [vidyate /"
+        },
+        {
+          "ref": "Ap2.6.14.17",
+          "body": "pāṇigrahaṇād-hi sahatvaṃ karmasu /"
+        },
+        {
+          "ref": "Ap2.6.14.18",
+          "body": "tathā puṇya.phaleṣu /"
+        },
+        {
+          "ref": "Ap2.6.14.19",
+          "body": "dravya.parigraheṣu ca /"
+        },
+        {
+          "ref": "Ap2.6.14.20",
+          "body": "na hi bhartur vipravāse naimittike dāne steyam [upadiśanti //"
+        },
+        {
+          "ref": "Ap2.6.15.1",
+          "body": "etena deśa.kula.dharmā [vyākhyātāḥ /"
+        },
+        {
+          "ref": "Ap2.6.15.2",
+          "body": "mātuś ca yoni.saṃbandhebhyaḥ pituś ca-ā saptamāt puruṣād# yāvatā vā saṃbandho [jñāyate teṣāṃ [preteṣu-udaka.upasparśanaṃ garbhān [parihāpya-aparisaṃvatsarān / (K_om._puruṣād_)"
+        },
+        {
+          "ref": "Ap2.6.15.3",
+          "body": "mātā.pitarāv eva teṣu /"
+        },
+        {
+          "ref": "Ap2.6.15.4",
+          "body": "hartāraś ca /"
+        },
+        {
+          "ref": "Ap2.6.15.5",
+          "body": "bhāryāyāṃ parama.guru.saṃsthāyāṃ ca-akālam# abhojanam# / (K_ca-akālabhojanam_)"
+        },
+        {
+          "ref": "Ap2.6.15.6",
+          "body": "ātura.vyañjanāni [kurvīran / Ap2.6.15.7-8/ keśān [prakīrya pāṃsūn opyekavāsaso#1 (pāṃsūn [opya-ekavāsaso ?) dakṣiṇā.mukhāḥ sakṛd [upamajjaya#2-[uttīrya-upaviśanti /#3 evaṃ triḥ /#4 ( = K 7, 1:opya-ekavāsaso, 2:upamajjya, 3:om. /, 4:adds K 8:evaṃ triḥ )"
+        },
+        {
+          "ref": "Ap2.6.15.9",
+          "body": "tat.pratyayam udakam [utsicya-apratīkṣā grāmam [etya yat striya [āhus tat [kurvanti /"
+        },
+        {
+          "ref": "Ap2.6.15.10",
+          "body": "itareṣu ca-etad eva-eke- [upadiśanti /"
+        },
+        {
+          "ref": "Ap2.6.15.11",
+          "body": "śucīn mantravataḥ sarva.kṛtyeṣu [bhojayet /"
+        },
+        {
+          "ref": "Ap2.6.15.12",
+          "body": "deśataḥ kālataḥ śaucataḥ samyak pratigrahītṛta iti dānāni [pratipādayati /"
+        },
+        {
+          "ref": "Ap2.6.15.13",
+          "body": "yasya-agnau na [kriyate yasya ca-agraṃ na [dīyate na tad [bhoktavyam /"
+        },
+        {
+          "ref": "Ap2.6.15.14",
+          "body": "na kṣāra.lavaṇa.homo [vidyate /"
+        },
+        {
+          "ref": "Ap2.6.15.15",
+          "body": "tathā-avarān na [saṃsṛṣṭasya ca /"
+        },
+        {
+          "ref": "Ap2.6.15.16",
+          "body": "[ahaviṣyasya homa udīcīnam uṣṇaṃ bhasma-[apohya tasmiñ [juhyāt tad-[hutam ahutaṃ ca-agnau [bhavati /"
+        },
+        {
+          "ref": "Ap2.6.15.17",
+          "body": "na strī [juhuyāt /"
+        },
+        {
+          "ref": "Ap2.6.15.18",
+          "body": "na-[anupetaḥ /"
+        },
+        {
+          "ref": "Ap2.6.15.19",
+          "body": "ā-anna.prāśanād garbhā na-[aprayatā [bhavanti /"
+        },
+        {
+          "ref": "Ap2.6.15.20",
+          "body": "ā parisaṃvatsarād ity eke /"
+        },
+        {
+          "ref": "Ap2.6.15.21",
+          "body": "yāvatā yā diśo na [prajānīyuḥ /"
+        },
+        {
+          "ref": "Ap2.6.15.22",
+          "body": "ā-upanayanād ity aparam /"
+        },
+        {
+          "ref": "Ap2.6.15.23",
+          "body": "atra hy adhikāraḥ śāstrair [bhavati /"
+        },
+        {
+          "ref": "Ap2.6.15.24",
+          "body": "sā niṣṭhā /"
+        },
+        {
+          "ref": "Ap2.6.15.25",
+          "body": "smṛtiś ca /"
+        },
+        {
+          "ref": "Ap2.7.16.1",
+          "body": "saha deva.manuṣyā asmiṃl loke purā [babhūvuḥ / atha devāḥ karmabhir divaṃ [jagmur [ahīyanta manuṣyāḥ / teṣāṃ ye tathā karmāṇy [ārabhante saha devair brahmaṇā ca-amuṣmiṃl loke [bhavanti / atha-etan manuḥ śrāddha.śabdaṃ karma [provāca /"
+        },
+        {
+          "ref": "Ap2.7.16.2",
+          "body": "prajā.niḥśreyasā ca / ( 1+2 = K"
+        },
+        {
+          "ref": "Ap2.7.16.3",
+          "body": "tatra pitaro devatā brāhmaṇās tv āhavanīya.arthe* / ( = K"
+        },
+        {
+          "ref": "2",
+          "body": ") [*ed. āhanīyārthe]"
+        },
+        {
+          "ref": "Ap2.7.16.4",
+          "body": "māsi māsi [kāryam / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.5",
+          "body": "apara.pakṣasya-apara.ahnaḥ śreyān / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.6",
+          "body": "tathā-apara.pakṣasya jaghanyāny ahāni / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.7",
+          "body": "sarveṣv eva-apara.pakṣasya-ahassu [kriyamāṇe pitṛṛn [prīṇāti / kartus tu kāla.abhiniyamāt phala.viśeṣaḥ // ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.8",
+          "body": "prathame- 'ahani [kriyamāṇe strī.prāyam apatye [jāyate / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.9",
+          "body": "dvitīye- 'astenāḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.10",
+          "body": "tṛtīye brahma.varcasinaḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.11",
+          "body": "caturthe kṣudra.paśumān / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.12",
+          "body": "pañcame pumāṃsaḥ / bahu.apatyo na ca-anapatyaḥ [pramīyate / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.13",
+          "body": "ṣaṣṭhe- 'adhvaśīlo- 'akṣaśīlaś ca / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.14",
+          "body": "saptame karṣe rāddhiḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.15",
+          "body": "aṣṭame puṣṭiḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.16",
+          "body": "navama ekakhurāḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.17",
+          "body": "daśame vyavahāre rāddhiḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.18",
+          "body": "ekādaśe kṛṣṇa.ayasaṃ trapu.sīsam / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.19",
+          "body": "dvādaśe paśumān / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.20",
+          "body": "trayodaśe bahu.putro bahu.mitro [darśanīya.apatyaḥ /# yuva.māriṇas tu [bhavanti / ( = K 19, om. / )"
+        },
+        {
+          "ref": "Ap2.7.16.21",
+          "body": "caturdaśa āyudhe rāddhiḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.22",
+          "body": "pañcadaśe puṣṭiḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.23",
+          "body": "tatra dravyāṇi tilamāṣā vrīhi.yavā āpo mūla.phalāni / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.24",
+          "body": "snehavati tv eva-anne tīvratarā pitṛṛṇāṃ prītir drāghīyāṃsaṃ ca kālam / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.25",
+          "body": "tathā dharma.āhṛtena[ dravyeṇa tīrthe [pratipannena / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.26",
+          "body": "saṃvatsaraṃ gavyena prītiḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.27",
+          "body": "bhūyāṃsam ato māhiṣeṇa / ( = K"
+        },
+        {
+          "ref": "Ap2.7.16.28",
+          "body": "etena grāmya.araṇyānāṃ paśūnāṃ māṃsaṃ medhyaṃ [vyākhyātam // ( = K"
+        },
+        {
+          "ref": "Ap2.7.17.1",
+          "body": "khaḍga.upastaraṇe khaḍga.māṃsena-ānantyaṃ kālam /"
+        },
+        {
+          "ref": "Ap2.7.17.2",
+          "body": "tathā śatabaler matsyasya māṃsena /"
+        },
+        {
+          "ref": "Ap2.7.17.3",
+          "body": "vārdhrāṇasasya# ca / (K_vārghrāṇasasya_)"
+        },
+        {
+          "ref": "Ap2.7.17.4",
+          "body": "[prayataḥ [prasanna.manāḥ sṛṣṭo [bhojayed brāhmaṇān brahmavido yoni.gotra.mantra.antevāsī.asaṃbandhān /"
+        },
+        {
+          "ref": "Ap2.7.17.5",
+          "body": "guṇa.hānyāṃ tu pareṣāṃ [samudetaḥ sodaryo- 'api [bhojayitavyaḥ /"
+        },
+        {
+          "ref": "Ap2.7.17.6",
+          "body": "etena-antevāsino [vyākhyātāḥ / Ap2.7.17.7-8/ atha-apy [udāharanti / (ś) saṃbhojanī nāma piśāca.bhikṣā na-eṣā pitṛṛn [gacchati na-uta# devān / iha-eva sā [carati [kṣīṇa.puṇyā śālā.antare gaur iva [naṣṭa.vatsā // (K_no-_'atha_)"
+        },
+        {
+          "ref": "Ap2.7.17.9",
+          "body": "(ś)? iha-eva [saṃbhuñjatī# dakṣiṇā kulāt kulaṃ [vinaśyati-iti / (K_sambhuñjati-iti_)"
+        },
+        {
+          "ref": "Ap2.7.17.10",
+          "body": "tulya.guṇeṣu vayo.vṛddhaḥ śreyān dravya.kṛśaś ca-īpsan /"
+        },
+        {
+          "ref": "Ap2.7.17.11",
+          "body": "pūrvedyur nivedanam /"
+        },
+        {
+          "ref": "Ap2.7.17.12",
+          "body": "apare.dyur dvitīyam /"
+        },
+        {
+          "ref": "Ap2.7.17.13",
+          "body": "tṛtīyam āmantraṇam /"
+        },
+        {
+          "ref": "Ap2.7.17.14",
+          "body": "triḥ.prāyam eke śrāddham [upadiśanti /"
+        },
+        {
+          "ref": "Ap2.7.17.15",
+          "body": "yathā prathamam evaṃ dvitīyaṃ tṛtīyaṃ ca /"
+        },
+        {
+          "ref": "Ap2.7.17.16",
+          "body": "sarveṣu [vṛtteṣu sarvataḥ [samavadāya śeṣasya grāsa.avarārdhyaṃ*# [prāśnīyād [yathā.uktam / (K_grāsa_varārdhyaṃ_)[*ed. --.avarārghyaṃ (!)]"
+        },
+        {
+          "ref": "Ap2.7.17.17",
+          "body": "udīcya.vṛttis tv āsana.gatānāṃ hasteṣu-udapātra.ānayanam /"
+        },
+        {
+          "ref": "Ap2.7.17.18",
+          "body": "[uddhriyatām agnau ca [kriyatām ity [āmantrayate /"
+        },
+        {
+          "ref": "Ap2.7.17.19",
+          "body": "kāmam [uddhriyatāṃ kāmam agnau [kriyatām ity [attisṛṣṭa [uddharet-juhuyāt-ca /"
+        },
+        {
+          "ref": "Ap2.7.17.20",
+          "body": "śvabhir apapātraiś ca śrāddhasya darśanaṃ [paricakṣate /"
+        },
+        {
+          "ref": "Ap2.7.17.21",
+          "body": "śvitraḥ śipi.viṣṭaḥ para.talpa.gāmy āyudhīya.putraḥ [śūdra.utpanno brāhmaṇyām ity ete śrāddhe [bhuñjānāḥ paṅkti.dūṣaṇā [bhavanti /"
+        },
+        {
+          "ref": "Ap2.7.17.22",
+          "body": "trimadhus trisuparṇas triṇāciketaś caturmedhaḥ pañcāgnir jyeṣṭha.sāmago# veda.adhyāyy anūcānaputraḥ śrotriya ity ete śrāddhe [bhuñjānāḥ paṅkti.pāvanā [bhavanti / (K_jyeṣṭha.sāmiko_)"
+        },
+        {
+          "ref": "Ap2.7.17.23",
+          "body": "na ca naktaṃ śrāddhaṃ [kurvīta /"
+        },
+        {
+          "ref": "Ap2.7.17.24",
+          "body": "[ārabdhe ca-abhojanam ā samāpanāt /"
+        },
+        {
+          "ref": "Ap2.7.17.25",
+          "body": "anyatra rāhu.darśanāt //"
+        },
+        {
+          "ref": "Ap2.8.18.1",
+          "body": "vilayanaṃ [mathitaṃ piṇyākaṃ madhu māṃsaṃ ca [varjayet /"
+        },
+        {
+          "ref": "Ap2.8.18.2",
+          "body": "kṛṣṇa.dhānyaṃ śūdrānnaṃ ye ca-anyena.aśya.saṃmatāḥ# / (K_ca-anye-_'anāśya.sammatāḥ_)"
+        },
+        {
+          "ref": "Ap2.8.18.3",
+          "body": "[ahaviṣyam anṛtaṃ krodhaṃ yena ca [krodhayet / smṛtim [icchan yaśo medhāṃ svargaṃ puṣṭiṃ dvādaśa-etāni [varjayet / ( = K 3+4 )"
+        },
+        {
+          "ref": "Ap2.8.18.4",
+          "body": "adho.nābhi-upari.jānu-[ācchādya tri.ṣavaṇam udakam [upaspṛśann anagni.pakva.vṛttir [acchāyā.upagaḥ#1 sthāna.āsanikaḥ saṃvatsaram etad vrataṃ [caret /#2 etad aṣṭācatvāriṃśat [saṃmitam ity [ācakṣate / ( = K 5, 1:acchāyā.upagatasthāma--,"
+        },
+        {
+          "ref": "2",
+          "body": "om. / )"
+        },
+        {
+          "ref": "Ap2.8.18.5",
+          "body": "nityaśrāddham / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.6",
+          "body": "bahir grāmāt-śucayaḥ śucau deśe [saṃskurvanti / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.7",
+          "body": "tatra navāni dravyāṇi / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.8",
+          "body": "yair annaṃ [saṃskriyate yeṣu ca [bhujyate / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.9",
+          "body": "tāni ca [bhuktavadbhyo [dadyāt / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.10",
+          "body": "[samudetāṃś ca [bhojayet / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.11",
+          "body": "na ca-atad.guṇāya-ucchiṣṭaṃ [prayacchet / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.12",
+          "body": "evaṃ saṃvatsaram / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.13",
+          "body": "teṣām uttamaṃ lohena-ajena [kāryam / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.14",
+          "body": "mānaṃ ca [kārayet [praticchannam / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.15",
+          "body": "tasya-uttara.ardhe brāhmaṇān [bhojayet / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.16",
+          "body": "ubhayān [paśyati brāhmaṇāṃś ca [bhuñjānān māne ca pitṛṛn ity [upadiśanti / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.17",
+          "body": "[kṛta.akṛtam ata ūrdhvam / ( = K"
+        },
+        {
+          "ref": "Ap2.8.18.18",
+          "body": "śrāddhena hi#1 tṛptiṃ [vedayante#2 pitaraḥ / ( = K 19, 1:om.hi, 2:nivedayante ) )"
+        },
+        {
+          "ref": "Ap2.8.18.19",
+          "body": "tiṣyeṇa puṣṭi.kāmaḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.1",
+          "body": "gaura.sarṣapāṇāṃ [cūrṇāni [kārayitvā taiḥ pāṇi.pādaṃ [prakṣālya mukhaṃ karṇau [prāśya ca yad vāto na-[ativāti tad.āsano- 'ajinaṃ bastasya prathamaḥ kalpo [vāg.yato dakṣiṇā.mukho [bhuñjīta /"
+        },
+        {
+          "ref": "Ap2.8.19.2",
+          "body": "anāyuṣyaṃ tv# evaṃ.mukhasya# bhojanaṃ mātur ity [upadiśanti / (K_tvaivaṃmukhasya_?_)"
+        },
+        {
+          "ref": "Ap2.8.19.3",
+          "body": "audumbaraś camasaḥ suvarṇa.nābhaḥ [praśāstaḥ /"
+        },
+        {
+          "ref": "Ap2.8.19.4",
+          "body": "na ca-anyena-api [bhoktavyaḥ# / (K_bhoktavyam_)"
+        },
+        {
+          "ref": "Ap2.8.19.5",
+          "body": "yāvad.grāsaṃ [saṃnayan /#1"
+        },
+        {
+          "ref": "Ap2.8.19.6",
+          "body": "[askandayan /#1"
+        },
+        {
+          "ref": "Ap2.8.19.7",
+          "body": "na-[apajahīta /#1"
+        },
+        {
+          "ref": "Ap2.8.19.8",
+          "body": "[apajahīta vā /#1"
+        },
+        {
+          "ref": "Ap2.8.19.9",
+          "body": "kṛtsnaṃ grāsaṃ [grasīta#2 saha-aṅguṣṭham / ( 5+6+7+8+9 = K 5, all 1:om. /, 2:grasati )"
+        },
+        {
+          "ref": "Ap2.8.19.10",
+          "body": "na ca mukha.śabdaṃ [kuryāt / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.11",
+          "body": "pāṇiṃ ca na-[avadhūnuyāt / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.12",
+          "body": "[ācamya ca-ūrdhvau pāṇī [dhārayed ā prodakī.bhāvāt / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.13",
+          "body": "tato- 'agnim [upaspṛśet / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.14",
+          "body": "divā ca na [bhuñjīta-anyat-mūla.phalebhyaḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.15",
+          "body": "sthālīpāka.anudeśyāni[ ca [varjayet / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.16",
+          "body": "sa.uttarācchādanaś ca-eva yajñopavītī [bhuñjīta / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.17",
+          "body": "naiyyamikaṃ tu śrāddhaṃ snehavad eva [dadyāt / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.18",
+          "body": "sarpir māṃsam iti prathamaḥ kalpaḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.19",
+          "body": "abhāve tailaṃ śākam iti / ( = K"
+        },
+        {
+          "ref": "Ap2.8.19.20",
+          "body": "maghāsu ca-adhikaṃ śrāddha.kalpena sarpir brāhmaṇān [bhojayet //( = K"
+        },
+        {
+          "ref": "Ap2.8.20.1",
+          "body": "māsi.śrāddhe tilānāṃ droṇaṃ droṇaṃ yena-upāyena [śaknuyāt tena-[upayojayet /"
+        },
+        {
+          "ref": "Ap2.8.20.2",
+          "body": "[samudetāṃś ca [bhojayen na ca-atadguṇāya-ucchiṣṭam [dadyuḥ /"
+        },
+        {
+          "ref": "Ap2.8.20.3",
+          "body": "udagayana [āpūryamāṇa.pakṣasya-ekarātram avarārdhyam [upoṣya tiṣyeṇa puṣṭi.kāmaḥ sthālīpākaṃ [śrapayitvā mahārājam [iṣṭvā tena sarpiṣmatā brāhmaṇaṃ [bhojayitvā puṣṭy.arthena siddhiṃ [vācayīta /"
+        },
+        {
+          "ref": "Ap2.8.20.4",
+          "body": "evam ahar ahar ā parasmāt tiṣyāt /"
+        },
+        {
+          "ref": "Ap2.8.20.5",
+          "body": "dvau dvitīye /"
+        },
+        {
+          "ref": "Ap2.8.20.6",
+          "body": "trīṃs tṛtīye /"
+        },
+        {
+          "ref": "Ap2.8.20.7",
+          "body": "evaṃ saṃvatsaram [abhyuccayena /"
+        },
+        {
+          "ref": "Ap2.8.20.8",
+          "body": "mahāntaṃ poṣaṃ [puṣyati /"
+        },
+        {
+          "ref": "Ap2.8.20.9",
+          "body": "ādita eva-upavāsaḥ /"
+        },
+        {
+          "ref": "Ap2.8.20.10",
+          "body": "[ātta.tejasāṃ bhojanaṃ [varjayet /"
+        },
+        {
+          "ref": "Ap2.8.20.11",
+          "body": "bhasma.tuṣā.adhiṣṭhānam /"
+        },
+        {
+          "ref": "Ap2.8.20.12",
+          "body": "padā pādasya prakṣālanam adhiṣṭhānaṃ ca [varjayet /"
+        },
+        {
+          "ref": "Ap2.8.20.13",
+          "body": "preṅkholanaṃ ca pādayoḥ /"
+        },
+        {
+          "ref": "Ap2.8.20.14",
+          "body": "jānuni ca-atyādhānaṃ jaṅghāyāḥ /"
+        },
+        {
+          "ref": "Ap2.8.20.15",
+          "body": "nakhaiś ca nakha.vādanam# / (K_vādanaḥ_)"
+        },
+        {
+          "ref": "Ap2.8.20.16",
+          "body": "sphoṭanāni ca-akāraṇāt /"
+        },
+        {
+          "ref": "Ap2.8.20.17",
+          "body": "yac ca-anyat [paricakṣate /"
+        },
+        {
+          "ref": "Ap2.8.20.18",
+          "body": "yā-[uktā ca dharma.yukteṣu[ dravya.parigraheṣu ca /"
+        },
+        {
+          "ref": "Ap2.8.20.19",
+          "body": "[pratipādayitā ca tīrthe /"
+        },
+        {
+          "ref": "Ap2.8.20.20",
+          "body": "[yantā ca-atīrthe [yato na bhayaṃ [syāt /"
+        },
+        {
+          "ref": "Ap2.8.20.21",
+          "body": "[saṃgrahītā ca manuṣyān /"
+        },
+        {
+          "ref": "Ap2.8.20.22",
+          "body": "[bhoktā ca dharma.avipratiṣiddhān[ bhogān /"
+        },
+        {
+          "ref": "Ap2.8.20.23",
+          "body": "evam ubhau lokāv [abhijayati //"
+        },
+        {
+          "ref": "Ap2.9.21.1",
+          "body": "catvāra āśramā gārhasthyam ācārya.kulaṃ maunaṃ vānaprasthyam iti /"
+        },
+        {
+          "ref": "Ap2.9.21.2",
+          "body": "teṣu sarveṣu yathā.upadeśam avyagro [vartamānaḥ kṣemaṃ [gacchati /"
+        },
+        {
+          "ref": "Ap2.9.21.3",
+          "body": "sarveṣām upanayana.prabhṛti samāna ācāryakule vāsaḥ /"
+        },
+        {
+          "ref": "Ap2.9.21.4",
+          "body": "sarveṣām anūtsargo vidyāyāḥ /"
+        },
+        {
+          "ref": "Ap2.9.21.5",
+          "body": "[buddhvā karmāṇi yat [kāmayeta tad [ārabheta /"
+        },
+        {
+          "ref": "Ap2.9.21.6",
+          "body": "yathā vidyā.arthasya niyama etena-eva*-antam [anūpasīdata ācārya.kule śarīra.nyāso brahmacāriṇaḥ / [*ed. eba]"
+        },
+        {
+          "ref": "Ap2.9.21.7",
+          "body": "atha parivrājaḥ /"
+        },
+        {
+          "ref": "Ap2.9.21.8",
+          "body": "ata eva brahmacaryavān [pravrajati /"
+        },
+        {
+          "ref": "Ap2.9.21.9",
+          "body": "tasya-[upadiśanti /"
+        },
+        {
+          "ref": "Ap2.9.21.10",
+          "body": "anagnir aniketaḥ [syād aśarma.aśaraṇo muniḥ /# svādhyāya-eva-[utsṛjamāno vācaṃ grāme prāṇa.vṛttiṃ [pratilabhya-aniho- 'anamutraś [caret / (K_om._/_)"
+        },
+        {
+          "ref": "Ap2.9.21.11",
+          "body": "tasya [muktam ācchādanaṃ [vihitam /"
+        },
+        {
+          "ref": "Ap2.9.21.12",
+          "body": "sarvataḥ parimokṣam eke /"
+        },
+        {
+          "ref": "Ap2.9.21.13",
+          "body": "satya.anṛte sukha.duḥkhe vedān imaṃ lokam amuṃ ca [parityajya-ātmānam [anvicchet /"
+        },
+        {
+          "ref": "Ap2.9.21.14",
+          "body": "[buddhe kṣema.prāpaṇam /"
+        },
+        {
+          "ref": "Ap2.9.21.15",
+          "body": "tat-śāstrair [vipratiṣiddham /"
+        },
+        {
+          "ref": "Ap2.9.21.16",
+          "body": "[buddhe cet kṣema.prāpaṇam iha-eva na duḥkham [upalabheta /"
+        },
+        {
+          "ref": "Ap2.9.21.17",
+          "body": "etena paraṃ [vyākhyātam /"
+        },
+        {
+          "ref": "Ap2.9.21.18",
+          "body": "atha vānaprasthaḥ /"
+        },
+        {
+          "ref": "Ap2.9.21.19",
+          "body": "ata eva brahmacaryavān [pravrajati / Ap2.9.21.20-21/ tasya-[upadiśanti / eka.agnir aniketaḥ [syād aśarma.aśaraṇo muniḥ /# svādhyāya eva-[utsṛjamāno vācam // ( = K"
+        },
+        {
+          "ref": "Ap2.9.22.1",
+          "body": "tasya-araṇyam ācchādanaṃ [vihitam /"
+        },
+        {
+          "ref": "Ap2.9.22.2",
+          "body": "tato mūlaiḥ phalaiḥ parṇais tṛṇair iti [vartayaṃś [caret /"
+        },
+        {
+          "ref": "Ap2.9.22.3",
+          "body": "antataḥ [pravṛttāni /"
+        },
+        {
+          "ref": "Ap2.9.22.4",
+          "body": "tato- 'apo vāyum ākāśam ity [abhiniśrayet /"
+        },
+        {
+          "ref": "Ap2.9.22.5",
+          "body": "teṣām uttara uttaraḥ saṃyogaḥ phalato [viśiṣṭaḥ /"
+        },
+        {
+          "ref": "Ap2.9.22.6",
+          "body": "atha vānaprasthasya-eva-anupūrvyam eke- [upadiśanti /"
+        },
+        {
+          "ref": "Ap2.9.22.7",
+          "body": "vidyāṃ [samāpya dāraṃ [kṛtvā-agnīn [ādhāya karmāṇy [ārabhate soma.avarārdhyāni yāni [śrūyante /"
+        },
+        {
+          "ref": "Ap2.9.22.8",
+          "body": "gṛhān [kṛtvā sa.dāraḥ sa.prajaḥ saha-agnibhir bahir grāmād [vaset /"
+        },
+        {
+          "ref": "Ap2.9.22.9",
+          "body": "eko vā /"
+        },
+        {
+          "ref": "Ap2.9.22.10",
+          "body": "śiloñchena [vartayet /"
+        },
+        {
+          "ref": "Ap2.9.22.11",
+          "body": "na ca-ata ūrdhvaṃ [pratigṛhṇīyāt /"
+        },
+        {
+          "ref": "Ap2.9.22.12",
+          "body": "[abhiṣiktaś ca [juhuyāt /"
+        },
+        {
+          "ref": "Ap2.9.22.13",
+          "body": "śanair apo- 'abhyaveyād#1 [abhighnann abhimukham#2 ādityam udakam [upaspṛśet / (K_1:apo-_'abhyupeyād,_2:abhimukha_)"
+        },
+        {
+          "ref": "Ap2.9.22.14",
+          "body": "iti sarvatra-udaka.upasparśana.vidhiḥ /"
+        },
+        {
+          "ref": "Ap2.9.22.15",
+          "body": "tasya dvaṃdvaṃ#1 dravyāṇām#1 eke- [upadiśanti pāka.artha.bhojana.artha#2.vāsi.paraśu.dātrakājānām / (K_1:dvanda?.dravyāṇām,_2:pāka.arthaṃ_bhojana.arthaṃ_)"
+        },
+        {
+          "ref": "Ap2.9.22.16",
+          "body": "dvaṃdvānām# eka.ekam [ādāya-itarāṇi [datvā-araṇyam [avatiṣṭheta / (K_dvandānām_)"
+        },
+        {
+          "ref": "Ap2.9.22.17",
+          "body": "tasya-araṇyena-eva-ata ūrdhvaṃ homo vṛttiḥ pratīkṣāt-chādanaṃ ca /"
+        },
+        {
+          "ref": "Ap2.9.22.18",
+          "body": "yeṣu karmasu puroḍāśāś caravas teṣu [kāryāḥ /"
+        },
+        {
+          "ref": "Ap2.9.22.19",
+          "body": "sarvaṃ ca-upāṃśu saha svādhyāyena /"
+        },
+        {
+          "ref": "Ap2.9.22.20",
+          "body": "na-araṇyam abhi-[āśrāvayet /"
+        },
+        {
+          "ref": "Ap2.9.22.21",
+          "body": "agni.arthaṃ śaraṇam /"
+        },
+        {
+          "ref": "Ap2.9.22.22",
+          "body": "ākāśe svayam /"
+        },
+        {
+          "ref": "Ap2.9.22.23",
+          "body": "[anupastīrṇe śayyā.āsane /"
+        },
+        {
+          "ref": "Ap2.9.22.24",
+          "body": "nave sasye [prāpte purāṇam [anujānīyāt //"
+        },
+        {
+          "ref": "Ap2.9.23.1",
+          "body": "bhūyāṃsaṃ vā niyamam [icchann anvaham eva pātreṇa sāyaṃ prātar artham [āharet /"
+        },
+        {
+          "ref": "Ap2.9.23.2",
+          "body": "tato mūlaiḥ phalaiḥ parṇais tṛṇair iti [vartayaṃś [cared antataḥ [pravṛttāni tato- 'apo vāyum ākāśam ity [abhiniśrayet# teṣām uttara uttaraḥ saṃyogaḥ phalato [viśiṣṭaḥ / (K_inserts_/_)"
+        },
+        {
+          "ref": "Ap2.9.23.3",
+          "body": "atha purāṇe ślokāv [udāharanti /"
+        },
+        {
+          "ref": "Ap2.9.23.4",
+          "body": "(ś) aṣṭāśītisahasrāṇi ye prajām [īśira-ṛṣayaḥ / dakṣiṇena-aryamṇaḥ panthānaṃ te śmaśānāni [bhejire // ( 3+4 = K"
+        },
+        {
+          "ref": "Ap2.9.23.5",
+          "body": "(ś) aṣṭāśītisahasrāṇi ye prajāṃ na-[īṣira-ṛṣayaḥ / uttareṇa-aryamṇaḥ# panthānaṃ te- 'amṛtatvaṃ hi [kalpate // ( = K"
+        },
+        {
+          "ref": "Ap2.9.23.6",
+          "body": "ity ūrdhva.retasāṃ praśaṃsā / ( = K"
+        },
+        {
+          "ref": "Ap2.9.23.7",
+          "body": "atha-api saṃkalpa.siddhayo [bhavanti / ( = K"
+        },
+        {
+          "ref": "Ap2.9.23.8",
+          "body": "yathā varṣaṃ prajā.dānaṃ# dūre darśanaṃ manojavatā yac ca-anyad evaṃ [yuktam / ( = K 7, prajā dānaṃ )"
+        },
+        {
+          "ref": "Ap2.9.23.9",
+          "body": "tasmāt-śrutitaḥ pratyakṣa.phalatvāc ca [viśiṣṭān āśramān etān eke [bruvate / ( = K"
+        },
+        {
+          "ref": "Ap2.9.23.10",
+          "body": "[traividya.vṛddhānāṃ tu vedāḥ pramāṇam iti niṣṭhā tatra yāni [śrūyante vrīhi.yava.paśu.ājya.payaḥ.kapāla.patnī.saṃbandhāny uccair nīcaiḥ [kāryam iti tair [viruddha ācāro- 'apramāṇam iti [manyante / ( = K"
+        },
+        {
+          "ref": "Ap2.9.23.11",
+          "body": "yat tu śmaśānam [ucyate nānā.karmaṇām eṣo- 'ante puruṣa.saṃskāro [vidhīyate / ( = K"
+        },
+        {
+          "ref": "Ap2.9.23.12",
+          "body": "tataḥ param anantyaṃ phalaṃ svargya.śabdaṃ [śrūyate //"
+        },
+        {
+          "ref": "Ap2.9.24.1",
+          "body": "atha-apy asya prajātim amṛtam āmnāya [āha /# prajām anu [prajāyase tad u te martyāmṛtam iti / (K_--_)"
+        },
+        {
+          "ref": "Ap2.9.24.2",
+          "body": "atha-api sa eva-ayaṃ [virūḍhaḥ pṛthak pratyakṣeṇa-[upalabhyate [dṛśyate ca-api sārūpyaṃ dehatvam eva-anyat / Ap2.9.24.3-6/ te [śiṣṭeṣu karmasu [vartamānāḥ pūrveṣāṃ sāṃparāyeṇa kīrtiṃ svargaṃ ca [vardhayanti / evam avaro- 'avaraḥ pareṣām / ā bhūta.saṃplavāt te [svarga.jitaḥ / punaḥ sarge bīja.arthā [bhavanti-iti bhaviṣyat.purāṇe / Ap2.9.24.7-8/ atha-api prajāpater vacanam / (ś) trayīṃ vidyāṃ brahmacaryaṃ prajātiṃ śraddhāṃ tapo yajñam anupradānam / ya etāni [kurvate tair it saha smo rajo [bhūtvā [dhvaṃsate- 'anyat [praśaṃsann iti //"
+        },
+        {
+          "ref": "Ap2.9.24.9",
+          "body": "tatra ye pāpakṛtas ta eva [dhvaṃsanti yathā parṇaṃ vanaspater na parān [hiṃsanti /"
+        },
+        {
+          "ref": "Ap2.9.24.10",
+          "body": "na-asya-asmiṃl loke karmabhiḥ saṃbandho [vidyate tathā parasmin karma.phalaiḥ /"
+        },
+        {
+          "ref": "Ap2.9.24.11",
+          "body": "tad etena [veditavyam /"
+        },
+        {
+          "ref": "Ap2.9.24.12",
+          "body": "prajāpater ṛṣīṇām iti sargo- 'ayam /"
+        },
+        {
+          "ref": "Ap2.9.24.13",
+          "body": "tatra ye puṇya.kṛtas teṣāṃ prakṛtayaḥ parā [jvalantya [upalabhyante /"
+        },
+        {
+          "ref": "Ap2.9.24.14",
+          "body": "[syāt tu karma.avayavena tapasā vā kaścit saśarīro- 'antavantaṃ lokaṃ [jayati saṃkalpa.siddhiś ca [syān na tu taj jyaiṣṭhyam āśramāṇām /"
+        },
+        {
+          "ref": "Ap2.9.25.1",
+          "body": "[vyākhyātāḥ sarva.varṇānāṃ sādhāraṇa.vaiśeṣikā dharmāḥ /# rājñas tu viśeṣād [vakṣyāmaḥ / ( = K om. / : dharmā rājñas -- )"
+        },
+        {
+          "ref": "Ap2.9.25.2",
+          "body": "dakṣiṇā.dvāraṃ veśma puraṃ ca [māpayet /"
+        },
+        {
+          "ref": "Ap2.9.25.3",
+          "body": "antarasyāṃ puri veśma /"
+        },
+        {
+          "ref": "Ap2.9.25.4",
+          "body": "tasya purastād āvasathas tad āmantraṇam ity [ācakṣate /"
+        },
+        {
+          "ref": "Ap2.9.25.5",
+          "body": "dakṣiṇena puraṃ sabhā dakṣiṇa.udag.dvārā yathā-ubhayaṃ [saṃdṛśyeta bahir antaraṃ ca-iti /"
+        },
+        {
+          "ref": "Ap2.9.25.6",
+          "body": "sarveṣv eva-ajasrā agnayaḥ [syuḥ /"
+        },
+        {
+          "ref": "Ap2.9.25.7",
+          "body": "agni.pūjā ca nityā yathā gṛhamedhe /"
+        },
+        {
+          "ref": "Ap2.9.25.8",
+          "body": "āvasathe śrotriya.avarārdhyān atithīn [vāsayet /"
+        },
+        {
+          "ref": "Ap2.9.25.9",
+          "body": "teṣāṃ yathā.guṇam āvasathāḥ śayya.ānna.pānaṃ ca [videyam /"
+        },
+        {
+          "ref": "Ap2.9.25.10",
+          "body": "gurūn amātyāṃś ca na-[atijīvet /"
+        },
+        {
+          "ref": "Ap2.9.25.11",
+          "body": "na ca-asya viṣaye kṣudhā rogeṇa hima.ātapābhyāṃ vā-avasīded abhāvād buddhi.pūrvaṃ vā kaścit /"
+        },
+        {
+          "ref": "Ap2.9.25.12",
+          "body": "sabhāyā madhye- 'adhidevanam [uddhatya-avokṣya-akṣān [nivaped yugmān vaibhītakān yathāarthān /"
+        },
+        {
+          "ref": "Ap2.9.25.13",
+          "body": "āryāḥ śucayaḥ satyaśīlā dīvitāraḥ [syuḥ /"
+        },
+        {
+          "ref": "Ap2.9.25.14",
+          "body": "āyudha.grahaṇaṃ nṛtta.gīta.vāditrāṇi-iti rāja.adhīnebhyo- 'anyatra na [vidyeran /"
+        },
+        {
+          "ref": "Ap2.9.25.15",
+          "body": "kṣemakṛd rājā yasya viṣaye grāme- 'araṇye vā taskara.bhayaṃ na [vidyate //"
+        },
+        {
+          "ref": "Ap2.10.26.1",
+          "body": "bhṛtyānām anuparodhena kṣetraṃ vittaṃ ca [dadad brāhmaṇebhyo yathā.arham anantāṃl lokān [abhijayati /"
+        },
+        {
+          "ref": "Ap2.10.26.2",
+          "body": "brāhmaṇa.svāny [apajigīṣamāṇo rājā yo [hanyate tam [āhur ātmayūpo yajño- 'ananta.dakṣiṇa iti /"
+        },
+        {
+          "ref": "Ap2.10.26.3",
+          "body": "etena-anye śūrā [vyākhyātāḥ prayojane [yudhyamānās tanu.tyajaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.4",
+          "body": "grāmeṣu nagareṣu ca-āryān-śucīn satyaśīlān prajāguptaye [nidadhyāt /"
+        },
+        {
+          "ref": "Ap2.10.26.5",
+          "body": "teṣāṃ puruṣās tathā.guṇā eva [syuḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.6",
+          "body": "sarvato yojanaṃ nagaraṃ taskarebhyo [rakṣyam /"
+        },
+        {
+          "ref": "Ap2.10.26.7",
+          "body": "krośo grāmebhyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.8",
+          "body": "tatra yat-muṣyate tais tat [pratidāpyam /"
+        },
+        {
+          "ref": "Ap2.10.26.9",
+          "body": "dhārmyaṃ śulkam [avahārayet /"
+        },
+        {
+          "ref": "Ap2.10.26.10",
+          "body": "akaraḥ śrotriyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.11",
+          "body": "sarva.varṇānāṃ ca striyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.12",
+          "body": "kumārāś ca prāg vyañjanebhyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.13",
+          "body": "ye ca vidyā.arthā [vasanti /"
+        },
+        {
+          "ref": "Ap2.10.26.14",
+          "body": "tapasvinaś ca ye dharma.parāḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.15",
+          "body": "śūdraś ca pāda.avanektā /"
+        },
+        {
+          "ref": "Ap2.10.26.16",
+          "body": "[andha.mūka.badhira.roga.viṣṭāś ca"
+        },
+        {
+          "ref": "Ap2.10.26.17",
+          "body": "ye vyarthā dravya.parigrahaiḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.18",
+          "body": "abuddhi.pūrvam [alaṃkṛto yuvā paradāram [anupraviśan kumārīṃ vā vācā [bādhyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.19",
+          "body": "buddhi.pūrvaṃ tu [duṣṭa.bhāvo daṇḍyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.20",
+          "body": "[saṃnipāte [vṛtte śiśna.cchedanaṃ sa.vṛṣaṇasya /"
+        },
+        {
+          "ref": "Ap2.10.26.21",
+          "body": "kumāryāṃ tu svāny [ādāya [nāśyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.26.22",
+          "body": "atha [bhṛtye rājñā /"
+        },
+        {
+          "ref": "Ap2.10.26.23",
+          "body": "[rakṣye ca-ata ūrdhvaṃ maithunāt /"
+        },
+        {
+          "ref": "Ap2.10.26.24",
+          "body": "nirveṣa.abhyupāye tu svāmibhyo- '[avasṛjet //"
+        },
+        {
+          "ref": "Ap2.10.27.1",
+          "body": "[carite yathā.puraṃ dharmād-hi saṃbandhaḥ /"
+        },
+        {
+          "ref": "Ap2.10.27.2",
+          "body": "sagotra.sthānīyāṃ na parebhyaḥ [samācakṣīta /"
+        },
+        {
+          "ref": "Ap2.10.27.3",
+          "body": "kulāya hi strī [pradīyata ity [upadiśanti /"
+        },
+        {
+          "ref": "Ap2.10.27.4",
+          "body": "tad indriya.daurbalyād [vipratipannam /"
+        },
+        {
+          "ref": "Ap2.10.27.5",
+          "body": "[aviśiṣṭaṃ hi paratvaṃ pāṇeḥ /"
+        },
+        {
+          "ref": "Ap2.10.27.6",
+          "body": "tad.vyatikrame khalu punar ubhayor narakaḥ /"
+        },
+        {
+          "ref": "Ap2.10.27.7",
+          "body": "niyama.ārambhaṇo hi varṣīyān abhyudaya evam ārambhaṇād apatyāt /"
+        },
+        {
+          "ref": "Ap2.10.27.8",
+          "body": "[nāśya āryaḥ śūdrāyām /"
+        },
+        {
+          "ref": "Ap2.10.27.9",
+          "body": "[vadhyaḥ śūdra āryāyām /"
+        },
+        {
+          "ref": "Ap2.10.27.10",
+          "body": "dāraṃ ca-asya [karśayet /"
+        },
+        {
+          "ref": "Ap2.10.27.11",
+          "body": "savarṇāyām anya.pūrvāyāṃ sakṛt [saṃnipāte pādaḥ [patati-ity [upadiśanti /"
+        },
+        {
+          "ref": "Ap2.10.27.12",
+          "body": "evam abhyāse pādaḥ pādaḥ /"
+        },
+        {
+          "ref": "Ap2.10.27.13",
+          "body": "caturthe sarvam /"
+        },
+        {
+          "ref": "Ap2.10.27.14",
+          "body": "jihvā.ācchedanaṃ śūdrasya-āryaṃ dhārmikam [ākrośataḥ /"
+        },
+        {
+          "ref": "Ap2.10.27.15",
+          "body": "vāci# pathi śayyāyām āsana iti [samībhavato daṇḍa.tāḍanam / (K_bāci_)"
+        },
+        {
+          "ref": "Ap2.10.27.16",
+          "body": "puruṣa.vadhe steye bhūmi.ādāna iti svāny [ādāya [vadhyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.27.17",
+          "body": "cakṣu.nirodhas tv eteṣu brāhmaṇasya /"
+        },
+        {
+          "ref": "Ap2.10.27.18",
+          "body": "niyama.atikramaṇam anyaṃ vā rahasi [bandhayet / Ap2.10.27.19-20/ ā samāpatteḥ / asamāpattau [nāśyaḥ /"
+        },
+        {
+          "ref": "Ap2.10.27.21",
+          "body": "ācārya ṛtvik snātako rājā-iti trāṇaṃ [syur anyatra [vadhyāt //"
+        },
+        {
+          "ref": "Ap2.11.28.1",
+          "body": "kṣetraṃ [parigṛhya-utthānā.bhāvāt phalābhāve yaḥ [samṛddhaḥ sa bhāvi tad [apahāryaḥ / Ap2.11.28.2-3/ avaśinaḥ kīnāśasya karma.nyāse daṇḍa.tāḍanam / tathā paśupasya /"
+        },
+        {
+          "ref": "Ap2.11.28.4",
+          "body": "avarodhanaṃ ca-asya paśūnām /"
+        },
+        {
+          "ref": "Ap2.11.28.5",
+          "body": "[hitvā vrajam ādinaḥ [karśayet paśūn na-[atipātayet / ( = K 5+6 )"
+        },
+        {
+          "ref": "Ap2.11.28.6",
+          "body": "[avarudhya paśūn māraṇe nāśane vā svāmibhyo- '[avasṛjet / ( = K"
+        },
+        {
+          "ref": "Ap2.11.28.7",
+          "body": "pramādād araṇye paśūn [utsṛṣtān [dṛṣṭvā grāmam [ānīya svāmibhyo- 'avasṛjet / ( = K"
+        },
+        {
+          "ref": "Ap2.11.28.10",
+          "body": "paraparigraham [avidvān [ādadāna edha.udake mūle puṣpe phale gandhe grāse śāka iti vācā [bādhyaḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.11.28.11",
+          "body": "viduṣo vāsasaḥ parimoṣaṇam / ( = K"
+        },
+        {
+          "ref": "Ap2.11.28.12",
+          "body": "[adaṇḍyaḥ [kāmakṛte tathā prāṇa.saṃśaye bhojanam [ādadānaḥ / ( = K"
+        },
+        {
+          "ref": "Ap2.11.28.13",
+          "body": "[prāpta.nimitte daṇḍa.akarmaṇi rājānam enaḥ [spṛśati // ( = K"
+        },
+        {
+          "ref": "Ap2.11.29.1",
+          "body": "[prayojayitā [mantā [kartā-iti svarga.naraka.phaleṣu karmasu bhāginaḥ /"
+        },
+        {
+          "ref": "Ap2.11.29.2",
+          "body": "yo bhūya [ārabhate tasmin phala.viśeṣaḥ /"
+        },
+        {
+          "ref": "Ap2.11.29.3",
+          "body": "kuṭumbinau dhanasya-[īśate /"
+        },
+        {
+          "ref": "Ap2.11.29.4",
+          "body": "tayor [anumate- 'anye- 'api tad-hiteṣu [varteran /"
+        },
+        {
+          "ref": "Ap2.11.29.5",
+          "body": "vivāde [vidyā.abhijana.saṃpannā vṛddhā medhāvino dharmeṣv a.vinipātinaḥ /"
+        },
+        {
+          "ref": "Ap2.11.29.6",
+          "body": "saṃdehe liṅgato daivena-iti [vicitya /"
+        },
+        {
+          "ref": "Ap2.11.29.7",
+          "body": "puṇyāhe prātar agnāv [iddhe- '[apāmante rājavaty ubhayataḥ [samākhyāpya sarva.anumate mukhyaḥ satyaṃ praśnaṃ [brūyāt /"
+        },
+        {
+          "ref": "Ap2.11.29.8",
+          "body": "anṛte rājā daṇḍaṃ [praṇayet /"
+        },
+        {
+          "ref": "Ap2.11.29.9",
+          "body": "narakaś ca-atra-adhikaḥ sāṃparāye /"
+        },
+        {
+          "ref": "Ap2.11.29.10",
+          "body": "satye svargaḥ sarva.bhūta.praśaṃsā ca /"
+        },
+        {
+          "ref": "Ap2.11.29.11",
+          "body": "sā niṣṭhā yā vidyā strīṣu śūdreṣu ca /"
+        },
+        {
+          "ref": "Ap2.11.29.12",
+          "body": "ātharvaṇasya vedasya śeṣa ity [upadiśanti /"
+        },
+        {
+          "ref": "Ap2.11.29.13",
+          "body": "kṛcchrā dharma.samāptiḥ [samāmnātena#1 /#2 lakṣaṇa.karmaṇāt#3 tu [samāpyate / (K_1:samāmnānena,_2:_om._/,_3:karmaṇā_)"
+        },
+        {
+          "ref": "Ap2.11.29.14",
+          "body": "tatra lakṣaṇam / sarva.jana.padeṣv [ekānta.samāhitam āryāṇāṃ vṛttaṃ [samyag.vinītānāṃ vṛddhānām ātmavatām alolupānām adāmbhikānāṃ vṛtta.sādṛśyaṃ [bhajeta /# evam ubhau lokāv [abhijayati / ( = K 14+15, om. / )"
+        },
+        {
+          "ref": "Ap2.11.29.15",
+          "body": "strībhyaḥ sarva.varṇebhyaś ca dharma.śeṣān [pratīyād ity eke- ity eke //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "aku_count": 5,
+      "akus": [
+        {
+          "ref": "3",
+          "body": ")"
+        },
+        {
+          "ref": "bhūyā3",
+          "body": ""
+        },
+        {
+          "ref": "idā3m",
+          "body": "iti /"
+        },
+        {
+          "ref": "3",
+          "body": ")"
+        },
+        {
+          "ref": "3",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "4",
+          "body": ")"
+        },
+        {
+          "ref": "4",
+          "body": ")"
+        },
+        {
+          "ref": "4",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "5",
+          "body": ")"
+        },
+        {
+          "ref": "5",
+          "body": ")"
+        },
+        {
+          "ref": "5",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "aku_count": 6,
+      "akus": [
+        {
+          "ref": "6",
+          "body": ")"
+        },
+        {
+          "ref": "6",
+          "body": ")"
+        },
+        {
+          "ref": "6",
+          "body": ")"
+        },
+        {
+          "ref": "6",
+          "body": ")"
+        },
+        {
+          "ref": "6",
+          "body": ")"
+        },
+        {
+          "ref": "6",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "aku_count": 7,
+      "akus": [
+        {
+          "ref": "7",
+          "body": ")"
+        },
+        {
+          "ref": "7",
+          "body": ")"
+        },
+        {
+          "ref": "7",
+          "body": ")"
+        },
+        {
+          "ref": "7",
+          "body": ")"
+        },
+        {
+          "ref": "7",
+          "body": ")"
+        },
+        {
+          "ref": "7",
+          "body": ")"
+        },
+        {
+          "ref": "7",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 8,
+      "aku_count": 8,
+      "akus": [
+        {
+          "ref": "8",
+          "body": ")"
+        },
+        {
+          "ref": "8",
+          "body": ")"
+        },
+        {
+          "ref": "8",
+          "body": ")"
+        },
+        {
+          "ref": "8",
+          "body": ")"
+        },
+        {
+          "ref": "8",
+          "body": ")"
+        },
+        {
+          "ref": "8",
+          "body": ")"
+        },
+        {
+          "ref": "8",
+          "body": ")"
+        },
+        {
+          "ref": "8",
+          "body": ") Ap2.11.28.8-9/ punaḥ pramāde sakṛd [avarudhya / tata ūrdhvaṃ na [sūrkṣet / ( = K 9+10 )"
+        }
+      ]
+    },
+    {
+      "chapter_num": 11,
+      "aku_count": 9,
+      "akus": [
+        {
+          "ref": "11",
+          "body": ")"
+        },
+        {
+          "ref": "11",
+          "body": "steyaṃ ..., 2:inserts /, 3:nundante )"
+        },
+        {
+          "ref": "11",
+          "body": ")"
+        },
+        {
+          "ref": "11",
+          "body": ")"
+        },
+        {
+          "ref": "11",
+          "body": ")"
+        },
+        {
+          "ref": "11",
+          "body": ")"
+        },
+        {
+          "ref": "11",
+          "body": ")"
+        },
+        {
+          "ref": "11",
+          "body": ")"
+        },
+        {
+          "ref": "11",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 15,
+      "aku_count": 6,
+      "akus": [
+        {
+          "ref": "15",
+          "body": ")"
+        },
+        {
+          "ref": "15",
+          "body": ")"
+        },
+        {
+          "ref": "15",
+          "body": ")"
+        },
+        {
+          "ref": "15",
+          "body": ")"
+        },
+        {
+          "ref": "15",
+          "body": ")"
+        },
+        {
+          "ref": "15",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 20,
+      "aku_count": 4,
+      "akus": [
+        {
+          "ref": "20",
+          "body": ")"
+        },
+        {
+          "ref": "20",
+          "body": ")"
+        },
+        {
+          "ref": "20",
+          "body": ")"
+        },
+        {
+          "ref": "20",
+          "body": ", om. / )"
+        }
+      ]
+    },
+    {
+      "chapter_num": 21,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "21",
+          "body": ")"
+        },
+        {
+          "ref": "21",
+          "body": ")"
+        },
+        {
+          "ref": "21",
+          "body": ")"
+        }
+      ]
+    },
+    {
+      "chapter_num": 0,
+      "aku_count": 2,
+      "akus": [
+        {
+          "ref": null,
+          "body": "Ap1.9.24.1-3/ kṣatriyaṃ [hatvā gavāṃ sahasraṃ vairayātana.arthaṃ [dadyāt , śataṃ vaiśye , daśa śūdre /"
+        },
+        {
+          "ref": null,
+          "body": "//samāptaṃ ca-idam āpastambīya.dharmasūtram //"
+        }
+      ]
+    }
+  ]
+}

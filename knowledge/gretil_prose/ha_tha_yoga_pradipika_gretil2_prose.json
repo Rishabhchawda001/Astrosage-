@@ -1,0 +1,126 @@
+{
+  "file": "ha_tha_yoga_pradipika_gretil2.xml",
+  "title": "Haṭhayogapradīpikā",
+  "total_chapters": 5,
+  "total_akus": 22,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 14,
+      "akus": [
+        {
+          "ref": null,
+          "body": "haṭha-yoga-pradīpikā"
+        },
+        {
+          "ref": null,
+          "body": "atha yama-niyamāḥ"
+        },
+        {
+          "ref": null,
+          "body": "atha āsanam"
+        },
+        {
+          "ref": null,
+          "body": "atha siddhāsanam- yoni-sthānakam aṅghri-mūla-ghaṭitaṃ kṛtvā dṛḍhaṃ vinyaset meṇḍhre pādam athaikam eva hṛdaye kṛtvā hanuṃ susthiram / sthāṇuḥ saṃyamitendriyo'cala-dṛśā paśyed bhruvor antaraṃ hy etan mokṣa-kapāṭa-bheda-janakaṃ siddhāsanaṃ procyate //"
+        },
+        {
+          "ref": null,
+          "body": "atha padmāsanam- vāmorūpari dakṣiṇaṃ ca caraṇaṃ saṃsthāpya vāmaṃ tathā dakṣorūpari paścimena vidhinā dhṛtvā karābhyāṃ dṛḍham / aṅguṣṭhau hṛdaye nidhāya cibukaṃ nāsāgram ālokayet etad vyādhi-vināśa-kāri yamināṃ padmāsanaṃ procyate //"
+        },
+        {
+          "ref": null,
+          "body": "iti haṭha-pradīpikāyāṃ prathamopadeśaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "atha gaja-karaṇī- udara-gata-padārtham udvamanti pavanam apānam udīrya kaṇṭha-nāle / krama-paricaya-vaśya-nāḍi-cakrā gaja-karaṇīti nigadyate haṭhajñaiḥ //"
+        },
+        {
+          "ref": null,
+          "body": "atha bhrāmarī- vegād ghoṣaṃ pūrakaṃ bhṛṅga-nādaṃ bhṛṅgī-nādaṃ recakaṃ manda-mandam / yogīndrāṇī̀am evam abhyāsa-yogāc citte jātā kācid ānanda-līlā //"
+        },
+        {
+          "ref": null,
+          "body": "iti haṭha-pradīpikāyāṃ dvitīyopadeśaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "tṛtīyopadeśaḥ"
+        },
+        {
+          "ref": null,
+          "body": "atha amarolī- pittolbaṇatvāt prathamāmbu-dhārāṃ vihāya niḥsāratayānty adhārām / niṣevyate śītala-madhya-dhārā kāpālike khaṇḍamate'marolī //"
+        },
+        {
+          "ref": null,
+          "body": "iti haṭha-pradīpikāyāṃ tṛtīyopadeśaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "iti nādānusandhānam"
+        },
+        {
+          "ref": null,
+          "body": "iti haṭha-yoga-pradīpikāyāṃ samādhi-lakṣaṇaṃ nāma caturthopadeśaḥ /"
+        }
+      ]
+    },
+    {
+      "chapter_num": 1,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "1",
+          "body": "prathamopadeśaḥ"
+        },
+        {
+          "ref": "HYP_1.37",
+          "body": "//"
+        },
+        {
+          "ref": "HYP_1.46",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": "2",
+          "body": "dvitīyopadeśaḥ"
+        },
+        {
+          "ref": "HYP_2.38",
+          "body": "//"
+        },
+        {
+          "ref": "HYP_2.68",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "HYP_3.96",
+          "body": "//"
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "4",
+          "body": "caturthopadeśaḥ"
+        }
+      ]
+    }
+  ]
+}

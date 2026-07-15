@@ -1,0 +1,26 @@
+{
+  "file": "harivamsa_gretil.xml",
+  "title": "Harivaṃśa constituted text with star passages",
+  "total_chapters": 1,
+  "total_akus": 3,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 3,
+      "akus": [
+        {
+          "ref": null,
+          "body": "||* śrīr astu *||"
+        },
+        {
+          "ref": null,
+          "body": "||* śrīvājivadanāya namaḥ *||"
+        },
+        {
+          "ref": null,
+          "body": "||* atha dvitīyaṃ viṣṇuparva samārabhyate *||"
+        }
+      ]
+    }
+  ]
+}
