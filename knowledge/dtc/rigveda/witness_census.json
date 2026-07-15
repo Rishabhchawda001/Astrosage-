@@ -464,5 +464,42 @@
       "gap_closed": "second recension testimony",
       "priority": "medium"
     }
+  ],
+  "discovery_sessions": [
+    {
+      "date": "2026-07-15",
+      "queries": [
+        "Archive.org advancedsearch by editor (Max Muller, Oldenberg)",
+        "HathiTrust API (empty)",
+        "Crossref (found DOIs for Oldenberg 1909/1911 Noten)",
+        "OpenLibrary (empty)"
+      ],
+      "findings": [
+        {
+          "id": "Oldenberg 1888 (OldenbergRigvedaV11888)",
+          "result": "Downloaded _djvu.txt. CONFIRMED it is Oldenberg's German text-critical PROLEGOMENA + notes, NOT the edited samhita text. Sanskrit appears only as quoted examples. Value: critical-apparatus citations, not collatable full text."
+        },
+        {
+          "id": "Oldenberg 1909 Noten",
+          "result": "PDF-only (302 MB). Critical notes for books 1-6. Valuable apparatus but no machine-readable samhita text from metadata endpoint."
+        },
+        {
+          "id": "Muller 1877 Samhita+Pada (hymnsrigvedains00mlgoog)",
+          "result": "Downloaded _djvu.txt (3MB). DEVANAGARI OCR IS GARBLED (916k Devanagari chars, 0 recoverable IAST). NOT collatable. Confirmed unusable 2nd time."
+        },
+        {
+          "id": "Muller+Oldenberg Vedic Hymns SBE (vedichymns01mulluoft)",
+          "result": "Sacred Books of the East translation vol; _djvu.txt is English translation, no IAST samhita text lines."
+        }
+      ],
+      "conclusion": "No collatable 3rd independent samhita base obtained this session. Existing collatable independent bases remain F-AUFRECHT + F-LUBOTSKY. Gap is EVIDENCED, not assumed.",
+      "next_attempts": [
+        "SARIT/Muktabodha native-Unicode Sayana (needs different access path)",
+        "BORI/MNL catalogue",
+        "Clean Max Muller via HathiTrust full text if accessible",
+        "TITUS/uni-halle Oldenberg text if hosted",
+        "GRETIL alternate mirror for sayana unicode"
+      ]
+    }
   ]
 }
