@@ -1,0 +1,3784 @@
+{
+  "scripture": "Bhagavadgita",
+  "sources": [
+    "GRETIL 4-commentary",
+    "GRETIL Shankara"
+  ],
+  "total": 614,
+  "expected": 700,
+  "completeness": 87.7,
+  "missing_verses": [
+    "1.5",
+    "1.6",
+    "1.9",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.22",
+    "1.23",
+    "1.25",
+    "1.29",
+    "1.33",
+    "1.34",
+    "1.35",
+    "1.38",
+    "2.35",
+    "2.43",
+    "2.44",
+    "2.63",
+    "3.7",
+    "3.15",
+    "3.17",
+    "3.19",
+    "3.31",
+    "5.9",
+    "5.28",
+    "6.12",
+    "6.14",
+    "6.21",
+    "6.22",
+    "6.23",
+    "8.13",
+    "9.17",
+    "9.18",
+    "9.19",
+    "10.2",
+    "10.5",
+    "10.6",
+    "10.13",
+    "10.16",
+    "10.26",
+    "11.11",
+    "11.15",
+    "11.27",
+    "11.35",
+    "11.36",
+    "11.40",
+    "11.42",
+    "11.47",
+    "11.50",
+    "12.4",
+    "12.6",
+    "12.7",
+    "12.14",
+    "12.19",
+    "13.6",
+    "13.8",
+    "13.9",
+    "13.10",
+    "13.11",
+    "13.12",
+    "13.14",
+    "13.15",
+    "13.16",
+    "13.34",
+    "13.35",
+    "15.4",
+    "15.6",
+    "15.9",
+    "15.13",
+    "15.16",
+    "16.2",
+    "16.3",
+    "16.9",
+    "16.13",
+    "17.4",
+    "17.6",
+    "17.14",
+    "17.24",
+    "17.27",
+    "18.11",
+    "18.13",
+    "18.37",
+    "18.52",
+    "18.53",
+    "18.68"
+  ],
+  "verses": [
+    {
+      "chapter": 1,
+      "verse": 1,
+      "ref": "BG_1.001",
+      "text": "dhṛtarāṣṭra uvāca dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1|| śeṣāśeṣa-mukha-vyākhyā-cāturyaṃ tv eka-vaktrataḥ | dadhānam adbhutaṃ vande paramānanda-mādhavam || śrī-mādhavaṃ praṇamyo mādhavaṃ viśveśam ādarāt | tad-bhakti-yantritaḥ kurve gītā-vyākhyāṃ subodhinīm || bhāṣya-kāra-mataṃ samyak tad-vyākhyātṛ-giras tathā | yathāmati samālocya gītā-vyākhyāṃ samārabhe || gītā vyākhyāyate yasyāḥ pāṭha-mātra-prayatnataḥ | seyaṃ subodhinī ṭīkā sadā dhyeyā manīṣibhiḥ || gaurāṃśukaḥ sat-kumuda-pramodī svābhikhyayā gos-tamaso nihantā | śrī-kṛṣṇa-caitanya-sudha-nidhir me mano 'dhitiṣṭhan svaratiṃ karotu || prācīna-vācaḥ suvicārya so 'ham ajño 'pi gītāmṛta-leśa-lipsuḥ | yateḥ prabhor eva mate tad atra santaḥ kṣamadhvaṃ śaraṇāgatasya || satyānantācintya-śakty-eka-pakṣe sarvādhyakṣe bhakta-rakṣātidakṣe | śrī-govinde viśva-sargādi-kaṇḍe pūrṇānande nityam āstāṃ matir me || ajñāna-nīradhir upaiti yayā viśeṣaṃ bhaktiḥ parāpi bhajate paripoṣam uccaiḥ | tattvaṃ paraṃ sphurati durgamam apy ajasraṃ sādguṇya-bhṛt svaracitāṃ praṇamāmi gītām || saṅgrāma-mūrdhni saṃvādo yo 'bhūd govinda-pārthayoḥ | tat-saṅgatyai kathāṃ prākhyād gītāsu prathame muniḥ ||"
+    },
+    {
+      "chapter": 1,
+      "verse": 2,
+      "ref": "BG_1.002",
+      "text": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā | ācāryam upasaṃgamya rājā vacanam abravīt ||2||"
+    },
+    {
+      "chapter": 1,
+      "verse": 3,
+      "ref": "BG_1.003",
+      "text": "paśyaitāṃ pāṇḍuputrāṇām ācārya mahatīṃ camūm | vyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā ||3||"
+    },
+    {
+      "chapter": 1,
+      "verse": 4,
+      "ref": "BG_1.004",
+      "text": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi | yuyudhāno virāṭaś ca drupadaś ca mahārathaḥ ||4|| dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān | purujit kuntibhojaś ca śaibyaś ca narapuṃgavaḥ ||5|| yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān | saubhadro draupadeyāś ca sarva eva mahārathāḥ ||6|| eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ || eko daśa sahasrāṇi yodhayed yas tu dhanvinām | śastra-śāstra-pravīṇaś ca mahārtha iti smṛtaḥ ||"
+    },
+    {
+      "chapter": 1,
+      "verse": 7,
+      "ref": "BG_1.007",
+      "text": "asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama | nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te ||7||"
+    },
+    {
+      "chapter": 1,
+      "verse": 8,
+      "ref": "BG_1.008",
+      "text": "bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiṃjayaḥ | aśvatthāmā vikarṇaś ca saumadattir jayadrathaḥ ||8|| anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ | nānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ ||9||"
+    },
+    {
+      "chapter": 1,
+      "verse": 10,
+      "ref": "BG_1.010",
+      "text": "aparyāptaṃ tad asmākaṃ balaṃ bhīṣmābhirakṣitam | paryāptaṃ tv idam eteṣāṃ balaṃ bhīmābhirakṣitam ||10||"
+    },
+    {
+      "chapter": 1,
+      "verse": 11,
+      "ref": "BG_1.011",
+      "text": "ayaneṣu ca sarveṣu yathābhāgam avasthitāḥ | bhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi ||11||"
+    },
+    {
+      "chapter": 1,
+      "verse": 13,
+      "ref": "BG_1.013",
+      "text": "tataḥ śaṅkhāś ca bheryaś ca paṇavānakagomukhāḥ | sahasaivābhyahanyanta sa śabdas tumulo 'bhavat ||13||"
+    },
+    {
+      "chapter": 1,
+      "verse": 14,
+      "ref": "BG_1.014",
+      "text": "tataḥ śvetair hayair yukte mahati syandane sthitau | mādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ ||14||"
+    },
+    {
+      "chapter": 1,
+      "verse": 15,
+      "ref": "BG_1.015",
+      "text": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanaṃjayaḥ | pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ ||15|| anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ | nakulaḥ sahadevaś ca sughoṣamaṇipuṣpakau ||16|| kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ | dhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ ||17|| drupado draupadeyāś ca sarvaśaḥ pṛthivīpate | saubhadraś ca mahābāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak ||18||"
+    },
+    {
+      "chapter": 1,
+      "verse": 19,
+      "ref": "BG_1.019",
+      "text": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat | nabhaś ca pṛthivīṃ caiva tumulo vyanunādayan ||19||"
+    },
+    {
+      "chapter": 1,
+      "verse": 20,
+      "ref": "BG_1.020",
+      "text": "atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ | pravṛtte śastrasaṃpāte dhanur udyamya pāṇḍavaḥ ||20||"
+    },
+    {
+      "chapter": 1,
+      "verse": 21,
+      "ref": "BG_1.021",
+      "text": "hṛṣīkeśaṃ tadā vākyam idam āha mahīpate | senayor ubhayor madhye rathaṃ sthāpaya me 'cyuta ||21|| yāvad etān nirīkṣe 'haṃ yoddhukāmān avasthitān | kair mayā saha yoddhavyam asmin raṇasamudyame ||22|| yotsyamānān avekṣe 'haṃ ya ete 'tra samāgatāḥ | dhārtarāṣṭrasya durbuddher yuddhe priyacikīrṣavaḥ ||23||"
+    },
+    {
+      "chapter": 1,
+      "verse": 24,
+      "ref": "BG_1.024",
+      "text": "evam ukto hṛṣīkeśo guḍākeśena bhārata | senayor ubhayor madhye sthāpayitvā rathottamam ||24|| bhīṣma-droṇa-pramukhataḥ sarveṣāṃ ca mahīkṣitām | uvāca pārtha paśyaitān samavetān kurūn iti ||25||"
+    },
+    {
+      "chapter": 1,
+      "verse": 26,
+      "ref": "BG_1.026",
+      "text": "tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān | ācāryān mātulān bhrātṝn putrān pautrān sakhīṃs tathā ||"
+    },
+    {
+      "chapter": 1,
+      "verse": 27,
+      "ref": "BG_1.027",
+      "text": "tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān | kṛpayā parayāviṣṭo viṣīdann idam abravīt ||27||"
+    },
+    {
+      "chapter": 1,
+      "verse": 28,
+      "ref": "BG_1.028",
+      "text": "dṛṣṭvemān svajanān kṛṣṇa yuyutsuṃ samupasthitam | sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati ||28|| vepathuś ca śarīre me romaharṣaś ca jāyate | gāṇḍīvaṃ sraṃsate hastāt tvak caiva paridahyate ||29||"
+    },
+    {
+      "chapter": 1,
+      "verse": 30,
+      "ref": "BG_1.030",
+      "text": "na ca śaknomy avasthātuṃ bhramatīva ca me manaḥ | nimittāni ca paśyāmi viparītāni keśava ||30||"
+    },
+    {
+      "chapter": 1,
+      "verse": 31,
+      "ref": "BG_1.031",
+      "text": "na ca śreyo 'nupaśyāmi hatvā svajanam āhave | na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca ||31||"
+    },
+    {
+      "chapter": 1,
+      "verse": 32,
+      "ref": "BG_1.032",
+      "text": "kiṃ no rājyena govinda kiṃ bhogair jīvitena vā | yeṣām arthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca ||32|| ta ime 'vasthitā yuddhe prāṇāṃs tyaktvā dhanāni ca | ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ ||33|| mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ saṃbandhinas tathā | etān na hantum icchāmi ghnato 'pi madhusūdana ||34||"
+    },
+    {
+      "chapter": 1,
+      "verse": 36,
+      "ref": "BG_1.036",
+      "text": "pāpam evāśrayed asmān hatvaitān ātatāyinaḥ | tasmān nārhā vayaṃ hantuṃ dhārtarāṣṭrān svabāndhavān | svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||36||"
+    },
+    {
+      "chapter": 1,
+      "verse": 37,
+      "ref": "BG_1.037",
+      "text": "yady apy ete na paśyanti lobhopahata-cetasaḥ | kula-kṣaya-kṛtaṃ doṣaṃ mitra-drohe ca pātakam ||37|| kathaṃ na jñeyam asmābhiḥ pāpād asmān nivartitum | kulakṣayakṛtaṃ doṣaṃ prapaśyadbhir janārdana ||38||"
+    },
+    {
+      "chapter": 1,
+      "verse": 39,
+      "ref": "BG_1.039",
+      "text": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ | dharme naṣṭe kulaṃ kṛtsnam adharmo 'bhibhavaty uta ||39||"
+    },
+    {
+      "chapter": 1,
+      "verse": 40,
+      "ref": "BG_1.040",
+      "text": "adharmābhibhavāt kṛṣṇa praduṣyanti kulastriyaḥ | strīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṃkaraḥ ||40||"
+    },
+    {
+      "chapter": 1,
+      "verse": 41,
+      "ref": "BG_1.041",
+      "text": "saṃkaro narakāyaiva kulaghnānāṃ kulasya ca | patanti pitaro hy eṣāṃ luptapiṇḍodakakriyāḥ ||41||"
+    },
+    {
+      "chapter": 1,
+      "verse": 42,
+      "ref": "BG_1.042",
+      "text": "doṣair etaiḥ kulaghnānāṃ varṇasaṃkarakārakaiḥ | utsādyante jātidharmāḥ kuladharmāś ca śāśvatāḥ ||42||"
+    },
+    {
+      "chapter": 1,
+      "verse": 43,
+      "ref": "BG_1.043",
+      "text": "utsanna-kula-dharmāṇāṃ manuṣyāṇāṃ janārdana | narake niyataṃ vāso bhavatīty anuśuśruma ||43||"
+    },
+    {
+      "chapter": 1,
+      "verse": 44,
+      "ref": "BG_1.044",
+      "text": "aho bata mahat pāpaṃ kartuṃ vyavasitā vayam | yad rājyasukhalobhena hantuṃ svajanam udyatāḥ ||44||"
+    },
+    {
+      "chapter": 1,
+      "verse": 45,
+      "ref": "BG_1.045",
+      "text": "yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||45||"
+    },
+    {
+      "chapter": 1,
+      "verse": 46,
+      "ref": "BG_1.046",
+      "text": "evam uktvārjunaḥ saṃkhye rathopastha upāviśat | visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||46|| iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsu prathamo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām ||46|| ahiṃsrasyātma-jijñāsā dayārdrasyopajāyate | tad viruddhasya naiveti prathamād upadhāritam ||46||"
+    },
+    {
+      "chapter": 2,
+      "verse": 1,
+      "ref": "BG_2.001",
+      "text": "saṃjaya uvāca taṃ tathā kṛpayāviṣṭam aśrupūrṇākulekṣaṇam | viṣīdantam idaṃ vākyam uvāca madhusūdanaḥ ||1|| viśvanāthaḥ : ātmānātma-vivekena śoka-moha-tamo nudan | dvitīye kṛṣṇa-candro 'tra proce muktasya lakṣaṇam ||1|| baladevaḥ : dvitīye jīva-yāthātmya-jñānaṃ tat-sādhanaṃ hariḥ | niṣkāma-karma ca proce sthita-prajñasya lakṣaṇam ||"
+    },
+    {
+      "chapter": 2,
+      "verse": 2,
+      "ref": "BG_2.002",
+      "text": "śrī-bhagavān uvāca kutas tvā kaśmalam idaṃ viṣame samupasthitam | anārya-juṣṭam asvargyam akīrti-karam arjuna ||2|| aiśvaryasya samagrasya dharmasya yaśasaḥ śriyaḥ | vairāgyasyātha mokṣasya ṣaṇṇāṃ bhaga itīṅganā || [ViP 6.74] utpattiṃ ca vināśaṃ ca bhūtānām āgatiṃ gatim | vetti vidyām avidyāṃ ca sa vācyo bhagavān iti || [ViP 6.78] aiśvaryasya samagrasya dharmasya yaśasaḥ śriyaḥ | vairāgyasyātha mokṣasya ṣaṇṇāṃ bhaga itīṅganā || [ViP 6.74]"
+    },
+    {
+      "chapter": 2,
+      "verse": 3,
+      "ref": "BG_2.003",
+      "text": "klaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate | kṣudraṃ hṛdaya-daurbalyaṃ tyaktvottiṣṭha paraṃtapa ||3||"
+    },
+    {
+      "chapter": 2,
+      "verse": 4,
+      "ref": "BG_2.004",
+      "text": "arjuna uvāca kathaṃ bhīṣmam ahaṃ saṃkhye droṇaṃ ca madhusūdana | iṣubhiḥ pratiyotsyāmi pūjārhāv arisūdana ||4||"
+    },
+    {
+      "chapter": 2,
+      "verse": 5,
+      "ref": "BG_2.005",
+      "text": "gurūn ahatvā hi mahānubhāvāñ śreyo bhoktuṃ bhaikṣyam apīha loke | hatvārtha-kāmāṃs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān ||5|| guror apy avaliptasya kāryākāryam ajānataḥ | utpathapratipannasya parityāgo vidhīyate || [ṃbh 5.178.24] dharma-vyatikramo dṛṣṭa īśvarāṇāṃ ca sāhasam | tejīyasāṃ na doṣāya vahneḥ sarva-bhujo yathā || [BhP 10.33.30] arthasya puruṣo dāso dāsas tv artho na kasyacit | iti satyaṃ mahārāja baddho 'smy arthena kauravaiḥ || [ṃBh 6.41.36] arthasya puruṣo dāso dāsas tv artho na kasyacit | iti satyaṃ mahārāja baddho 'smy arthena kauravaiḥ || [ṃBh 6.41.36] nanu - arthasya puruṣo dāso dāsas tv artho na kasyacit | iti satyaṃ mahārāja baddho 'smy arthena kauravaiḥ || [ṃBh 6.41.36]"
+    },
+    {
+      "chapter": 2,
+      "verse": 6,
+      "ref": "BG_2.006",
+      "text": "na caitad vidmaḥ kataran no garīyo yad vā jayema yadi vā no jayeyuḥ | yān eva hatvā na jijīviṣāmas te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ ||6||"
+    },
+    {
+      "chapter": 2,
+      "verse": 7,
+      "ref": "BG_2.007",
+      "text": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṃ dharma-saṃmūḍha-cetāḥ | yac chreyaḥ syān niścitaṃ brūhi tan me śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam ||7||"
+    },
+    {
+      "chapter": 2,
+      "verse": 8,
+      "ref": "BG_2.008",
+      "text": "na hi prapaśyāmi mamāpanudyād yac chokam ucchoṣaṇam indriyāṇām | avāpya bhūmāv asapatnam ṛddhaṃ rājyaṃ surāṇām api cādhipatyam ||8||"
+    },
+    {
+      "chapter": 2,
+      "verse": 9,
+      "ref": "BG_2.009",
+      "text": "saṃjaya uvāca evam uktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ | na yotsya iti govindam uktvā tūṣṇīṃ babhūva ha ||9||"
+    },
+    {
+      "chapter": 2,
+      "verse": 10,
+      "ref": "BG_2.010",
+      "text": "tam uvāca hṛṣīkeśaḥ prahasann iva bhārata | senayor ubhayor madhye viṣīdantam idaṃ vacaḥ ||10||"
+    },
+    {
+      "chapter": 2,
+      "verse": 11,
+      "ref": "BG_2.011",
+      "text": "śrī-bhagavān uvāca aśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase | gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ ||11||"
+    },
+    {
+      "chapter": 2,
+      "verse": 12,
+      "ref": "BG_2.012",
+      "text": "na tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ | na caiva na bhaviṣyāmaḥ sarve vayam ataḥ param ||12||"
+    },
+    {
+      "chapter": 2,
+      "verse": 13,
+      "ref": "BG_2.013",
+      "text": "dehino 'smin yathā dehe kaumāraṃ yauvanaṃ jarā | tathā dehāntara-prāptir dhīras tatra na muhyati ||13||"
+    },
+    {
+      "chapter": 2,
+      "verse": 14,
+      "ref": "BG_2.014",
+      "text": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkhadāḥ | āgamāpāyino 'nityās tāṃs titikṣasva bhārata ||14||"
+    },
+    {
+      "chapter": 2,
+      "verse": 15,
+      "ref": "BG_2.015",
+      "text": "yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha | sama-duḥkha-sukhaṃ dhīraṃ so 'mṛtatvāya kalpate ||15||"
+    },
+    {
+      "chapter": 2,
+      "verse": 16,
+      "ref": "BG_2.016",
+      "text": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ ||16||"
+    },
+    {
+      "chapter": 2,
+      "verse": 17,
+      "ref": "BG_2.017",
+      "text": "avināśi tu tad viddhi yena sarvam idaṃ tatam | vināśam avyayasyāsya na kaścit kartum arhati ||17||"
+    },
+    {
+      "chapter": 2,
+      "verse": 18,
+      "ref": "BG_2.018",
+      "text": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ | anāśino 'prameyasya tasmād yudhyasva bhārata ||18|| eko devaḥ sarva-bhūteṣu gūḍhaḥ sarva-vyāpī sarva-bhūtāntarātmā | karmādhyakṣaḥ sarva-bhūtādhivāsaḥ sākṣī ceto kevalo nirguṇaś ca || [ŚvetU 6.11] pramāṇam apramāṇaṃ ca pramābhāsas tathaiva ca | kurvanty eva pramāṃ yatra tad-asambhāvanā kutaḥ || [Bṛhad-vāmanaP 1.4.874]"
+    },
+    {
+      "chapter": 2,
+      "verse": 19,
+      "ref": "BG_2.019",
+      "text": "ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam | ubhau tau na vijānīto nāyaṃ hanti na hanyate ||19||"
+    },
+    {
+      "chapter": 2,
+      "verse": 20,
+      "ref": "BG_2.020",
+      "text": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre ||20||"
+    },
+    {
+      "chapter": 2,
+      "verse": 21,
+      "ref": "BG_2.021",
+      "text": "vedāvināśinaṃ nityaṃ ya enam ajam avyayam | kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam ||21|| ātmānaṃ ced vijānīyād ayam asmīti pūruṣaḥ | kim icchan kasya kāmāya śarīram anusaṃjvaret || [BAU 4.4.12]"
+    },
+    {
+      "chapter": 2,
+      "verse": 22,
+      "ref": "BG_2.022",
+      "text": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro 'parāṇi | tathā śarīrāṇi vihāya jīrṇāni anyāni saṃyāti navāni dehī ||22||"
+    },
+    {
+      "chapter": 2,
+      "verse": 23,
+      "ref": "BG_2.023",
+      "text": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ | na cainaṃ kledayanty āpo na śoṣayati mārutaḥ ||23||"
+    },
+    {
+      "chapter": 2,
+      "verse": 24,
+      "ref": "BG_2.024",
+      "text": "acchedyo 'yam adāhyo 'yam akledyo 'śoṣya eva ca | nityaḥ sarva-gataḥ sthāṇur acalo 'yaṃ sanātanaḥ ||24||"
+    },
+    {
+      "chapter": 2,
+      "verse": 25,
+      "ref": "BG_2.025",
+      "text": "avyakto 'yam acintyo 'yam avikāryo 'yam ucyate | tasmād evaṃ viditvainaṃ nānuśocitum arhasi ||25||"
+    },
+    {
+      "chapter": 2,
+      "verse": 26,
+      "ref": "BG_2.026",
+      "text": "atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam | tathāpi tvaṃ mahābāho naivaṃ śocitum arhasi ||26||"
+    },
+    {
+      "chapter": 2,
+      "verse": 27,
+      "ref": "BG_2.027",
+      "text": "jātasya hi dhruvo mṛtyur dhruvaṃ janma mṛtasya ca | tasmād aparihārye 'rthe na tvaṃ śocitum arhasi ||27|| ya āhaveṣu yudhyante bhūmy-artham aparāṅmukhāḥ | akūṭair āyudhair yānti te svargaṃ yogino yathā || [Yajñ. 13.324]"
+    },
+    {
+      "chapter": 2,
+      "verse": 28,
+      "ref": "BG_2.028",
+      "text": "avyaktādīni bhūtāni vyakta-madhyāni bhārata | avyakta-nidhanāny eva tatra kā paridevanā ||28||"
+    },
+    {
+      "chapter": 2,
+      "verse": 29,
+      "ref": "BG_2.029",
+      "text": "āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ | āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṃ veda na caiva kaścit ||29|| durbalatvād avidyāyā ātmatvād bodha-rūpiṇaḥ | śabda-śakter acitnyatvād vidmas taṃ moha-hānataḥ || agṛhītvaiva sambandham abhidhānābhidheyayoḥ | hitvā nidrāṃ prabudhyante suṣupter bodhitāḥ paraiḥ || jāgradvan na yataḥ śabdaṃ suṣupte vetti kaścana | dhvaste 'to jñānato 'jñāne brahmāsmīti bhavet phalam || avidyā-ghātinaḥ śabdādyāhaṃ brahmeti dhīr bhavet | naśyaty avidyayā sārdhaṃ hatvā rogam ivauṣadham || [Bṛhat.Vā 1.4.860-863]"
+    },
+    {
+      "chapter": 2,
+      "verse": 30,
+      "ref": "BG_2.030",
+      "text": "dehī nityam avadhyo 'yaṃ dehe sarvasya bhārata | tasmāt sarvāṇi bhūtāni na tvaṃ śocitum arhasi ||30||"
+    },
+    {
+      "chapter": 2,
+      "verse": 31,
+      "ref": "BG_2.031",
+      "text": "sva-dharmam api cāvekṣya na vikampitum arhasi | dharmyād dhi yuddhāc chreyo 'nyat kṣatriyasya na vidyate ||31|| samottamādhamai rājā tv āhūtaḥ pālayan prajāḥ | na nivarteta saṃgrāmāt kṣātraṃ dharmam anusmaran || āhaveṣu mitho 'nyonyaṃ jighāṃsanto mahīkṣitaḥ | yudhyamānāḥ paraṃ śaktyā svargaṃ yānty aparāṅmukhāḥ || [Manu 7.90]"
+    },
+    {
+      "chapter": 2,
+      "verse": 32,
+      "ref": "BG_2.032",
+      "text": "yadṛcchayā copapannaṃ svarga-dvāram apāvṛtam | sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam ||32|| guruṃ vā bāla-vṛddhau vā brāhmaṇaṃ vā bahu-śrutam | ātatāyinam āyāntaṃ hanyād evāvicārayan || ātatāyinam āyāntam api vedānta-pāragam | jighāṃsantaṃ jighāṃsīyān na tena brahmahā bhavet || nanu - smṛtyor virodhe nyāyas tu balavān vyavahārataḥ | artha-śāstrāt tu balavad dharma-śāstram iti sthitiḥ || [Yājñavalkya 2.21]"
+    },
+    {
+      "chapter": 2,
+      "verse": 33,
+      "ref": "BG_2.033",
+      "text": "atha cet tvam imaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi | tataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi ||33|| na kūṭair āyudhair hanyād yudhyamāno raṇe ripūn | na karṇibhir nāpi digdhair nāgni-jvalita-tejanaiḥ || na ca hanyāt sthalārūḍhaṃ na klībaṃ na kṛtāñjalim | na mukta-keśaṃ nāsīnaṃ na tavāsmīti vādinam || na suptaṃ na visaṃnāhaṃ na nagnaṃ na nirāyudham | nāyudhyamānaṃ paśyantaṃ na pareṇa samāgatam || yas tu bhītaḥ parāvṛttaḥ saṅgrāme hanyate paraiḥ | bhartur yad duṣkṛtaṃ kiṃcit tat sarvaṃ pratipadyate ||"
+    },
+    {
+      "chapter": 2,
+      "verse": 34,
+      "ref": "BG_2.034",
+      "text": "akīrtiṃ cāpi bhūtāni kathayiṣyanti te 'vyayām | saṃbhāvitasya cākīrtir maraṇād atiricyate ||34|| sāmnā dānena bhedena samastair atha vā pṛthak | vijetuṃ prayatetārīn na yuddhena kadā cana || anityo vijayo yasmād dṛśyate yudhyamānayoḥ | parājayaś ca saṃgrāme tasmād yuddhaṃ vivarjayet || trayāṇām apy upāyānāṃ pūrvoktānām asaṃbhave | tathā yudhyeta saṃpanno vijayeta ripūn yathā || [ManuS 7.198-200] bhayād raṇād uparataṃ maṃsyante tvāṃ mahārathāḥ | yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam ||35||"
+    },
+    {
+      "chapter": 2,
+      "verse": 36,
+      "ref": "BG_2.036",
+      "text": "avācya-vādāṃś ca bahūn vadiṣyanti tavāhitāḥ | nindantas tava sāmarthyaṃ tato duḥkhataraṃ nu kim ||36||"
+    },
+    {
+      "chapter": 2,
+      "verse": 37,
+      "ref": "BG_2.037",
+      "text": "hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm | tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ ||37||"
+    },
+    {
+      "chapter": 2,
+      "verse": 38,
+      "ref": "BG_2.038",
+      "text": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṃ pāpam avāpsyasi ||38||"
+    },
+    {
+      "chapter": 2,
+      "verse": 39,
+      "ref": "BG_2.039",
+      "text": "eṣā te 'bhihitā sāṃkhye buddhir yoge tv imāṃ śṛṇu | buddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi ||39||"
+    },
+    {
+      "chapter": 2,
+      "verse": 40,
+      "ref": "BG_2.040",
+      "text": "nehābhikrama-nāśo 'sti pratyavāyo na vidyate | svalpam apy asya dharmasya trāyate mahato bhayāt ||40|| vedānuvacanādīnām aikātmya-jñāna-janmane | tam etam iti vākyena nityānāṃ vakṣyate vidhiḥ || naiṣkarmyam apy acyuta-bhāva-varjitaṃ na śobhate jñānam alaṃ nirañjanam | kutaḥ punaḥ śaśvad abhadram īśvare na cārpitaṃ karma yad apy akāraṇam || [BhP 1.5.12] na hy aṅgopakrame dhvaṃso mad-dharmasyoddhavāṇv api | mayā vyavasitaḥ samyaṅ nirguṇatvād anāśiṣaḥ || [BhP 11.29.20]"
+    },
+    {
+      "chapter": 2,
+      "verse": 41,
+      "ref": "BG_2.041",
+      "text": "vyavasāyātmikā buddhir ekeha kuru-nandana | bahu-śākhā hy anantāś ca buddhayo 'vyavasāyinām ||41||"
+    },
+    {
+      "chapter": 2,
+      "verse": 42,
+      "ref": "BG_2.042",
+      "text": "yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ | veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ ||42|| kāmātmānaḥ svarga-parā janma-karma-phala-pradām | kriyā-viśeṣa-bahulāṃ bhogaiśvarya-gatiṃ prati ||43|| bhogaiśvarya-prasaktānāṃ tayāpahṛta-cetasām | vyavasāyātmikā buddhiḥ samādhau na vidhīyate ||44||"
+    },
+    {
+      "chapter": 2,
+      "verse": 45,
+      "ref": "BG_2.045",
+      "text": "traiguṇya-viṣayā vedā nistraiguṇyo bhavārjuna | nirdvandvo nitya-sattva-stho niryoga-kṣema ātmavān ||45|| śruti-smṛti-purāṇādi-pāñcarātra-vidhiṃ vinā | aikāntikī harer bhaktir utpātāyaiva kalpyate || mad-arpaṇaṃ niṣphalaṃ vā sāttvikaṃ nija-karma yat | rājasaṃ phala-saṅkalpaṃ hiṃsā-prāyādi tāmasam || [BhP 11.25.23] kaivalyaṃ sāttvikaṃ jñānaṃ rajo vaikalpikaṃ tu yat | prākṛtaṃ tāmasaṃ jñānaṃ man-niṣṭhaṃ nirguṇaṃ smṛtam || vanaṃ tu sāttviko vāso grāmo rājasa ucyate | tāmasaṃ dyuta-sadanaṃ man-niketaṃ tu nirguṇam || sāttvikaḥ kārako 'saṅgī rāgāndho rājasaḥ smṛtaḥ | tāmasaḥ smṛti-vibhraṣṭo nirguṇo mad-apāśrayaḥ || sāttvikyādhyātmikī śraddhā karma-śraddhā tu rājasī | tāmasy adharme yā śraddhā mat-sevāyāṃ tu nirguṇā || pathyaṃ pūtam anāyastam āhāryaṃ sāttvikaṃ smṛtam | rājasaṃ cendriya-preṣṭhaṃ tāmasaṃ cārtidāśuci || dravyaṃ deśas tathā kālo jñānaṃ karma ca kārakaḥ | śraddhāvasthā-kṛtir niṣṭhā traiguṇyaḥ sarva eva hi || sarve guṇamayā bhāvāḥ puruṣāvyakta-dhiṣṭhitāḥ | dṛṣṭaṃ śrutam anudhyātaṃ buddhyā vā puruṣarṣabha || etāḥ saṃsṛtayaḥ puṃso guṇa-karma-nibandhanāḥ | yeneme nirjitāḥ saumya guṇājīvena cittajāḥ | bhakti-yogena man-niṣṭho mad-bhāvāya prapadyate || [BhP 11.25.30-32] māṃ ca yo 'vyabhicāreṇa bhakti-yogena sevate | sa guṇān samatītyaitān brahma-bhūyāya kalpate || [Gītā 14.26]"
+    },
+    {
+      "chapter": 2,
+      "verse": 46,
+      "ref": "BG_2.046",
+      "text": "yāvān artha udapāne sarvataḥ saṃplutodake | tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ ||46|| brahma-varcasa-kāmas tu yajeta brahmaṇaḥ patim | indram indriya-kāmas tu prajā-kāmaḥ prajāpatim || [BhP 2.3.2] akāmaḥ sarva-kāmo vā mokṣa-kāma udāra-dhīḥ | tīvreṇa bhakti-yogena yajeta puruṣaṃ param || [BhP 2.3.10]"
+    },
+    {
+      "chapter": 2,
+      "verse": 47,
+      "ref": "BG_2.047",
+      "text": "karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||47||"
+    },
+    {
+      "chapter": 2,
+      "verse": 48,
+      "ref": "BG_2.048",
+      "text": "yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanaṃjaya | siddhy-asiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||48||"
+    },
+    {
+      "chapter": 2,
+      "verse": 49,
+      "ref": "BG_2.049",
+      "text": "dūreṇa hy avaraṃ karma buddhi-yogād dhanaṃjaya | buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ ||49||"
+    },
+    {
+      "chapter": 2,
+      "verse": 50,
+      "ref": "BG_2.050",
+      "text": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujyasva yogaḥ karmasu kauśalam ||50||"
+    },
+    {
+      "chapter": 2,
+      "verse": 51,
+      "ref": "BG_2.051",
+      "text": "karmajaṃ buddhi-yuktā hi phalaṃ tyaktvā manīṣiṇaḥ | janma-bandha-vinirmuktāḥ padaṃ gacchanty anāmayam ||51||"
+    },
+    {
+      "chapter": 2,
+      "verse": 52,
+      "ref": "BG_2.052",
+      "text": "yadā te mohakalilaṃ buddhir vyatitariṣyati | tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||52||"
+    },
+    {
+      "chapter": 2,
+      "verse": 53,
+      "ref": "BG_2.053",
+      "text": "śruti-vipratipannā te yadā sthāsyati niścalā | samādhāv acalā buddhis tadā yogam avāpsyasyi ||53||"
+    },
+    {
+      "chapter": 2,
+      "verse": 54,
+      "ref": "BG_2.054",
+      "text": "arjuna uvāca sthita-prajñasya kā bhāṣā samādhi-sthasya keśava | sthita-dhīḥ kiṃ prabhāṣeta kim āsīta vrajeta kim ||54||"
+    },
+    {
+      "chapter": 2,
+      "verse": 55,
+      "ref": "BG_2.055",
+      "text": "śrī-bhagavān uvāca prajahāti yadā kāmān sarvān pārtha mano-gatān | ātmany evātmanā tuṣṭaḥ sthita-prajñas tadocyate ||55||"
+    },
+    {
+      "chapter": 2,
+      "verse": 56,
+      "ref": "BG_2.056",
+      "text": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ | vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate ||56||"
+    },
+    {
+      "chapter": 2,
+      "verse": 57,
+      "ref": "BG_2.057",
+      "text": "yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||57||"
+    },
+    {
+      "chapter": 2,
+      "verse": 58,
+      "ref": "BG_2.058",
+      "text": "yadā saṃharate cāyaṃ kūrmo 'ṅgānīva sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||58||"
+    },
+    {
+      "chapter": 2,
+      "verse": 59,
+      "ref": "BG_2.059",
+      "text": "viṣayā vinivartante nirāhārasya dehinaḥ | rasa-varjaṃ raso 'py asya paraṃ dṛṣṭvā nivartate ||59||"
+    },
+    {
+      "chapter": 2,
+      "verse": 60,
+      "ref": "BG_2.060",
+      "text": "yatato hy api kaunteya puruṣasya vipaścitaḥ | indriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||60||"
+    },
+    {
+      "chapter": 2,
+      "verse": 61,
+      "ref": "BG_2.061",
+      "text": "tāni sarvāṇi saṃyamya yukta āsīta mat-paraḥ | vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||61||"
+    },
+    {
+      "chapter": 2,
+      "verse": 62,
+      "ref": "BG_2.062",
+      "text": "dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate | saṅgāt saṃjāyate kāmaḥ kāmāt krodho 'bhijāyate ||62|| krodhād bhavati saṃmohaḥ saṃmohāt smṛti-vibhramaḥ | smṛti-bhraṃśād buddhi-nāśo buddhi-nāśāt praṇaśyati ||63||"
+    },
+    {
+      "chapter": 2,
+      "verse": 64,
+      "ref": "BG_2.064",
+      "text": "rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran | ātma-vaśyair vidheyātmā prasādam adhigacchati ||64||"
+    },
+    {
+      "chapter": 2,
+      "verse": 65,
+      "ref": "BG_2.065",
+      "text": "prasāde sarva-duḥkhānāṃ hānir asyopajāyate | prasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate ||65||"
+    },
+    {
+      "chapter": 2,
+      "verse": 66,
+      "ref": "BG_2.066",
+      "text": "nāsti buddhir ayuktasya na cāyuktasya bhāvanā | na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham ||66||"
+    },
+    {
+      "chapter": 2,
+      "verse": 67,
+      "ref": "BG_2.067",
+      "text": "indriyāṇāṃ hi caratāṃ yan mano 'nuvidhīyate | tad asya harati prajñāṃ vāyur nāvam ivāmbhasi ||67||"
+    },
+    {
+      "chapter": 2,
+      "verse": 68,
+      "ref": "BG_2.068",
+      "text": "tasmād yasya mahābāho nigṛhītāni sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||68||"
+    },
+    {
+      "chapter": 2,
+      "verse": 69,
+      "ref": "BG_2.069",
+      "text": "yā niśā sarva-bhūtānāṃ tasyāṃ jāgarti saṃyamī | yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ||69|| kāraka-vyavahāre hi śuddhaṃ vastu na vīkṣyante | śuddhe vastuni siddhe ca kāraka-vyāpṛtis tathā ||"
+    },
+    {
+      "chapter": 2,
+      "verse": 70,
+      "ref": "BG_2.070",
+      "text": "āpūryamāṇam acala-pratiṣṭhaṃ samudram āpaḥ praviśanti yadvat | tadvat kāmā yaṃ praviśanti sarve sa śāntim āpnoti na kāma-kāmī ||70||"
+    },
+    {
+      "chapter": 2,
+      "verse": 71,
+      "ref": "BG_2.071",
+      "text": "vihāya kāmān yaḥ sarvān pumāṃś carati niḥspṛhaḥ | nirmamo nirahaṃkāraḥ sa śāntim adhigacchati ||71||"
+    },
+    {
+      "chapter": 2,
+      "verse": 72,
+      "ref": "BG_2.072",
+      "text": "eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati | sthitvāsyām anta-kāle 'pi brahma-nirvāṇam ṛcchati ||72|| śoka-paṅka-nimagnaṃ yaḥ sāṅkhya-yogopadeśataḥ | ujjahārārjunaṃ bhaktaṃ sa kṛṣṇa-śaraṇaṃ mama || jñānaṃ karma ca vispaṣṭam aspaṣṭaṃ bhaktim uktavān | ataevāyam adhyāyaḥ śrī-gītā-sūtram ucyate || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | śrī-gītāsu dvitīyo 'yaṃ saṅgataḥ saṅgataḥ satām ||2|| niṣkāma-karmabhir jñānī harim eva smaran bhavet | anyathā vighna eveti dvitīyo 'dhyāya-nirṇayaḥ ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 1,
+      "ref": "BG_3.001",
+      "text": "arjuna uvāca jyāyasī cet karmaṇas te matā buddhir janārdana | tat kiṃ karmaṇi ghore māṃ niyojayasi keśava || 1 || sāṅkhye yoge ca vaiṣamyaṃ matvā mugdhāya jiṣṇave | tayor bheda-nirāsāya karma-yoge udīryate || niṣkāmam arpitaṃ karma tṛtīye tu prapañcyate | kāma-krodha-jigīṣāyāṃ viveko 'pi pradarśyate || tṛtīye karma-niṣkāmaṃ vistareṇopavarṇitam | kāmāder vijayopāyo durjayasyāpi darśitaḥ || ka iti brahmaṇo nāma īśo 'haṃ sarva-dehinām | āvāṃ tavāṅga-sambhūtau tasmāt keśava-nāma-bhāg ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 2,
+      "ref": "BG_3.002",
+      "text": "vyāmiśreṇaiva vākyena buddhiṃ mohayasīva me | tad ekaṃ vada niścitya yena śreyo 'ham āpnuyām ||2|| ihetareṣāṃ kumataṃ samastaṃ śruti-smṛti-nyāya-balān nirastam | punaḥ punar bhāṣya-kṛtātiyatnād ato na tat kartum ahaṃ pravṛttaḥ || bhāṣya-kāra-mata-sāra-darśinā grantha-mātram iha yojyate mayā | āśayo bhagavataḥ prakāśyate kevalaṃ sva-vacaso viśuddhaye ||2|| buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujyasva yogaḥ karmasu kauśalam || [Gītā 2.50]"
+    },
+    {
+      "chapter": 3,
+      "verse": 3,
+      "ref": "BG_3.003",
+      "text": "śrī-bhagavān uvāca loke 'smin dvividhā niṣṭhā purā proktā mayānagha | jñāna-yogena sāṃkhyānāṃ karma-yogena yoginām ||3||"
+    },
+    {
+      "chapter": 3,
+      "verse": 4,
+      "ref": "BG_3.004",
+      "text": "na karmaṇām anārambhān naiṣkarmyaṃ puruṣo 'śnute | na ca saṃnyasanād eva siddhiṃ samadhigacchati || 4 ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 5,
+      "ref": "BG_3.005",
+      "text": "na hi kaścit kṣaṇam api jātu tiṣṭhaty akarma-kṛt | kāryate hy avaśaḥ karma sarvaḥ prakṛtijair guṇaiḥ || 5 ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 6,
+      "ref": "BG_3.006",
+      "text": "karmendriyāṇi saṃyamya ya āste manasā smaran | indriyārthān vimūḍhātmā mithyācāraḥ sa ucyate ||6|| tvaṃ-padārtha-vivekāya saṃnyāsaḥ sarva-karmaṇām | śrutyeha vihito yasmāt tat-tyāgī patito bhavet ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 8,
+      "ref": "BG_3.008",
+      "text": "niyataṃ kuru karma tvaṃ karma jyāyo hy akarmaṇaḥ | śarīrayātrāpi ca te na prasidhyed akarmaṇaḥ ||8||"
+    },
+    {
+      "chapter": 3,
+      "verse": 9,
+      "ref": "BG_3.009",
+      "text": "yajñārthāt karmaṇo 'nyatra loko 'yaṃ karma-bandhanaḥ | tad-arthaṃ karma kaunteya mukta-saṅgaḥ samācara ||9|| sva-dharma-stho yajan yajñair anāśīḥ-kāma uddhava | na yāti svarga-narakau yady anyan na samācaret ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 10,
+      "ref": "BG_3.010",
+      "text": "saha-yajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ | anena prasaviṣyadhvam eṣa vo 'stv iṣṭa-kāma-dhuk ||10||"
+    },
+    {
+      "chapter": 3,
+      "verse": 11,
+      "ref": "BG_3.011",
+      "text": "devān bhāvayatānena te devā bhāvayantu vaḥ | parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha ||11||"
+    },
+    {
+      "chapter": 3,
+      "verse": 12,
+      "ref": "BG_3.012",
+      "text": "iṣṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ | tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ ||12||"
+    },
+    {
+      "chapter": 3,
+      "verse": 13,
+      "ref": "BG_3.013",
+      "text": "yajña-śiṣṭāśinaḥ santo mucyante sarva-kilbiṣaiḥ | bhuñjate te tv aghaṃ pāpā ye pacanty ātma-kāraṇāt ||13|| kaṇḍanī peṣaṇī cullī udakumbhī ca mārjanī | pañca-sūnā gṛhasthasya tābhiḥ svargaṃ na vindati || iti ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 14,
+      "ref": "BG_3.014",
+      "text": "annād bhavanti bhūtāni parjanyād anna-saṃbhavaḥ | yajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ ||14|| agnau prāstāhutiḥ samyag ādityam upatiṣṭhate | ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajāḥ ||14||"
+    },
+    {
+      "chapter": 3,
+      "verse": 16,
+      "ref": "BG_3.016",
+      "text": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ | aghāyur indriyārāmo moghaṃ pārtha sa jīvati ||16||"
+    },
+    {
+      "chapter": 3,
+      "verse": 18,
+      "ref": "BG_3.018",
+      "text": "naiva tasya kṛtenārtho nākṛteneha kaścana | na cāsya sarvabhūteṣu kaś cid arthavyapāśrayaḥ || 18 || jñāna-bhūmiḥ śubhecchākhyā prathamā parikīrtitā | vicāraṇā dvitīyā syāt tṛtīyā tanu-mānasā || ṣaṣṭhyāṃ bhūmām asau sthitvā saptamīṃ bhūmikām āpnuyāt | kiṃcid evaiṣa sampannas tv athavaiṣa na kiṃcana || dehaṃ ca naśvaram avasthitam utthitaṃ vā siddho na paśyati yato 'dhyagamat svarūpam | daivād apetam atha daiva-vaśād upetaṃ vāso yathā parikṛtaṃ madirā-madāndhaḥ || deho 'pi daiva-vaśa-gaḥ khalu karma yāvat svārambhakaṃ pratisamīkṣata eva sāsuḥ | taṃ sa-prapañcam adhirūṭha-samādhi-yogaḥ svāpnaṃ punar na bhajate pratibuddha-vastuḥ ||[BhP 11.13.36-37] caturthī bhūmikā jñānaṃ tisraḥ syuḥ sādhanaṃ purā | jīvan-mukter avasthāstu parās tisraḥ prakīrtitāḥ ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 20,
+      "ref": "BG_3.020",
+      "text": "mukhajānāmayaṃ dharmo yad viṣṇor liṅga-dhāraṇam | bāhu-jātoru-jātānām nāyaṃ dharmaḥ praśasyate ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 21,
+      "ref": "BG_3.021",
+      "text": "yad yad ācarati śreṣṭhas tat tad evetaro janaḥ | sa yat pramāṇaṃ kurute lokas tad anuvartate ||21||"
+    },
+    {
+      "chapter": 3,
+      "verse": 22,
+      "ref": "BG_3.022",
+      "text": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiṃcana | nānavāptam avāptavyaṃ varta eva ca karmaṇi ||22||"
+    },
+    {
+      "chapter": 3,
+      "verse": 23,
+      "ref": "BG_3.023",
+      "text": "yadi hy ahaṃ na varteyaṃ jātu karmaṇy atandritaḥ | mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||23||"
+    },
+    {
+      "chapter": 3,
+      "verse": 24,
+      "ref": "BG_3.024",
+      "text": "utsīdeyur ime lokā na kuryāṃ karma ced aham | saṃkarasya ca kartā syām upahanyām imāḥ prajāḥ ||24|| īśvarāṇāṃ vacaḥ satyaṃ tathaivācaritaṃ kvacit | teṣāṃ yat sva-vaco-yuktaṃ buddhimāṃs tat samācaret ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 25,
+      "ref": "BG_3.025",
+      "text": "saktāḥ karmaṇy avidvāṃso yathā kurvanti bhārata | kuryād vidvāṃs tathāsaktaś cikīrṣur loka-saṃgraham ||25||"
+    },
+    {
+      "chapter": 3,
+      "verse": 26,
+      "ref": "BG_3.026",
+      "text": "na buddhi-bhedaṃ janayed ajñānāṃ karma-saṅginām | joṣayet sarva-karmāṇi vidvān yuktaḥ samācaran ||26|| nanu, svayaṃ niḥśreyasaṃ vidvān na vakty ajñāya karma hi | na rāti rogiṇo 'pathyaṃ vāñchato 'pi bhiṣaktamaḥ || [BhP 6.9.5] svayaṃ niḥśreyasaṃ vidvān na vakty ajñāya karma hi | na rāti rogiṇo 'pathyaṃ vāñchato 'pi bhiṣaktamaḥ || [BhP 6.9.5]"
+    },
+    {
+      "chapter": 3,
+      "verse": 27,
+      "ref": "BG_3.027",
+      "text": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ | ahaṃkāra-vimūḍhātmā kartāham iti manyate ||27||"
+    },
+    {
+      "chapter": 3,
+      "verse": 28,
+      "ref": "BG_3.028",
+      "text": "tattvavit tu mahā-bāho guṇa-karma-vibhāgayoḥ | guṇā guṇeṣu vartanta iti matvā na sajjate ||28||"
+    },
+    {
+      "chapter": 3,
+      "verse": 29,
+      "ref": "BG_3.029",
+      "text": "prakṛter guṇa-saṃmūḍhāḥ sajjante guṇa-karmasu | tān akṛtsna-vido mandān kṛtsna-vin na vicālayet ||29|| sad evety ādi-vākyebhyaḥ kṛtsnaṃ vastu yato 'dvayam | sambhavas tad-viruddhasya kuto 'kṛtsnasya vastunaḥ ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 30,
+      "ref": "BG_3.030",
+      "text": "mayi sarvāṇi karmāṇi saṃnyasyādhyātma-cetasā | nirāśīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ ||30||"
+    },
+    {
+      "chapter": 3,
+      "verse": 32,
+      "ref": "BG_3.032",
+      "text": "ye tv etad abhyasūyanto nānutiṣṭhanti me matam | sarva-jñāna-vimūḍhāṃs tān viddhi naṣṭān acetasaḥ ||32||"
+    },
+    {
+      "chapter": 3,
+      "verse": 33,
+      "ref": "BG_3.033",
+      "text": "sadṛśaṃ ceṣṭate svasyāḥ prakṛter jñānavān api | prakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati ||33|| aho dhanyo 'si devarṣe kṛpayā yasya te kṣaṇāt | nīco 'py utpulako lebhe lubdhako ratim ucyate ||33||"
+    },
+    {
+      "chapter": 3,
+      "verse": 34,
+      "ref": "BG_3.034",
+      "text": "indriyasyendriyasyārthe rāga-dveṣau vyavasthitau | tayor na vaśam āgacchet tau hy asya paripanthinau ||34||"
+    },
+    {
+      "chapter": 3,
+      "verse": 35,
+      "ref": "BG_3.035",
+      "text": "śreyān sva-dharmo viguṇaḥ para-dharmāt svanuṣṭhitāt | sva-dharme nidhanaṃ śreyaḥ para-dharmo bhayāvahaḥ ||35||"
+    },
+    {
+      "chapter": 3,
+      "verse": 36,
+      "ref": "BG_3.036",
+      "text": "arjuna uvāca atha kena prayukto 'yaṃ pāpaṃ carati pūruṣaḥ | anicchann api vārṣṇeya balād iva niyojitaḥ ||36||"
+    },
+    {
+      "chapter": 3,
+      "verse": 37,
+      "ref": "BG_3.037",
+      "text": "śrī-bhagavān uvāca kāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ | mahāśano mahā-pāpmā viddhy enam iha vairiṇam ||37|| pravṛttau ca nivṛttau ca yathoktasyādhikāriṇaḥ | svātantrye sati saṃsāra-sṛtau kasmāt pravartate || na tu niḥśeṣa-vidhvasta-saṃsārānartha-vartmani | nivṛtti-lakṣaṇe vācyaṃ kenāyaṃ preryate 'vaśaḥ || anartha-paripākatvam api jānan pravartate | pāratantryam ṛte dṛṣṭā pravṛttir nedṛśī kvacit || tasmāc chreyorthinaḥ puṃsaḥ prerako 'niṣṭa-karmaṇi | vaktavyas tan-nirāsārtham ity arthā syāt parā śrutiḥ || anāpta-puruṣārtho 'yaṃ niḥśeṣānartha-saṅkulaḥ | ity akāmayatānāptān pumarthān sādhanair jaḍaḥ || jihāsati tathānarthān avidvān ātmani śritān | avidyodbhūta-kāmaḥ sann atho khalv iti ca śrutiḥ || akāmataḥ kriyāḥ kāścid dṛśyante neha kasyacit | yad yad dhi kurute jantus tat-tat-kāmasya ceṣṭitam ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 38,
+      "ref": "BG_3.038",
+      "text": "dhūmenāvriyate vahnir yathā-darśo malena ca | yatholbenāvṛto garbhas tathā tenedam āvṛtam ||38||"
+    },
+    {
+      "chapter": 3,
+      "verse": 39,
+      "ref": "BG_3.039",
+      "text": "āvṛtaṃ jñānam etena jñānino nitya-vairiṇā | kāma-rūpeṇa kaunteya duṣpūreṇānalena ca ||39||"
+    },
+    {
+      "chapter": 3,
+      "verse": 40,
+      "ref": "BG_3.040",
+      "text": "indriyāṇi mano buddhir asyādhiṣṭhānam ucyate | etair vimohayaty eṣa jñānam āvṛtya dehinam ||40||"
+    },
+    {
+      "chapter": 3,
+      "verse": 41,
+      "ref": "BG_3.041",
+      "text": "tasmāt tvam indriyāṇy ādau niyamya bharatarṣabha | pāpmānaṃ prajahihy enaṃ jñāna-vijñāna-nāśanam ||41||"
+    },
+    {
+      "chapter": 3,
+      "verse": 42,
+      "ref": "BG_3.042",
+      "text": "indriyāṇi parāṇy āhur indriyebhyaḥ paraṃ manaḥ | manasas tu parā buddhir yo buddheḥ paratas tu saḥ ||42|| indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ ||"
+    },
+    {
+      "chapter": 3,
+      "verse": 43,
+      "ref": "BG_3.043",
+      "text": "evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānam ātmanā | jahi śatruṃ mahā-bāho kāma-rūpaṃ durāsadam ||43|| sva-dharmeṇa yam ārādhya bhaktyā muktim itā budhāḥ | tat kṛṣṇaṃ paramānandaṃ toṣayet sarva-karmabhiḥ || adhyāye 'smin sādhanasya niṣkāmasyaiva karmaṇaḥ | prādhānyam ūce tat-sādhya-jñānasya guṇatāṃ vadan || iti sārārtha-darśinyāṃ harṣiṇyāṃ bhakta-cetasām | tṛtīyaḥ khalu gītāsu saṅgataḥ saṅgataḥ satām || niṣkāmaṃ karma mukhyaṃ syād gauṇaṃ jñānaṃ tad-udbhavam | jīvātma-dṛṣṭāv ity eṣa tṛtīyo 'dhyāya-nirṇayaḥ ||"
+    },
+    {
+      "chapter": 4,
+      "verse": 1,
+      "ref": "BG_4.001",
+      "text": "śrī-bhagavān uvāca imaṃ vivasvate yogaṃ proktavān aham avyayam | vivasvān manave prāha manur ikṣvākave 'bravīt ||1|| śrīdharaḥ : āvirbhāva-tirobhāvāv āviṣkartuṃ svayaṃ hariḥ | tattvaṃ pada-vivekārthaṃ karma-yogaṃ praśaṃsati || viśvanāthaḥ : turye svāvirbhāva-hetor nityatvaṃ janma-karmaṇoḥ | svasyoktiṃ brahma-yajñādi-jñānotkarṣa-prapañcam ||"
+    },
+    {
+      "chapter": 4,
+      "verse": 2,
+      "ref": "BG_4.002",
+      "text": "evaṃ paramparā-prāptam imaṃ rājarṣayo viduḥ | sa kāleneha mahatā yogo naṣṭaḥ parantapa ||2||"
+    },
+    {
+      "chapter": 4,
+      "verse": 3,
+      "ref": "BG_4.003",
+      "text": "sa evāyaṃ mayā te 'dya yogaḥ proktaḥ purātanaḥ | bhakto 'si me sakhā ceti rahasyaṃ hy etad uttamam ||3||"
+    },
+    {
+      "chapter": 4,
+      "verse": 4,
+      "ref": "BG_4.004",
+      "text": "arjuna uvāca aparaṃ bhavato janma paraṃ janma vivasvataḥ | katham etad vijānīyāṃ tvam ādau proktavān iti ||4||"
+    },
+    {
+      "chapter": 4,
+      "verse": 5,
+      "ref": "BG_4.005",
+      "text": "śrī-bhagavān uvāca bahūni me vyatītāni janmāni tava cārjuna | tāny ahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||5||"
+    },
+    {
+      "chapter": 4,
+      "verse": 6,
+      "ref": "BG_4.006",
+      "text": "ajo 'pi sann avyayātmā bhūtānām īśvaro 'pi san | prakṛtiṃ svām adhiṣṭhāya saṃbhavāmy ātma-māyayā ||6|| nityo yaḥ kāraṇopādhir māyākhyo 'neka-śaktimān | sa eva bhagavad-deha iti bhāṣya-kṛtāṃ matam || kṛṣṇam enam avehi tvam ātmānam akhilātmanām | jagad-dhitāya so 'py atra dehīvābhāti māyayā || iti [BhP 10.14.55]"
+    },
+    {
+      "chapter": 4,
+      "verse": 7,
+      "ref": "BG_4.007",
+      "text": "yadā yadā hi dharmasya glānir bhavati bhārata | abhyutthānam adharmasya tadātmānaṃ sṛjāmy aham ||7||"
+    },
+    {
+      "chapter": 4,
+      "verse": 8,
+      "ref": "BG_4.008",
+      "text": "paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām | dharma-saṃsthāpanārthāya saṃbhavāmi yuge yuge ||8||"
+    },
+    {
+      "chapter": 4,
+      "verse": 9,
+      "ref": "BG_4.009",
+      "text": "janma karma ca me divyam evaṃ yo vetti tattvataḥ | tyaktvā dehaṃ punar janma naiti mām eti so 'rjuna ||9||"
+    },
+    {
+      "chapter": 4,
+      "verse": 10,
+      "ref": "BG_4.010",
+      "text": "vīta-rāga-bhaya-krodhā man-mayā mām upāśritāḥ | bahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ ||10||"
+    },
+    {
+      "chapter": 4,
+      "verse": 11,
+      "ref": "BG_4.011",
+      "text": "ye yathā māṃ prapadyante tāṃs tathaiva bhajāmy aham | mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||11||"
+    },
+    {
+      "chapter": 4,
+      "verse": 12,
+      "ref": "BG_4.012",
+      "text": "kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ | kṣipraṃ hi mānuṣe loke siddhir bhavati karmajā ||12||"
+    },
+    {
+      "chapter": 4,
+      "verse": 13,
+      "ref": "BG_4.013",
+      "text": "cātur-varṇyaṃ mayā sṛṣṭaṃ guṇa-karma-vibhāgaśaḥ | tasya kartāram api māṃ viddhy akartāram avyayam ||13||"
+    },
+    {
+      "chapter": 4,
+      "verse": 14,
+      "ref": "BG_4.014",
+      "text": "na māṃ karmāṇi limpanti na me karma-phale spṛhā | iti māṃ yo 'bhijānāti karmabhir na sa badhyate ||14||"
+    },
+    {
+      "chapter": 4,
+      "verse": 15,
+      "ref": "BG_4.015",
+      "text": "evaṃ jñātvā kṛtaṃ karma pūrvair api mumukṣubhiḥ | kuru karmaiva tasmāt tvaṃ pūrvaiḥ pūrvataraṃ kṛtam ||15||"
+    },
+    {
+      "chapter": 4,
+      "verse": 16,
+      "ref": "BG_4.016",
+      "text": "kiṃ karma kim akarmeti kavayo 'py atra mohitāḥ | tat te karma pravakṣyāmi yaj jñātvā mokṣyase 'śubhāt ||16||"
+    },
+    {
+      "chapter": 4,
+      "verse": 17,
+      "ref": "BG_4.017",
+      "text": "karmaṇo hy api boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ | akarmaṇaś ca boddhavyaṃ gahanā karmaṇo gatiḥ ||17||"
+    },
+    {
+      "chapter": 4,
+      "verse": 18,
+      "ref": "BG_4.018",
+      "text": "karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ | sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsna-karma-kṛt ||18|| yas tv asaṃyata-ṣaḍ-vargaḥ pracaṇḍendriya-sārathiḥ | jñāna-vairāgya-rahitas tri-daṇḍam upajīvati ||"
+    },
+    {
+      "chapter": 4,
+      "verse": 19,
+      "ref": "BG_4.019",
+      "text": "yasya sarve samārambhāḥ kāma-saṃkalpa-varjitāḥ | jñānāgni-dagdha-karmāṇaṃ tam āhuḥ paṇḍitaṃ budhāḥ ||19|| api ced asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛttamaḥ | sarvaṃ jñāna-plavenaiva vṛjinaṃ santariṣyasi ||"
+    },
+    {
+      "chapter": 4,
+      "verse": 20,
+      "ref": "BG_4.020",
+      "text": "tyaktvā karma-phalāsaṅgaṃ nitya-tṛpto nirāśrayaḥ | karmaṇy abhipravṛtto 'pi naiva kiṃcit karoti saḥ ||20||"
+    },
+    {
+      "chapter": 4,
+      "verse": 21,
+      "ref": "BG_4.021",
+      "text": "nirāśīr yata-cittātmā tyakta-sarva-parigrahaḥ | śārīraṃ kevalaṃ karma kurvan nāpnoti kilbiṣam ||21||"
+    },
+    {
+      "chapter": 4,
+      "verse": 22,
+      "ref": "BG_4.022",
+      "text": "yadṛcchā-lābha-santuṣṭo dvandvātīto vimatsaraḥ | samaḥ siddhāv asiddhau ca kṛtvāpi na nibadhyate ||22||"
+    },
+    {
+      "chapter": 4,
+      "verse": 23,
+      "ref": "BG_4.023",
+      "text": "gata-saṅgasya muktasya jñānāvasthita-cetasaḥ | yajñāyācarataḥ karma samagraṃ pravilīyate ||23||"
+    },
+    {
+      "chapter": 4,
+      "verse": 24,
+      "ref": "BG_4.024",
+      "text": "brahmārpaṇaṃ brahma havir brahmāgnau brahmaṇā hutam | brahmaiva tena gantavyaṃ brahma-karma-samādhinā ||24||"
+    },
+    {
+      "chapter": 4,
+      "verse": 25,
+      "ref": "BG_4.025",
+      "text": "daivam evāpare yajñaṃ yoginaḥ paryupāsate | brahmāgnāv apare yajñaṃ yajñenaivopajuhvati ||25||"
+    },
+    {
+      "chapter": 4,
+      "verse": 26,
+      "ref": "BG_4.026",
+      "text": "śrotrādīnīndriyāṇy anye saṃyamāgniṣu juhvati | śabdādīn viṣayān anya indriyāgniṣu juhvati ||26||"
+    },
+    {
+      "chapter": 4,
+      "verse": 27,
+      "ref": "BG_4.027",
+      "text": "sarvāṇīndriya-karmāṇi prāṇa-karmāṇi cāpare | ātma-saṃyama-yogāgnau juhvati jñāna-dīpite ||27||"
+    },
+    {
+      "chapter": 4,
+      "verse": 28,
+      "ref": "BG_4.028",
+      "text": "dravya-yajñās tapo-yajñā yoga-yajñās tathāpare | svādhyāya-jñāna-yajñāś ca yatayaḥ saṃśita-vratāḥ ||28||"
+    },
+    {
+      "chapter": 4,
+      "verse": 29,
+      "ref": "BG_4.029",
+      "text": "apāne juhvati prāṇaṃ prāṇe 'pānaṃ tathāpare | prāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ ||29||"
+    },
+    {
+      "chapter": 4,
+      "verse": 30,
+      "ref": "BG_4.030",
+      "text": "apare niyatāhārāḥ prāṇān prāṇeṣu juhvati | sarve 'py ete yajña-vido yajña-kṣapita-kalmaṣāḥ ||30||"
+    },
+    {
+      "chapter": 4,
+      "verse": 31,
+      "ref": "BG_4.031",
+      "text": "yajña-śiṣṭāmṛta-bhujo yānti brahma sanātanam | nāyaṃ loko 'sty ayajñasya kuto 'nyaḥ kurusattama ||31||"
+    },
+    {
+      "chapter": 4,
+      "verse": 32,
+      "ref": "BG_4.032",
+      "text": "evaṃ bahu-vidhā yajñā vitatā brahmaṇo mukhe | karmajān viddhi tān sarvān evaṃ jñātvā vimokṣyase ||32||"
+    },
+    {
+      "chapter": 4,
+      "verse": 33,
+      "ref": "BG_4.033",
+      "text": "śreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa | sarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate ||33||"
+    },
+    {
+      "chapter": 4,
+      "verse": 34,
+      "ref": "BG_4.034",
+      "text": "tad viddhi praṇipātena paripraśnena sevayā | upadekṣyanti te jñānaṃ jñāninas tattva-darśinaḥ ||34||"
+    },
+    {
+      "chapter": 4,
+      "verse": 35,
+      "ref": "BG_4.035",
+      "text": "yaj jñātvā na punar moham evaṃ yāsyasi pāṇḍava | yena bhūtāny aśeṣeṇa drakṣyasy ātmany atho mayi ||35||"
+    },
+    {
+      "chapter": 4,
+      "verse": 36,
+      "ref": "BG_4.036",
+      "text": "api ced asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛttamaḥ | sarvaṃ jñāna-plavenaiva vṛjinaṃ santariṣyasi ||36||"
+    },
+    {
+      "chapter": 4,
+      "verse": 37,
+      "ref": "BG_4.037",
+      "text": "yathaidhāṃsi samiddho 'gnir bhasmasāt kurute 'rjuna | jñānāgniḥ sarva-karmāṇi bhasmasāt kurute tathā ||37||"
+    },
+    {
+      "chapter": 4,
+      "verse": 38,
+      "ref": "BG_4.038",
+      "text": "na hi jñānena sadṛśaṃ pavitram iha vidyate | tat svayaṃ yoga-saṃsiddhaḥ kālenātmani vindati ||38||"
+    },
+    {
+      "chapter": 4,
+      "verse": 39,
+      "ref": "BG_4.039",
+      "text": "śraddhāvāṃl labhate jñānaṃ tatparaḥ saṃyatendriyaḥ | jñānaṃ labdhvā parāṃ śāntim acireṇādhigacchati ||39||"
+    },
+    {
+      "chapter": 4,
+      "verse": 40,
+      "ref": "BG_4.040",
+      "text": "ajñaś cāśraddadhānaś ca saṃśayātmā vinaśyati | nāyaṃ loko 'sti na paro na sukhaṃ saṃśayātmanaḥ ||40||"
+    },
+    {
+      "chapter": 4,
+      "verse": 41,
+      "ref": "BG_4.041",
+      "text": "yoga-saṃnyasta-karmāṇaṃ jñāna-saṃchinna-saṃśayam | ātmavantaṃ na karmāṇi nibadhnanti dhanañjaya ||41||"
+    },
+    {
+      "chapter": 4,
+      "verse": 42,
+      "ref": "BG_4.042",
+      "text": "tasmād ajñāna-saṃbhūtaṃ hṛt-sthaṃ jñānāsinātmanaḥ | chittvainaṃ saṃśayaṃ yogam ātiṣṭhottiṣṭha bhārata ||42|| pum-avasthādi-bhedena karma-jñāna-mayī dvidhā | niṣṭhoktā yena taṃ vande śauriṃ saṃśaya-saṃchidam || ukteṣu mukty-upāyeṣu jñānam atra praśasyate | jñānopāyaṃ tu karmaivety adhyāyārtho nirūpitaḥ || iti sārārtha-darśinyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsv ayaṃ caturtho hi saṅgataḥ saṅgataḥ satām ||4|| dvy-aṃśakaṃ dhānyavat karma tuṣāṃśād iva taṇḍulaḥ | śreṣṭhaṃ dravyāṃśato jñānam iti turyasya nirṇayaḥ ||4||"
+    },
+    {
+      "chapter": 5,
+      "verse": 1,
+      "ref": "BG_5.001",
+      "text": "arjuna uvāca saṃnyāsaṃ karmaṇāṃ kṛṣṇa punar yogaṃ ca śaṃsasi | yac chreya etayor ekaṃ tan me brūhi suniścitam ||1|| śrīdharaḥ : nivārya saṃśayaṃ jiṣṇoḥ karma-saṃnyāsa-yogayoḥ | jitendriyasya ca yateḥ pañcame muktim abravīt || madhusūdanaḥ : adhyāyābhyāṃ kṛto dvābhyāṃ nirṇayaḥ karma-bodhayoḥ | karma-tat-tyāgayor dvābhyāṃ nirṇayaḥ kriyate 'dhunā || mokṣa-dharme - kaṣāyaṃ pācayitvā ca śreṇī-sthāneṣu ca triṣu | pravrajec ca paraṃ sthānaṃ pārivrājyam anuttamam || bhāvinaḥ karaṇaiś cāyaṃ bahu-saṃsāra-yoniṣu | āsādayati śuddhātmā mokṣaṃ vai prathamāśrame || nirāśīr yata-cittātmā tyakta-sarva-parigrahaḥ | śārīraṃ kevalaṃ karma kurvann āpnoti kilbiṣam || [Gītā 4.21] viśvanāthaḥ : proktaṃ jñānād api śreṣṭhaṃ karma tad-dāṛḍhya-siddhaye | tat-padārthasya ca jñānaṃ sāmyād yā api pañcame || yoga-saṃnyasta-karmāṇaṃ jñāna-saṃchinna-saṃśayam | ātmavantaṃ na karmāṇi nibadhnanti dhanaṃjaya || [Gītā 4.41] tasmād ajñāna-saṃbhūtaṃ hṛt-sthaṃ jñānāsinātmanaḥ | chittvainaṃ saṃśayaṃ yogam ātiṣṭhottiṣṭha bhārata || [Gītā 4.42] baladevaḥ : jñānataḥ karmaṇaḥ śraiṣṭhyaṃ sukaratvādinā hariḥ | śuddhasya tad-akartṛtvaṃ tvety ādi prāha pañcame ||"
+    },
+    {
+      "chapter": 5,
+      "verse": 2,
+      "ref": "BG_5.002",
+      "text": "śrī-bhagavān uvāca saṃnyāsaḥ karma-yogaś ca niḥśreyasa-karāv ubhau | tayos tu karma-saṃnyāsāt karma-yogo viśiṣyate ||2||"
+    },
+    {
+      "chapter": 5,
+      "verse": 3,
+      "ref": "BG_5.003",
+      "text": "jñeyaḥ sa nitya-saṃnyāsī yo na dveṣṭi na kāṅkṣati | nirdvandvo hi mahā-bāho sukhaṃ bandhāt pramucyate ||3||"
+    },
+    {
+      "chapter": 5,
+      "verse": 4,
+      "ref": "BG_5.004",
+      "text": "sāṃkhya-yogau pṛthag bālāḥ pravadanti na paṇḍitāḥ | ekam apy āsthitaḥ samyag ubhayor vindate phalam ||4||"
+    },
+    {
+      "chapter": 5,
+      "verse": 5,
+      "ref": "BG_5.005",
+      "text": "yat sāṃkhyaiḥ prāpyate sthānaṃ tad yogair api gamyate | ekaṃ sāṃkhyaṃ ca yogaṃ ca yaḥ paśyati sa paśyati ||5||"
+    },
+    {
+      "chapter": 5,
+      "verse": 6,
+      "ref": "BG_5.006",
+      "text": "saṃnyāsas tu mahābāho duḥkham āptum ayogataḥ | yoga-yukto munir brahma nacireṇādhigacchati ||6||"
+    },
+    {
+      "chapter": 5,
+      "verse": 7,
+      "ref": "BG_5.007",
+      "text": "yoga-yukto viśuddhātmā vijitātmā jitendriyaḥ | sarva-bhūtātma-bhūtātmā kurvann api na lipyate ||7||"
+    },
+    {
+      "chapter": 5,
+      "verse": 8,
+      "ref": "BG_5.008",
+      "text": "naiva kiṃ cit karomīti yukto manyeta tattva-vit | paśyañ śṛṇvan spṛśañ jighrann aśnan gacchan svapañ śvasan ||8|| pralapan visṛjan gṛhṇann unmiṣan nimiṣann api | indriyāṇīndriyārtheṣu vartanta iti dhārayan ||9||"
+    },
+    {
+      "chapter": 5,
+      "verse": 10,
+      "ref": "BG_5.010",
+      "text": "brahmaṇy ādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ | lipyate na sa pāpena padma-patram ivāmbhasā ||10||"
+    },
+    {
+      "chapter": 5,
+      "verse": 11,
+      "ref": "BG_5.011",
+      "text": "kāyena manasā buddhyā kevalair indriyair api | yoginaḥ karma kurvanti saṅgaṃ tyaktvātma-śuddhaye ||11||"
+    },
+    {
+      "chapter": 5,
+      "verse": 12,
+      "ref": "BG_5.012",
+      "text": "yuktaḥ karma-phalaṃ tyaktvā śāntim āpnoti naiṣṭhikīm | ayuktaḥ kāma-kāreṇa phale sakto nibadhyate ||12||"
+    },
+    {
+      "chapter": 5,
+      "verse": 13,
+      "ref": "BG_5.013",
+      "text": "sarva-karmāṇi manasā saṃnyasyāste sukhaṃ vaśī | nava-dvāre pure dehī naiva kurvan na kārayan ||13||"
+    },
+    {
+      "chapter": 5,
+      "verse": 14,
+      "ref": "BG_5.014",
+      "text": "na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ | na karma-phala-saṃyogaṃ svabhāvas tu pravartate ||14||"
+    },
+    {
+      "chapter": 5,
+      "verse": 15,
+      "ref": "BG_5.015",
+      "text": "nādatte kasya cit pāpaṃ na caiva sukṛtaṃ vibhuḥ | ajñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ ||15|| ajño jantur anīśo 'yam ātmanaḥ sukha-duḥkhayoḥ | īśvara-prerito gacchet svargaṃ vāśv abhram eva ca || yathā sannidhi-mātreṇa gandhaḥ kṣobhāya jāyate | manaso nopakartṛtvāt tathāsau parameśvaraḥ ||"
+    },
+    {
+      "chapter": 5,
+      "verse": 16,
+      "ref": "BG_5.016",
+      "text": "jñānena tu tad ajñānaṃ yeṣāṃ nāśitam ātmanaḥ | teṣām ādityavaj jñānaṃ prakāśayati tatparam ||16||"
+    },
+    {
+      "chapter": 5,
+      "verse": 17,
+      "ref": "BG_5.017",
+      "text": "tad-buddhayas tad-ātmānas tan-niṣṭhās tat-parāyaṇāḥ | gacchanty apunar-āvṛttiṃ jñāna-nirdhūta-kalmaṣāḥ ||17||"
+    },
+    {
+      "chapter": 5,
+      "verse": 18,
+      "ref": "BG_5.018",
+      "text": "vidyā-vinaya-saṃpanne brāhmaṇe gavi hastini | śuni caiva śvapāke ca paṇḍitāḥ sama-darśinaḥ ||18||"
+    },
+    {
+      "chapter": 5,
+      "verse": 19,
+      "ref": "BG_5.019",
+      "text": "ihaiva tair jitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ | nirdoṣaṃ hi samaṃ brahma tasmād brahmaṇi te sthitāḥ ||19||"
+    },
+    {
+      "chapter": 5,
+      "verse": 20,
+      "ref": "BG_5.020",
+      "text": "na prahṛṣyet priyaṃ prāpya nodvijet prāpya cāpriyam | sthira-buddhir asaṃmūḍho brahmavid brahmaṇi sthitaḥ ||20||"
+    },
+    {
+      "chapter": 5,
+      "verse": 21,
+      "ref": "BG_5.021",
+      "text": "bāhya-sparśeṣv asaktātmā vindaty ātmani yat sukham | sa brahma-yoga-yuktātmā sukham akṣayam aśnute ||21||"
+    },
+    {
+      "chapter": 5,
+      "verse": 22,
+      "ref": "BG_5.022",
+      "text": "ye hi saṃsparśajā bhogā duḥkha-yonaya eva te | ādy-anta-vantaḥ kaunteya na teṣu ramate budhaḥ ||22||"
+    },
+    {
+      "chapter": 5,
+      "verse": 23,
+      "ref": "BG_5.023",
+      "text": "śaknotīhaiva yaḥ soḍhuṃ prāk śarīra-vimokṣaṇāt | kāma-krodhodbhavaṃ vegaṃ sa yuktaḥ sa sukhī naraḥ ||23||"
+    },
+    {
+      "chapter": 5,
+      "verse": 24,
+      "ref": "BG_5.024",
+      "text": "yo 'ntaḥ-sukho 'ntarārāmas tathāntar-jyotir eva yaḥ | sa yogī brahma-nirvāṇaṃ brahma-bhūto 'dhigacchati ||24||"
+    },
+    {
+      "chapter": 5,
+      "verse": 25,
+      "ref": "BG_5.025",
+      "text": "labhante brahma-nirvāṇam ṛṣayaḥ kṣīṇa-kalmaṣāḥ | chinna-dvaidhā yatātmānaḥ sarva-bhūta-hite ratāḥ ||25||"
+    },
+    {
+      "chapter": 5,
+      "verse": 26,
+      "ref": "BG_5.026",
+      "text": "kāma-krodha-viyuktānāṃ yatīnāṃ yata-cetasām | abhito brahma-nirvāṇaṃ vartate viditātmanām ||26||"
+    },
+    {
+      "chapter": 5,
+      "verse": 27,
+      "ref": "BG_5.027",
+      "text": "sparśān kṛtvā bahir bāhyāṃś cakṣuś caivāntare bhruvoḥ | prāṇāpānau samau kṛtvā nāsābhyantara-cāriṇau ||27|| yatendriya-mano-buddhir munir mokṣa-parāyaṇaḥ | vigatecchā-bhaya-krodho yaḥ sadā mukta eva saḥ ||28||"
+    },
+    {
+      "chapter": 5,
+      "verse": 29,
+      "ref": "BG_5.029",
+      "text": "bhoktāraṃ yajña-tapasāṃ sarva-loka-maheśvaram | suhṛdaṃ sarva-bhūtānāṃ jñātvā māṃ śāntim ṛcchati ||29|| vikalpa-śaṅkāpohena yenaivaṃ sāṅkhya-yogayoḥ | samuccayaḥ krameṇoktaḥ sarvajñaṃ naumi taṃ harim || aneka-sādhanābhyāsa-niṣpannaṃ hariṇeritam | sva-svarūpa-parijñānaṃ sarveṣāṃ mukti-sādhanam ||5|| niṣkāma-karmaṇā jñānī yogī cātra vimucyate | jñātvātma-paramātmānāv ity adhyāyārtha īritaḥ || iti sārārtha-darśinyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsu pañcamo 'dhyāyaḥ saṃgataḥ saṅgataḥ satām ||5|| niṣkāma-karmaṇā yoga-śiraskena vimucyate | sa-niṣṭho jñāna-garbheṇety eṣa pañcama-nirṇayaḥ ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 1,
+      "ref": "BG_6.001",
+      "text": "anāśritaḥ karma-phalaṃ kāryaṃ karma karoti yaḥ | sa saṃnyāsī ca yogī ca na niragnir na cākriyaḥ ||1|| śrīdharaḥ : citte śuddhe 'pi na dhyānaṃ vinā saṃnyāsa-mātrataḥ | muktiḥ syād iti ṣaṣṭhe 'smin dhyāna-yogo vitanvate || madhusūdanaḥ : yoga-sūtraṃ tribhiḥ ślokaiḥ pañcamānte yad īritam | ṣaṣṭhas tv ārabhyate 'dhyāyas tad-vyākhyānāya vistarāt || viśvanāthaḥ : ṣaṣṭheṣu yogino yoga-prakāra-vijitātmanaḥ | manasaś cañcalasyāpi naiścalyopāya ucyate || baladevaḥ : ṣaṣṭhe yoga-vidhiḥ karma-śuddhasya vijitātmanaḥ | sthairyopāyaś ca manaso 'sthirasyāpīti kīrtyate ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 2,
+      "ref": "BG_6.002",
+      "text": "yaṃ saṃnyāsam iti prāhur yogaṃ taṃ viddhi pāṇḍava | na hy asaṃnyasta-saṃkalpo yogī bhavati kaścana ||2||"
+    },
+    {
+      "chapter": 6,
+      "verse": 3,
+      "ref": "BG_6.003",
+      "text": "ārurukṣor muner yogaṃ karma kāraṇam ucyate | yogārūḍhasya tasyaiva śamaḥ kāraṇam ucyate ||3||"
+    },
+    {
+      "chapter": 6,
+      "verse": 4,
+      "ref": "BG_6.004",
+      "text": "yadā hi nendriyārtheṣu na karmasv anuṣajjate | sarva-saṃkalpa-saṃnyāsī yogārūḍhas tadocyate ||4||"
+    },
+    {
+      "chapter": 6,
+      "verse": 5,
+      "ref": "BG_6.005",
+      "text": "uddhared ātmanātmānaṃ nātmānam avasādayet | ātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ ||5||"
+    },
+    {
+      "chapter": 6,
+      "verse": 6,
+      "ref": "BG_6.006",
+      "text": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ | anātmanas tu śatrutve vartetātmaiva śatruvat ||6||"
+    },
+    {
+      "chapter": 6,
+      "verse": 7,
+      "ref": "BG_6.007",
+      "text": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ | śītoṣṇa-sukha-duḥkheṣu tathā mānāpamānayoḥ ||7||"
+    },
+    {
+      "chapter": 6,
+      "verse": 8,
+      "ref": "BG_6.008",
+      "text": "jñāna-vijñāna-tṛptātmā kūṭastho vijitendriyaḥ | yukta ity ucyate yogī sama-loṣṭāśma-kāñcanaḥ ||8||"
+    },
+    {
+      "chapter": 6,
+      "verse": 9,
+      "ref": "BG_6.009",
+      "text": "suhṛn-mitrāry-udāsīna-madhyastha-dveṣya-bandhuṣu | sādhuṣv api ca pāpeṣu sama-buddhir viśiṣyate ||9||"
+    },
+    {
+      "chapter": 6,
+      "verse": 10,
+      "ref": "BG_6.010",
+      "text": "yogī yuñjīta satatam ātmānaṃ rahasi sthitaḥ | ekākī yata-cittātmā nirāśīr aparigrahaḥ ||10||"
+    },
+    {
+      "chapter": 6,
+      "verse": 11,
+      "ref": "BG_6.011",
+      "text": "śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ | nātyucchritaṃ nātinīcaṃ cailājinakuśottaram ||11|| tatraikāgraṃ manaḥ kṛtvā yata-cittendriya-kriyaḥ | upaviśyāsane yuñjyād yogam ātma-viśuddhaye ||12||"
+    },
+    {
+      "chapter": 6,
+      "verse": 13,
+      "ref": "BG_6.013",
+      "text": "samaṃ kāya-śiro-grīvaṃ dhārayann acalaṃ sthiraḥ | saṃprekṣya nāsikāgraṃ svaṃ diśaś cānavalokayan ||13|| praśāntātmā vigata-bhīr brahmacāri-vrate sthitaḥ | manaḥ saṃyamya mac-citto yukta āsīta mat-paraḥ ||14|| vyākhyātṛtve 'pi me nātra bhāṣya-kāreṇa tulyatā | guñjāyāḥ kiṃ nu hemnaika-tulārohe 'pi tulyatā ||14||"
+    },
+    {
+      "chapter": 6,
+      "verse": 15,
+      "ref": "BG_6.015",
+      "text": "yuñjann evaṃ sadātmānaṃ yogī niyata-mānasaḥ | śāntiṃ nirvāṇa-paramāṃ mat-saṃsthām adhigacchati ||15|| ijyācāra-damāhiṃsā-dāna-svādhyāya-karmaṇām | ayaṃ tu paramo dharmo yad yogenātma-darśanam || iti smṛteḥ ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 16,
+      "ref": "BG_6.016",
+      "text": "nātyaśnatas tu yogo 'sti na caikāntam anaśnataḥ | na cātisvapna-śīlasya jāgrato naiva cārjuna ||16|| athavā - pūrayed aśanenārdhaṃ tṛtīyam udakena tu | vāyoḥ saṅcaraṇārthaṃ tu caturtham avaśeṣayet || nādhmātaḥ kṣudhitaḥ śrānto na ca vyākula-cetanaḥ | yuñjīta yogaṃ rājendra yogī siddhy-artham ātmanaḥ ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 17,
+      "ref": "BG_6.017",
+      "text": "yuktāhāra-vihārasya yukta-ceṣṭasya karmasu | yukta-svapnāvabodhasya yogo bhavati duḥkha-hā ||17|| ardham aśanasya sa-vyañjanasya tṛtīyam udakasya tu | vāyoḥ saṃcāraṇārthaṃ tu caturtham avaśeṣayet ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 18,
+      "ref": "BG_6.018",
+      "text": "yadā viniyataṃ cittam ātmany evāvatiṣṭhate | niḥspṛhaḥ sarva-kāmebhyo yukta ity ucyate tadā ||18||"
+    },
+    {
+      "chapter": 6,
+      "verse": 19,
+      "ref": "BG_6.019",
+      "text": "yathā dīpo nivāta-stho neṅgate sopamā smṛtā | yogino yata- cittasya yuñjato yogam ātmanaḥ ||19||"
+    },
+    {
+      "chapter": 6,
+      "verse": 20,
+      "ref": "BG_6.020",
+      "text": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ | yasmin sthito na duḥkhena guruṇāpi vicālyate ||22|| taṃ vidyād duḥkha-saṃyoga-viyogaṃ yoga-saṃjñitam | sa niścayena yoktavyo yogo 'nirviṇṇa-cetasā ||23||"
+    },
+    {
+      "chapter": 6,
+      "verse": 24,
+      "ref": "BG_6.024",
+      "text": "saṃkalpa-prabhavān kāmāṃs tyaktvā sarvān aśeṣataḥ | manasaivendriya-grāmaṃ viniyamya samantataḥ ||24||"
+    },
+    {
+      "chapter": 6,
+      "verse": 25,
+      "ref": "BG_6.025",
+      "text": "śanaiḥ śanair uparamed buddhyā dhṛti-gṛhītayā | ātma-saṃsthaṃ manaḥ kṛtvā na kiṃcid api cintayet ||25|| indriyebhyaḥ parā hy arthā arthebhyaś ca paraṃ manaḥ | manasas tu parā buddhir buddher ātmā mahān paraḥ || ātmānātmākāraṃ svabhāvato 'sthitaṃ sadā cittam | ātmaikākāratayā tiraskṛtānātma-dṛṣṭiṃ vidadhīta ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 26,
+      "ref": "BG_6.026",
+      "text": "yato yato niścarati manaś cañcalam asthiram | tatas tato niyamyaitad ātmany eva vaśaṃ nayet ||26|| upāyena nigṛhṇīyād vikṣiptaṃ kāma-bhogayoḥ | suprasannaṃ laye caiva yathā kāmo layas tathā || duḥkhaṃ sarvam anusmṛtya kāma-bhogān nivartayet | ajaṃ sarvam anusmṛtya jātaṃ naiva tu paśyati || laye sambodhayec cittaṃ vikṣiptaṃ śamayet punaḥ | sakaṣāyaṃ vijānīyāt sama-prāptaṃ na cālayet || nāsvādayet sukhaṃ tatra niḥsaṅgaḥ prajñayā bhavet | niścalaṃ nicśarac cittam ekīkuryāt prayatnataḥ || yadā pañcāvatiṣṭhante jñānāni manasā saha | buddhiś ca na viceṣṭeta tām āhuḥ paramāṃ gatim ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 27,
+      "ref": "BG_6.027",
+      "text": "praśānta-manasaṃ hy enaṃ yoginaṃ sukham uttamam | upaiti śānta-rajasaṃ brahma-bhūtam akalmaṣam ||27||"
+    },
+    {
+      "chapter": 6,
+      "verse": 28,
+      "ref": "BG_6.028",
+      "text": "yuñjann evaṃ sadātmānaṃ yogī vigata-kalmaṣaḥ | sukhena brahma-saṃsparśam atyantaṃ sukham aśnute ||28||"
+    },
+    {
+      "chapter": 6,
+      "verse": 29,
+      "ref": "BG_6.029",
+      "text": "sarva-bhūta-stham ātmānaṃ sarva-bhūtāni cātmani | īkṣate yoga-yuktātmā sarvatra sama-darśanaḥ ||29|| dvau kramau citta-nāśasya yogo jñānaṃ ca rāghava | yogo vṛtti-nirodho hi jñānaṃ samyag-avekṣaṇam ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 30,
+      "ref": "BG_6.030",
+      "text": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati | tasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ||30||"
+    },
+    {
+      "chapter": 6,
+      "verse": 31,
+      "ref": "BG_6.031",
+      "text": "sarva-bhūta-sthitaṃ yo māṃ bhajaty ekatvam āsthitaḥ | sarvathā vartamāno 'pi sa yogī mayi vartate ||31||"
+    },
+    {
+      "chapter": 6,
+      "verse": 32,
+      "ref": "BG_6.032",
+      "text": "ātmaupamyena sarvatra samaṃ paśyati yo 'rjuna | sukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||32|| ataeva bhagavān vasiṣṭha āha - tattva-jñānaṃ mano-nāśo vāsanā-kṣaya eva ca | mithaḥ kāraṇatāṃ gatvā duḥsādhyāni sthitāni hi || bhidyate hṛdaya-granthiś chidyante sarva-saṃśayāḥ | kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare || [MuṇḍU 2.2.8] yas tu vijñānavān bhavati sa-manaskaḥ sadā śuciḥ | sa tu tat-padam āpnoti yasmād bhūyo na jāyate || [KaṭhU 1.3.8] dṛḍha-bhāvanayā tyakta-pūrvāpara-vicāraṇam | yad ādānaṃ padārthasya vāsanā sā prakīrtitā || tac-cintanaṃ tat-kathanam anyonyaṃ tat-prabodhanam | etad eka-paratvaṃ ca brahmābhyāsaṃ vidur budhāḥ || dṛśyāsambhava-bodhena rāga-dveṣādi-tānave | ratir ghanoditā yāsau brahmābhyāsaḥ sa ucyate ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 33,
+      "ref": "BG_6.033",
+      "text": "arjuna uvāca yo 'yaṃ yogas tvayā proktaḥ sāmyena madhusūdana | etasyāhaṃ na paśyāmi cañcalatvāt sthitiṃ sthirām ||33||"
+    },
+    {
+      "chapter": 6,
+      "verse": 34,
+      "ref": "BG_6.034",
+      "text": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham | tasyāhaṃ nigrahaṃ manye vāyor iva suduṣkaram ||34|| ātmānaṃ rathinaṃ viddhi śarīraṃ ratham eva ca | buddhiṃ tu sārathiṃ viddhi manaḥ pragraham eva ca || indriyāṇi hayān āhur viṣayāṃs teṣu gocarān | ātmendriya-mano-yukto bhoktety āhur manīṣiṇaḥ || [KaṭhU 1.3.3]"
+    },
+    {
+      "chapter": 6,
+      "verse": 35,
+      "ref": "BG_6.035",
+      "text": "śrī-bhagavān uvāca asaṃśayaṃ mahābāho mano durṇigrahaṃ calam | abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||35|| upaviśyopaviśyaiva cittajñena muhur muhuḥ | na śakyate mano jetuṃ vinā yuktim aninditām || aṅkuśena vinā matto yathā duṣṭa-mataṅgajaḥ | adhyātma-vidyādhigamaḥ sādhu-saṅgama eva ca || vāsanā-samparityāgaḥ prāṇa-spanda-nirodhanam | etās tā yuktayaḥ puṣṭāḥ santi citta-jaye kila || dve bīje citta-vṛkṣasya prāṇa-spandana-vāsane | ekasmiṃś ca tayoḥ kṣīṇe kṣipraṃ dve api naśyataḥ || prāṇāyāma-dṛḍhābhyāsair yuktyā ca guru-dattayā | āsanāśana-yogena prāṇa-spando nirudhyate || asaṅga-vyavahāritvād bhava-bhāvana-varjanāt | śarīra-nāśa-darśitvād vāsanā na pravartate || vāsanā-samparityāgāc cittaṃ gacchaty acittatām | prāṇa-spanda-nirodhāc ca yathecchasi tathā kuru || etāvan mātrakaṃ manye rūpaṃ cittasya rāghava | yad bhāvanaṃ vastuno 'ntarvastutvena rasena ca || yadā na bhāvyate kiṃcid dheyopādeya-rūpi yat | sthīyate sakalaṃ tyaktvā tadā cittaṃ na jāyate ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 36,
+      "ref": "BG_6.036",
+      "text": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ | vaśyātmanā tu yatatā śakyo 'vāptum upāyataḥ ||36|| sarvam eveha hi sadā saṃsāre raghunandana | samyak prayuktāt sarveṇa pauruṣāt samavāpyate || ucchāstraṃ śāstritaṃ ceti pauruṣaṃ dvividhaṃ smṛtam | tatrocchāstram anarthāya paramārthāya śāstritam || śubhāśubhābhyāṃ mārgābhyāṃ vahantī vāsanā sarit | pauruṣeṇa prayatnena yojanīyā śubhe pathi || aśubheṣu samāviṣṭaṃ śubheṣv evāvatāraya | sva-manaḥ puruṣārthena balena balināṃ vara || drāg-abhyāsa-vaśād yāti yadā te vāsanodayam | tadābhyāsasya sāphalyaṃ viddhi tvam ari-mardana || sandigdhāyām api bhṛśaṃ śubhām eva samāhara | śubhāyāṃ vāsanā-vṛddhau tāta doṣo na kaścana || avyutpanna-manā yāvad bhavān ajñāta-tatpadaḥ | guru-śāstra-pramāṇais tvaṃ nirṇītaṃ tāvad ācara ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 37,
+      "ref": "BG_6.037",
+      "text": "arjuna uvāca ayatiḥ śraddhayopeto yogāc calita-mānasaḥ | aprāpya yoga-saṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati ||37||"
+    },
+    {
+      "chapter": 6,
+      "verse": 38,
+      "ref": "BG_6.038",
+      "text": "kaccin nobhaya-vibhraṣṭaś chinnābhram iva naśyati | apratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi ||38||"
+    },
+    {
+      "chapter": 6,
+      "verse": 39,
+      "ref": "BG_6.039",
+      "text": "etan me saṃśayaṃ kṛṣṇa chettum arhasy aśeṣataḥ | tvad-anyaḥ saṃśayasyāsya chettā na hy upapadyate ||39||"
+    },
+    {
+      "chapter": 6,
+      "verse": 40,
+      "ref": "BG_6.040",
+      "text": "śrī-bhagavān uvāca pārtha naiveha nāmutra vināśas tasya vidyate | na hi kalyāṇa-kṛt kaścid durgatiṃ tāta gacchati ||40||"
+    },
+    {
+      "chapter": 6,
+      "verse": 41,
+      "ref": "BG_6.041",
+      "text": "prāpya puṇya-kṛtāṃ lokān uṣitvā śāśvatīḥ samāḥ | śucīnāṃ śrīmatāṃ gehe yoga-bhraṣṭo 'bhijāyate ||41||"
+    },
+    {
+      "chapter": 6,
+      "verse": 42,
+      "ref": "BG_6.042",
+      "text": "atha vā yoginām eva kule bhavati dhīmatām | etad dhi durlabhataraṃ loke janma yad īdṛśam ||42||"
+    },
+    {
+      "chapter": 6,
+      "verse": 43,
+      "ref": "BG_6.043",
+      "text": "ekām atha dvitīyāṃ vā tṛtīyāṃ bhūmikām uta | ārūḍhasya mṛtakasyātha kīdṛśī bhagavan gatiḥ || yoga-bhūmikayotkrānta-jīvitasya śarīriṇaḥ | bhūmikāṃśānusāreṇa kṣīyate pūrva-duṣkṛtam || tataḥ sura-vimāneṣu loka-pāla-pureṣu ca | merūpavana-kuñjeṣu ramate ramaṇī-sakhaḥ || tataḥ sukṛta-saṃbhāre duṣkṛte ca purākṛte | bhoga-kṣayāt parikṣīṇe jāyante yogino bhuvi || śucīnāṃ śrīmatāṃ gehe gupte guṇavatāṃ satām | janitvā yogam evaite sevante yoga-vāsitāḥ ||"
+    },
+    {
+      "chapter": 6,
+      "verse": 44,
+      "ref": "BG_6.044",
+      "text": "pūrvābhyāsena tenaiva hriyate hy avaśo 'pi saḥ | jijñāsur api yogasya śabda-brahmātivartate ||44||"
+    },
+    {
+      "chapter": 6,
+      "verse": 45,
+      "ref": "BG_6.045",
+      "text": "prayatnād yat tu yogī saṃśuddha-kilbiṣaḥ | aneka-janma-saṃsiddhas tato yāti parāṃ gatim ||45|| bahu-janma-vipakvena samyag-yoga-samādhinā | draṣṭuṃ yatante yatayaḥ śūnyāgāreṣu yat-padam || [BhP 3.24.28]"
+    },
+    {
+      "chapter": 6,
+      "verse": 46,
+      "ref": "BG_6.046",
+      "text": "tapasvibhyo 'dhiko yogī jñānibhyo 'pi mato 'dhikaḥ | karmibhyaś cādhiko yogī tasmād yogī bhavārjuna ||46||"
+    },
+    {
+      "chapter": 6,
+      "verse": 47,
+      "ref": "BG_6.047",
+      "text": "yoginām api sarveṣāṃ mad-gatenāntarātmanā | śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ ||47|| ātma-yogam avocad yo bhakti-yoga-śiromaṇim | taṃ vande paramānandaṃ mādhavaṃ bhakta-sevadhim || agrimādhyāya-ṣaṭkaṃ yad bhakti-yoga-nirūpakam | tasya sūtramayaṃ ślokā bhakta-kaṇṭha-vibhūṣaṇam || prathamena kathā-sūtraṃ gītā-śāstra-śiromaṇiḥ | dvitīyena tṛtīyena tūryeṇākāma-karma ca || jñānaṃ ca pañcamenoktaṃ yogaḥ ṣaṣṭhena kīrtitaḥ | prādhānyena tad apy etaṃ ṣaṭkaṃ karma-nirūpakam || iti sārārtha-darśinyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsu ṣaṣṭho 'dhyāyo 'yaṃ saṅgataḥ saṅgataḥ satām || gītā-kathā-sūtram avocad ādye karma dvitīyādiṣu kāma-śūnyam | tat pañcame vedana-garbham ākhyan ṣaṣṭhe tu yogojjvalitaṃ mukundaḥ ||"
+    },
+    {
+      "chapter": 7,
+      "verse": 1,
+      "ref": "BG_7.001",
+      "text": "śrī-bhagavān uvāca mayy āsakta-manāḥ pārtha yogaṃ yuñjan mad-āśrayaḥ | asaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tac chṛṇu ||1|| śrīdharaḥ - vijñeyam ātmanas tattvaṃ saṃyogaṃ samudīritam | bhajanīyam athedānīm aiśvaraṃ rūpam īryate || yad-bhaktiṃ na vinā muktir yaḥ sevyaḥ sarva-yoginām | taṃ vande paramānanda-ghanaṃ śrī-nanda-nandanam || yoginām api sarveṣāṃ madgatenāntarātmanā | śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ || [Gītā 6.47] saptame bhajanīyasya śrī-kṛṣṇaiśvaryam ucyate | na bhajante bhajante ye te cāpy uktāś caturvidhāḥ || yoginām api sarveṣāṃ madgatenāntarātmanā | śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ || [Gītā 6.47] bhaktiḥ pareśānubhavo viraktir anyatra caiṣa trika eka-kālaḥ | prapadyamānasya yathāśnataḥ syus tuṣṭiḥ puṣṭiḥ kṣud-apāyo 'nu-ghāsam || [BhP 11.2.42] kleśo 'dhikataras teṣām avyaktāsaktacetasām | avyaktā hi gatir duḥkhaṃ dehavadbhir avāpyate || [Gītā 12.5] baladevaḥ - saptame bhajanīyasya svasyaiśvaryaṃ prakīrtyate | cāturvidhyaṃ ca bhajatāṃ tathaivābhajatām api ||"
+    },
+    {
+      "chapter": 7,
+      "verse": 2,
+      "ref": "BG_7.002",
+      "text": "jñānaṃ te 'haṃ sa-vijñānam idaṃ vakṣyāmy aśeṣataḥ | yaj jñātvā neha bhūyo 'nyaj jñātavyam avaśiṣyate ||2||"
+    },
+    {
+      "chapter": 7,
+      "verse": 3,
+      "ref": "BG_7.003",
+      "text": "manuṣyāṇāṃ sahasreṣu kaś cid yatati siddhaye | yatatām api siddhānāṃ kaś cin māṃ vetti tattvataḥ ||3||"
+    },
+    {
+      "chapter": 7,
+      "verse": 4,
+      "ref": "BG_7.004",
+      "text": "bhūmir āpo 'nalo vāyuḥ khaṃ mano buddhir eva ca | ahaṃkāra itīyaṃ me bhinnā prakṛtir aṣṭadhā ||4||"
+    },
+    {
+      "chapter": 7,
+      "verse": 5,
+      "ref": "BG_7.005",
+      "text": "apareyam itas tv anyāṃ prakṛtiṃ viddhi me parām | jīva-bhūtāṃ mahā-bāho yayedaṃ dhāryate jagat ||5||"
+    },
+    {
+      "chapter": 7,
+      "verse": 6,
+      "ref": "BG_7.006",
+      "text": "etad-yonīni bhūtāni sarvāṇīty upadhāraya | ahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayas tathā ||6||"
+    },
+    {
+      "chapter": 7,
+      "verse": 7,
+      "ref": "BG_7.007",
+      "text": "mattaḥ parataraṃ nānyat kiñcid asti dhanañjaya | mayi sarvam idaṃ protaṃ sūtre maṇi-gaṇā iva ||7|| vedāham etaṃ puruṣaṃ mahāntam ādity-varṇaṃ tamasaḥ parastāt | tam eva vidvān amṛta iha bhavati nānyaḥ panthā vidyate 'nayanāya || iti [ŚvetU 3.8]"
+    },
+    {
+      "chapter": 7,
+      "verse": 8,
+      "ref": "BG_7.008",
+      "text": "raso 'ham apsu kaunteya prabhāsmi śaśi-sūryayoḥ | praṇavaḥ sarva-vedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||8||"
+    },
+    {
+      "chapter": 7,
+      "verse": 9,
+      "ref": "BG_7.009",
+      "text": "puṇyo gandhaḥ pṛthivyāṃ ca tejaś cāsmi vibhāvasau | jīvanaṃ sarva-bhūteṣu tapaś cāsmi tapasviṣu ||9||"
+    },
+    {
+      "chapter": 7,
+      "verse": 10,
+      "ref": "BG_7.010",
+      "text": "bījaṃ māṃ sarva-bhūtānāṃ viddhi pārtha sanātanam | buddhir buddhimatām asmi tejas tejasvinām aham ||10||"
+    },
+    {
+      "chapter": 7,
+      "verse": 11,
+      "ref": "BG_7.011",
+      "text": "balaṃ balavatāṃ cāhaṃ kāma-rāga-vivarjitam | dharmāviruddho bhūteṣu kāmo 'smi bharatarṣabha ||11||"
+    },
+    {
+      "chapter": 7,
+      "verse": 12,
+      "ref": "BG_7.012",
+      "text": "ye caiva sāttvikā bhāvā rājasās tāmasāś ca ye | matta eveti tān viddhi na tv ahaṃ teṣu te mayi ||12||"
+    },
+    {
+      "chapter": 7,
+      "verse": 13,
+      "ref": "BG_7.013",
+      "text": "tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṃ jagat | mohitaṃ nābhijānāti mām ebhyaḥ param avyayam ||13||"
+    },
+    {
+      "chapter": 7,
+      "verse": 14,
+      "ref": "BG_7.014",
+      "text": "daivī hy eṣā guṇa-mayī mama māyā duratyayā | mām eva ye prapadyante māyām etāṃ taranti te ||14||"
+    },
+    {
+      "chapter": 7,
+      "verse": 15,
+      "ref": "BG_7.015",
+      "text": "na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ | māyayāpahṛta-jñānā āsuraṃ bhāvam āśritāḥ ||15|| avidyāyām antare vartamānāḥ svayaṃ dhīrāḥ paṇḍitaṃmanyamānāḥ | dandramyamāṇāḥ pariyanti mūḍhā andhenaiva nīyamānā yathāndhāḥ || [KaṭhU 1.2.5]"
+    },
+    {
+      "chapter": 7,
+      "verse": 16,
+      "ref": "BG_7.016",
+      "text": "catur-vidhā bhajante māṃ janāḥ sukṛtino 'rjuna | ārto jijñāsur arthārthī jñānī ca bharatarṣabha ||16||"
+    },
+    {
+      "chapter": 7,
+      "verse": 17,
+      "ref": "BG_7.017",
+      "text": "teṣāṃ jñānī nitya-yukta eka-bhaktir viśiṣyate | priyo hi jñānino 'tyartham ahaṃ sa ca mama priyaḥ ||17||"
+    },
+    {
+      "chapter": 7,
+      "verse": 18,
+      "ref": "BG_7.018",
+      "text": "udārāḥ sarva evaite jñānī tv ātmaiva me matam | āsthitaḥ sa hi yuktātmā mām evānuttamāṃ gatim ||18||"
+    },
+    {
+      "chapter": 7,
+      "verse": 19,
+      "ref": "BG_7.019",
+      "text": "bahūnāṃ janmanām ante jñānavān māṃ prapadyate | vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ ||19||"
+    },
+    {
+      "chapter": 7,
+      "verse": 20,
+      "ref": "BG_7.020",
+      "text": "kāmais tais tair hṛta-jñānāḥ prapadyante 'nya-devatāḥ | taṃ taṃ niyamam āsthāya prakṛtyā niyatāḥ svayā ||20||"
+    },
+    {
+      "chapter": 7,
+      "verse": 21,
+      "ref": "BG_7.021",
+      "text": "yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitum icchati | tasya tasyācalāṃ śraddhāṃ tām eva vidadhāmy aham ||21||"
+    },
+    {
+      "chapter": 7,
+      "verse": 22,
+      "ref": "BG_7.022",
+      "text": "sa tayā śraddhayā yuktas tasyā rādhanam īhate | labhate ca tataḥ kāmān mayaiva vihitān hi tān ||22||"
+    },
+    {
+      "chapter": 7,
+      "verse": 23,
+      "ref": "BG_7.023",
+      "text": "antavat tu phalaṃ teṣāṃ tad bhavaty alpa-medhasām | devān deva-yajo yānti mad-bhaktā yānti mām api ||23||"
+    },
+    {
+      "chapter": 7,
+      "verse": 24,
+      "ref": "BG_7.024",
+      "text": "avyaktaṃ vyaktim āpannaṃ manyante mām abuddhayaḥ | paraṃ bhāvam ajānanto mamāvyayam anuttamam ||24|| athāpi te deva padāmbuja-dvaya- prasāda-leśānugṛhīta eva hi | jānāti tattvaṃ bhagavan mahimno na cānya eko 'pi ciraṃ vicinvan || [BhP 10.14.29]"
+    },
+    {
+      "chapter": 7,
+      "verse": 25,
+      "ref": "BG_7.025",
+      "text": "nāhaṃ prakāśaḥ sarvasya yoga-māyā-samāvṛtaḥ | mūḍho 'yaṃ nābhijānāti loko mām ajam avyayam ||25||"
+    },
+    {
+      "chapter": 7,
+      "verse": 26,
+      "ref": "BG_7.026",
+      "text": "vedāhaṃ samatītāni vartamānāni cārjuna | bhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana ||26||"
+    },
+    {
+      "chapter": 7,
+      "verse": 27,
+      "ref": "BG_7.027",
+      "text": "icchā-dveṣa-samutthena dvandva-mohena bhārata | sarva-bhūtāni saṃmohaṃ sarge yānti parantapa ||27||"
+    },
+    {
+      "chapter": 7,
+      "verse": 28,
+      "ref": "BG_7.028",
+      "text": "yeṣāṃ tv anta-gataṃ pāpaṃ janānāṃ puṇya-karmaṇām | te dvandva-moha-nirmuktā bhajante māṃ dṛḍha-vratāḥ ||28|| yaṃ na yogena sāṅkhyena dāna-vrata-tapo- 'dhvaraiḥ | vyākhyā-svādhyāya-sannyāsaiḥ prāpnuyād yatnavān api || [BhP 11.12.9]"
+    },
+    {
+      "chapter": 7,
+      "verse": 29,
+      "ref": "BG_7.029",
+      "text": "jarā-maraṇa-mokṣāya mām āśritya yatanti ye | te brahma tad viduḥ kṛtsnam adhyātmaṃ karma cākhilam ||29||"
+    },
+    {
+      "chapter": 7,
+      "verse": 30,
+      "ref": "BG_7.030",
+      "text": "sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ | prayāṇa-kāle 'pi ca māṃ te vidur yukta-cetasaḥ ||30|| kṛṣṇa-bhaktair ayatnena brahma-jñānam avāpyate | iti vijñāna-yogārthaṃ saptame saṃprakāśitam || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsu saptamo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām ||7|| māṃ vidus tattvato bhaktā man-māyām uttaranti te | te punaḥ pañcadhety eṣa saptamasya vinirṇayaḥ ||"
+    },
+    {
+      "chapter": 8,
+      "verse": 1,
+      "ref": "BG_8.001",
+      "text": "arjuna uvāca kiṃ tad brahma kim adhyātmaṃ kiṃ karma puruṣottama | adhibhūtaṃ ca kiṃ proktam adhidaivaṃ kim ucyate ||1|| śrīdharaḥ - brahma-karmādhibhūtādi viduḥ kṛṣṇaika-cetasaḥ | ity uktaṃ brahma-karmādi spaṣṭam aṣṭama ucyate || pārtha-praśnottaraṃ yogaṃ miśrāṃ bhaktiṃ prasaṅgataḥ | śuddhāṃ ca bhaktiṃ provāca dve gatī api cāsṭame || baladevaḥ - utkān pṛṣṭaḥ kramād vyākhyad brahmādīn harir aṣṭame | yoga-miśrāṃ ca śuddhāṃ ca bhakti-mārga-dvayaṃ tathā ||"
+    },
+    {
+      "chapter": 8,
+      "verse": 2,
+      "ref": "BG_8.002",
+      "text": "adhiyajñaḥ kathaṃ ko 'tra dehe 'smin madhusūdana | prayāṇakāle ca kathaṃ jñeyo 'si niyatātmabhiḥ ||2||"
+    },
+    {
+      "chapter": 8,
+      "verse": 3,
+      "ref": "BG_8.003",
+      "text": "śrībhagavān uvāca-- akṣaraṃ brahma paramaṃ svabhāvo 'dhyātmam ucyate | bhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ ||3|| agnau prāstāhutiḥ samyag ādityam upatiṣṭhate | ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajā ||"
+    },
+    {
+      "chapter": 8,
+      "verse": 4,
+      "ref": "BG_8.004",
+      "text": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaś cādhidaivatam | adhiyajño 'ham evātra dehe dehabhṛtāṃ vara ||4|| dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte | tayor anyaḥ pippalaṃ svādv atty anaśnann anyo 'bhicākaśīti || [MuṇḍU 7.1.1] sa vai śarīrī prathamaḥ sa vai puruṣa ucyate | ādikartā sa bhūtānāṃ brahmāgre samavartata ||"
+    },
+    {
+      "chapter": 8,
+      "verse": 5,
+      "ref": "BG_8.005",
+      "text": "anta-kāle ca mām eva smaran muktvā kalevaram | yaḥ prayāti sa madbhāvaṃ yāti nāsty atra saṃśayaḥ ||5||"
+    },
+    {
+      "chapter": 8,
+      "verse": 6,
+      "ref": "BG_8.006",
+      "text": "yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram | taṃ tam evaiti kaunteya sadā tadbhāvabhāvitaḥ ||6||"
+    },
+    {
+      "chapter": 8,
+      "verse": 7,
+      "ref": "BG_8.007",
+      "text": "tasmāt sarveṣu kāleṣu mām anusmara yudhya ca | mayy arpitamanobuddhir mām evaiṣyasy asaṃśayaḥ ||7||"
+    },
+    {
+      "chapter": 8,
+      "verse": 8,
+      "ref": "BG_8.008",
+      "text": "abhyāsa-yoga-yuktena cetasā nānya-gāminā | paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8||"
+    },
+    {
+      "chapter": 8,
+      "verse": 9,
+      "ref": "BG_8.009",
+      "text": "kaviṃ purāṇam anuśāsitāram aṇor aṇīyāṃsam anusmared yaḥ | sarvasya dhātāram acintya-rūpam āditya-varṇaṃ tamasaḥ parastāt ||9||"
+    },
+    {
+      "chapter": 8,
+      "verse": 10,
+      "ref": "BG_8.010",
+      "text": "prayāṇa-kāle manasācalena bhaktyā yukto yoga-balena caiva | bhruvor madhye prāṇam āveśya samyak sa taṃ paraṃ puruṣam upaiti divyam ||10||"
+    },
+    {
+      "chapter": 8,
+      "verse": 11,
+      "ref": "BG_8.011",
+      "text": "sarve vedā yatpadamāmananti tapāṃsi sarvāṇi ca yadvadanti | yadicchanto brahmacaryaṃ caranti tatte padaṃ saṃgraheṇa bravīmy om ity etat || (KaṭhaU 1.2.15)"
+    },
+    {
+      "chapter": 8,
+      "verse": 12,
+      "ref": "BG_8.012",
+      "text": "sarva-dvārāṇi saṃyamya mano hṛdi nirudhya ca | mūrdhny ādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām ||12|| om ity ekākṣaraṃ brahma vyāharan mām anusmaran | yaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim ||13||"
+    },
+    {
+      "chapter": 8,
+      "verse": 14,
+      "ref": "BG_8.014",
+      "text": "ananya-cetāḥ satataṃ yo māṃ smarati nityaśaḥ | tasyāhaṃ sulabhaḥ pārtha nitya-yuktasya yoginaḥ ||14||"
+    },
+    {
+      "chapter": 8,
+      "verse": 15,
+      "ref": "BG_8.015",
+      "text": "mām upetya punar janma duḥkhālayam aśāśvatam | nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||15||"
+    },
+    {
+      "chapter": 8,
+      "verse": 16,
+      "ref": "BG_8.016",
+      "text": "ā brahma-bhuvanāl lokāḥ punar-āvartino 'rjuna | mām upetya tu kaunteya punar-janma na vidyate ||16||"
+    },
+    {
+      "chapter": 8,
+      "verse": 17,
+      "ref": "BG_8.017",
+      "text": "sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ | rātriṃ yuga-sahasrāntāṃ te 'horātra-vido janāḥ ||17||"
+    },
+    {
+      "chapter": 8,
+      "verse": 18,
+      "ref": "BG_8.018",
+      "text": "avyaktād vyaktayaḥ sarvāḥ prabhavanty aharāgame | rātryāgame pralīyante tatraivāvyaktasaṃjñake ||18||"
+    },
+    {
+      "chapter": 8,
+      "verse": 19,
+      "ref": "BG_8.019",
+      "text": "bhūta-grāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate | rātry-āgame 'vaśaḥ pārtha prabhavaty aharāgame ||19||"
+    },
+    {
+      "chapter": 8,
+      "verse": 20,
+      "ref": "BG_8.020",
+      "text": "paras tasmāt tu bhāvo 'nyo 'vyakto 'vyaktāt sanātanaḥ | yaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati ||20||"
+    },
+    {
+      "chapter": 8,
+      "verse": 21,
+      "ref": "BG_8.021",
+      "text": "avyakto 'kṣara ity uktas tam āhuḥ paramāṃ gatim | yaṃ prāpya na nivartante tad dhāma paramaṃ mama ||21||"
+    },
+    {
+      "chapter": 8,
+      "verse": 22,
+      "ref": "BG_8.022",
+      "text": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyas tv ananyayā | yasyāntaḥ-sthāni bhūtāni yena sarvam idaṃ tatam ||22|| yasmāt paraṃ nāparam asti kiṃcid yasmān nāṇīyo na jyāyo 'sti kaścit | vṛkṣa eva stabdho divi tisṭhaty ekas tenedaṃ pūrṇaṃ puruṣeṇa sarvam | yat kiṃcit jagat sarvaṃ dṛśyate śrūyate 'pi vā | antar bahiś ca tat sarvaṃ vyāpya nārāyaṇaḥ sthitaḥ ||"
+    },
+    {
+      "chapter": 8,
+      "verse": 23,
+      "ref": "BG_8.023",
+      "text": "yatra kāle tv anāvṛttim āvṛttiṃ caiva yoginaḥ | prayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||23||"
+    },
+    {
+      "chapter": 8,
+      "verse": 24,
+      "ref": "BG_8.024",
+      "text": "agnir jyotir ahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam | tatra prayātā gacchanti brahma brahma-vido janāḥ ||24||"
+    },
+    {
+      "chapter": 8,
+      "verse": 25,
+      "ref": "BG_8.025",
+      "text": "dhūmo rātris tathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam | tatra cāndramasaṃ jyotir yogī prāpya nivartate ||25||"
+    },
+    {
+      "chapter": 8,
+      "verse": 26,
+      "ref": "BG_8.026",
+      "text": "śukla-kṛṣṇe gatī hy ete jagataḥ śāśvate mate | ekayā yāty anāvṛttim anyayāvartate punaḥ ||26||"
+    },
+    {
+      "chapter": 8,
+      "verse": 27,
+      "ref": "BG_8.027",
+      "text": "naite sṛtī pārtha jānan yogī muhyati kaścana | tasmāt sarveṣu kāleṣu yoga-yukto bhavārjuna ||27||"
+    },
+    {
+      "chapter": 8,
+      "verse": 28,
+      "ref": "BG_8.028",
+      "text": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yat puṇyaphalaṃ | atyeti tat sarvam idaṃ viditvā yogī paraṃ sthānam upaiti cādyam ||28|| aṣṭame 'ṣṭa viśiṣṭe 'ṣṭa-saṃpṛṣṭārtha-vinirṇayaiḥ | akliṣṭam iṣṭa-dhāmāptiḥ spaṣṭitotkṛṣṭa-vartmanā || bhaktānāṃ sarvataḥ śraiṣṭhyaṃ pūrvoktaṃ teṣv api sphuṭam | ananya-bhaktasyety artho 'trādhyāye vyañjito 'bhavat || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | śrī-gītāsv asṭamo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām ||8|| kṛṣṇāṃśaḥ puruṣo yoga-bhaktyā labhyo 'rcir-ādibhiḥ | kṛṣṇas tv ananya-bhaktyaivety aṣṭamasya vinirṇayaḥ ||"
+    },
+    {
+      "chapter": 9,
+      "verse": 1,
+      "ref": "BG_9.001",
+      "text": "śrī-bhagavān uvāca idaṃ tu te guhyatamaṃ pravakṣyāmy anasūyave | jñānaṃ vijñāna-sahitaṃ yaj jñātvā mokṣyase 'śubhāt ||1|| pareśaḥ prāpyate śuddha-bhaktyeti sthitam aṣṭame | navame tu tad-aiśvaryam atyāścaryaṃ prapañcyate || ārādhyatve prabhor dāsair aiśvaryaṃ yad apekṣitam | tat śuddha-bhakter utkarṣaś cocyate navame sphuṭam || bhakty-uddīpti-karaṃ svasya pāramaiśvaryam adbhutam | sva-bhakteś ca mahotkarṣaṃ navame harir ūcivān ||"
+    },
+    {
+      "chapter": 9,
+      "verse": 2,
+      "ref": "BG_9.002",
+      "text": "rāja-vidyā rāja-guhyaṃ pavitram idam uttamam | pratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartum avyayam ||2|| bhaktiḥ pareśānubhavo viraktir anyatra caiṣa trika eka-kālaḥ | prapadyamānasya yathāśnataḥ syus tuṣṭiḥ puṣṭiḥ kṣud-apāyo 'nu-ghāsam || [BhP 11.2.42]"
+    },
+    {
+      "chapter": 9,
+      "verse": 3,
+      "ref": "BG_9.003",
+      "text": "aśraddadhānāḥ puruṣā dharmasyāsya paraṃtapa | aprāpya māṃ nivartante mṛtyu-saṃsāra-vartmani ||3||"
+    },
+    {
+      "chapter": 9,
+      "verse": 4,
+      "ref": "BG_9.004",
+      "text": "mayā tatam idaṃ sarvaṃ jagad avyakta-mūrtinā | mat-sthāni sarva-bhūtāni na cāhaṃ teṣv avasthitaḥ ||4||"
+    },
+    {
+      "chapter": 9,
+      "verse": 5,
+      "ref": "BG_9.005",
+      "text": "na ca mat-sthāni bhūtāni paśya me yogam aiśvaram | bhūta-bhṛn na ca bhūta-stho mamātmā bhūta-bhāvanaḥ ||5||"
+    },
+    {
+      "chapter": 9,
+      "verse": 6,
+      "ref": "BG_9.006",
+      "text": "yathākāśa-sthito nityaṃ vāyuḥ sarvatra-go mahān | tathā sarvāṇi bhūtāni mat-sthānīty upadhāraya ||6||"
+    },
+    {
+      "chapter": 9,
+      "verse": 7,
+      "ref": "BG_9.007",
+      "text": "sarva-bhūtāni kaunteya prakṛtiṃ yānti māmikām | kalpa-kṣaye punas tāni kalpādau visṛjāmy aham ||7||"
+    },
+    {
+      "chapter": 9,
+      "verse": 8,
+      "ref": "BG_9.008",
+      "text": "prakṛtiṃ svām avaṣṭabhya visṛjāmi punaḥ punaḥ | bhūta-grāmam imaṃ kṛtsnam avaśaṃ prakṛter vaśāt ||8||"
+    },
+    {
+      "chapter": 9,
+      "verse": 9,
+      "ref": "BG_9.009",
+      "text": "na ca māṃ tāni karmāṇi nibadhnanti dhanaṃjaya | udāsīnavad āsīnam asaktaṃ teṣu karmasu ||9||"
+    },
+    {
+      "chapter": 9,
+      "verse": 10,
+      "ref": "BG_9.010",
+      "text": "mayādhyakṣeṇa prakṛtiḥ sūyate sa-carācaram | hetunānena kaunteya jagad viparivartate ||10||"
+    },
+    {
+      "chapter": 9,
+      "verse": 11,
+      "ref": "BG_9.011",
+      "text": "avajānanti māṃ mūḍhā mānuṣīṃ tanum āśritam | paraṃ bhāvam ajānanto mama bhūta-maheśvaram ||11|| sat-puṇḍarīka-nayanaṃ meghābhaṃ vaidyutāmbaram | dvi-bhujaṃ mauna-mudrāḍhyaṃ vana-mālinam īśvaram || [GTU 1.9]"
+    },
+    {
+      "chapter": 9,
+      "verse": 12,
+      "ref": "BG_9.012",
+      "text": "moghāśā mogha-karmāṇo mogha-jñānā vicetasaḥ | rākṣasīm āsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ ||12||"
+    },
+    {
+      "chapter": 9,
+      "verse": 13,
+      "ref": "BG_9.013",
+      "text": "mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ | bhajanty ananya-manaso jñātvā bhūtādim avyayam ||13||"
+    },
+    {
+      "chapter": 9,
+      "verse": 14,
+      "ref": "BG_9.014",
+      "text": "satataṃ kīrtayanto māṃ yatantaś ca dṛḍhavratāḥ | namasyantaś ca māṃ bhaktyā nityayuktā upāsate || 14 || śravaṇaṃ kīrtanaṃ viṣṇoḥ smaraṇaṃ pāda-sevanam | arcanaṃ vandanaṃ dāsyaṃ sakhyam ātma-nivedanam || [BhP 7.5.23] yasya deve parā bhaktiḥ yathā deve tathā gurau | tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ || [ŚvetU 6.23]"
+    },
+    {
+      "chapter": 9,
+      "verse": 15,
+      "ref": "BG_9.015",
+      "text": "jñāna-yajñena cāpy anye yajanto mām upāsate | ekatvena pṛthaktvena bahudhā viśvato-mukham ||15||"
+    },
+    {
+      "chapter": 9,
+      "verse": 16,
+      "ref": "BG_9.016",
+      "text": "pitāham asya jagato mātā dhātā pitāmahaḥ | vedyaṃ pavitram oṃkāra ṛk sāma yajur eva ca ||17|| gatir bhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt | prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījam avyayam ||18|| tapāmy aham ahaṃ varṣaṃ nigṛhṇāmy utsṛjāmi ca | amṛtaṃ caiva mṛtyuś ca sad asac cāham arjuna ||19||"
+    },
+    {
+      "chapter": 9,
+      "verse": 20,
+      "ref": "BG_9.020",
+      "text": "traividyā māṃ somapāḥ pūta-pāpā yajñair iṣṭvā svar-gatiṃ prārthayante | te puṇyam āsādya surendra-lokam aśnanti divyān divi deva-bhogān ||20||"
+    },
+    {
+      "chapter": 9,
+      "verse": 21,
+      "ref": "BG_9.021",
+      "text": "te taṃ bhuktvā svarga-lokaṃ viśālaṃ kṣīṇe puṇye martya-lokaṃ viśanti | evaṃ trayī-dharmam anuprapannā gatāgataṃ kāma-kāmā labhante ||21||"
+    },
+    {
+      "chapter": 9,
+      "verse": 22,
+      "ref": "BG_9.022",
+      "text": "ananyāś cintayanto māṃ ye janāḥ paryupāsate | teṣāṃ nityābhiyuktānāṃ yoga-kṣemaṃ vahāmy aham ||22||"
+    },
+    {
+      "chapter": 9,
+      "verse": 23,
+      "ref": "BG_9.023",
+      "text": "ye 'py anya-devatā-bhaktā yajante śraddhayānvitāḥ | te 'pi mām eva kaunteya yajanty avidhi-pūrvakam ||23||"
+    },
+    {
+      "chapter": 9,
+      "verse": 24,
+      "ref": "BG_9.024",
+      "text": "ahaṃ hi sarva-yajñānāṃ bhoktā ca prabhur eva ca | na tu mām abhijānanti tattvenātaś cyavanti te ||24||"
+    },
+    {
+      "chapter": 9,
+      "verse": 25,
+      "ref": "BG_9.025",
+      "text": "yānti deva-vratā devān pitṝn yānti pitṛ-vratāḥ | bhūtāni yānti bhūtejyā yānti mad-yājino 'pi mām ||25||"
+    },
+    {
+      "chapter": 9,
+      "verse": 26,
+      "ref": "BG_9.026",
+      "text": "patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati | tad ahaṃ bhakty-upahṛtam aśnāmi prayatātmanaḥ ||26||"
+    },
+    {
+      "chapter": 9,
+      "verse": 27,
+      "ref": "BG_9.027",
+      "text": "yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat | yat tapasyasi kaunteya tat kuruṣva mad-arpaṇam ||27||"
+    },
+    {
+      "chapter": 9,
+      "verse": 28,
+      "ref": "BG_9.028",
+      "text": "śubhāśubha-phalair evaṃ mokṣyase karma-bandhanaiḥ | saṃnyāsa-yoga-yuktātmā vimukto mām upaiṣyasi ||28||"
+    },
+    {
+      "chapter": 9,
+      "verse": 29,
+      "ref": "BG_9.029",
+      "text": "samo 'haṃ sarvabhūteṣu na me dveṣyo 'sti na priyaḥ | ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham ||29||"
+    },
+    {
+      "chapter": 9,
+      "verse": 30,
+      "ref": "BG_9.030",
+      "text": "api cet sudurācāro bhajate mām ananya-bhāk | sādhur eva sa mantavyaḥ samyag vyavasito hi saḥ ||30||"
+    },
+    {
+      "chapter": 9,
+      "verse": 31,
+      "ref": "BG_9.031",
+      "text": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati | kaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||31||"
+    },
+    {
+      "chapter": 9,
+      "verse": 32,
+      "ref": "BG_9.032",
+      "text": "māṃ hi pārtha vyapāśritya ye 'pi syuḥ pāpayonayaḥ | striyo vaiśyās tathā śūdrās te 'pi yānti parāṃ gatim ||32|| aho bata śva-paco 'to garīyān yaj-jihvāgre vartate nāma tubhyam | tepus tapas te juhuvuḥ sasnur āryā brahmānūcur nāma gṛṇanti ye te || [BhP 3.33.6-7]"
+    },
+    {
+      "chapter": 9,
+      "verse": 33,
+      "ref": "BG_9.033",
+      "text": "kiṃ punar brāhmaṇāḥ puṇyā bhaktā rājarṣayas tathā | anityam asukhaṃ lokam imaṃ prāpya bhajasva mām ||33||"
+    },
+    {
+      "chapter": 9,
+      "verse": 34,
+      "ref": "BG_9.034",
+      "text": "man-manā bhava mad-bhakto mad-yājī māṃ namaskuru | mām evaiṣyasi yuktvaivam ātmānaṃ mat-parāyaṇaḥ ||34|| nijam aiśvaryam āścaryaṃ bhakteś cādbhuta-vaibhavam | navame rāja-guhyākhye kṛpayāvocad acyutaḥ || śrī-govinda-padāravinda-makarandāsvāda-śuddhāśayāḥ saṃsārāmbudhim uttaranti sahasā paśyanti pūrṇaṃ mahaḥ | vedāntair avadhārayanti paramaṃ śreyas tyajanti bhramaṃ dvaitaṃ svapna-samaṃ vidanti vimalāṃ vindanti cānandatām || pātrāpātra-vicāritvaṃ sva-sparśāt sarva-śodhanam | bhakter evātraitad asyāḥ rāja-guhyatvam īkṣyate || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsu navamo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām || pātrāpātra-dhiyā śūnyā sparśāt sarvāgha-nāśinī | gaṅgeva bhaktir eveti rāja-guhyam iha smṛtā ||"
+    },
+    {
+      "chapter": 10,
+      "verse": 1,
+      "ref": "BG_10.001",
+      "text": "śrī-bhagavān uvāca bhūya eva mahābāho śṛṇu me paramaṃ vacaḥ | yat te 'haṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||1|| śrīdharaḥ : uktāḥ saṅkṣepataḥ pūrvaṃ saptamādau vibhūtayaḥ | daśame tā vitanyante sarvatreśvara-dṛṣṭaye || viśvanāthaḥ : aiśvaraṃ jñāpayitvoce bhaktiṃ yat saptamādiṣu | sa-rahasyaṃ tad evoktaṃ daśame sa-vibhūtikam || baladevaḥ : saptamādau nijaiśvaryaṃ bhakti-hetuṃ yad īritam | vibhūti-kathanenātra daśame tat prapuṣyate ||"
+    },
+    {
+      "chapter": 10,
+      "verse": 3,
+      "ref": "BG_10.003",
+      "text": "tat tan na vāstavaṃ cet syād vidāṃ buddhi-bhramas tadā | na syād evety ato 'cintyā śaktir līlāsu kāraṇam || [LBhāg 1.5.119]"
+    },
+    {
+      "chapter": 10,
+      "verse": 4,
+      "ref": "BG_10.004",
+      "text": "ahiṃsā samatā tuṣṭis tapo dānaṃ yaśo 'yaśaḥ | bhavanti bhāvā bhūtānāṃ matta eva pṛthagvidhāḥ ||5||"
+    },
+    {
+      "chapter": 10,
+      "verse": 7,
+      "ref": "BG_10.007",
+      "text": "etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ | so 'vikampena yogena yujyate nātra saṃśayaḥ ||7||"
+    },
+    {
+      "chapter": 10,
+      "verse": 8,
+      "ref": "BG_10.008",
+      "text": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate | matvā bhajante māṃ budhā bhāva-samanvitāḥ ||8||"
+    },
+    {
+      "chapter": 10,
+      "verse": 9,
+      "ref": "BG_10.009",
+      "text": "mac-cittā mad-gata-prāṇā bodhayantaḥ parasparam | kathayantaś ca māṃ nityaṃ tuṣyanti ca ramanti ca ||9|| yac ca kāma-sukhaṃ loke yac ca divyaṃ mahat sukham | tṛṣṇā-kṣaya-sukhāyaite nārhataḥ ṣoḍaśīṃ kalām || iti ||"
+    },
+    {
+      "chapter": 10,
+      "verse": 10,
+      "ref": "BG_10.010",
+      "text": "teṣāṃ satata-yuktānāṃ bhajatāṃ prīti-pūrvakam | dadāmi buddhi-yogaṃ taṃ yena mām upayānti te ||10||"
+    },
+    {
+      "chapter": 10,
+      "verse": 11,
+      "ref": "BG_10.011",
+      "text": "teṣām evānukampārtham aham ajñānajaṃ tamaḥ | nāśayāmy ātma-bhāva-stho jñāna-dīpena bhāsvatā ||11|| śrīmad-gītā sarva-sāra-bhūtā bhūtāpatāpa-hṛt | catuḥ-ślokīyam ākhyātā khyātā sarva-niśarma-kṛt ||11|| navamādi-dvaye gītā-garbhe 'smin yat prakīrtitam | tad eva gītā-śāstrārtha-sāraṃ bodhyaṃ vicakṣaṇaiḥ ||11||"
+    },
+    {
+      "chapter": 10,
+      "verse": 12,
+      "ref": "BG_10.012",
+      "text": "arjuna uvāca paraṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān | puruṣaṃ śāśvataṃ divyam ādidevam ajaṃ vibhum ||12|| āhus tvām ṛṣayaḥ sarve devarṣir nāradas tathā | asito devalo vyāsaḥ svayaṃ caiva bravīṣi me ||13||"
+    },
+    {
+      "chapter": 10,
+      "verse": 14,
+      "ref": "BG_10.014",
+      "text": "sarvam etad ṛtaṃ manye yan māṃ vadasi keśava | na hi te bhagavan vyaktiṃ vidur devā na dānavāḥ ||14||"
+    },
+    {
+      "chapter": 10,
+      "verse": 15,
+      "ref": "BG_10.015",
+      "text": "svayam evātmanātmānaṃ vettha tvaṃ puruṣottama | bhūta-bhāvana bhūteśa deva-deva jagat-pate ||15||"
+    },
+    {
+      "chapter": 10,
+      "verse": 17,
+      "ref": "BG_10.017",
+      "text": "kathaṃ vidyām ahaṃ yogiṃs tvāṃ sadā paricintayan | keṣu keṣu ca bhāveṣu cintyo 'si bhagavan mayā ||17||"
+    },
+    {
+      "chapter": 10,
+      "verse": 18,
+      "ref": "BG_10.018",
+      "text": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana | bhūyaḥ kathaya tṛptir hi śṛṇvato nāsti me 'mṛtam ||18||"
+    },
+    {
+      "chapter": 10,
+      "verse": 19,
+      "ref": "BG_10.019",
+      "text": "śrī-bhagavān uvāca hanta te kathayiṣyāmi divyā hy ātma-vibhūtayaḥ | prādhānyataḥ kuru-śreṣṭha nāsty anto vistarasya me ||19||"
+    },
+    {
+      "chapter": 10,
+      "verse": 20,
+      "ref": "BG_10.020",
+      "text": "aham ātmā guḍākeśa sarva-bhūtāśaya-sthitaḥ | aham ādiś ca madhyaṃ ca bhūtānām anta eva ca ||20||"
+    },
+    {
+      "chapter": 10,
+      "verse": 21,
+      "ref": "BG_10.021",
+      "text": "ādityānām ahaṃ viṣṇur jyotiṣāṃ ravir aṃśumān | marīcir marutām asmi nakṣatrāṇām ahaṃ śaśī ||21||"
+    },
+    {
+      "chapter": 10,
+      "verse": 22,
+      "ref": "BG_10.022",
+      "text": "vedānāṃ sāmavedo 'smi devānām asmi vāsavaḥ | indriyāṇāṃ manaś cāsmi bhūtānām asmi cetanā ||22||"
+    },
+    {
+      "chapter": 10,
+      "verse": 23,
+      "ref": "BG_10.023",
+      "text": "rudrāṇāṃ śaṃkaraś cāsmi vitteśo yakṣa-rakṣasām | vasūnāṃ pāvakaś cāsmi meruḥ śikhariṇām aham ||23||"
+    },
+    {
+      "chapter": 10,
+      "verse": 24,
+      "ref": "BG_10.024",
+      "text": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim | senānīnām ahaṃ skandaḥ sarasām asmi sāgaraḥ ||24||"
+    },
+    {
+      "chapter": 10,
+      "verse": 25,
+      "ref": "BG_10.025",
+      "text": "maharṣīṇāṃ bhṛgur ahaṃ girām asmy ekam akṣaram | yajñānāṃ japa-yajño 'smi sthāvarāṇāṃ himālayaḥ ||25|| aśvatthaḥ sarva-vṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ | gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||26||"
+    },
+    {
+      "chapter": 10,
+      "verse": 27,
+      "ref": "BG_10.027",
+      "text": "uccaiḥśravasam aśvānāṃ viddhi mām amṛtodbhavam | airāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam ||27||"
+    },
+    {
+      "chapter": 10,
+      "verse": 28,
+      "ref": "BG_10.028",
+      "text": "āyudhānām ahaṃ vajraṃ dhenūnām asmi kāmadhuk | prajanaś cāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ ||28||"
+    },
+    {
+      "chapter": 10,
+      "verse": 29,
+      "ref": "BG_10.029",
+      "text": "anantaś cāsmi nāgānāṃ varuṇo yādasām aham | pitṝṇām aryamā cāsmi yamaḥ saṃyamatām aham ||29||"
+    },
+    {
+      "chapter": 10,
+      "verse": 30,
+      "ref": "BG_10.030",
+      "text": "prahlādaś cāsmi daityānāṃ kālaḥ kalayatām aham | mṛgāṇāṃ ca mṛgendro 'haṃ vainateyaś ca pakṣiṇām ||30||"
+    },
+    {
+      "chapter": 10,
+      "verse": 31,
+      "ref": "BG_10.031",
+      "text": "pavanaḥ pavatām asmi rāmaḥ śastrabhṛtām aham | jhaṣāṇāṃ makaraś cāsmi srotasām asmi jāhnavī ||31|| etat te kathitaṃ devi jāmadagner mahātmanaḥ | śaktyāveśāvatārasya caritaṃ śārṅgiṇaḥ prabhoḥ || [LBhāg 1.4.39]"
+    },
+    {
+      "chapter": 10,
+      "verse": 32,
+      "ref": "BG_10.032",
+      "text": "sargāṇām ādir antaś ca madhyaṃ caivāham arjuna | adhyātma-vidyā vidyānāṃ vādaḥ pravadatām aham ||32|| aṅgāni vedāś catvāro mīmāṃsā nyāya-vistaraḥ | dharma-śāstraṃ purāṇaṃ ca vidyā hy etāś caturdaśa ||"
+    },
+    {
+      "chapter": 10,
+      "verse": 33,
+      "ref": "BG_10.033",
+      "text": "akṣarāṇām akāro 'smi dvandvaḥ sāmāsikasya ca | aham evākṣayaḥ kālo dhātāhaṃ viśvatomukhaḥ ||33||"
+    },
+    {
+      "chapter": 10,
+      "verse": 34,
+      "ref": "BG_10.034",
+      "text": "mṛtyuḥ sarvaharaś cāham udbhavaś ca bhaviṣyatām | kīrtiḥ śrīr vāk ca nārīṇāṃ smṛtir medhā dhṛtiḥ kṣamā ||34||"
+    },
+    {
+      "chapter": 10,
+      "verse": 35,
+      "ref": "BG_10.035",
+      "text": "bṛhat-sāma tathā sāmnāṃ gāyatrī chandasām aham | māsānāṃ mārgaśīrṣo 'ham ṛtūnāṃ kusumākaraḥ ||35||"
+    },
+    {
+      "chapter": 10,
+      "verse": 36,
+      "ref": "BG_10.036",
+      "text": "dyūtaṃ chalayatām asmi tejas tejasvinām aham | jayo 'smi vyavasāyo 'smi sattvaṃ sattvavatām aham ||36||"
+    },
+    {
+      "chapter": 10,
+      "verse": 37,
+      "ref": "BG_10.037",
+      "text": "vṛṣṇīnāṃ vāsudevo 'smi pāṇḍavānāṃ dhanaṃjayaḥ | munīnām apy ahaṃ vyāsaḥ kavīnām uśanā kaviḥ ||37||"
+    },
+    {
+      "chapter": 10,
+      "verse": 38,
+      "ref": "BG_10.038",
+      "text": "daṇḍo damayatām asmi nītir asmi jigīṣatām | maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatām aham ||38||"
+    },
+    {
+      "chapter": 10,
+      "verse": 39,
+      "ref": "BG_10.039",
+      "text": "yac cāpi sarva-bhūtānāṃ bījaṃ tad aham arjuna | na tad asti vinā yat syān mayā bhūtaṃ carācaram ||39||"
+    },
+    {
+      "chapter": 10,
+      "verse": 40,
+      "ref": "BG_10.040",
+      "text": "nānto 'sti mama divyānāṃ vibhūtīnāṃ paraṃtapa | eṣa tūddeśataḥ prokto vibhūter vistaro mayā ||40||"
+    },
+    {
+      "chapter": 10,
+      "verse": 41,
+      "ref": "BG_10.041",
+      "text": "yad yad vibhūtimat sattvaṃ śrīmad ūrjitam eva vā | tat tad evāvagaccha tvaṃ mama tejo 'ṃśasaṃbhavam ||41||"
+    },
+    {
+      "chapter": 10,
+      "verse": 42,
+      "ref": "BG_10.042",
+      "text": "atha vā bahunaitena kiṃ jñātena tavārjuna | viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat ||42|| indriya-dvārataś citte bahir dhāvati saty api | īśa-dṛṣṭi-vidhānāya vibhūtir daśame 'bravīt || kurvanti ke 'pi kṛtinaḥ kvacid apy anante svāntaṃ vidhāya viṣyāntara-śāntim eva | tvat-pāda-padma-vigalan-makaranda-bindum āsvādya mādyati muhur madhubhin mano me || viśvaṃ śrī-kṛṣṇa evātaḥ sevas tad-dattayā dhiyā | sa evāsvādya-mādhurya ity adhyāyārtha īritaḥ || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsu daśamo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām ||10|| yac chakti-leśāt sūryādyā bhavanty atyugra-tejasaḥ | yad-aṃśena dhṛtaṃ viśvaṃ sa kṛṣṇo daśame 'rcayet ||"
+    },
+    {
+      "chapter": 11,
+      "verse": 1,
+      "ref": "BG_11.001",
+      "text": "arjuna uvāca mad-anugrahāya paramaṃ guhyam adhyātma-saṃjñitam | yat tvayoktaṃ vacas tena moho 'yaṃ vigato mama ||1|| śrīdharaḥ : vibhūti-vaibhavaṃ procya kṛpayā parayā hariḥ | didṛkṣor arjunasyātha viśva-rūpam adarśayat || ekādaśe viśvarūpaṃ dṛṣṭvā sambhrānta-dhīḥ stuvan | pārtha ānandito darśayitvā svaṃ hariṇā punaḥ || ekādaśe viśva-rūpaṃ vilokya trasta-dhīḥ stuvan | darśayitvā svakaṃ rūpaṃ hariṇā harṣito 'rjunaḥ ||"
+    },
+    {
+      "chapter": 11,
+      "verse": 2,
+      "ref": "BG_11.002",
+      "text": "bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā | tvattaḥ kamala-patrākṣa māhātmyam api cāvyayam ||2||"
+    },
+    {
+      "chapter": 11,
+      "verse": 3,
+      "ref": "BG_11.003",
+      "text": "evam etad yathāttha tvam ātmānaṃ parameśvara | draṣṭum icchāmi te rūpam aiśvaraṃ puruṣottama ||3||"
+    },
+    {
+      "chapter": 11,
+      "verse": 4,
+      "ref": "BG_11.004",
+      "text": "manyase yadi tac chakyaṃ mayā draṣṭum iti prabho | yogeśvara tato me tvaṃ darśayātmānam avyayam ||4||"
+    },
+    {
+      "chapter": 11,
+      "verse": 5,
+      "ref": "BG_11.005",
+      "text": "śrī-bhagavān uvāca paśya me pārtha rūpāṇi śataśo 'tha sahasraśaḥ | nānā-vidhāni divyāni nānā-varṇākṛtīni ca ||5||"
+    },
+    {
+      "chapter": 11,
+      "verse": 6,
+      "ref": "BG_11.006",
+      "text": "paśyādityān vasūn rudrān aśvinau marutas tathā | bahūny adṛṣṭa-pūrvāṇi paśyāścaryāṇi bhārata ||6||"
+    },
+    {
+      "chapter": 11,
+      "verse": 7,
+      "ref": "BG_11.007",
+      "text": "ihaikasthaṃ jagat kṛtsnaṃ paśyādya sa-carācaram | mama dehe guḍākeśa yac cānyad draṣṭum icchasi ||7||"
+    },
+    {
+      "chapter": 11,
+      "verse": 8,
+      "ref": "BG_11.008",
+      "text": "na tu māṃ śakyase draṣṭum anenaiva sva-cakṣuṣā | divyaṃ dadāmi te cakṣuḥ paśya me yogam aiśvaram ||8||"
+    },
+    {
+      "chapter": 11,
+      "verse": 9,
+      "ref": "BG_11.009",
+      "text": "saṃjaya uvāca evam uktvā tato rājan mahā-yogeśvaro hariḥ | darśayām āsa pārthāya paramaṃ rūpam aiśvaram ||9||"
+    },
+    {
+      "chapter": 11,
+      "verse": 10,
+      "ref": "BG_11.010",
+      "text": "aneka-vaktra-nayanam anekādbhuta-darśanam | aneka-divyābharaṇaṃ divyānekodyatāyudham ||10|| divya-mālyāmbara-dharaṃ divya-gandhānulepanam | sarvāścarya-mayaṃ devam anantaṃ viśvato-mukham ||11||"
+    },
+    {
+      "chapter": 11,
+      "verse": 12,
+      "ref": "BG_11.012",
+      "text": "divi sūrya-sahasrasya bhaved yugapad utthitā | yadi bhāḥ sadṛśī sā syād bhāsas tasya mahātmanaḥ ||12||"
+    },
+    {
+      "chapter": 11,
+      "verse": 13,
+      "ref": "BG_11.013",
+      "text": "tatraikasthaṃ jagat kṛtsnaṃ pravibhaktam anekadhā | apaśyad deva-devasya śarīre pāṇḍavas tadā ||13||"
+    },
+    {
+      "chapter": 11,
+      "verse": 14,
+      "ref": "BG_11.014",
+      "text": "tataḥ sa vismayāviṣṭo hṛṣṭa-romā dhanaṃjayaḥ | praṇamya śirasā devaṃ kṛtāñjalir abhāṣata ||14||"
+    },
+    {
+      "chapter": 11,
+      "verse": 16,
+      "ref": "BG_11.016",
+      "text": "aneka-bāhūdara-vaktra-netraṃ paśyāmi tvā sarvato 'nanta-rūpam | nāntaṃ na madhyaṃ na punas tavādiṃ paśyāmi viśveśvara viśvarūpa ||16||"
+    },
+    {
+      "chapter": 11,
+      "verse": 17,
+      "ref": "BG_11.017",
+      "text": "kirīṭinaṃ gadinaṃ cakriṇaṃ ca tejorāśiṃ sarvato dīptimantam | paśyāmi tvāṃ durnirīkṣyaṃ samantād dīptānalārka-dyutim aprameyam ||17||"
+    },
+    {
+      "chapter": 11,
+      "verse": 18,
+      "ref": "BG_11.018",
+      "text": "tvam akṣaraṃ paramaṃ veditavyaṃ tvam asya viśvasya paraṃ nidhānam | tvam avyayaḥ śāśvata-dharma-goptā sanātanas tvaṃ puruṣo mato me ||18||"
+    },
+    {
+      "chapter": 11,
+      "verse": 19,
+      "ref": "BG_11.019",
+      "text": "anādi-madhyāntam ananta-vīryam ananta-bāhuṃ śaśi-sūrya-netram | paśyāmi tvāṃ dīpta-hutāśa-vaktraṃ sva-tejasā viśvam idaṃ tapantam ||19||"
+    },
+    {
+      "chapter": 11,
+      "verse": 20,
+      "ref": "BG_11.020",
+      "text": "dyāv-āpṛthivyor idam antaraṃ hi vyāptaṃ tvayaikena diśaś ca sarvāḥ | dṛṣṭvādbhutaṃ rūpam idaṃ tavograṃ loka-trayaṃ pravyathitaṃ mahātman ||20||"
+    },
+    {
+      "chapter": 11,
+      "verse": 21,
+      "ref": "BG_11.021",
+      "text": "amī hi tvā sura-saṃghā viśanti kecid bhītāḥ prāñjalayo gṛṇanti | svastīty uktvā maharṣi-siddha-saṃghāḥ stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||21||"
+    },
+    {
+      "chapter": 11,
+      "verse": 22,
+      "ref": "BG_11.022",
+      "text": "rudrādityā vasavo ye ca sādhyā viśve 'śvinau marutaś coṣmapāś ca | gandharva-yakṣāsura-siddha-saṃghā vīkṣante tvāṃ vismitāś caiva sarve ||22||"
+    },
+    {
+      "chapter": 11,
+      "verse": 23,
+      "ref": "BG_11.023",
+      "text": "rūpaṃ mahat te bahu-vaktra-netraṃ mahābāho bahu-bāhūru-pādam | bahūdaraṃ bahu-daṃṣṭrā-karālaṃ dṛṣṭvā lokāḥ pravyathitās tathāham ||23||"
+    },
+    {
+      "chapter": 11,
+      "verse": 24,
+      "ref": "BG_11.024",
+      "text": "nabhaḥ-spṛśaṃ dīptam aneka-varṇaṃ vyāttānanaṃ dīpta-viśāla-netram | dṛṣṭvā hi tvāṃ pravyathitāntarātmā dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||24||"
+    },
+    {
+      "chapter": 11,
+      "verse": 25,
+      "ref": "BG_11.025",
+      "text": "daṃṣṭrā-karālāni ca te mukhāni dṛṣṭvaiva kālānala-saṃnibhāni | diśo na jāne na labhe ca śarma prasīda deveśa jagan-nivāsa ||25||"
+    },
+    {
+      "chapter": 11,
+      "verse": 26,
+      "ref": "BG_11.026",
+      "text": "amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ sarve sahaivāvani-pāla-saṃghaiḥ | bhīṣmo droṇaḥ sūta-putras tathāsau sahāsmadīyair api yodha-mukhyaiḥ ||26|| vaktrāṇi te tvaramāṇā viśanti daṃṣṭrākarālāni bhayānakāni | kecid vilagnā daśanāntareṣu saṃdṛśyante cūrṇitair uttamāṅgaiḥ ||27||"
+    },
+    {
+      "chapter": 11,
+      "verse": 28,
+      "ref": "BG_11.028",
+      "text": "yathā nadīnāṃ bahavo 'mbuvegāḥ samudram evābhimukhā dravanti | tathā tavāmī naralokavīrā viśanti vaktrāṇy abhivijvalanti ||28||"
+    },
+    {
+      "chapter": 11,
+      "verse": 29,
+      "ref": "BG_11.029",
+      "text": "yathā pradīptaṃ jvalanaṃ pataṃgā viśanti nāśāya samṛddha-vegāḥ | tathaiva nāśāya viśanti lokās tavāpi vaktrāṇi samṛddha-vegāḥ ||29||"
+    },
+    {
+      "chapter": 11,
+      "verse": 30,
+      "ref": "BG_11.030",
+      "text": "lelihyase grasamānaḥ samantāl lokān samagrān vadanair jvaladbhiḥ | tejobhir āpūrya jagat samagraṃ bhāsas tavogrāḥ pratapanti viṣṇo ||30||"
+    },
+    {
+      "chapter": 11,
+      "verse": 31,
+      "ref": "BG_11.031",
+      "text": "ākhyāhi me ko bhavān ugra-rūpo namo 'stu te devavara prasīda | vijñātum icchāmi bhavantam ādyaṃ na hi prajānāmi tava pravṛttim ||31||"
+    },
+    {
+      "chapter": 11,
+      "verse": 32,
+      "ref": "BG_11.032",
+      "text": "yasya brahma ca kṣatraṃ ca ubhe bhavata odanaḥ | mṛtyur yasyopasecanaṃ ka itthā veda yatra saḥ || [KaṭhU 1.2.25]"
+    },
+    {
+      "chapter": 11,
+      "verse": 33,
+      "ref": "BG_11.033",
+      "text": "tasmāt tvam uttiṣṭha yaśo labhasva jitvā śatrūn bhuṅkṣva rājyaṃ samṛddham | mayaivaite nihatāḥ pūrvam eva nimitta-mātraṃ bhava savyasācin ||33||"
+    },
+    {
+      "chapter": 11,
+      "verse": 34,
+      "ref": "BG_11.034",
+      "text": "droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca karṇaṃ tathānyān api yodhavīrān | mayā hatāṃs tvaṃ jahi mā vyathiṣṭhā yudhyasva jetāsi raṇe sapatnān ||34||"
+    },
+    {
+      "chapter": 11,
+      "verse": 37,
+      "ref": "BG_11.037",
+      "text": "kasmāc ca te na nameran mahātman garīyase brahmaṇo 'py ādi-kartre | ananta deveśa jagannivāsa tvam akṣaraṃ sad asat tatparaṃ yat ||37||"
+    },
+    {
+      "chapter": 11,
+      "verse": 38,
+      "ref": "BG_11.038",
+      "text": "tvam ādi-devaḥ puruṣaḥ purāṇas tvam asya viśvasya paraṃ nidhānam | vettāsi vedyaṃ ca paraṃ ca dhāma tvayā tataṃ viśvam ananta-rūpa ||38||"
+    },
+    {
+      "chapter": 11,
+      "verse": 39,
+      "ref": "BG_11.039",
+      "text": "vāyur yamo 'gnir varuṇaḥ śaśāṅkaḥ prajāpatis tvaṃ prapitāmahaś ca | namo namas te 'stu sahasra-kṛtvaḥ punaś ca bhūyo 'pi namo namas te ||39||"
+    },
+    {
+      "chapter": 11,
+      "verse": 41,
+      "ref": "BG_11.041",
+      "text": "sakheti matvā prasabhaṃ yad uktaṃ he kṛṣṇa he yādava he sakheti | ajānatā mahimānaṃ tavedaṃ mayā pramādāt praṇayena vāpi ||41|| yac cāvahāsārtham asatkṛto 'si vihāraśayyāsanabhojaneṣu | eko 'tha vāpy acyuta tatsamakṣaṃ tat kṣāmaye tvām aham aprameyam ||42||"
+    },
+    {
+      "chapter": 11,
+      "verse": 43,
+      "ref": "BG_11.043",
+      "text": "pitāsi lokasya carācarasya tvam asya pūjyaś ca gurur garīyān | na tvat-samo 'sty abhyadhikaḥ kuto 'nyo loka-traye 'py apratima-prabhāva ||43||"
+    },
+    {
+      "chapter": 11,
+      "verse": 44,
+      "ref": "BG_11.044",
+      "text": "tasmāt praṇamya praṇidhāya kāyaṃ prasādaye tvām aham īśam īḍyam | piteva putrasya sakheva sakhyuḥ priyaḥ priyāyārhasi deva soḍhum ||44||"
+    },
+    {
+      "chapter": 11,
+      "verse": 45,
+      "ref": "BG_11.045",
+      "text": "adṛṣṭa-pūrvaṃ hṛṣito 'smi dṛṣṭvā bhayena ca pravyathitaṃ mano me | tad eva me darśaya deva rūpaṃ prasīda deveśa jagan-nivāsa ||45||"
+    },
+    {
+      "chapter": 11,
+      "verse": 46,
+      "ref": "BG_11.046",
+      "text": "kirīṭinaṃ gadinaṃ cakra-hastam icchāmi tvāṃ draṣṭum ahaṃ tathaiva | tenaiva rūpeṇa catur-bhujena sahasra-bāho bhava viśva-mūrte ||46||"
+    },
+    {
+      "chapter": 11,
+      "verse": 48,
+      "ref": "BG_11.048",
+      "text": "na veda-yajñādhyayanair na dānair na ca kriyābhir na tapobhir ugraiḥ | evaṃ-rūpaḥ śakya ahaṃ nṛloke draṣṭuṃ tvad-anyena kuru-pravīra ||48||"
+    },
+    {
+      "chapter": 11,
+      "verse": 49,
+      "ref": "BG_11.049",
+      "text": "mā te vyathā mā ca vimūḍha-bhāvo dṛṣṭvā rūpaṃ ghoram īdṛṅ mamedam | vyapeta-bhīḥ prīta-manāḥ punas tvaṃ tad eva me rūpam idaṃ prapaśya ||49||"
+    },
+    {
+      "chapter": 11,
+      "verse": 51,
+      "ref": "BG_11.051",
+      "text": "arjuna uvāca dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana | idānīm asmi saṃvṛttaḥ sacetāḥ prakṛtiṃ gataḥ ||51||"
+    },
+    {
+      "chapter": 11,
+      "verse": 52,
+      "ref": "BG_11.052",
+      "text": "śrī-bhagavān uvāca sudurdarśam idaṃ rūpaṃ dṛṣṭavān asi yan mama | devā apy asya rūpasya nityaṃ darśana-kāṅkṣiṇaḥ ||52||"
+    },
+    {
+      "chapter": 11,
+      "verse": 53,
+      "ref": "BG_11.053",
+      "text": "nāhaṃ vedair na tapasā na dānena na cejyayā | śakya evaṃ-vidho draṣṭuṃ dṛṣṭavān asi māṃ yathā ||53||"
+    },
+    {
+      "chapter": 11,
+      "verse": 54,
+      "ref": "BG_11.054",
+      "text": "bhaktyā tv ananyayā śakya aham evaṃ-vidho 'rjuna | jñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca paraṃtapa ||54|| sac-cid-ānanda-rūpāya kṛṣṇāyākliṣṭa-kāriṇe | namo vedānta-vedyāya gurave buddhi-sākṣiṇe || [GTU 1.1] īśvaraḥ paramaḥ kṛṣṇaḥ saccidānanda-vigrahaḥ | anādir ādir govindaḥ sarva-kāraṇa-kāraṇam || [Bs 5.1]"
+    },
+    {
+      "chapter": 11,
+      "verse": 55,
+      "ref": "BG_11.055",
+      "text": "mat-karma-kṛn mat-paramo mad-bhaktaḥ saṅga-varjitaḥ | nirvairaḥ sarva-bhūteṣu yaḥ sa mām eti pāṇḍava ||55|| devair api sudurdarśaṃ tapo-yajñādi-koṭibhiḥ | bhaktāya bhagavān evaṃ viśva-rūpam adarśayat || kṛṣṇasyaiva mahaiśvaryaṃ mamaivāsmin raṇe jayaḥ | ity arjuno niścikāyety-adhyāyārtho nirūpitaḥ || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsv ekādaśo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām ||11|| pūrṇaḥ kṛṣṇo 'vatāritvāt tad-bhaktānāṃ jayo raṇe | bhārate pāṇḍu-putrāṇām ity ekādaśa-nirṇayaḥ ||"
+    },
+    {
+      "chapter": 12,
+      "verse": 1,
+      "ref": "BG_12.001",
+      "text": "arjuna uvāca evaṃ satata-yuktā ye bhaktās tvāṃ paryupāsate | ye cāpy akṣaram avyaktaṃ teṣāṃ ke yoga-vittamāḥ ||1|| śrīdharaḥ - nirguṇopāsanasyaivaṃ sa-guṇopāsanasya ca | śreyaḥ katarad ity etan nirṇetuṃ dvādaśodyamaḥ || bahūnāṃ janmanām ante jñānavān māṃ prapadyate | vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ || [Gītā 7.19] nāhaṃ vedair na tapasā na dānena na cejyayā | śakya evaṃ-vidho draṣṭuṃ dṛṣṭavān asi māṃ yathā || [Gītā 11.53] viśvanāthaḥ --- dvādaśe sarva-bhaktānāṃ jñānibhyaḥ śraiṣṭhyam ucyate | bhakteṣv api praśasyante ye 'dveṣādi-guṇānvitāḥ || yoginām api sarveṣāṃ mad-gatenāntarātmanā | śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ || [Gītā 6.47] baladevaḥ - upāyeṣu samasteṣu śuddhā bhaktir mahā-balā | prāpayet tvarayā yan mām ity āha dvādaśe hariḥ ||"
+    },
+    {
+      "chapter": 12,
+      "verse": 2,
+      "ref": "BG_12.002",
+      "text": "śrī-bhagavān uvāca mayy āveśya mano ye māṃ nitya-yuktā upāsate | śraddhayā parayopetās te me yuktatamā matāḥ ||2||"
+    },
+    {
+      "chapter": 12,
+      "verse": 3,
+      "ref": "BG_12.003",
+      "text": "ye tv akṣaram anirdeśyam avyaktaṃ paryupāsate | sarvatra-gam acintyaṃ ca kūṭastham acalaṃ dhruvam ||3|| saṃniyamyendriya-grāmaṃ sarvatra sama-buddhayaḥ | te prāpnuvanti mām eva sarva-bhūta-hite ratāḥ ||4||"
+    },
+    {
+      "chapter": 12,
+      "verse": 5,
+      "ref": "BG_12.005",
+      "text": "kleśo 'dhikataras teṣām avyaktāsakta-cetasām | avyaktā hi gatir duḥkhaṃ dehavadbhir avāpyate ||5||"
+    },
+    {
+      "chapter": 12,
+      "verse": 8,
+      "ref": "BG_12.008",
+      "text": "mayy eva mana ādhatsva mayi buddhiṃ niveśaya | nivasiṣyasi mayy eva ata ūrdhvaṃ na saṃśayaḥ ||8||"
+    },
+    {
+      "chapter": 12,
+      "verse": 9,
+      "ref": "BG_12.009",
+      "text": "atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram | abhyāsa-yogena tato mām icchāptuṃ dhanaṃjaya ||9||"
+    },
+    {
+      "chapter": 12,
+      "verse": 10,
+      "ref": "BG_12.010",
+      "text": "abhyāse 'py asamartho 'si mat-karma-paramo bhava | mad-artham api karmāṇi kurvan siddhim avāpsyasi ||10||"
+    },
+    {
+      "chapter": 12,
+      "verse": 11,
+      "ref": "BG_12.011",
+      "text": "athaitad apy aśakto 'si kartuṃ mad-yogam āśritaḥ | sarva-karma-phala-tyāgaṃ tataḥ kuru yatātmavān ||11||"
+    },
+    {
+      "chapter": 12,
+      "verse": 12,
+      "ref": "BG_12.012",
+      "text": "śreyo hi jñānam abhyāsāj jñānād dhyānaṃ viśiṣyate | dhyānāt karma-phala-tyāgas tyāgāc chāntir anantaram ||12|| yadā sarve pramucyante kāmā ye 'sya hṛdi sthitāḥ | atha martyo 'mṛto bhavaty atra brahma samaśnute ||"
+    },
+    {
+      "chapter": 12,
+      "verse": 13,
+      "ref": "BG_12.013",
+      "text": "adveṣṭā sarva-bhūtānāṃ maitraḥ karuṇa eva ca | nirmamo nirahaṃkāraḥ sama-duḥkha-sukhaḥ kṣamī ||13|| saṃtuṣṭaḥ satataṃ yogī yatātmā dṛḍha-niścayaḥ | mayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ ||14|| nirviśeṣaṃ paraṃ brahma sākṣātkartum anīśvarāḥ | ye mandās te 'nukampyante saviśeṣa-nirūpaṇaiḥ || priyo hi jñānino 'tyartham ahaṃ sa ca mama priyaḥ | udārāḥ sarva evaite jñānī tv ātmaiva me matam || [Gītā 7.17-18]"
+    },
+    {
+      "chapter": 12,
+      "verse": 15,
+      "ref": "BG_12.015",
+      "text": "yasmān nodvijate loko lokān nodvijate ca yaḥ | harṣāmarṣa-bhayodvegair mukto yaḥ sa ca me priyaḥ ||15||"
+    },
+    {
+      "chapter": 12,
+      "verse": 16,
+      "ref": "BG_12.016",
+      "text": "anapekṣaḥ śucir dakṣa udāsīno gata-vyathaḥ | sarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ ||16||"
+    },
+    {
+      "chapter": 12,
+      "verse": 17,
+      "ref": "BG_12.017",
+      "text": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati | śubhāśubha-parityāgī bhaktimān yaḥ sa me priyaḥ ||17||"
+    },
+    {
+      "chapter": 12,
+      "verse": 18,
+      "ref": "BG_12.018",
+      "text": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ | śītoṣṇa-sukha-duḥkheṣu samaḥ saṅga-vivarjitaḥ ||18|| tulya-nindā-stutir maunī saṃtuṣṭo yena kenacit | aniketaḥ sthira-matir bhaktimān me priyo naraḥ ||19||"
+    },
+    {
+      "chapter": 12,
+      "verse": 20,
+      "ref": "BG_12.020",
+      "text": "ye tu dharmyāmṛtam idaṃ yathoktaṃ paryupāsate | śraddadhānā mat-paramā bhaktās te 'tīva me priyāḥ ||20|| duḥkham avyakta-vartmaiva tad-bahu-vighnam ato budhaḥ | sukhaṃ kṛṣṇa-padāmbhojaṃ bhakti-sat-pathavān bhajet || sarva-śreṣṭhā sukha-mayī sarva-sādhya-susādhikā | bhaktir evādbhuta-guṇety adhyāyārtho nirūpitaḥ || nimba-drākṣe iva jñāna-bhaktī yadyapi darśite | ādīyete tad apy ete tat-tad-āsvāda-lobhibhiḥ || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsu dvādaśo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām ||12|| vaśaḥ svaika-juṣāṃ kṛṣṇaḥ sva-bhakty-eka-juṣāṃ tu saḥ | prītyaivātivaśaḥ śrīmān iti dvādaśa-nirṇayaḥ ||"
+    },
+    {
+      "chapter": 13,
+      "verse": 1,
+      "ref": "BG_13.001",
+      "text": "śrī-bhagavān uvāca idaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate | etad yo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ ||1|| śrīdharaḥ : bhaktānām aham uddhartā saṃsārād ity avādi yat | tradośe 'tha tat-siddhyai tattva-jñānam udīryate || viśvanāthaḥ : namo 'stu bhagavad-bhaktyai kṛpayā svāṃśa-leśataḥ | jñānādiṣv api tiṣṭhet tat sārthakī-karaṇā yayā || ṣaṭke tṛtīye 'tra bhakt--miśraṃ jñānaṃ nirūpyate | tan-madhye kevalā bhaktir api bhaṅgyā prakṛṣyate || trayodaśe śarīraṃ ca jīvātma-paramātmanoḥ | jñānasya sādhanaṃ jīvaḥ prakṛtiś ca viśiṣyate || kathitāḥ pūrva-ṣaṭkābhyām arthāj jīvādayo 'tra ye | svarūpāṇi viśodhyante teṣāṃ ṣaṭke 'ntime sphuṭam || bhaktau pūrvopadiṣṭāyāṃ jñānaṃ dvāraṃ bhavaty ataḥ | deha-jīveśa-vijñānaṃ tad vaktavyaṃ trayodaśe ||"
+    },
+    {
+      "chapter": 13,
+      "verse": 2,
+      "ref": "BG_13.002",
+      "text": "kṣetrajñaṃ cāpi māṃ viddhi sarva-kṣetreṣu bhārata | kṣetra-kṣetrajñayor jñānaṃ yat taj jñānaṃ mataṃ mama ||2|| ajām ekām lohita-śukla-kṛṣṇāṃ bahvīḥ prajāḥ sṛjamānāṃ sarūpāḥ | ajo hy eko juṣamāṇo 'nuśete jahāty enāṃ bhukta-bhogāṃ ajo 'nyaḥ || [ŚvetU 4.5]"
+    },
+    {
+      "chapter": 13,
+      "verse": 3,
+      "ref": "BG_13.003",
+      "text": "tat kṣetraṃ yac ca yādṛk ca yad-vikāri yataś ca yat | sa ca yo yat-prabhāvaś ca tat samāsena me śṛṇu ||3||"
+    },
+    {
+      "chapter": 13,
+      "verse": 4,
+      "ref": "BG_13.004",
+      "text": "ṛṣibhir bahudhā gītaṃ chandobhir vividhaiḥ pṛthak | brahma-sūtra-padaiś caiva hetumadbhir viniścitaiḥ ||4|| ahaṃ tvaṃ ca tathānye bhūtair uhyāma pārthiva | guṇa-pravāha-patito bhūta-vargo 'pi yāty ayam || karma-vaśyā guṇā hy ete sattvādyāḥ pṛthivī-pate | avidyā-sañcitaṃ karma tac cāśeṣeṣu jantuṣu || ātmā śuddho 'kṣaraḥ śānto nirguṇaḥ prakṛteḥ paraḥ | pravṛddhy-apacayau nāsya ekasyākhila-jantuṣu || [ViP 2.13.69]"
+    },
+    {
+      "chapter": 13,
+      "verse": 5,
+      "ref": "BG_13.005",
+      "text": "mahā-bhūtāny ahaṃkāro buddhir avyaktam eva ca | indriyāṇi daśaikaṃ ca pañca cendriya-gocarāḥ ||5|| icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaś cetanā dhṛtiḥ | etat kṣetraṃ samāsena sa-vikāram udāhṛtam ||6||"
+    },
+    {
+      "chapter": 13,
+      "verse": 7,
+      "ref": "BG_13.007",
+      "text": "amānitvam adambhitvam ahiṃsā kṣāntir ārjavam | ācāryopāsanaṃ śaucaṃ sthairyam ātma-vinigrahaḥ ||7|| indriyārtheṣu vairāgyam anahaṃkāra eva ca | janma-mṛtyu-jarā-vyādhi-duḥkha-doṣānudarśanam ||8|| asaktir anabhiṣvaṅgaḥ putra-dāra-gṛhādiṣu | nityaṃ ca sama-cittatvam iṣṭāniṣṭopapattiṣu ||9|| mayi cānanya-yogena bhaktir avyabhicāriṇī | vivikta-deśa-sevitvam aratir jana-saṃsadi ||10|| adhyātma-jñāna-nityatvaṃ tattva-jñānārtha-darśanam | etaj jñānam iti proktam ajñānaṃ yad ato 'nyathā ||11||"
+    },
+    {
+      "chapter": 13,
+      "verse": 13,
+      "ref": "BG_13.013",
+      "text": "jñeyaṃ yat tat pravakṣyāmi yaj jñātvāmṛtam aśnute | anādimat paraṃ brahma na sat tan nāsad ucyate ||12|| sarvataḥ pāṇi-pādaṃ tat sarvato 'kṣi-śiro-mukham | sarvataḥ śrutimal loke sarvam āvṛtya tiṣṭhati ||13||"
+    },
+    {
+      "chapter": 13,
+      "verse": 17,
+      "ref": "BG_13.017",
+      "text": "sarvendriya-guṇābhāsaṃ sarvendriya-vivarjitam | asaktaṃ sarva-bhṛc caiva nirguṇaṃ guṇa-bhoktṛ ca ||14|| bahir antaś ca bhūtānām acaraṃ caram eva ca | sūkṣmatvāt tad avijñeyaṃ dūra-sthaṃ cāntike ca tat ||15|| avibhaktaṃ ca bhūteṣu vibhaktam iva ca sthitam | bhūta-bhartṛ ca taj jñeyaṃ grasiṣṇu prabhaviṣṇu ca ||16|| jyotiṣām api taj jyotis tamasaḥ param ucyate | jñānaṃ jñeyaṃ jñāna-gamyaṃ hṛdi sarvasya viṣṭhitam ||17|| niḥsaṅgasya sa-saṅgena kūṭasthasya vikāriṇā | ātmano 'nātmanā yogo vāstavo nopapadyate || na tatra sūryo bhāti na candra-tārakaṃ nemā vidyuto bhānti kuto 'yam agniḥ | tad eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti || [KaṭhU 2.5.15]"
+    },
+    {
+      "chapter": 13,
+      "verse": 18,
+      "ref": "BG_13.018",
+      "text": "iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ | mad-bhakta etad vijñāya mad-bhāvāyopapadyate ||18||"
+    },
+    {
+      "chapter": 13,
+      "verse": 19,
+      "ref": "BG_13.019",
+      "text": "prakṛtiṃ puruṣaṃ caiva viddhy anādī ubhāv api | vikārāṃś ca guṇāṃś caiva viddhi prakṛti-saṃbhavān ||19|| viśvanāthaḥ : paramātmānam uktvā kṣetra-jña-śabda-vācyaṃ jīvātmānaṃ vaktuṃ kutas tasya māyā-saṃsleṣaḥ, kadā tad-ārambho 'bhūd ity apekṣāyām āha prakṛtiṃ māyāṃ puruṣaṃ jīvaṃ cobhāv apy anādī na vidyate ādi kāraṇaṃ yayos tathābhūtau viddhi anāder īśvarasya mama śaktitvāt | bhūmir āpo 'nalo vāyuḥ khaṃ mano buddhir eva ca | ahaṅkāra itīyaṃ me bhinnā prakṛtir aṣṭadhā || apareyam itas tv anyāṃ prakṛtiṃ viddhi me parām | jīva-bhūtāṃ mahābāho yayedaṃ dhāryate jagat || [Gītā 7.4-5]"
+    },
+    {
+      "chapter": 13,
+      "verse": 20,
+      "ref": "BG_13.020",
+      "text": "kārya-kāraṇa-kartṛtve hetuḥ prakṛtir ucyate | puruṣaḥ sukha-duḥkhānāṃ bhoktṛtve hetur ucyate ||20||"
+    },
+    {
+      "chapter": 13,
+      "verse": 21,
+      "ref": "BG_13.021",
+      "text": "puruṣaḥ prakṛti-stho hi bhuṅkte prakṛtijān guṇān | kāraṇaṃ guṇa-saṅgo 'sya sad-asad-yoni-janmasu ||21||"
+    },
+    {
+      "chapter": 13,
+      "verse": 22,
+      "ref": "BG_13.022",
+      "text": "upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ | paramātmeti cāpy ukto dehe 'smin puruṣaḥ paraḥ ||22||"
+    },
+    {
+      "chapter": 13,
+      "verse": 23,
+      "ref": "BG_13.023",
+      "text": "ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha | sarvathā vartamāno 'pi na sa bhūyo 'bhijāyate ||23||"
+    },
+    {
+      "chapter": 13,
+      "verse": 24,
+      "ref": "BG_13.024",
+      "text": "dhyānenātmani paśyanti ke cid ātmānam ātmanā | anye sāṃkhyena yogena karma-yogena cāpare ||24||"
+    },
+    {
+      "chapter": 13,
+      "verse": 25,
+      "ref": "BG_13.025",
+      "text": "anye tv evam ajānantaḥ śrutvānyebhya upāsate | te 'pi cātitaranty eva mṛtyuṃ śruti-parāyaṇāḥ ||25||"
+    },
+    {
+      "chapter": 13,
+      "verse": 26,
+      "ref": "BG_13.026",
+      "text": "yāvat saṃjāyate kiṃcit sattvaṃ sthāvara-jaṅgamam | kṣetra-kṣetrajña-saṃyogāt tad viddhi bharatarṣabha ||26||"
+    },
+    {
+      "chapter": 13,
+      "verse": 27,
+      "ref": "BG_13.027",
+      "text": "samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram | vinaśyatsv avinaśyantaṃ yaḥ paśyati sa paśyati ||27||"
+    },
+    {
+      "chapter": 13,
+      "verse": 28,
+      "ref": "BG_13.028",
+      "text": "samaṃ paśyan hi sarvatra samavasthitam īśvaram | na hinasty ātmanātmānaṃ tato yāti parāṃ gatim ||28|| asūryā nāma te lokā andhena tamasāvṛtāḥ | tāṃs te pretyābhigacchanti ye ke cātma-hano janāḥ || [ĪśaU 3] iti"
+    },
+    {
+      "chapter": 13,
+      "verse": 29,
+      "ref": "BG_13.029",
+      "text": "prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ | yaḥ paśyati tathātmānam akartāraṃ sa paśyati ||29||"
+    },
+    {
+      "chapter": 13,
+      "verse": 30,
+      "ref": "BG_13.030",
+      "text": "yadā bhūta-pṛthag-bhāvam ekastham anupaśyati | tata eva ca vistāraṃ brahma saṃpadyate tadā ||30||"
+    },
+    {
+      "chapter": 13,
+      "verse": 31,
+      "ref": "BG_13.031",
+      "text": "anāditvān nirguṇatvāt paramātmāyam avyayaḥ | śarīra-stho 'pi kaunteya na karoti na lipyate ||31||"
+    },
+    {
+      "chapter": 13,
+      "verse": 32,
+      "ref": "BG_13.032",
+      "text": "yathā sarva-gataṃ saukṣmyād ākāśaṃ nopalipyate | sarvatrāvasthito dehe tathātmā nopalipyate ||32||"
+    },
+    {
+      "chapter": 13,
+      "verse": 33,
+      "ref": "BG_13.033",
+      "text": "yathā prakāśayaty ekaḥ kṛtsnaṃ lokam imaṃ raviḥ | kṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata ||33|| sūryo yathā sarva-lokasya cakṣuḥ na lipyate cākṣuṣair bāhya-doṣaiḥ | ekas tathā sarva-bhūtāntarātmā na lipyate loka-duḥkhena bāhyaḥ || iti [KaṭhU 2.2.11] śruteḥ || sūryo yathā sarva-lokasya cakṣur na lipyate cākṣuṣair bāhya-doṣaiḥ | ekas tathā sarva-bhūtāntarātmā na lipyate śoka-duḥkhena bāhyaḥ || iti [KaṭhU 2.2.11] śruteḥ ||"
+    },
+    {
+      "chapter": 14,
+      "verse": 1,
+      "ref": "BG_14.001",
+      "text": "śrī-bhagavān uvāca paraṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānam uttamam | yaj jñātvā munayaḥ sarve parāṃ siddhim ito gatāḥ ||1|| puṃ-prakṛtyoḥ svatantratvaṃ vārayan guṇa-saṅgataḥ | prāhuḥ saṃsāra-vaicitryaṃ vistareṇa caturdaśe || guṇāḥ syur bandhakās te tu phalair jñeyāś caturdaśe | guṇātyaye ciha-tatir hetur bhaktiś ca varṇitā || baladevaḥ : guṇāḥ syur bandhakās te tu pariceyāḥ phalais trayaḥ | mad-bhaktyā tan-nivṛttiḥ syād iti proktaṃ caturdaśe ||"
+    },
+    {
+      "chapter": 14,
+      "verse": 2,
+      "ref": "BG_14.002",
+      "text": "idaṃ jñānam upāśritya mama sādharmyam āgatāḥ | sarge 'pi nopajāyante pralaye na vyathanti ca ||2||"
+    },
+    {
+      "chapter": 14,
+      "verse": 3,
+      "ref": "BG_14.003",
+      "text": "mama yonir mahad brahma tasmin garbhaṃ dadhāmy aham | saṃbhavaḥ sarva-bhūtānāṃ tato bhavati bhārata ||3||"
+    },
+    {
+      "chapter": 14,
+      "verse": 4,
+      "ref": "BG_14.004",
+      "text": "sarva-yoniṣu kaunteya mūrtayaḥ saṃbhavanti yāḥ | tāsāṃ brahma mahad yonir ahaṃ bīja-pradaḥ pitā ||4||"
+    },
+    {
+      "chapter": 14,
+      "verse": 5,
+      "ref": "BG_14.005",
+      "text": "sattvaṃ rajas tama iti guṇāḥ prakṛti-saṃbhavāḥ | nibadhnanti mahā-bāho dehe dehinam avyayam ||5||"
+    },
+    {
+      "chapter": 14,
+      "verse": 6,
+      "ref": "BG_14.006",
+      "text": "tatra sattvaṃ nirmalatvāt prakāśakam anāmayam | sukha-saṅgena badhnāti jñāna-saṅgena cānagha ||6||"
+    },
+    {
+      "chapter": 14,
+      "verse": 7,
+      "ref": "BG_14.007",
+      "text": "rajo rāgātmakaṃ viddhi tṛṣṇāsaṅga-samudbhavam | tan nibadhnāti kaunteya karma-saṅgena dehinam ||7||"
+    },
+    {
+      "chapter": 14,
+      "verse": 8,
+      "ref": "BG_14.008",
+      "text": "tamas tv ajñāna-jaṃ viddhi mohanaṃ sarva-dehinām | pramādālasya-nidrābhis tan nibadhnāti bhārata ||8||"
+    },
+    {
+      "chapter": 14,
+      "verse": 9,
+      "ref": "BG_14.009",
+      "text": "sattvaṃ sukhe saṃjayati rajaḥ karmaṇi bhārata | jñānam āvṛtya tu tamaḥ pramāde saṃjayaty uta ||9||"
+    },
+    {
+      "chapter": 14,
+      "verse": 10,
+      "ref": "BG_14.010",
+      "text": "rajas tamaś cābhibhūya sattvaṃ bhavati bhārata | rajaḥ sattvaṃ tamaś caiva tamaḥ sattvaṃ rajas tathā ||10||"
+    },
+    {
+      "chapter": 14,
+      "verse": 11,
+      "ref": "BG_14.011",
+      "text": "sarva-dvāreṣu dehe 'smin prakāśa upajāyate | jñānaṃ yadā tadā vidyād vivṛddhaṃ sattvam ity uta ||11||"
+    },
+    {
+      "chapter": 14,
+      "verse": 12,
+      "ref": "BG_14.012",
+      "text": "lobhaḥ pravṛttir ārambhaḥ karmaṇām aśamaḥ spṛhā | rajasy etāni jāyante vivṛddhe bharatarṣabha ||12||"
+    },
+    {
+      "chapter": 14,
+      "verse": 13,
+      "ref": "BG_14.013",
+      "text": "aprakāśo 'pravṛttiś ca pramādo moha eva ca | tamasy etāni jāyante vivṛddhe kuru-nandana ||13||"
+    },
+    {
+      "chapter": 14,
+      "verse": 14,
+      "ref": "BG_14.014",
+      "text": "yadā sattve pravṛddhe tu pralayaṃ yāti deha-bhṛt | tadottama-vidāṃ lokān amalān pratipadyate ||14||"
+    },
+    {
+      "chapter": 14,
+      "verse": 15,
+      "ref": "BG_14.015",
+      "text": "rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate | tathā pralīnastam asi mūḍha-yoniṣu jāyata ||15||"
+    },
+    {
+      "chapter": 14,
+      "verse": 16,
+      "ref": "BG_14.016",
+      "text": "karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam | rajasas tu phalaṃ duḥkham ajñānaṃ tamasaḥ phalam ||16||"
+    },
+    {
+      "chapter": 14,
+      "verse": 17,
+      "ref": "BG_14.017",
+      "text": "sattvāt saṃjāyate jñānaṃ rajaso lobha eva ca | pramāda-mohau tamaso bhavato 'jñānam eva ca ||17||"
+    },
+    {
+      "chapter": 14,
+      "verse": 18,
+      "ref": "BG_14.018",
+      "text": "ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ | jaghanya-guṇa-vṛttasthā adho gacchanti tāmasāḥ ||18||"
+    },
+    {
+      "chapter": 14,
+      "verse": 19,
+      "ref": "BG_14.019",
+      "text": "nānyaṃ guṇebhyaḥ kartāraṃ yadā drṣṭānupaśyati | guṇebhyaś ca paraṃ vetti mad-bhāvaṃ so 'dhigacchati ||19||"
+    },
+    {
+      "chapter": 14,
+      "verse": 20,
+      "ref": "BG_14.020",
+      "text": "guṇān etān atītya trīn dehī deha-samudbhavān | janma-mṛtyu-jarā-duḥkhair vimukto 'mṛtam aśnute ||20||"
+    },
+    {
+      "chapter": 14,
+      "verse": 21,
+      "ref": "BG_14.021",
+      "text": "kair liṅgais trīn guṇān etān atīto bhavati prabho | kim-ācāraḥ kathaṃ caitāṃs trīn guṇān ativartate ||21||"
+    },
+    {
+      "chapter": 14,
+      "verse": 22,
+      "ref": "BG_14.022",
+      "text": "prakāśaṃ ca pravṛttiṃ ca moham eva ca pāṇḍava | na dveṣṭi saṃpravṛttāni na nivṛttāni kāṅkṣati ||22||"
+    },
+    {
+      "chapter": 14,
+      "verse": 23,
+      "ref": "BG_14.023",
+      "text": "udāsīnavad āsīno guṇair yo na vicālyate | guṇā vartanta ity eva yo 'vatiṣṭhati neṅgate ||23||"
+    },
+    {
+      "chapter": 14,
+      "verse": 24,
+      "ref": "BG_14.024",
+      "text": "sama-duḥkha-sukhaḥ svasthaḥ sama-loṣṭāśma-kāñcanaḥ | tulya-priyāpriyo dhīras tulya-nindātma-saṃstutiḥ ||24||"
+    },
+    {
+      "chapter": 14,
+      "verse": 25,
+      "ref": "BG_14.025",
+      "text": "mānāpamānayos tulyas tulyo mitrāri-pakṣayoḥ | sarvārambha-parityāgī guṇātītaḥ sa ucyate ||25||"
+    },
+    {
+      "chapter": 14,
+      "verse": 26,
+      "ref": "BG_14.026",
+      "text": "māṃ ca yo 'vyabhicāreṇa bhakti-yogena sevate | sa guṇān samatītyaitān brahma-bhūyāya kalpate ||26||"
+    },
+    {
+      "chapter": 14,
+      "verse": 27,
+      "ref": "BG_14.027",
+      "text": "brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya ca | śāśvatasya ca dharmasya sukhasyaikāntikasya ca ||27|| kṛṣṇādhīna-guṇāsaṅga-prasañjita-bhavāmbudhim | sukhaṃ tarati mad-bhakta ity abhāṣi caturdaśe || parākṛtana-mad-bandhaṃ paraṃ brahma narākṛti | saundarya-sāra-sarvasvaṃ vande nandātmajaṃ mahaḥ || tat-paraṃ paramaṃ brahma sarvaṃ vibhajate jagat | mamaiva tad ghanaṃ tejo jñātum arhasi bhārata || (HV 2.114.11-12) anartha eva traiguṇyaṃ nistraiguṇyaṃ kṛtārthatā | tac ca bhaktyaiva bhavatīty adhyāyārtho nirūpitaḥ || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | caturdaśo 'yaṃ gītāsu saṅgataḥ saṅgataḥ satām ||14|| saṃsāro guṇa-yogaḥ syād vimokṣas tu guṇātyayaḥ | tat-siddhir hari-bhaktyaivety etad buddhaṃ caturdaśāt ||"
+    },
+    {
+      "chapter": 15,
+      "verse": 1,
+      "ref": "BG_15.001",
+      "text": "śrī-bhagavān uvāca ūrdhva-mūlam adhaḥ-śākham aśvatthaṃ prāhur avyayam | chandāṃsi yasya parṇāni yas taṃ veda sa veda-vit ||1|| vairāgyeṇa vinā jñānaṃ na ca bhaktir ataḥ sphuṭam | vairāgyopaskṛtaṃ jñānam īśaḥ pañcadaśe 'diśat || smṛtayaś ca- avyakta-mūla-prabhavas tasyaivānugrahotthitaḥ | buddhi-skandha-mayaś caiva indriyāntara-koṭaraḥ || mahā-bhūta-viśākhaś ca viṣayaiḥ patravāṃs tathā | dharmādharma-supuṣpaś ca sukha-duḥkha-phalodayaḥ || ājīvyaḥ sarva-bhūtānāṃ brahma-vṛkṣaḥ sanātanaḥ | etad brahma-vanaṃ cāsya brahmācarati sākṣivat || viśvanāthaḥ : saṃsāra-cchedako 'saṅga ātmeśāṃśaḥ kṣarākṣarāt | uttamaḥ puruṣaḥ kṛṣṇaḥ iti pañcadaśe kathā || baladevaḥ : saṃsāra-cchedi vairāgyaṃ jīvo me 'ṃśaḥ sanātanaḥ | ahaṃ sarvottamaḥ śrīmān iti pañcadaśe smṛtam ||"
+    },
+    {
+      "chapter": 15,
+      "verse": 2,
+      "ref": "BG_15.002",
+      "text": "adhaś cordhvaṃ prasṛtās tasya śākhā guṇa-pravṛddhā viṣaya-pravālāḥ | adhaś ca mūlāny anusaṃtatāni karmānubandhīni manuṣya-loke ||2||"
+    },
+    {
+      "chapter": 15,
+      "verse": 3,
+      "ref": "BG_15.003",
+      "text": "na rūpam asyeha tathopalabhyate nānto na cādir na ca saṃpratiṣṭhā | aśvattham enaṃ su-virūḍha-mūlam asaṅga-śastreṇa dṛḍhena chittvā ||3|| tataḥ padaṃ tat-parimārgitavyaṃ yasmin gatā na nivartanti bhūyaḥ | tam eva cādyaṃ puruṣaṃ prapadye yataḥ pravṛttiḥ prasṛtā purāṇī ||4||"
+    },
+    {
+      "chapter": 15,
+      "verse": 5,
+      "ref": "BG_15.005",
+      "text": "nirmāna-mohā jita-saṅga-doṣā adhyātma-nityā vinivṛtta-kāmāḥ | dvandvair vimuktāḥ sukha-duḥkha-saṃjñair gacchanty amūḍhāḥ padam avyayaṃ tat ||5|| na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ | yad gatvā na nivartante tad dhāma paramaṃ mama ||6||"
+    },
+    {
+      "chapter": 15,
+      "verse": 7,
+      "ref": "BG_15.007",
+      "text": "mamaivāṃśo jīva-loke jīva-bhūtaḥ sanātanaḥ | manaḥ-ṣaṣṭhānīndriyāṇi prakṛti-sthāni karṣati ||7||"
+    },
+    {
+      "chapter": 15,
+      "verse": 8,
+      "ref": "BG_15.008",
+      "text": "śarīraṃ yad avāpnoti yac cāpy utkrāmatīśvaraḥ | gṛhītvaitāni saṃyāti vāyur gandhān ivāśayāt ||8|| śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇam eva ca | adhiṣṭhāya manaś cāyaṃ viṣayān upasevate ||9||"
+    },
+    {
+      "chapter": 15,
+      "verse": 10,
+      "ref": "BG_15.010",
+      "text": "utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam | vimūḍhā nānupaśyanti paśyanti jñāna-cakṣuṣaḥ ||10||"
+    },
+    {
+      "chapter": 15,
+      "verse": 11,
+      "ref": "BG_15.011",
+      "text": "yatanto yoginaś cainaṃ paśyanty ātmany avasthitam | yatanto 'py akṛtātmāno nainaṃ paśyanty acetasaḥ ||11||"
+    },
+    {
+      "chapter": 15,
+      "verse": 12,
+      "ref": "BG_15.012",
+      "text": "yad āditya-gataṃ tejo jagad bhāsayate 'khilam | yac candramasi yac cāgnau tat tejo viddhi māmakam ||12|| gām āviśya ca bhūtāni dhārayāmy aham ojasā | puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||13||"
+    },
+    {
+      "chapter": 15,
+      "verse": 14,
+      "ref": "BG_15.014",
+      "text": "ahaṃ vaiśvānaro bhūtvā prāṇināṃ deham āśritaḥ | prāṇāpāna-samāyuktaḥ pacāmy annaṃ catur-vidham ||14||"
+    },
+    {
+      "chapter": 15,
+      "verse": 15,
+      "ref": "BG_15.015",
+      "text": "sarvasya cāhaṃ hṛdi saṃniviṣṭo mattaḥ smṛtir jñānam apohanaṃ ca | vedaiś ca sarvair aham eva vedyo vedānta-kṛd veda-vid eva cāham ||15|| dvāv imau puruṣau loke kṣaraś cākṣara eva ca | kṣaraḥ sarvāṇi bhūtāni kūṭastho 'kṣara ucyate ||16||"
+    },
+    {
+      "chapter": 15,
+      "verse": 17,
+      "ref": "BG_15.017",
+      "text": "uttamaḥ puruṣas tv anyaḥ paramātmety udāhṛtaḥ | yo loka-trayam āviśya bibharty avyaya īśvaraḥ ||17||"
+    },
+    {
+      "chapter": 15,
+      "verse": 18,
+      "ref": "BG_15.018",
+      "text": "yasmāt kṣaram atīto 'ham akṣarād api cottamaḥ | ato 'smi loke vede ca prathitaḥ puruṣottamaḥ ||18|| kecin nigṛhya karaṇāni visṛjya bhogam āsthāya yogam amalātma-dhiyo yatante | nārāyaṇasya mahimānam ananta-pāram āsvādayann amṛta-sāram ahaṃ tu muktaḥ ||18|| yā vai sādhana-sampattiḥ puruṣārtha-catuṣṭaye | tayā vinā tad āpnoti naro nārāyaṇāśrayaḥ || ity ādi vacanebhyaḥ || pramāṇato 'pi nirṇīyaṃ kṛṣṇa-māhātmyam adbhutam | na śaknuvanti ye soḍhuṃ te mūḍhā nirayaṃ gatāḥ ||"
+    },
+    {
+      "chapter": 15,
+      "verse": 19,
+      "ref": "BG_15.019",
+      "text": "yo mām evam asaṃmūḍho jānāti puruṣottamam | sa sarva-vid bhajati māṃ sarva-bhāvena bhārata ||19|| cid-ānandākāraṃ jalada-ruci-sāraṃ śruti-girāṃ vraja-strīṇāṃ hāraṃ bhava-jaladhi-pāraṃ kṛta-dhiyām | vihantuṃ bhūbhāraṃ vidadhad-avatāraṃ muhur aho tato vāraṃ vāraṃ bhajata kuśalārambha-kṛtinaḥ ||19||"
+    },
+    {
+      "chapter": 15,
+      "verse": 20,
+      "ref": "BG_15.020",
+      "text": "iti guhyatamaṃ śāstram idam uktaṃ mayānagha | etad buddhvā buddhimān syāt kṛta-kṛtyaś ca bhārata ||20|| saṃsāra-śākhinaṃ chittvā spaṣṭaṃ pañcadaśe vibhuḥ | puruṣottama-yogākhye paraṃ padam upādiśat || vaṃśī-vibhūṣita-karān nava-nīradābhāt pītāmbarād aruṇa-bimba-phalādharoṣṭhāt | pūrṇendu-sundara-mukhād aravinda-netrāt kṛṣṇāt paraṃ kim api tattvam ahaṃ na jāne ||1|| sadā sadānanda-pade nimagnaṃ mano manobhāvam apākaroti | gatāgatāyāsam apāsya sadyaḥ parāparātītam upaiti tattvam ||2|| śaivāḥ saurāś ca gāṇeśā vaiṣṇavāḥ śakti-pūjakāḥ | bhavanti yan-mayāḥ sarve so 'ham asmi paraḥ śivaḥ ||3|| pramāṇato 'pi nirṇīyaṃ kṛṣṇa-māhātmyam adbhutam | na śaknuvanti ye soḍhuṃ te mūḍhā nirayaṃ gatāḥ ||4|| jaḍa-caitanya-vargāṇāṃ vivṛtaṃ kurvatā kṛtam | kṛṣṇa eva mahotkarṣa ity adhyāyārtha īritaḥ || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsv ayaṃ pañcadaśaḥ saṅgataḥ saṅgataḥ satām || baddhān muktāc ca yaḥ puṃso bhinnas tad-bhṛt tad-uttamaḥ | sa pumān harir eveti prāptaṃ pañcadaśād ataḥ ||"
+    },
+    {
+      "chapter": 16,
+      "verse": 1,
+      "ref": "BG_16.001",
+      "text": "śrī-bhagavān uvāca abhayaṃ sattva-saṃśuddhir jñāna-yoga-vyavasthitiḥ | dānaṃ damaś ca yajñaś ca svādhyāyas tapa ārjavam ||1|| ahiṃsā satyam akrodhas tyāgaḥ śāntir apaiśunam | dayā bhūteṣv aloluptvaṃ mārdavaṃ hrīr acāpalam ||2|| tejaḥ kṣamā dhṛtiḥ śaucam adroho nātimānitā | bhavanti saṃpadaṃ daivīm abhijātasya bhārata ||3|| śrīdharaḥ : āsurīṃ sampadaṃ tyaktvā daivīm evāśritā narāḥ | mucyanta iti nirṇetuṃ tad-viveko 'tha ṣoḍaśe || mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ | bhajanty ananya-manaso jñātvā bhūtādim avyayam ||13|| ṣoḍaśe sampadaṃ daivīm āsurīm apy avarṇayat | sargaṃ ca dvividhaṃ daivam āsuraṃ prabhur akṣayāt || daivīṃ tathāsurīṃ kṛṣṇaḥ sampadaṃ ṣoḍaśe 'bravīt | pādeyatva-heyatve bodhayan kramatas tayoḥ ||"
+    },
+    {
+      "chapter": 16,
+      "verse": 4,
+      "ref": "BG_16.004",
+      "text": "dambho darpo 'timānaś ca krodhaḥ pāruṣyam eva ca | ajñānaṃ cābhijātasya pārtha saṃpadam āsurīm ||4||"
+    },
+    {
+      "chapter": 16,
+      "verse": 5,
+      "ref": "BG_16.005",
+      "text": "daivī saṃpad vimokṣāya nibandhāyāsurī matā | mā śucaḥ saṃpadaṃ daivīm abhijāto 'si pāṇḍava ||5||"
+    },
+    {
+      "chapter": 16,
+      "verse": 6,
+      "ref": "BG_16.006",
+      "text": "dvau bhūta-sargau loke 'smin daiva āsura eva ca | daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||6||"
+    },
+    {
+      "chapter": 16,
+      "verse": 7,
+      "ref": "BG_16.007",
+      "text": "pravṛttiṃ ca nivṛttiṃ ca janā na vidur āsurāḥ | na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||7||"
+    },
+    {
+      "chapter": 16,
+      "verse": 8,
+      "ref": "BG_16.008",
+      "text": "asatyam apratiṣṭhaṃ te jagad āhur anīśvaram | aparaspara-saṃbhūtaṃ kim anyat kāma-haitukam ||8|| etāṃ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpa-buddhayaḥ | prabhavanty ugra-karmāṇaḥ kṣayāya jagato 'hitāḥ ||9||"
+    },
+    {
+      "chapter": 16,
+      "verse": 10,
+      "ref": "BG_16.010",
+      "text": "kāmam āśritya duṣpūraṃ dambha-māna-madānvitāḥ | mohād gṛhītvāsad-grāhān pravartante 'śuci-vratāḥ ||10||"
+    },
+    {
+      "chapter": 16,
+      "verse": 11,
+      "ref": "BG_16.011",
+      "text": "cintām aparimeyāṃ ca pralayāntām upāśritāḥ | kāmopabhoga-paramā etāvad iti niścitāḥ ||11||"
+    },
+    {
+      "chapter": 16,
+      "verse": 12,
+      "ref": "BG_16.012",
+      "text": "āśā-pāśa-śatair baddhāḥ kāma-krodha-parāyaṇāḥ | īhante kāma-bhogārtham anyāyenārtha-saṃcayān ||12|| idam adya mayā labdham idaṃ prāpsye manoratham | idam astīdam api me bhaviṣyati punar dhanam ||13||"
+    },
+    {
+      "chapter": 16,
+      "verse": 14,
+      "ref": "BG_16.014",
+      "text": "asau mayā hataḥ śatrur haniṣye cāparān api | īśvaro 'ham ahaṃ bhogī siddho 'haṃ balavān sukhī ||14||"
+    },
+    {
+      "chapter": 16,
+      "verse": 15,
+      "ref": "BG_16.015",
+      "text": "āḍhyo 'bhijanavān asmi ko 'nyo 'sti sadṛśo mayā | yakṣye dāsyāmi modiṣya ity ajñāna-vimohitāḥ ||15||"
+    },
+    {
+      "chapter": 16,
+      "verse": 16,
+      "ref": "BG_16.016",
+      "text": "aneka-citta-vibhrāntā moha-jāla-samāvṛtāḥ | prasaktāḥ kāma-bhogeṣu patanti narake 'śucau ||16||"
+    },
+    {
+      "chapter": 16,
+      "verse": 17,
+      "ref": "BG_16.017",
+      "text": "ātma-saṃbhāvitāḥ stabdhā dhana-māna-madānvitāḥ | yajante nāma-yajñais te dambhenāvidhi-pūrvakam ||17||"
+    },
+    {
+      "chapter": 16,
+      "verse": 18,
+      "ref": "BG_16.018",
+      "text": "ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ | mām ātma-para-deheṣu pradviṣanto 'bhyasūyakāḥ ||18|| avajānanti māṃ mūḍhā mānuṣīṃ tanum āśritam | paraṃ bhāvam ajānanto mama bhūta-maheśvaram || moghāśā mogha-karmāṇo mogha-jñānā vicetasaḥ | rākṣasīm āsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ || [Gītā 9.11-12]"
+    },
+    {
+      "chapter": 16,
+      "verse": 19,
+      "ref": "BG_16.019",
+      "text": "tān ahaṃ dviṣataḥ krūrān saṃsāreṣu narādhamān | kṣipāmy ajasram aśubhān āsurīṣv eva yoniṣu ||19||"
+    },
+    {
+      "chapter": 16,
+      "verse": 20,
+      "ref": "BG_16.020",
+      "text": "āsurīṃ yonim āpannā mūḍhā janmani janmani | mām aprāpyaiva kaunteya tato yānty adhamāṃ gatim ||20||"
+    },
+    {
+      "chapter": 16,
+      "verse": 21,
+      "ref": "BG_16.021",
+      "text": "trividhaṃ narakasyedaṃ dvāraṃ nāśanam ātmanaḥ | kāmaḥ krodhas tathā lobhas tasmād etat trayaṃ tyajet ||21||"
+    },
+    {
+      "chapter": 16,
+      "verse": 22,
+      "ref": "BG_16.022",
+      "text": "etair vimuktaḥ kaunteya tamo-dvārais tribhir naraḥ | ācaraty ātmanaḥ śreyas tato yāti parāṃ gatim ||22||"
+    },
+    {
+      "chapter": 16,
+      "verse": 23,
+      "ref": "BG_16.023",
+      "text": "yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ | na sa siddhim avāpnoti na sukhaṃ na parāṃ gatim ||23||"
+    },
+    {
+      "chapter": 16,
+      "verse": 24,
+      "ref": "BG_16.024",
+      "text": "tasmāc chāstraṃ pramāṇaṃ te kāryākārya-vyavasthitau | jñātvā śāstra-vidhānoktaṃ karma kartum ihārhasi ||24|| deva-daiteya-sampatti-saṃvibhāgena ṣoḍaśe | tattva-jñāne 'dhikāras tu sāttvikasyeti darśitam || āstikā eva vindanti sad-gatiṃ santa eva te | nāstikā narakaṃ yāntīty adhyāyārtho nirūpitaḥ || vedārtha-naiṣṭhikā yānti svargaṃ mokṣaṃ ca śāśvatam | veda-bāhyās tu narakān iti ṣoḍaśa-nirṇayaḥ ||"
+    },
+    {
+      "chapter": 17,
+      "verse": 1,
+      "ref": "BG_17.001",
+      "text": "ye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ | teṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ ||1|| śrīdharaḥ : uktādhikāra-hetūnāṃ śraddhā mukhyā tu sāttvikī | iti saptadaśe gauṇa-śraddhā-bhedas tridhocyate || viśvanāthaḥ : atha saptadaśe vastu sāttvikaṃ rājasaṃ tathā | tāmasaṃ ca vivicyoktaṃ pārtha-praśnottaraṃ yathā || nanv āsura-sargam uktvā tad-upasaṃhāre - yaḥ śāstra-vidhim utsṛjya vartate kāmacārataḥ | na sa siddhim avāpnoti na sukhaṃ na parāṃ gatim ||[Gītā 16.24] baladevaḥ : sāttvikaṃ rājasaṃ vastu tāmasaṃ ca vivekataḥ | kṛṣṇaḥ saptadaśe 'vādīt pārtha-praśnānusārataḥ ||"
+    },
+    {
+      "chapter": 17,
+      "verse": 2,
+      "ref": "BG_17.002",
+      "text": "trividhā bhavati śraddhā dehināṃ sā svabhāvajā | sāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||2||"
+    },
+    {
+      "chapter": 17,
+      "verse": 3,
+      "ref": "BG_17.003",
+      "text": "sattvānurūpā sarvasya śraddhā bhavati bhārata | śraddhā-mayo 'yaṃ puruṣo yo yac-chraddhaḥ sa eva saḥ ||3|| śamo damas titikṣejyā tapaḥ satyaṃ dayā smṛtiḥ | tuṣṭis tyāgo 'spṛhā śraddhā hrīr dayā nirvṛttir dhṛtiḥ ||[BhP 11.25.2] yajante sāttvikā devān yakṣarakṣāṃsi rājasāḥ | pretān bhūtagaṇāṃś cānye yajante tāmasā janāḥ ||4||"
+    },
+    {
+      "chapter": 17,
+      "verse": 5,
+      "ref": "BG_17.005",
+      "text": "aśāstra-vihitaṃ ghoraṃ tapyante ye tapo janāḥ | dambhāhaṃkāra-saṃyuktāḥ kāma-rāga-balānvitāḥ ||5|| karśayantaḥ śarīra-sthaṃ bhūta-grāmam acetasaḥ | māṃ caivāntaḥ-śarīra-sthaṃ tān viddhy āsura-niścayān ||6||"
+    },
+    {
+      "chapter": 17,
+      "verse": 7,
+      "ref": "BG_17.007",
+      "text": "āhāras tv api sarvasya trividho bhavati priyaḥ | yajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu ||7||"
+    },
+    {
+      "chapter": 17,
+      "verse": 8,
+      "ref": "BG_17.008",
+      "text": "āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ | rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ ||8||"
+    },
+    {
+      "chapter": 17,
+      "verse": 9,
+      "ref": "BG_17.009",
+      "text": "kaṭv-amla-lavaṇātyuṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ | āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ ||9||"
+    },
+    {
+      "chapter": 17,
+      "verse": 10,
+      "ref": "BG_17.010",
+      "text": "yāta-yāmaṃ gata-rasaṃ pūti paryuṣitaṃ ca yat | ucchiṣṭam api cāmedhyaṃ bhojanaṃ tāmasa-priyam ||10||"
+    },
+    {
+      "chapter": 17,
+      "verse": 11,
+      "ref": "BG_17.011",
+      "text": "aphalākāṅkṣibhir yajño vidhi-dṛṣṭo ya ijyate | yaṣṭavyam eveti manaḥ samādhāya sa sāttvikaḥ ||11||"
+    },
+    {
+      "chapter": 17,
+      "verse": 12,
+      "ref": "BG_17.012",
+      "text": "abhisaṃdhāya tu phalaṃ dambhārtham api caiva yat | ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam ||12||"
+    },
+    {
+      "chapter": 17,
+      "verse": 13,
+      "ref": "BG_17.013",
+      "text": "vidhi-hīnam asṛṣṭānnaṃ mantra-hīnam adakṣiṇam | śraddhā-virahitaṃ yajñaṃ tāmasaṃ paricakṣate ||13|| deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam | brahmacaryam ahiṃsā ca śārīraṃ tapa ucyate ||14||"
+    },
+    {
+      "chapter": 17,
+      "verse": 15,
+      "ref": "BG_17.015",
+      "text": "anudvega-karaṃ vākyaṃ satyaṃ priya-hitaṃ ca yat | svādhyāyābhyasanaṃ caiva vāṅ-mayaṃ tapa ucyate ||15||"
+    },
+    {
+      "chapter": 17,
+      "verse": 16,
+      "ref": "BG_17.016",
+      "text": "manaḥ-prasādaḥ saumyatvaṃ maunam ātma-vinigrahaḥ | bhāva-saṃśuddhir ity etat tapo mānasam ucyate ||16||"
+    },
+    {
+      "chapter": 17,
+      "verse": 17,
+      "ref": "BG_17.017",
+      "text": "śraddhayā parayā taptaṃ tapas tat trividhaṃ naraiḥ | aphalākāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate ||17||"
+    },
+    {
+      "chapter": 17,
+      "verse": 18,
+      "ref": "BG_17.018",
+      "text": "satkāra-māna-pūjārthaṃ tapo dambhena caiva yat | kriyate tad iha proktaṃ rājasaṃ calam adhruvam ||18||"
+    },
+    {
+      "chapter": 17,
+      "verse": 19,
+      "ref": "BG_17.019",
+      "text": "mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ | parasyotsādanārthaṃ vā tat tāmasam udāhṛtam ||19||"
+    },
+    {
+      "chapter": 17,
+      "verse": 20,
+      "ref": "BG_17.020",
+      "text": "dātavyam iti yad dānaṃ dīyate 'nupakāriṇe | deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam ||20||"
+    },
+    {
+      "chapter": 17,
+      "verse": 21,
+      "ref": "BG_17.021",
+      "text": "yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ | dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam ||21||"
+    },
+    {
+      "chapter": 17,
+      "verse": 22,
+      "ref": "BG_17.022",
+      "text": "adeśakāle yad dānam apātrebhyaś ca dīyate | asatkṛtam avajñātaṃ tat tāmasam udāhṛtam ||22||"
+    },
+    {
+      "chapter": 17,
+      "verse": 23,
+      "ref": "BG_17.023",
+      "text": "oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ | brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā ||23|| tasmād om ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ | pravartante vidhānoktāḥ satataṃ brahma-vādinām ||24|| pramādāt kurvatāṃ karma pracyavetādhvareṣu yat | smaraṇād eva tad viṣṇoḥ sampūrṇaṃ syād iti śrutiḥ ||"
+    },
+    {
+      "chapter": 17,
+      "verse": 25,
+      "ref": "BG_17.025",
+      "text": "tad ity anabhisaṃdhāya phalaṃ yajña-tapaḥ-kriyāḥ | dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ ||25||"
+    },
+    {
+      "chapter": 17,
+      "verse": 26,
+      "ref": "BG_17.026",
+      "text": "sad-bhāve sādhu-bhāve ca sad ity etat prayujyate | praśaste karmaṇi tathā sac-chabdaḥ pārtha yujyate ||26|| yajñe tapasi dāne ca sthitiḥ sad iti cocyate | karma caiva tad-arthīyaṃ sad ity evābhidhīyate ||27||"
+    },
+    {
+      "chapter": 17,
+      "verse": 28,
+      "ref": "BG_17.028",
+      "text": "aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat | asad ity ucyate pārtha na ca tat pretya no iha ||28|| rajas-tamo-mayīṃ tyaktvā śraddhāṃ sattva-mayīṃ śritaḥ | tattva-jñāne 'dhikārī syād iti saptadaśe sthitam || ukteṣu vividheṣv eva sāttvikaṃ śraddhayā kṛtam | yat syāt tad eva mokṣārham ity adhyāyārtha īritaḥ || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsv ayaṃ saptadaśaḥ saṅgataḥ saṅgataḥ satām || śraddhāṃ svabhāvajāṃ hitvā śāstrajāṃ tāṃ samāśritaḥ | niḥśreyasādhikārī syād iti saptadaśī sthitiḥ ||"
+    },
+    {
+      "chapter": 18,
+      "verse": 1,
+      "ref": "BG_18.001",
+      "text": "arjuna uvāca saṃnyāsasya mahābāho tattvam icchāmi veditum | tyāgasya ca hṛṣīkeśa pṛthak keśiniṣūdana ||1|| nyāsa-tyāga-vibhāgena sarva-gītārtha-saṅgraham | spaṣṭam aṣṭādaśe prāha paramārtha-vinirṇaye || sannyāsa-jñāna-karmādes traividhyaṃ mukti-nirṇayaḥ | guhya-sāratamā bhaktir ity aṣṭādaśa ucyate || tad ity anabhisandhāya phalaṃ yajña-tapaḥ-kriyāḥ | dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ || (Gītā 17.25) gītārthān iha saṅgṛhṇan harir aṣṭādaśe 'khilān | bhaktes tatra prapatteś ca so 'bravīd atigopyatām ||"
+    },
+    {
+      "chapter": 18,
+      "verse": 2,
+      "ref": "BG_18.002",
+      "text": "śrībhagavān uvāca kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ | sarvakarmaphalatyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ ||2|| pratyak-pravaṇatāṃ buddheḥ karmāṇi utpādya śuddhitaḥ | kṛtārthānyastam āyānti prāvṛḍaste ghanā iva || tāvat karmāṇi kurvīta na nirvidyeta yāvatā | mat-kathā-śravaṇādau vā śraddhā yāvan na jāyate || (BhP 11.20.9)"
+    },
+    {
+      "chapter": 18,
+      "verse": 3,
+      "ref": "BG_18.003",
+      "text": "tyājyaṃ doṣavad ity eke karma prāhur manīṣiṇaḥ | yajñadānatapaḥkarma na tyājyam iti cāpare ||3||"
+    },
+    {
+      "chapter": 18,
+      "verse": 4,
+      "ref": "BG_18.004",
+      "text": "niścayaṃ śṛṇu me tatra tyāge bharatasattama | tyāgo hi puruṣavyāghra trividhaḥ saṃprakīrtitaḥ ||4||"
+    },
+    {
+      "chapter": 18,
+      "verse": 5,
+      "ref": "BG_18.005",
+      "text": "yajñadānatapaḥkarma na tyājyaṃ kāryam eva tat | yajño dānaṃ tapaś caiva pāvanāni manīṣiṇām ||5||"
+    },
+    {
+      "chapter": 18,
+      "verse": 6,
+      "ref": "BG_18.006",
+      "text": "etāny api tu karmāṇi saṅgaṃ tyaktvā phalāni ca | kartavyānīti me pārtha niścitaṃ matam uttamam ||6||"
+    },
+    {
+      "chapter": 18,
+      "verse": 7,
+      "ref": "BG_18.007",
+      "text": "niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate | mohāt tasya parityāgas tāmasaḥ parikīrtitaḥ ||7||"
+    },
+    {
+      "chapter": 18,
+      "verse": 8,
+      "ref": "BG_18.008",
+      "text": "duḥkham ity eva yat karma kāyakleśabhayāt tyajet | sa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet ||8||"
+    },
+    {
+      "chapter": 18,
+      "verse": 9,
+      "ref": "BG_18.009",
+      "text": "kāryam ity eva yat karma niyataṃ kriyaterjuna | saṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ ||9||"
+    },
+    {
+      "chapter": 18,
+      "verse": 10,
+      "ref": "BG_18.010",
+      "text": "na dveṣṭy akuśalaṃ karma kuśale nānuṣajjate | tyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ ||10||"
+    },
+    {
+      "chapter": 18,
+      "verse": 12,
+      "ref": "BG_18.012",
+      "text": "aniṣṭam iṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam | bhavaty atyāgināṃ pretya na tu saṃnyāsināṃ kvacit ||12||"
+    },
+    {
+      "chapter": 18,
+      "verse": 14,
+      "ref": "BG_18.014",
+      "text": "adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham | vividhāś ca pṛthakceṣṭā daivaṃ caivātra pañcamam ||14||"
+    },
+    {
+      "chapter": 18,
+      "verse": 15,
+      "ref": "BG_18.015",
+      "text": "śarīravāṅmanobhir yat karma prārabhate naraḥ | nyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ ||15||"
+    },
+    {
+      "chapter": 18,
+      "verse": 16,
+      "ref": "BG_18.016",
+      "text": "tatraivaṃ sati kartāram ātmānaṃ kevalaṃ tu yaḥ | paśyaty akṛtabuddhitvān na sa paśyati durmatiḥ ||16||"
+    },
+    {
+      "chapter": 18,
+      "verse": 17,
+      "ref": "BG_18.017",
+      "text": "yasya nāhaṃkṛto bhāvo buddhir yasya na lipyate | hatvā.api sa imāṃl lokān na hanti na nibadhyate ||17||"
+    },
+    {
+      "chapter": 18,
+      "verse": 18,
+      "ref": "BG_18.018",
+      "text": "jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā | karaṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ ||18|| praviṣṭaḥ karṇa-randhreṇa svānāṃ bhāva-saroruham | dhunoti śamalaṃ kṛṣṇaḥ salilasya yathā śarat || (BhP 2.8.5)"
+    },
+    {
+      "chapter": 18,
+      "verse": 19,
+      "ref": "BG_18.019",
+      "text": "jñānaṃ karma ca kartā ca tridhaiva guṇabhedataḥ | procyate guṇasaṃkhyāne yathāvac chṛṇu tāny api ||19||"
+    },
+    {
+      "chapter": 18,
+      "verse": 20,
+      "ref": "BG_18.020",
+      "text": "sarvabhūteṣu yenaikaṃ bhāvam avyayam īkṣate | avibhaktaṃ vibhakteṣu taj jñānaṃ viddhi sāttvikam ||20||"
+    },
+    {
+      "chapter": 18,
+      "verse": 21,
+      "ref": "BG_18.021",
+      "text": "pṛthaktvena tu yaj jñānaṃ nānābhāvān pṛthagvidhān | vetti sarveṣu bhūteṣu taj jñānaṃ viddhi rājasam ||21||"
+    },
+    {
+      "chapter": 18,
+      "verse": 22,
+      "ref": "BG_18.022",
+      "text": "yat tu kṛtsnavad ekasmin kārye saktam ahetukam | atattvārthavad alpaṃ ca tat tāmasam udāhṛtam ||22||"
+    },
+    {
+      "chapter": 18,
+      "verse": 23,
+      "ref": "BG_18.023",
+      "text": "niyataṃ saṅgarahitam arāgadveṣataḥ kṛtam | aphalaprepsunā karma yat tat sāttvikam ucyate ||23||"
+    },
+    {
+      "chapter": 18,
+      "verse": 24,
+      "ref": "BG_18.024",
+      "text": "yat tu kāmepsunā karma sāhaṃkāreṇa vā punaḥ | kriyate bahulāyāsaṃ tad rājasam udāhṛtam ||24||"
+    },
+    {
+      "chapter": 18,
+      "verse": 25,
+      "ref": "BG_18.025",
+      "text": "anubandhaṃ kṣayaṃ hiṃsām anapekṣya ca pauruṣam | mohād ārabhyate karma yat tat tāmasam ucyate ||25||"
+    },
+    {
+      "chapter": 18,
+      "verse": 26,
+      "ref": "BG_18.026",
+      "text": "muktasaṅgonahaṃvādī dhṛtyutsāhasamanvitaḥ | siddhyasiddhyor nirvikāraḥ kartā sāttvika ucyate ||26||"
+    },
+    {
+      "chapter": 18,
+      "verse": 27,
+      "ref": "BG_18.027",
+      "text": "rāgī karmaphalaprepsur lubdho hiṃsātmakośuciḥ | harṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||27||"
+    },
+    {
+      "chapter": 18,
+      "verse": 28,
+      "ref": "BG_18.028",
+      "text": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtikolasaḥ | viṣādī dīrghasūtrī ca kartā tāmasa ucyate ||28||"
+    },
+    {
+      "chapter": 18,
+      "verse": 29,
+      "ref": "BG_18.029",
+      "text": "buddher bhedaṃ dhṛteś caiva guṇatas trividhaṃ śṛṇu | procyamānam aśeṣeṇa pṛthaktvena dhanaṃjaya ||29||"
+    },
+    {
+      "chapter": 18,
+      "verse": 30,
+      "ref": "BG_18.030",
+      "text": "pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye | bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||30||"
+    },
+    {
+      "chapter": 18,
+      "verse": 31,
+      "ref": "BG_18.031",
+      "text": "yayā dharmam adharmaṃ ca kāryaṃ cākāryam eva ca | ayathāvat prajānāti buddhiḥ sā pārtha rājasī ||31||"
+    },
+    {
+      "chapter": 18,
+      "verse": 32,
+      "ref": "BG_18.032",
+      "text": "adharmaṃ dharmam iti yā manyate tamasāvṛtā | sarvārthān viparītāñś ca buddhiḥ sā pārtha tāmasī ||32||"
+    },
+    {
+      "chapter": 18,
+      "verse": 33,
+      "ref": "BG_18.033",
+      "text": "dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ | yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||33||"
+    },
+    {
+      "chapter": 18,
+      "verse": 34,
+      "ref": "BG_18.034",
+      "text": "yayā tu dharmakāmārthān dhṛtyā dhārayaterjuna | prasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī ||34||"
+    },
+    {
+      "chapter": 18,
+      "verse": 35,
+      "ref": "BG_18.035",
+      "text": "yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madam eva ca | na vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||35||"
+    },
+    {
+      "chapter": 18,
+      "verse": 36,
+      "ref": "BG_18.036",
+      "text": "sukhaṃ tv idānīṃ trividhaṃ śṛṇu me bharatarṣabha | abhyāsād ramate yatra duḥkhāntaṃ ca nigacchhati ||36|| yat tadagre viṣam iva pariṇāmemṛtopamam | tat sukhaṃ sāttvikaṃ proktam ātmabuddhiprasādajam ||37||"
+    },
+    {
+      "chapter": 18,
+      "verse": 38,
+      "ref": "BG_18.038",
+      "text": "viṣayendriyasañyogād yat tad agremṛtopamam | pariṇāme viṣam iva tat sukhaṃ rājasaṃ smṛtam ||38||"
+    },
+    {
+      "chapter": 18,
+      "verse": 39,
+      "ref": "BG_18.039",
+      "text": "yad agre cānubandhe ca sukhaṃ mohanam ātmanaḥ | nidrālasyapramādotthaṃ tat tāmasam udāhṛtam ||39||"
+    },
+    {
+      "chapter": 18,
+      "verse": 40,
+      "ref": "BG_18.040",
+      "text": "na tad asti pṛthivyāṃ vā divi deveṣu vā punaḥ | sattvaṃ prakṛtijair muktaṃ yad ebhiḥ syāt tribhir guṇaiḥ ||40||"
+    },
+    {
+      "chapter": 18,
+      "verse": 41,
+      "ref": "BG_18.041",
+      "text": "brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca paraṃtapa | karmāṇi pravibhaktāni svabhāvaprabhavair guṇaiḥ ||41||"
+    },
+    {
+      "chapter": 18,
+      "verse": 42,
+      "ref": "BG_18.042",
+      "text": "śamo damas tapaḥ śaucaṃ kṣāntir ārjavam eva ca | jñānaṃ vijñānam āstikyaṃ brahmakarma svabhāvajam ||42|| kṣamā satyaṃ damaḥ śaucaṃ dānam indriya-saṃyamaḥ | ahiṃsā guru-śuśrūṣā tīrthānusaraṇaṃ dayā ||"
+    },
+    {
+      "chapter": 18,
+      "verse": 43,
+      "ref": "BG_18.043",
+      "text": "śauryaṃ tejo dhṛtir dākṣyaṃ yuddhe cāpy apalāyanam | dānam īśvarabhāvaś ca kṣātraṃ karma svabhāvajam ||43||"
+    },
+    {
+      "chapter": 18,
+      "verse": 44,
+      "ref": "BG_18.044",
+      "text": "kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam | paricaryātmakaṃ karma śūdrasyāpi svabhāvajam ||44||"
+    },
+    {
+      "chapter": 18,
+      "verse": 45,
+      "ref": "BG_18.045",
+      "text": "sve sve karmaṇy abhirataḥ saṃsiddhiṃ labhate naraḥ | svakarmanirataḥ siddhiṃ yathā vindati tac chṛṇu ||45||"
+    },
+    {
+      "chapter": 18,
+      "verse": 46,
+      "ref": "BG_18.046",
+      "text": "yataḥ pravṛttir bhūtānāṃ yena sarvam idaṃ tatam | svakarmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ ||46||"
+    },
+    {
+      "chapter": 18,
+      "verse": 47,
+      "ref": "BG_18.047",
+      "text": "śreyān svadharmo viguṇaḥ paradharmot svanuṣṭhitāt | svabhāvaniyataṃ karma kurvan nāpnoti kilbiṣam ||47||"
+    },
+    {
+      "chapter": 18,
+      "verse": 48,
+      "ref": "BG_18.048",
+      "text": "sahajaṃ karma kaunteya sadoṣam api na tyajet | sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ ||48||"
+    },
+    {
+      "chapter": 18,
+      "verse": 49,
+      "ref": "BG_18.049",
+      "text": "asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ | naiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati ||49||"
+    },
+    {
+      "chapter": 18,
+      "verse": 50,
+      "ref": "BG_18.050",
+      "text": "siddhiṃ prāpto yathā brahma tathāpnoti nibodha me | samāsenaiva kaunteya niṣṭhā jñānasya yā parā ||50||"
+    },
+    {
+      "chapter": 18,
+      "verse": 51,
+      "ref": "BG_18.051",
+      "text": "buddhyā viśuddhayā yukto dhṛtyātmānaṃ niyamya ca | śabdādīn viṣayāṃs tyaktvā rāgadveṣau vyudasya ca ||51|| viviktasevī laghvāśī yatavākkāyamānasaḥ | dhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ ||52|| ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham | vimucya nirmamaḥ śānto brahmabhūyāya kalpate ||53||"
+    },
+    {
+      "chapter": 18,
+      "verse": 54,
+      "ref": "BG_18.054",
+      "text": "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati | samaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām ||54||"
+    },
+    {
+      "chapter": 18,
+      "verse": 55,
+      "ref": "BG_18.055",
+      "text": "bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ | tato māṃ tattvato jñātvā viśate tadanantaram ||55|| mukha-bāhūru-pādebhyaḥ puruṣasyāśramaiḥ saha | catvāro jajñire varṇā guṇair viprādayaḥ pṛthak || (BhP 11.5.2)"
+    },
+    {
+      "chapter": 18,
+      "verse": 56,
+      "ref": "BG_18.056",
+      "text": "sarvakarmāṇy api sadā kurvāṇo madvyapāśrayaḥ | matprasādād avāpnoti śāśvataṃ padam avyayam ||56||"
+    },
+    {
+      "chapter": 18,
+      "verse": 57,
+      "ref": "BG_18.057",
+      "text": "cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ | buddhiyogam upāśritya maccittaḥ satataṃ bhava ||57||"
+    },
+    {
+      "chapter": 18,
+      "verse": 58,
+      "ref": "BG_18.058",
+      "text": "maccittaḥ sarvadurgāṇi matprasādat tariṣyasi | atha cet tvam ahaṃkārān na śroṣyasi vinaṅkṣyasi ||58||"
+    },
+    {
+      "chapter": 18,
+      "verse": 59,
+      "ref": "BG_18.059",
+      "text": "yad ahaṃkāram āśritya na yotsya iti manyase | mithyaiṣa vyavasāyas te prakṛtis tvāṃ niyokṣyati ||59||"
+    },
+    {
+      "chapter": 18,
+      "verse": 60,
+      "ref": "BG_18.060",
+      "text": "svabhāvajena kaunteya nibaddhaḥ svena karmaṇā | kartuṃ necchasi yan mohāt kariṣyasy avaśopi tat ||60||"
+    },
+    {
+      "chapter": 18,
+      "verse": 61,
+      "ref": "BG_18.061",
+      "text": "īśvaraḥ sarvabhūtānāṃ hṛddeśerjuna tiṣṭhati | bhrāmayan sarvabhūtāni yantrārūḍhāni māyayā ||61|| yac ca kiñcij jagaty asmin[*ENDNOTE] dṛśyate śrūyate 'pi vā | antar-bahiś ca tat sarvaṃ vyāpya nārāyaṇaḥ sthitaḥ || (Mahānārāyaṇa Upaniṣad 13.5)"
+    },
+    {
+      "chapter": 18,
+      "verse": 62,
+      "ref": "BG_18.062",
+      "text": "tam eva śaraṇaṃ gaccha sarvabhāvena bhārata | tatprasādāt parāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam ||62||"
+    },
+    {
+      "chapter": 18,
+      "verse": 63,
+      "ref": "BG_18.063",
+      "text": "iti te jñānam ākhyātaṃ guhyād guhyataraṃ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru ||63||"
+    },
+    {
+      "chapter": 18,
+      "verse": 64,
+      "ref": "BG_18.064",
+      "text": "sarvaguhyatamaṃ bhūyaḥ śṛṇu me paramaṃ vacaḥ | iṣṭosi me dṛḍham iti tato vakṣyāmi te hitam ||64|| man-manā bhava mad-bhakto mad-yājī māṃ namaskuru | mām evaiṣyasi yuktvaivam ātmānaṃ mat-parāyaṇaḥ || (Gītā 9.34) iti"
+    },
+    {
+      "chapter": 18,
+      "verse": 65,
+      "ref": "BG_18.065",
+      "text": "manmanā bhava madbhakto madyājī māṃ namaskuru | mām evaiṣyasi satyaṃ te pratijāne priyosi me ||65||"
+    },
+    {
+      "chapter": 18,
+      "verse": 66,
+      "ref": "BG_18.066",
+      "text": "sarvadharmān parityajya mām ekaṃ śaraṇaṃ vraja | ahaṃ tvā sarvapāpebhyo mokṣyayiṣyāmi mā śucaḥ ||66|| devarṣi-bhūtāpta-nṝṇāṃ pitṝṇāṃ nāyaṃ kiṅkaro nāyam ṛṇī ca rājan | sarvātmanā yaḥ śaraṇaṃ śaraṇyaṃ gato mukundaṃ parihṛtya kartam || (BhP 11.5.41) martyo yadā tyakta-samasta-karmā niveditātmā vicikīrṣito me | tadāmṛtatvaṃ pratipadyamāno mayātma-bhūyāya ca kalpate vai || (BhP 11.29.32) tāvat karmāṇi kurvīta na nirvidyeta yāvatā | mat-kathā-śravaṇādau vā śraddhā yāvan na jāyate || (BhP 11.20.9) ājñāyaiva guṇān doṣān mayādiṣṭān api svakān | dharmān santyajya yaḥ sarvān māṃ bhajet sa ca sattamaḥ || (BhP 11.11.37)"
+    },
+    {
+      "chapter": 18,
+      "verse": 67,
+      "ref": "BG_18.067",
+      "text": "idaṃ te nātapaskāya nābhaktāya kadācana | na cāśuśrūṣave vācyaṃ na ca māṃ yobhyasūyati ||67||"
+    },
+    {
+      "chapter": 18,
+      "verse": 69,
+      "ref": "BG_18.069",
+      "text": "na ca tasmān manuṣyeṣu kaścin me priyakṛttamaḥ | bhavitā na ca me tasmād anyaḥ priyataro bhuvi ||69||"
+    },
+    {
+      "chapter": 18,
+      "verse": 70,
+      "ref": "BG_18.070",
+      "text": "adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādam āvayoḥ | jñānayajñena tenāham iṣṭaḥ syām iti me matiḥ ||70||"
+    },
+    {
+      "chapter": 18,
+      "verse": 71,
+      "ref": "BG_18.071",
+      "text": "śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ | sopi muktaḥ śubhāṃl lokān prāpnuyāt puṇyakarmaṇām ||71||"
+    },
+    {
+      "chapter": 18,
+      "verse": 72,
+      "ref": "BG_18.072",
+      "text": "kaccid etac chrutaṃ pārtha tvayaikāgreṇa cetasā | kaccid ajñānasaṃmohaḥ pranaṣṭas te dhanaṃjaya ||72||"
+    },
+    {
+      "chapter": 18,
+      "verse": 73,
+      "ref": "BG_18.073",
+      "text": "arjuna uvāca naṣṭo mohaḥ smṛtir labdhā tvatprasādān mayācyuta | sthitosmi gatasaṃdehaḥ kariṣye vacanaṃ tava ||73||"
+    },
+    {
+      "chapter": 18,
+      "verse": 74,
+      "ref": "BG_18.074",
+      "text": "sañjaya uvāca ity ahaṃ vāsudevasya pārthasya ca mahātmanaḥ | saṃvādam imam aśrauṣam adbhutaṃ romaharṣaṇam ||74|| sārārthavarṣiṇī viśva-janīnā bhakta-cātakān | mādhurī dhinutād asyā mādhurī bhātu me hṛdi || iti sārārtha-varṣiṇyāṃ harṣiṇyāṃ bhakta-cetasām | gītāsv aṣṭādaśo 'dhyāyaḥ saṅgataḥ saṅgataḥ satām ||"
+    },
+    {
+      "chapter": 18,
+      "verse": 75,
+      "ref": "BG_18.075",
+      "text": "vyāsaprasādāc chrutavān etad guhyam ahaṃ param | yogaṃ yogeśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam ||75||"
+    },
+    {
+      "chapter": 18,
+      "verse": 76,
+      "ref": "BG_18.076",
+      "text": "rājan saṃsmṛtya saṃsmṛtya saṃvādam imam adbhutam | keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhur muhuḥ ||76||"
+    },
+    {
+      "chapter": 18,
+      "verse": 77,
+      "ref": "BG_18.077",
+      "text": "tac ca saṃsmṛtya saṃsmṛtya rūpam atyadbhutaṃ hareḥ | vismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ ||77||"
+    },
+    {
+      "chapter": 18,
+      "verse": 78,
+      "ref": "BG_18.078",
+      "text": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ | tatra śrīr vijayo bhūtir dhruvā nītir matir mama ||78|| bhagavad-bhakti-yuktasya tat-prasādātma-bodhataḥ | sukhaṃ bandha-vimuktiḥ syād iti gītārtha-saṅgrahaḥ || mad-bhakta etad vijñāya mad-bhāvāyopapadyate | prakṛtiṃ puruṣaṃ caiva viddhy anādī ubhāv api || (Gītā 13.19) yasya deve parā bhaktir yathā deve tathā gurau | tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ || (ŚvetU 6.23) tenaiva dattayā matyā tad-gītā-vivṛtiḥ kṛtā | sa eva paramānandas tayā prīṇātu mādhavaḥ || paramānanda-pādābja-rajaḥ-śrīdhāriṇādhunā | Śrīdhara-svāmi-yatinā kṛtā gītā-subodhinī || sva-prāgalbhya-balād vilobhya bhagavad-gītāṃ tad-antar-gatam tattvaṃ prepsur upaiti kiṃ guru-kṛpā-pīyūṣa-dṛṣṭiṃ vinā | ambu svāñjalinā nirasya jaladher āditsur antarmaṇī nāvarteṣu na kiṃ nimajjati janaḥ sat-karṇa-dhāraṃ vinā || upāyā bahavas teṣu prapattir dāsya-pūrvikā | kṣipraṃ prasādanī viṣṇor ity aṣṭādaśato matam || pītaṃ yena yaśodā-stanyaṃ nītaṃ pārtha-sārathyam | sphītaṃ sad-guṇa-vṛndais tad atra gītaṃ paraṃ tattvam || yad icchā-tariṃ prāpya gītāpayodhau nyamajjaṃ gṛhītāti-citrārtha-ratnam | na cottātum asmi prabhur harṣa-yogāt sa me kautukī nanda-sūnuḥ priyastāt || śrīmad-gītā-bhūṣaṇaṃ nāma bhāṣyaṃ yatnād vidyā-bhūṣaṇenopacīrṇam | śrī-govinda-prema-mādhurya-lubdhāḥ kāruṇyārdrāḥ sādhavaḥ śodhayadhvam ||"
+    }
+  ]
+}

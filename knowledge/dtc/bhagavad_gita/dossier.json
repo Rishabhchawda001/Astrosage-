@@ -1,0 +1,193 @@
+{
+  "canonical_name": "Śrīmadbhagavadgītā",
+  "traditional_name": "श्रीमद्भगवद्गीता",
+  "iast_name": "Śrīmadbhagavadgītā",
+  "scripture_id": "BG",
+  "classification": {
+    "tradition": "Hindu",
+    "category": "Smṛti (Itihāsa)",
+    "parent": "Mahābhārata",
+    "location_in_parent": "Bhīṣmaparva, adhyāyas 25-42",
+    "canonical_status": "Smṛti (treated as Śruti by many traditions)",
+    "schools": [
+      "Advaita (Śaṅkara, 8th c.)",
+      "Viśiṣṭādvaita (Rāmānuja, 11th c.)",
+      "Dvaita (Madhva, 13th c.)",
+      "Dvaitādvaita (Bhāskara, 9th c.; Nimbārka, 13th c.)",
+      "Śuddhādvaita (Vallabha, 16th c.)",
+      "Acintyabhedābheda (Caitanya, 16th c.)"
+    ]
+  },
+  "expected_structure": {
+    "chapters": 18,
+    "total_slokas": 700,
+    "chapter_names": {
+      "1": "Arjunaviṣādayoga",
+      "2": "Sāṅkhyayoga",
+      "3": "Karmayoga",
+      "4": "Jñānakarmasaṃnyāsayoga",
+      "5": "Karmasaṃnyāsayoga",
+      "6": "Dhyānayoga",
+      "7": "Jñānavijñānayoga",
+      "8": "Akṣarabrahmayoga",
+      "9": "Rājavidyārājaguhyayoga",
+      "10": "Vibhūtiyoga",
+      "11": "Viśvarūpadarśanayoga",
+      "12": "Bhaktiyoga",
+      "13": "Kṣetrakṣetrajñayoga",
+      "14": "Guṇatrayavibhāgayoga",
+      "15": "Puruṣottamayoga",
+      "16": "Daivāsurasampadvibhāgayoga",
+      "17": "Śraddhātrayavibhāgayoga",
+      "18": "Mokṣasaṃnyāsayoga"
+    },
+    "expected_verse_counts": {
+      "1": 46,
+      "2": 72,
+      "3": 43,
+      "4": 42,
+      "5": 29,
+      "6": 47,
+      "7": 30,
+      "8": 28,
+      "9": 34,
+      "10": 42,
+      "11": 55,
+      "12": 20,
+      "13": 35,
+      "14": 27,
+      "15": 20,
+      "16": 24,
+      "17": 28,
+      "18": 78
+    },
+    "speakers": [
+      "Sañjaya",
+      "Dhṛtarāṣṭra",
+      "Arjuna",
+      "Kṛṣṇa"
+    ],
+    "meter": "Anuṣṭubh (predominantly), with exceptions in ch. 11"
+  },
+  "stemma_notes": {
+    "known_recensions": [
+      {
+        "name": "Kashmir recension",
+        "features": "Includes additional verses, distinct readings",
+        "manuscripts": "Kashmir śāradā manuscripts"
+      },
+      {
+        "name": "Southern recension",
+        "features": "700 verses, closest to critical edition base text",
+        "manuscripts": "Malayalam, Grantha, Telugu, Kannada"
+      },
+      {
+        "name": "Northern recension",
+        "features": "Includes additional verses",
+        "manuscripts": "Devanāgarī, Bengali"
+      },
+      {
+        "name": "Śaṅkara recension",
+        "features": "Based on southern text, 700 verses",
+        "witness": "Śaṅkarabhāṣya"
+      }
+    ],
+    "critical_editions": [
+      {
+        "editor": "Franklin Edgerton",
+        "year": 1952,
+        "title": "The Bhagavad Gītā",
+        "publisher": "Harvard University Press",
+        "volumes": 2,
+        "witnesses_used": "Multiple manuscripts and commentaries",
+        "authority": 95
+      },
+      {
+        "editor": "Wasudev Laxman Shastri Pansikar",
+        "year": 1912,
+        "title": "Śrīmadbhagavadgītā with 8 commentaries",
+        "publisher": "Nirnaya Sagar Press",
+        "authority": 85
+      },
+      {
+        "editor": "S. K. Belvalkar",
+        "year": 1968,
+        "title": "Bhagavadgītā (critical edition)",
+        "publisher": "BORI, Pune",
+        "authority": 85
+      }
+    ]
+  },
+  "current_witness_corpus": {
+    "gretil_xml": [
+      {
+        "file": "bhagavad_gita_4comm_gretil.xml",
+        "content": "Verses + Śrīdhara, Madhusūdana, Viśvanātha, Baladeva commentaries",
+        "verses_extracted": "606/700",
+        "authority": 90
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil.xml",
+        "content": "Verses + Śaṅkarabhāṣya",
+        "verses_extracted": 606,
+        "authority": 90
+      },
+      {
+        "file": "bhaskara_gita_bhashya_gretil.xml",
+        "content": "Bhāskara's commentary",
+        "authority": 90
+      },
+      {
+        "file": "madhva_gita_bhashya_gretil.xml",
+        "content": "Madhva's commentary",
+        "authority": 90
+      },
+      {
+        "file": "ramanuja_gita_bhashya_gretil.xml",
+        "content": "Rāmānuja's commentary",
+        "authority": 90
+      }
+    ],
+    "publisher_txt": [
+      {
+        "file": "bhagavat_gita_press_sanskrit_hindi.txt",
+        "publisher": "Gita Press",
+        "type": "OCR",
+        "quality": "medium"
+      },
+      {
+        "file": "bhagavat_gitapress_complete.txt",
+        "publisher": "Gita Press",
+        "type": "OCR",
+        "quality": "medium"
+      },
+      {
+        "file": "bhagavad_gita_warrier_bhashya_djvu.txt",
+        "publisher": "Warrier",
+        "type": "OCR",
+        "quality": "low"
+      }
+    ]
+  },
+  "gap_assessment": {
+    "total_ideal_witnesses": 22,
+    "currently_acquired": 6,
+    "coverage_pct": 27.3,
+    "critical_missing_witnesses": [
+      "BORI Critical Edition (primary scholarly witness)",
+      "Edgerton Critical Edition (independent critical)",
+      "Nirnaya Sagar edition with 8 commentaries",
+      "Chowkhamba publisher edition (independent tradition)",
+      "Motilal Banarsidass edition",
+      "Kashmir manuscript tradition",
+      "South Indian manuscript tradition (Grantha scripts)",
+      "Bengali manuscript tradition",
+      "Śrīdhara commentary (independent witness)",
+      "Madhusūdana Gūḍhārthadīpikā",
+      "Viśvanātha Sārārthavarśinī",
+      "Baladeva Gītābhūṣaṇa"
+    ]
+  },
+  "last_updated": "2026-07-15",
+  "dossier_status": "complete"
+}
