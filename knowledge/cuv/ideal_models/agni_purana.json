@@ -1,0 +1,66 @@
+{
+  "scripture": "Agni Purana",
+  "expected": {
+    "chapters": 383,
+    "verses": "~10000"
+  },
+  "ideal_witnesses": [
+    {
+      "category": "Critical Edition",
+      "witnesses": [
+        {
+          "name": "Agni Purana Critical Edition",
+          "status": "missing",
+          "priority": 1,
+          "reason": "None known"
+        }
+      ]
+    },
+    {
+      "category": "Publisher Editions",
+      "witnesses": [
+        {
+          "name": "Gita Press",
+          "status": "acquired",
+          "priority": 2
+        },
+        {
+          "name": "Chowkhamba",
+          "status": "missing",
+          "priority": 3
+        },
+        {
+          "name": "Anandashram",
+          "status": "missing",
+          "priority": 4
+        },
+        {
+          "name": "Motilal",
+          "status": "missing",
+          "priority": 5
+        }
+      ]
+    },
+    {
+      "category": "Recensions",
+      "witnesses": [
+        {
+          "name": "Southern",
+          "status": "missing",
+          "priority": 10
+        },
+        {
+          "name": "Northern",
+          "status": "missing",
+          "priority": 11
+        }
+      ]
+    }
+  ],
+  "gap_analysis": {
+    "total_ideal": 11,
+    "acquired": 1,
+    "missing": 10,
+    "coverage": 9.1
+  }
+}

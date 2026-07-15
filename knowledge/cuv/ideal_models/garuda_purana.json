@@ -1,0 +1,50 @@
+{
+  "scripture": "Garuda Purana",
+  "expected": {
+    "chapters": "~70",
+    "verses": "~8000"
+  },
+  "ideal_witnesses": [
+    {
+      "category": "Critical Edition",
+      "witnesses": [
+        {
+          "name": "Garuda Purana Critical Edition",
+          "status": "missing",
+          "priority": 1,
+          "reason": "None known"
+        }
+      ]
+    },
+    {
+      "category": "Publisher Editions",
+      "witnesses": [
+        {
+          "name": "Gita Press",
+          "status": "acquired",
+          "priority": 2
+        },
+        {
+          "name": "Nag",
+          "status": "missing",
+          "priority": 3
+        },
+        {
+          "name": "Chowkhamba",
+          "status": "missing",
+          "priority": 4
+        }
+      ]
+    },
+    {
+      "category": "Recensions",
+      "witnesses": []
+    }
+  ],
+  "gap_analysis": {
+    "total_ideal": 8,
+    "acquired": 1,
+    "missing": 7,
+    "coverage": 12.5
+  }
+}

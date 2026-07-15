@@ -1,0 +1,76 @@
+{
+  "scripture": "Bhagavata Purana",
+  "expected": {
+    "chapters": 12,
+    "verses": "~18000"
+  },
+  "ideal_witnesses": [
+    {
+      "category": "Critical Edition",
+      "witnesses": [
+        {
+          "name": "Bhagavata Purana Critical Edition",
+          "status": "missing",
+          "priority": 1,
+          "reason": "None known"
+        }
+      ]
+    },
+    {
+      "category": "Publisher Editions",
+      "witnesses": [
+        {
+          "name": "Gita Press",
+          "status": "acquired",
+          "priority": 2
+        },
+        {
+          "name": "Chowkhamba (Gudhartha)",
+          "status": "missing",
+          "priority": 3
+        },
+        {
+          "name": "Nag",
+          "status": "missing",
+          "priority": 4
+        },
+        {
+          "name": "Venkateshwar",
+          "status": "missing",
+          "priority": 5
+        }
+      ]
+    },
+    {
+      "category": "Recensions",
+      "witnesses": [
+        {
+          "name": "Southern",
+          "status": "missing",
+          "priority": 10
+        },
+        {
+          "name": "Northern",
+          "status": "missing",
+          "priority": 11
+        },
+        {
+          "name": "Devanagari",
+          "status": "missing",
+          "priority": 12
+        },
+        {
+          "name": "Bengali",
+          "status": "missing",
+          "priority": 13
+        }
+      ]
+    }
+  ],
+  "gap_analysis": {
+    "total_ideal": 13,
+    "acquired": 1,
+    "missing": 12,
+    "coverage": 7.7
+  }
+}

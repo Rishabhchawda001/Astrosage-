@@ -1,0 +1,45 @@
+{
+  "scripture": "Brahma Purana",
+  "expected": {
+    "chapters": "~246",
+    "verses": "~10000"
+  },
+  "ideal_witnesses": [
+    {
+      "category": "Critical Edition",
+      "witnesses": [
+        {
+          "name": "Brahma Purana Critical Edition",
+          "status": "missing",
+          "priority": 1,
+          "reason": "None known"
+        }
+      ]
+    },
+    {
+      "category": "Publisher Editions",
+      "witnesses": [
+        {
+          "name": "Gita Press",
+          "status": "acquired",
+          "priority": 2
+        },
+        {
+          "name": "Anandashram",
+          "status": "missing",
+          "priority": 3
+        }
+      ]
+    },
+    {
+      "category": "Recensions",
+      "witnesses": []
+    }
+  ],
+  "gap_analysis": {
+    "total_ideal": 7,
+    "acquired": 1,
+    "missing": 6,
+    "coverage": 14.3
+  }
+}
