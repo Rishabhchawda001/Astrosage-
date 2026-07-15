@@ -672,7 +672,15 @@
     "padma_puran_gita_press_2025_external",
     "skand_puran_gita_press_new_external",
     "varaha_puran_sanskrit_external",
-    "vishnu_puran_hindi_new_external"
+    "vishnu_puran_hindi_new_external",
+    "bhagavat_chaukhamba_gudhartha_vol1_external",
+    "bhagavat_chaukhamba_gudhartha_vol2_external",
+    "brahma_puran_part2_external",
+    "devi_bhagwat_nilkanthi_external",
+    "harivamsha_bori_external",
+    "harivamsha_sanskrit_supplement_external",
+    "ramayana_baroda_critical_vol1_external",
+    "ramayana_sanskrit_dpsharma_external"
   ],
   "failed_books": [],
   "gap_count": 0,
@@ -680,6 +688,6 @@
   "candidate_count": 0,
   "conflict_count": 0,
   "started_at": "2026-07-13T06:53:56.144374+00:00",
-  "last_updated": "2026-07-14T20:12:49.839198+00:00",
+  "last_updated": "2026-07-15T07:31:59.509169+00:00",
   "metadata": {}
 }

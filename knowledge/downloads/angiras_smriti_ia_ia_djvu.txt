@@ -1,0 +1,6666 @@
+ANGIRASASMRTI 
+
+
+
+Edited by 
+A. N. KRISHNA AIYANGAR, M.A., L.T. 
+
+
+
+ADYAR LIBRARY 
+1953 
+
+
+
+The Aim? Library Series — No* at 
+
+
+
+General Editor : 
+
+G. SRINIVASA MURTI, B.A.. B.L., M.B. & CM., Vaidyaratna 
+Director* Adyar Library 
+
+
+
+XftGIRASASMRTI 
+
+
+
+Price Rs* 6«0«0 
+
+
+
+Printed by D. V, Syamala Rati* 
+
+at the Vasanta Press, 
+
+The Theosophical Society, Adyar, Madras 20 
+
+
+
+FOREWORD 
+
+AMONG the minor smrfis the work of Angiras is often quoted 
+by various dharma nibandhas and commentators on Dharma- 
+s'astra works. Visvariipacarya the earliest commentator on 
+the YajnavalhyasmHi cites several quotations from Angiras 
+or Dharmas'astra topics. Mr. A. N. Krishna Aiyangar* the 
+editor of the present publication pointed out to me that there 
+were some manuscripts of Angirasasmrii in the Adyar Library 
+wherein these quotations have been found and which have 
+not been so far published and as such the Adyar Library may 
+consider them for publication. 
+
+The suggestion was accepted by me* It is now issued as 
+No. 84 of the Adyar Library Series- The work itself is 
+divided into two sections Purva and Uttara Angiras. The 
+passages quoted by the various commentators and nibandhas 
+under Angiras have been identified in this edition in their 
+proper context. A careful examination of the work reveals 
+that it is a practical manual to those interested in the observ- 
+ance of rituals connected with the srraddha and prdya&citta 
+portions of Dharmas'astra. The problems that arise in the 
+actual performance of rituals are clearly indicated in simple 
+verses with practical solutions for their performance. The 
+book is now made available to scholars and all others interest- 
+ed in the subject. 
+
+Adyar Library G. SRINIFASA Murti, 
+
+22nd May 1953 Hony. Director 
+
+
+
+PREFACE 
+
+While engaged in the preparation of a Descriptive Cata- 
+logue of the Manuscripts in the Adyar Library for the 
+Dharmas^astra section I came across three manuscripts of the 
+Angirasasmrti. On examination it was found that they con- 
+tained two sections— Purva Angiras and Uttara Angiras — and 
+that they were not so far published. The value of the work 
+as a practical manual was brought to the notice of the Director 
+of the Adyar Library who readily agreed to include it in the 
+Adyar Library Series. It was therefore serially issued through 
+the Adyar Library Bulletin from Vol XV, part 1 (1951) 
+onwards. This is now being issued as No, 84 of the Adyar 
+Library Series* 
+
+The following manuscripts have been utilized in bringing 
+out the present edition : 
+
+Mczmiscnpis of the Adyar Library 
+
+38* P. 22. Transcript ; bound in book form, Size, 8j X 6§ inches* 
+Pages, 203. Lines per page 14, Character, Devanagari. 
+
+Condition, good- Complete, This is a transcript copied from 
+the paper manuscript of the Government Oriental Library, 
+Mysore No. 669* Bears the symbol $. 
+
+8. H. 32. Paper manuscript. Size, 10 X 81 inches. Pages, 76. 
+Begins on folio 20. Character, Telugu. Lines per page 18* 
+Condition* good. Complete, Cited under the symbol m* 
+
+22. N. 8. Palm-leaf. Size, 17 X ll inches. Folia, 6. Lines 
+per page 8. Character, Grantha, Condition, injured. Begins 
+
+
+
+Vll 
+
+on folio 81. Contains only Uttarangiras. The is given the 
+symbol *r. 
+
+Manuscripts of the Government Oriental Manuscripts Library, 
+Madras. 
+
+D. 2611. Substance, palm-leal Size, 16 X lj inches, Pages 88. 
+Lines 9 on a page. Character, Grantha. Condition* Injure^ * 
+Complete. Begins on folio la. Symbol W* 
+
+D. 2612* Substance palm-leaf, (Sritala.) Size, 20 X 2} inches. 
+Pages, 35, Lines per page 13. Character, Telugu. Condition, 
+
+good. Begins on folio 67ff. Contains only PurvBngiras. 
+Symbol W. 
+
+D. 2613. Substance, Paper. Size, 13l X 8§ inches. Page, 100. 
+
+Lines per page, 21. Character, Telugu. Condition, good. 
+Begins on folio 11a. Incomplete. Wants beginning and end. 
+Contains only Purvangiras. Symbol ^ 
+
+D. 2614. Substance, palm-leaf. Size, 13| X if inches. Pages, 
+15. Lines 9 per page. Character^ Grantha. Condition, good. 
+Begins on folio la. Contains Uttarangiras only. Symbol ^. 
+
+D. 14501. Substance, Palm-leaf. Size, 14f XlJ inches. Page, 1. 
+Lines, 10 on a page. Character, Grantha. Condition, much 
+Injured. Contains only fragment of the 12th chapter of 
+Uttarangiras, Symbol W. 
+
+R. 4722. Substance, palm-leaf. Size, 151 X l| inches. Foil 7. 
+Begins on folio 6a. Lines 7 per page. Character, Grantha* 
+Condition, injured. Contains Uttarangiras only. Symbol ST. 
+
+In some manuscripts of Uttarangiras the 9th chapter 
+Is not found. Consequently the total number of chapters In 
+that section according to these manuscripts is only eleven. 
+Some gaps in the text were found to be common to all the 
+manuscripts. These have been filled up and shown under 
+brackets. 
+
+
+
+Vill 
+
+My thanks are due to Dr, G. Srinivasa Murti, Honorary 
+Director of the Adyar Library for giving roe all the necessary 
+facilities in bringing out the work. He was also kind enough 
+to overlook the delay on my part in furnishing the Introduc- 
+tion to the work which has been pending for over a year and 
+a half consequent on my joining the National Archives of 
+India as its Librarian In July 1951. 
+
+It now remains for me to acknowledge with thanks my 
+obligations to those who have assisted me in passing the work 
+through the press. Special mention should be made of 
+Sri. N. Ramachaodra Bhat of the Adyar Library who prepared 
+the press-copy* assisted in the correction of the proofs and 
+furnished the Index of half-verses and Pandit V. Narayana- 
+swami Sastri who assisted in the collation of the various 
+manuscripts* To the Superintendent of the Vasanta Press 
+I am grateful for the neat and excellent printing which usually 
+marks all the works passing through that press. 
+
+Adyar Library A. N. Krishna Aiyangar 
+
+2nd May 1953 
+
+
+
+
+
+
+Foreword 
+
+Preface 
+
+Introduction 
+
+
+
+
+
+
+«niqraPFa*3RiH ^ « 
+
+B 
+
+
+
+\S 
+
+
+
+J? 
+
+
+
+v 
+
+vi 
+
+xvii 
+
+
+
+5* 
+
+
+
+JJ 
+
+
+
+few. TOag* 
+
+teq% sntt ^fs 
+
+eigqssFct to$i adiH * ?a 
+
+
+
+?> 
+
+
+
+it 
+
+
+
+j? 
+
+
+
+jj 
+
+
+
+ws>- 
+
+
+mm 
+
+n 
+
+V 
+
+71 
+\* 
+
+77 
+77 
+
+?*> 
+
+J? 
+
+77 
+?? 
+
+3? 
+
+
+f fN, f 
+
+
+fig: m% *ra?l 
+fajsncwn^tot are?*. 
+
+
+
+
+flrorarc: „ 
+
+
+,, FrRmF^w. 
+
+
+\\ 
+
+
+'fN: gsr: 
+
+
+
+
+J? 
+
+35 
+
+77 
+
+
+wtasfai fen 
+
+
+£3PJL 
+
+
+I 
+
+
+fire: 3TOTC ofa: 
+
+
+77 
+
+
+5R 3% SITcf 
+
+
+
+
+.. ».f>, , ., ., „„„,,..-,„„..<>, 
+
+Qf|5TTCS«nk: 
+
+
+strafe^ „ 
+
+
+
+
+r\ rv «\ a. 
+
+
+
+
+^TWl^f %^q3rj[^% 
+
+
+n 
+
+
+m Hl^*( 
+
+
+«Rgsoiil^(^pr 
+
+
+77 
+
+
+
+XI 
+
+
+
+
+
+
+■sum* a^g^Ntasro. 
+
+
+
+
+
+
+n 
+
+77 
+
+
+
+%*ffifa& Sprawl 
+
+
+
+^f-W^fc§Tcq€t 
+
+«i: mg^r Hfifqifcj^ „ 
+wgH^tfi^ s^ift tot: svs 
+
+
+
+n 
+
+^5 
+
+
+
+8<\ 
+
+?? 
+
+
+
+
+
+
+3) 
+
+
+
+xu 
+
+
+
+SB3W 
+
+
+5S«'?fT 
+
+
+s^tto i Jnaw?: 
+
+
+»S 
+
+
+m& si^i ^ 
+
+
+fi. * 
+
+
+■>■} 
+
+
+^!wi|«TT ^° 
+
+
+
+
+\o 
+
+
+33te*TFT $$: ^\ 
+
+
+*wm: s#: 
+
+
+5? 
+
+
+qrorcfosnsifa v 
+
+
+sjFjgsBisorfafe: 
+
+
+>> 
+
+
+TQimomtQifo *\ 
+
+
+fount srrei'Rgr'n: 
+
+
+M 
+
+
+SlffcWR^ „ 
+
+
+^nrag^i:, gsrfjRftT: 
+
+
+<\\ 
+
+
+^sfTsSFi 3 , 
+
+
+^T^ ftRtt: 
+
+
+<\V 
+
+
+^ff^ rt ^S 
+
+
+qcsftf^Rrar:, m «Rq?# 
+
+
+<\<\ 
+
+
+„ ^r*rf „ 
+
+
+fefprq?* 
+
+
+•)•> 
+
+
+fF^Tf^TT^ ^ 
+
+
+gsiTOlt <*%efilfclM^ 
+
+
+5J 
+
+
+^fiifcisn*^ „ 
+
+
+"„ r-. . . j . l. 
+
+
+31 
+
+
+
+
+
+
+\%. 
+
+
+
+
+spNc?znR*p: 
+
+
+J> 
+
+
+^WfiT^TT^Fstffa \s\3 
+
+
+«wq?!i^i fsEran: *qfei 
+
+
+
+
+H$i<^r. „ 
+
+
+
+
+<\V3 
+
+
+srr-d&ckii: „ 
+
+
+gipjsq FRFtl^^ 
+
+
+^ 
+
+
+33 IfW^t *r ^4: „ 
+
+
+W^^^FcRjfa^R 
+
+
+JJ 
+
+
+qktf^H fac^TO 
+
+
+^ 
+
+
+qigiw n^fajmrrf^ „ 
+
+
+^^rcq^*^ 
+
+
+>? 
+
+
+sril^T f¥&3T: ^ 
+
+
+Wm&qm, 
+
+
+J? 
+
+
+gTfqo^j-^qoT^ „ 
+
+
+
+
+^° 
+
+
+STRlH =3 5Slftf^#&fcR. „ 
+
+
+ST^PtT^ 
+
+
+M 
+
+
+^w^^ £° 
+
+
+fx C 
+
+
+^ 
+
+
+
+
+f^sq^nw. ww: 
+
+
+twTRRqWRitm „ 
+
+
+as qsraqflfli 
+
+
+*» 
+
+
+3Wlf^tl% sfigsqift „ 
+
+
+d^R 
+
+
+^ 
+
+
+■^sitofal: <:? 
+
+
+
+xin 
+
+
+
+J5 
+?> 
+
+
+
+JJfT^qF? *pwn^FiT «Fq?5R^ 3. 
+J^T^T tftsifa gqoi^ <T8 
+
+
+
+•A ?** « 
+
+sprang: „ 
+
+
+
+XIV 
+
+
+
+
+
+^ oo 
+
+?•* 
+
+n 
+
+33 
+
+33 
+
+Ufi^ 
+
+\*\ 
+
+33 
+
+33 
+
+33 
+
+33 
+
+33 
+
+
+aigr^ Mc^ti: foa^P*. 
+<XcfJR^tSf[ft %£^ 
+crf|% iftsisi? gfqrft aww. 
+
+
+Ho 
+
+33 
+
+m 
+
+3» 
+
+33 
+
+
+
+
+gfqo^^oii?qr srnrtsq 
+
+
+. 33 
+
+
+
+
+
+
+
+
+
+
+JTTg: SlfaESTRRS*!^ 
+
+
+33 
+
+
+
+
+
+
+H5FRI: 
+
+
+ft, , ,,%. f> . f> „X. M f^ 
+
+
+
+
+
+
+J3 
+33 
+
+33 
+
+
+3l«J*IlRj*I^P^S^R% 
+
+
+33 
+
+
+
+
+37 hwrto s?ra 
+
+
+\\6 
+
+>5 
+
+
+a^r^w 
+
+
+
+
+\\K 
+
+
+cfH^|-b^|^(qy 
+
+
+x\* 
+
+
+
+XV 
+
+
+
+
+
+
+
+
+
+m 
+
+
+
+
+
+
+
+
+
+n 
+
+
+
+f|cfrfts«RFr. 
+
+
+
+?^ 
+
+
+
+5J 
+
+
+
+U° 
+
+
+
+
+
+
+)3 
+J 5! 
+
+
+
+?1 
+5) 
+
+
+
+
+
+
+
+
+
+
+
+
+XVI 
+
+
+
+
+
+
+sw^swrw. 
+
+
+
+>> 
+
+
+
+
+
+
+Errata \%£ 
+
+
+
+INTRODUCTION 
+
+The subject-matter of Dharmas'astra is the regulation of 
+man's conduct In life. Life in tills world Is only a connec- 
+tion between the unlimited past and the Immense future 
+represented by the various Incarnations of the spirit. Among 
+sentient beings man is the only animal gifted with imagina- 
+tion and vision, reason and judgment, memory with capacity 
+to visualize the future and endowed with a will to act 
+consciously and with a purpose in life in accordance with his 
+convictions* To him appeal to reason forms the chief test of 
+acceptance even for conduct traditionally sanctioned. To him 
+a philosophy of life must lie behind the scheme or code of 
+conduct. The systems of philosophic thought in India agree 
+in their fundamentals with Dharmasastra. The main 
+authority is the sruti or Veda* The smrtis and the darstanas 
+complement one another. The ordinances of conduct spring 
+from the s>tuii as well as the smrii. The underlying unity of 
+the darsranas is recognized and all the apparent contradictions 
+of the systems of philosophic thought are to be interpreted in 
+a way that synthesizes thought itself. 
+
+The smrtis deal with problems which are religious and 
+philosophical only briefly and with a view to make the whole 
+work intelligible. All the fundamental ideas are taken for 
+granted as matters which are understood by the votaries of 
+Dhartna»m$tm» 
+C 
+
+
+
+XVlil 
+
+
+
+Dharma has been defined in several works but no one 
+definition has been accepted as conveying the full meaning of 
+the word. It is based on the constant practice of persons 
+learned in the Veda, who are morally good, devoid of aversion 
+and attachment to the world, and whose conscience sanctions 
+it. That is to say, the test of dharma is its capacity to inspire 
+the conduct of orthodox men of blameless character. Dharma 
+is good and leads to prosperity (ffreyas) both in this world and 
+in the next. It is enjoined duty* The dar&anas conceived 
+dharma, each in its own way. To the logician it was a guna 
+or innate property and was regarded as invisible and cognizable 
+only by inference even as l&vara was. The Vais'esika 
+regarded dharma as resulting in prosperity {S'reyas) and 
+beatitude (abhyuiaya). To the Mimamsaka it was a desirable 
+result defined by an Injunction* The word dharma is derived 
+from the root dhr (to uphold) and may be taken to mean as 
+that which holds the world together. Vedas are the source of 
+all dharma. Dharma thus relates to conduct or action which 
+leaves a beneficial reaction to the doer and the society. Its aim 
+is thus eminently practical* 
+
+A basic concept of Dharmamstra is the law of Karma 
+stressing the need to lead a moral life. Man can raise himself 
+by his mi~karma or good conduct or lower himself by his bad 
+action or asat-karma. Endowed with reason, man alone has 
+the opportunity to act consciously. The function of enjoined 
+duty and its proper discharge leads one to the highest goal i.e. 
+the attainment of salvation. The lot of the gods is perpetual 
+enjoyment and there is no way for the gods to get out of it. 
+But man lives on the earth which has the advantage of being the 
+proper place (karma-bh&mi) for the performance of satJcartna. 
+
+A corollary of the law of Karma is the belief in trans- 
+migration, A good deed is never lost and the same is the 
+
+
+
+XIX 
+
+case with a bad karma. The law of karma is Inexorable, God 
+Is the supreme judge in evaluating the karma of individuals* 
+The power to shape his own destinj biresscs the freedom of 
+man and aces not make him a passive instrument in the hands 
+
+of destiny* Divine grace and man's effort are both needed for 
+the fulfilment of the law. Even as the best soil will He 
+barren without proper cultivation and transplanting of seed- 
+lings or even as a small fire becomes a coniagration with 
+a favourable wind, human effort is helped by past Karma, 
+
+Transmigration effected by the law of Karma is intelli- 
+gible as the visible retribution for breaches of duty as laid 
+down in the ethical codes which rest their authority on reve- 
+lation. Evil deeds are derelictions of duty and are visited 
+by visible effects in the form of diseases on the body. Good 
+actions lead to better forms of life and bad actions to lower 
+forms of life. In evolution in the scale of ascent the lowest 
+form of life starts from the mineral matter, passes through lower 
+forms of life and from them ascends to man step by step. 
+Sies committed may be expiated in this life by the perfor- 
+mance of purificatory penances. These reduce the intensity of 
+post-mortuary purification. 
+
+The doctrine of the Puru$drtha$ is another basic concept 
+and the Puru§drthas constitute the moral standards of life* 
+They are Dharma, Ariha t Kama and Moksa, ordinarily 
+rendered into English as duty, material well-being, pleasure 
+and release or salvation. The first three belong to life in this 
+world and are grouped under Trivarga, It has been pointed 
+out that the Puru$drihas also represent the fourfold 
+significance of the four d&ramas. There is nothing to 
+detract the value of any one of the Purumrthas Kama or 
+desire is a fundamental instinct which is only* properly 
+canalized f w T ith a view to preserve the continuity of the race. 
+
+
+
+XX 
+
+Without material well-being life will be an impossibility and 
+it is a great incentive to all productive activity. It is only 
+after a full life has been lived through, that release should be 
+sought and hence Moksa comes last. Writers on Dharma- 
+s f astra and Arthasfastra have stressed the need to lead a 
+balanced life. The Putusdtthas are complementary and not 
+contradictory. The ideal man is therefore recommended to 
+pursue the Trivarga m such a manner that will ensure their 
+due co-operation and will avoid their mutual conflict. 
+
+In the discharge of his duties* each individual has to per- 
+form sraddhas whatever be bis varna and if he is a dvija be- 
+longing to the first three dsftatnas. He whose parents are 
+alive is not enjoined to perform sraddhas of the standard type. 
+But it is obligatory on one whose father is not alive. He who 
+omits this duty is a paiita and should perform praya&citta 
+for such omission. The dead have a claim on the living 
+which has to be discharged in the proper manner and cannot 
+be ignored. In the ultimate resort the sttaddha has to be 
+performed for each person by some one in the absence of direct 
+descendants* either by near relations who inherit the property 
+of the deceased or by persons who are connected with the 
+deceased by spiritual or educational ties. Failing all this, there 
+is a duty on the ruler to have the srraddha performed by some 
+capable member meeting the expenses from the estate of the 
+deceased which would have escheated to him or from other 
+state funds if there is no such estate. 
+
+The Angimsasmrii now published, is in two sections the 
+Purva Atigiras dealing with Sraddha in 1113 verses as a single 
+chapter ; and the second Uttara Angiras in twelve chapters, 
+which deals with the topics of parisad and prayasrcitta etc. 
+
+Atigiras gives the same definition for dharma as given by 
+Jaimini and as enjoined by the puranas and the smrtis. He 
+
+
+
+XXI 
+
+specifically states that vedic mantras alone should be used 
+wherever they are available for vedic rites* Mantras men* 
+tioned in the purdnas may be used for non-vedic rites (pp. 1-2)* 1 
+
+Wherever mantras are not available the use of vydhrtis is 
+enjoined. Among mantras the first place is to be given to the 
+vydhrtis. There Is no mantra equal to the vydhrtis in efficacy 
+for purification, japa and protection. The use of the vydhrtis 
+in homas as all-purificatory oblations in the beginning, middle 
+and end will justify the position* In the event of samskdras 
+such as jdiakarma $ ndmakarana or caula or annaprd&ana 
+not having been done the use of vyahrtis for japa for a period 
+extending to nine days and nights after which the samskdras 
+should be performed is enjoined (p„ 3). 
+
+Certain impediments in the performance of a srrdddha raise 
+themselves which are discussed with ways and means as to 
+how to get the s*rdddha performed in the proper manner. 
+Normally impurity to the persons engaged in a srrdddha, or the 
+death of a person in the village can invalidate it. But accord- 
+ing to Angiras if cooking has been started for a srrdddha that 
+plays as the chief determining factor. For the performance 
+of the s f rdddha to those engaged in it there is no impurity till 
+the srrdddha is over. Even a death In the village will not 
+stop or vitiate the performance of a srraddha. Similarly once a 
+yrdddha is started it has to be completed till the end (pp* 4-5). 
+
+The srrdddha day is an all absorbing day and no other 
+vrata can be performed on that day* But a ydga will stop 
+the performance of even a sfraddha e.g. dars f apurnamdsa 
+Mi and pasrubandha. The Manes wait till the ydjna is per- 
+formed and then the s>tdddh® is performed. This brings the 
+greatest satisfaction to the Manes. Sraddhas that fall 
+within the period when one is under mahddiksd which extends 
+! Tiie page refereaces cited in brackets refer to the text ot£&girasaSmrt$* 
+
+
+
+XXil 
+
+
+
+over 24 days are not observed, A yiga or vedlc rite carries 
+greater weight and overrules other rites. Hence even the 
+death of a near relative will not enjoin the performance of the 
+funeral rites of the dead on one under a tnahadiksa till the 
+end of the diksa (pp. 5-7). 
+
+Another impediment to the performance of sraddhas 
+is amuca or impurity. Impurity results from birth as well as 
+death* Impurity resulting from birth does not enjoin untouch- 
+ability but in case of death it has to be observed. The per- 
+formance of the sandhyd under Impurity is to be done mentally. 
+Even normal food is prohibited in certain cases. In the case of 
+a person who is subject to a series of death-impurities coming 
+in quick succession, sandhya is to be performed In the midst 
+of water. During the period of impurity all rites are held 
+up. The Veda cannot be recited. Nor can one enter a 
+sabhiL If one is subjected to such impurity constantly, 
+consequent on his having many relations in the village, he 
+may wait for a year and perform the sraddha in another village 
+where such impediments will not occur, wearing the sacred 
+thread (pp. 7-8). 
+
+Two essential requisites for one who performs a srdddha 
+are (1) yajnasutra or sacred thread and (2) a tuft of hair on 
+the head* One without the former is not entitled to perform 
+any karma. One without a tuft is in the same position. 
+Loss of tuft may be due to advanced age or disease or cut 
+out of enmity by enemies. An expiation through pmjapatya 
+krcchra and a second ttpanayana will purify the last. Loss 
+due to disease or fire is expiated by a second upanayana. In 
+all these cases the hair from the tail of a cow should be worn 
+on the head with effort. Loss of hair due to age over seventy 
+is natural and all that is expected at that stage is that some 
+hair should be left to indicate the tuft. If the tuft is cut by 
+
+
+
+XXlil 
+
+the enemies over five times even a punarupanayana dots not 
+
+help to attain the former position, (pp. 8-10). 
+
+Where the main person who is to perform a srfiddha Is 
+either a yati or a paiiia the sraddha to be performed by that 
+person has to be performed by the son of the yati or paiiia. 
+By such performance he Is not the actual doer. He is only 
+doing It as an agent. Only when his father's funeral rites fall 
+due and are performed by him will he become the actual 
+yajamana for the rite. Similarly in the performance of rites 
+of relations other than parents the actual relationship alone 
+should be mentioned* 
+
+One who performs the funeral rites of a gauna maid 
+(step-mother) as that of his own mother for money becomes 
+a candala immediately* Parenthood is only for the actual 
+father and mother and not for others* Even that will change 
+when one is given in adoption in which case the adopted 
+son will have to use the phrases janaka-pita or janaha-mat a 
+(or janani). Adoption comes only where both the parents 
+agree to give their son in adoption. A childless brother adopts 
+the son of his own brother merely by oral agreement between 
+the two and without the rituals of adoption* even if the son 
+happens to be aged and married. If the son so mentioned 
+happens to be an only son he can only act as a son to his uocle. 
+In the performance of rites and srraddhas he shall have to men- 
+tion his main relationship to the deceased. Otherwise the whole 
+kriya will have to be performed again. The same is the case 
+with rites performed for persons whose goiras and names have 
+been wrongly mentioned. In performing the yraddhas for 
+elders other than parents the particular purpose for which they 
+were contacted should be mentioned* Where the principal 
+karta is away one can perform the rites as the representative 
+of the principal* Bet the same has to be done by him again if 
+
+
+
+XXIV 
+
+
+
+he happens to be nearby. One who has been given in adoption 
+orally and is aged and married can perform the annual srraddha 
+of the person who has accepted the adoption. But he cannot 
+perform any other srrdddhas such as tila iarpanas done on 
+New Moon days and the like, for the benefit of this person. 
+
+By taking part in performing the last rites of person who 
+is without relations one gains the merit of having performed 
+an asrvamedha. But if he eats without doing it he is visited 
+by the sins of the person who died which should be expiated 
+by a bath at Dhanushkoti for a month or by the performance 
+of Ukthya (pp. 15-19). 
+
+Every enjoined act should be performed with the consent 
+of the Brahmanas learned in the Vedas. Even a sanyasin has 
+to obtain such consent. Anything done without such sanction, 
+though performed according to s'astras should be redone. 
+The recitation of the Veda produces merit equal to the recita- 
+tion of the various names of Hari. Such recitation of the 
+vedic samhiias is the privilege of the Brahmanas who have 
+performed their daily routine duties and are pure. Every act 
+has to be started only after a ceremonial bath ; and a bath re- 
+moves all physical impurities as well as impurities arising from 
+a&auca or untouchability. Bath in a perennial river along 
+with the recitation of the Veda is a prayas'citta for many 
+sins. Persons who vomit should take an immediate bath. If 
+one vomits after midnight he may bathe in the morning but 
+vomiting before midnight should be followed by a bath in hot 
+water. One who has omitted to perform the sraddha of his 
+parents should take a hundred ceremonial baths in a perennial 
+river or should hear the vedic samhiias recited or perform the 
+japa of the gay am or the vyahrtis etc. (pp. 19-23). 
+
+A householder should bathe in hot water at night if an 
+occasion arises for a bath, An oil bath is not a ceremonial 
+
+
+
+XXV 
+
+bath and should be taken only after performing daily duties* 
+
+A bath after a shave is also similar. Oil bath should not be 
+taken in the mornings or evenings, during the parvas f eclipses^ 
+vratas and other srr&ddha days (p. 32). 
+
+The raising of sons for the performance of srr&ddha* 
+
+is a necessity. In the absence of direct sons, children should 
+be adopted. Such adoption should be from among the 
+sapindas or from his own gotra* A child is given in adoption 
+by its parents and accepted by the adoptive parents. One 
+who has no children lives in fear of salvation* He who has 
+sons possesses the sacred fire. It is obligatory on the part of 
+a father to look at his son as soon as he is born. Adopted 
+sons are classified under vriiidatia^ mmmjtdaiia, viv&hadatiu 
+and yajfmdaita. One can go outside the circle of sagotra and 
+sapipijas for selecting an adopted son only when such a 
+person is not available among them* Adopted sons should 
+belong to the same varna as the parents. Great difficulties 
+in the matter rituals etc. will arise in the case of sons adopted 
+from a different gotra to avoid which it is desirable to select 
+a son from one's own gotra. Whatever was promised at the 
+time of adoption to the parents who consent to give their child 
+in adoption should be scraplously fulfilled. If unfulfilled* the 
+purpose of the adoption will not be served. It is the duty of 
+the king to punish him who refuses to carry out the promise 
+made (pp. 39 s 40-41). 
+
+The question of partition among the adopted sons is 
+discussed at length. The son of a brother is equal to one f s 
+own son. If a son is bom after adoption then the brother's 
+son will be entitled to a half share. An adopted son from the 
+same gotra will be entitled to a fourth share. When a son is 
+born even though he may be younger than the adopted son, by 
+virtue of his position he is to considered as the elder sew. An 
+D 
+
+
+
+XXVI 
+
+adopted son though older In years should not perform the 
+npanayana of his adoptive father's child. A son born to the 
+dharmapatni is the eldest by all counts (p. 47). 
+
+Wives are classified as dharmapatni, bhogint, kancana, 
+vaviid etc. Of all the sons born the son of the dharmapatni 
+Is according to s^dstras the best fitted to perform the vraddha. 
+It would be enough if he merely touches and is present 
+physically at the place where the srraddha is performed (p. 57). 
+
+Certain things are held as most pleasing to the Manes in 
+the performance of s*raddha$« One such is the fakarapancaJca 
+namely water, the banks of the Ganges, remembrance of 
+Janardana, Sacred Fire and the presence of one's son. Of 
+equal merit is a srr&ddha performed at Gaya or on the banks of 
+the river Phalguni, Mahalaya and the upbringing of jack- 
+trees which is considered most important in a vraddha. All 
+the srakas or vegetables mentioned as fit for s>raddha could not 
+equal in merit the panasa or jack. One who plants a panasa 
+tree reaps a merit which gives lasting satisfaction to the 
+Manes. The unique greatness of panasa is to be seen in its 
+equation to all the s'akas put together being less than the 
+merit of panasa by itself. The very sight of a panasa tree is 
+enough reason for the performance of a s>mddha under its 
+shade. Its leaves form excellent material as plates or cups 
+for drinking water. One who does not utilize the opportunity 
+of utilizing it for a s>raddha is a jada. Rsi Galava ate a few 
+seeds of panasa with his wife with devotion and caused great 
+Hiss to the Manes. Sage Mandavya presented a plate of 
+panasa leaves to deserving Brahmana boy who was trying 
+to find a suitable vessel to drink water and obtained the bless- 
+ing of the Manes (pp. 57-72). 
+
+Interesting anecdotes relating to the position of Kara 
+aoel UrvSnt as It materials for use in maddha are 
+
+
+
+XXVli 
+
+narrated. Omission to Include Urv£ru In a sraddha Is consider- 
+ed sinful (pp. 67-72)* 
+
+The number of sraddhas to be performed in a year are 
+ninety-six* They have been classified as under ; 
+AmSvasya 12 
+
+
+
+Manvantara 
+
+
+14 
+
+
+Yugadi 
+
+
+4 
+
+
+Sankrama 
+
+
+12 
+
+
+Vaidhrti 
+
+
+13 
+
+
+Vyatlpata 
+
+
+13 
+
+
+Mahalaya 
+
+
+15 
+
+
+Astaka 
+
+
+12 
+
+
+Gajacchaya 
+
+
+1 
+
+
+Total 
+
+
+96 
+
+
+
+The datm srraddha performed on Amavasya is most 
+important and by performing it one is deemed to have perform- 
+ed all the rest. This is the basis for the present practice of 
+clinging to dars>a and the omission of the rest In most cases* 
+The annual srraddha and dam® are equal in importance and 
+neither of them should be omitted. 
+
+Sankranti or Krdnti occurs when the sun enters each of 
+the twelve of the zodiacal signs. When he enters Mesa and 
+Tula it is called visuva ; entrance to Kafaka and Makara 
+go by the names of daksinayana and uitamyana respectively* 
+There are four vi^nupadis (when he enters vr§abha 9 simha $ 
+vrsrcika and kumbha) and four §a4as>iiis (when he enters 
+tnithuna, kanya 9 dhanus and tnlna). Rules regulating the 
+performance of the sankrama srraddha when it falls during 
+any part of the day or night are enunciated. Thus the yrdddha 
+for the ayanas (Uttara and Dak§ij^a) should be performed in 
+Uttarayapa only (pp. 72-74). 
+
+
+
+XXV111 
+
+Mahllaya Is the next important item. It can be perform- 
+ed with the same Brahmanas for all the fifteen days of the 
+MahMaya pakm which falls in the month of Kanya when the 
+sun is in kanya rasi. This paksa is known as the pitrpaksa. 
+Different Brahmans also can be requested for each day. 
+Certain days in the pitrpaksa are held to be more propitious 
+such as Bharani naksatra or Astami which is the middle of the 
+paksa. The twelfth day is specially intended for performing 
+mahdlaya srraddha for sanyasins. The fourteenth day is 
+intended for those who died an unnatural death (pp. 77, 81-83.) 
+
+In a praddha seven items are held to be purificatory. 
+They are ucchista or cow's milk which is obtained only after 
+the calf has drunk the milk in the udder a little, 2. S'iva* 
+nirmalya or Ganges water which passes through the jata of 
+S'iva, 3. vamana or honey, 4. pretaparpata (silk), 5. daughter's 
+son, 6. kutapa which is the proper time for the vraddha and 
+7. tita or sesamum (p. 104 ff). 
+
+Rules for the proper determination of priority in the 
+performance of s>rdddha$ which fall on the same day such as 
+datm, sankrama and praiyabda &raddka or the falling of 
+different annual srrdddhas on the same day are discussed and 
+decisions recorded. Angiras would have the funeral rites of a 
+Patita begun only after twenty-five years have elapsed after 
+death* Several items which are normally done are recom- 
+mended to be omitted in the case of a patita. Authority for 
+the performance of darm s>rdddha with sesamum mixed with 
+water as the representative of an anna srraddha is cited. There 
+can be no trriddha without sesamum and water. The best place 
+for the performance of nitya and namittika rites including all 
+types of #r&ddha& should be on the banks of a river which 
+has an inexhaustible source of water during all the seasons of 
+the year (pp. 118, 125-126). 
+
+
+
+xxix 
+
+iPhe above are only some of the most interesting points in 
+the Pdrva Angiras, It Is Interesting to note this smrti gives 
+the authoritative text for many of the practices that are 
+prevalent in the performance of vaidika rites. All the 
+relevant topics dealing with srr&ddha which have not been 
+touched in other texts dealing with the same subject have 
+been expounded. Some common errors and controversial 
+topics have been set at rest by definitely laying down the 
+decision. Angiras belongs to the school which holds that 
+there should be no mark on the forehead in a srr&ddha 
+involving apasavya kriy& on the father's side* But the mark 
+on the forehead or pmtdra should be had where the mother's 
+side is represented, as every act is done clock-wise* 
+
+Uttara Akgiras 
+
+This section consists of twelve chapters. It is based on 
+the authoritative sayings of the sages of old* Acts based on 
+one's own opinion and not supported by authoritative say- 
+ings are useless and should be regarded as children's sport. 
+Enjoined acts should be performed properly and those 
+inihibited should be avoided, A sin is committed when 
+cither of these roles is transgressed* Such transgression 
+should not be hidden but should be mentioned to the proper 
+authority who should act like a doctor to his patient and 
+prescribe the proper expiation to the person. When the 
+pmyamiiia or expiation is completed the individual becomes 
+cleared of the sins. A sinner should therefore approach 
+learned Brlhmapas who by their conduct are leading a pure 
+life and should tell them the truth after paying his respects to 
+them. The parimd will then deliberate and lay down the 
+praya&citta or expiation. Such a.pari§ad should be constituted 
+
+
+
+XXX 
+
+properly. How a. parisad should be constituted and who should 
+be the members of the parisad are dealt with In chapters four 
+and five* A minimum of tea members with four persons learned 
+in the vedas* one learned in the KaJpas* one representing the 
+vedangasj one steeped in Dharma&astra and one member re- 
+presenting each of the three asrramas should constitute a 
+parisad. This is for the Brahmana* For the Ksatriya the 
+number should be proportionately doubled and for Vais'yas it 
+should be trebled. In the case of mahapdiaka being the 
+subject of discussion, a minimum of 100 members is enjoined 
+for the parisad, A prayascitta laid down by a parisad and 
+completed by the sinner washes him of all the sins which are 
+literally burnt by the prowess of the three fires of the members 
+of the parisad, as a w ? et cloth is dried by the sun and wind. 
+Those who are not learned and proficient should not try to lay 
+down prays'cittas, Pray&cittas laid down by quacks lead only 
+to intensify the sins (pp. 127-138). 
+
+When repentent sinners request for guidance no one who 
+has the requisite knowledge and is competent can deny the 
+use of his knowledge and must speak as a member of the 
+parisad. For the purpose of laying down the expiation the 
+sins are classified in chapter seven. The next chapter deals 
+with prohibited food to a Brahmana and lays down the 
+prayascitta for the same. Chapter nine continues the same in 
+relation to food belonging to persons under pollution. Prayas?- 
+citia for dog-bite for a Brahmacdri, sanyasin and grhastha and 
+Brahmana women is stated (pp. 138-142)* 
+
+In the next three chapters prdyas'citta for injuring or 
+tormenting cows in various ways, prdyds'cittas for children, very 
+aged men and women and invalids, prdyas'citta for govadha 
+or killing a cow and the nature of krcchra and prdyas'citta are 
+dealt with (pp. 142-151)- 
+
+
+
+XXX! 
+
+The name of Angiras is well known In ancient lore. One 
+of the tndnasa sons of Brahma lie was also the father of three 
+Illustrious sages Brhaspati, Utatt^a and Samvarta. According 
+to certain legends be was re-born out of the Vurfmi Yajna by 
+an oblation in the Angara, Bharadvajas and Gautamas are 
+held to belong to this line. 
+
+As a writer on dharmas f astra the name of Anglras is 
+mentioned by Yajnavalkya. Vis^varupa commenting on 
+Yajnavalkya (L9) mentions that according to Atlgiras zparisad 
+may consist of 121 Brahmanas. This is identical with what 
+is found in Uttara Angiras Chap. IV, vv 4-8. Similarly the 
+vrata of Vajra mentioned under Yajnavalkya III, 265 by 
+VIs ? varapa is identical with Uttara Angiras verses 1 to 7 of 
+chap, IX. The date of Vis^varapa is held to be about A.D, 
+800 to 820 A.D, The present work may therefore be dated as 
+not later than about the middle of the eighth century a.D. 
+
+j&ngirasasmrti mentions Harfta, Manu, Katyayana 
+Gobhila and S f akala. A ceremonial bath at Dhanushkodi as 
+a prayascitta is mentioned on several occasions in pages 24, 
+25 9 26 and 28. A large number of rivers in the country are 
+mentioned (p. 105). 
+
+There are a few editions of A ngirasa SmriL These are 
+different from the text presented in this edition. They are 
+enumerated below ; 
+
+1. Angirasastntti—BenSLms Lithograph edition* Dundhi- 
+raj-Ganesh. Samvat 1929* Sravana siikla pratipat pp. 22-24, 
+
+2. Do — Dharma s f 5strasamgraha edited by Jivananda 
+Vidyasagara, Vol. I, pp. 554-560 in 72 verses. (Calcutta, 1876). 
+
+3. Atigirasasamhiia — -Dharmas'asira Text, edited by M. 
+N. Butt, Vol. I, pp. 165-171. Calcutta, 1908. 
+
+4. A^iada^asmriayah • — Ai\girasasmrtih t Venkateswar 
+Press edition, Bombay* 1924, pp» 84-91. 
+
+5. Anglrassmrit — Anandasframa Series No, 48* Smfiimam 
+Samuccayah, 1905, pp* 1-8, 
+
+
+
+XXX11 
+
+Of these f the first four contain the same text excepting for 
+slight variations in the text. But the fifth contains 168 verses 
+whereas the first four have only seventy-two verses. Further 
+the texts are different and the fifth appears to be an enlarged 
+version. The subject matter in all these versions is praya- 
+sfcitta and smddhL 
+
+The text now presented is completely different from all 
+these and deals mainly with s-mddha in the Ptlrva Angiras 
+and Pray&citta in the Uttara Angiras* However, the topics 
+oo prayasfcitta are dealt with in a different manner. All the 
+relevant topics relating to straddha are explained in smoothly 
+running verses and this should be considered more as a 
+practical manual. In fact only such topics and difficult 
+situations as are likely to confront the common man in the 
+discharge of his dharma are mentioned with the remedies for 
+each situation in simple language. 
+
+It would perhaps be better to accumulate the texts of 
+Angiras in a single volume* The belief that each smrti writer 
+generally covers all the topics in Dharmastastra has been 
+current for a long time. It would therefore be not out of 
+place to regard these works of Angiras as belonging to his 
+school of thought. It may be that different Individuals may 
+have written on different topics of the subject* This is 
+strengthened by the existence of such schools of thought in 
+other branches as Kamas'astra and Arthas'astra, 
+
+
+
+aft sreWira 2 srjf : srfSiro to IS \ si 
+
+M l WlfcW' etc.— W; *fftW I arf$rc:53fcr: I «JM*nRw etc. — *. 
+
+s ^qfa^qisj — -5. '' % — W. 
+
+4 AH the subheadings in this work are found only in manuscript 
+% as marginal headings. ** gftw^JI. — % W. 
+
+
+
+^fHfc l |j?-l^f^Tf% fPTRfet I! \ I) 
+***** S^fPJF^TWTsrcft I 
+
+«Fawft g afe fist «ni?R: ffo II « I! 
+
+«A«?*firar W sulfa* n^i^ || * n 
+
+f?*kw3i*ref f%^?i?rteift5ft in o n 
+
+9 H 5*ni%*ft *f%\ i »nsfcftflft «n: II U II 
+
+I sqiffapft *# T 3??Ti^?WT: fHan: || n II 
+1 d-n4$fe4ifa— % m; d4«^$fetdifa — *?, «?. 
+
+J =3f and 5 Mss. omit these two quarter verses and read : 
+
+9 =3 and %• Mss. read 'e' in the place of all the following 
+six '«t's- 
+
+
+
+f^q^WJiflHTg^lf^T: I! \< II 
+
+*#m 9 s?nf^5?iT: srafsrarc %^ ii ^o i! 
+
+2 anm Jfrar — $ ; ; 3rrar *rrert — ^ ; sTRro5?r — % ? ; sn^rawt— ■g. 
+* q^iwflweii: srasgsm: — 5, W. " Sp% ^i% — % 13, ^ 5. 
+
+7 \m\$a:—% ®- s ^nf¥*t: — % ^. " siprr m — % 5. 
+
+lu All Mss. omit the first four letters of this line and indicate the 
+omission by leaving some space ; =3 and © Mss. have two letters cW. 
+
+
+
+flfrsftfl*? mm: F?Tf3T e«?$ fl»re?^ II \\ II 
+f% *m$\ *£q«l t^f?f FW 3^: I 
+
+w'° tot ftqfai ireRRRq* g "* i 
+
+2 f| — omitted by 53. 3 §^?q^ — *B, ^r. 
+
+4 craw I — % ^r ; €^ I — % 5. B |qra[pp% — % 5. 
+
+•lit* — *. 7 =3 omits the following six lines. 
+
+''' sPIFRf— -^ n =3f adds »sK*jfq after this. 
+
+
+
+C&-URTRT 1 #81 6 ##<*! *#«lft II \\ II 
+SRqs^lft ftfttm f^lfe* *Tr!^ II ^8 I! 
+
+8 srretT w: <rl<fonwi— =*>, ^ ; crrc^l qpr. MVwnfys* — % f . 
+*^ra — w. 
+
+6 #«#—■% f§r, % 5. r *w<0$fi»ki«fli<r*(— % ©. 
+
+
+
+m <Rr% 'clrRTq^c^f^ 33T (I ^w li 
+rf^cT ^ $3fa 3FTT 3# 3^: 8 ^T II 3^ il 
+
+1 All Mss, corrupt : tf^T qjr . . . 3HI&1T: ^3fef%T%T; — % 
+
+6 f%— omitted by ^ aad «. 7 ^l^mT^q %r^ : _^ ^ 
+* TOT— *B, *, ^ 1. y ^TO?^— % 3P. 
+
+
+
+3^fe%^%^^ft: nn 11 
+55: %*® $3fa ^H% ^ ^f%: I 
+
+srift^ gfrsl^ #n*rfq c!-Tci^ n 8| n 
+
+fl^WT^ R§#I ^rfafW^: || S^tl 
+
+
+
+3 gp — ^b, *3, =^. 4 *ft* — *r. 
+
+5 aHild^Rh^l^^ — % m. 6 ' ^pi^% ' — omitted by ^ and 5§. 
+
+
+
+ci 
+
+<l 
+
+«fT3 r»%qf $#f f fR^n^a^ I 
+
+*r#* 6 OTT3»F?I: 'iffi^*?^ *?f| 1! <\\ 11 
+
+<pi#R 8 a[T qansipf^ a, fapra i 
+
+qpqsrf^fa: FlT^f: flWfS II <*8 II 
+
+3 ?n^R^— ^ s ^ w. 4 <$3i— % 5. 
+
+5 <rar cwnr— % ^ ; ?rj ^r— w. 6 ipsl?— ^ *§, ©. 
+
+7 *r reads * i^P^ ^l«*l^: fiTOlffa^ clTSr:' and thereby omits 
+this quarter verse, the next four lines and the first half of the 
+fifth line. 
+
+8 T&f$$R — % M. 9 ^^—% m. 
+
+
+
+^jrrrf^TT ^ 
+
+qqrcgiflT 3 f *toi%o? ^ d 1 ^: II l« ll 
+
+quia: M*^ 3Tfa ag^s *teft: 11 M II 
+a?pn% 7 «%^ 3 <rftat ^ift ft s* MX II 
+a*?W 1 *?% <ht aFnffW^H 11 ^ II 
+ftrcn ^r" * ^"r anro?^ ^% II $8 ll 
+
+? *RSF%— *, 13, n. 8 ^ f ° r T$—% % *. 
+
+« aj r ?j^I ^. I0 s¥scft%— omitted by «. 
+
+
+
+WZfift Hl?q% fFW l^?#!T II \\ II 
+
+«r^% ?t^T snsi ^iw fere <m^ i 
+3<?T *«r^r^^t in? apssraa ^ \\ \* l\ 
+
+apfoflR *re«ft%j «WRTftf*i: I 
+srfite^BWt *T: F*W fo *FW || H tl 
+
+ms?j *OT §*J?W§3 Fff3 ^ ^ II vso II 
+
+TO , f5rsn*l% «nt "rffFT^ S^ft 9>fal II « \ ll 
+
+aiftw^: Wti^ot wwm> I! \»^ || 
+
+«ttc| t *r *rrer| to: i«» *ftfe^ II »\ II 
+
+1 ftwi^ — % s, *. * wkiI^—3>, ir. 
+
+s •m f vm <w— «, *if ; o^rfa wi ^— % ^. 
+* gr# — $, it. * f=flnrf% — % g. 
+
+b «5ITfo6— $, €. 7 erftsi— -^ 5. 
+
+8 *fCT for *&— «, W. * % 351 «T— W. 
+
+
+
+fanotf store ^mzm^mm'&i 11 ^»a \\ 
+farm* #ncR wni*w Mm \ 
+m$i$ twisw ftafaftSw fMH u «\ n 
+
+ffiwRftft i^«l *ra§**Hfa'ra: it V9* II 
+*irt ^k ifrr ptHi§fa3«re5n U vs<T II 
+
+s uWFUfNfatfcF: — % €, e, ^. 4 m <rdsra: — $, «, i, =3. 
+
+
+
+^g4 ^mnpl aiwiwi^ara awi II <\ I! 
+aftqrat wwk«£ f§R»frs% %i 
+
+3TT5«Ji|3> |c3iq 'WIT 5513<ftsfo qj I! <^ II 
+
+im§i www *M* mv&\ i : 
+wrfftprcTiftfa wfifi ton H ^o 11 
+mwsa $# ?3townfas: I 
+
+1 gqif^— % % s, ^. a *? for aw— *r. 
+
+3 W $ i*k - nfe }3:— 3>, % * tflretf — <£, 53. 
+
+* $flqf^%— *, IT. 8 Sfowt JRT^HIcI.— ^. 
+
+7 fc*CT: for fa&— % «. 8 OTI ^— % ®. 
+!• — =3, 5, *T. 
+
+
+
+§#! *RflT ^sqf *q ^T<|fa =q «^^ II ^ II 
+* gf-p^—sr, & s wqi^— % % w. 
+
+7 ^l3 for ^k—Q. * ^ — omitted by *5. 
+
+9 ftaqijrara:— % 9. 
+
+
+
+*i% cri sen »ra afar^jifcm II \*\\\ 
+
+Tiftr sn« *<w immsm f^ra:' n ?o« u 
+
+SpV ^ fail *qni^q> ^Tf acga: 11 ^ o \ n 
+h-sqt m%m mfa&m putr^fi^ 10 11 \o* \\ 
+
+1 ^ has also the marginal heading here : 'drHi|I*Sf ^' l 
+s J*5 for 3g — % S. 
+
+s 3ffWPW — 9 ; bh wwr— % s. 
+
+5 W— w. 6 ftgpnRfc— % ^ 
+
+7 ^ *n$— *. 8 fpp?i — ^5, m. 
+
+
+
+e^*% ifia aft «reift% ^icsft i 
+
+3RfN?% '# cifFT* 1 I *pfi *to* I! H ° II 
+
+% ftossRPfa sjt^I *to* ! 
+
+«n$q flf|*n*m fig: ftt^FtK* i 
+
+^^t aswpi 8 *%$ afN*wF&i u \\\ || 
+
+<mvm?i nkferat ^Htssft u m II 
+
+eWci 12 ftgtf ^ fo ^ a qqT || u* II 
+ateRLsnsf^ l *>wsn 14 q%* fam*. i 
+
+cITS$ ,s ci21^ ^IPI SJT^TWF.'f&T: li W II 
+5 <3^oi — 5. 8 ^t — % *a, «, ^. 
+
+13 p^r— «, i. " *ra^c— % ^ ; 'srafa— *. 
+
+15 ?S«RR— *. 
+
+
+
+^ufflldR 
+affifFRL SvWfcl flFfqfefs SEPR: | 
+
+fom sifct cR^if stefq <nf?iFOTi§*n^ II f\\ \\ 
+tlc2*Ff*q %c*PT '$!w4k ST: fo«lT 9 || H8 II 
+
+3 g^r--3>, ^. 4 jIi^i-hi4hh^is-— ?, % *r. 
+
+7 *foRc$H— -=?. 8 f?PRF%— % *3, =q, 5. * f&nn— *r. 
+
+
+
+f^pnf^Bpn^ 5^: f 3% tit fsCTTH II t ^ n 
+s W^S: — % t. 4 fw *%«> — ^, ^ ; f^3%"— *. 
+
+5 m$?kk ft^R%— *r. 6 sun??:— *$, ^ ; smfc?r:— ^. 
+
+8 %gS^dc^4 — *5, m. 9 Line omitted by T. 
+
+3 
+
+
+
+3?*%T fit 41^ M^ SH<**l*t. 
+
+cfPlFsmRieJ ^ SlRPn* *F*Tf OTI^ II Ul II 
+
+WIFK ff ^pt ^ flfeLSPRR: II *V» II 
+ggH!# g^STO "rfcKITTf fofifWl I 
+
+farc smrc iFff qf<i¥ 8 f%*ftsa?n I 
+
+
+
+; ^o — % 13. " «y^Hd': — «K, «, *, =*. 
+
+3 ?«Rr:— ^, ^r ; §3:— % «. * sffg^pr— % *§, % 5. 
+
+5 The following four lines are omitted by ^. 
+
+
+
+smfMfaoi' im*& qRGN&qv si \*\ is 
+*ms&§A m «#r mfi fNr \ 
+
+i ^Rt — ^E, *a. - ^riNfi — % % *r. 
+
+3 ^ for sjfesHj— $, ^ ; «ssq;-— =3. 
+
+4 Ji?f?c3 — omitted by $ and ^. "' «l cti£<v?ld: — % ^, 5, =q[. 
+
+f ^—% m. * *» *rat— % «• 
+
+- spfe--*, «, 5, si. " •JliNKJKftcm.— *, W, H. 
+
+
+
+
+
+
+3TC 
+
+3wtT5p# ra q&m: mm i 
+
+B ^ JTTf^ftfl^l 33ITS Sjflft *Wl II m I) 
+
+■^ht^wt w*jft JTTcrrmr: 
+
+?T?!fF? iffoft %I?f 3§q #1 1 
+
+«n*fow«i^ ti&mi n ^o ii 
+
+ftsfrffl: ^5f«Tc!T Hf|[; Sf.HF^tlFWT II W II 
+
+fts^fifc^r %ioit %j^?w«i3frcrT n m ii 
+* $ mm sstfT ft«^f%r#5i 8 f| i 
+
+UltdTOHIlf: 
+
+ft«$fif%n 8 flflKfi «mif^Rwft ii n^ II 
+
+
+
+^n*nfo *mf^ qfarrft Uplift; I! \ ^ \\ 
+aro?«n*BF'FFnfa 9 q&fcwiwfo* i 
+m^WRW Rrais^N^I; n \\< is 
+
+?w 5? fas^: «n?i <*T?reft its Ami i 
+
+srtaft 1 SF3FJ SFfapN S^ft: | 
+c 35nft <rf*|J3FJ f^T%ST%Fq % II U ? H 
+
+aroscqftmft F5*fe wit Ercrcon ii ?h ii 
+F?i4 far s?R*ra "itq 3 m?^ flrcn. i 
+
+3 3|% for 3?ft — 3», 1 ; ^ and s omit this quarter verse. 
+
+4 mWHi^H:— ^t. 
+
+* Line omitted by 35 and ^ ; supplied by % 5 and W. 
+1 All Mss. read f%%s^. 
+
+* 3?> 55: erot — % m ; a5i-°$$w<ft — =?, ^ ; ggi^^eswl — ^w. 
+
+'' M for ^*— *T lu faR*»l«l4$W *— % 5. 
+
+
+
+^ 
+
+
+
+
+RHff: q&pftftl fflS*Fc£m * WOT: I 
+ill WMJjjW 
+
+tofa*it to iM^ mi i 
+
+^T% H% *^^^% I 
+
+rt^ <rc to m^mH? is W*. ii 
+wl«p%5 *&I fa ifa&f&m i 
+3wt«rfN^^ fir ficflgqipq; n ^o ii 
+«wi*kW iwrt swa: i 
+
+*ftgft <#5Tlfq <n?fRTR flci: ^T || ^ II 
+
+?*fan<w% mi mm ^w^l n w n 
+
+4 W for *$—-*. 5 f^wrfcf — % 5ST, W, ^. 
+
+
+
+afflftSRFPnS: P^fel^m ^ II W I! 
+
+W^lf^R 
+
+m* %$WWi *cJ^T FIR f^?Rc!: i 
+flSJ <R R$£»RWif^R3: i! ^ I! 
+
+<rtc graft pnftft %$*wft<R i 
+
+F^^f^Fir^R^rq^R ii \*t ii 
+$nft?qfcRf: *W: 1&: R*STR: S3: I 
+
+gq*tacR3SR3 Hr <R f| # 3 I 
+
+3 wr— «b, % n. * ?wr— ^, ^. 
+
+6 4ta*wsf»w*i r - ■*. 
+
+
+
+srfpr^Fn^r w^ fq^FTPRra 1 ?$ II \<\ n 
+fltarf ^<p*f $£f 'tori: I 
+#*$* I acFTRfl^* *?f| **frffi: II KX I! 
+
+qfq «rs^ sw% q3F*fr Mi ^ 11 {<rv n 
+
+$ft f¥m<W ?^T ^f: ft^ f^fl. II U^ II 
+
+qsni^giuft *%qT prow 1 
+
+?FqT: 1*83 flsfcfi 8 «isg%%? flp* II K« II 
+^#N §#? ^iwmM^ 1 
+a^tawi&i snoi9n»n¥*H!»fq: 11 \t< 11 
+
+1 ^R g pj — **, 5 * ftfi^raft^wf — % € ; l?ws$ <a"*fiM<wf — s. 
+3 *fa?fr-— % % ©, ^. 4 Hf)^— *r. 
+
+5 Line omitted by <5, ^, s and ^ ; supplied by =3. 
+
+h s^gpN l| ! ap : n— - % ^. 
+
+
+
+ftr4 f^?R ?^N isjra rt§3 ^ I 
+
+?m: 1ST *ftrflT glftl: $4f*l: §&h !l *M li 
+
+^l#i sjj?#n¥ PHfcflfen 11 m !i 
+s^iftm w g «i?Pcta*nM 1 
+
+cT?q^: figft: flT^ SEXTOS* *ftlll ^8 II 
+
+ftc4 T%wipnzft qraro ^ ll W II 
+f^ *ra cifTR q#J5w*3L*i?R 11 ^ » 
+
+<R1: 35fr *W for ^ *?RT 3*: II ?<U II 
+
+
+
+4 
+
+
+
+^ 
+
+
+
+f^SRT ^2?: f«no«#5C. 13F?TOT I! \oo II 
+
+gref* to nrosff iwff ^ttctci 1 
+
+*rasan sM %i.<e1^t§'%: 33 11 ^» 11 
+
+ST ^ S^F?ip&«03l9^ '^ % I 
+
+I0 fi#ift^ flit fc^T ^F?«^T5CT[ I 
+^IHWHti: T«n?l gzlrffWRcl: II \ o I || 
+
+3 ^ste— 3», % *. 4 ^t— *, ^r. 
+
+9 5^fe—5, «. 10 faft ^— *, *, ^ ^ 
+
+
+
+<#*jf ftftftPJ ?R=*lt ''BRUT spfstoi | 
+%m fclW 7 <FiIc3T flWnnStlf gift | 
+
+flspi ftfes s ^f4 epnf INsft: * 
+
+fi$m ^I erf ««r^ *S|T 1c3T ft^T*? ^ || \ \\ || 
+
+?M apn^g ftfu*? 16 snqf^re awfa. I 
+
+'TOT — W. 
+
+3 Line omitted by % if and =3 ; Supplied by 5 and ^T 
+
+3 fifcra: — % m, % =*. 4 3%&«mii — % ^t. 
+
+5 f^rt— ?, ®. " fltw^t— ^b, w. 
+
+? a^r — *, % ?. H ftc* — «, ^. 
+
+u f% — ^t, •. ,2 a?4— 26, «;^— *r. " awq; for apu— ^, ^r. 
+
+
+
+spwte^BpN ^ ^ x «rTi 3 II ^ II 
+s5rf*ratfs?iHf i ?ipnft w*? ^t i 
+
+^ 3T %SR |K «lfq IT^I^R^, II ^ t«» II 
+
+<Fsgorf '^rat 3 l m $&m ^>fci: I 
+apneas* wf siRwnis sm^ I 
+
+ft*raTr»n *JTO5Rft TOW s cl#$5ff%: I 
+
+qg sHflsarfa fw %!%* «rr n w li 
+
+wrr^i: *^pt usfr *qft %3^ I 
+
+1 <faHTO qfcf <?WTf sn is*. II W II 
+
+forcpnTOT$rcT tn*ft sgsqft ^n^WT || ^X 8 II 
+1 to — *. 2 1 — $, s, ^, ^. 
+
+
+
+Fqg*ra s smft grown: grog *^ I 
+'uwwrg^ir^ wg*m tot: to n xx*. 11 
+
+•37JnnT*m^f sratfteflftl^m n \\\ n 
+"aft?F»n^n^:^^rats^ «n is w ij 
+
+*'' 51^^ — 9. u W? for «ft?[ — $, H. 
+
+
+
+3 « 3TT%TOS#T. 
+
+ftf^T^? g«PRi^Tq fern st ii w n 
+
+qftftj&tNfa g«#nR faf^H n \\\ |] 
+Altera 'ct^at * <?%# <*te^i i 
+<^?tot 3$5 £raWifa|<£^ ii w ii 
+
+vmtm i 5^b stew iftfaro ii w n 
+^ ffla ^ ^k4 sr^i ^ci i 
+
+«wH T *r#oi ^t •qnqismita «tT i] \*\ ii 
+
+
+
+wc&* ^SS9? ym& 1 farra ^ ii W ii 
+*%q% e aej sre»i«i%: 6 ^*& II W II 
+
+1 fSgsg — % m. " T fii^R. — % ^. 
+
+* PW«$<i. for ?F3^— *E, % % *T. 
+
+"' *4l3*?Tt— % «, % ^ ' : SPflf^S — ^, ^. 
+
+
+
+n 
+
+
+
+<&&& ^3 efl3 W ?m ira^ n w n 
+irafawrf^tffa fM£fa farm: u w n 
+*n*n| 4 *pft ^ rr i^t 3 mmn 11 w 
+
+
+
+<?#* §*f*H wWH SR^c* II W II 
+1 ftS: wf^— % s, *. 2 cWP^a.— ». 
+
+
+
+' ~ -, - 
+
+■-.^r^- e v 5 3 
+
+S^^NtWI 1 5RP $PJrfi*PJT: 1} W SI 
+
+3?%W1 €nfr i $#i f^ !! w n 
+
+^r^ft*?TO T 1F*l$Pfo qfMfr: il "tl't II 
+
+8 Fn?iFn?R $#i * sn^Tft w^' ii H» u 
+s ^fP5 >tr3T — % ^ ; snfi ^rftr^r — ^. 
+
+3 The portion from No. 3 to No. 4 is omitted by ^ and ^r. 
+
+4 «c§Sl — % *. ° W«ra: — w. r di^H$c%t — *B, €. 
+
+* **!% *TI% H—*E; iHHHI^— «. 
+
+* ^ adds a line after this : *tifH 9T«ft S^fe 1 Wft ^T^T I 
+sr#5 etc, 
+
+s 
+
+
+
+a^Sfpnsn: *ra: saw* *p? ?wfet il ^ u 
+staff: 
+
+fl *nro: RTc^^rqt 35$aft *ifa»: «r: II W II 
+
+«?^T ff^tlgTf^ mi sn? $f?l: ftflT I 
+
+^: qn^asr fef srf^ ?pr $&&: || ^so || 
+
+cPS*r*H *$fei »w# a S'Wft II W II 
+
+
+
+®7^ U$tfa ^T^n^ SSRT II ^«« II 
+* f%a«PRl— % m, », =g. r to^— s, =*. 
+
+
+
+ft*wfcq' spfiftcTi 1 ?f^4 g <rafoui \<:<UI 
+
+6 #l#oflF2i a^fwqfN* 11 \<$ 11 
+T qwstf HTWTg4 wm wn 1 
+
+■ft** ^p? jroaft "ftftfan 11 w 11 
+
+•1 o5^fi^55— % m, n. 
+
+8 ^ omits the following verses here which are found later on. 
+
+8 w$f — a?, =*r. 
+
+4 «h*rer^h?^;— w; tm^^t^r:^^— $, % 5, *?. 
+* f*ra»ft i: — % 5, w. 6 5Tts|^ra^ — «r. 
+
+7 ^ and ^ add *r before this line. 8 3?ft*KIJI^«l — 35, ^,=3, 
+
+
+
+iMta: ^tsfq wj sft^ 8 |p?f t^. «rc: I 
+
+«TORRt?ra^WRPi fi$q?|: || ^ |S 
+
+1 idt for JRTt — =3. " 3 for q — 5. 
+
+5 1H^ for <m&— 3. ° f^^ qg^cW — 35, % 5, =«r. 
+
+7 gw: HmRTr surf: — *r. 8 ^y5?rr for ^rar — *r. 
+
+
+
+3 6 3TT%^^^#: 
+
+L . . V ._ fN IS . f\ n 
+
+^^^f^te^ift %?r g <fcn* ii w 
+
+SVPfolSft *fr ^: TO: ^: I 
+si a*wnaft flf$ «T W ffl: I 
+
+1 af8t$9R« fftw:— % M» ^ 
+
+2 ^ and 9 omit the following two lines here, 
+5 * I for § s(~~% *, *. 
+
+
+
+Tift***? ^ 
+
+*=HRFnfltfN stot otto I 
+
+*if| ^ a^T ^7 =1|t% ^ v^. : 
+
+3^3= ftaiOTT «Fg^ **f* ?ff 3: I! ^ * ° II 
+3*OT* fq^lxl: 33? fjfepraa: II \ \\ II 
+
+§^ BFl SfaKt stffTC Tp=W i) M« II 
+
+
+
+1 *T omits the following four lines. 
+
+
+
+3 =3 and w add here two lines omitted before. See footnote 2 
+page \i. 
+
+i Line omitted by ^ and ^ 
+
+
+
+tfo 
+
+
+
+fissipr 3 sfeftsfci gfwg fwtaq- ii ^ u I 
+
+^ ^ ^f: F^T ct I 5^%T effect II W || 
+W 3 OTCTRffc* ft 3 *Wpq R || ^ „ 
+
+8 qg^% 9 *fc#& "jftoft ^ | 
+
+35Pffi AST lx f«l?l% ^fofc ^ || ^ || 
+
+3f^ elf ^t SqfSJTWJraTct || V*^ II 
+
+3 * for «r_^ *, *. * 35m . ^^_^ 
+
+f CTR-_». "shrift.., » 
+
+
+
+l[— «, % 5, =g. 10 gf^i— «?, ^ w . 
+
+
+
+3%*? *mi$m miF^rEt Wi, . 
+
+ffa^ ffg[ ^ITrrePW: S^$f*i II \'\^ I! 
+f^T^Wf: FHrfiftsft If?: TO l! W II 
+
+
+
+wmt mm m^- %fow «Rrera: 11 w n 
+
+#: #53 $l%* *TS3T cfTf^f ^1%. i 
+
+<?5 #3 1^3 Tffi foe *f% 11 w II 
+%SF» whift f^i%3 wwta l 
+
+«ar8^ $#i mm% <\%&i n ^ ii 
+
+«TW«fl tlrf^f W. 1<tffl 3<fa: I 
+
+^ awitaaNraq: 3S«1TO II W II 
+ftfT«fclf RNqft <lr§3 r^cR** I 
+fl#n*R5IT3lfr} *RR«fofi«rft II W || 
+
+awfcrFf i siT^t 1^3:* pnw ^ f| 1 
+
+z&t ftf«nRrat^ *F3fcR%^ ft 11 ^U° II 
+
+<Wn^Tp: *?srftopetol ?ri: I 
+
+3R$f%? lift ai^ s ^qt *F^: sfafol II W II 
+
+
+
+-% % % *r. 2 g^t— % *. 
+
+; drj^k — % % W. * ^:— $, *3, W. 5 4\-sr3fl % 
+
+
+
+a ?i5Nr5«i3f9i^n ; n'r ff^ flr^ i 
+
+foqifaF^ fpsOTs^f sfflWRs^ I 
+
+%m% wfa srataH^nfa* n ^8^ ii 
+
+1 ^— *>, ir. '"' ?tjNP5^ fwra — ?, % s, *r. 
+
+3 W$F& — % 5. ' *T*JT — % % 3. 
+
+s =5} for m — % ^. 6 *ft^I— 5, ^. 
+
+? ^gx — ij. * »i i ^imi — is, ^. ■* %s$ lift — =w. 
+
+
+
+*y *r%<srcsfr: 
+
+'an^nfa 'sqffalfll <OT«faTfll flfN f| II ^o |J 
+
+*arra^?i^nRw^i $^ 11 W II 
+&m mm-, 'mzstomltit i 
+
+frit s&n *fe % q* sriNarHfci! i 
+
+1$ Fg*fe WIP$ clSJR^FT ^ || ^<\\ n 
+
+«7fnf^T #pFct ^ asnraR ^ u ^« n 
+
+4 ^IH T?R<i: SFqftfN*? %355^ | 
+
+13!%S*? %& rjf Wfc^T HT^ clT^ II \\\ || 
+
+gflTO. *tfftfN> g 8 qkfoffi&qfoi i 
+
+1 pWi-^[, « ; ^ i^ilu i — ^ ^ ^r. 
+
+2 ^i«J«<i Ri— *e, ^r ; 5?n^t — s, % *r. 
+
+8 3JSJ for WSJ— $, ^. * 3H^*T ?$c&— <$• 
+
+6 feTfra tf — *, «. • f^ gBJUppf:-^. 
+
+
+
+f ^TT^ $wf % 3]^n¥H S^T II W li 
+?I pftfl^i tf FftfciarK ^ 1: II H° IS 
+
+vwra* § #wwM ^ I 
+
+flrssrpi *r *wfo %tfrwfi 1 s^ il \§H n 
+
+1 %ffat «?5l^ *ifi«lft 1 WW: l 
+
+SRPferf^lft *W «nRWT«l% li \\<\ II 
+
+s #qi<ft *rf t^^h ^torj^. I 
+
+
+
+'ssprtcto^ afc^JJT^oT it i 
+
+m$m m m $1% fitoFsi i sifft ll ^ 11 
+
+j^iqfPreRF^I %5TTfq 3T 5* ii ^ II 
+
+*jH HfBSIW *jt 51?*? 3T cl^T sf^ II V»<> II 
+m^mh' w 5tfc^T 3RM s# 5 ssi I 
+6 f5#fR5»wft5 q<ft *F3 7 tt ^t n v» \ ii 
+g^ ^ 8 * *rraT 3 •soifsroraiJRi: I 
+
+TOfftaftsgiT^ qfam 3^%R. II W II 
+
+q^ S^fam 4fe*ito 'fMHtf^R I 
+
+2 The following four lines are omitted by 5 and ^. 
+
+3 oitptaH;— 5, % % * s^teraf «rr — =^. 
+
+5 fetq;— ^. 6 ^[: for fsg^-—^. 
+
+8 =3 omits the following quarter verse, the next four lines 
+and up to ' f^fctfe ?Rr/ in the fifth line. 
+
+
+
+'^fcZf 3NT f^fW rJIsfW mft&fit: II v^ II 
+fl*RPT: sit srt^^F? gptffe I 
+
+g4*ni: «»W^in? faro?: n ^« n 
+affcet ^HT ^ s% ^ T WW: ! 
+
+^frot wft 7 ^t ira ^raift«: I 
+
+5=f%sR ^m 5%: 4tri ?n5r *few: n 3<r° ll 
+
+1 ^s£ for &K — st. 
+
+2 3RE*CT5fMtfa for 3*qrW$faftfa— % ^ 3, =3. 
+
+s 313—51, *. ' Wl 5f %R%^— All Mss, 
+
+7 3fl: 3firt— All Mss. 
+
+
+
+«P??fft 3fafltafe $fa l 3T€^ \\\<\ H 
+
+^*n??f qffifri? fisren ^n&jt' ! 
+
+gs* f sf^Uf^rafsfq 4 ^ II ^3 II 
+
+3F# W s^h assq to ii ^<r^ n 
+3^g# ftq* 35 ¥*niFW^5i3 II \t\ 11 
+
+^T * ?m m *rf^ifg3T%& | \<Tvs || 
+*# 5p§f^ ^ stffaiaf p ?Rl: II V^ II 
+
+gwi% sifd^iw gra^cor 
+6 ;*ren^fq<i *pn ^irsniro ii w 11 
+
+3 fw?n>g?#ft— *. 4 aw for ^— * 
+
+"' Line omitted by % * Sftk for TO^—W, 
+
+
+
+^nfip^q to! w* f?i* tot ti W ll 
+
+mtf ^R^im =TT5r eRPqT f%TW II W II 
+
+"ftasi*n ftf^xm 4 **i&im k*m^ u w u 
+
+1 This quarter verse is omitted by 36 and <Q. 
+
+2 WF for 1?T — ^. 
+
+5 flfcm: for f| ft*l: — *E, ^t. * gsfe^tg—^, <*. 
+
+7 
+
+
+
+3 2^Tf|SFR ciS^f g§# ^ | 
+
+w&n srftr: 
+w famrn ifo im ^wng^m 11 « © ni 
+
+35T5ff. R^r^ i^tsq <ig| ftft: i 
+
+'rlFTF^t 4$%% ^ Hft^ci: |1 8 o 8 1| 
+
+1 3 for ^ — «£, m. 2 Line omitted by 35 and g. 
+
+* msfcT: for JTlspfc — ^, *i. 6 g for *t~% ?§. 
+
+7 35 and ^[ omit the portion in the middle and read : dWI«**Ml 
+
+
+
+l^fflfcl ?F«pr ^r *Hf<* 3*$: II 8«| II 
+
+TOt 3%pj %r55reF^Tt TO Wit 1 
+
+wfong?FWT 3%«n 3%Sff: TO. 11 s*<r II 
+
+ft^NT: f^ {% faflipn*!^ m: W* II « I • II 
+1% *l«W$tf ^TfTfqi ffcn^ f>1^R& ! 
+
+% *q$?aiT f gflw T ag*F% gm?[f n » n ii 
+WF=qf «^B wfora: «sft^ #: U 8 U II 
+
+•' Mi^^Rcti — ^, 5, *r. 4 'l^ — % ?, w 
+
+' <r»te i i — 5, =g. * ^fenr — ah Mss. 
+
+
+
+^*?4r*n^d Sn^H SSRTfl*: I) 8 ^ 8 II 
+
+fl*ITftffaRT gJT^^qr^%: *WT: (| 8 U II 
+R^Tft fr^^T^l*??^ I! 8 ^ || 
+5r!$#*?<?F*n: tifa cfRtSW 1 ^ || 8 K II 
+SasgSPTKWRTCF*? V$ $fe II m II 
+
+«f4fa§ mftsfi smftfa % j?g: i 
+
+3x!F* fict^ sftrpl Jn^BI^ W^ II 8^ * U 
+
+SRftoiptf ?renfr??rcraFi ^ ^ u 8H^ ii 
+
+5* %fW 3^^ flraRRraSS^EJ I! 8^\ II 
+
+W f rir^T^^T ifT^fWfq <mi II 8^8 || 
+
+1 These four letters are missing in all Mss. 
+s cWI— *r. 
+
+
+
+fMi^pmm «mi?nr: j 
+
+•*OT|5*Wq?»: Q§4: *W1 OTTOS: I 
+
+^nassrrsanfttnfjH *wfr qfSpT n «^ n 
+
+
+
+-*, m,*(. s sfarrafy^ — % ^, ?-, ^ 
+
+3 fTCfeR:— W. * *##& — *r. 
+
+
+
+quf&i cicf^snfd? e^T^ gat i H I 
+
+5% flft fl ip FirarWft* 1 %cR: II 8V» II 
+
+<?rrc a?+w*f«i wkf*? *?cit toi ii »^<r n 
+3?ifoftsft swri: pirare^ $* cif^cin ii *\<K II 
+
+'# sp^f^T 3FI PlT?T%q afpTPrc^ !| 8 8* || 
+
+t^ ^f f| ^ mt jprif^Pt ^ n 8 8^ ii 
+
+3^3 <HrS ^fa %: 33? ^ g %^ i 
+
+^ *cRT SFl 3TJTO FIT*4 f&Tft 35W& || 8 8\ H 
+1 %fort <w*%g — % m. 2 ?wr— ^ % «, ^. 
+
+5 ?*ra fkm— <$, it. fi $tf*4f<>i— 3i, ^. 
+
+7 « for *—*t. s % gicrpi— f or S^f a**— s, =*. 
+
+
+
+%. $4 f! ?R ^i ^ a?^ i 
+WlNiWi:, to ww 
+
+* «tr wicfft f*nff/ft*n 'flfoft rtt ii 8»<r u 
+
+«ft %t!TO ^ ffl: OTnf8F#lI I 
+
+1 gft; $.. * ^ f or ^ ^ ^ w 
+
+3 3# ^%If for 3rfif^%n — *, % 5, =3. 
+
+
+
+fftsf ffaff wtf 5ni|fei%: ii «<\| H 
+teg ■fFqig^i qafft: fl?f;?Nft n »<^ n 
+
+?R RT^Tf^ 33? 3Smr! rFpffif || »§ o || 
+
+««<*!< Pig s^Tcq qsaiq fflfaft pr: I 
+
+«&# f^Ffa *%f *?fsft&t ^ || 8^ || 
+»— «. 5 =g^— *, g, g. 
+
+
+
+fitful mm ?r nw$?i t 5 i 
+
+6 afcT: for apf — *| ; 3F*:— *, ft. 7 cl??t— -?, 
+
+
+
+**% =T $Spmi fiFTH ?W^ I! »vs^ || 
+?clFl?II^r jfailft <fTC$Tfoi JTfTfJTft: I 
+
+W^T«T 'RflRI ^ fafast: <TCT: I 
+
+5J3P? T <m* # aptf f^THR I ii «vs<r ii 
+
+Gifts* ifaST^ g ft<fc?Tf5pp? 8 ^T | 
+<TC£ftT3$.$T m S3FT R^fiqT II 8^ l| 
+
+1 fl?^*^ — =3. * =3 repeats these five lines. 
+
+3 S^WT^fSq; — %, ^r, =tf. * Line omitted by g. 
+
+8 ^ Ms. contains a marginal heading here : ft<gHH < fe*l4>K t Mro£ . 
+
+
+
+^ **?wwg mm%mw*C si «^ * u 
+wl> srcsi «i1spr! #fw ?ik$h. is *<:* n 
+
+*??%* I^pi: <nft*rs* ^F?q: ! 
+
+t 
+
+«?B5ik^ to wis ifwnftftfa: i 
+
+
+
+Iflfa x fttenoftft *T3; Wfl^sflfTT: I 
+fcmcfllf^f^lfim^^: II 8^° 11 
+
+ste^sfi 8 q^ <\wv&% %^ l! 8M j! 
+
+mt v%sm\ Mi ^Tott i ^ ii 8<u n 
+awfonf i s% fft m\ ftRt'sft: n 8^<\ ii 
+
+#• w^i ffnfe&r *RRR II 8** II 
+
+fl^F^TFt s&fsutop? * || 8^ || 
+
+1 <jfc«wiuftRi— %, ^r, i, ^r. :' dl*^ — g. 
+
+s ft®**:— *, *. * cfefri-^, m. 
+
+* 31%f6ft — All Mss. e l€-^. 
+
+
+
+wjfh few irc ?!^iqiq5r^?%: J! =\ a c n 
+
+aqeaFn #*if? 4 skk»i: «fw Urtt: i ^°3. s- 
+•aEjtteiwtf ^ wtbs^ : ii ^ o ^ ii 
+
+3 1«falSTrf&I— «B, ^t, *, ^. ' *OTT— ■*, It, W, ^. 
+
+6 Line omitted by 5 and =*. ' %m\* WW ^ — <$, 1. 
+
+' Line omitted by & and ^ ; <ll$<bK4IMi — % M. 
+
+
+
+l ^W?: ?JT3!: wft: *ffa»S sfrfiS SPft I 
+
+"siw^ *$ra5j: TOEFrafon 11 <^ ° 11 
+
+aqswffaprate^ 7 <WFT ^ ?T: II <\ H II 
+
+*VW* «5Ttf»: ^T^t »IFRt 5ft£faT: II M^ II 
+fffoft f^fa: $TS<rq: «sflBfifa: I 
+W^i: ^rrf ,0 |q^ "TRfSLSfa: II <\U II 
+5TC*#& ia isrt fo^sso^r ?jsfsra: 18 I 
+<E3sft%#ft "OT: 15 *5^: 5Pft II ^8 II 
+
+I 3rc«s : — % ^. * «i-a*ift — ^> =3. 
+
+•' TORE:— W, =*F. 10 §4<ft— W. 
+
+II *trapi— ^. ,a w^ft — 5, *§t ; «^«ft— ^r. 
+
+
+
+fellf*: fc»Ba: fpf^l gfewi: II *. t * II 
+
+«rfirawT %hp?t w*w sriw: i 
+
+■-jfsrf f?fEc:£: sf^?v*r ^=v>; ■; 
+
+irf&pn^r fpn^ tost ll, fo§^T *e*. 11 ^ ^ n 
+
+^firk km &rcr sfoonro 11 ^° u 
+si?re# *^re@1 ^^ f^Rf n, i 
+
+5RRPF*l^r |ft#t fanfito: II W II 
+$£n®I: ^WR: qjF«iH: fflFR: SI H^ II 
+
+* *<TOWR:— 5, % «T. r WPlft— s, ^ . 
+
+a tpfasf— *, =*, w. 
+
+
+
+*s 
+
+
+
+^Tsqsft: *$mt sfol: "TCrnffc^tof:* I) W IS 
+WJ?# sfrWRft TCirai: 1T5lf :^: I 
+^ *5noicR«nV %TCT3ffsra: 1«I: II <m II 
+?Wfa3: 'qwpift: 7 »TC?Jjrfr »F#»I: I 
+
+?! # ^lOTs *W< *n3«pff&r ^?jt: II <\\* il 
+«%: $w5 % *q q^f Sffa V° II \\< 11 
+
+W^ %ct* ftro ft? ura: I 
+
+I sfP^ft: — iBi ; ^Mt: — I . a write-?, m. 
+
+3 cfPW: for ^H:— ^ ^ 4 srwcwft— ^ % % ^. 
+
+7 SPWt— ^ ; "^^K — ^. 8 +MWW: — W. 
+
+II sRrf^f: — % m« 
+
+20 9 and ^ add a line after this : ^ HlfTO «GRr: qftt »WgW? ft f. 
+
+or — s, =*. I2 gsc afoifejfc — % % *. 
+
+
+
+^ psraf 1?r?w #w cis[ri^% ii <m ii 
+
+wm araft^iT ^ ww^ % <rai; i 
+«m#n^ fan: fo^^ro | 
+
+fqgg^jft Ffl?faWnft M^t II <^ II 
+snssNNrtT: W* Fty'iwfowwu II «i»o II 
+•^rfarct^ &% 8$wwiRty s & ii w ii 
+
+7 fficTCF#33T: ^ *PF?3ftfa «T $fih II W II 
+1 f^RRfton— *, 9. * AU Mss - COTrn Pt- 
+
+7 fo?RS#SR— «, "* 
+
+
+
+s§ 
+
+
+
+fn5RTsn*rat 3?sfq ij# q^ fsrf^ I 
+?i ^ #R: q^WW^H^fKl n <m ll 
+
+pmftw faFft *ai?iwft: fifo II mil 
+#1 Rf?H 5fl»?l^ *f3$H2Hf5&: II \9* II 
+
+d 
+
+?If51BWfg»RWIS4wJ5^il: I 
+
+^ l^ifq ^t gfs fq^it m rn^xi II <\n n 
+sg»n^s«HT wsn ^utI %2?& II ^° II 
+
+soti* g cnpqnra th^iwi ii <m ii 
+
+1 ^ %t for Stcfk— 5, =g. 2 qqg': — ^ ^ jf, 
+
+
+
+m^Fi ski "fiat ssi ftotfH *rf^fl: 1 
+ai^n^oi Ir ^ift «rc asm w^s, 11 ^v» n 
+
+»TT?F?HIiR TOT WfRfr sf: WW. 1 
+
+4 ?|t$ ^ ^m*^ trorafar 5P»nfq^ ii W*. \\ 
+wmfii qf%5TTf9T ifaaift g*: p& i 
+
+?nfa Ff$*<n #* f^T w c^^ i 
+^t^flRS^m ^Tsn^I s^f%% l) \\\ || 
+
+«npnft* t## ^ wi^w&ran. ii <u* ii 
+
+fg^T sir ^i ^sfa ginnsnfasr^ u <k\\ \\ 
+1 % for %—z, i. 2 ffcrct s|T— % *a ; sftat sit— w. 
+
+
+
+qs*rapiFi s^t ^3- ^ I^J I 
+5IT$fH fitfor #s«R?irast ifR II M« ii 
+ftcwif R^e: «fan^ qg*r: <tf*ft j^r I 
+
+^^t ftsRFnwft flfti f| u <m> ii 
+
+rTCFTT* 6 i wbf* fori IffiftfWt II Vac n 
+
+3 afcrSIT— % ^. * » K < tl^n Wr- "% *■ 
+
+8 cPH — 5, ^ 6 cTcT: 3F*t — % ^. 
+
+7 g?fc 3°iR— 3>, ^. 8 ml^#— ^, ^. 
+
+
+
+mFqfrsgmfSi Stat $?Frti II w n 
+5*n* araBta^ns 8 *rrwT «nm 1 
+
+flW^paWT T^T #ft^ II <^e (I 
+
+g<*T#Tfjpf gg |nr^T fwff «TCfal?IT: II <\<"? II 
+
+1 r$S for %— % 3§. 2 3^t|*W*hfo— §r, *r. 
+
+8 9W 3^— % *§r. * rFWI^— ^ 5, W. 
+
+5 =q adds two lmes after this 
+
+6 =g omits this line. ? 9T for ^— ^. 
+
+
+
+\s© 
+
+
+
+pen ?rk4 «#*#«? ?WT^fH II W II 
+l «S ?» flranft **n * a?^ i 
+
+JT^Tf^? *Fffr| 5*11% ^gsfft || ^ || 
+
+%f5rf%^ ■* met pimNc* swifts n ^<ra n 
+
+?pr %ITg *1T: sga: S^fa m: TO: | 
+HW3 ^ =qT% T^t# W $?n II <\<T<\ II 
+
+^S^fT^W^flp: II <\<^ II 
+fl^STf^WT^%3TflT^°ftTO<l I 
+
+hc^t *3ra»te«itaWr 3>T ifci: ii <\o n 
+
+fft =#*H 9t%3 WFcT fttiTTf ^ I 
+
+?mro a ^i^q 4fttaw^? fc^n II w II 
+
+5F3^T SfaRT^? Off SglM^l I 
+
+pra *t%w% wpi ^fe^i n w n 
+
+*sTC RfOT *? W^^n^ 5F3t *TfT*HTJ || W || 
+
+1 The following four lines are omitted by *t. 
+
+
+
+*ra§fo*f|<rara!Pifcr *tc# II w n 
+ingT^rf: 3H5F3: , 5R^>I?«rem I*: 11 ^| I) 
+
+^#wi^rc*N f$^ h% i 
+
+3 rtdhft^" 1 ^ 1 ^ — ^ ^ 4 ^— *> m > *- 
+
+5 q%F:— *r, 5. 
+
+
+
+m?*j aft* ^ ^ fer^ti H<3%<t i 
+
+«H ^ f^ft 1 *?% f TO*: 1! ^ 8 II 
+W^ #*N* *&Nt * 53 f| 1 
+
+l^#SS^T Jlsps^RT WW: sRgfc: II l<4 I! 
+*rfansrft cIT^ mft Tift <PTft% I 
+
+# ^ sM qT? *# % f cfa% II W || 
+
+spr«rm qraw wnm% w?[[ i 
+
+JTpSWfT: 1^2?r »Tg$T p^T F^clT: II | \\ || 
+
+srf?fara sra^c^r <nft =? *ot?; ii m ll 
+
+
+
+**t* %qfT«T $fcq#T ^t%: 1 
+
+%m% qf «TT5 fo# TO $5^ || m || 
+
+f?5^# pn^Fm^f # 5 ^ i 
+
+S f^: ^5^T<nf sfcffit acHTfc!: n %\< || 
+
+«f^35T?I?f: fl^BR ^qlcrcm I 
+
+#f Rfrf?t: RfaJT tt^fas&Rlfsft: || \\% \\ 
+
+safest^: flq«?RTft eg: f*nft 1 1 
+
+?ft & 5Rt #&T^off fagfo %^ n ^o || 
+*r %=rrf^ ^ aprra erf: e?q?q| <K: | 
+apfrn&afSklsl£H< ^ %q sR5Kci: || \\\ n 
+
+q ?W flWn«fl5 =f %q?T %q %q qT ||^ l| 
+
+
+
+' 55 I— % i. 
+
+
+
+10 
+
+
+
+■4% 
+
+
+
+'toj^nsN snspnft #m"l 11 W li 
+h ^^Fn?5iRng8Fn €t sfiiwm: is M» !1 
+mm^ mm^\ ^fTi zmmmi is $\\ li 
+
+ash fifths* f| ft^ff: a?ftffci: I • 
+
+•*«to *$fr%tf f §:%?? *f?^ct || |V |j 
+Sfi *Rfc? tR=?4 ^ N»*raif ^11 \\\ II 
+
+1 *WH\<— *, =3. 
+
+
+
+k* Ir SRifal mm fa& £§|: (| $vt l) 
+
+R^q%^fcM%*nfq m i 
+
+q«W5RWq?l*lTSF3HI f ff^clT: || ^<T || 
+
+^rat fo*ri«w ^w 5RW fs?m II H* ii 
+g^i^w H W S&Nft II \» X ll 
+
+
+
+
+
+
+*n qn flfaUffl: ^ii^ifit: gjKRWT: ran nM«n 
+^ ftcgqqq mm m% f??it: si ^ it 
+
+fto^ 313511 T# %!%: Wen: I 
+
+q$n3t g^pft ii^FF^prat ^w II M* H 
+
+«#|} SRJfarqf "iffe^T: Wf%$T: I 
+3*qF*f faojq«lf ^ ST^ T«nqft tel I| 1 8^> |i 
+
+i^ ^ $#i afesp? 5 %W II 1 8^ II 
+TOIRf 'OTFfct $rit 3CT 3*ft I 
+
+1 «TO»W — ^, 5. a Hg: for sirei: — % m, w. 
+
+•* Mtat*3 snfe^T:— ^, 1 Spj ^ ct^s| Stf— <}>, jjT, % 5. 
+
+* ?P?%f— *f. !i ^ % for l&— % ■s. 
+
+
+
+yivs 
+
+
+
+grit %FW«T 3C»q: « * ^: | 
+
+§<nf* 3 m a Ri@fa<$ m*fci ti \%9 ii 
+
+«N* m% W*f% fcftsfpT^ ?WTSS^ II |<\<U1 
+flSRiftwPTT: Jpftm sr?5&aT ffilf gf^ft: I 
+
+»i^*n ^ff^T: il «ra#fa^ II K<\* II 
+qifrfct 5r4 %f?r <^fct %*R II \\< II 
+
+*^5f fiT: $ftctt: ffBrcs$T g^ST FffiT: I 
+*fc$: ft^l^ tA ^ #«ra: II 1^ II 
+
+wfa? $ift *?*rraTft fSi^nfa %^ ii H» n 
+
+1 ^ for ft — €■ 2 ^rnra^ — % ^, s, ^. 
+
+5 qg. for ^ — % % €", ^. i sf omits the following four lines. 
+
+
+
+f^pfag <# pn»n?pfaa?i: q^ ii IM ii 
+ffig3»ff «pt # asr prosfe"!* II U<\ II 
+
+*nfwf q?r <$ aw fhtt ^%^ i 
+
+qsq 30^13 =3 *Tf^FTO3 * || |^ I! 
+
+fifiit ^ ^?T 3^1 i^ft ^ fl^R n W. II 
+
+
+
+Hf^JWfT^ #RiT «Trf^n fft tJSPTT: II $«» Si 
+
+sijsft ^m *t% iftwiFr g$ft: is V»«\ ii 
+niftier W Iff ^* g?i: n 6.** \\ 
+
+1 T$ for ^—-5, W. * fttK<rW— ^. 
+
+1 The following five lines are omitted by «E and ^r. 
+
+
+
+gpr: mi cpmf^F^ifN tow, ii^» u 
+sfe«rrai irons iws 3% ^ i 
+
+8 mi^^^q2^lf&I %TO: I 
+
+arrowisr mr qs?^ ^m^ ^ \\ \<\ \\ 
+
+#5 V 5<fc SOT W^ 1 
+1 tfcmt — All Mss. • *j?at* — *r. 
+
+8 W ^f«l*lPf — % % 5, ^. " Line omitted by ^ and ?g. 
+
+7 *r -Mtnaiwigt — qg, «s. 
+
+" t^*T4«W4 — % IT, =3. 1(i W omits two quarter verses 
+
+in the middle and reads: fomift ^j^ «tf qFSpr § ftfaili^. I 
+
+
+
+31% vfriA s^m ht^ m§m ^ i) ^<r<r a 
+
+^Tq ?RF*RT*7 %#f|g Jf qilij^ II ^S, II 
+
+^t^c^pt ftfeff^r g ^ mi ii w l! 
+
+flit*? HTT^ffiT Rqmif^f^fj: <ft^ j 
+
+TO9* "nft^sq ftN: ifogfc I 
+4 ^%TiRS?fq^q ^$q #!Jr ijfa: I 
+
+«r^ra*rRt f^Nnnropapi %^ II W ii 
+
+
+
+11 
+
+
+
+<\ 
+
+
+
+^% % %t pn«r ^n ^n^i 35J i 
+
+^%^q^ 1 sftftcq ^ siT^T: II ^ II 
+2 f*mft5IT: SR&qT: s?fclftc?f s*w 9*^ I 
+c?%qT ^ si3Kl*n %$[$ <im W\ II ^ H 
+sM f %f|sfT ^affaT f^JRfl: I 
+q^%r4 5 flfe i^irqita 31 II ^e, II 
+
+1£|3fc 5R5^ qp*RT cf WfT^i || vs o o 1| 
+
+JWTsrasw: ^tsfq 5 ?fqci: q^ t^R I 
+3Tf^Mts%l: Sni^TSTCgfq^' I) ^°H II 
+fiTSSJsjTS^sfq q^tfft $%m I 
+
+^c&qifq fagpT 3T ^TtNc!^ II vs o ^ || 
+
+*^W*tWs% <nil*«« H 
+1 %<& JiqTSJT^f^i 4 ■* **TCII «o<^ || 
+
+i ^ifst fj %st — 3>, tr, 5, ^ 2 ftvnf^M — <$ 
+
+3 «t for <&— ^, *T- 4 1 for S — 5, ^ , 3i=f*r. — *T. 
+
+6 ^tfe for %ft — g. 8 a*ft^1«ff9i — I - 7 5flT T IT — % =nr 
+
+
+
+^ 
+
+
+
+JJfRPTCT ^arafT^TT WW 5 ?^ 
+
+q^ilrq s^rftqit q?ws% g %ffc i 
+*ami*farcfil f5c3T qpn: TWg "WT: I 
+
+it 
+
+^gtwf flffa? i^ant ^fr^m n v^ n 
+mf^t^ aaFcra gqfer ig^i w I 
+
+aRftfft 1$ 1^: H tl^lS^' II vs^ Ii 
+1 iraq«r% — *e, % s, *r. 1 3wms*ff§ — g. 
+
+
+
+W?% 3 WTH snswpfa*r ^ II » * 8 1! 
+3T% 3<Tt 1?SIT STCg *?^IH?¥R. II M ^ II 
+
+wtifo % si w$ srass^ t I 
+
+*?P^ ^S^f^J rlW^ 
+
+qftgfc fi^ni ^ % ciqq^ i 
+
+ait *n*Ri 3f|sw$s^i ^Rq%ci II ^U II 
+
+
+
+^ 3 wra iF^targt 3 sIst ii ^ II 
+^?Fft fan ^uT%«fr ^ra ?lcp: 1 
+
+
+
+?nft teft ^Tfq Sjtot I^tsb^i: i 
+mtrRifdi ^nmft $5rf*g fistoa: n *s^ n 
+
+sTCPrfp? 3 sfaft 3^W3 *&R I 
+
+
+
+c\ 
+
+
+
+qrach faro* ^1 fl sn*nfa 8 ^teq$: | 
+ciFlcf: SpRJTOft SJTO^FW *W?. II *^ II 
+
+3 ifaflwre: — % % =?. 
+
+
+
+£*> 
+
+
+
+sRisrsftsR rust;??! sjfMtf^ !l ^»» II 
+
+c*rav»M <?ti§sc ssr^fqoi ?wt ii v38<? ii 
+^^rfo^JTHH #r<? 3^ ii *»* I) 
+
+
+
+,.„ lulll ,„ l -0 1 „ ll -r-T- rM ni L „■#>... 
+
+cc 3ntfp?EPPSra: 
+
+<B?g fs^ cW ^F«T ^fet 8 SFcl3^q^ || \s^ |j 
+
+f^=pj q^fqr^I 'igqi^fcR^T II vs<^ || 
+
+5 p?frw— % i, 3, ^ 6 ^swifauiij— Zj ^. 
+
+9 is^fci^r — w, iganrf^fcr tot — % ir. 
+
+
+
+13WT$ WTO ?R«nt 51WE1 1 
+q^s^ 1 flW^wil<*W3' I! #\\ 1! 
+
+ti Twm§ m*m: f^^nf i^ffT. i 
+wrc 4taft i^ * wsm, w *%% ii 
+
+?frfcM <RTCT*ft Sc#f|r! ^ * II *>§<f II 
+
+
+
+s uneraw— % % «i. 
+
+
+' u Line omitted fey =3. 
+
+
+1 %#p^— i. 
+
+
+4 ^l— ^"* 
+
+
+5 to^— % m ; WRt-"^. 
+
+
+11 €?S for «%— I. 
+
+
+: ^HBIT^#1R— ^ 
+
+
+K g^C^^OTT^»— 1 ? ^. 
+
+
+1 Line omitted by ^ 
+
+
+l!J i|^^to^— % i f it 
+
+
+11 ««!# for %3f~ m« 
+
+
+
+
+
+#fcq# <$w4 x gfa4 flrf <fe^ I 
+
+$51 35T3 ^ *faftctf ^«?T =3 Sf*r ?RI: | 
+
+8 fq£wTt! ^Fff FJFWT^I#1% II vsvs^ II 
+$r¥ 3fe«t ^ ^T^k^P?% II ws^ II 
+
+
+
+
+
+
+spit 3 t*^ jp mm 1 fisra: i 
+aTI^Rpf^ ** «nd ^ f%> ftftft tot I 
+
+
+
+*<irpn% iw ff^T a?T^ el r$% II «^ II 
+Us?: 
+
+«RFNf 3 »F#»[ cJfl^IT ft%n *«RT II v»<r<r II 
+
+srafosq: sn^fl^r *r=3n: 'mfcWKpr n vs^ 11 
+
+TgHwR T^oj %( ^qj^cl II va^o || 
+
+TO*P%smR ?«JTr^q«r foqmftft I 
+
+m c?SJItT ^bj ?R#q#fa qj || vsQ, { || 
+
+mspg; wasr <itc#ji% #t i 
+
+«F§ ^f5TT $ cf: !Tfa>: $#sq ^ %^ t || vj>^ || 
+^TpM *SS cI5T qmTwt%^ I 
+ftf^ c ?T flf#j S%f^i? % clef: || vs<U II 
+3ffl Rfepq clf^T^ 8 ^T^^F?I ^FR^ I 
+
+1 Line omitted by 35 and 3T, 2 All MSS. corrupt 
+
+3 5CI— % 1. 4 m*«Whi«H.— *, 33 ; m ^ Wli frfei: 
+
+7 W^rfTOP^— s, q. 
+
+
+
+l *T f^T f1% 3T ^ ^T *ftss$ftft |^ || \s^ j| 
+Spftj: fc^I* •c^clct ^<T «r^ I 
+
+$<n$fl srarf^w5g!Rrw» 5? 5 11 ^« Ji 
+
+l^f^Tfq fcR 1#lte5J3t II <fo ^ II 
+
+
+
+?rats$ ^n f^fefe ^ ^^ra: 11 <°\ 11 
+
+1 an %ir— *r. s 1^—^ «. 
+
+8 c^cl^f * TO£— * * ¥ for %?— *, % =* 
+
+" c^l|^fa — % ®, =3. 
+
+B ' Hsmf^f^T^IT^' # TOF^RSt— All M SS 
+
+
+
+% < 
+
+
+
+* TOR H^?q (T?%f ^fe% (j ^ H 
+
+*wfo?ft*r ^n #%|feqra%: it c°c 1} 
+9 ci=^%a| «nn^ sTsr%f% ^ cictoj, n <r \ n 
+M fsftHsm* ^t swtes ?ra: i) <:\\ u 
+
+
+
+13 aw^f-f^Ffa — w. 
+
+
+
+SK 
+
+
+
+«RJ ^ 1Tq« q^q* sq^fTf^f <fi$Tfq q l| <: u 1! 
+
+qq> «rf i<t qi-q gj 5 qftip&t I 
+
+srswrsSfaifontf *m*m ifa q?q^ \\ < \\ \\ 
+**fom q vfw® qi^Fftfq ^pf^ i 
+
+F*q *i*m^^F«tarc»fia?f&F I 
+
+qq ka q ffim qwfM IPWI: II ^ W II 
+% ^i qwrnr «piNi: to ^Tfq I 
+
+^T^HT^f ftqiSITq ^fa: STOFJq II <TK II 
+
+m m*ft qRlf qi%0| Hf %*^ || m || 
+
+I%Fqi^%f|^q:qi^q^q| 
+
+#*q«I fll*p F??<T pl?4 «J«ft«T^ II <rH° II 
+
+gwniT f| taafciRifq q q^ ii <th? II 
+1 s$°iro ^ 5F53RI — «, % s, *r. 2 w — ^. 
+
+
+
+ss 
+
+
+
+ftc4 3 1T|qrq *J qftfa^f?! «F5Rl; II <^ II 
+Sfaft !tf?f ?lrfl$rf*I3OT ?R|: gpr: II <^S It 
+q^ifagfasr flSTFRft 3??} II ^ II 
+
+^FsfSR 3NT *PWR: fl5*fo I 
+^l«F^ 2 8?lt snR5ft?N% II ^$ II 
+
+<wt fq^sj^R jfstt: %^ ^m: I 
+
+8 ^|^R0TT?lT^ sitf sqTS ^^B9 II <T^vs II 
+7 q§3 sfiqT|^ *F5TT: snon^qrf^BT: «rt: |) <r^ || 
+
+w#* 'qi^T % smwn sn^fti I 
+q«nfrq*SR5Frsfq jtjsft stow ^%fi: i 
+
+
+
+1 %— % © ; I:— ^ it. 2 %ii<iww*Ji— ^ % s, *r. 
+
+3 Hd^K«IW«ll— «, % =w. 4 *sr— % *a, w. 
+
+7 q§* sn«iWl|d*l:— 3. 8 qTSS=e|ft— % ^. 9 ^ficr : _^, ^. 
+
+
+
+fa ^sqffoT ^ s£tft: qffcfaraT: II w II 
+
+W^%<ft ftqTqf s^qT^TTW %^ || £\\ || 
+^Tc^Kteqs? 3 %^% *fSR ^11 <^» II 
+
+*^T#if mg^ ^ %5i*?5ff s&jpw ii <:v n 
+qswra pti jfh% f^ft sr^r II t\% II 
+t <sht: Frfa f^R tijf^T s^raw*. » <r 80 n 
+
+1 gr for % % =g. 2 <KW\ir—*r. 
+
+5 n ^i^W'-taPHi'fcfi ^gfttfcr—^, % % 5. 
+
+6 JF&=m f**ra: — <5, % =*, *• 
+
+7 The following two lines are missing in % «8 and ?, 
+
+13 
+
+
+
+3f*3Sft*i ^ ^Tfrrnte <ffi: II ^8 * II 
+
+^RiRR ^PT f%SWJTO»& II <T8^ II 
+3T# srewrat 1 S«TC«nfa %^ I 
+<Rl?lftiqTfi$fts 3*#fc ^*F5T%! II m U 
+«T5n^5%q5I3#rt TOPER 3 I 
+1% * «%: SUgpFsft *T ffa: II <T8 8 II 
+
+?fjtrfi e*fr#ratarq ^ arg % I 
+
+*ftfr?3I»W clfe 1% ^ft flTffa; II m II 
+
+*F*RT#3#ftsflf STT^^frfRTSfri: I 
+
+*n«IR $rafo«r: FiraraFfois %3<^ II <f8^ II 
+
+<R*nf|gR *R^ff3 in% ^ i 
+
+3T#? Hf#| fl^flfcplW %^H II ^8^ II 
+
+w#? s#nft* %#*tfa *UI <SS, || 
+«f *f*w$rt3r ftfta «ra?r#t I 
+
+2 sj5i for sra;— f . 3 sna ftto%jr- *>, ^r, 
+
+
+
+flf^lf^?*?! $3 Pflstl ri^l II ^^ II 
+
+are ftrcfrsisr ^ 371ft wra: q^[ 1 
+
+^ emiiiprat *pft 2ft irawi: i^ 11 <:<\<\ 11 
+
+fit ^ft ?lc$ropnsira 3T 3c<R 3*: I 
+in4«n%fij *T%T #^ f^tei II <M II 
+
+lift * fft ^^ 1T^RRL«*n^l II <<\* II 
+
+gftw ftcRt *pft **n^fcr jf^ 11 <^<: u 
+irthtot «frr 'fMpiPC^i: II <^ II 
+
+•sftfofiT: foRS^R qTO*3l$Wt I 
+
+1 J|^— % ^. 
+
+3 The following seven lines are omitted by *T. 
+
+
+
+mfitft: ^lc*PBRL*WTO?tqT fami II ^M II 
+
+«ral: qftrite f Itjr s# to. i 
+
+T 3^ Mfcft ^ 51% $T% 5W 5H: II <S^ II 
+
+*&& ^Rwk sn^r ^Tqf Adroit ii <r|s n 
+areas! f| farct *i3$tf ^mfom: I 
+
+wraith JRl^nf^swl 5 §■ sf: I 
+a?sifrfti ssnoit f|mq wrarcn ii <:^> ii 
+
+jP5Wng#sn *we*n 6 sirf pft qtarrf&raT i 
+
+1 Wllfcll:— % ^t. 2 ggj for <^T— ». 3 ^ qg:—^ *. 
+* =3 omits about five lines in the middle and reads : arqratf 
+m* frits* q^f^: I ^ 
+
+5 #1 for fqk— 5. « j^g^_^ ^ 
+
+
+
+
+
+
+ffts# SIT Wf^lt iTTcnM: <^FJ 3T || t*\ || 
+
+
+
+«^3i:^T ^ 3*: &K8RRFIT II <t\ II 
+8ri3P% ftfw 35W flSJ <F ^ WWJ II <<\ II 
+
+sfifow to rf n«gns afrnffc* i 
+
+3?fl?ra Jf^ffe 1 %^Ht *TfH*&t || ^ || 
+f^llfte $$ <*|tf 3%lffi: II <^S II 
+*TsN 1$tf \? fiftf ^ RHT^: H ^ || 
+
+fft snw»m^| *m? erf *«rt^l i 
+f^^RHT? ^ ft^nt ^ mm. n <^l n 
+
+T^T^q 39W arrets F^f cW n <^ || 
+1 ?ri — ^, % *r. 
+
+2 1 %tJr^^;: i?m V&fr %^55^ — All MS. 
+
+
+
+^^5^g 5f^ £ft qin af SR^m |1 t6\ |] 
+
+srfawtwra ^fiF^T^T *n*q?nftfa il <i^° n 
+«"wnit pran&fo ^raifi ?wt ssr: ii <^ * II 
+
+ftgoif ^5R|, ^RT !&<fc{ 
+
+wsi^t sR«iw fi^if **m ^ il w il 
+
+3f%sl1% ficft: a^gipsgpg %m: II <^S II 
+f^Rf feftft sft% 31: % OTg«I?IR II &\ II 
+3<?FIH f^qt g f «rlfsna^RT fg^: II <ZK\ il 
+
+* %rt 3T#?W *F* "WItUR I <£V II 
+
+1 ^rr m #5^raif5rf%— ah Mss. 2 M%i:— %, % 
+
+
+
+3T?FJ?T^I rlr^f itf <ffFR>TW II ^o\ || 
+
+3TTt AH tffoTf&I %f&l fcRfpfST: I 
+
+flf5W??4 crat »WT ST sft& <WT *W I 
+ST ftc^T <mWW ifanwft \\K*t || 
+
+1 q^ for sWHj— «B, «. 2 iftym'IWH. Sf*T: — % 
+
+
+
+fW Pk*jHK<l 1S$?$T: %111T: II M * II 
+
+3?c^ ^^5H ^ F5# 55333311 II MX II 
+
+fSfcmssr TO: 3^ 3^3$ || M* II 
+3=P^ *#& ^f^ a^r ?RT I 
+
+qwpifforosif **t 3*1^1 <rc 3^ 11 M* 11 
+
+ftfstSTOelTf^SWIflTOqiR^: I 
+
+TwHRT ft Q$3t 'l'?WT ^TTfft %3T II M^ II 
+
+8 5#if^tV^ «F*iitaft l 
+afawnw ^Iraflw 11 m$ 11 
+
+f^PPR&WnFfflS IT: BR^T: II M* II 
+^Wft *faTC*ft 3W15T "f stffyfiT I 
+
+rn<ft wrsoflr $*n ^f^% g ste 11 M* II 
+q^ft ^ ^N w*t ^ t^t^ 1 
+
+psrrar-% «, «r. 2 w for jt — % sr. 
+
+— % % s, =f . 
+
+
+
+
+m&ft fcvm * "torn n mi %m 11 m^ii 
+
+t 3 at ^p^WTf^jST srwf&n i 
+«n$ft aftrt p*it ^^JlaiqRsft n W II 
+9 iT^ 8 <n*ft ?rt *^w#n ^RRft il 
+
+rcpforafci tti flfa: wsrcmi: II w II 
+qM t^fer itct u^jf jptf jrt *w i 
+
+gfcfiT 'wfSffiT 5qT*TT ^ sfr?PT ^F^tt II W II 
+SlftST Wl BTCT T 5W swt ^^t: II Vt<\ || 
+
+fo ^T fl*T Htm 5W sj^ ^fp^i: | 
+«pfa&T 1# «IW X1 ^WT flfac[T T^T W3T I 
+
+
+
+3 frfipfc — ^ s. 
+
+
+2 This line is missing in ^ 
+
+
+^30" — ^f. 
+9 spi1^te^ 
+
+flTCdl— ■*. 
+
+11 $HT— *, *L 
+
+
+6 ^if&^T — ^r, ^ =^. 
+8 ciHi^im — *. 
+-% «, % ^T; wV^nsRsftRr sfa- 
+
+10 *ppix— ^ ; ^w— ^ ; wft— *. 
+
+
+
+q#rfWlfcwa^gT VWf^l- II ^V II 
+
+f|*"RT t*TC?ft 1^T*ft ipift^ft II W II 
+
+WafoT ?T^T rifan fl*5fll II <W II 
+•RpfeF %^T p€ta TOOT I 
+
+qgfcmf^ "I ft^qiRn ^prai: h <m II 
+
+srgTf^cSPjfcT I qi: $Wf 5f%: &$ I 
+
+?I^tfct ftc4 *?sqs% W^l ^ <RI '<RT II «U» II 
+
+I^T: ffippT Sift q%Tl^!S£3T: I 
+
+«f5f pnft 3T 3flcn: §3T <ffa? s^fjT: II W II 
+
+^s^t«5 , *PRS|3T 3*FRFRT: I 
+
+mien: *n: *tfs*faF% ^t 3 ^^-. ii *m ii 
+
+JJfliffiffFRHFI *TTfTr«T i 4 ?wift^ ii ^v*> u 
+3tPTT |ft ffl: SfoT sjfrtf f^S&Kt: 8 II <*JU II 
+
+1 g^RTT — *r ; #*rr— s, =*. 2 ?rar— % s. 
+
+8 ^«HW<*I: — *%. i TO f^P£ — ^. 
+
+
+
+?R^F5R#3T cF=f 3T SJfsffiT ?WT I 
+SFHWlftosfcT rT'dST % Fimf%l: II *>8° II 
+
+q^sR^sR^cfi^Tim i 
+
+3cqf%R^%feflf^pT II <K*\ II 
+Sfltfot JPRT *HJT 3333 Sn^iffa II ^8 X 11 
+
+iw4 m tiifi w» *i ^N?t i 
+arfcwfe ST?nf?q^if §:^t^ li %*\ n 
+«*»wri f| 1 $aq> $f|^T 9T jsij Flfl: I 
+
+s srcs: 8 a^q^ totA q?pp II ^»<\ || 
+fq^T^rafjffit% fat i ft#t# i 
+
+«rohg*nroftftflF# ffaftf^ n ^»\» li 
+$%fa^ <tf^rare*?T #ff?<wtefq m \ 
+
+
+
+8 sN^lq#: — =q ; s *ft{ lm & — -a. 
+
+
+
+$# 3 Shan't # % ftftf^fcl I 
+«mWTPlWl^% ^ ^TUqt ^SHtfcR II W II 
+
+ffaWfTf^rf^lT 3JT^ WT^I! W II 
+
+^q^ S WftaTc$j: StTSF? ^T Ufa: II W II 
+aTCRqpf ?Rl: ??3T qwfc IpTH^ II *>«^ II 
+
+$m?i *wi c «n*J snsstf 'wm^u ^M u 
+a?f: qra s§#J ftosrc *pnftfa n v*« ij 
+
+3 snu<ft-— % % % **> 
+
+
+
+<m tfti fWto flW sftsSfc. i 
+
+qftft-q era: q«R&5i^ f ffoSflt II W » 
+
+3<tM ^nfft^f «WiF*ft §sqft II ^ ? II 
+
+l^[w #r^Pr *W%ra ^ sr*R l 
+
+^T'ST^Sl g ?RT fl^mfe AT II ^| 8 II 
+
+ffiswfc ?PTCfcPl *fl«*T 9T TO% *?$ II ^ II 
+$fa <W fal Vfitffe *R I*: | 
+flrflrf^q^TT*?! 8TT8[^?SflT FIctT II *M II 
+
+fqgp?H^ raspr w% ift *?$> I 
+
+3* qT%T cfs^fa* f^|cT '«RT || ^v» || 
+
+1 The following two lines are missing in 35 and ^l. 
+
+
+
+•fts^ft ^STT^ ^3^ m*wj \)<^\<: || 
+
+WPIFRWRTftoT =3T*RT^ fW^clL II ^o II 
+SRlwrt R§#i fJ^S^ If^M^ I 
+
+^T^j *WI«n*! STT^ flTTC^ I 
+
+1??: qT%1 flft^ 31RFT ^°T FW II V»^ II 
+
+5I^^R 4 <$Sf^ F?H %IR ?lrPi?m II <W || 
+
+gqisfag q&wft if3 *rat %% m II W II 
+
+
+
+
+'^ *n3*iffl *uq at cm si fo^n n ^>§ u 
+
+i ^PH- — §. 2 « for 1 — % % =3L 
+
+3 5^5^; — All Mss. 4 "ftsihpt- 
+
+
+
+m 
+
+
+
+^fqtrg q^fofr? a flg3=?? f^RcS*: II ^vsvs || 
+
+%t fas* ?#w faterraT^s fts I 
+
+<q£: fanfcft: f^k^ i?«m^ ^ 11 ^<: 11 
+
+%^sr yi^fR W swsfto 11 ^s*. 
+
+f^ITfT^fqo%| 3 ftgfifiqta^ II <U ? li 
+Wh fa* g IftT f^T <m: q^ 1 
+g^nmnra fas ft<p*f faqfa^i 11 %^ ll 
+
+6 ^ s|q $fo pn?i TO.^Bf^r »fa 11 %<:* 11 
+%f%^ m<p snpi <wg# oth 11 %*\ 11 
+
+
+
+Itestof fiftfSw ^ *n ^ <rf^ ii <u«. ii 
+sns %* §#M ft f* : n «*° ii 
+
+^ Rf #i tofe *pfto. n w II 
+*tew^ siff^n wfq^^ gi#s^r I 
+
+tow fi?S%* Sf TT3: gfowwt || W II 
+
+2 The following five lines are omitted by 3 and €« 
+
+3 otsrpi — ^ 
+
+15 
+
+
+
+3 * tf Wltfmmfe'. 
+
+ftc fi^'Msfq aj&% qfa^ir ^ ll !«oo n 
+
+S^TR faft Elfq?IT^l^%: || (ooj || 
+
+qNlwsr *%^ s awftara** IH • •* H 
+
+flfaftfafT % %t t^°lt *foft iH II t ° ° ^ II 
+
+3 a*r: — s, % st. 
+
+
+
+?i%f?rami «rara?i3r: srftaw^ I 
+flcssr^rat s3ste^R3 ii !«o^ ii 
+
+qsRpWt ^: SRI& flc^R II t ° ° I II 
+
+*3T%^q srm^saT ^ ft<% f# ?tcth i 
+
+ftg g$ ij^ft TT«(T ^«if ft$ft<ra; I 
+
+# ^T% ?rat **J: 3**=ftRTOI II * o \o n 
+
+sffifcfe S^ra 3*V flWg I 
+
+sn3FS& sifl^ ^«?T: WOT ?F?IfW[ I 
+Rf^^^clgfeSR 6 $iT%ft^*SRII l«n II 
+
+• a* for *?«-*, *. ] *& f or a— «* ^ 
+
+5 Ms. =3 (D. No. 2613) ends here. 
+
+6 5SH. for ^SRr- ^, % 5. 
+
+
+
+^^i^n^ ^ffi^wfei^r^ II \o \\ II 
+
+fesqWK S T 3f ^ ftHAwMtal II t o ? 8 II 
+
+§#I S#5 3* S**^ ^ I 
+
+snspfftft ftta Rtf^T Fflqsr $mi ii t ° ^ II 
+cfffocffWgaT: farcfr f^fa ^ ll S° U ll 
+
+*rafri wit fpt ft<pr% ^ SsPftm |) \o\^ || 
+* 5*% ftfq*T qfs §q^ cicq&t n \o\\ \\ 
+
+
+
+1 ftg^'swe^T— 5. 
+
+
+
+sHsswra jjarafaqtororafci i 
+
+'% sits swrat 2 mg: sn« ffi: <rc* II t ^ II 
+
+<wic$Rr#ng: f*n?WTP»c«n sRftf&racii \°\% n 
+
+3?fe *WT«% SRI^WRETI^ II * o^ || 
+%ftrqF??T: ftgpiFI mt^im fWTW^ I 
+^1^1 '^mf ^ <$ $3T clefs «R^ II \o\* n 
+
+aRTO#m*TTrirgfFr: 7 SRIFKT II t©V II 
+
+3 3 for =q— *T. * =raT — ^5, % 5. 
+
+7 3ilrH§(&: — 5. 8 5 omits the following five lines. 
+
+9 ♦UticHM+Klfa— % m. 
+
+
+
+qmi^ *fomw satfe* kt in • » Ui 
+
+gqf%r: ^scq#3 sR?«n«R' S 3^: I 
+
+m^\^t ^ f^t ^ *ra: sr& in °8^ ii 
+
+c 
+
+4 ?stM^ ^ foig^ta %<rr i 
+
+1 qdV l ftfc— *, *. 2 -W^*d; — ^, ^- 
+
+3 fadlrM«^M*aV - % % 5. 4 <3ncR§--$, ^. 
+
+5 tstpfo^fc- % 53. 6 spn^ ^^ *?*-*. 
+
+7 fM$ify^«ilfth<f:—*5, ^. 
+
+
+
+<rat &3R Wctt *ft q^m f fa ^i: n |«^ II 
+
+Isfonf^WT *%TcflRTa#rcT: II \<>Mi || 
+
+flg^lftft ^t 3T pTr^T W$R %*3* || te<\vs II 
+WIRTf^TT SS: ft?IT 1F» WI I II *o<^ || 
+
+
+
+1 ^TF%sftr — % *$?. 
+3 wh siV*i% m—% m. 
+
+
+2 5fS SR^jft — ^, 
+
+
+5 %t: idptft* — % ^r. 
+
+
+
+mS^faWRPTO? area: 11 *o^h 11 
+TOfWNfai: <tf 25T: fl Sirem: II t <>M I! 
+
+a 3 tziTpf^iT ^rsr <$" &mi mi 11 * °^ 11 
+ssfifcrorcat f^?rc§?n=?fat s 11 \o§* 11 
+
+©n 
+
+1 sot — ^ ^ # s ^ omits the following five lines 
+
+16 
+
+
+
+sna^r 1 ?»fe*sFi i '%?w 3 tos* ii * ov9 ° ii 
+
+fflWf ftfft*! ^^fRIPiA il \ o*\ II 
+
+«rft«noiM rt\*^ ft $ffa^ a \c*v ii 
+«ri^T.vi|W5fi' iwmw*5«j^ n \**\ 11 
+
+^5W1WI+I% Wzpi 
+3 sFrarffi?*— *. 4 5- for erfq— *. 
+
+
+
+\m *nit SHwreir §<r «f $3 ^H 1 
+
+9 ^ ftf<331 *rf tfl$ IfiS R?IT: II W* U 
+
+•ar^n f| fiait "R^k raw 11 W* 11 
+
+fg: gH-sPw awfo&nifefa.* U W\ II 
+ft^ft V gpi: fS^awi^i ^faa: II W* 11 
+
+
+
+3Tfa35T ^TfTggT: <?ft§ST: sjffe H ^o<T<T II 
+
+tot sirararoT tiimmfs ?i?t «ro^ i 
+
+^<ITOftrf«fl»fr*l 
+
+flwpgsfa V ^1 w §4q gfoftram. ll t©*\ 11 
+
+fon3¥to} s# ijgT^q ^ 11 1 0< U II 
+37% jftstf ?faf ?|f|% f^ft 5 q^ || { o^g || 
+
+otif ift^ ftf i% 4 * ipwt i 
+
+qgT 6 cIgT srafcq clxfcef Rq^3: || $o^ || 
+^ ^TI5f 3T ^ ftfa^ft WP{ II *o^$ || 
+
+•fWtow fqk^r eiqfNr ii \ o^vs ii 
+
+2 %srai m^HMi— - *; %sfst 3 5R srar— w. 
+
+8 5 omits two quarter verses and four half verses in the middle 
+and reads : ftKSSJofispi ^fl%c4l: *$ sfa^RTT: | 
+
+
+
+fljfcfrt fed: wft&m: £§: sfa^ffl: I 
+
+ata^FfosR* apnoHtop %fo< ll \\ o * u 
+
+3?«B9Tffe5R* HT $3T «ftq§[ f| %: I 
+
+^«n^f mil <£RNt fi&ra: 1 
+
+mhn fifth* fil^ftfal: II n°x II 
+??iteTR sns# *Rrafr3fc w^ra: 1 
+*?tct ^wfcifa fi?R ■* flams* 11 u ° » »» 
+siflarasM ■* TOif^wraf f?wt 1 
+iw^N«5«t^ «ns saift 'aw II U •* H 
+
+tWTC«f f&JT: '^faWrH^fa^fJ* II \\ • \ II 
+
+*$$3«r r%3t sfent f|?r^: II U °* n 
+1 vmi ffamt:— % *. 2 *toft ^— *• 
+
+
+
+qP\4$& mi ft" a& ^^ i 
+5?q?^fp^f?: \* ftfa* wi. il U ^ ll 
+aftf *»fq *rrai «ni ^ fi&ra: I 
+qw: ^ivn'ft? aRiRiwnjw: n n I ° H 
+
+3B all 3 ^ #1 "K* P&\' II U U n 
+
+iM* ft^i ^ciift$3^ ll H \\ II 
+^ ^ 3*31 tWl 1 a^RT *&& II nun 
+
+
+
+a qlft— -q. 3 Ms. s (D. 2612) ends he*e. 
+
+
+
+*ft: 
+
+
+
+
+fq;g$q ^ff^ ^ f3n$#a^ 1 
+
+2 ftra?nf§[?r:— »i, 3, w. 
+
+3 ai«»fel^* *■ WfS spfoffa— cited trader aiftw by <TCRTC- 
+^Ivj^H , Vol. II. part. i. p. 232. " arWffil^ <P*T— *» *• 
+
+r_H,B,tT. 6 s.trcif*Fm&*— «, s, *r. 
+
+
+
+u* 
+
+
+
+a e ^TF3 wit ^: ^Tflsrq? ^ 1 1 
+
+clrSWq 3 flfrf <^wfeofan. || <T II 
+8 * f| ^TTfrlSB^ q^nfo Hf TriT^ I 
+
+R$n^fi ftgf*?: 3i?q>T;*TfsroTfa§n' || <*, || 
+
+' Cited by q. HT. II. i. p. 232 under 3tf^; cf : 
+3q**IR 3?I%r: ^l&r&tWMil | 
+
+2 w#5<| s§?ft fst sifagH? t^ =g — jt, 3, sr. 
+
+3 Verse cited under stfifTO by q. m. II. i. p. 211 : Reads qpi: 
+for fcfr; ^^Tftf for ^Ifl4; SR^Fffr; for g*fef5r: i 
+
+
+
+
+
+
+5 
+
+
+
+srarr: — i, sr. 
+
+
+
+6 ^I^^H.— 1, 3, H. 
+
+7 *>?#if'#pt»fcrrtf fc^^M,— *>, % *. 
+
+8 Verse cited under stflft^by q. m, II. i. p. 211. 
+
+9 Verse cited under arfkT: by q. m. I. i. p. 317; see faw, 
+«nf .. <&. I, 50. '0 ^q I ft rara?? f_^ 
+
+11 ^f^fH^Rm— q. at. 12 sQ^,^ __„ „ 
+
+
+
+gqfaiat f| ?? it^r atri^Fwffa I! \ II 
+
+*«?ft f^:H^iq: Wit 1 SSffaTgqfNci: I 
+
+ssrafr *^3. qi<r 'qfaere ^ n H II 
+"esft i g *fc& 3 4 qrc?«i^tfa*R: I 
+
+r^ qrc swi 9? ^^Tl ftft#l II 8 I! 
+
+<r f| 10 qTqfcif %n ^^otN qi c *RR i 
+
+ura%% H3?q% rfNR ^eTRWf: i 
+qfn&BW: §f$; ^TTTTq^^: *RT II I II 
+
+x The following eight verses are cited under arf^ by <T. UT. 
+II. i. p. 206—207. 2 aw— 3. 
+
+3 €?it ft:*^ ift— «t. IT. 4 ^%— ^, «. 
+
+5 mR > wPn$> — *t ; WSTO 1 W& and qfafcra f^Jct— q. nr. 
+
+6 ^R 1 — % W. 
+
+7 swn^ i ^stfl — t. *rr. ; smro % i mfc* — i, a, tr. 
+8 ^iwNPi— «, w; *Wrerc— «, n; wi# and *$m- 
+
+10 irifct — *c, ^i ; mM«y1 and qft fct — q. ht. 
+
+17 
+
+
+
+fl%<£ -wm: mrm $mmt *wif|ci: i 
+
+^PJR W: sftsnffWn ^°ff W3L I 
+Tils* fsTCHT %^ T ^ f%f^?T^ U <£ II 
+•flrlfl sjfaqraq ?|T a HS^cR I 
+ftqj: fs^far ^r^iqiq^T^^ fj%* II ^ II 
+
+*tfr^ $m **RT flr^i sfact *fo I 
+flc^f «fa& *%• ,0 fl?^ Hi aftf8<^ lim 
+"^H^^^^T^sfq tfft SlfrlfgaT: | 
+a?pn* ^ «*lf flt#r S *W *lf<r: II \ I! 
+
+3 3RL* M^W^kl — % ^ 
+
+2 The following two verses are cited under 3?fl^ by 1. STL, 
+II. i. p. 235. 
+
+* f^fcT^— *T, 3, ST, 1. *IT. * SRT for f% SfT— q. Iff. 
+
+5 qftwf% — All Mss. 6 S^f^#P#— % m* 
+
+8 All these eleven verses are cited under stf|^by q. IIL 
+II. 1. pp. 235—236. 9 ^:— % «, *. 
+
+10 «i SR%— *T, 9, ®, q. JIT. 12 ^««riW«^lsft— *, *. 
+
+i 2 q^mij — % % w ; qt ^[ — <?. *n, 
+
+
+
+qf? %§^q% 1 w*i ftq?i m*nV §«n i 
+'qpftt f?«f%q * =q *§sqa $f|f^ ii ^ n 
+
+'rlFTTfSIsrf^ qfflcWf^sqraflHSR II 8 II 
+<£* %: *m^i Iff: 'flcq sjqi#KI: I 
+
+'rifcqftqf^r '^sqeiql q^g siq^H ii <\ n 
+
+18 aria^?3 q?siH5 qw HT3^ "iH I 
+qfacl *fo?*N ^iqWf ^ toitojj. ii vs a 
+
+Rfcq ^ <* $W ^ *ra STqfof ^ I 
+
+"qftqfiR* flrflf snqfsre faftft&i || <£ || 
+
+wfq swi^fr ,4 q: qf^ratfta: 11 *. n 
+j'jgp* qt |5 % q^r srif^r a^ i 
+
+i q^n%_q. hi. 2 irnwlr— «i. it. 
+
+3 Leaf No. 40 of W Ms. is injured and only half of the leaf is 
+preserved; q^tS5PW^R— % 3, IT ; 'WTOt?q5R%JI— 1. HT. 
+*g«iT%— <*. ut; g<^— " f, S, IT. 
+5 dg*tWg 5 — - <I. *T. 6 Wiil*!^:— T- 3. 
+
+10 dfclBwfrd — *I ; dl**l^cMlR%— 3, IT. 
+
+13 q%. sf*F3i— **. w. T * "WW ^ f^ratf^Rt: — *r. ht. 
+
+
+
+si*? 6 msral3 'i mm fe#^ n U It 
+irsnf^'rafeiT^ greater *m g?NfewiFr: 
+
+^ _____ 
+
+1B RT*lf«jTlfl*f f%3 =3Rfac3T Sleffa% I 
+
+q#?T 11 flraV 18 *racRref«raftf1i FW n ^ II 
+
+"^T^ m 5TC> 3lft l8 ^?Tfa^q: S 
+
+"^ 5 fl«lfR*lffl f%T: $rafaiqftftf*im: || ^ || 
+
+1 dc-iwc^H— t. *rr. ' m—®. 
+
+3 «c«it — *b, i. * % — 3>, ^. 
+
+5 w *T%rT«rr =sfrot— q. m. 6 si srecSfr — §r, q. w. 
+
+8 The following two verses are cited under 3tfi[^by 7. W., 
+
+ii. i. p. 3. 8 srafsra cifs^cJ— q. *rr. 
+
+10 afmrsr s*f f^ri— q. *n. xl <?ftw— % ®, *r, sr. 
+
+12 sr%— q. m. 13 *m— q. st. 
+
+14 The following three and a half verses are cited under srfsHSf 
+by q. ST., II. i. p. 217. ,6 %^5rifef?5flfim:— q. W. 
+
+16 % HdffsRRIT: — q. w. 
+
+17 an % %i*&f&iT:— %, m; «h %sfq sr€H^rn— q. m, 
+
+
+
+ftrcto^te wniTTOtsft qfaisfa II ^ II 
+**$ if wsjxp m k % "$ <ft I 
+
+T 3Tct $s$ 3 % fqqT: k*$ ^!»RK5r: I 
+
+#*l * *rot%f SITSqrW f#I^ II «. II 
+
+1 qq^i— *j, a ; qfar 4— q. m. 
+
+2 awfcqui -— q. jtt. 3 3«cH«(i(^*i , nj v — q. w. 
+
+4 Verse not found under srfiFKf in q. W. ', but compare this 
+verse with qmk<j(%til e., \t : 
+
+8 Verse cited under ajftt^by q. JTT. II. i. p. 217. 
+
+6 sra«<<w% — q. *rr. 
+
+7 Verse not found under srfia^ in q. W. but compare this 
+with qTOR8%IT, c, I 1 *. : 
+
+8 The following two verses are cited under sjft^by q. JRT. 
+II. i. p. 222. 
+
+
+
+srasraftorr 5^»t i$^t ^nTO ii \ n 
+
+*^goikft *^Hf 1TWT % fg^txHTT: I 
+
+f%: '^tHfal 6 ^ '^rg&n fffi vW: || ^ || 
+
+wit ?T: snTTORl: fl %>r<ft «%§3»: || ^ || 
+
+s\z\ s^f?t ^ ^ f%?nqf %r ftiqq: | 
+
+«rtfttoW»Ff §* 8 «%%SW^^ U 8 || 
+
+arsRwftnre^i: ^^ *ifara$: n <^ n 
+s^qk«TT|s|irraJTi|5 3^ct 9 i 
+
+^T*N 5 S3HT * ^ HR^frk: II I || 
+
+3 Cf. q. m., 11. ii. p. 50 : '*%$$\ fa*ft ^' pnsrfkgr star 
+
+SRffq qf^qsw«% I Compare TO5?TOF3ft, *, ^v which is identical 
+with this verse. 
+
+4 The following four and a balf verses are cited under arfks 
+by q. *T. II. i. 230. 5 qmfsit — n, 3. IT. 
+
+6 & ^sfhr— n, *, 3. " ^gffoj.J,. w> 
+
+8 * f^t— % M. 9 fate* 15 3^%~q, j,T. 
+
+
+
+«tp: ^fsRTqf § %qRf ^W^: | 
+Straff 8 WTfq?q 08$ =53 flWct II «v II 
+
+10 Rf rfM f «rc?*nft awf«RRgtwn in ° n 
+
+3J£: *F.I^T ^3 iTt3T^lf|^ *3: I 
+
+"^M^tM 12 f£s^?re*t W. II U II 
+
+3T?cRT 5JM<n ? ctT flfltsp? SRmTf^fa. II ? ^ II 
+"rlPTT^ BTTHT?! <mT ^<& "few: | 
+
+1 The following three verses are cited under 3fft^ by q. $U. 
+
+II. i. p. 231. 
+
+2 If^T— q. UT. 
+
+3 qfiqr^ ^ dd^ fflL — *, g, ?; qftw OT S^—*, % q, HT. 
+
+4 gd%f:— q. w. 5 Iwwt TO^-J|. *fT. 
+6 «gr— *f, ^ it. 7 cm— t, », fr. 
+
+8 sig^i— *$, 9. 9 ^i^i— ^> 3, ^. 
+
+10 fHPff 3 Siq^lTftf— ^ *. u ^^l^dlM— ^, *. 
+
+13 Verse cited under atfl^by q, itf., II, ii. p. 178. 
+
+
+
+mmitti mfr mw. m ^ f| n u n 
+
+$Tfrj|«ncgqp?R ^ S^ft^fR; I! ^ II 
+
+»re;rqT qf^ejsr 3s?q> ^t q%f|qi i 
+
+*&fa * cTCT qT'T 7 ciff*R. ^^fft^ II 3. II 
+
+*rft*if ^i«rfe f$i& w?^q cm n a u 
+
+1 $3— 1, 3, ST. 2 g<sq%— n, 3, it. 
+
+3 i?tfiRfa*raTi — % ^. * araf^ftofcmc^spi— t, a, §r. 
+
+s q*fc$T5^ — 3>, ^. * q«Jr*^d^I — T, 3, IT. 
+
+9 w#n — n, 3, «r. ,0 «it ^m — 3. 
+
+11 1 fa—% «. 
+
+
+
+3trt%*% TOteaipr. \ 3 v» 
+
+
+
+g<$ *fk *wr sift 'snsm i%n p*& i 
+mm ss^ri <?ht^t# 8 wi: 5pm n <i ii 
+
+*tf i^lft fl#! 6 cPm $ 1 fflSft II ^ II 
+
+%3 Ji^ft ^ ?N jpsRj q.<?5i I 
+
+WT??IT?%&ftn!^l?eS^?f II \o 11 
+fat WlRT ^ ITC^R 1 ^W: I 
+
+8 iT-g?!FclT|^ ^ 5TC*B 5ft WII II ^ II 
+
+'srtr^ *?e§ ftaqraT 5 i«n c *F*w #t I 
+
+11 aT3nJiPit ■* ^raqTirqi^qf ^ stfrir I 
+^ ^?iTf T^pwn^n^T %hsf nun 
+
+4 The following three verses are cited under 3rf?R^ by «f. W. 
+II. i. P- 214-215. 
+
+9 Verse cited under atfll^by ?. W., II. i. P- 235. 
+
+10 $Sfor3Tfa — % *3. 
+
+11 <B and « omit about two verses in the middle and read : 
+
+IS 
+
+
+
+^R%: Nfe 1WJT *l fTc|sq: Iflfgffc II H II 
+
+*«7?Fn|R^8sq: S»TO: fll ^ 3T 11 ^ || 
+«ni?*3^»f^^ snSW 5^ I 
+
+^t "?TqicH3^ *^r gsqiwsfr *&i n » ii 
+1 s?i%&w%it$ — 3>, ir. * straf^ira^ra^f — rr, g. it. 
+
+3 The following four verses are cited under 3*f)R?r by q. HT. 
+II. i. p. 234. 
+
+4 h &tf ^JTOTPPT: — T. JTT. 5 3IfPlT^3 — q. W. 
+
+6 qi%r q»!T ?r s^sr—- % is. 7 qrc«T$ f|^gfa:--q. nr. 
+
+8 ajurnijq^asaj sjstst: mte m — q. *tt. 
+
+9 fo $& «es awi — <?. ?n. 
+
+10 Verse cited under 3}%ff by <*. J?r. II.' i. p. 234, 
+
+
+
+STqfsra * SRI*} sfl^fa =3 f|%: II ^ 11 
+3 ^T% SR^rg ^ *rcf ?T ^Scl 11 \ II 
+
+«ft: SS 3 ^ ^s-q: qM: fl^ <«*: li < II 
+4 3?if|cnfaF3 *ft fta: 8 «ftwra ^3*. I 
+
+1 Verse cited under stf^ by ^fd^l4i3Ji, S[*l(«fl!l*l«r«J^, 
+p. 870 and under *W?ft by ftRm&*T, *n§. *&. \, *••• 
+2 -3!TO?raT^ % sfal^ct ^ — 35, m, *T. 
+
+3 safJtfN&nt— % "3. 
+
+*The following nine verses are cited under arf^ by q. W. 
+II. i. p. 375-376. 
+
+
+
+l%0 
+
+SBEipr prffcl %r5?c3T ^t5I ^ 5? fl5R: II \ II 
+
+i# sfai wefts '^rapi i%l i 
+
+^39f 3 *e*nft TS^T ^f# g*T II 8 II 
+fof^f ^ ^tPT q^ $R: 3*t%: II ^ II 
+
+g^^fafof 3 1 wit 3 f^ra: 1 
+
+flf^SP SRJTcW - 1 Ssifa FW.JKI: II $ II 
+
+3 sjrfSprssfcr— 1, g, it ; =?jrfq fs^fcf — <r. it. 
+%rto*«iT % *2§t — q. *n. 8 sasra^qRj^— ?, ^r. 
+
+SPftslcPNt §— <$, *i, 9, tr ; gs$ sifNtarf §—7, nr. 
+si g <y%.—- q. w. 
+
+Cited by ^$3%, verse No. \c. (A.S.S.) 
+
+
+
+snat l# sift vfa®4 * fern n V8 ii 
+
+#*%3 «ft«^ is: sit ^nf«Pnq| n c « 
+m\^m ^«fr *Nf4 sifwsft i 
+
+"t^Trl flfo*nft *5I?I3F4 1 T%TC III ° II 
+
+NO <\ 
+
+«WT *off '^ 'sfasftl 3 f|^: HUH 
+SRI $5pm *Fq *# 3T $<*I ^ 3T I 
+
+W ^f^c*? W51T 3T tRSTft sfl II \\ II 
+qT*«ftsfq tWT in* 5^«l: ST^m^ft I 
+
+5BFWfft fon«n? tftf =?t *rfs st ^ II \ a u 
+
+ftf tR * qi?|s4 ^SlflSSr f| ^ I 
+
+- 3 and 5T add one verse after this . 
+
+5 n omits the following eight lines. 
+
+
+
+m 3TT%rafcr: 
+
+smnk mi $tz i^ftsuzls ^ n \<i n 
+$?F*flft tWTF^ to ^ «ra* sft i 
+l 37W urn sfa li sN ^wto^* II U II 
+git wpwtefa^w^nft ftasr: I 
+3TJS5 ^wjs *» "ai*^ a^ffcrar: II *vs II 
+
+sraofalft rtsqift 'srfjfrntnfll frSTCT: II U II 
+
+qra>wi% §4?a «ren*iFf urercn. i 
+f^isfrfaq g*Nfc t fto «h M«ft (I V II 
+
+1 The following four lines are cited under stf^^ by T. *IT. 
+II, i. p. 416. 
+
+3 ^Fl^T: — 1. m. * S%|Tfcr— ef. 
+
+5 See sif^:^%:, verse No. *\-6\ (A.S.S.) 
+
+6 ^ ^Rf ^T— 31. S3. 
+
+7 fiRI^ftfirat ^ *igr «l%fl ^B1%— 3T. ?3. 
+
+B s^fiRte'rcrra sw^tRjnrarofSR} iraTSffhs«?nar: — % % *r. 
+
+9 This adhyaya is not found in % m and 3T MSS. 
+10 Line cited under 3?fi[^by <?. JIT., II. i. p. 422. 
+
+
+
+q$m ffe* awft anHqR 5 II til 
+
+^£% 3 g??*ra ftftitf1N%fci 11 H it 
+
+•WRM %?¥rU 3rifrqFnfir|lfoq: SI \ II 
+
+ISAST %^ ^ ^qTI^ II ^ II 
+, «HT"?rg ^?q %£ ^3 ll ^ II * II 
+
+•qfaaTit ^ #if g? c^r m^m *fa i» « it 
+
+stfaNctrc sift sftfoqFt <wf33* li <: ii 
+
+TO^lfl qffalft fa»nf? pfrrc: I 
+
+sran: sfoiffira ^%% f*i^i: FSffl: ll ^ || 
+
+vml st swrapi Vrorf fofa% II t <> I) 
+
+1 a n l^dlAI^KI^ "! — T- s Verse omitted by »l. 
+
+3 Line omitted by 3. 
+
+4 The following two verses are cited under &*!%«, by 1. *FT. 
+II. i. p. 67. 
+
+
+
+WK=3 f&Pi ^T c %$Tf 3TffT^5RT^ HUH 
+
+#i ^2"i ^ # ^ *i3#R II U I! 
+sra ^4 g ??c§n??: «n%%? f^js*f?i i 
+
+l 3f*!cft fliffft ^Tfq ^fT ^SFrTCT f|?f: I 
+Sf iff} fllfR 5 fl€J ^ ^f¥fo<t, M 8 tl 
+*m®tft g ^T 3ST #r Sfl f^rqTr!%Fl I 
+
+qsi * nm sto: strcfsra $*? ^ H \<\ ii 
+
+qf ft* 3 1»: fltalf ft* 3 tofafrL I 
+flfaJTm ST <£cTT «W#| ^psqfa || { I || 
+
+*qRn%4 g q^?I Sf^ f5m?life[ I 
+
+1 Verse cited under srffft^by <T. *n. II. i. p. 68. 
+
+2 The following two verses are cited under stfiOT by q. *n« 
+II. i. p. 65. 
+
+3 Cf. <Kiy<*t'fedl, \, \ : 
+
+yrer^ q^%r wnwfa qreSfr 1 
+
+SUlf^Rf S^T Sr^I %o| «fa% ^ t| 
+
+4 Cf.' WW»R,d l, *., \: 
+
+
+
+1«*T g fifoq^j R1H II \ II 
+
+ircreit tn\ 51$* srraf&re 1 ftsra 11 | 11 
+
+1 Verse cited under 3jf^ by 7. JTT., II. 1. p. 257, also 
+compare WlWt'ferll, \, \-v. 
+
+3 Verse cited under atf^^by VI, m 9 II. i. p. 275; also compare 
+
+*r *nf%M * m^imM sift ^M * wzj%: i 
+
+4 wft*r— % ^; m^$— % s, «r, ^. 
+
+qm^PlTlw^TS sn^ferf «r ftra% it 
+8 TO^s*r ^s— «i, s, a. 
+
+19 
+
+
+
+«TT?R 2 %* J^fFfq JTTHTf qTW ft^t II ^ II 
+«RWE^#f4t* qraJTCToft ^ II «. II 
+
+qrasfafci wmm^ grafts * f^r in © n 
+
+35TCW f^t 9 *IT^#ci #^1 II H II 
+
+em flqfan*? 5 * |4^w^ ii H n 
+
+1 Verse cited under stfjft^ by T. 3|T. II. I p. 267. 
+
+3 ^for* — *. tt. d Cf. qrarc*f%rr — % v. 
+
+5 Cf. TO^f%rr — %, n ; q. s. reads ^si^siwrf ^ ^*Ff 
+
+OTS ^ for the first line and arfi[ #3% for 31^51% m the second 
+line, 
+
+6 Verse cited under 31%^ by q. m. II. i. p. 267. 
+
+7 <&TO— *, ST. 
+
+8 5 and ^r MSS. read the line ' HPR ^hPTI^ g «T SpSbsN^FWfc ' 
+after this which is to be read after the next two lines as seen in the 
+text. 
+
+10 The following three verses are omitted by ^ 5^ and sr. 
+Compare this verse with WWtfferr, S, \*. TO". ST. reads ^T|% 
+
+*faft tot for ^nf^fHir wr i 
+
+
+
+*ll fft f^cl * $mn fqg% I) \\\\ 
+
+'•fa ***** OTftfllft tr^ I 
+
+snfotff RFIfrq^ Straff f f^ 8 M » II 
+
+f§| ^ft **i| ^ u^t q^wiwft ii ^ ll 
+
+W *lft 3*H ^-?JTS^FiT3T^cl* || \% || 
+
+siraft^ f V^* ^ apnft q\ f%f^i II ^ II 
+wra m$mW ??3T qrcift *n^: HUH 
+
+374*1 SRWSElSS'ft pfw*&l || H° II 
+
+1 Cf. TO. ST., % *H ; t t. *f . reads ^(^i'tfl for *F5|ai and STstfsJti 
+T f^m for ^ ^J^ra %Rt I 
+
+2 Verse cited under 3tfp^by <*. HT. II. i. p. 283. 
+
+1 sraHsNfa^: — 1, 3> 5T. * S^Rt — «, ^. 
+
+R Line cited by <7. JFT. IT i. p. 202. 
+
+7 <pirc<reTri gftsf— n, % 3L s S^^%fel^T <&%— ^ «. 
+
+" <Mf9:— 3T. 1U ^Spi— % % *• 
+
+
+
+srsftftspr ^T'joif m\i m&t ftfaj i 
+Iri ^ qfam wN> wrvsfa WW II 
+
+^ *TT# 'rH^W nt#iT ft«ft^ II ^ II 
+
+iRsNfon *wft *tf&' 5*ffa %to* I 
+sfifcsi^i •fl'Fat *r<?i3f <rar ii \ n 
+
+4 The following ten verses are cited under stfipre^ by q. qr., 
+II. i. p. 247—248. 
+
+5 sure*^— n, %, w, frwrraj^— q. m. 
+
+6 %m — % 53. 
+
+7 ^MWlWi—*, 3, IT; fqsFcft eft— *T; i*3Rre?rf — % m; H% 
+
+arret— q. jit. 
+
+8 ldB«-cfl+i«j(ci8=s s^cfta'ai-pifci. — $, ^. 
+
+
+
+arr«¥5ff ■* ^fegi^R «R»ra * II <\ H 
+
+swr qlft ^ m m% sift si w*. i 
+
+iwiRff * wHfW %* 1SW* u c u 
+8 fl »hf OT?»RiT<l IWFgWR* 11* &ra: II ^ || 
+
+^f^^^T^i^i! U II 
+fRl $wm RTO Sf;cFnc3T <**J: fq^fL I 
+
+
+
+qi?f: ^m\ WK^ §*fe c 9 5 ftSTCH II ^ H 
+
+aftwW^ti:' f^T ^ ^ ?WF?R^ I! * II 
+
+*s*m %wfei FnWSTPft «ft?FRT || 8 II 
+qsqpf TOfftseft *!5*R3 *&# I 
+
+3«raft 5 <ftrw <HBmft 3 *nw* II ^ II 
+
+^TH^JcPT *Nn<gqq$?l cifc^ I 
+%^T I e5^> *"3% ci#q%f|^T: II \ II 
+<^tI faff <i 2^ f^eflrilRHT FfR I 
+
+$l3?q 3 *wfapi aTSOIFW ?ROIH (I ^ II 
+
+araqr ^ *r $sr 7 stiwit ^ %rai I 
+
+fifM BIWWJ^ 1 ¥ snsqFTCH II U II 
+1 ^fa — n. 2 spren — «i, s. st. 
+
+'' it omits two quarter verses and two half verses in the middle 
+and reads : WW ^l^FH STT?PRcT5f ^m^ II 
+7 MS. I). No. 14501 (<sr) begins here. 
+
+
+
+'Wf3 g*^ anrifrsii mm ii n ii 
+3f?g*rf?ifi5F*?t aiwipi 5% |^ il \\ n 
+
+3WFT %^cIT: ff& H ^ flfer %3T MSI! 
+
+^r f| qf ^?nf«Ntercraf^iT*i?m i 
+
+«rtTCWTOIIS$?rc: i'Fg if snwrotitR: II \\ II 
+frqil#w*fai $ 7 i=5ST%^q^spT ^w 8 §t^ss*th: 9 
+
+
+
+4 1^— t, *r, 3, sr. 5 sratwfa anions— % 3, sr, i. 
+
+6 This last verse is not found in 5f; 3 has wi«w*to. only. 
+
+? ff^ qq — *e, % ^r. 8 ^i^ftsssra: — *r. 
+
+
+
+3 §£t^*nj|35?rgft 
+
+
+
+a? 
+
+«ff% g<St *p:, 1<^ 
+®ff% srrr* *, «>* 
+
+aifcl^ Prtfti T:, i*i 
+arenas ^s=r ? i>u 
+
+a?p: sjf^TOg, IVa 
+sifted ^ *P *^ ** 
+
+anftwisfosfir, «rh 
+3?i«r»ift *rarf ^, w 
+
+apwnfcMfaH 11* 
+
+20 
+
+
+
+arareimspjprar, ^ 
+annro$jf%*, iv 
+
+arf^^rpi eii ? Mr 
+aRstosrrofeit, ^ 
+
+arsftfewft ^rf, ^ 
+3rass§g%ftsrT!, «*U 
+
+aft ^I§ aRIRTH, *l*\ 
+
+&5, v* 
+
+
+
+\\* 
+
+
+
+BfcftwrsiFT awe, *\ 
+
+Sfe^ctfq^ft^ ^ 
+
+are fqcidsp *,%\ 
+arch fk^m, *\ 
+
+
+
+awfNt 5? 35ft ctri , y* 
+
+3|^%q$ g, 4T^ 
+
+
+
+\\% 
+
+
+
+smqwsisgss!, \® 
+^?%q Hfapf %qf, rv 
+
+
+
+3|{q ST *nfol3W, 1 1H 
+
+3?fq OT§f<i w f n 
+
+afST^W? ft field, V** 
+
+TOtaqrqftMN, u 
+
+^ sgr crat «wi ra f * 
+
+arm* aw i?i^ * 
+
+arfifo* srcfaOT, « 
+awl3«r«ft3i%K%q, ^ 
+
+aiwrnra %q afe, v 
+ap=q3?rft qw ? 4* 
+
+arqw33*Rwfti, *x 
+
+ararercqr acwi f3 : > ^ 
+awrarem mi%% *», 1^ 
+
+
+
+#$; mit %?ti *i 
+wrongs*, H 
+
+^%rftfqcR>, n\ 
+mmm^i % *< 
+
+^ff^i?^, 1«^ 
+
+*$fa w*n%sfqr f in 
+
+mM graft*, 1 1 
+
+*ftvn% g*te, iv% 
+®m^ ?R%m P 1* 
+
+«nrit weft wft, iw 
+
+
+
+SRET ^T^RS^, 1V^ 
+
+^^^, n 
+arstarcrfa wrarfir, *h 
+«r^n^i«r^crrfir, ^i 
+
+»?OTNgd asms, ¥v 
+«f«nhrea * ^#, *^ 
+«KRri qfcRrraN, i« 
+
+afftasift * ft3&, i*^ 
+
+
+
+3^5Tqf^l# 
+
+
+
+W^s 
+
+
+
+^fmm mi m } i*% 
+
+
+
+«?R^T*tt TOT, ^ 
+
+
+
+Biw *rig sfa 93, m 
+sufterfiKjl ^ for:, 1 ^ 
+
+
+
+i\€ 
+
+
+
+*fir*m«iqfti, i*\ 
+
+^4 sfiaft ?*%, *>«» 
+
+|5OT«taqjter, n* 
+t 
+
+
+
+3ft88*T«lf5t* f 11 
+afoWflfo r^t j i*% 
+
+
+
+3?1%WF#; 
+
+
+
+3f%gfgtfes^q^, ii« 
+WW: Rg^s, H^ 
+
+sfa&ft ftro, i®^ 
+awfttsreRrew, io* 
+
+s?q# i?# qrfy i^h 
+
+%&® stem ®^m f w 
+
+OTftcfc ^ft qr, *m 
+aqsfareg %jq, i* 
+sqqrarog^, iv* 
+aqq^rarceq^pyr, 1^ 
+sqqj^g q^Rra:, i*s 
+^q^ra: e fei^ i i % 
+sqwrc TO: qfein, i| • 
+
+OT^STRHafar, 1*4 
+
+sqnfwg qT%wfr f 111 
+aqta wftitef, no 
+
+
+
+^^T^fg^ipil 
+
+
+
+t\% 
+
+
+
+W^m q& fasr, ^ 
+
+
+
+
+
+
+tpfn ftfla g**, IV 
+tp??j qrot gw:, ni« 
+
+ipi^%l f^S, His 
+tptaf Mm 5<% ^*^ 
+
+
+
+^o 
+
+
+
+«rT%w^l%: 
+
+
+
+ttf 33WT 6RW, ^ 
+qq%: OT3Sira: r <U1 
+^ %Fm qra«*, ** 
+qq wf§reiq«l, ^® 
+
+t?q q^KIFI 3, v^ 
+
+tjq *I3: sfafeg, <HH 
+<p qq?B%Sft%, ^ 
+
+qq S3CT SR^ Y\ 
+
+m% ®m *?: q>fe<l, ^ 
+ijqsgwqt^:, ^S 
+qq %ct S'rffaT, ^ 
+
+qspp^S s?q§ ? M 
+<pgf^r ^3, ^V\ 
+tpitcic*wrarar, \\\ 
+ipftq w&r, w 
+
+qSUTWRW *W, IV 
+
+
+
+#isiwf^t: fw, iv 
+aft 
+
+4tert «r4q?Nt, hh 
+grtefl" war s^t, ^vi 
+
+«WfqH??rcft§*, Hvs 
+q»wiqr: vrci: sjf?:, v^ 
+$*aqaft crdY «g|:, ^ 
+qn>5<ft *rrfa wr, ^ 
+
+qwrrgRftStarcc, <m 
+
+«B^g5rfi[«Rcqstftgc, in 
+
+$«rrqrc f^jsrnsq; , *vj> 
+
+q*q>r q5§qift aiT, 1°* 
+
+
+
+^rafi^# 
+
+
+
+W 
+
+
+
+«4 aged ITO* ^ 
+tufft qrfir **rarft f ** 
+
+«R9 wrt w:, ^ 
+
+
+
+%$m^wz®p®i, 11 • 
+WOT ^WT *flf:, SH 
+
+f% c^1^w ? *v 
+
+ftfN* JP% ^RT, 1** 
+
+&ft toft *fctwh ? v^ 
+
+fA ^ «?:, ^ 
+
+seft afis ftffci, ** 
+
+
+
+f^fe?*?: HIS, 1*1 
+
+pif^f ftg: tsrra:, ^v 
+
+f4% ewr^, i^ 
+srofe^s^, i* 
+
+
+
+^T%^Ff^: 
+
+
+
+SFmwwt 3% *ft|, lire 
+f cts? % ^r snfq«s5, i®i 
+
+$nr * m$ to, ^H 
+
+WT 3 *FW 5Rffl[, 11 
+Sot? g W5T5RT, ^ 
+»r?T3*rc*i qgra, v 
+fwr gyq 5r 3j|cr f m 
+
+«c^TOm^ra^ f in 
+
+seafcsrf^s, ^>i 
+
+%foafaft*3g, m 
+
+%f^S Jiri* snf :, 11* 
+
+%fa*a i^%:, in 
+fe*raf f%fof?r aft, >^ 
+
+
+
+*« 
+
+
+
+ten f#sf^f%: t ^ 
+
+m ?ot sief#s^r f \» 
+
+Wfjwrs ft sprit, w 
+
+«^ot tost* % ** 
+wforcRar fi$*f: f * 
+
+
+
+
+
+
+mmii ^ *5*gOT:, v 
+mmmm ^sfir, ^ 
+
+»Wt TOteOT«ftflPl, *• 
+
+mm^ s^r feat, ** 
+
+spnsrr JPRT %% 1»v 
+fF&f&ft f%fiftcT«9F, *• 
+
+g« sot to* «nfir, 1^ 
+
+ntsi ^4 ft*T5R& vv 
+^Rrai3sp*wf t iw 
+
+
+
+*ftoraraft uigpi, it 
+<wrc *ftw: sffc, «• 
+
+
+
+«n%WPira: 
+
+
+
+*mt: ^fcicrr: Star:, i|^ 
+^& *qw£$ft:, ^ 
+
+
+
+«nraf $f at ^ 1M 
+swat gjat *rft, 1*1 
+
+
+
+n\ 
+
+
+
+*pn fl&R lift, 11 
+
+*rawffair <re* f U 
+
+grraj^swTftRirt^:, \\ 
+
+airfimarrofi&BRL, i* 
+
+*n%fli^faaft, 11\ 
+
+stT^sf 5 * ^# «p:, vh 
+*ratef*rc: 5wn3, iih 
+
+*nti efeipf, v* 
+#*Mtsro> g^rat, v 
+
+aftatrataft wf Ctrl, ** 
+
+*fc|ifo *?%*#, v*i 
+
+ncsrraappf st, *° 
+
+
+
+« 9 HOT * WW, ^ 
+
+
+
+3 cfW ftTO s3, ^ 
+
+a ip* foa glsfir, iv 
+
+a ^ *IF% *#SW.\ V* 
+
+<wrfo t^ ww ? i ®h 
+
+^p?rl wrt* g* v 
+^x|%w OTftft, sv 
+
+a?T: 35F *t%c€!F g, ^H 
+
+aa: «nt%«ij«5r f io 
+to: *ew t ftw 1, v 
+aro% sfaqito, nv 
+
+flat 3%e %t3% HI 
+wtetfid q«fl:, vi 
+
+
+
+m 
+
+
+
+crajprwr gw, i* 
+anwrarr: starts, * 
+
+
+
+crew? mm ^m f m* 
+gpf^t fif*rcr $$fa, io« 
+
+cTcsrf^k gmwf , ^ © • 
+
+33 fSrf^r crarwr:, m 
+w 1% defter 3, v* 
+
+«M ftf^ww, S* 
+
+<&r f%ftds# ft, ^ 
+^sn *«9r wjrf:, nt 
+
+
+
+*5tawfg^loft 
+
+
+
+\\» 
+
+
+
+aeel sik% %% «ry 
+awr«r amsH %\ 
+
+cRW% w>i sot, w 
+
+«ror qta: sre&ar:, ^ 
+to ^*wt%, iv^ 
+
+TO M%! apt, ^« 
+
+TOsrsnwwift, 1 
+
+TOTOft**g[3, ** 
+
+mi fararswpr, M 
+
+TOfei^Eratsrafa;, «r* 
+to nsrawrit, 1*^ 
+to qprfoft *wrau ^ 
+
+TO SFBcTO % « 
+
+rift wiqNfa, vs 
+gftqr wi 4tof:, H^ 
+
+afofifrTOSW, 111 
+TORW°i w5, 1V\ 
+
+wbrstprr wr:, v* 
+
+
+
+TOPm?c% ? » 
+TO%i^ii§, %%c 
+
+m TO 5 f%f%<IFSf v* 
+
+to to ! irfe# aft, ii\ 
+^r 1 sratf «f, \\ 
+
+to #cet ?y, ^ 
+
+TO" SfcSfim%s 1* 
+
+afi[fOTW: S^\ *1 
+
+a#^wt^ne s 1*H 
+
+ajfaacTOfRT:, 11^ 
+
+a§f%3E *r g^fe, \«» 
+aSTOPVEOff, VH 
+
+^ ftgtf ife # ir* 
+
+
+
+srifcrrasnifa wrau 11 
+asri? *B$m\ %n f H* 
+
+rffciNTOIprt % II 
+
+awt: wrapriH hi 
+vt& wra: srrar:, w« 
+qW^M w t iv 
+
+
+
+snf|^rcg%: 
+
+
+
+afrmW wit «i*r, w 
+
+cii^pi <p ^f%cfr? f hi 
+
+a^apraqfaRi:, in 
+
+mi mm mm* f ih 
+agww* s*f* , *>• 
+
+nmmh 5WRW, n\ 
+
+aWRJSRf SRICT, *1 
+AWSt *mfr <FW, 11H 
+
+awrwpg: feller, *^ 
+
+awRRjrftef far, ** 
+era wsra e*rrersi f ii* 
+
+
+
+#^?g^Qft 
+
+
+
+m 
+
+
+
+aw**??* 5R%!p: ? V 
+
+cppt sftsi firapN, 1 1 * 
+aes srra aa: ^$ ? ^i 
+
+cfPTT: ^™i ssMr, "* v 
+mvmi ^Tmi: «fc:, x 
+
+
+
+
+
+
+aiWW 
+
+
+
+1o 
+
+
+
+<nwr crftw 4t I, ^ 
+aiwi mi %Fm> ^ 
+aiOTsrwffaffq, ** 
+
+arft f % *?% , n 
+
+cTR% ^ 3WCT, ** 
+
+
+
+mm surfer awtj, 1$, m 
+fawijft if f?iftftawrT t ^h 
+
+?nr: ^%{% ftnit era , ^ 
+
+
+
+3n%WFaft: 
+
+
+
+tar qj? % %«ffe?, iv* 
+% qifat «? gqfal, <o 
+
+<Nt wrw cft<fte.% iy 
+M mmfimi m, w 
+
+Star «rr% ^rriflrrsiraL, m 
+
+?tafsni$«% «m 
+
+% ft wT§ai :%srr:, i^ 
+%%?? c5#5frfq, ^o 
+
+
+
+^ratgsppjft 
+
+
+
+W( 
+
+
+
+^^Wl WW<^ ? CC 
+
+
+wg^ftwtsa^, m 
+
+
+m^ 5T sm§ wm^, ^ 
+
+
+W&W flfitf, 1 1¥ 
+
+
+STOTfiffiW? *3^T> 11V 
+
+
+m^$: fiwF3»5r f *\ 
+
+
+^ar3^fcr*T?fa, <HV 
+
+
+^^4«ic^F: ? H^l 
+
+
+^Rqcrrfll tori , <n*\ 
+
+
+W^S3fcwT,M 
+
+
+3J§5?5I?fa?, <U 
+
+
+WW a^W: W5, n 
+
+
+^^rwffl'it g^if:, i|v 
+
+
+^tFR fltaft sfH\ V, 
+
+
+wfi&E^tfe^r, ^i 
+
+
+wi" Tmm cF5w?srr, ** 
+
+
+spjpiT *r: ottt?:, %\* 
+
+
+^ g^B^sre^, ^ y 
+
+
+?$m$$i&!ft, *\ 
+
+
+^sf«r^(3%, hy 
+
+
+sr^feftsi^rw:, v* 
+
+
+
+
+f%2??C^3% ifTS^t, ^ 
+
+
+ft<H5* f^feqi, W 
+
+
+wra*nsi5i% ^, \\ 
+
+
+Brfipf ^f^sf, *% 
+
+
+wraf m€% at, ik 
+
+
+ft^^ffcira:, So 
+
+
+^iw4^f: ? \\ 
+
+
+fsmrcraisraircr, ^«s 
+
+
+%fkm ^ %^i% \\ 
+
+
+f^RW^r w:, i®H 
+
+
+^kw^ g<wr«, *• 
+
+
+fatfsfWtw g|g s 1Y^ 
+
+
+^WT%^%^ iv 
+
+
+w fom i fi*#, <m 
+
+
+Vfift *F^ W, V£ 
+
+
+%wf m*q afeqw, <m 
+
+
+^qrPr; f^srPT, v 
+
+
+<WOTR5 3 cRGF?, ^* 
+
+
+vfaretftf ^il, w 
+
+
+c^fd CTT33&, *• 
+
+
+5f$wra eg|^ ? v\ 
+
+
+?#cFT #5ciF 3TCT, 1 •» 
+
+
+^g?# 52f ^|>|f^ ? d | 
+
+
+
+
+55Rftsrefir star:, W 
+
+
+5 
+
+
+WOW^S**, V** 
+
+
+<?%®IF ^ a^ra^r, <^ 
+
+
+wrcra flftspwt, 1^ 5 u% 
+
+
+3%<nrfiw 3f?#, v* 
+
+
+«f&rM **&&* ^, ** 
+
+
+^(%oTT^^i%g ? n*s 
+
+
+wi^^ww, %n 
+
+
+^®W®% § 3§fa, 1HH 
+
+
+mm*[i^&> i«h 
+
+
+^ff^ft mn m\ m* v^ 
+
+
+^n^sif^sftwt, ^ 
+
+
+
+M 
+
+
+
+anftpRresfe: 
+
+
+
+^ff^%5Ff#i, IIS 
+^ff^% SW^N, 1 1 C 
+
+cRiff^flRgl^, iu 
+
+33lff?3 ScUf^, 11* 
+
+««wrcg*ra?^, in 
+
+SPttaTcqt enwrap ^ 
+
+^f^qqrt^, 1|H 
+
+f^regsqs, X 
+f^*TO>8Pn:, i*h 
+
+f^% f^% Jiqigprq;, *\ 
+%«T?sre%5ftw:, 1«$ 
+
+
+
+ftszfWtf 5*38% 11$ 
+^tersrow g #isf, H 
+
+3:53 <re$fjc, ** 
+3u<*w fatter, n^ 
+
+5U55p?|B^, 11 n» 
+
+|45r g entlj, ^ 
+
+?si%c^F *m q^rgc, *h 
+spp% wf§f*if: *rjr, *v 
+rasing wng, ^ 
+3OTT%s*rar mm, %% 
+
+qpft iwrag, ixx 
+
+if r ew^id qtf, *«# 
+^cfFfqg^fF^t im 
+
+^WTFR?cTTfir, ^1 
+
+^F^rofq asfrwr, ^ o 
+
+
+
+$lo% ^R«T 33H%, ^ 
+ftdfoT tffoft iiPft, HH 
+
+I fcr# 3F %cfi% v% 
+
+
+
+
+
+
+
+
+
+**3 
+
+
+
+if f^f^rafip^, i i* 
+if f qfar toot, « 
+
+if^^5ft^ %w, *» 
+
+if %x®ra ^%l ; , *»$ 
+
+A. ' 
+
+5T%WHTO fife, ^ 
+
+?! %edh err: *w., W 
+i! %?4 wisns, «^ 
+i? SfcmfiFir 5ff:, ^^ 
+
+ii i^Wr «B^r, *H 
+
+5? ^rcr aw *iftw, w 
+
+
+
+wftpw^sfa: 
+
+
+
+if vnfrraft wrfa, ^ 
+
+* i?ff^?r ? i^h 
+
+i? gwrosfte:, v® 
+
+
+
+^rtrafgswift 
+
+
+
+%\$^ 
+
+
+
+H^m § era* *ra=sir, *^ 
+
+?r ^?# h sq^, inn 
+
+?! f| %qmfci^wr, n* 
+* ft ^«n%^r swft, v 
+
+
+
+^#3[ rfTSqf S$ cfe 5 ^Y 
+
+*r^: ^r^: wft, ^ 
+&;%wfq ^fessf, ^ 
+
+
+
+fSftsSassiw, n 
+fis%*iiqra*rai, w 
+
+5qt*rorafawT, *\ 
+
+foe* cFTCT^I *g:, v^ 
+
+foCTig q* ws, ** 
+
+
+
+3n%WE^r: 
+
+
+
+1% H?^T 2TR*?Hf: ? V\ 
+
+fo *l^f% ^Cff^j 1^ 
+
+
+
+q^%^c^fe, ** 
+
+q^5f^q^cf 5 1°* 
+
+qwref '^STO, ^ 
+<wfeiwrfi[3t q, iov» 
+
+qlcl ws^> ^ 
+
+qo* g q&qaq*q, 1U 
+qlcKit q*aitf *r, w 
+qfeTRr ^ mm, i*\ 
+
+
+
+^^Erafg^ft 
+
+
+
+\w 
+
+
+
+Qjft OTTOffef, VA 
+
+q*ft g?fts*OT flfelfe, V* 
+
+q^FW^ICT, V 
+
+qsRrftrfNt ^ v 
+
+qsrci aw j^Tft, ^ 
+qroasqifo:, ** 
+
+q^ *s # ^i^t, ^ 
+
+qt faftptqfca, i°* 
+m w§pf ^r, n 
+
+mm: mmritz, i^ 
+
+q^rtff^r IT, V 
+
+qtff^ ^<3WrP*T ? V 
+
+to jfuferraft, H^ 
+
+qftlftRq^ft^t, £* 
+
+q%p?s cRT: ot:, 1 
+qftatawaapj, m 
+
+23 
+
+
+
+qforasrqgt wrf, i ^ 
+qforei *r %«if&r, n* 
+qftafsw sftw, iv 
+
+qftWISPITO ^, nn 
+
+qfawrMN, ni 
+qRf^f erar: q^ira:, n« 
+
+q^spf sroeSfa, m 
+
+q^tf gjgp^s^f, ^ 
+q^s?ft g*r: sro, 1 i 1 
+
+qqafaJfafflSg, <*\ 
+
+qqf%^f|^Tcei ? no 
+q^i^54f^f% 5 n 
+qgi^f«wisft%, n 
+q^raf^r: ^ftstsfq, \\ 
+q^ic^PifprH 1H£ 
+q^^sratawq:, ii 
+q^rff ssrmfai, v« 
+
+S$ ' 
+
+q2SrfRqo^S|^!%sfq, \\ 
+
+q«rr?ww fife:, 1H 
+q«ms^3J*, v 
+
+qswsgtfr ^» ^ 
+qq*Rnsrw 5# t ** 
+qrercwrcwrcw*:, ¥ 
+
+
+
+\*6 
+
+
+
+mf^m^t 
+
+
+
+qrefossrs q^t, i^ 
+mm m ojtct, 1*% 
+q^Rtefi OTr awn, 1*1 
+qraagisif art, ^ 
+qR5R9r3*refa, i^ 
+qRS«R5% fat, %\\ 
+
+qrffaqftsfici, m 
+qi^^ng^, i*h 
+
+qiW clfswH 1H 
+
+qnfr: qfeft qrfq, % 
+qr***pr gjtffa, nv 
+
+qrTOffiw ^i^t^j i 
+qrwTOf sfr*, io<: 
+qp# swfo %, 1 *H 
+
+qrcraft mi ^r|, i^ 
+fqis^RRqt tot, 11* 
+
+fulfil TO^Rt^ c* 
+
+ftclt WRrt qsft, 1<s 
+
+fqcfdlw ^ri: eg:, 1^ 
+
+
+
+ftciTOS^Ri^T, 1*\ 
+
+ft^tawfow;, iv 
+
+% ^4 ikI %*, \\ 
+fqg: f^sro%ir, ih 
+
+fq§: stweto^, n* 
+
+ftg: srr5?<qt sns, ^h 
+ftfp^gq^ifWj i^ 
+
+fq^cifeM # ^ i^«* 
+figflqtiicq^:, i* 
+
+fqg$caf h^iot, n 
+
+fqg^fH^ct^ ** 
+
+ftgpsRrft *i<t, i^i v, 
+
+fqgc^fq^T^, n, ^ 
+
+fqgs^qcwi^f to, i$, M 
+
+fqg^wr s^Rre^r, ^ 
+
+fq^R^f^si^ iv 
+
+
+
+^^ggppft 
+
+
+
+fq5fSr[ *P ^C ** 
+
+fq^ii sfW, ^ 
+
+g£inifiwifo, \% 
+3*# «TH[ft%q I, *X 
+gwpBii cTO«T«T:, *S 
+
+gw&ft*<teTg, « 
+gwrref f^spraf % ** 
+
+g# if afanfaraL, ** 
+
+
+
+g^t^cqd, H^ 
+
+g3OTM3taEL,*> 
+
+gsfrwiOT^ w 
+g*r: q^i^ sta^ t in 
+
+g^: sp^qftsNr, v* 
+g*: ^roflPRr, in 
+gsi:#WKfs 35:, * 
+!p: <&a ^tsilf : f <• 
+
+g*if|qif|%H V 
+
+5a jsmft g®% # ** 
+
+
+
+\t* 
+
+
+
+anQpSTC^fe: 
+
+
+
+<jffcRTT«r *ffl^f?c? ? 1** 
+
+<jnqra snlwf, « 
+
+a«Tf^f5T SHAFTS, ** 
+
+swrcroww gffc, i* 
+im^t **nf^lOT, i i 
+«fatf %fs cicely, ^ 
+
+%%i*vn to, m 
+swriNr ftifoi, 1*3 
+
+
+
+5lfcPB^OTf53, V* 
+
+srfarr* ?rer 5$, w 
+
+siRwr«^5ft^, *i 
+
+♦ srfinfi ?! %f|sir: ? ^ 
+srfii^ mm, n, *x 
+srfcftNcat wrst, w 
+srfNrqcsrt irft, iv* 
+5T^«TC fef?, in 
+
+sra«prfq fWtecia: , \ 
+sra*w«icf sreir, ii« 
+
+R3l*3PI q\s«^, 1 1 1 
+
+sw^n^KCTW, 1*1 
+sitoi^ 1 ^g, 1*1 
+
+
+
+*tara?$pCToft 
+
+
+
+M 
+
+
+
+jtto: sm^ta:, i o ^ 
+sRsfag^Nj, ** 
+
+8<fej5T f^RT, SH 
+
+srftarasM ^r, w 
+siftauro* farc:, W 
+
+sro%cqRKi: esr.% \\ 
+sR^q^nf fqs^ 3 i « • 
+
+
+
+a%q?Swifof, \c 
+Wiro g 3^?i% nn 
+snot wftr %qpwr, nv. 
+
+sim: mm mim, iv 
+spiffs ffe <rf??ft, ^ 
+
+
+
+U\ 
+
+
+
+^T%?^?1%: 
+
+
+
+sftfacTT: ft<R3£N, SS 
+
+sfaFclf faff: TOR:, 1 <* * 
+
+Sawr^j f%g%?f 5 1 1 * 
+
+fccrsrrts dk ? ^® 
+Saiffag $3 SJ *r, vs 
+
+sfaR %B ^# ? ^S 
+
+
+
+^ f53t rr«rT ^rF«nj; , rf* 
+
+
+
+WStenpfr star:, ¥o 
+
+snwrr <w ^ %sf, ^» 
+
+Wirt srafar, ^h 3 n*L IV 
+*w«rRf efq%> ^ 
+
+flWRIp^, s 
+
+
+
+s?F*5%?Cc!5ff, 11nj 
+
+
+
+*?^pcf? ?! «&£, US 
+
+
+
+: #^raf^^ft 
+
+
+
+u* 
+
+
+
+mmn mi <*ra, w 
+
+*n*fta*ft ^3^ % ^ 
+
+
+
+sr^l grwr: faft:, 1\t 
+
+
+
+*r§pnarf^fe g%Rs, m 
+
+w*w$i g ^^ y ** 
+
+H??rw% g s&, * 
+
+H^K# 5?1CTR:, n* 
+
+
+
+\&i 
+
+
+
+jisptcw: gap, 1^ 
+
+qSt3^fra?«IP*i 4 1 
+
+mot % * ^nrra-j 1 ^o 
+
+
+
+*tt^tot4^^, 11* 
+qr^wf *rer <gl, ** - 
+
+mm $twm% \* 
+
+g*s^ ararcnt **?:, ** 
+gf^riffarefta, im 
+
+maw arc* $, v 
+
+
+
+l£\ 
+
+
+
+
+
+
+4 q[fijjqfe«ra ft^, 11 \ 
+
+ara«r&*rat ift:, lis 
+
+24 
+
+
+
+qw*W*ftforfa, ii 
+
+mm mmH^ $ i« 
+
+^WSPrft ^T^rRlT: 1o« 
+
+w m ^ m mm, \^ 
+
+mi w^m ^rw, w 
+
+to * gwrof, is, v> 
+
+TOif% snNfa, v^ 
+mmm s * ^ , s 
+
+to#i ^rf %, <>* 
+
+TO3OTS ip ? 1Y1 
+
+qq§gRcl: OT?, ^ 
+
+to ^ftiro, m 
+to «s?srcr q$, ^ 
+
+TO 5f f^?% #??:, 1YY 
+
+TO 'RTO^tePT, & 
+TO *ft*«T cW, «^ 
+
+
+
+u* 
+
+
+
+^ graft smfar, ^v 
+
+qfif *spf ^[ gqf, \\ 
+
+aresgrarrogs, s® 
+qgg %% sflf, ** 
+
+
+
+q?sr?R«cg*TS3t, *« 
+
+^ mctfe *?M grat, ss 
+wfte* %if^ i*s 
+5WT wt *r fa«r f s 
+
+*ri fi$f g *i<f: #?:, nvv 
+*nf^rr ife^r *ft%, s* 
+
+mm ftfafforr a, ** 
+*n *m gfWIar irw:, ** 
+
+2JIW: fowBR; «ag *:, 6% 
+
+f?^ g*F& W, ^ 
+
+
+
+^Mt^ipft 
+
+
+
+\C* 
+
+
+
+f^R *&s g % ? ^ 
+
+% igr: sw?fi3%, <si 
+
+$t& m^ wrac, i^i 
+«it fiftwct 'Jurat, \ % 
+
+
+
+*WT: ^mol: sfiP, 1 
+H^ grwr f^ft, ^ 
+
+^«t% sfi^T% «JTft f I^H 
+
+
+
+®Wf 5TT3T e^# f 1«1 
+
+
+
+
+
+
+
+
+
+gaf * faff: ^ ^ €: ? ^° 
+
+wr: ftads^ *g:, *\ 
+
+^gdssf gsrffa?, iix 
+qws*? ssrarcl, i* 
+
+qig^T erf era: $1^, *^ 
+^mf^g, i* 
+srrafawrt fern, ^ 
+
+arrw: ^: 5?rfc, ^ 
+
+faro^r cffrg.% i* 
+
+ftSH *bPJ3 OT^, 11 o 
+
+
+
+anf^pcsresfs: 
+
+
+
+fafasRercfaar, i*H 
+firfM srrwm^, IV 
+fan sfor «rfi[ %, *-# 
+ftsisn^rRftfiftr, v* 
+
+fair: S^f^cf 3c$T^, 1\* 
+
+firapiir gfawN **raL, i i 
+ftsrrnr *frsR tori^ ^ 
+
+faiiasr qrfaifa, n 
+
+ft5rt*^5t sn%, iv* 
+fafrft sra«a?RrT:, Hi 
+
+fanfr sir «ftsRfei, 11 x 
+
+fanwraV. wra;, vi 
+
+farrfeif ^ fawf, ^ 
+WW: <tsft *gw, \* 
+fwfaiTSTT star:, lo\s 
+
+ft'PC faTOff:, ^ 
+ft%«pra^TRf, S* 
+
+f^i^TCT^ err, v* 
+
+
+
+^W&BPft 
+
+
+
+U% 
+
+
+
+fkf^m torn, h^ 
+
+ftf®&* gsrsi, 1* 
+
+lfe«TFK »RT«rri, *« 
+%?fwfipi fas, ** 
+
+ft* 5 mM, » 
+
+twit %? ^ srar, n^ 
+^iwt ftspir H «iV* 
+
+
+
+WRF& <t?#M* 1** 
+
+
+
+«&: <fcr ***, yh 
+
+sifter ^wprwr, i«4 
+5R5I3 qpw qsf, ^ 
+
+JWI TO! 3P?fe \ 
+
+
+
+%\* 
+
+
+
+^ <FSW ? % 
+
+fatal* Ararat, n^ 
+
+ftlWSifilBPRTft, <m 
+
+ftre«$<jjfeq, «m 
+
+S^is: wat%*:, ^1 
+gp^Rri" faro siti^ «a 
+
+TO: site? gsfo 1^ 
+swfcwsq*, ** 
+
+TO&* a s^ra* m 
+
+TO%?q*5 W% 1** 
+
+srre sw g ^ *gt, «m 
+*rrat 3*ftft l£:, m 
+
+
+
+*nw«?ft$tar: ^:, ^H 
+
+«T«g%: *i tar, w, w 
+*iF5%q *? ^»ft, <ioi 
+
+«TOSf ww sit*, *% <m 
+
+srrwrt sifi^to, ^\ 
+srrarfir ^iftf^rt, *• 
+
+«rt qprarcR^, v 
+
+«ill8 %Sf%c^F^5 ? ^ 
+
+suit saqft^nfy v* 
+gfaq*R*f qgj, ^* 
+
+
+
+^W^lf^^ 
+
+
+
+M 
+
+
+
+
+
+
+m% 5 * 5 sira:, « 
+
+
+
+
+
+
+w 
+
+
+
+WlflfWWf^* 
+
+
+
+sftSffo% we, «* 
+swfiftr i ww*, ^ 
+
+aswricflft greet, H* 
+
+^ #a^ im, n° 
+g^r sited ^1%:, H° 
+
+wriprftg**: wra:, ^ 
+
+srat ^m^ft ft*:, * 
+e€r tof *ftgfi£, "^ 
+
+53 s&5 f^t I*:, H* 
+
+
+
+gfq*wiftw# *rr, <n* 
+
+OT%eg£taTf5r, * 
+
+ot&S wrasq, <^ 
+wreasqcewrffr, ^m 
+
+wpiciicg*: star, ss 
+
+surnft g@%sfq, iv 
+OTPrenfa^qara:, *• 
+
+wrcwr fwr: wrfs, m 
+
+
+
+m 
+
+
+
+egwR gro*, \* 
+^»R5 ftg<sfJ?iRtfcr, <v» 
+
+e^ WCl3m»f CTRL, H^ 
+
+if sanfftftwrra , ^ 
+
+mm mmmi , * i 
+
+frfnrowft, * 
+
+writs faro, 1HH 
+
+25 
+
+
+
+e^ff^i fqfe rerf%, c\ 
+
+mm mmmm: f m 
+
+gi%Jif 3^ ^f, v* 
+
+
+
+XV* 
+
+
+
+srfq<nawgqi% g 5 1 1 1 
+
+opt gnta*n4 g s i*s 
+«rfe stows, i*h 
+
+ei^i^^52in ? i*i 
+wfNf *rnfii sift, iv 
+
+l«fffftq?"n«iret, iu 
+
+am a^r tf^wr ^, \\ 
+
+go*irafa ^4 fl, ^ 
+qgreiftg olj, ^ 
+5jMF% s^f: snH, * 
+
+qjf% 3 W fiat, W 
+
+
+
+^s^r^^mrtcT, i* 
+
+sts# f| fircifiis sftcr:, iv^ 
+
+sfifiw *<|ft*ift, 11 \ ii v 
+^R tow sra:, IV 
+
+WTO f^f% ^ 3 % 1 
+
+CTT<$fa%^& 11$ 
+
+ir fc^r 5TR5rt, ^i 
+WTO: whraffa, ^ 
+
+
+
+^WgiPWF 
+
+
+
+\%\ 
+
+
+
+WRU^IW*? TOT, ^¥ 
+
+m^fm nm> \\ 
+
+er&nsr: sr^5«r:, H«s 
+*s« rf to teft, ^ 
+
+^fhwsrat aft, *r* 
+
+^TO3^5«rartS or, v 
+sw *^f *wftc^r, S* 
+
+swifa qfairea: , iih 
+
+Wife siFStat:, 1V» 
+
+«*qqr*J srqji ^f ? <m 
+Pifarqftawrti UX 
+
+
+
+mmn *t OTiof, i*x 
+
+%:^lM^%, IX* 
+
+
+
+5fatf ifMt Wqt, H^ 
+
+5feTOIR qrcfScI, \1 
+
+fr^rarc re ^f^ «^^ 
+
+fl^^Fft^Hf, 1*X 
+
+ft^wpnmwpif, x^» 
+
+|H%4 ^FIR, 1^ 1^, 111 
+Cfipft TO# WIT, 1o^ 
+
+
+
+ERRATA 
+
+
+
+Page 
+
+
+Line 
+
+
+
+
+
+
+1 
+
+
+c 
+
+
+read WU^ISTO* tor ^RT^I sra© 
+
+
+\ 
+
+
+\ 
+
+
+?? 
+
+
+°m%m tor o^^TT 
+
+
+Y 
+
+
+x 
+
+
+33 
+
+
+tsrrarsra^ for ^rcrew^r 
+
+
+V 
+
+
+3 
+
+
+33 
+
+
+ra^FEs^: for RI^F^T 
+
+
+^V 
+
+
+y 
+
+
+33 
+
+
+«rwrra^ for «r5t «nq$3 
+
+
+^ 
+
+
+* 
+
+
+33 
+
+
+15° for 550 
+
+
+^ 
+
+
+1* 
+
+
+33 
+
+
+g^T: for g^# 
+
+
+V4 
+
+
+1\ 
+
+
+33 
+
+
+©g^rat for ©gfRcF 
+
+
+^o 
+
+
+c 
+
+
+33 
+
+
+^fer *r#© for ^fersw^o 
+
+
+« 
+
+
+% 
+
+
+33 
+
+
+g?ij*5; for g?Jjj& 
+
+
+%<\ 
+
+
+\ 
+
+
+33 
+
+
+q^lcT© for 3253o 
+
+
+\»1 
+
+
+1"* 
+
+
+3» 
+
+
+?3©WI»re»> for IPCTTwft c3© 
+
+
+cc 
+
+
+^o 
+
+
+33 
+
+
+^Rr^T for ©r^f^tf 
+
+
+\c 
+
+
+11 
+
+
+33 
+
+
+°%cF: for ©qh^t 
+
+
+\*\ 
+
+
+V 
+
+
+3? 
+
+
+^TOW for %^cg^ 
+
+
+1°H 
+
+
+1 
+
+
+33 
+
+
+cf%?II: for ^m 
+
+
+? j 
+
+
+H1 
+
+
+3? 
+
+
+f^rr: for f^n* 
+
+
+1°% 
+
+
+n 
+
+
+33 
+
+
+^TSS for 5fq 
+
+
+? j 
+
+
+1^ 
+
+
+3? 
+
+
+^5|^c%clT: for ©g^fST 
+
+
+Ho 
+
+
+1$ 
+
+
+33 
+
+
+ftwft for fq^qr 
+
+
+11* 
+
+
+% 
+
+
+33 
+
+
+ocTFTO for o^T^IT 
+
+
+m 
+
+
+H 
+
+
+33 
+
+
+®fkM: for oftcl^T 
+
+
+1^\ 
+
+
+11 
+
+
+33 
+
+
+t^r: for Isrr 
+
+
+no 
+
+
+* 
+
+
+33 
+
+
+sitonfifcRLfor tfterafifcRt 
+
+
+m 
+
+
+* 
+
+
+33 
+
+
+©sWfif: for oc^T^t 
+
+
+3? 
+
+
+n 
+
+
+35 
+
+
+*5Rfalf for $Plffa 
+
+
+? , 
+
+
+ii 
+
+
+33 
+
+
+qfirar: for qf^cu 
+
+
+IV 
+
+
+\ 
+
+
+33 
+
+
+wnwwpft for evrorawpft 
+
+
+

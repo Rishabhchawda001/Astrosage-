@@ -109,7 +109,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "aitareya_gurudatt_bhashya_djvu.txt",
+        "source": "Gurudatt",
+        "type": "Text File",
+        "description": "Aitareya Gurudatt Bhashya",
+        "size": 467293,
+        "authority": "Medium"
+      },
+      {
+        "file": "aitareya_gita_press_djvu.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "description": "Aitareya Gita Press Shankara",
+        "size": 347606,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "angiras smriti": {
@@ -123,7 +140,15 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "angiras_smriti_ia_ia_djvu.txt",
+        "source": "Angirasa Tradition",
+        "type": "Text File",
+        "size": 109283,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "apastamba dharmasutra": {
@@ -137,7 +162,32 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "apastamba_dharmasutra_manjari_1933_djvu.txt",
+        "source": "RN Suryanarayna",
+        "type": "Text File",
+        "description": "Apastamba Dharmasutra Manjari 1933",
+        "size": 263864,
+        "authority": "Medium"
+      },
+      {
+        "file": "apastamba_dharmasutra_kashi_series_djvu.txt",
+        "source": "Kashi Sanskrit Series",
+        "type": "Text File",
+        "description": "Apastamba Dharmasutra Kashi Series",
+        "size": 1490458,
+        "authority": "High"
+      },
+      {
+        "file": "apastamba_dharmasutra_paudel_nepali_djvu.txt",
+        "source": "Devaraj Paudel",
+        "type": "Text File",
+        "description": "Apastamba Dharmasutra Nepali 2001",
+        "size": 996953,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "apastamba grihya sutra": {
@@ -151,7 +201,32 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "apastamba_grihya_sutra_dli_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Apastamba Grihya Sutra DLI",
+        "size": 740197,
+        "authority": "Medium"
+      },
+      {
+        "file": "grihya_sutra_sangraha_djvu.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Grihya Sutra Sangraha",
+        "size": 3730142,
+        "authority": "Medium"
+      },
+      {
+        "file": "apastamba_dharma_grihya_sutras_djvu.txt",
+        "source": "Ramanujachari",
+        "type": "Text File",
+        "description": "Apastamba Dharma+Grihya Sutras",
+        "size": 472836,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "ashvalayana grihya sutra": {
@@ -165,7 +240,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "ashvalayana_grihya_sutra_1869_djvu.txt",
+        "source": "Baptist Mission Press",
+        "type": "Text File",
+        "description": "Ashvalayana Grihya Sutra 1869",
+        "size": 1124560,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "ashvalayana shrauta sutra": {
@@ -179,7 +263,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "ashvalayana_shrauta_sutra_1934_djvu.txt",
+        "source": "Nirnaya Sagar Press",
+        "type": "Text File",
+        "description": "Ashvalayana Shrauta Sutra 1934",
+        "size": 1539291,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "astavakra gita": {
@@ -265,7 +358,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "baudhayana_dharmasutra_dli_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Baudhayana Dharmasutra DLI",
+        "size": 2128263,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "bhagavadgītā-": {
@@ -293,7 +395,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "bhagavad_gita_warrier_bhashya_djvu.txt",
+        "source": "Krishna Warrier",
+        "type": "Text File",
+        "description": "Bhagavad Gita Shankara Bhashya Warrier",
+        "size": 990003,
+        "authority": "High"
+      },
+      {
+        "file": "bhagavad_gita_pullela_telugu_djvu.txt",
+        "source": "Pullela Sriramachandra",
+        "type": "Text File",
+        "description": "Bhagavad Gita Telugu Pullela",
+        "size": 5039505,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "bhagavata purana": {
@@ -520,7 +639,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "brahmasamhita_hindi_djvu.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Brahma Samhita Hindi",
+        "size": 1067125,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "brihaspati smriti": {
@@ -541,6 +669,13 @@
         "type": "Text File",
         "size": 242583,
         "authority": "Low"
+      },
+      {
+        "file": "brihaspati_smriti_1941_ia_ia_djvu.txt",
+        "source": "Scholarly Reconstruction",
+        "type": "Text File",
+        "size": 1901921,
+        "authority": "High"
       }
     ],
     "metadata": {}
@@ -570,7 +705,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "devi_kalottara_dwivedi_djvu.txt",
+        "source": "Vraj Vallabha Dwivedi",
+        "type": "Text File",
+        "description": "Devi Kalottara Agama Dwivedi",
+        "size": 507084,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "mahaganapati stotra": {
@@ -712,7 +856,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "gopatha_brahmana_bhashyam_1977_djvu.txt",
+        "source": "Kshem Karan Das Dwivedi",
+        "type": "Text File",
+        "description": "Gopatha Brahmana Bhashyam 1977",
+        "size": 3758701,
+        "authority": "High"
+      },
+      {
+        "file": "gopatha_brahmana_atharvaveda_dli_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Gopatha Brahmana Atharvaveda DLI",
+        "size": 500687,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "hatha yoga pradipika": {
@@ -748,7 +909,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "harivamsa_nag_publishers_djvu.txt",
+        "source": "Nag Publishers",
+        "type": "Text File",
+        "description": "Harivamsa Nag Publishers 1985",
+        "size": 5639023,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "harivamsha": {
@@ -854,7 +1024,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "smritis_18_collection_djvu.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "18 Smritis Collection",
+        "size": 2504812,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "kiraṇatantra,": {
@@ -868,7 +1047,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "kiranatantra_goodall_vritti_djvu.txt",
+        "source": "Dominic Goodall / French Institute",
+        "type": "Text File",
+        "description": "Kirana Tantra Goodall Vritti 1980",
+        "size": 1522142,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "kauṣītakibrāhmaṇa (or śāṅkhāyanabrāhmaṇa)": {
@@ -882,7 +1070,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "kaushitaki_brahmana_dli_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Kaushitaki Brahmana DLI",
+        "size": 634433,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "kubjikamata tantra": {
@@ -938,6 +1135,14 @@
         "type": "Text File",
         "size": 1275301,
         "authority": "Medium"
+      },
+      {
+        "file": "Kurma_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Kurma Purana DjVu",
+        "size": 3037837,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -974,6 +1179,14 @@
         "type": "Text File",
         "size": 4212691,
         "authority": "Low"
+      },
+      {
+        "file": "Ling_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Linga Purana DjVu",
+        "size": 1009856,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -1032,7 +1245,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "malinivijayottara_tantra_djvu.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Malinivijayottara Tantra",
+        "size": 567395,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "mānavagṛhyasūtra (": {
@@ -1167,6 +1389,14 @@
         "type": "Text File",
         "size": 1623208,
         "authority": "Low"
+      },
+      {
+        "file": "Matsya-II_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Matsya II DjVu",
+        "size": 1711728,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -1182,7 +1412,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "mrigendra_agama_hulin_1980_djvu.txt",
+        "source": "Michel Hulin / French Institute",
+        "type": "Text File",
+        "description": "Mrigendra Agama Hulin 1980",
+        "size": 1019827,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "nadabindi upanishad": {
@@ -1246,7 +1485,15 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "narada_smriti_commentary_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 1835598,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
   "narasimha purana": {
@@ -1282,7 +1529,32 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "nirukta_satyavrata_1912_djvu.txt",
+        "source": "Asiatic Society of Bengal",
+        "type": "Text File",
+        "description": "Nirukta Satyavrata 1912",
+        "size": 236796,
+        "authority": "High"
+      },
+      {
+        "file": "nirukta_khemraj_1916_djvu.txt",
+        "source": "Khemraj",
+        "type": "Text File",
+        "description": "Nirukta Khemraj 1916",
+        "size": 4255365,
+        "authority": "High"
+      },
+      {
+        "file": "nirukta_skandasvamin_mahesvara_djvu.txt",
+        "source": "Skandasvamin/Mahesvara",
+        "type": "Text File",
+        "description": "Nirukta Skandasvamin Commentary",
+        "size": 3928076,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "pancavimsha brahmana": {
@@ -1310,7 +1582,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "ramanuja_gita_bhashya_rahasyarthasangraha_djvu.txt",
+        "source": "Ramanuja Tradition",
+        "type": "Text File",
+        "description": "Gita Bhashya Rahasyarthasangraha",
+        "size": 1397130,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "vedartha samgraha": {
@@ -1324,7 +1605,32 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "vedartha_samgraha_djvu.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Vedartha Samgraha",
+        "size": 77150,
+        "authority": "Medium"
+      },
+      {
+        "file": "vedartha_samgraha_nilamegha_hindi_djvu.txt",
+        "source": "Nila Meghacharya",
+        "type": "Text File",
+        "description": "Vedartha Samgraha Hindi Vyakhya",
+        "size": 2181852,
+        "authority": "Medium"
+      },
+      {
+        "file": "vedartha_samgraha_buitenen_1956_djvu.txt",
+        "source": "J.A.B. van Buitenen",
+        "type": "Text File",
+        "description": "Vedartha Samgraha Critical Edition 1956",
+        "size": 713022,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "ramayana": {
@@ -1388,7 +1694,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "vayu_purana_mitra_1880_djvu.txt",
+        "source": "Asiatic Society of Bengal",
+        "type": "Text File",
+        "description": "Vayu Purana Mitra 1880",
+        "size": 1365984,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "rigveda": {
@@ -1625,7 +1940,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "brahma_sphuta_siddhanta_vol1_djvu.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Brahma Sphuta Siddhanta Vol 1",
+        "size": 1019006,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "yoga sutra": {
@@ -1744,7 +2068,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "satvata_tantra_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Satvata Tantra IA",
+        "size": 256463,
+        "authority": "Medium"
+      },
+      {
+        "file": "satvata_tantra_dli_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Satvata Tantra DLI",
+        "size": 266215,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "shankhayana shrauta sutra": {
@@ -1758,7 +2099,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "shankhayana_shrauta_sutra_vol32_djvu.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Shankhayana Shrauta Sutra Vol 32",
+        "size": 909778,
+        "authority": "Medium"
+      },
+      {
+        "file": "shankhayana_shrauta_sutra_uvvata_djvu.txt",
+        "source": "Uvvata",
+        "type": "Text File",
+        "description": "Shankhayana Shrauta Sutra Uvvata",
+        "size": 247485,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "shiva mahimna stava": {
@@ -1772,7 +2130,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "shiva_mahimna_stava_kannada_djvu.txt",
+        "source": "B. Puttaswamayya",
+        "type": "Text File",
+        "description": "Shiva Mahimna Stava Kannada",
+        "size": 499287,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "śivapurāṇa,": {
@@ -1786,7 +2153,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "shiva_purana_telugu_manuscript_djvu.txt",
+        "source": "Palm Leaf Manuscript",
+        "type": "Text File",
+        "description": "Shiva Purana Telugu Manuscript",
+        "size": 60187,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
   "shivasutra": {
@@ -1800,7 +2176,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "shivasutra_vartikam_dli_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Shivasutra Vartikam DLI",
+        "size": 112724,
+        "authority": "Medium"
+      },
+      {
+        "file": "shivasutra_five_commentaries_djvu.txt",
+        "source": "Sh. D. Kaul",
+        "type": "Text File",
+        "description": "Shivasutra Five Commentaries",
+        "size": 741895,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "shiva upanishad": {
@@ -1842,7 +2235,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "shvetashvatara_tailang_2001_djvu.txt",
+        "source": "Jagannath Shastri Tailang",
+        "type": "Text File",
+        "description": "Shvetashvatara Tailang 2001",
+        "size": 1625741,
+        "authority": "Medium"
+      },
+      {
+        "file": "shvetashvatara_ramanuja_kannada_djvu.txt",
+        "source": "Ramanujacharya Tradition",
+        "type": "Text File",
+        "description": "Shvetashvatara Ramanuja Kannada",
+        "size": 60977,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "skandapurāṇa:": {
@@ -1856,7 +2266,40 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "skand_puran_full.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Skanda Purana Full",
+        "size": 0,
+        "authority": "Medium"
+      },
+      {
+        "file": "Skand_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Skanda Purana DjVu",
+        "size": 9329994,
+        "authority": "Medium"
+      },
+      {
+        "file": "2015.485079.Skand-Puran_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Skanda Purana 2015 DjVu",
+        "size": 1666866,
+        "authority": "Medium"
+      },
+      {
+        "file": "mahapuran_18_collection_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "description": "Gita Press Sanshipta Skanda Purana",
+        "size": 10382979,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "svacchandatantra": {
@@ -1892,7 +2335,15 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "svayambhu_puran_vrihat_ia_ia_djvu.txt",
+        "source": "Scholarly Edition",
+        "type": "Text File",
+        "size": 1344376,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "taittirīya-upaniṣad": {
@@ -1934,7 +2385,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "uddamareshvara_tantra_zadoo_djvu.txt",
+        "source": "Jagad Dhar Zadoo",
+        "type": "Text File",
+        "description": "Uddamareshvara Tantra Zadoo KSTS",
+        "size": 312032,
+        "authority": "Medium"
+      },
+      {
+        "file": "uddamareshvara_tantra_ksts_djvu.txt",
+        "source": "Jagad Dhar Zadoo KSTS",
+        "type": "Text File",
+        "description": "Uddamareshvara Tantra KSTS LXX",
+        "size": 85738,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "vaikhanasa dharmasutra": {
@@ -1948,7 +2416,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "vaikhanasa_dharmasutra_2010_djvu.txt",
+        "source": "Vedantya Nilaya",
+        "type": "Text File",
+        "description": "Vaikhanasa Dharmasutra 2010",
+        "size": 227034,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "vamana purana": {
@@ -2005,7 +2482,24 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "vamana_purana_sharma_2018_djvu.txt",
+        "source": "Dr. Narinder Sharma",
+        "type": "Text File",
+        "description": "Vamana Purana Sharma 2018",
+        "size": 3572959,
+        "authority": "Medium"
+      },
+      {
+        "file": "vamana_purana_dli_2015_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Vamana Purana DLI 2015",
+        "size": 4376286,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "vasistha dharmasutra": {
@@ -2019,7 +2513,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "dharmasutras_four_codes_djvu.txt",
+        "source": "Patrick Olivelle",
+        "type": "Text File",
+        "description": "Dharmasutras Four Codes Olivelle",
+        "size": 974653,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "vijnana bhairava": {
@@ -2149,7 +2652,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "vishnu_smriti_chowkhamba_djvu.txt",
+        "source": "Chowkhamba Sanskrit Series",
+        "type": "Text File",
+        "description": "Vishnu Smriti Chowkhamba",
+        "size": 2784479,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "yajnavalkya smriti": {
@@ -2192,7 +2704,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "yama_smriti_laghu_ramtek_djvu.txt",
+        "source": "Kalidas Sanskrit University",
+        "type": "Text File",
+        "description": "Yama Smriti Laghu Ramtek",
+        "size": 8263,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "stotraratna": {
@@ -2206,7 +2727,16 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "stotraratna_gadya_trayam_djvu.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Stotraratna Gadya Trayam DLI",
+        "size": 1135532,
+        "authority": "Medium"
+      }
+    ],
     "metadata": {}
   },
   "yoga shataka": {
@@ -2431,6 +2961,13 @@
         "type": "Text File",
         "size": 1220696,
         "authority": "High"
+      },
+      {
+        "file": "brihadaranyaka_telugu_shankara_ia_ia_djvu.txt",
+        "source": "Telugu Manuscript",
+        "type": "Text File",
+        "size": 4442473,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -2443,6 +2980,22 @@
         "source": "Gaudapada Tradition",
         "type": "Text File",
         "size": 363311,
+        "authority": "Medium"
+      },
+      {
+        "file": "mandukya_gambhirananda_djvu.txt",
+        "source": "Swami Gambhirananda",
+        "type": "Text File",
+        "description": "Mandukya Gaudapada Karika Shankara",
+        "size": 363311,
+        "authority": "High"
+      },
+      {
+        "file": "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+        "source": "Sanskrit Seva Samiti",
+        "type": "Text File",
+        "description": "Mandukya Taittiriya Shvetashvatara Bhashya Gujarati",
+        "size": 2753518,
         "authority": "Medium"
       }
     ],
@@ -2525,6 +3078,14 @@
         "type": "Text File",
         "size": 2528340,
         "authority": "Low"
+      },
+      {
+        "file": "padmapuranamvol2015115mbp.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Padma Purana Vol 2015",
+        "size": 194827,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -2668,6 +3229,20 @@
         "type": "Text File",
         "size": 3087518,
         "authority": "Low"
+      },
+      {
+        "file": "vayu_purana_part2_ia_ia_djvu.txt",
+        "source": "DLI Edition",
+        "type": "Text File",
+        "size": 1233073,
+        "authority": "Medium"
+      },
+      {
+        "file": "vayu_purana_vol1_dli_ia_ia_djvu.txt",
+        "source": "DLI Edition",
+        "type": "Text File",
+        "size": 1336403,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -2695,6 +3270,14 @@
         "type": "Text File",
         "size": 7049617,
         "authority": "Low"
+      },
+      {
+        "file": "yejurveda_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Yajurveda IA",
+        "size": 12261502,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -2746,5 +3329,244 @@
       }
     ],
     "metadata": {}
+  },
+  "chandogya upanishad": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "chandogya_hindi_bhashya_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 343522,
+        "authority": "Low"
+      },
+      {
+        "file": "chandogya_ramanuja_bhashya_ia_ia_djvu.txt",
+        "source": "Ramanuja Tradition",
+        "type": "Text File",
+        "size": 2525658,
+        "authority": "High"
+      },
+      {
+        "file": "chandogya_upanishad_giri_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 2451460,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "bhavishya purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "bhavishya_puran.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Bhavishya Purana",
+        "authority": "Medium"
+      },
+      {
+        "file": "bhavishya_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "description": "Bhavishya Purana Gita Press",
+        "authority": "High"
+      }
+    ]
+  },
+  "naradiya purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "naradiya_maha_puran_dli.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "description": "Naradiya Maha Puran DLI",
+        "authority": "Medium"
+      },
+      {
+        "file": "naradiya_puran.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Naradiya Purana",
+        "authority": "Medium"
+      },
+      {
+        "file": "naradiya_puran_brihad.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Naradiya Purana Brihad",
+        "authority": "Medium"
+      },
+      {
+        "file": "naradiya_puran_sanskrit_text.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Naradiya Purana Sanskrit",
+        "authority": "Medium"
+      },
+      {
+        "file": "naradiya_purana_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Naradiya Purana DjVu",
+        "authority": "Medium"
+      },
+      {
+        "file": "Brihad-Naradiya-Puranam-SANSKRIT-HINDI-by-Tarinish-Jha_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Brihad Naradiya Puranam Sanskrit-Hindi",
+        "authority": "Medium"
+      }
+    ]
+  },
+  "durga saptashati": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "durga_saptashati.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Durga Saptashati",
+        "authority": "Medium"
+      },
+      {
+        "file": "durga_saptashati_2.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Durga Saptashati 2",
+        "authority": "Medium"
+      }
+    ]
+  },
+  "vishnu sahasranama": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "VishnuSahasranama_Chinmayananda.txt",
+        "source": "Chinmayananda",
+        "type": "Text File",
+        "description": "Vishnu Sahasranama Chinmayananda",
+        "authority": "Medium"
+      },
+      {
+        "file": "VishnuSahasranama_Sankarabhashya.txt",
+        "source": "Shankara Bhashya",
+        "type": "Text File",
+        "description": "Vishnu Sahasranama Shankara Bhashya",
+        "authority": "High"
+      },
+      {
+        "file": "VishnuSahasranama_Shukasudhi.txt",
+        "source": "Shukasudhi",
+        "type": "Text File",
+        "description": "Vishnu Sahasranama Shukasudhi",
+        "authority": "Medium"
+      }
+    ]
+  },
+  "garbhopanishad": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "garbhopanishad_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Garbhopanishad DjVu",
+        "authority": "Medium"
+      }
+    ]
+  },
+  "vidur niti": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "vidur_niti_chaukhambha_1997_djvu.txt",
+        "source": "Chowkhamba",
+        "type": "Text File",
+        "description": "Vidur Niti Chowkhamba 1997",
+        "authority": "Medium"
+      },
+      {
+        "file": "vidur_niti_english_1955_djvu.txt",
+        "source": "English",
+        "type": "Text File",
+        "description": "Vidur Niti English 1955",
+        "authority": "Medium"
+      },
+      {
+        "file": "vidur_niti_gitapress_djvu.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "description": "Vidur Niti Gita Press",
+        "authority": "Medium"
+      }
+    ]
+  },
+  "ramcharitmanas": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "ramcharitmanas_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Ramcharitmanas DjVu",
+        "authority": "Medium"
+      },
+      {
+        "file": "ramcharitmanas_gita_press_hindi_djvu.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "description": "Ramcharitmanas Gita Press Hindi",
+        "size": 3078003,
+        "authority": "High"
+      }
+    ]
+  },
+  "kriyodish tantra": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "KriyodishTantra.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Kriyodish Tantra",
+        "authority": "Medium"
+      }
+    ]
+  },
+  "chanakya sutras": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "chanakya_sutrani.txt",
+        "source": "Unknown",
+        "type": "Text File",
+        "description": "Chanakya Sutrani",
+        "authority": "Medium"
+      }
+    ]
+  },
+  "sadhak sanjivani": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "sadhak_sanjivani_full_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Sadhak Sanjivani Full DjVu",
+        "authority": "Medium"
+      },
+      {
+        "file": "sadhak_sanjivini_sanskrit_hindi_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "description": "Sadhak Sanjivani Sanskrit-Hindi DjVu",
+        "authority": "Medium"
+      }
+    ]
   }
 }
