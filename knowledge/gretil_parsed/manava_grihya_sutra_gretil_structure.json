@@ -1,0 +1,4496 @@
+{
+  "file": "manava_grihya_sutra_gretil.xml",
+  "xml_id": "sa_mAnavagRhyasUtra-maitrAyaNIyamAnavagRhyasUtra",
+  "title": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+  "total_chapters": 42,
+  "total_verses": 657,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 25,
+      "verse_groups": [
+        {
+          "lines": [
+            "atha mānavagṛhyasūtraprārambhaḥ /",
+            "oṃ upanayanaprabhṛti vratacārī syāt // ManGS_1,1.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mārgavāsāḥ saṃhatakeśo bhākṣācāryavṛttiḥ saśalkadaṇḍaḥ sapta /",
+            "muñjāṃ mekhalāṃ dhārayedācāryasyāpratikūlaḥ sarvakārī // ManGS_1,1.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadenamupeyāt tadasmai dadyād bahūnāṃ yena saṃyuktaḥ // ManGS_1,1.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nāsya śayyāmāviśet // ManGS_1,1.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na savasrayet // ManGS_1,1.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na rathamārohet // ManGS_1,1.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nānṛtaṃ vadet // ManGS_1,1.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na muṣitāṃstriyaṃ prekṣeta // ManGS_1,1.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na vihārārtho jalpet // ManGS_1,1.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na rucyarthaṃ kiṃcana dhārayīta // ManGS_1,1.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvāṇi sāṃ sparśikāni strībhyo varjjayet // ManGS_1,1.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na madhumāṃse prāśnīyāt kṣāralavaṇe ca // ManGS_1,1.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na snāyādudakaṃ vā bhyāveyāt // ManGS_1,1.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadi snāyāddaṇḍa ivāpsu plaveta // ManGS_1,1.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāgastamayānniṣkramya samidhāvahārerddhariṇyau brahmavarcasakāma iti śrutiḥ // ManGS_1,1.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "imaṃ stomamarhata ityagniṃ parisamuhya paryukṣya paristīryaidhosyedhiṣīmahīti samidhamādadhāti, samidasi samedhiṣīmahīti dvitīyām // ManGS_1,1.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "apo adyānvacāriṣamityupatiṣṭhate // ManGS_1,1. 17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadagre tapasā tapo brahmacaryamupeyamasi /",
+            "priyāḥ śrutasya bhūyāsmāyuṣmantaḥ sumedhasa iti mukhaṃ vimṛṣṭe // ManGS_1,1.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhadraṃ karṇebhiḥ śṛṇuyāma devā iti śrotre abhimṛśati // ManGS_1,1.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhadraṃ paśyemākṣābhir yajatrā iti cakṣuṣī // ManGS_1,1.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthirai raṅgai stuṣṭuvāṃ sastanūbhir vyaśema devahitaṃ yadāyu rityaṅgāni // ManGS_1,1.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iha dhṛtiriha svadhṛtiriti hṛdayadeśamārabhya japati // ManGS_1,1.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rucaṃ no dhehīti pṛthivīmārabhate // ManGS_1,1.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tryāyuṣaṃ jamadagneḥ kaśyapasya tryāyuṣamagastyasya tryāyuṣam /",
+            "yaddevānāṃ tryāyuṣaṃ tanme astu tryāyuṣamiti bhasmānāṅgāni saṃspṛśyāpohiṣṭhīyābhirmārjāyate // ManGS_1,1.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti prathamaḥ khaṇḍaḥ //1//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "śrīmaitrāyaṇīyamānavagṛhyasūtrabhāṣyam /",
+        "prathamaḥ puruṣaḥ /",
+        "prathamaḥ khaṇḍaḥ"
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "verse_count": 21,
+      "verse_groups": [
+        {
+          "lines": [
+            "oṃ atha saṃdhyāmupāste // ManGS_1,2.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāgastamayānniṣkramyottarato grāmasya purastādvā śucau deśe niṣedyopaspṛśyāpāmañjaliṃpūrayitvā pradakṣiṇamāvṛtya āyāhiviraje devyakṣare brahmasaṃmite /",
+            "gāyatrīṃ chandasāṃ mātaridaṃ brahma juṣasva me ' ityāvāhayati // ManGS_1,2.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ādyojo 'sīti japitvā kaste yunaktīti yojayitvoṃ bhūrbhuvaḥ svastatsaviturityaṣṭau kṛtvaḥ prayuṅkta ityāmnātāḥ kāmā ādevo yātīti triṣṭubhaṃ rājavanyasya yuñjata iti jagatiṃ vaiśamya // ManGS_1,2.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udutyaṃ jātavedasamiti dve nigadya kaste vimuñjatīti vimucyodakāñjalimutsṛjati // ManGS_1,2.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evaṃ prātastiṣṭhan // ManGS_1,2.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena dharmeṇa dvādaśacaturviṃśatiṃ ṣaṭtriśatamaṣṭācatvāriṃ śataṃ vā varṣāṇi yo brāhmaṇo rājanyo vaiśyo vā drahmacaryaṃ carati muṇḍaḥ śikhājaṭaḥ sarvajaṭo vā malajñurabalaḥ kṛśaḥ snātvā sa sarvaṃ vindate yatkiṃcinmanasecchatīti // ManGS_1,2.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena dharmeṇa sādhvadhīte // ManGS_1,2.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "chandasyarthānbudhvā snīsyan gāṃ kārayet // ManGS_1,2.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryamarhayocchrotriyaḥ // ManGS_1,2.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anyo vedapāṭhī na tasya snānam // ManGS_1,2.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āpo hiṣṭheti tisṛbhirhiraṇyavarṇāḥ śucaya iti dvābhyāṃ snātvāhate vāsasī paridhatte // ManGS_1,2.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vasvasi vasumantaṃ mā kuru sauvarcasāya mā tejase brahmavarcasāya paridadhāmīti paridadhāti // ManGS_1,2.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yathā dyauśca pṛthivī ca na bibhīto na riṣyataḥ /",
+            "evaṃ me prāṇa mā riṣa ityāṅkte // ManGS_1,2.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇyamāvadhnīte // ManGS_1,2.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "chatraṃ dhārayate daṇḍaṃ mālāṃ gandham // ManGS_1,2.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratiṣṭhe sthodaivate dyāvāpṛthivī mā mā saṃtāptamityupānahau // ManGS_1,2.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dvivastro 'ta urdhvaṃ bhavati tasmācchobhanaṃ vāso bhartavyamiti śrutiḥ // ManGS_1,2.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āmantryagurūn gurubandhūṃśca svān gṛhānvrajet // ManGS_1,2.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratiṣiddhamaparayā dvārā niṣkramaṇaṃ malavadvāsasā saha saṃvastraṇaṃ rajaḥ sunāsinyā saha śayyā gurorduruktavacanamasthāne śayanaṃ smayanaṃ saraṇaṃ sthānaṃ yānaṃ gānaṃ tasya cekṣaṇam // ManGS_1,2.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paurṇamāsyāmamāvāsyāyāṃ vāgneyena paśunā yajeta // ManGS_1,2.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya pavirbhakṣayitvā yathāsukhamata ūrdhvaṃ madhumāṃse prāśnīyātkṣāralavaṇe ca // ManGS_1,2.21 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "dvitīyaḥ khaṇḍaḥ /",
+        "iti dvitīyaḥ khaṇḍaḥ //"
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "verse_count": 6,
+      "verse_groups": [
+        {
+          "lines": [
+            "kalpayantā mihai-vetyabhyuditaḥ // ManGS_1,3.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "punarmātmā punarāyuraitu punaḥ prāṇaḥ punarākūtiraitu vaiśvānaro vāvṛdhāno vareṇāntastiṣṭhato me mano amṛtasya ketuḥ ityabhyasta mitaḥ // ManGS_1,3.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ubhāveva vābhyudito japedubhāveva vābhyastamitaḥ // ManGS_1,3.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadyācaraṇīyānvācaredanākrośedabhojyasyavānna maśnīyādakṣi vāspandetkarṇo vākrośedagniṃ vā citimārohetsmaśānaṃ vā gacchedyupaṃ vospṛśedretaso vā skandedetābhyāmeva mantrābhyāmāhutirjuhuyādapi vājyalipte samidhe vādadhyādapi vā mantrāveva japet // ManGS_1,3.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evamadharmamācaryāsthūlam // ManGS_1,3.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthūle veṣaṇayā viharedavastro lomatvagācchādo 'gnimārohetsaṃgrāme vā dhātayedapi vāgnimindhānaṃ tapasā'tmānamupayojayīta // ManGS_1,3.6 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "tṛtīyaḥ khaṇḍaḥ /",
+        "yamevaṃ vidvāṃsamabhyudiyādvābhyasta miyādvā pratibudhya japet",
+        "punarmā maitvindriyaṃ punarāyuḥ punarbhagaḥ"
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "verse_count": 19,
+      "verse_groups": [
+        {
+          "lines": [
+            "varṣāsu śravaṇena svādhyāyānupākurute // ManGS_1,4.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarasvatīnāmāsi sarasvannāmāsi /",
+            "yuktirnāmāsi yojo nāmāsi /",
+            "matirnāmāsi mane nāmāsi //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "tasyāstejoṣṭrīṃ gameyam /",
+            "tasya tejoṣṭraṃ gamayemiti sarvatrānuṣajati // ManGS_1,4.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuje svāhā prayuje svāhodyujesvāhetyetairattevāsināṃ yogamicchanniti // ManGS_1,4.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāk sviṣṭakṛtotha japati /",
+            "ṛtaṃ vadiṣyāmi satyaṃ vadiṣyāmi tanmāmavatu tadvaktāramavatvavatu mā bhavatu vaktāram /",
+            "vāṅ me manasi pratiṣṭhinā, mano me vaici pratiṣṭhitamāvirāyurmayi dhehi vedasya vāṇīḥ stha /",
+            "oṃ bhūrbhuvaḥ svastatsavituriti // ManGS_1,4.4 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "darbhapāṇistriḥ sāvitrī madhīte /",
+            "triṃścādito 'nuvākān /",
+            "ko vā yunaktīti ca /",
+            "upākurmahe 'dhyāyānupatiṣṭhantu chandāsīti ca // ManGS_1,4.5 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "tasyānadhyāyāḥ samūhanvāto valīkakṣāraprabhṛti varṣaṃ na vidyotamāne na stanayatīti śrutirākālikaṃ devatumulaṃ vidyuddhanvolkātyakṣarāḥ śabdāḥ /",
+            "ācāreṇānye // ManGS_1,4.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "arddhapañcamānmāsānadhītyotsṛjati pañcārddhaṣaṣṭhānvā // ManGS_1,4.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha japati ṛta mavādiṣaṃ tanmāvīt ttadvaktāramāvīdāvīnmāmāvīdvaktāram /",
+            "vādh me manasi pratiṣṭhitā mano me vāci pratiṣṭhitaṃ māvirāyur mayi dhehi /",
+            "vedasya vāṇīḥ stha /",
+            "oṃ bhūrbhuvaḥ svastatsavituriti // ManGS_1,4.8 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "darbhapāṇistriḥ sāvitrīmadhīte /",
+            "trīṃścādito 'muvākān ko vo vimuñcatīti vimucyotsṛjāmahedhyāyānpratīśvasantu chandāsīti ca // ManGS_1,4.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pratipadaṃ pakṣiṇīṃ rātrīṃ nādhīyīta nāta ūrdhvamabhreṣu // ManGS_1,4.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ākāliko vidyutsnanayitnuvarṣeṣu // ManGS_1,4.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gonāmeṣu mantrabrāhmaṇakalpayitṛmedhamahāvratāṣṭāpadīṃ vaiṣuvatāni divādhīyīta vaiṣuvattamārdrapāṇiḥ // ManGS_1,4.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rudānna naktaṃ na bhuktā na grāme // ManGS_1,4.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śukriyasya pravargyakalpe niyamo vyākhyātastrayoviṃśaṃ tu saṃmīlya // ManGS_1,4.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gavāṃ tu na sakāśe gonāmāni gārbhiṇīnāmasakāśe 'ṣṭāpadīṃreto mūtramiti ca // ManGS_1,4.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śunīśīryasya ca saurye cakṣuṣkāmasya cakṣurno dhehi cakṣuṣa iti sūryo 'po 'vagāhata iti ca ādityasairyayāmyāni ṣaḍṛcāni divādhīyīta // ManGS_1,4.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "upākṛtyotsṛjya ca tryahaṃ pañcarātrameke // ManGS_1,4.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vedārambhaṇe samāptau cākālam // ManGS_1,4.18 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "caturthaḥ khaṇḍaḥ",
+        "sa juheti-",
+        "apvānāmāsi tasyāstejoṣṭraṃ gamayem /\nahamiddhi pituḥ parimedhāmṛtasya jagrabha sūrya ivājani svāhā /"
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 7,
+      "verse_groups": [
+        {
+          "lines": [
+            "athāto 'ntarakalpaṃ vyākhyāsyāmaḥ // ManGS_1,5.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "darbhamayaṃ vāsaḥ paridhāyacamyāpāṃ naptra iti tīre japitvāpo 'vagāhya oṃbhūrbhuvaḥ svastatsavituriti // ManGS_1,5.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "darbhapāṇistriḥ sāvitrīmadhīte trīṃ śvādito 'nuvākān // ManGS_1,5.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āpo devīrhaviṣmatīrimā nigrābhyo stha mahitrīṇāmavo 'stu agnerarāyurasi devī rāpo apāṃ napāddevīrāpo madhumatīragnaye svāhā rātrīṃ rātrīmityaṣṭau // ManGS_1,5.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yā oṣadhayaḥ samānyāyanti punantu mā pitaro 'gnermanve saśevṛdhamadhidhāḥ kayā naścitra ābhuvadūtīti tisraḥ // ManGS_1,5.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tacchaṃyorā vṛṇīmaha iti mārjayitvā vāsāṃsyutsṛjāyācāryānpitṛdharmeṇa tarpayanti // ManGS_1,5.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrāddhakalpena śeṣo vyākhyātaḥ // ManGS_1,5.7 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "pañcamaḥ khaṇḍaḥ",
+        "iti pañcamaḥ khaṇḍaḥ /"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 5,
+      "verse_groups": [
+        {
+          "lines": [
+            "athātogniṃ pravartayanti // ManGS_1,6.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gārhapatyasthāne 'gniṃ praṇīya yuñjānaḥ prathamaṃ mana ityaṣṭau dutvā /",
+            "ñakūtamagniṃ prayujaṃ svāheti ṣaḍ juhoti viśvo devasya netu riti saptamīm // ManGS_1,6.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yajñiyānāṃ samidhāṃ trīṃ strīn samitpūlānupakalpya prāksviṣṭakṛtastiṣṭhanto vyāhṛtipūrvakaṃ khaṇḍilasyādītastribhi ranuvākairekaikena svāhākārāntābhirādadhati // ManGS_1,6.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āpodiṣṭīyābhiḥ kausitān mārjayitvā dhānābhir brābmaṇānsvasti vācayanti dhānābhir brāhmaṇānsvasti vācayanti // ManGS_1,6.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti mānave ṣaṣṭhaḥ khaṇḍaḥ //6//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ṣaṣṭhaḥ khaṇḍaḥ /",
+        "uttarato grāmasya purastādvā śucau deśe vedyākṛtiṃ kṛtvāhavanīyasthāne saptacchandāṃsi pratiṣṭhāpya viṣṭharā darbhamuṣṭhīnvā dakṣiṇāgnisthāne praugākṛtiṃ kauśitaṃ khātvā paścādutkaramapāṃ pūrayitvā"
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "verse_count": 12,
+      "verse_groups": [
+        {
+          "lines": [
+            "athopaniṣadarhāḥ /",
+            "brahmacārī sucariti medhāvī karmakṛddhanadaḥ priyo vidhāṃ vā vidyāyānveṣyan // ManGS_1,7.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tāni tīrthāni brahmaṇaḥ // ManGS_1,7.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhāryāṃ vindate // ManGS_1,7.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṛttikā svāti pūrvairiti varayet // ManGS_1,7.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rohiṇīmṛgaśiraḥ śravaṇāśraviṣṭhottarāṇītyupayame tathodvāhe yadvā puṇyoktam // ManGS_1,7.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pañca vivāhakārakāṇi bhavanti vittaṃ rūpaṃ vidyā prajñā bāndhava iti // ManGS_1,7.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ekālābhe vittaṃ visṛjed dvitīyālābhe rūpaṃ tṛtīyālābhe vidyāṃ prajñāyāṃ bāndhava iti ca vivahante // ManGS_1,7.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bandhumatīṃ kanyāmaspṛṣṭamaithunā samānavarṇāsamānapravarāṃ yavīyasīṃ nagnikāṃ śreṣṭhām // ManGS_1,7.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vijñānamasyāḥ kuryādaṣṭau loṣṭhānāharesītā- loṣṭhaṃ vediloṣṭhaṃ dūrvāloṣṭhaṃ gomayaloṣṭhaṃ phalavato vṛkṣasyadhastālloṣṭhaṃ śmaśānaloṣṭha madhvaloṣṭhabhirīṇaloṣṭhamiti // ManGS_1,7.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "devāgāre sthāpayitvātha kanyāṃ grāhayet yadi smaśānaloṣṭhaṃ gṛhṇīyādadhvaloṣṭhabhiriṇaloṣṭhaṃ vā no payamet // ManGS_1,7.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃjuṣṭāṃ dharmeṇopayaccheta brāhmeṇa śaulkena vā // ManGS_1,7.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śatamiti rathaṃ dadyāt gomithunaṃ vā // ManGS_1,7.12 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "saptamaḥ khaṇḍaḥ",
+        "iti saptamaḥ khaṇḍaḥ /"
+      ]
+    },
+    {
+      "chapter_num": 8,
+      "verse_count": 12,
+      "verse_groups": [
+        {
+          "lines": [
+            "paścādagneścatvāryāsanānyupakalpayīta // ManGS_1,8.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "teṣūpaviśanti purastatpratyaṅmukho dātā paścātprāṅmukhaḥ pratigrahītā dāturuttarataḥ pratyaṅmukhī kanyā dakṣiṇata udaṅmukho mantrakāraḥ // ManGS_1,8.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "teṣāṃ madhye prāk tūlāndarbhānastīryā kāṃsyamakṣatodakena pūrayitvā avidhavāsmai prayacchati // ManGS_1,8.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra hiraṇyam // ManGS_1,8.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aṣṭau maṅgalyānyāvedayati // ManGS_1,8.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "maṅgalyānyuktā dadāmi pratigṛhṇāmīti trirbrahmadeyā pitā bhrātā vā dadyat // ManGS_1,8.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sahiraṇyānañjalīnāvapati dhanāya tvetidātā putrebhyastveti pratigrahītā tasmai pratyāvapati // ManGS_1,8.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "caturvyatihṛtya dadāti // ManGS_1,8.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sāvitreṇa kanyāṃ pratigṛhya prajāpataya iti ca ka idaṃ kasmā adāditi sarvatrānuṣajati kāmaitatta itiyantam // ManGS_1,8.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samānā vā ākūtānīti saha japantyāntādanuvākasya // ManGS_1,8.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "khe rathasya khe nasaḥ yugasya śatakrato apālamindrastriḥ pūrtyavakṛṇotsūryatvaca miti tenodakāṃsyena kanyāmabhiṣiñcet // ManGS_1,8.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti aṣṭamaḥ khaṇḍaḥ //8//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "aṣṭamaḥ khaṇḍa"
+      ]
+    },
+    {
+      "chapter_num": 9,
+      "verse_count": 31,
+      "verse_groups": [
+        {
+          "lines": [
+            "ṣaḍadhyārhā bhavantyṛtvigācāryo vivāhyo rājā snātakaḥ priyaśceti // ManGS_1,9.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aprākaraṇikānvā parisaṃvatsarādarhayanti // ManGS_1,9.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prākaraṇikāḥ kartāraḥ sadasyāśca vṛtāḥ // ManGS_1,9.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na jīvatpitṛkor'dhyaṃ pratigṛhṇīyāditiśrutirathavā pratigṛhṇīyāt // ManGS_1,9.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "athainamarhayanti // ManGS_1,9. 5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāṃsye camase vā dadhi madhu cānīya varṣīyasā pidhāyācamanīyaprathamaiḥ pratipadyante // ManGS_1,9.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "virājo dohosi virājo dohosi virājo dohamaśīya mayi dohaḥ padyāyai virājaḥ kalpatāmityekaika māhrimāṇaṃ pratīkṣate // ManGS_1,9.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sāvitreṇa viṣṭaraṃ pratigṛhya ahaṃ varṣma sadṛśānāmudyatāmiva sūryaḥ idaṃ tamabhitiṣṭhāmi yo mā kaścābhidāsatīti japati // ManGS_1,9.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rāṣṭrabhṛdasītyācārya āsandīmanumantrayate // ManGS_1,9.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mā tvā doṣa ityadhastātpādayorviṣṭaramupakarṣati // ManGS_1,9.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viṣṭara āsīnāyai kaikaṃ triḥ prāha // ManGS_1,9.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "naiva bho ityāha nama ārṣeyāyeti śrutiḥ spṛśatyarghyam // ManGS_1,9.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvato 'bhyuddiśati // ManGS_1,9.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "madhuvātā ṛtāyata iti tisṛbhiraṅgulyā pradakṣiṇaṃ pratyṛcaṃ trirāyauti // ManGS_1,9.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "amṛtopastaraṇamasītyupastarati // ManGS_1,9.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "satyaṃ yaśaḥ śrīrmayi śrīḥśrayatāmiti madhuparkaṃ triḥ prāśnāti // ManGS_1,9.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "amṛtāpidhānamasītyācāmati // ManGS_1,9.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "suhṛde 'vaśiṣṭaṃ prayacchati // ManGS_1,9.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "asi pāṇirgāṃ prāha // ManGS_1,9.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hato me pāpmānaṃ me hata oṃkuruta iti preṣyati // ManGS_1,9.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "caturo brāhmaṇānnānāgotrān bhojayate // ManGS_1,9.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paśvaṅgaṃ pāyasaṃ vā kārayennāmāṃso madhuparka iti śrutiḥ // ManGS_1,9.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pranuvocaṃ cikituṣe janāya māgā manāgā maditiṃ vaṅiṣṭa /",
+            "bhurbhuvaḥ svarotmutsṛjatu tṛṇānyattu // ManGS_1,9.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "athālaṃkāraṇamalaṃkaraṇamasi sarvasmā alaṃ me bhūyāsam // ManGS_1,9.24 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "praṇāpānau me tarpaya udīnarūpe me tarpaya sucakṣā aha makṣibhyāṃ bhūyāsaṃ suvarcā mukhena suśrutkarṇābhyāṃ bhūyāsāmiti yatāliṅgamaṅgāni saṃspṛśati // ManGS_1,9.25 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha gandhotsadane vāsasī // ManGS_1,9.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityahataṃ-vāsaḥ paridhatte // ManGS_1,9.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kumāryāḥ pramadane bhagamaryamaṇaṃ pūṣaṇaṃ tvaṣṭāramiti yajati // ManGS_1,9.28 // /"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāksviṣṭakṛtaścatasro avidhavā nandīrupavādayanti // ManGS_1,9.29 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "abhyantare kautuke devapatnīrjayati // ManGS_1,9.30 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti navamaḥ khaṇḍaḥ //9//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "navamaḥ khaṇḍaḥ",
+        "pādyena pādau prakṣālya sāvitreṇa madhuparkaṃ pratigṛhya pratiṣṭhāpyavasāyya namo rudrāya pātrasade namo rudrāya pātrasada iti prādeśenādhyadhi pratidiśaṃ pradakṣiṇaṃ",
+        "yadyutsṛjenmātā rudrāṇāṃ duhitā vasūnāṃ svasādityānāmamṛtasya nābhiḥ /"
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "verse_count": 20,
+      "verse_groups": [
+        {
+          "lines": [
+            "prāgudañcaṃ lakṣaṇamuddhṛtyāvokṣya sthaṇiḍalaṃ gomayenopalipya maṇḍalaṃ caturasraṃ vā agniṃ nirmathyābhimukhaṃ praṇayet tatra brahmopaveśanam // ManGS_1,10.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "darbhāṇāṃ pavitre mantravadutpādyemaṃstoma marhata ityagniṃ parisamuhya paryukṣya paristīrya paścādagnerekavadbahiḥstṛṇāti // ManGS_1,10.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udakprāktūlāndarbhānprakṛṣya dakṣiṇāṃstathottarānagreṇāgniṃ dakṣiṇairuttarānavastṛṇāti // ManGS_1,10.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dakṣiṇato 'gnerbrahmaṇe saṃstṛṇātyaparaṃ yajamānāya paścārjjhe patnyai aparamaparaṃśākhodakadhārayorlājā dhāryāśca paścādyugadhārasya ca // ManGS_1,10.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "syonā pṛthivi bhavetyetayāvasthāpya śamīmayīḥ śamyāḥ kṛtvāntagorṣṭhe 'gnimupasamādhāya bhartā bhāryāmabhyudānayati // ManGS_1,10.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "'aghora cakṣurapatighnyedhi śivā paśubhyaḥ sumanāḥ suvarcāḥ vīrasūdervakāmā syonā śaṃ no bhava dvipade śaṃ catuṣpade' ityabhiparigṛhyābhyudānayati // ManGS_1,10.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "uttareṇa rathaṃ vānovānuparikramyāntareṇa jvalanavahanāvatikramya dakṣiṇāsyāṃ dhuryuttarasya yugatanmano 'dhastātkanyāmavasthāpya śamyāmutkṛṣya hiraṇyamantardhāya hiraṇyavarṇāḥ śucaya iti tisṛbhiradbhirabhiṣicya ajtraiva bāṇaśabdaṃ kuruteti preṣyati // ManGS_1,10.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāstvādevyo jarase saṃvyayantvāyuṣmatīdaṃ paridhatsva vāsaḥ-ityahataṃ vāsaḥ- paridhāpyānvārabhyādhārāvājyabhāgau hutvā agnaye janavide svāhetyuttarārdhe juhoti somāya janavide svāheti dakṣiṇārddhe gandharvāya janavide svāheti madhye // ManGS_1,10.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yukto vaha yadākūtamiti dvābhyāmagniṃyojayitvā nakṣatramiṣṭvā nakṣatradevatāṃyajettithiṃ tithidevatāmṛtudevatāṃ ca // ManGS_1,10.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti hiraṇyagarbha ityaṣṭābhiḥ pratyṛcamājyāhutīrjuhuyāt // ManGS_1,10.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yena ca karmaṇecachettatra ca jayān juhuyāt jayānāṃca śrutistāṃ yatoktām /",
+            "ākūtyai tvā svāhā, bhūtyai tvā svāha, prayuje tevā svāha, nabhase tvā svāha, aryambhaṇe tvā svāha, samṛdhyai tvā svāha, jayāyai tvā svāha, kāmāya tvā svāhetyṛcā stomaṃ prajāpataya iti ca // ManGS_1,10.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śuciḥ pratyaṅṅupayantā tāṃsamīkṣasvetyāha // ManGS_1,10.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mama vācamekamanā juṣasva prajāpatiṣṭhvā niyunaktumahyam-iti // ManGS_1,10.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kā nāmāsītyāda // ManGS_1,10.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,10.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dakṣiṇābhyāṃ pabhdyāmaśmānamāsthāpayati // ManGS_1,10.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ārohasva same pādau pra pūrvyāyuṣmatī kanye putravatī bhava /",
+            "ityevaṃ dvirāsthāpayati // ManGS_1,10.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "catuḥ pariṇayati // ManGS_1,10.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samitaṃ saṃkalpethāmiti paryāye paryāye brahmā brahmajapaṃ japet // ManGS_1,10.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti daśamaḥ khaṇḍaḥ //10//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "daśamaḥ khaṇḍaḥ",
+        "vāsasonte gṛhītvā-",
+        "athāsyai vāsaḥ prayacchati-"
+      ]
+    },
+    {
+      "chapter_num": 11,
+      "verse_count": 28,
+      "verse_groups": [
+        {
+          "lines": [
+            "tato yathārthaṃ karmasannipāto vijñeyaḥ // ManGS_1,11.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aryamṇe 'gnaye pūṣṇe 'gnaye varuṇāya ca vrīhīn yavānvābhinirūpya prokṣya lājā bhṛjati // ManGS_1,11.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mātre prayacchati sa jātāyā avidhavāyai // ManGS_1,11.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "athāsyai dvitīyaṃ vāsaḥ prayacchati tenaiva mantreṇa // ManGS_1,11.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "darbharajvā indraṇyāḥ saṃnahanamityantau samāyamya pumāṃsaṃ granthiṃ bandhnāti // ManGS_1,11.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃ tvā nahyāmi prajayā dhanena sā sannaddhā sunuhi bhāgadheyam /",
+            "itiyantarato vastrasya yoktreṇa kanyāṃ saṃnahyate // ManGS_1,11.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "athainānyupakalpayate śūrpāṃ lājā iṣīkā aśmāna māñjanam // ManGS_1,11.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "catasṛbhirdarbheṣīkābhiḥ śareṣīkābhirvā samuñajābhiḥ satūlābhirityekaikayā traikakubhasyāñjanasya saṃnikṛṣya vṛtrasyāsi kanīniketi bharturdakṣiṇamakṣi triḥ prathama māṅkte tathā paraṃ tathā patnyāḥ śeṣeṇa tūṣṇīm // ManGS_1,11.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,11.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "lājāḥ paścādagnerupasādya śamīparṇaiḥ saṃyujya śūrpe samaṃ caturdhā vibhajyāgreṇāgniṃ paryāhṛtya lājādhāryai prayacchati // ManGS_1,11.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "lājā bhrātā brahmacārī vāñjalināñjalyorāvapati // ManGS_1,11.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dīrdhāyurastu me patiredhantāṃ jñātayo mameti // ManGS_1,11.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evaṃ pūṣaṇaṃ nu devaṃ varuṇaṃ nu devam // ManGS_1,11.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yena dyau rugretyādaya udvāhe homā jayābyātānāḥ saṃtatihomā rāṣṭrabhṛtaśca // ManGS_1,11.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ākūtāya svāheti jayāḥ prācī digvasanta ṛturityabhyātānāḥ /",
+            "prāṇādāpānaṃ saṃtanviti saṃtatihomā ṛtā ṣāḍṛtadhāmeti dvādaśarāṣṭrabhṛtaśca // ManGS_1,11.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "trātāramindraṃ viśvādityā iti māṅgalye // ManGS_1,11.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "lājāḥ kāme na caturthāṃsviṣṭakṛtamiti // ManGS_1,11.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sakhā saptadībhava sumṛḍīkā sarasvatī /",
+            "mā te vyoma saṃdṛśī //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣṇustvā munnayatviti sarvatrānuṣajati // ManGS_1,11.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paścādagre rohite carmaṇyānajuḍuhe prāggrīve lomato darbhānāstīrya teṣu vadhūmupaveśayatyapi vā darbheṣveva // ManGS_1,11.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "imaṃviṣyāmi varuṇasya pāśaṃ yajjagrantha savitā satyadharmā /",
+            "dhātuśca yonau sukṛtasya loke riṣṭāṃ mā saha patyā dadhātu //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti yokrapāśaṃ viṣāya vāsaso 'nte badhnāti // ManGS_1,11.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anumatibhyāṃ vyāhṛtibhyaśca tvanno agne , ayāścāgnesīti ca // ManGS_1,11.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śamīmayīstisro 'ktāḥ samidhaḥ samudrādūrbhirityetābhistisṛbhiḥ svāhākārāntābhirādadhāti // ManGS_1,11.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "akṣata saktūnāṃ dadhnaśca samavadāyedaṃ haviḥ prajananaṃ ma iti hutyājyenābhijuhoti // ManGS_1,11.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kumbhādudakenāpohiṣṭhīyābhirmārjayante // ManGS_1,11.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varo dakṣiṇā // ManGS_1,11.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityekādaśaḥkhamḍaḥ //11//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ekādaśaḥ khaṇḍaḥ",
+        "saṃ tvā nahyāmi payasā pṛthivyāḥ saṃtvā nahyāmyadbhiroṣadhībhiḥ /",
+        "diśi śalākāḥ pravidhyati yāni rakṣāṃsyabhito vrajantyasyā vadhvā agnisakāśa māgacchantyāḥ teṣāmahaṃ pratividhyāmi cakṣuḥ svasti vadhvai"
+      ]
+    },
+    {
+      "chapter_num": 12,
+      "verse_count": 8,
+      "verse_groups": [
+        {
+          "lines": [
+            "iti prekṣakānvrajato 'numantrayate // ManGS_1,12.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atraiva sīmantaṃ karoti trīśyetayā śalalyā samūlena vā darbheṇa senāhanāmetyetayā // ManGS_1,12.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,12.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,12.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "athaino dadhimadhu samaśruto yadvā haviṣyaṃ syāt // ManGS_1,12.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya svasti vācayitvā samānā vā ākūtānīti saha japanti // ManGS_1,12.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ubau saha prāśnītaḥ // ManGS_1,12.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvādaśaḥ khaṇḍaḥ //12//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "dvādaśaḥ khaṇḍaḥ",
+        "sumaṅgalīriyaṃ vadhūrimāṃ sametapaśya",
+        "saubhāgyamasyai datvāyāthāstvaṃ viparetana //"
+      ]
+    },
+    {
+      "chapter_num": 13,
+      "verse_count": 21,
+      "verse_groups": [
+        {
+          "lines": [
+            "puṇyāhe yuṅkte // ManGS_1,13.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yuñjanti bradhnamiti dvābhyāṃ yujyamānamanumantrayate dakṣiṇamathottaram // ManGS_1,13.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ahatena vāsasā darbhairvā rathaṃ saṃmārṣṭi // ManGS_1,13.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ahkūnyaṅkāvabito rathaṃ ye dhāvantā vātā agnimabhiye saṃcaranti dūre hetiḥ patatrī vājinī vāṃste no 'gnayaḥ paprayaḥ pālayantu iti cakre abhimantrayate // ManGS_1,13.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vanaspate viḍvaṅga itiyadhiṣṭānam // ManGS_1,13.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityārohayati // ManGS_1,13.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anumāyantu devatā anubrahma suvīryam /",
+            "anukṣatraṃ tu yadbalamanumāmaitu madyaśaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti prāṅabhiprayāya pradakṣiṇamāvartayati // ManGS_1,13.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratimāyantu devatāḥ pratibrahma suvīryam /",
+            "pratikṣatraṃ tu yadbalaṃ prati māmaitu yadyaśaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti yathāstaṃ yanta manumantrayate // ManGS_1,13.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "amaṅgalyaṃ cedatikrāmati anumāyantviti japati // ManGS_1,13.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "namo rudrāya grāmasada iti grāme imā rudrāyeti ca // ManGS_1,13.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "'namo rudrāyaika vṛkṣasada' ityekavṛkṣe /",
+            "'ye vṛkṣeṣu śiṣpañjarā' iti ca // ManGS_1,13.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "'namo rudrāya śmāśānasada' iti śmaśāne /",
+            "'ye bhūtānā madhipataya' iti ca // ManGS_1,13.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "'namo rudrāya catuṣpathasada' iti catuṣpathe /",
+            "'ye pathāṃ pathi rakṣaya' iti ca // ManGS_1,13.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "'namo rudrāya tīrthasada' iti tīrthe /",
+            "'ye tīrthāni pracarantīti' ca // ManGS_1,13.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadi nāvā taret sutrāmāṇamiti japet // ManGS_1,13.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadi rathākṣaḥ śamyāṇīvā riṣyetānyadvā rathāṅgaṃ tatraivāgnibhupasamādhāya jayaprabhṛtibhirhutvā sumaṅgalīriyaṃ vadhūriti japet vadhvā saha vadhūṃ sameta paśyata // ManGS_1,13.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityubhāvevokrāmataḥ // ManGS_1,13.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gobhiḥ sahāstāmite grāmaṃ praviśanti brāhmaṇavacanādvā // ManGS_1,13.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti trayodaśaḥ khaṇḍaḥ //13//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "trayodaśaḥ khaṇḍaḥ",
+        "sukiṃ śukraṃ śalmaliṃ viśvarūpaṃ hiraṇyavarṇaṃ suvṛtaṃ sucakram āroha sūrye amṛtasya lokaṃ syonaṃ patye vahataṃ, kṛṇuṣva //",
+        "yatrāpastaritavyā āsīditi samudrāya vaiṇave sindhūnāṃ pataye namaḥ /"
+      ]
+    },
+    {
+      "chapter_num": 14,
+      "verse_count": 21,
+      "verse_groups": [
+        {
+          "lines": [
+            "aparasminnahaḥ saṃdhau gṛhānpratipādayīta // ManGS_1,14.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratibrahmanniti pratyavarohati // ManGS_1,14.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "maṅgalāni prādurbhavanti // ManGS_1,14.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "goṣṭhātsantatāmulaparājiṃ stṛṇāti // ManGS_1,14.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti tayābhyupaiti // ManGS_1,14.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityabhyāhitīgniṃsohakaṃ sauṣadhamāvasathaṃ pratipadyate rohiṇyā mūlena vā yadvā puṇyoktam // ManGS_1,14.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paścādagne rohite carmaṇyānaḍuhe prāggrīve lomato darbhānastīrya teṣu vadhūmupaveśayatyapi vā darbheṣveva // ManGS_1,14.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,14.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "athāsya tilataṇḍulānāṃ phalamiśrāṇāmañjaliṃ pūrayitvotthāpyāthāsyai dhrumaruṅatīṃ jīvattīṃ saptaṛṣīniti darśayet // ManGS_1,14.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti tasyāṃ samīkṣamāṇāyāṃjapati // ManGS_1,14.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śvabhūte prājāpatyaṃ payasi sthālīpākaṃ śrapayitvā tasya juhoti /",
+            "ājyaśeṣe dadhisamānīya tena hutaśeṣaṇa // ManGS_1,14.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti yajamānastriḥ prāśnātyavaśiṣṭaṃ tūṣṇīṃ patnī // ManGS_1,14.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aparānhe piṇḍapitṛyajñaḥ sa vyākhyātaḥ // ManGS_1,14.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃvatsaraṃ brahmacaryaṃ carato dvādaśarātraṃ trirātramekakarātraṃ vā // ManGS_1,14.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "athāsyai gṛhān visṛjet // ManGS_1,14.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti stryādivyatyāsaṃ japati // ManGS_1,14.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "karaditi bhasahamabhibhṛśati // ManGS_1,14.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jananītyupajananamaṃ // ManGS_1,14.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bṛhaditi jātaṃ pratiṣṭhitam // ManGS_1,14.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena dharmeṇa ṛtāvṛtau saṃnipātayet // ManGS_1,14.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti caturdaśaḥ khaṇḍaḥ //14//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "caturdaśaḥ khaṇḍaḥ",
+        "rathādadhyopāsanāt--",
+        "yeṣvadhyeti pravasanyeṣu saumanasaṃ mahat /"
+      ]
+    },
+    {
+      "chapter_num": 15,
+      "verse_count": 1,
+      "verse_groups": [
+        {
+          "lines": [
+            "iti pañcadaśaḥ khaṇḍaḥ //15//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "pañcadaśaḥ khaṇḍaḥ",
+        "tṛtīye garbhamāse araṇī āhṛtya ṣaṣṭhe 'ṣṭhame vā jayaprabhṛtibhirhutvā paścādagnerdarbheṣvāsīnīyāḥ patnyāḥ sarvān pramucya keśānnavanītenābhyajya--"
+      ]
+    },
+    {
+      "chapter_num": 16,
+      "verse_count": 6,
+      "verse_groups": [
+        {
+          "lines": [
+            "aṣṭhame garbhamāse jayaprabhṛtibhirhurvā phalaiḥ snāpasitvā yā oṣadhaya ityanuvākenāhatena vāsasā pracchādya gandhapuṣpairalaṃkṛtya phalāni kaṇṭhe vai saṃsṛjyāgniṃ pradakṣiṇaṃ kuryāt // ManGS_1,16.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prajāṃ me naryapāhīti mantreṇopasthānaṃ kṛtvā guṇavato brāhmaṇān bhojayet // ManGS_1,16.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "phalāni dakṣiṇā dadyāt // ManGS_1,16.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ svastyayanaṃca // ManGS_1,16.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo gurustamarhayet // ManGS_1,16.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti ṣoḍaśaḥ khaṇḍaḥ //16//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ṣoḍaśaḥ khaṇḍaḥ"
+      ]
+    },
+    {
+      "chapter_num": 17,
+      "verse_count": 7,
+      "verse_groups": [
+        {
+          "lines": [
+            "putre jāte varaṃ dadāti // ManGS_1,17.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "araṇibhyāmagniṃ mathitvā tasminnāyuṣyahomāñ duhuyāt // ManGS_1,17.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnerāyurasītyanuvākena pratyṛcaṃ pratiparyāyamekaviṃśatimājyāhutīrjuhoti // ManGS_1,17.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ājyaśeṣe dadhimadhvapo hiraṇyaśakalenopahatya triḥ prāśāpayati // ManGS_1,17.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti prādeśenādhyadhi pratimukhaṃ pradakṣiṇaṃ sarvato 'bhyuddhiśati // ManGS_1,17.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iṣaṃ pinvorjaṃ pinveti stanau pradhāpayet // ManGS_1,17.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti saptadaśaḥ khaṇḍaḥ //17//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "saptadaśaḥ khaṇḍaḥ",
+        "aśmā bhava paraśurbhava hiraṇyamastṛtaṃ bhava",
+        "vedo vai putranāmāsi sajīva śaradaḥ śatam //"
+      ]
+    },
+    {
+      "chapter_num": 18,
+      "verse_count": 9,
+      "verse_groups": [
+        {
+          "lines": [
+            "daśamyāṃ rātryāṃ putrasya nāma dadhyād ghoṣavadādyantarantasthaṃ dvayakṣaraṃ caturakṣaraṃvā tryakṣaraṃ dāntaṃ kumārīṇām // ManGS_1,18.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tenābhivādayituṃ tyatkā piturnāmadheyaṃ yaśasyaṃ nāmadheyaṃ devatāśrayaṃ nakṣatrāśrayaṃ devatāyāśca pratyakṣam pratiṣiddham // ManGS_1,18.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "snātvā sahaputro 'bhyupaiti // ManGS_1,18.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "athainamabhibhṛśati-'agneṣṭvā tejasā sūryasya varcasā viśveṣāṃ tvā devānāṃ kratunābhibhṛśāmīti prakṣālitapāṇirnavanītenābhyājyāgnau pratāpya brāhmaṇāya procyabhibhṛsediti śrutiḥ // ManGS_1,18.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varaṃ kartre dadāti // ManGS_1,18.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti pravāsādetya putrasya mūrddhani japet // ManGS_1,18.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na madhumāṃse prāśnīyādāpaśubandhāt // ManGS_1,18.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃvatsare cājāvibhyāmagnidhanvantarī yajet // ManGS_1,18.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti aṣṭādaśaḥ khaṇḍaḥ //18//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "aṣṭādaśaḥ khaṇḍaḥ",
+        "aṅgādaṅgātsaṃbhavasi hṛdayādadhijāyase\nātmā vai putranāmāsi sa jīva śaradaḥ śatam //"
+      ]
+    },
+    {
+      "chapter_num": 19,
+      "verse_count": 7,
+      "verse_groups": [
+        {
+          "lines": [
+            "athādityadarśanam // ManGS_1,19.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "caturthe māsi payasi stālīpākaṃ śrapayitvā tasya juhoti // ManGS_1,19.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udagātpurastāddhaṃ saḥ śuciṣad yadedenamiti sūryasya juhoti // ManGS_1,19.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jahi me devadaurbhāgyaṃ saubhāgyena māṃ saṃyojayasva' /",
+            "--iti // ManGS_1,19.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atha brāhmaṇa tarpaṇam // ManGS_1,19. 5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ṛṣabho dakṣiṇā // ManGS_1,19.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityūnaviṃśaḥ khaṇḍaḥ //19//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ekonaviṃśaḥ khaṇḍaḥ",
+        "ādityaḥ śukra",
+        "udutyaṃ jātavedasamityetayopasthāyādityābhimukhaṃ darśayet--"
+      ]
+    },
+    {
+      "chapter_num": 20,
+      "verse_count": 7,
+      "verse_groups": [
+        {
+          "lines": [
+            "athānnaprāśanam // ManGS_1,20.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pañcame ṣaṣṭhe vā māsi payasi sthālīpākaṃ śrapayitvā snātamalaṅkṛtamahatena vāsasā pracchādyānnapate 'nnasya no dehīti hutvā hiraṇyena prāśayedannātparisruta ityṛcā // ManGS_1,20.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ratnasuvarṇopaskaraṇāyudhāni darśayet // ManGS_1,20.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadīcchettadupasaṃgṛhṇīyāt // ManGS_1,20.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato brāhmaṇa bhojanam // ManGS_1,20.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vāso dakṣiṇā // ManGS_1,20.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti viṃśaḥ khaṇḍaḥ //20//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "viṃśatitamaḥ khaṇḍaḥ"
+      ]
+    },
+    {
+      "chapter_num": 21,
+      "verse_count": 20,
+      "verse_groups": [
+        {
+          "lines": [
+            "udagayane jyautsne puṇye nakṣatre 'nyatra navābhyām // ManGS_1,21.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityuṣṇā apo 'bhimantrayate // ManGS_1,21.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityabhyundati // ManGS_1,21.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "oṣadhe trāyasvaināmiti dakṣiṇāsminkeśānte darbhamantardadhāti // ManGS_1,21.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svadhite mainaṃhisīriti kṣuraṇābhinidadhāti // ManGS_1,21.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yenāvapatsavitā kṣureṇa somasya rājño varuṇasya keśān /",
+            "tena brāhmaṇo vapatvāyuṣmānayaṃ jaradaṣṭhirastu //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena pūṣā bṛhaspaterindriyasya cāyuṣe 'vapat /",
+            "tena te vapāmyāyuṣe dīrdhāyutvāya jīvase //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena bhūyaścaratyayaṃ jyokca paśyati sūryaḥ /",
+            "tena te vapāmyāyuṣe suślokyāya svastaye //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti tisṛbhistriḥ pravapati // ManGS_1,21.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yatkṣureṇa vartayatā sutejasā vaptarvapasi keśān /",
+            "śundhi śiro māsyāyuḥ pramorṣīḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti lauhāyasaṃ kṣuraṃ keśāvāpāya prayacchati // ManGS_1,21.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mā te keśānanugādvarca etattathā dhātā dadhātu te /",
+            "tubhyamindro varuṇo bṛhaspatiḥ savitā varcā ādadhuḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti pravapato 'numantrayate // ManGS_1,21.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "suhṛtparigrāhaṃ haritagośakṛtpiṇḍe samavacinoti // ManGS_1,21.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "uptvāya keśānvaruṇāsya rājño bṛhaspatiḥ savitā viṣṇuragniḥ /",
+            "tebhyo nidhānaṃ mahataṃ na vidannantarā dyāvāpṛthivyorapasyuḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti prāgudīco hriyamāṇānanumantrayate // ManGS_1,21.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "arikte patnyā śleṣayediti śrutiḥ // ManGS_1,21.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varaṃ kartre dadāti pakṣmaguḍaṃ tilapiślaṃ ca keśavāpāya // ManGS_1,21.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena tu kalpena ṣoḍaśe varṣe godānamagniṃ vādhyeṣyamāṇasyāgnirgodāniko maitrāyaṇiriti śrutiḥ // ManGS_1,21.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityekaviṃśaḥ khaṇḍaḥ //21//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ekaviṃśatitamaḥ khaṇḍaḥ",
+        "tṛtīyasya varṣasya bhūyiṣṭe gate cūḍāḥ kārayet //",
+        "jayaprabhṛtirhutvā--"
+      ]
+    },
+    {
+      "chapter_num": 22,
+      "verse_count": 26,
+      "verse_groups": [
+        {
+          "lines": [
+            "saptame navame vopāyanam // ManGS_1,22.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ariṣṭāḥ saṃcaremahi svasti caratā diśaḥ /",
+            "svastyāgṛhebhyaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ityuptakeśena snātenāktenābhyaktenālaṃkṛtena yajñopavītinā sametya japati // ManGS_1,22.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityahataṃ vāsaḥparidhāpyānvārabhyādhārāvājyabhāgau hutvā-yaśeṣe dadhyānīya dadhikrāvṇo akāriṣamiti dadhi triḥ prāśnāti // ManGS_1,22.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ko nāmāsītyāha // ManGS_1,22.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasmai tvā paridadāmi /",
+            "bhagāya tvā paridadāmyaryamṇe tvā paridadāmi savitre tvā paridadāmi sarasvatyai tvā paridadāmīndrāgnibhyāṃ tvā paridadāmi viśvebhyastvā devebhyaḥ paridadāmisarvebhyastvā devebhyaḥ paridadāmīti paridadāti // ManGS_1,22.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahmaṇogranthirasi sa te mā visrasaditi hṛdayadeśamārabhya japati /",
+            "prāṇānāṃgranthirasīti prāṇadeśam // ManGS_1,22.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti mauñjīṃ pṛthivīṃ triguṇāṃ mekhalāmādatte // ManGS_1,22.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yuvāsuvāsā iti mekhalāṃ pradakṣiṇaṃ triḥ parivyayati // ManGS_1,22.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "puṃsa strīngranthīnbadhnāti // ManGS_1,22.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,22.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paśyema śaradaḥ śataṃ jīvema śaradaḥ śatam /",
+            "śṛṇuyāma śaradaḥ śataṃ prabravāma śaradaḥ śatam /",
+            "adīnāḥ syāma śaradaḥ śataṃ bhūyaśca śaradaḥ śatāt //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "yā medhāpsaraḥsu gandharveṣu ca yanmanaḥ /",
+            "daivī yā mānuṣī medhā sā māmāviśatāmihaiva //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,22.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ehyaśmānamātiṣṭhāśmeva tvaṃ sthiro bhava /",
+            "kṛṇvantu viśve devā āyuṣṭe śaradaḥ śatam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti dakṣiṇena pādenāśmānamāsthāpayati // ManGS_1,22.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paścādagnermahadupastīrya sūpasthalaṃ kṛtvā prāṅāsīnaḥ pratyaṅṅāsīnāyānuvācayati gāyatrīṃ sāvitrimapi hyeke triṣṭubhamapi hyeke jagatīmomityapatkā vyāhṛtibhiśca // ManGS_1,22.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāṃ triravagṛhṇīyāttāṃ dviravakṛtya tāṃ-sakṛtsamasyet pādaśor'dharcaśaḥ sarvāmantena // ManGS_1,22.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yattisṛṇāṃ prātaranvāha yad dvayoryadekasyāḥ saṃ vatsare dvādaśāhe ṣaḍahe tryahe vā tasmātsadyo 'nūcyeti śrutiḥ // ManGS_1,22.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varaṃ kartre dadāti kāṃsyaṃ vasanaṃ ca // ManGS_1,22.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yasya tu medhākāmaḥ syātpalāśaṃ navanītenābhyājya tasya cchāyāyāṃ vācayet-suśravaḥ suśravā asi /",
+            "yathā tvaṃ suśravaḥsuśravā asi evaṃ māṃ suśravaḥ sauśravaṃ kuru //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti // ManGS_1,22.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "a-teha vā ayameṣāṃ vedānāmekaṃ dvau trīn sarvānveti yamevaṃvidvāṃsamupanayatīti śrutiḥ // ManGS_1,22.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vyākhyātaṃ brahmacaryam // ManGS_1,22.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha bhaikṣaṃ carate mātaramevāgre yāścānyāḥ suhṛdo yāvatyo vā sannihitāḥ syuḥ // ManGS_1,22.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryāya bhaikṣamupakalpayate tenānujñāte bhuñjīteti śrutiḥ // ManGS_1,22.21 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "dvāviṃśaḥ khaṇḍaḥ",
+        "āgantrā samaganmahi prathamamartiṃ yuyotu naḥ /",
+        "athāsmai vāsaḥ prayacchati--"
+      ]
+    },
+    {
+      "chapter_num": 23,
+      "verse_count": 27,
+      "verse_groups": [
+        {
+          "lines": [
+            "atha dīkṣā cāturhaitukī saṃvatsaram // ManGS_1,23.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "caturhotṝnsvakarmaṇo juhuyāt saha ṣaḍḍhotrā saptahotāram // ManGS_1,23.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "antato vrataṃ pradāyādito dvāvanuvākāvanuvācayet // ManGS_1,23.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evamevoddīkṣāṃ juhuyāt // ManGS_1,23.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha dīkṣāgnikīdvādaśarātram // ManGS_1,23. 5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yuñjānaḥ prathamaṃ mana itiyaṣṭau hutvākūtamagniṃ prayuñjaṃ svāheti ṣaḍ juhoti viśvodevasya neturiti saptamīm // ManGS_1,23.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vrataṃ pradāyāditoṣaṣṭāvanuvākānanuvācayet // ManGS_1,23.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "triṣavaṇamudakamāharet triṃstrīnkumbhān // ManGS_1,23.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ekena vāsasāntarhitāyāṃ bhūmau śayīta bhasmani karīṣe sikatāsu vā // ManGS_1,23.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nodakamabhyaveyāt // ManGS_1,23.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samāpte ghṛtavatāpūpeneṣṭvā vātsaṃ prāvacayet // ManGS_1,23.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato ghṛtavadbhirapūpairbrāhmaṇān bhojayet // ManGS_1,23.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evamevoddīkṣāṃ juhuyāt // ManGS_1,23.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha dīkṣāśvamedhikī hvāhaśarātram // ManGS_1,23.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vaitasamidhmamupasamādhāya navamenānuvākena hutvā ṣaṣṭhenopasthāpya vrataṃ pradāyādita ekaviṃśatyanuvākānanuvācayet // ManGS_1,23.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "triṣavaṇamaśvasyaghāsamāharet trīṃ strīnpulān // ManGS_1,23.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ekena vāsasānantarhitāyāṃ bhūmau śayīta bhasmani karīṣe sikatāsu vā // ManGS_1,23.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yā oṣadhayaḥsamānyāyanti punantu mā pitaro 'gnermanvā iti caturbhiranuvākairapobhimantrya snānamācaret // ManGS_1,23.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evamevoddīkṣāṃ juhuyāt // ManGS_1,23.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śādaṃ dadbhiriti caturdaśānuvākānanuvācayet // ManGS_1,23.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rahasyamadhyeṣyamāṇaḥ pravargyam // ManGS_1,23.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ādeśe yathā purastādvyākhyātam // ManGS_1,23.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āditaḥ pañcaviṃśatyanuvākānanuvācayet // ManGS_1,23.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "traividyasamupanayanena vyākhyātam // ManGS_1,23.24 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āditastrīnanuvākānanuvācayet // ManGS_1,23.25 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vyākhyātāni vratāni vyākhyātāni vratāni // ManGS_1,23.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "uduttamaṃ varuṇapāśamiti mekhalāmunmuñcati // ManGS_1,23.27 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "trayoviṃśaḥ khaṇḍaḥ",
+        "iti maitrāyaṇīyamānavagṛhye trayoviṃśaḥ khaṇḍaḥ prathamaḥ puruṣaḥ samāptaḥ //"
+      ]
+    },
+    {
+      "chapter_num": 24,
+      "verse_count": 16,
+      "verse_groups": [
+        {
+          "lines": [
+            "(saptame navame vopāyanam //1//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āgantrā samaganmahī prathamamarttiṃ yuyotu naḥ /",
+            "ariṣṭāḥ saṃceramahi svasti caratādiśaḥ /",
+            "svastyāgrahebhyaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "ityuptakeśena snātenāktenābhyaktenālaṃkṛtena yajñopavītināsametya japati // 1-22--2) (athāsmaivāsaḥ prayacchati-"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "(iyaṃ duruktātparibādhamānā varṇaṃ purāṇaṃ punatīma āgāt /",
+            "prāṇāpānābhyāṃ balamābhajantī śivā devī subhage mekhale māriṣāma //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti //10//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti //11//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "(iti dakṣiṇena pādenāśmānamāsthāpayati //12//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paścādagnermahadupastīrya sūpasthalaṃ kṛtvā prāṅāsīnaḥ pratyaṅṅāsīnāyānuvācayati gāyatrīṃ sāvitrīmapi hyeke triṣṭubhamapi hyeke jagatīmomityuttkā vyāhṛtibhiśca //13//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāṃ triravagṛṅṇīyāttāṃ dviravakṛtya tāṃ sakṛtsamasyet pādaśor'dharcaśaḥ sarvāmantena //14//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yattisṛṇāṃ prātaranvāha yat dvayoryadekasyāḥ saṃvatsare dvādaśāhe ṣaḍahe tryahe (vā tasmātsadyo 'nūcyati śrutiḥ //15//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varaṃ kartre dadāti kāṃsyaṃ vasanaṃ ca //16//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evamahaṃ manuṣyāṇāṃ vedānāṃ nidhipo bhūyāsamiti //17//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "(adhīteha vā ayameṣāṃ vedānāmekaṃ dvau trīn sarvānveti yamenaṃ vidvāṃsamupanayatīti śrutiḥ //18//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vyākhyātaṃ brahmacaryam //19//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha bhaikṣaṃ carate mātaramevāgre yāścānyāḥ suhṛdo yāvatyo vā sannihitāḥ syuḥ //20//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryāya bhaikṣamupakalpayate tenānujñāto vā bhuñjīteti śrutiḥ //21//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "yā akṛntanyā atanvanyā āvanyā avāharan /",
+        "yāśca gnā devyo 'ntānabhito 'tatananta //",
+        "tāsvā devyo jarame saṃ vyayantvāyuṣmānidaṃ paridhatsva vāsaḥ //"
+      ]
+    },
+    {
+      "chapter_num": 25,
+      "verse_count": 18,
+      "verse_groups": [
+        {
+          "lines": [
+            "audvāhikaṃ pretapitā śālāgniṃkurvīta // ManGS_2,1.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anyatra tataḥ prete pitari prajvalanto 'gniṃ jāgarayeyuḥ parvaṇi jyaitsne puṇye nakṣatre 'nyatra navamyāḥ // ManGS_2,1.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "snātaḥ śucirahatavāsāḥ // ManGS_2,1.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vāgyatāvaraṇipāmi jāgṛtaḥ // ManGS_2,1.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avakāśe 'kṣatānyavānpiṣṭvā manthamāyautyanālambamikṣuśalākayā bahulam // ManGS_2,1.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti manthenāgnimavasiñcati // ManGS_2,1.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti kaṭe kṛtāyāṃ vāgniṃsamāropya prahiṇoti // ManGS_2,1.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityagnimādāya dakṣiṇā pratyagharanti // ManGS_2,1.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sahādhikaraṇairyanti // ManGS_2,1.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti sīsamupadhānyenyasyādhyadhi // ManGS_2,1.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhāmno dhāmna iti tisṛbhiḥ parogoṣṭhaṃ mārjayante // ManGS_2,1.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anapekṣamāṇāḥ pratyāyanti // ManGS_2,1.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mṛtyoḥ padāni lopayante yadetaddrāghīrya āyuḥ pratiraṃ dadhānaḥ /",
+            "āpyāyamānāḥ prajayā dhanena śuddhāḥ pūtā bhavantu yajñiyāsaḥ // ManGS_2,1.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti // ManGS_2,1.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnyāyatanamuddhatyāvokṣyāgnyādheyikyānpārthivānsaṃbhārānnirvapatyūṣasikatavarjam // ManGS_2,1.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "araṇibhyāmagniṃ mathitvā hiraṇyaśakalaṃ ca nyupya prāgudayādupasthakṛto bhūriti jvalantamādadhāti // ManGS_2,1.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gaurvāsaḥ kāṃsyaṃ ca dakṣiṇā // ManGS_2,1.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe prathamaḥ khaṇḍaḥ //1//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "dvitīyaḥ puruṣaḥ /",
+        "hiraṇyapāṇiṃ savitāraṃ vāyumindraṃ prajāpatim /",
+        "viśvāndevānaṅgiraso havāmahe"
+      ]
+    },
+    {
+      "chapter_num": 26,
+      "verse_count": 31,
+      "verse_groups": [
+        {
+          "lines": [
+            "prāgudañcaṃ lakṣaṇamuddhatyāvokṣya sthaṇḍilaṃ gomayenopalipyamaṇḍalaṃ caturasraṃvāgniṃ nirmathyābhimukhaṃ praṇayet // ManGS_2,2.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "darbhāṇāṃ pavitre mantravadutpādyāgneyaṃ sthālīpākaṃ śrapayati // ManGS_2,2.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pavitrāntarhite 'pa ānīya taṇḍulānopya mekṣaṇena pradakṣiṇaṃ paryāyuvañjīva taṇḍulaṃ śrapayati // ManGS_2,2.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ghṛtenānutpūtena navanītena votpūtena śṛtamabhidhāryottarata udvāsayati // ManGS_2,2.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "imaṃ stomamarhata ityagniṃ parisamuhya paryukṣya paristīrya paścādagnerekavaddarhistṛṇāti // ManGS_2,2.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udakprāktūlāndarbhānprakṛṣya dakṣiṇāṃ stathottarānagreṇāgniṃ dakṣiṇairuttarānavastṛṇāti // ManGS_2,2.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dakṣiṇatognerbrāhmaṇe saṃstṛṇātyaparaṃ yajamānāya paścārddhe patnyai // ManGS_2,2.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "uttarataḥ saṃstīrṇe pavitre sruksruvāvājyasthālīṃ prakṣālya saṃstīrṇe dve dve prayunakti // ManGS_2,2.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tūṣṇīṃ dakṣiṇata ājyaṃ nirūpya mantravatparyagniṃ kṛtvā tūṣṇīṃ sruksruvau saṃmṛjyādabdhena tvā cakṣuṣāvekṣa iti patnyājyāmavekṣate // ManGS_2,2.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tūṣṇīmadhiśrityopādhiśritya paścādagnerupasādya mantravadutpūyāvekṣate // ManGS_2,2.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tejosītyājyaṃ yajamāno 'vekṣate // ManGS_2,2.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ājyasthālyāṃ sruvaṃ nidhāyāgreṇa sthālīpākamanvāyātayatyapareṇa mekṣaṇam // ManGS_2,2.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tūṣṇīṃ prāñcamidhmamupasamādhāya brahmāṇamāmantrya oṃ juhudhītyukte dakṣiṇena hastenāntareṇa jānunī prāṅāsīna ādhārau juhoti prājāpatyamuttarārdhe prāñcaṃ manasā aindraṃ dakṣiṇārddhe prāñcameva // ManGS_2,2.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "athājyabhāgau juhotyāgneyamuttarārddhe saumyaṃ dakṣiṇārddhe samāvanakṣṇau // ManGS_2,2.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yukto vaha yadākūtamiti dvābhyāmagniṃ yojayitvā nakṣatramiṣṭvā nakṣatradevatāṃ yajettithiṃ tithidevatāmṛtamṛtudevatāṃ ca // ManGS_2,2.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "upastīryāpa upaspṛśya mekṣaṇena sthālīpākasyāvadyati madhyāt pūrvārddhād dvitīyaṃ paścārddhāttṛtīyaṃ yadi pañcāvadānasya // ManGS_2,2.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avattamabhidhārya sthālīpākaṃ pratyabhidhārayati // ManGS_2,2.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnaye svāheti madhye juhoti // ManGS_2,2.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo devānāmasīti raudrasya // ManGS_2,2.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayānhutvājāyasya sviṣṭakṛte samavadyatyuttarārddhātsakṛd dvimātram /",
+            "dvirvā yadi pañcāvadānasya // ManGS_2,2.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avattaṃ dvirabhidhārya nāta urdhvaṃsthālīpākaṃ pratyabhidhārayati // ManGS_2,2.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnaye sviṣṭakṛte svāhetyasaṃsaktamuttarārddhapūrvārddhe juhoti // ManGS_2,2.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ayāścāgne 'sītyetābhirjuhuyāt // ManGS_2,2.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vi te muñcāmi raśanāṃ vi raśmīnīti ca dutvā pavitre 'nu prahṛtyājyenābhijuhoti // ManGS_2,2.24 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "edho 'syedhīṣīmahīti samidhamādadhāti samidasi samedhiṣīmahīti dvitīyām // ManGS_2,2.25 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "apo adyānvacāriṣamityupatiṣṭhate // ManGS_2,2.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āpohiṣṭhīyābhirmārjayet // ManGS_2,2.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pūrṇapātraṃ dakṣiṇā // ManGS_2,2.28 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "barhinupraharati // ManGS_2,2.29 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena sthālīpākena sthālīpākāḥ sarve vyākhyātāḥ // ManGS_2,2.30 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe dvitīyaḥ khaṇḍaḥ //2//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "dvitīyaḥ khaṇḍaḥ",
+        "mekṣaṇaṃ darbhāṃścādhāyānumatibhyāṃvyāhṛtibhiśca tvaṃ no agne, sa tvaṃ no agne"
+      ]
+    },
+    {
+      "chapter_num": 27,
+      "verse_count": 15,
+      "verse_groups": [
+        {
+          "lines": [
+            "agnaye svāheti sāyaṃ juhoti prajāpataya iti dvitīyām // ManGS_2,3.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sūryāya svāheti prātaḥ prajāpataya iti dvitīyām // ManGS_2,3.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnīṣomīyaḥ sthālīpākaḥ paurṇamāsyāmaindrāgno 'māvāsyāyāmubhayatra cāgneyaḥ āgantuḥ pūrvaḥ paurṇamāsyāmuttaromāvāsyāyām // ManGS_2,3.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āśvayujyāṃ paurṇamāsyāṃ pratarnityeṣu sthālīpākeṣu sthālīpākamanvāyātayati // ManGS_2,3.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasyāgniṃrudraṃ paśupatimīśānaṃ tryambakaṃ śaradaṃ praṣātakaṃ gā iti yajati // ManGS_2,3.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dadhighṛtamiśraḥ praṣātakastasyā no mitrāvaruṇā pravāhaveti ca hutvāmbhaḥ sthāmbho vo bhakṣīyeti gāḥ prāśāpayati // ManGS_2,3.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avasṛṣṭāśca vaseyuḥ // ManGS_2,3.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "brāhmaṇān ghṛtavabhdojayet // ManGS_2,3.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nāniṣṭvāgrayaṇena navasyāśnīyāt // ManGS_2,3.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "parvaṇyāgrayaṇaṃ kurvīta vasante yavānāṃ śaradi vrīhīṇām // ManGS_2,3.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agrapākasya payasi sthālīpākaṃ śrapayitvā tasya juhoti sajūrdyāvāpṛthivībhyāṃ svāhā sajūḥ somāya svāheti // ManGS_2,3.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śaradi somāya śyāmākānāṃ vasanteveṇuyavānāmubhayatra vājyena // ManGS_2,3.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vatsaḥ prathamajo dakṣiṇā // ManGS_2,3.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "brāhmaṇa eva haviḥ śeṣaṃ bhujjīteti śrutiḥ // ManGS_2,3.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe tṛtīyaḥ khaṇḍaḥ //3//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "tṛtīyaḥ khaṇḍaḥ"
+      ]
+    },
+    {
+      "chapter_num": 28,
+      "verse_count": 14,
+      "verse_groups": [
+        {
+          "lines": [
+            "paśunā yakṣyamāṇaḥ pākayajñopacārāgnimupacarati // ManGS_2,4.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paśubandhavattūṣṇīmāvṛddevatāhomavarjam // ManGS_2,4. 2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prokṣyānumānyopapāyya paryagniṃ kṛtvā śāmitraṃ praṇīya vapāśrapaṇībhyāmudañcaṃ prakramamāṇamanvārabhante // ManGS_2,4.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃjñapyamānamavekṣate // ManGS_2,4.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vapāṃ juhoti // ManGS_2,4.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svāhā svaheti parivapyau // ManGS_2,4.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthālīpākamanvāyātayati samānadevataṃ paśunā // ManGS_2,4.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadhdhutāvājyabhāgau // ManGS_2,4.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aniruktaḥ sviṣṭakṛt // ManGS_2,4.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pāśubandhikānāmavadānānāṃ rasasyāvadāya daivataiḥ pracarya vasāhomaśeṣeṇa diśaḥ pratijayati yathā vājinena vanaspatimājyasya // ManGS_2,4.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayān hutvā tryaṅgāṇāṃ sviṣṭakṛte samavadyati // ManGS_2,4.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthālīpākena śeṣo vyākhyātaḥ // ManGS_2,4.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paśoḥ paśureva dakṣiṇā // ManGS_2,4.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuriṣe caturthaḥ khaṇḍaḥ //4//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "caturthaḥ khaṇḍaḥ",
+        "saṃjñaptaṃsnapayitvā yathādaivataṃ vapāmutkṛtya śrapayitvā'dhārāvājyabhāgau hutvā--jātavedo vapayā gaccha devāṃstvaṃhi hotā prathamo babhūva /\nghṛtasyāgne tanvā saṃbhava satyāḥ santu yajamānasya kāmāḥ svāhā /\niti"
+      ]
+    },
+    {
+      "chapter_num": 29,
+      "verse_count": 7,
+      "verse_groups": [
+        {
+          "lines": [
+            "raudraḥ śaradi śūlagavaḥ // ManGS_2,5.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāgudīcyāṃ diśi grāmasyā sakāśe niśi gavāṃ madhye taṣṭo yūpaḥ // ManGS_2,5.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāk sviṣṭakṛto 'ṣṭhau śoṇitapuṭān namaste rudramanyava iti prabhṛtibhiraṣṭabhiranuvākairdikṣvantardikṣu copaharet // ManGS_2,5.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nāśṛtaṃ grāmamāharet // ManGS_2,5.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śeṣaṃ bhūmau nikhanedapi carma // ManGS_2,5.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ayūpāneke pākayajñapaśūnāhuḥ // ManGS_2,5.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe pañcamaḥ khaṇḍaḥ //5//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "pañcamaḥ khaṇḍaḥ"
+      ]
+    },
+    {
+      "chapter_num": 30,
+      "verse_count": 10,
+      "verse_groups": [
+        {
+          "lines": [
+            "athāto dhruvāśvakalpaṃ vyākhyāsyāmaḥ // ManGS_2,6.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āśvayujyāṃ paurṇamāsyām // ManGS_2,6.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ṛtvigavyaṅgaḥ snātaḥ śucirahatavāsāḥ // ManGS_2,6.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "praṇīyāśvatthapalāśakhadirarohitakodumbarāṇāmanyatamasyedhmamupasasādhāya tisraḥ pradhānadevatā yajatyuccaiḥśravasaṃ varuṇaṃ viṣṇumiti sthālīpākaiḥ paśubhiścāśvinau cāśvayujau cājyasya // ManGS_2,6.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayān hutvā yā oṣadhayaḥ samannyāyanti punantu mā pitaro 'gnermanva iti caturbhiranuvākaurapo 'bhimantryāśvānsnapayati // ManGS_2,6.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gandhasnagdāmabhiralaṃkṛtya pradakṣiṇaṃ devayajanaṃ triḥ pariyanti // ManGS_2,6.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāharṣaṃ kārayanti // ManGS_2,6.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iṣṭe yathāsthānaṃ vrajanti // ManGS_2,6.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gauranaḍvāṃśca dakṣiṇā // ManGS_2,6.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe ṣaṣṭhaḥ khaṇḍaḥ //6//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ṣaṣṭhaḥ khaṇḍaḥ",
+        "prāgastamayānniṣkramyottarato grāmasya purastādvā śucau deśe 'śvatthasyādhastānnyagrodhasya vāpāṃ vā samīpe vedyakṛtiṃ kṛtvā tasyāṃ catuṣkoṇavanaspatiśākhāyāmasaktacīrāyāṃ gandhasragdāmavatyāṃ caturdiśaṃ vinyastodakummasahiraṇyabījapiṭikāyāmapūpasrastaralājollopikamaṅgalaphalākṣavatyāṃ sarvagandhasarvarasasarvauṣadhīḥ sarvaratnāni copakalpya pratisaradadhimadhumodakasvastikanandyāvartavatyāmagniṃ"
+      ]
+    },
+    {
+      "chapter_num": 31,
+      "verse_count": 16,
+      "verse_groups": [
+        {
+          "lines": [
+            "apaḥ śvetapadāgrāhi pūrveṇa cāpareṇa ca /",
+            "sapta ca vāruṇīrimāḥ prajāḥ sarvāśca rājabāndhavyaḥ svāhā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śveto ruṣatyo vidadhātyaśvo dadhadgarbhaṃ vṛṣaḥ satvaryāṃ jyok /",
+            "samaṃ janāścakramayo vasānāḥ proṣādasāvirasi viśvametat //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śetāya rauṣiśvāya svāhā, na vai śvetasyābhyācāre ahirjaghāna kiṃcana /",
+            "śvetāya vaitāhavyāya svāhā. //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti // ManGS_2,7.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "srastare 'hataṃ vāsa udagdaśamāstīryodakāṃ vrīhīn yavānvāsya pariṣiñcati syonā pṛthivī bhaveti dvābhyāṃ sutrāmāṇamiti dvābhyām // ManGS_2,7.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śamīśākhayā ca sapalāśayodañca triḥ samunmārṣṭi syonā pṛthivī bhaveti dvābhyāṃ sūtramāṇamiti dvābhyāṃ namo astu sarpebhya iti tisṛbhiśca // ManGS_2,7.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti jyeṣṭha prathamānudīca āveśayati // ManGS_2,7.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udīrghaṃ jīvo asurna āgādayaḥ prāgāttama ājyotireti /",
+            "āraikapanthāṃ yātave sūryā-yāganmā yatna prataraṃ na āyuḥ /",
+            "iti kaniṣṭhaprathamānujjihate // ManGS_2,7.5 //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "caitryāmudgroṇam // ManGS_2,7.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na tatra stālīpāko na śākhayā samunmārṣṭi // ManGS_2,7.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ayaṃ talpaḥ prataraṇo vasūnāṃ viśvārtvibhya(?) talpo asmān /",
+            "jyog jīvema sarvavīrā vayaṃ tama //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti talpamabhimantryate // ManGS_2,7.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "trāṇi nābhyāni phālgunyāmāṣāḍhyāṃ kārtikyām // ManGS_2,7.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāsu nādhīyīta // ManGS_2,7.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāsu payasi sthālīpākaḥ sa vyākhyātaḥ // ManGS_2,7.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe saptamaḥ khaṇḍaḥ //7//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "saptamaḥ khaṇḍaḥ",
+        "āgrahāyaṇyāṃ paurṇamāsyāṃ payasi sthālīpākaṃ śrapayitvā tasya juhoti--",
+        "abhayaṃ naḥ prājāpatyebhyo bhūyāt svāhā //"
+      ]
+    },
+    {
+      "chapter_num": 32,
+      "verse_count": 15,
+      "verse_groups": [
+        {
+          "lines": [
+            "tisro 'ṣṭakāḥ // ManGS_2,8.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ūrdhvamāgrahāyaṇyāḥ prāk phālgunyāstamiśrāṇāmaṣṭamyaḥ // ManGS_2,8.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāsu nādhīyīta // ManGS_2,8.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yā devyaṣṭakeṣvapasāpastamāstapā avayā asi /",
+            "tvaṃ yajñe varuṇasyāvayā asi tasyai ta enā vidhema //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yāṃ janāḥ pratinandanti rātrīṃ dhenumivāyatīm /",
+            "saṃvatsarasya yā patnī sā no astu sumaṅgalī //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃvatsarasya pratimāṃ ye tvā rātrīmupāsate /",
+            "teṣāmāyuṣmatīṃ prajāṃrāyaspoṣeṇa saṃsṛjasva //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti catasraḥ sthālīpākasya // ManGS_2,8.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svādeti sarvatrānuṣajati // ManGS_2,8.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śāntā pṛthivī śivamantarikṣaṃ dyaur no devyabhayaṃ kṛṇotu /",
+            "śivā diśaḥ pradiśa ādiśo na āpo vidyutaḥ paripāntvāyuḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āpo marīcīḥ paripāntu viśvato dhātā samudro abhayaṃ kṛṇotu /",
+            "bhūtaṃ bhaviṣyaduta bhadramastu me brahmabhigūrttaṃ svarākṣāṇaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kaviragnirindraḥ somaḥ sūryo vāyurastu me agnirvaiśvānaro apahantu pāpam /",
+            "bṛhaspatiḥ savitā śarma yacchatu śriyaṃ virājaṃ mayi pūṣā dadhātu //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti pañacājyasya // ManGS_2,8.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayānhutveḍāmagna iti sviṣṭakṛditi // ManGS_2,8.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "evaṃ sarvāsu // ManGS_2,8.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe 'ṣṭamaḥ khaṇḍaḥ //8//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "aṣṭamaḥ khaṇḍaḥ",
+        "tāsu payasi sthālīpākaṃ śrapayitvā tasya juhoti--",
+        "ulūkhalā grāvāṇo ghoṣamakurvata haviḥ kṛṇvantaḥ parivatsarīyam"
+      ]
+    },
+    {
+      "chapter_num": 33,
+      "verse_count": 15,
+      "verse_groups": [
+        {
+          "lines": [
+            "uttamāyāḥ pradoṣe catuṣpathe 'ṅgaśo gāṃ kārayet // ManGS_2,9.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo ya āgacchettasmai tasmai dadyāt // ManGS_2,9.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śvo 'nyāṃ kārayet // ManGS_2,9.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vaha vapāṃ jātavedaḥ pitṛbhyo yatraitānvettha nihitānparāke medaso ghṛtasya kulyā abhiniḥsravantu satyāḥ santu yajamānasya kāmāḥ svāhā /",
+            "iti // ManGS_2,9.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "athāsyā vakṣasā udagodanaṃ śrapayati // ManGS_2,9.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasyāṣṭakāhomakalpena śeṣo vyākhyātaḥ // ManGS_2,9.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avaśiṣṭaṃ bhaktaṃ randhayati // ManGS_2,9.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śvo 'vaśiṣṭaṃ bhaktaṃ randhayitvā piṇḍānāmāvṛtā trīnmāṃsaudanapiṇḍānnidadhāti // ManGS_2,9.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrāddhamaparapakṣe pitṛbhyo dadyāt // ManGS_2,9.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anuguptamannaṃ brāhmaṇān bhojayen nāvedavidbhuñjīteti śrutiḥ // ManGS_2,9.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadi gavā paśunā vā kurvīta prokṣaṇamupapāyanaṃ paryagnikaraṇamulmukaharaṇaṃ vapāhomamiti // ManGS_2,9.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "traidhaṃ vapāṃ juhuyāt sthālīpākamavadānāni ca // ManGS_2,9.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "juhoti yamāyāṅgirasvate pitṛmate svadhā nama iti dvitīyām /",
+            "agnaye kāvyavāhanāya svadhā nama iti tṛtīyām // ManGS_2,9.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evaṃ māsi māsi niyataṃ tantraṃ piṇḍapitṛyajñe // ManGS_2,9.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīye navamaḥ khaṇḍaḥ //9//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "navamaḥ khaṇḍaḥ",
+        "tasyāvapāṃ juhuyāt--",
+        "somāya pitṛmate svadhā nama iti"
+      ]
+    },
+    {
+      "chapter_num": 34,
+      "verse_count": 9,
+      "verse_groups": [
+        {
+          "lines": [
+            "phālgunyāṃ paurṇamāsyāṃ purastāddhānāpūpābhyāṃ bhagaṃ cāryamaṇaṃca yajet // ManGS_2,10.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "indrāṇyā haviṣyān piṣṭvā piṣṭāni samutpūya yāvanti paśujātāni tāvato mithunān pratirūpān śrapayitvā kāṃsye 'dhyājyānkṛtvā tenaiva rudrāya svāheti /",
+            "īśānāyetyeke // ManGS_2,10.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sāyamapūpābhyāṃ pracaratyagnīndrābhyām // ManGS_2,10.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āgneyastundilo na tasya striyaḥ prāśnanti sarvāmātyā itarasya // ManGS_2,10.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthālīpākenendrāṇīṃ śavo vā // ManGS_2,10.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃgheṣvekavadbarhiragnirādhārājyabhāgājyāhutayaḥ sviṣṭakṛcca // ManGS_2,10.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnirindraḥ somaḥ sītā savitāsarasvatyaścinānumatī revatī rākā pūṣā rudra ityetairāyojana- paryayana-pravapana-pralava-sītāyajña-khalayajñatantīyajñānaḍudyajñeṣvetā devatā iti yajati sāṃvatsareṣu ca parvasu // ManGS_2,10.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nadyudadhikūpataḍāgeṣu varuṇaṃyajatyoṣadhivanaspatiṣu somamanādiṣṭadevateṣvagnim // ManGS_2,10.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīye daśamaḥ khaṇḍaḥ //10//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "daśamaḥ khaṇḍaḥ"
+      ]
+    },
+    {
+      "chapter_num": 35,
+      "verse_count": 22,
+      "verse_groups": [
+        {
+          "lines": [
+            "avasānaṃ samaṃ samūlam // ManGS_2,11.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dakṣiṇāpravaṇamannakāmasya mārukāstatra prajā bhavanti // ManGS_2,11.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvataḥ samavasrāvam // ManGS_2,11.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samavasrutya vā yasmātprāgudīcīrāpo nirvaheyustadvā // ManGS_2,11.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gartaṃ khātvā yattaiḥ pāṃsubhiḥ pratipūryeta tadvā // ManGS_2,11.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadi dhārayiṣṇūdakataraṃ syāt // ManGS_2,11.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "idamahaṃ viśamannādyāya tejase brahmavarcasāya parigṛhṇāmīti veśma parigṛhya garte hiraṇya nidhāyācyutāya dhruvāya bhaumāya svāheti juhoti // ManGS_2,11.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samīcīnāmāsīti paryāyairupatiṣṭhate pratidiśaṃ dvābhyāṃ madhye // ManGS_2,11.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sutramāṇāmiti dvābhyām // ManGS_2,11.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śamīśākhayā ca palāśayodañcaṃ triḥ samunmārṣṭi syonā prathivi bhaveti dvābhyāṃ sutramāṇamiti dvābhyāṃ namo astu sarpebhya iti tisṛbhiśca // ManGS_2,11.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "idaṃ tat sarvato bhadramayamūrjo 'yaṃ rasaḥ /",
+            "prāpyaivaṃ mānuṣānkāmānyadaśīrṣṇī tallapsyasi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti madhyamāṃ sthūṇāmāsicya garta āsiñcati // ManGS_2,11.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti madhyamāṃ sthūṇāmabhi mantryate // ManGS_2,11.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vasūnāṃ tvā vasuvīryasyāhorātrayośceti garte sthūṇāmavadadhāti // ManGS_2,11.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti madhyamaṃ vaṃ śamavadadāti // ManGS_2,11.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tūṣṇīṃ śiṣṭāḥ sthūṇā vaṃśāśca // ManGS_2,11.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāgdvāraṃ dakṣiṇādvāraṃ vā māpayitvā gṛhānahaṃ sumanasaḥ prapadye vīraṃ hītyetayā prapadyate yathā purastādvyākhyātam // ManGS_2,11.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ityuttarapūrvasyāṃ diśi pratipānamudakumbhamavasthāpayati // ManGS_2,11.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samudraṃ vaḥ prahiṇomi svāṃyonimabhigacchata",
+            "ariṣṭā asmākaṃ vīrā mā parāseci matpayaḥ /",
+            "ityudañcanam // ManGS_2,11.18 //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "iti // ManGS_2,11.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayaprabhṛtisamānam // ManGS_2,11.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīya ekādaśaḥ khaṇḍaḥ //11//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ekādaśaḥ khaṇḍaḥ",
+        "udakāṃsye 'śmānaṃ vrīhīnyavānvasya pariṣiñcati syonāpṛthivī bhaveti dvābhyāṃ",
+        "ihaiva tiṣṭha nitarā tilvalā sthirāvati /\nmadhye poṣasya puṣpatāmā tvā parisṛtaḥ kumbhaḥ /"
+      ]
+    },
+    {
+      "chapter_num": 36,
+      "verse_count": 22,
+      "verse_groups": [
+        {
+          "lines": [
+            "vaiśvadevasya siddhasya sāyaṃ prātarbaliṃ haret // ManGS_2,12.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnīṣomau dhanvantariṃ viśvāndevānprajāpatimagniṃ sviṣṭakṛtamityevaṃ homo vidhīyate // ManGS_2,12.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha baliṃ haratyagnaye namaḥ somāya dhanvantaraye viśvebhyo devebhyaḥ prajāpataye agnaye sviṣṭakṛta ityagnyāgāra uttarāmuttarām // ManGS_2,12.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "abhdya ityudakumbhasakāśe // ManGS_2,12.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "oṣadhibhya ityoṣadhibhyo vanaspatibhya iti gṛhamadhyamāyāṃ sthūṇāyām // ManGS_2,12.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gṛhyābhyo devatābhya iti gṛhamadhye // ManGS_2,12.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dharmāyādharmāyeti dvāre // ManGS_2,12.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mṛtyava ākāśāyetyākāśe // ManGS_2,12.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "antargoṣṭhāyetyantargoṣṭhe // ManGS_2,12.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "barhivaiśravaṇāyeti bahiḥ prācīm // ManGS_2,12.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśvebhyo devebhya iti veśmani // ManGS_2,12.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "indrāyendrapuruṣebhya iti purastāt // ManGS_2,12.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yamāya yamapuruṣebhya iti dakṣiṇataḥ // ManGS_2,12.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varuṇāya varuṇapuruṣebhya iti paścāt // ManGS_2,12.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "somāya somapuruṣebhya ityuttarataḥ // ManGS_2,12.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "brahmaṇe brahmapuruṣebhya iti madhye // ManGS_2,12.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prācīmāpātikebhyaḥ sampātikebhya ṛkṣebhyo yakṣebhyaḥ pipīlikābhyaḥ piśācebhyo 'psarobhyo gandharvebhyo guhyakebhyaḥ śailebhyaḥ pannagebhyaḥ // ManGS_2,12.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "divācāribhyo bhūtebhya iti divā naktaṃ cāribhyo bhūtebhya iti naktam // ManGS_2,12.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhanvantaraye dhanvantaritarpaṇam // ManGS_2,12.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "adbhiḥ saṃsṛjya pitṛbhyaḥ svadheti śeṣaṃ dakṣiṇā bhūmau ninayet // ManGS_2,12.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pāṇī prakṣālyācamyātithiṃ bhojayitvāvaśiṣṭasyāśnīyāt // ManGS_2,12.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe dvādaśaḥ khaṇḍaḥ //12//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "dvādaśaḥ khaṇḍaḥ"
+      ]
+    },
+    {
+      "chapter_num": 37,
+      "verse_count": 14,
+      "verse_groups": [
+        {
+          "lines": [
+            "athātaḥ ṣaṣṭhīkalpaṃ vyākhyāsyāmaḥ // ManGS_2,13.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śuklapakṣasya pañcabhyāṃ pratyaṅmukho haviṣyamannamaśrīta // ManGS_2,13.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "adhaḥ śayīta darbheṣu śālīpalāleṣu vā prākśirā brahmacārī // ManGS_2,13.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śvobhūta udita āditye snānaṃ pānaṃ bhojanamanulepanaṃ srajo vāsāṃsi na pratyācakṣīta // ManGS_2,13.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yāvaddadyāttāvadaśnīyādyadyaddadyāttadaśnīyādanyatrāmedhya--pātakibhyo 'bhiniviṣṭakavarjanam // ManGS_2,13.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "astamita āditye payasi sthālīpākaṃ śrapayitvāthaitairnāmadheyairjuhoti",
+            "dhanadāṃ vasumīśānāṃ kāmadāṃ sarvakāminām",
+            "puṇyāṃ yaśasvinīṃ devīṃ ṣaṣṭhīṃ śakra juṣasva me //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "aśvapūrṇāṃ rathamadhyāṃ hastinādapramodinīm /",
+            "śriyaṃ devīmupavhaye śrīrmādevī juṣatām //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upayantu māṃ devagaṇāstyā(nā)gāśca tapasā saha /",
+            "prādurbhūto 'smi rāṣṭre 'smin śrīḥ śraddhāṃ (kīrtiṃ vṛddhiṃ ga. ca.) dadhātu me //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śriyai svāhā, hriyai svāhā, lakṣmyai svāhā, upalakṣmyai svāhā, nanhāyai svāhā, haridrāyai svāhā, ṣaṣṭhyai svāhā, samṛddhyai svāhā, jayāyai svāhā, kāmāyai svāheti // ManGS_2,13.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayaprabhṛti samānam // ManGS_2,13.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ṣaṇmāsānprayuñjīta trīnvobhayataḥ pakṣān // ManGS_2,13.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śatasāhasrasaṃyoga ekavaro vā // ManGS_2,13.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gairanaḍvāṃśca dakṣiṇā // ManGS_2,13.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīye trayodaśaḥ khaṇḍaḥ //13//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "trayodaśaḥ khaṇḍaḥ",
+        "nandī bhūtiśca lakṣmīścādityā ca yaśasvinī\nsumanā vāk ca siddhiśca ṣaṣṭhī me diśatāṃ dhanam //",
+        "putrānpaśūndhanaṃ dhānyaṃ bahvaścājagaveḍakam\nmanasā yatpraṇītaṃ ca tanme diśatu havyabhuk //"
+      ]
+    },
+    {
+      "chapter_num": 38,
+      "verse_count": 35,
+      "verse_groups": [
+        {
+          "lines": [
+            "athāto vināyakānvayākhyāsyāmaḥ // ManGS_2,14.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śālakaṭaṅkaṭaśca kūṣmāṇḍarājaputraścosmitaśca devayajanaśceti // ManGS_2,14.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etairadhigatānāmimāni rupāṇi bhavanti // ManGS_2,14.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "loṣṭhaṃ mṛdgāti // ManGS_2,14.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tṛṇāni cchinatti // ManGS_2,14.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aṅgeṣu lekhān likhati // ManGS_2,14.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "apasvapnaṃ paśyati // ManGS_2,14.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "muṇḍān paśyati // ManGS_2,14.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jaṭilān paśyati // ManGS_2,14.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāṣāyavāsasaḥ paśyati // ManGS_2,14.10 // /"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "uṣṭrānsūkarān gardabhāndivākīrtyādīnanyāṃścāprayatānsvapnānpaśyati // ManGS_2,14.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "antarikṣaṃ krāmati // ManGS_2,14.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "adhvānaṃ vrajanmanyate pṛṣṭhato me kaścidanuvrajati // ManGS_2,14.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etaiḥ khaluvināyakairāviṣṭā rājaputrā lakṣaṇavanto rājyaṃ na labhante // ManGS_2,14.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kanyāḥ patikāmā lakṣaṇavatyo bhartṝnna labhante // ManGS_2,14.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "striyaḥ prajākāmā lakṣaṇavatyaḥ prajāṃ na labhante // ManGS_2,14.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "strīṇāmācāravatīnāmapatyāni mriyante // ManGS_2,14.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrotriyo 'dhyāpaka ācāryatvaṃ na prāpnoti // ManGS_2,14.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "adhyetṝṇāmadhyayane mahāvighnāni bhavanti // ManGS_2,14. 19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vaṇijāṃ vaṇikpatho vinaśyati // ManGS_2,14.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṛṣikarāṇāṃ kṛṣiralpaphasā bhavati // ManGS_2,14.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "teṣāṃ prāyaścittam // ManGS_2,14.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mṛgākharakulāyamṛttikārocanā guggulāḥ // ManGS_2,14.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "caturbhyaḥ prasravaṇebhyaścaturudakumbhānavyaṅgānāharet // ManGS_2,14.24 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvagandhasarvarasasarvauṣadhīḥ sarvaratnāni copakalpaya pratisaradadhimadhughṛtamiti // ManGS_2,14.25 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sahasrākṣaṃ śatadhāramṛṣibhiḥ pāvanaṃ kṛtam /",
+            "tābhiṣṭvābhiṣiñcāmi pāvamānīḥ punantu tvā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti // ManGS_2,14.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "adhista--- niśāyāṃ sadyaḥ pīḍitasarṣapatailamamaudumbareṇa sruveṇa --- catasra āhutirjuhoti (oṃ) śālakaṭaṅkaṭāya sva-- kūṣmāḍarājaputrāya svāhā, usmitāya svāhā, devayajanāyā svāheti // ManGS_2,14.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ata ūrdhvaṃ grāmacatuṣpathe nagaracatuṣpathe nigamacatuṣpathe sarvatomukhāndarbhānāstīrya nave śūrpe balimupaharati phalīkṛtāṃstaṇḍulānaphalīkṛtāṃstaṇḍulānāmaṃ māṃsaṃ pakvaṃ māṃsamāmānmatsyānpakvānmatsyān āmānapūpānpakvānapūpānpiṣṭāngandhānapiṣṭāngandhā---- madhupānaṃ maireyapānaṃ surāpānaṃ muktaṃ mālyaṃ grathithaṃ mālyaṃ raktaṃ mālyaṃ śuklaṃ mālyaṃ raktapītaśuklakṛṣṇanīlaharitacitravāsāṃsi mākalmāṣamūlabhalamiti // ManGS_2,14.28 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha devānāmāvāhanaṃ vimukhaḥ śeyeno bako yakṣaḥ kalaho bhīrurvināyakaḥ kūṣmāṇḍarā---- yajñāvikṣepī kulaṅgāpamāro yūpakeśī sūparakroḍī haimavato, jambhako virūpākṣo lohitākṣo vaiśravaṇo mahāseno mahādevo mahārāja iti /",
+            "ete me devāḥ prīyantāṃ prītā māṃ prīṇayantu tṛptā māṃ tarpayantviti // ManGS_2,14.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhiṣṭhiter'ddharātra ācāryo grahānupatiṣṭhate /",
+            "bhagavati bhagaṃ me dedi, varṇavati varṇaṃ me dehi, rūpavati rūpaṃ me dehi, tejasvini tejo me dehi, yaśasvini yaśo me dehi, putravati putrānme dehi, sarvavati sarvānkāmānme pradehīti // ManGS_2,14.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti // ManGS_2,14.31 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atha brāhmaṇatarpaṇam // ManGS_2,14.32 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ṛṣabo dakṣiṇā // ManGS_2,14.33 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīye caturdaśaḥ khaṇḍaḥ //14//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "caturdaśaḥ khaṇḍaḥ",
+        "etān saṃbhārānsaṃsṛjya ṛṣabhacarmāruhyāthainaṃ--",
+        "agninā dattā, indreṇa dattā, somena dattā, varuṇena dattā, vāyunā dattā,viṣṇunā dattā bṛhaspatinā dattā, viśvairdevairdattaḥ, sarvairdevairdattā oṣadhaya āpo varuṇasaṃmitāstābhiṣṭvābhiṣiñcāmi pāvamānīḥ punantu tveti"
+      ]
+    },
+    {
+      "chapter_num": 39,
+      "verse_count": 14,
+      "verse_groups": [
+        {
+          "lines": [
+            "bodhaśca mā pratibodhaśca purastādgopāyatām /",
+            "asvapnaśca mānavadrāṇaśca dakṣiṇato gopāyatām //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gopāyamānaṃ ca māṃ rakṣamāṇaṃ ca paścād gopāyatām /",
+            "jāgṛviśca mārundhatī cottarato gopāyatām //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣṇuśca me pṛthivī ca nāgāścādhastādgopāyatām /",
+            "bṛhaspatayaśca me viśve ca me devā dyauścopariṣṭhādgopāyatām // ManGS_2,15.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evaṃ yasmiṃścotpanne 'narthān śaṅketa // ManGS_2,15.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vyāhṛtibhistilān hutvā tapaḥ pratipadyeta dvādaśarātraṃ ṣaḍrātraṃ trirātramokarātraṃ vā // ManGS_2,15.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadi samutpātaṃ manyeta tadvā // ManGS_2,15.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadi parvasu mārtikaṃ bhidyate pārthivamāsi pṛthivīṃ dṛṃhasva yoniṃ gaccha svāhetyapsu praharet // ManGS_2,15.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svasti no mimītāmāśvinā bhagaḥ svasti devyaditiranarvaṇaḥ /",
+            "svasti pūṣā asuro dadhātu naḥ svastidyāvāpṛthivī sucetunā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svastaye vāyumupabravāmahai somaṃ svasti bhuvanasya yaspatiḥ /",
+            "bṛhaspatiṃ sarvagaṇaṃ svastaye svastaya ādityāso bhavantu naḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśve devā no adyā svastaye vaiśvānaro vasurāgniḥ svastaye /",
+            "devā avantvṛbhavaḥ svastaye svasti no rudraḥ pātvaṃhasaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svasti naḥ paśyāsu dhanvasu svastyapsu vrajane svarvataḥ /",
+            "svasti naḥ pathyākṛteṣu yoniṣu svasti rāye manuto dadhātu naḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "trātāramindraṃ, mā te asyāṃ, vina indra, mṛgo na bhīmastaṃ, śaṃyorāvṛṇīmaha iti daśāhutayaḥ // ManGS_2,15.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayaprabhṛti samānam // ManGS_2,15.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīye puruṣe pañcadaśaḥ khaṇḍaḥ //15//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "pañcadaśaḥ khaṇḍaḥ",
+        "yadi duḥsvapnaṃ paśyedvyāhṛtibhistilān hutvā diśā upatiṣṭhet /",
+        "yadyarcā dahyedvā naśyedvā prapatedvā prabhajedvā prahasedvā pracaledvā, sthālyā vā sthālīmāsicya dakṣiṇottarā vā sthālī bhidyetottarā vopalāśe niyamya dvāravaṃśo vā sphuṭet /\ngaur vā gāṃ dhayet, strī vā striyamāhanyāt, kartasaṃsarge , halasaṃsarge, musalaprapatane, musalaṃvāvaśīryetānyasmiṃścādbhuta etābhirjuhuyāt--"
+      ]
+    },
+    {
+      "chapter_num": 40,
+      "verse_count": 8,
+      "verse_groups": [
+        {
+          "lines": [
+            "sarpebhyo bibhyat śrāvaṇyāṃ tūṣaṇīṃ bhaumamekakapālaṃśrapayitvākṣatasaktūn piṣṭvā svakṛta iriṇe darbhānāstīryācyutāya dhruvāya bhaumāya svāheti juhoti // ManGS_2,16.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samīci nāmāsīti paryāyairupatiṣṭhate pratidiśaṃ dvābhyāṃ madhye // ManGS_2,16.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "māno agne visṛjo adhāyā viṣyave ripave ducchunāyai /",
+            "mā datvate daśate mādate no mā rīṣate sahasāvanparādāḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namo astu sarpebhya iti tisṛbhiśca // ManGS_2,16.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhruvāmuṃ te paridadāmīti sarvāmātyānnāmagrāhamātmānaṃ ca // ManGS_2,16.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena dharmeṇa caturo māsānsarpabaliṃhṛtvā viramati // ManGS_2,16.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tūṣṇīmapi kṣudrā prakṣālitapāṇiḥ // ManGS_2,16.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīye ṣoḍaśaḥ khaṇḍaḥ //16//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "ṣoḍaśaḥ khaṇḍaḥ",
+        "akṣatasaktūnāṃ sarpabaliṃ harati īśānāyetyeke",
+        "sarpo 'si sarpāṇāmadhipatistvayi sarve sarpāḥ /"
+      ]
+    },
+    {
+      "chapter_num": 41,
+      "verse_count": 11,
+      "verse_groups": [
+        {
+          "lines": [
+            "hetiḥ pakṣiṇī na dabhātyasmānāṣṭyāṃ padaṃ kṛṇute agnidhāne /",
+            "saṃ no gobhyaśca puruṣebhyaścāstu māno hiṃsīdiha devāḥ kapotaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadulūko vadati moghametadyatkapotaḥ padamagnau kṛṇoti /",
+            "yasya dūtaḥ prahita eṣa etattasmai yamāya namo astu mṛtyave //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛcā kapotaṃ nudata pramodamiṣaṃ madantaḥ pari gāṃ nayadhvam /",
+            "saṃyopayanto duritāni viśvā hitvā na ūrjaṃ prapatātpatiṣṭhaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti // ManGS_2,17.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "padamādāya dakṣiṇā pratyag haranti // ManGS_2,17.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sahādhikaraṇairyanti // ManGS_2,17.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svakṛta iriṇe padaṃ nyasyādhyadhi // ManGS_2,17.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhāmno dhāmna iti tisṛbhiḥ parogoṣṭhaṃ mārajayante // ManGS_2,17.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anapekṣamāṇāḥ pratyāyanti // ManGS_2,17.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agna āyūṃṣi pavase agnirṛṣiragne pavasveti pratyetya japanti // ManGS_2,17.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti dvitīye saptadaśaḥ khaṇḍaḥ //17//"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "saptadaśaḥ khaṇḍaḥ",
+        "ayūthike bhayārtte kapote gṛhān praviṣṭe tasyājnau padaṃ dṛśyeta dadhāni sakatuṣu ghṛte vā devāḥ kapota iti pratyṛcaṃ japejjuhuyādvā devāḥ kapota iṣito yadicchandūto nirṛtyā idamājagāma /",
+        "tasmā arcāma kṛṣṇavāma niṣkṛtiṃ śaṃ no astu dvipade śaṃ catuṣpade //"
+      ]
+    },
+    {
+      "chapter_num": 42,
+      "verse_count": 19,
+      "verse_groups": [
+        {
+          "lines": [
+            "ṣaḍāhutaṃ pratipadi putrakāmaḥ // ManGS_2,18.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yaste garbhamamī vā durṇāmā yonimāśaye /",
+            "agniṣṭhaṃ brahmaṇā saha niṣkramyādamanīnaśat //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaste hantī patayantaṃ niṣatsnuṃ yaḥ sarīsṛpam /",
+            "jātaṃ yaste jighāṃsati tamito nāśayāmasi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yastvā svapnena tamasā mohayitvā nipadyate /",
+            "prajāṃyaste jighāṃsati tamito nāśayāmasi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye te ghnantyapso gandharvā goṣṭhāśca ye /",
+            "kravyādaṃsura devinaṃ tamito nāśayāmasi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasta ūru viharatyantarā dampatī śaye /",
+            "yoniṃ yo antarāreḍhi tamito nāśayāmasi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "abhinnāṇḍā vṛddhagarbhā ariṣṭhā jīvasūkarī /",
+            "vijāyatāṃ prajāyatāmiyaṃ bhavatu tokinī //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣṇuryoniṃ kalpayatu tvaṣṭā rūpāṇi piṃśatu /",
+            "āsiñcatu prajāpatirdhātā garbhaṃ dadhātu te //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "garbhaṃ dhehi sītīvāli garbhaṃ dhehi sarasvati /",
+            "garbhaṃ te aśvinau devāvādhattāṃ puṣkarasrajā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇyayī araṇīyaṃ nirmanthato aśvinā /",
+            "taṃ te garbhaṃ havāmahe daśame māsi sūtave //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "paraṃ mṛtyo anuparehi panthāṃ yaste sva itaro devayānāt /",
+            "cakṣuṣmate śṛṇavate te bravīmi mānaḥ prajāṃ rīriṣo mota vīrān //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti dvādaśagarbhavedinyaḥ ṣaḍādyāḥ sthālīpākasya ṣaḍutarā ājyasya // ManGS_2,18.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jayaprabhṛti samānam // ManGS_2,18.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nejameṣa parāpata suputraḥ punarāpata /",
+            "asyai me putrakāmāyai punarādhehi yaḥ pumān //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yatheyaṃ pṛthivī mahyamuttānā garbhamādadhe /",
+            "evaṃ taṃ garbhamādhehi daśame māsi sūtave //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣṇoḥ śreṣṭhena rupeṇāsyāṃ nāryāṃ gavīnyām /",
+            "pumāṃsaṃ putramādhehi daśame māsi sūtave //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pākayajñānsamāsādya ekājyāmekabahirṣi /",
+            "ekaṃ sviṣṭakṛtaṃ puryannānā satyapi daivate nānā satyapi daivate // ManGS_2,18.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti dvitīyapuruṣe 'ṣṭādaśaḥ khaṇḍaḥ //18//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti maitrāyaṇīyamānavagṛhyasūtre dvitīyapuruṣākhyo bhāgaḥ /",
+            "sūtraṃ ca samāptam //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "aṣṭādaśaḥ śaṇḍaḥ",
+        "payasi sthālīpākaṃ śrapayitvā tasya juhoti--",
+        "brahmaṇāgniḥ saṃvidāno rakṣohā bādhātāmitaḥ /\namī vā yaste garbhaṃ durṇāmā yonimāśaye /"
+      ]
+    }
+  ]
+}

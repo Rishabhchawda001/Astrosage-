@@ -1,0 +1,731 @@
+{
+  "file": "shvetashvatara_upanishad_gretil.xml",
+  "xml_id": "sa_zvetAzvataropaniSad",
+  "title": "Śvetāśvataropaniṣad",
+  "total_chapters": 7,
+  "total_verses": 113,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "oṃ brahmavādino vadanti"
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "verse_count": 16,
+      "verse_groups": [
+        {
+          "lines": [
+            "kiṃkāraṇaṃ brahma kutaḥ sma jātā jīvāmaḥ kena kva ca saṃpratiṣṭhāḥ \nadhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthām"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kālaḥ svabhāvo niyatir yadṛcchā bhūtāni yoniḥ puruṣeti cintyam \nsaṃyoga eṣāṃ na tv ātmabhāvād ātmā hy anīśaḥ sukhaduḥkhahetoḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te dhyānayogānugatā apaśyan devātmaśaktiṃ svaguṇair nigūḍhām \nyaḥ kāraṇāni nikhilāni tāni kālātmayuktāny adhitiṣṭhaty ekaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tam ekanemiṃ trivṛtaṃ ṣoḍaśāntaṃ śatārdhāraṃ viṃśatipratyarābhiḥ \naṣṭakaiḥ ṣaḍbhir viśvarūpaikapāśaṃ trimārgabhedaṃ dvinimittaikamoham"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pañcasroto'mbuṃ pañcayonyugravaktrāṃ pañcaprāṇormiṃ pañcabuddhyādimūlāṃ \npañcāvartāṃ pañcaduḥkhaughavegāṃ pañcāśadbhedāṃ pañcaparvām adhīmaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvājīve sarvasaṃsthe bṛhante tasmin haṃso bhrāmyate brahmacakre \npṛthag ātmānaṃ preritāraṃ ca matvā juṣṭas tatas tenāmṛtatvam eti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udgītam etat paramaṃ tu brahma tasmiṃs trayaṃ svapratiṣṭhākṣaraṃ ca \natrāntaraṃ brahmavido viditvā līnā brahmaṇi tatparā yonimuktāḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃyuktam etat kṣaram akṣaraṃ ca vyaktāvyaktaṃ bharate viśvam īśaḥ \nanīśaś cātmā badhyate bhoktṛbhāvāj jñātvā devaṃ mucyate sarvapāśaiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jñājñau dvāv ajāv īśanīśāv ajā hy ekā bhoktṛbhogārthayuktā \nanantaś cātmā viśvarūpo hy akartā trayaṃ yadā vindate brahmam etat"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṣaraṃ pradhānam amṛtākṣaraṃ haraḥ kṣarātmānāv īśate deva ekaḥ \ntasyābhidhyānād yojanāt tattvabhāvād bhūyaś cānte viśvamāyānivṛttiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jñātvā devaṃ sarvapāśāpahāniḥ kṣīnaiḥ kleśair janmamṛtyuprahāṇiḥ \ntasyābhidhyānāt tṛtīyaṃ dehabhede viśvaiśvaryaṃ kevala āptakāmaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etaj jñeyaṃ nityam evātmasaṃsthaṃ nātaḥ paraṃ veditavyaṃ hi kiṃcit \nbhoktā bhogyaṃ preritāraṃ ca matvā sarvaṃ proktaṃ trividhaṃ brahmam etat"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vahner yathā yonigatasya mūrtir na dṛśyate naiva ca liṅganāśaḥ \nsa bhūya evendhanayonigṛhyas tadvobhayaṃ vai praṇavena dehe"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svadeham araṇiṃ kṛtvā praṇavaṃ cottarāraṇiṃ \ndhyānanirmathanābhyāsād devaṃ paśyen nigūḍhavat"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tileṣu tailaṃ dadhanīva sarpir āpaḥ srotaḥsv araṇīṣu cāgniḥ \nevam ātmā ātmani gṛhyate 'sau satyenainaṃ tapasā yo 'nupaśyati"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvavyāpinam ātmānaṃ kṣīre sarpir ivārpitam \nātmavidyātapomūlaṃ tad brahmopaniṣatparaṃ tad brahmopaniṣatparam"
+          ],
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "verse_count": 17,
+      "verse_groups": [
+        {
+          "lines": [
+            "yuñjānaḥ prathamaṃ manas tatvāya savitā dhiyaḥ \nagner jyotir nicāyya pṛthivyā adhy ābharat"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "suvargeyāya śaktyā % //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yuktvāya manasā devān suvar yato dhiyā divaṃ \nbṛhaj jyotiḥ kariṣyataḥ savitā prasuvāti tān"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yuñjate mana uta yuñjate dhiyo viprā viprasya bṛhato vipaścitaḥ \nvi hotrā dadhe vayunāvid eka in mahī devasya savituḥ pariṣṭutiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yuje vāṃ brahma pūrvyaṃ namobhir vi śloka etu pathyeva sūreḥ \nśṛṇvanti viśve amṛtasya putrā ā ye dhāmāni diviyāni tasthuḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "agnir yatrābhimathyate vāyur yatrādhirudhyate \nsomo yatrātiricyate tatra saṃjāyate manaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "savitrā prasavena juṣeta brahma pūrvyam \ntatra yoniṃ kṛṇavase nahi te pūrtam akṣipat"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "trirunnataṃ sthāpya samaṃ śarīraṃ hṛdīndriyāṇi manasā saṃniveśya \nbrahmoḍupena pratareta vidvān srotāṃsi sarvāṇi bhayāvahāni"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāṇān prapīḍyeha sa yuktaceṣṭaḥ kṣīne prāṇe nāsikayocchvasīta \nduṣṭāśvayuktam iva vāham enaṃ vidvān mano dhārayetāpramattaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "same śucau śarkarāvahnivālukāvivarjite śabdajalāśrayādibhiḥ \nmano'nukūle na tu cakṣupīḍane guhānivātāśrayaṇe prayojayet"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nīhāradhūmārkānalānilānāṃ khadyotavidyutsphaṭikāśaśīnām \netāni rūpāṇi puraḥsarāṇi brahmaṇy abhivyaktikarāṇi yoge"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pṛthvyaptejo'nilakhe samutthite pañcātmake yogaguṇe pravṛtte \nna tasya rogo na jarā na mṛtyuḥ prāptasya yogāgnimayaṃ śarīram"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "laghutvam ārogyam alolupatvaṃ varṇaprasādaḥ svarasauṣṭhavaṃ ca \ngandhaḥ śubho mūtrapurīṣam alpaṃ yogapravṛttiṃ prathamāṃ vadanti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yathaiva bimbaṃ mṛdayopaliptaṃ tejomayaṃ bhrājate tat sudhāntam \ntad vātmatattvaṃ prasamīkṣya dehī ekaḥ kṛtārtho bhavate vītaśokaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yad ātmatattvena tu brahmatattvaṃ dīpopameneha yuktaḥ prapaśyet \najaṃ dhruvaṃ sarvatattvair viśuddhaṃ jñātvā devaṃ mucyate sarvapāśaiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "eṣa ha devaḥ pradiśo 'nu sarvāḥ pūrvo ha jātaḥ sa u garbhe antaḥ \nsa eva jātaḥ sa janiṣyamānaḥ pratyaṅ janās tiṣṭhati sarvatomukhaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo devo agnau yo apsu yo viśvaṃ bhuvanam āviveśa \nya oṣadhīṣu yo vanaspatīṣu tasmai devāya namo namaḥ"
+          ],
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "verse_count": 21,
+      "verse_groups": [
+        {
+          "lines": [
+            "ya eko jālavān īśata īśanībhiḥ sarvāṃl lokān īśata īśanībhiḥ \nya evaika udbhave saṃbhave ca ya etad vidur amṛtās te bhavanti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "eko hi rudro na dvitīyāya tasthe ya imāṃl lokān īśata īśanībhiḥ \npratyaṅ janās tiṣṭhati saṃcukocāntakāle saṃsṛjya viśvā bhuvanāni gopāḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśvataścakṣur uta viśvatomukho viśvatobāhur uta viśvataspāt \nsaṃ bāhubhyāṃ dhamati saṃ patatrair dyāvābhūmī janayan deva ekaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo devānāṃ prabhavaś codbhavaś ca viśvādhipo rudro maharṣiḥ \nhiraṇyagarbhaṃ janayāmāsa pūrvaṃ sa no buddhyā śubhayā saṃyunaktu"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yā te rudra śivā tanūr aghorāpāpakāśinī \ntayā nas tanuvā śaṃtamayā giriśantābhicākaśīhi"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yām iṣuṃ giriśanta haste bibharṣy astave \nśivāṃ giritra tāṃ kuru mā hiṃsīḥ puruṣaṃ jagat"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ paraṃ brahma paraṃ bṛhantaṃ yathānikāyaṃ sarvabhūteṣu gūḍhaṃ \nviśvasyaikaṃ pariveṣṭitāram īśaṃ taṃ jñātvāmṛtā bhavanti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vedāham etaṃ puruṣaṃ mahāntam ādityavarṇaṃ tamasaḥ parastāt \ntam eva viditvāti mṛtyum eti nānyaḥ panthā vidyate 'yanāya"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yasmāt paraṃ nāparam asti kiṃcid yasmān nāṇīyo na jyāyo 'sti kiṃcit \nvṛkṣa iva stabdho divi tiṣṭhaty ekas tenedaṃ pūrṇaṃ puruṣeṇa sarvam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato yad uttarataraṃ yad arūpam anāmayam \nya etad vidur amṛtās te bhavanti athetare duḥkham evāpiyanti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvānanaśirogrīvaḥ sarvabhūtaguhāśayaḥ \nsarvavyāpī sa bhagavāṃs tasmāt sarvagataḥ śivaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mahān prabhur vai puruṣaḥ sattvasyaiṣa pravartakaḥ \nsunirmalām imāṃ prāptim īśāno jyotir avyayaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aṅguṣṭhamātraḥ puruṣo 'ntarātmā sadā janānāṃ hṛdaye saṃniviṣṭaḥ \nhṛdā manīṣā manasābhikḷpto ya etad vidur amṛtās te bhavanti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt \nsa bhūmiṃ viśvato vṛtvā atyatiṣṭhad daśāṅgulam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "puruṣa evedaṃ sarvaṃ yad bhūtaṃ yac ca bhavyam \nutāmṛtatvasyeśāno yad annenātirohati"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvataḥpāṇipādaṃ tat sarvato'kṣiśiromukhaṃ \nsarvataḥśrutimal loke sarvam āvṛtya tiṣṭhati"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvendriyaguṇābhāsaṃ sarvendriyavivarjitaṃ \nsarvasya prabhum īśānaṃ sarvasya śaraṇaṃ suhṛt"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "navadvāre pure dehī haṃso lelāyate bahiḥ \nvaśī sarvasya lokasya sthāvarasya carasya ca"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "apāṇipādo javano grahītā paśyaty acakṣuḥ sa śṛṇoty akarṇaḥ \nsa vetti vedyaṃ na ca tasyāsti vettā tam āhur agryaṃ puruṣaṃ mahāntam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aṇor aṇīyān mahato mahīyān ātmā guhāyāṃ nihito 'sya jantoḥ \ntam akratuṃ paśyati vītaśoko dhātuprasādān mahimānam īśam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vedāham etam ajaraṃ purāṇaṃ sarvātmānaṃ sarvagataṃ vibhutvāt \njanmanirodhaṃ pravadanti yasya brahmavādino hi pravadanti nityam"
+          ],
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 22,
+      "verse_groups": [
+        {
+          "lines": [
+            "ya eko 'varṇo bahudhā śaktiyogād varṇān anekān nihitārtho dadhāti \nvi caiti cānte viśvam ādau sa devaḥ sa no buddhyā śubhayā saṃyunaktu"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad evāgnis tad ādityas tad vāyus tad u candramāḥ \ntad eva śukraṃ tad brahma tad āpas tat prajāpatiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tvaṃ strī tvaṃ pumān asi tvaṃ kumāra uta vā kumārī \ntvaṃ jīrṇo daṇḍena vañcasi tvaṃ jāto bhavasi viśvatomukhaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nīlaḥ pataṅgo harito lohitākṣas taḍidgarbha ṛtavaḥ samudrāḥ \nanādimāṃs tvaṃ vibhutvena vartase yato jātāni bhuvanāni viśvā"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ajām ekāṃ lohitaśuklakṛṣṇāṃ bahvīḥ prajāḥ sṛjamānāṃ sarūpāḥ \najo hy eko juṣamāṇo 'nuśete jahāty enāṃ bhuktabhogām ajo 'nyaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte \ntayor anyaḥ pippalaṃ svādv atty anaśnann anyo abhicākaśīti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samāne vṛkṣe puruṣo nimagno anīśayā śocati muhyamānaḥ \njuṣṭaṃ yadā paśyaty anyam īśaṃ asya mahimānam iti vītaśokaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ṛco akṣare parame vyoman yasmin devā adhi viśve niṣedhuḥ \nyas tan na veda kim ṛcā kariṣyati ya it tad vidus ta ime samāsate"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "chandāṃsi yajñāḥ kratavo vratāni bhūtaṃ bhavyaṃ yac ca vedā vadanti \nasmān māyī sṛjate viśvam etat tasmiṃś cānyo māyayā saṃniruddhaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaraṃ \ntasyāvayavabhūtais tu vyāptaṃ sarvaṃ idaṃ jagat"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo yoniṃ-yonim adhitiṣṭhaty eko yasminn idaṃ saṃ ca vi caiti sarvam \ntam īśānaṃ varadaṃ devam īḍyaṃ nicāyyemāṃ śāntim atyantam eti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo devānāṃ prabhavaś codbhavaś ca viśvādhiko rudro maharṣiḥ \nhiraṇyagarbhaṃ paśyata jāyamānaṃ sa no buddhyā śubhayā saṃyunaktu"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo devānām adhipo yasmiṃl lokā adhiśritāḥ \nya īśe asya dvipadaś catuṣpadaḥ kasmai devāya haviṣā vidhema"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sūkṣmātisūkṣmaṃ kalilasya madhye viśvasya sraṣṭāram anekarūpaṃ \nviśvasyaikaṃ pariveṣṭitāraṃ jñātvā śivaṃ śāntim atyantam eti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sa eva kāle bhuvanasya goptā viśvādhipaḥ sarvabhūteṣu gūḍhaḥ \nyasmin yuktā brahmarṣayo devatāś ca tam evaṃ jñātvā mṛtyupāśāṃś chinatti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ghṛtāt paraṃ maṇḍam ivātisūkṣmaṃ jñātvā śivaṃ sarvabhūteṣu gūḍhaṃ \nviśvasyaikaṃ pariveṣṭitāraṃ jñātvā devaṃ mucyate sarvapāśaiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "eṣa devo viśvakarmā mahātmā sadā janānāṃ hṛdaye saṃniviṣṭaḥ \nhṛdā manīṣā manasābhikḷpto ya etad vidur amṛtās te bhavanti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadātamas tan na divā na rātrir na san na cāsac chiva eva kevalaḥ \ntad akṣaraṃ tat savitur vareṇyaṃ prajñā ca tasmāt prasṛtā purāṇī"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nainam ūrdhvaṃ na tiryañcaṃ na madhye parijagrabhat \nna tasya pratimā asti yasya nāma mahad yaśaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na saṃdṛśe tiṣṭhati rūpam asya na cakṣuṣā paśyati kaścanainaṃ \nhṛdā hṛdisthaṃ manasā ya enam evaṃ vidur amṛtās te bhavanti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ajāta ity evaṃ kaścid bhīruḥ prapadyate \nrudra yat dakṣiṇaṃ mukham tena māṃ pāhi nityam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mā nas toke tanaye mā na āyuṣi mā no goṣu mā no aśveṣu rīriṣaḥ \nvīrān mā no rudra bhāmito vadhīr haviṣmantaḥ sadam it tvā havāmahe"
+          ],
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 14,
+      "verse_groups": [
+        {
+          "lines": [
+            "dve akṣare brahmapare tv anante vidyāvidye nihite yatra gūḍhe \nkṣaraṃ tv avidyā hy amṛtaṃ tu vidyā vidyāvidye īśate yas tu so 'nyaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo yoniṃ yonim adhitiṣṭhaty eko viśvāni rūpāṇi yonīś ca sarvāḥ \nṛṣiṃ prasūtaṃ kapilaṃ yas tam agre jñānair bibharti jāyamānaṃ ca paśyet"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ekaikaṃ jālaṃ bahudhā vikurvann asmin kṣetre saṃharaty eṣa devaḥ \nbhūyaḥ sṛṣṭvā patayas tatheśaḥ sarvādhipatyaṃ kurute mahātmā"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvā diśa ūrdhvam adhaś ca tiryak prakāśayan bhrājate yad vānaḍvān \nevaṃ sa devo bhagavān vareṇyo yonisvabhāvān adhitiṣṭhaty ekaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yac ca svabhāvaṃ pacati viśvayoniḥ pācyāṃś ca sarvān pariṇāmayed yaḥ \nsarvam etad viśvam adhitiṣṭhaty eko guṇāṃś ca sarvān viniyojayed yaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad vedaguhyopaniṣatsu gūḍhaṃ tad brahmā vedate brahmayoniṃ \nye pūrvaṃ devā ṛṣayaś ca tad vidus te tanmayā amṛtā vai babhūvuḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "guṇānvayo yaḥ phalakarmakartā kṛtasya tasyaiva sa copabhoktā \nsa viśvarūpas triguṇas trivartmā prāṇādhipaḥ saṃcarati svakarmabhiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aṅguṣṭhamātro ravitulyarūpaḥ saṃkalpāhaṃkārasamanvito yaḥ \nbuddher guṇenātmaguṇena caiva ārāgramātro hy avaro 'pi dṛṣṭaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vālāgraśatabhāgasya śatadhā kalpitasya ca \nbhāgo jīvaḥ sa vijñeyaḥ sa cānantyāya kalpate"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "naiva strī na pumān eṣa na caivāyaṃ napuṃsakaḥ \nyad yac charīram ādatte tena tena sa yujyate"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃkalpanasparśanadṛṣṭimohair grāsāmbuvṛṣṭyā cātmavivṛddhijanma \nkarmānugāny anukramena dehī sthāneṣu rūpāṇy abhisaṃprapadyate"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthūlāni sūkṣmāṇi bahūni caiva rūpāṇi dehī svaguṇair vṛṇoti \nkriyāguṇair ātmaguṇaiś ca teṣāṃ saṃyogahetur aparo 'pi dṛṣṭaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anādyanantaṃ kalilasya madhye viśvasya sraṣṭāram anekarūpaṃ \nviśvasyaikaṃ pariveṣṭitāraṃ jñātvā devaṃ mucyate sarvapāśaiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhāvagrāhyam anīḍākhyaṃ bhāvābhāvakaraṃ śivaṃ \nkalāsargakaraṃ devaṃ ye vidus te jahus tanum"
+          ],
+          "line_count": 1
+        }
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "verse_count": 23,
+      "verse_groups": [
+        {
+          "lines": [
+            "svabhāvam eke kavayo vadanti kālaṃ tathānye parimuhyamānāḥ \ndevasyaiṣa mahimā tu loke yenedaṃ bhrāmyate brahmacakram"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yenāvṛtaṃ nityam idaṃ hi sarvaṃ jñaḥ kālakālo guṇī sarvavidyaḥ \nteneśitaṃ karma vivartate ha pṛthivyāptejo'nilakhāni cintyam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tat karma kṛtvā vinivartya bhūyas tattvasya tattvena sametya yogam \nekena dvābhyāṃ tribhir aṣṭabhir vā kālena caivātmaguṇaiś ca sūkṣmaiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ārabhya karmāṇi guṇānvitāni bhāvāṃś ca sarvān viniyojayed yaḥ \nteṣām abhāve kṛtakarmanāśaḥ karmakṣaye yāti sa tattvato 'nyaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ādiḥ sa saṃyoganimittahetuḥ paras trikālād akalo 'pi dṛṣṭaḥ \ntaṃ viśvarūpaṃ bhavabhūtam īḍyaṃ devaṃ svacittastham upāsya pūrvam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sa vṛkṣakālākṛtibhiḥ paro 'nyo yasmāt prapañcaḥ parivartate 'yaṃ \ndharmāvahaṃ pāpanudaṃ bhageśaṃ jñātvātmastham amṛtaṃ viśvadhāma"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tam īśvarāṇāṃ paramaṃ maheśvaraṃ taṃ devatānāṃ paramaṃ ca daivataṃ \npatiṃ patīnāṃ paramaṃ parastād vidāma devaṃ bhuvaneśam īḍyam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na tasya kāryaṃ karaṇaṃ ca vidyate na tatsamaś cābhyadhikaś ca dṛśyate \nparāsya śaktir vividhaiva śrūyate svābhāvikī jñānabalakriyā ca"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na tasya kaścit patir asti loke na ceśitā naiva ca tasya liṅgaṃ \nsa kāraṇaṃ karaṇādhipādhipo na cāsya kaścij janitā na cādhipaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yas tantunābha iva tantubhiḥ pradhānajaiḥ svabhāvataḥ \ndeva ekaḥ svam āvṛṇoti sa no dadhād brahmāpyayam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāntarātmā \nkarmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaś ca"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "eko vaśī niṣkriyāṇāṃ bahūṇām ekaṃ bījaṃ bahudhā yaḥ karoti \ntam ātmasthaṃ ye 'nupaśyanti dhīrās teṣāṃ sukhaṃ śāśvataṃ netareṣāṃ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nityo nityānāṃ cetanaś cetanānām eko bahūnāṃ yo vidadhāti kāmān \ntat kāraṇaṃ sāṃkhyayogādhigamyaṃ jñātvā devaṃ mucyate sarvapāśaiḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto 'yam agniḥ \ntam eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "eko haṃso bhuvanasyāsya madhye sa evāgniḥ salile saṃniviṣṭaḥ \ntam eva viditvāti mṛtyum eti nānyaḥ panthā vidyate 'yanāya"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sa viśvakṛd viśvavid ātmayonir jñaḥ kālakālo guṇī sarvavidyaḥ \npradhānakṣetrajñapatir guṇeśaḥ saṃsāramokṣasthitibandhahetuḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sa tanmayo hy amṛta īśasaṃstho jñaḥ sarvago bhuvanasyāsya goptā \nsa īśe asya jagato nityam eva nānyo hetur vidyata īśanāya"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yo brahmāṇaṃ vidadhāti pūrvaṃ yo vai vedāṃś ca prahiṇoti tasmai \ntaṃ ha devam ātmabuddhiprakāśaṃ mumukṣur vai śaraṇam ahaṃ prapadye"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "niṣkalaṃ niṣkriyaṃ śāntaṃ niravadyaṃ nirañjanam \namṛtasya paraṃ setuṃ dagdhendhanam ivānalam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadā carmavad ākāśaṃ veṣṭayiṣyanti mānavāḥ \ntadā devam avijñāya duḥkhasyānto bhaviṣyati"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tapaḥprabhāvād devaprasādāt brahma ha śvetāśvataro 'tha vidvān \natyāśramibhyaḥ paramaṃ pavitraṃ provāca samyag ṛṣisaṅghajuṣṭam"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vedānte paramaṃ guhyaṃ purākalpe pracoditam \nnāpraśāntāya dātavyaṃ nāputrāyāśiṣyāya vā punaḥ"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yasya deve parā bhaktir yathā deve tathā gurau \ntasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ prakāśante mahātmanaḥ"
+          ],
+          "line_count": 1
+        }
+      ]
+    }
+  ]
+}

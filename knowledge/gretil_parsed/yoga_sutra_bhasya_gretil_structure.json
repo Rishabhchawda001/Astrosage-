@@ -1,0 +1,845 @@
+{
+  "file": "yoga_sutra_bhasya_gretil.xml",
+  "xml_id": "sa_pataJjali-yogasUtra-with-bhASya",
+  "title": "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+  "total_chapters": 1,
+  "total_verses": 135,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 135,
+      "verse_groups": [
+        {
+          "lines": [
+            "yas tyaktvā rūpam ādyaṃ prabhavati jagato 'nekadhānugrahāya prakṣīṇakleśarāśir viṣamaviṣadharo 'nekavaktraḥ subhogī /",
+            "sarvajñānaprasūtir bhujagaparikaraḥ prītaye yasya nityaṃ devo 'hīśaḥ sa vo 'vyāt sitavimalatanur yogado yogayuktaḥ //1//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atha yogānuśāsanam || YS_1.1 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pramāṇaviparyayavikalpanidrāsmṛtayaḥ || YS_1.6 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratyakṣānumānāgamāḥ pramāṇāni || YS_1.7 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viparyayo mithyājñānam atadrūpapratiṣṭham || YS_1.8 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śabdajñānānupātī vastuśūnyo vikalpaḥ || YS_1.9 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "abhāvapratyayālambanā vṛttir nidrā || YS_1.10 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anubhūtaviṣayāsaṃpramoṣaḥ smṛtiḥ || YS_1.11 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra sthitau yatno 'bhyāsaḥ || YS_1.13 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sa tu dīrghakālanairantaryasatkārāsevito dṛḍhabhūmiḥ || YS_1.14 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dṛṣṭānuśravikaviṣayavitṛṣṇasya vaśīkārasaṃjñā vairāgyam || YS_1.15 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tat paraṃ puruṣakhyāter guṇavaitṛṣṇyam || YS_1.16 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śraddhāvīryasmṛtisamādhiprajñāpūrvaka itareṣām || YS_1.20 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mṛdumadhyādhimātratvāt tato 'pi viśeṣaḥ || YS_1.22 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya vācakaḥ praṇavaḥ || YS_1.27 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "praṇavasya japaḥ praṇavābhidheyasya ceśvarasya bhāvanam. tad asya yoginaḥ praṇavaṃ japataḥ praṇavārthaṃ ca bhāvayataś cittam ekāgraṃ saṃpadyate. tathā coktam ---",
+            "\"svādhyāyād yogam āsīta yogāt svādhyāyam āmanet /",
+            "svādhyāyayogasaṃpattyā paramātmā prakāśate //\" iti. 1.28"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsā vikṣepasahabhuvaḥ || YS_1.31 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pracchardanavidhāraṇābhyāṃ vā prāṇasya || YS_1.34 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viṣayavatī vā pravṛttir utpannā manasaḥ sthitinibandhanī || YS_1.35 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśokā vā jyotiṣmatī || YS_1.36 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vītarāgaviṣayaṃ vā cittam || YS_1.37 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svapnanidrājñānālambanaṃ vā || YS_1.38 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yathābhimatadhyānād vā || YS_1.39 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paramāṇuparamamahattvānto 'sya vaśīkāraḥ || YS_1.40 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra śabdārthajñānavikalpaiḥ saṃkīrṇā savitarkā samāpattiḥ || YS_1.42 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etayaiva savicārā nirvicārā ca sūkṣmaviṣayā vyākhyātā || YS_1.44 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sūkṣmaviṣayatvaṃ cāliṅgaparyavasānam || YS_1.45 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tā eva sabījaḥ samādhiḥ || YS_1.46 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nirvicāravaiśāradye 'dhyātmaprasādaḥ || YS_1.47 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aśuddhyāvaraṇamalāpetasya prakāśātmano buddhisattvasya rajastamobhyām anabhibhūtaḥ svacchaḥ sthitipravāho vaiśāradyam. yadā nirvicārasya samādher vaiśāradyam idaṃ jāyate tadā yogino bhavaty adhyātmaprasādo bhūtārthaviṣayaḥ kramānanurodhī sphuṭaḥ prajñālokaḥ. tathā coktam --- \"prajñāprasādam āruhya aśocyaḥ śocato janān / bhūmiṣṭhān iva śailasthaḥ sarvān prājño 'nupaśyati\". 1.47"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ṛtaṃbharā tatra prajñā || YS_1.48 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avidyā kṣetram uttareṣāṃ prasuptatanuvicchinnodārāṇām || YS_2.4 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anitye kārye nityakhyātiḥ. tadyathā --- dhruvā pṛthivī, dhruvā sacandratārakā dyauḥ, amṛtā divaukasa iti. tathāśucau paramabībhatse kāye, ---",
+            "\"sthānād bījād upaṣṭambhān niḥsyandān nidhanād api /",
+            "kāyam ādheyaśaucatvāt paṇḍitā hy aśuciṃ viduḥ\" //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "dṛgdarśanaśaktyor ekātmatevāsmitā || YS_2.6 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sukhānuśayī rāgaḥ || YS_2.7 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "duḥkhānuśayī dveṣaḥ || YS_2.8 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svarasavāhī viduṣo 'pi tathā rūḍho 'bhiniveśaḥ || YS_2.9 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te pratiprasavaheyāḥ sūkṣmāḥ || YS_2.10 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kleśamūlaḥ karmāśayo dṛṣṭādṛṣṭajanmavedanīyaḥ || YS_2.12 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sati mūle tadvipāko jātyāyurbhogāḥ || YS_2.13 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te hlādaparitāpaphalāḥ puṇyāpuṇyahetutvāt || YS_2.14 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadartha eva dṛśyasyātmā || YS_2.21 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya hetur avidyā || YS_2.24 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya saptadhā prāntabhūmiḥ prajñā || YS_2.27 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yogāṅgāny aṣṭāv abhidhāyiṣyamāṇāni. teṣām anuṣṭhānāt pañcaparvaṇo viparyayasyāśuddhirūpasya kṣayo nāśaḥ. tatkṣaye samyagjñānasyābhivyaktiḥ. yathā yathā ca sādhanāny anuṣṭhīyante tathā tathā tanutvam aśuddhir āpadyate. yathā yathā ca kṣīyate tathā tathā kṣayakramānurodhinī jñānasyāpi dīptir vivardhate. sā khalv eṣā vivṛddhiḥ prakarṣam anubhavatyā vivekakhyāteḥ, ā guṇapuruṣasvarūpavijñānād ity arthaḥ. yogāṅgānuṣṭhānam aśuddher viyogakāraṇam. yathā paraśuś chedyasya. vivekakhyātes tu prāptikāraṇaṃ yathā dharmaḥ sukhasya nānyathā kāraṇam. kati caitāni kāraṇāni śāstre bhavanti. navaivety āha. tadyathā ---",
+            "\"utpattisthityabhivyaktivikārapratyayāptayaḥ /",
+            "viyogānyatvadhṛtayaḥ kāraṇaṃ navadhā smṛtam //\" iti."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "śaucasaṃtoṣatapaḥsvādhyāyeśvarapraṇidhānāni niyamāḥ || YS_2.32 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra śaucaṃ mṛjjalādijanitaṃ medhyābhyavaharaṇādi ca bāhyam. ābhyantaraṃ cittamalānām ākṣālanam. saṃtoṣaḥ saṃnihitasādhanād adhikasyānupāditsā. tapo dvaṃdvasahanam. dvaṃdvāś ca jighatsāpipāse śītoṣṇe sthānāsane kāṣṭhamaunākāramaune ca. vratāni caiṣāṃ yathāyogaṃ kṛcchracāndrāyaṇasāṃtapanādīni. svādhyāyo mokṣaśāstrāṇām adhyayanaṃ praṇavajapo vā. īśvarapraṇidhānaṃ tasmin paramagurau sarvakarmārpaṇam.",
+            "śayyāsanastho 'tha pathi vrajan vā svasthaḥ parikṣīṇavitarkajālaḥ /",
+            "saṃsārabījakṣayam īkṣamāṇaḥ syān nityayukto 'mṛtabhogabhāgī //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "vitarkā hiṃsādayaḥ kṛtakāritānumoditā lobhakrodhamohapūrvakā mṛdumadhyādhimātrā duḥkhājñānānantaphalā iti pratipakṣabhāvanam || YS_2.34 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "satyapratiṣṭhāyāṃ kriyāphalāśrayatvam || YS_2.36 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "asteyapratiṣṭhāyāṃ sarvaratnopasthānam || YS_2.37 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "brahmacaryapratiṣṭhāyāṃ vīryalābhaḥ || YS_2.38 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aparigrahasthairye janmakathaṃtāsaṃbodhaḥ || YS_2.39 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃtoṣād anuttamaḥ sukhalābhaḥ || YS_2.42 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāyendriyasiddhir aśuddhikṣayāt tapasaḥ || YS_2.43 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svādhyāyād iṣṭadevatāsaṃprayogaḥ || YS_2.44 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samādhisiddhir īśvarapraṇidhānāt || YS_2.45 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prayatnaśaithilyānantasamāpattibhyām || YS_2.47 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato dvandvānabhighātaḥ || YS_2.48 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasmin sati śvāsapraśvāsayor gativicchedaḥ prāṇāyāmaḥ || YS_2.49 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bāhyābhyantaraviṣayākṣepī caturthaḥ || YS_2.51 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ kṣīyate prakāśāvaraṇam || YS_2.52 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ paramā vaśyatendriyāṇām || YS_2.55 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra pratyayaikatānatā dhyānam || YS_3.2 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad evārthamātranirbhāsaṃ svarūpaśūnyam iva samādhiḥ || YS_3.3 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "trayam ekatra saṃyamaḥ || YS_3.4 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tajjayāt prajñālokaḥ || YS_3.5 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya bhūmiṣu viniyogaḥ || YS_3.6 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya saṃyamasya jitabhūmer yānantarā bhūmis tatra viniyogaḥ. na hy ajitādharabhūmir anantarabhūmiṃ vilaṅghya prāntabhūmiṣu saṃyamaṃ labhate. tadabhāvāc ca kutas tasya prajñālokaḥ. īśvaraprasādāj jitottarabhūmikasya ca nādharabhūmiṣu paracittajñānādiṣu saṃyamo yuktaḥ. kasmāt, tadarthasyānyata evāvagatatvāt. bhūmer asyā iyam anantarā bhūmir ity atra yoga evopādhyāyaḥ. katham evaṃ hy uktam. \"yogena yogo jñātavyo yogo yogāt pravartate / yo 'pramattas tu yogena sa yoge ramate ciram\" iti. 3.6"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "trayam antaraṅgaṃ pūrvebhyaḥ || YS_3.7 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad api bahiraṅgaṃ nirbījasya || YS_3.8 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya praśāntavāhitā saṃskārāt || YS_3.10 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvārthataikāgratayoḥ kṣayodayau cittasya samādhipariṇāmaḥ || YS_3.11 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ punaḥ śāntoditau tulyapratyayau cittasyaikāgratāpariṇāmaḥ || YS_3.12 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena bhūtendriyeṣu dharmalakṣaṇāvasthāpariṇāmā vyākhyātāḥ || YS_3.13 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kramānyatvaṃ pariṇāmānyatve hetuḥ || YS_3.15 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śabdārthapratyayānām itaretarādhyāsāt saṃkaras tatpravibhāgasaṃyamāt sarvabhūtarutajñānam || YS_3.17 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃskārasākṣātkaraṇāt pūrvajātijñānam || YS_3.18 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratyayasya paracittajñānam || YS_3.19 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na ca tat sālambanaṃ tasyāviṣayībhūtatvāt || YS_3.20 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāyarūpasaṃyamāt tadgrāhyaśaktistambhe cakṣuḥprakāśāsaṃprayoge 'ntardhānam || YS_3.21 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sopakramaṃ nirupakramaṃ ca karma tatsaṃyamād aparāntajñānam ariṣṭebhyo vā || YS_3.22 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "maitryādiṣu balāni || YS_3.23 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "baleṣu hastibalādīni || YS_3.24 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pravṛttyālokanyāsāt sūkṣmavyavahitaviprakṛṣṭajñānam || YS_3.25 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhuvanajñānaṃ sūrye saṃyamāt || YS_3.26 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatprastāraḥ sapta lokāḥ. tatrāvīceḥ prabhṛti merupṛṣṭhaṃ yāvad ity evaṃ bhūrlokaḥ. merupṛṣṭhād ārabhya --- ādhruvād grahanakṣatratārāvicitro 'ntarikṣalokaḥ. tataḥ paraḥ svarlokaḥ pañcavidho māhendras tṛtīyo lokaḥ. caturthaḥ prājāpatyo maharlokaḥ. trividho brāhmaḥ tadyathā --- janalokas tapolokaḥ satyaloka iti.",
+            "\"brāhmas tribhūmiko loka prājāpatyas tato mahān /",
+            "māhendraś ca svar ity ukto divi tārā bhuvi prajāḥ //\""
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "candre tārāvyūhajñānam || YS_3.27 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhruve tadgatijñānam || YS_3.28 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nābhicakre kāyavyūhajñānam || YS_3.29 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kaṇṭhakūpe kṣutpipāsānivṛttiḥ || YS_3.30 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kūrmanāḍyāṃ sthairyam || YS_3.31 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mūrdhajyotiṣi siddhadarśanam || YS_3.32 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prātibhād vā sarvam || YS_3.33 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hṛdaye cittasaṃvit || YS_3.34 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sattvapuruṣayor atyantāsaṃkīrṇayoḥ pratyayāviśeṣo bhogaḥ parārthāt svārthasaṃyamāt puruṣajñānam || YS_3.35 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ prātibhaśrāvaṇavedanādarśāsvādavārtā jāyante || YS_3.36 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te samādhāv upasargā vyutthāne siddhayaḥ || YS_3.37 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bandhakāraṇaśaithilyāt pracārasaṃvedanāc ca cittasya paraśarīrāveśaḥ || YS_3.38 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udānajayāj jalapaṅkakaṇṭakādiṣv asaṅga utkrāntiś ca || YS_3.39 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samānajayāj jvalanam || YS_3.40 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrotrākāśayoḥ saṃbandhasaṃyamād divyaṃ śrotram || YS_3.41 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāyākāśayoḥ saṃbandhasaṃyamāl laghutūlasamāpatteś cākāśagamanam || YS_3.42 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bahir akalpitā vṛttir mahāvidehā tataḥ prakāśāvaraṇakṣayaḥ || YS_3.43 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthūlasvarūpasūkṣmānvayārthavattvasaṃyamād bhūtajayaḥ || YS_3.44 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato 'ṇimādiprādurbhāvaḥ kāyasaṃpat taddharmānabhighātaś ca || YS_3.45 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rūpalāvaṇyabalavajrasaṃhananatvāni kāyasaṃpat || YS_3.46 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "grahaṇasvarūpāsmitānvayārthavattvasaṃyamād indriyajayaḥ || YS_3.47 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato manojavitvaṃ vikaraṇabhāvaḥ pradhānajayaś ca || YS_3.48 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sattvapuruṣānyatākhyātimātrasya sarvabhāvādhiṣṭhātṛtvaṃ sarvajñātṛtvaṃ ca || YS_3.49 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadvairāgyād api doṣabījakṣaye kaivalyam || YS_3.50 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthānyupanimantraṇe saṅgasmayākaraṇaṃ punar aniṣṭaprasaṅgāt || YS_3.51 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṣaṇatatkramayoḥ saṃyamād vivekajaṃ jñānam || YS_3.52 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tārakaṃ sarvaviṣayaṃ sarvathāviṣayam akramaṃ ceti vivekajaṃ jñānam || YS_3.54 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "janmauṣadhimantratapaḥsamādhijāḥ siddhayaḥ || YS_4.1 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nimittam aprayojakaṃ prakṛtīnāṃ varaṇabhedas tu tataḥ kṣetrikavat || YS_4.3 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pravṛttibhede prayojakaṃ cittam ekam anekeṣām || YS_4.5 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra dhyānajam anāśayam || YS_4.6 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatas tadvipākānuguṇānām evābhivyaktir vāsanānām || YS_4.8 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jātideśakālavyavahitānām apy ānantaryaṃ smṛtisaṃskārayor ekarūpatvāt || YS_4.9 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāsām anāditvaṃ cāśiṣo nityatvāt || YS_4.10 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hetuphalāśrayālambanaiḥ saṃgṛhītatvād eṣām abhāve tadabhāvaḥ || YS_4.11 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te vyaktasūkṣmā guṇātmānaḥ || YS_4.13 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te khalv amī tryadhvano dharmā vartamānā vyaktātmāno 'tītānāgatāḥ sūkṣmātmānaḥ ṣaḍaviśeṣarūpāḥ. sarvam idaṃ guṇānāṃ saṃniveśaviśeṣamātram iti paramārthato guṇātmānaḥ. tathā ca śāstrānuśāsanam ---",
+            "\"guṇānāṃ paramaṃ rūpaṃ na dṛṣṭipatham ṛcchati /",
+            "yat tu dṛṣṭipathaṃ prāptaṃ tan māyeva sutucchakam //\" iti. 4.13"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "na caikacittatantraṃ vastu tadapramāṇakaṃ tadā kiṃ syāt || YS_4.16 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "taduparāgāpekṣitvāc cittasya vastu jñātājñātam || YS_4.17 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ekasamaye cobhayānavadhāraṇam || YS_4.20 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśeṣadarśina ātmabhāvabhāvanānivṛttiḥ || YS_4.25 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadā vivekanimnaṃ kaivalyaprāgbhāraṃ cittam || YS_4.26 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tacchidreṣu pratyayāntarāṇi saṃskārebhyaḥ || YS_4.27 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hānam eṣāṃ kleśavad uktam || YS_4.28 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prasaṃkhyāne 'py akusīdasya sarvathā vivekakhyāter dharmameghaḥ samādhiḥ || YS_4.29 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ kleśakarmanivṛttiḥ || YS_4.30 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadā sarvāvaraṇamalāpetasya jñānasyānantyāj jñeyam alpam || YS_4.31 ||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvaiḥ kleśakarmāvaraṇair vimuktasya jñānasyānantyaṃ bhavati. āvarakeṇa tamasābhibhūtam āvṛtam anantaṃ jñānasattvaṃ kvacid eva rajasā pravartitam udghāṭitaṃ grahaṇasamarthaṃ bhavati. tatra yadā sarvair āvaraṇamalair apagataṃ bhavati tadā bhavaty asyānantyam. jñānasyānantyāj jñeyam alpaṃ saṃpadyate yathākāśe khadyotaḥ. yatredam uktam ---",
+            "\"andho maṇim avidhyat tam anaṅgulir āvayat /",
+            "agrīvas taṃ pratyamuñcat tam ajihvo 'bhyapūjayat //\" iti. 4.31"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "tataḥ kṛtārthānāṃ pariṇāmakramasamāptir guṇānām || YS_4.32 ||"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "Pātañjalayogaśāstram",
+        "athety ayam adhikārārthaḥ. yogānuśāsanaṃ śāstram adhikṛtaṃ veditavyam. yogaḥ samādhiḥ. sa ca sārvabhaumaś cittasya dharmaḥ. kṣiptaṃ mūḍhaṃ vikṣiptam ekāgraṃ niruddham iti cittabhūmayaḥ. tatra vikṣipte cetasi vikṣepopasarjanībhūtaḥ samādhir na yogapakṣe vartate. yas tv ekāgre cetasi sadbhūtam arthaṃ pradyotayati kṣiṇoti ca kleśān karmabandhanāni ślathayati nirodham abhimukhaṃ karoti sa saṃprajñāto yoga ity ākhyāyate. sa ca vitarkānugato vicārānugata ānandānugato 'smitānugata ity upariṣṭān nivedayiṣyāmaḥ. sarvavṛttinirodhe tv asaṃprajñātaḥ samādhiḥ. 1.1",
+        "tasya lakṣaṇābhidhitsayedaṃ sūtraṃ pravavṛte ---"
+      ]
+    }
+  ]
+}

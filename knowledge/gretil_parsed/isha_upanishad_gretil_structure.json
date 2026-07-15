@@ -1,0 +1,136 @@
+{
+  "file": "isha_upanishad_gretil.xml",
+  "xml_id": "sa_IzopaniSad-or-IzAvAsyopaniSadkANva-recension-comm",
+  "title": "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+  "total_chapters": 1,
+  "total_verses": 16,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 16,
+      "verse_groups": [
+        {
+          "lines": [
+            "oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate /",
+            "pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kasmāt? kasyasviddhanamityākṣepārtho na kasyaciddhanamasti yadgṛdhyeta /",
+            "ātmaivedaṃ sarvamitīśvarabhāvanayā sarvaṃ tyaktamata ātmana evedaṃ sarvamātmaiva ca sarvamato mithyāviṣayāṃ gṛdhiṃ mā kārṣīrityarthaḥ //IsUpBh_1//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "\"dvāvimāvatha panthānau yatra vedāḥ pratiṣṭhitāḥ /",
+            "pravṛttilakṣaṇo dharmo nivṛttaśca vibhāvitaḥ\" //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ityādi putrāya vicārya niścitamuktaṃ vyāsena vedācāryeṇa bhagavatā vibhāgañcānayoḥ darśayiṣyāmaḥ //IsUpBh_2//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yaḥ parivrāḍ mumukṣuḥ sarvāṇi bhūtānyavyaktādīni sthāvarāntāni ātmanyevānupaśyatyātmavyatiriktāni na paśyatītyarthaḥ, sarvabhūteṣu ca teṣveva cātmānaṃ teṣām api bhūtānāṃ svamātmānamātmatvena yathāsya dehasya kāryakaraṇasaṅdhātasyātmā ahaṃ sarvapratyayasākṣibhūtaścetayitā kevalo nirguṇo 'nenaiva svarūpeṇāvyaktādīnāṃ sthāvarāntānāmahamevātmeti sarvabhūteṣu cātmānaṃ nirviśeṣaṃ yastvanupaśyati sa tatastasmādeva darśanānna vijugupsate vijugupsāṃ ghṛṇāṃ na karoti /",
+            "prāptasyaivānuvādo 'yam /",
+            "sarvā hi ghṛṇātmano 'nyadduṣṭaṃ paśyato bhavati, ātmānamevātyantaviśuddhaṃ nirantaraṃ paśyato na ghṛṇānimittam arthāntaramastīti prāptameva /",
+            "tato na vijugupsata iti //IsUpBh_6//"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "yasminkāle yathoktātmani vā tānyeva bhūtāni sarvāṇi paramārthātmadarśanādātmaivābhūd ātmaiva saṃvṛtaḥ paramārthavastu vijānataḥ tatra tasminkāle tatrātmani vā ko mohaḥ kaḥ śokaḥ /",
+            "śokaśca mohaśca kāmakarmabījam ajānato bhavati /",
+            "na tvātmaikatvaṃ viśuddhaṃ gaganopamaṃ paśyataḥ ko mohaḥ kaḥ śoka iti śokamohayoravidyākāryayorākṣepeṇa asambhavapradarśanāt sakāraṇasya saṃsārasyātyantamevocchedaḥ pradarśito bhavati //IsUpBh_7//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "sa nityamukta īśvaro yāthātathyataḥ sarvajñatvādyathātathābhāvo yāthātathyaṃ tasmādyathābhūtakarmaphalasādhanator'thān karttavyapadārthān vyadadhādvihitavān yathānurūpaṃ vyabhajadityarthaḥ, śāśvatībhyo nityābhyaḥ samābhyaḥ saṃvatsarākhyebhyaḥ prajāpatibhya ityarthaḥ //IsUpBh_8//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "karmaṇo vidyāvirodhitvāt ; tāmavidyāmagnihotrādilakṣaṇāmeva kevalāmupāsate tatparāḥ santo 'nutiṣṭhantītyabhiprāyaḥ /",
+            "tatastasmādandhātmakāttamaso bhūya iva bahutarameva te tamaḥ praviśanti, ke? karma itvā ye u ye tu vidyāyāmeva devatājñāna eva ratāḥ abhiratāḥ /",
+            "tatrāvāntaraphalabhedaṃ vidyākarmaṇoḥ samuccayakāraṇamāha ; anyathā phalavadaphalavatoḥ sannihitayoraṅgāṅgitaiva syāt ityarthaḥ //IsUpBh_9//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "avidyayā karmaṇā agnihotrādinā mṛtyuṃ svābhāvikaṃ karma jñānaṃ ca mṛtyuśabdavācyamubhayaṃ tīrtvā atikramya vidyayā devatājñānenāmṛtaṃ devatātmabhāvamaśnute prāpnoti /",
+            "taddhyamṛtamucyate yaddevatātmagamanam //IsUpBh_11//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "andhaṃ tamaḥ praviśanti ye asambhūtiṃ sambhavanaṃ sambhūtiḥ sā yasya kāryasya sā sambhūtiḥ tasyā anyā asambhūtiḥ prakṛtiḥ kāraṇamavidyā avyākṛtākhyā tāmasambhūtimavyākṛtākhyāṃ prakṛtiṃ kāraṇamavidyāṃ kāmakarmabījabhūtāmadarśanātmikāmupāsate ye te tadanurūpamevāndhaṃ tamo 'darśanātmakaṃ praviśanti /",
+            "tatastasmādapi bhūyo bahutaramiva tamaḥ praviśanti ya u sambhūtyāṃ kāryabrahmaṇi hiraṇyagarbhākhye ratāḥ //IsUpBh_12//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anyadeva pṛthagevāhuḥ phalaṃ sambhavātsambhūteḥ kāryabrahmopāsanādaṇimādyaiśvaryalakṣaṇaṃ vyākhyātavanta ityarthaḥ /",
+            "tathā cānyadāhuḥ asambhavādasambhūtekhyākṛtād avyākṛtopāsanāt /",
+            "yaduktamandhantamaḥ praviśantīti prakṛtilaya iti ca paurāṇikairucyata ityevaṃ śuśruma dhīraṇāṃ vacanaṃ ye nastadvicacakṣire vyākṛtāvyākṛtopāsanaphalaṃ vyākhyātavanta ityarthaḥ //IsUpBh_13//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "sambhūtiṃ ca vināśaṃ ca yastadvedobhayaṃ saha vināśo dharmo yasya kāryasya sa tena dharmiṇā abhedena ucyate vināśa iti, tena tadupāsanenānaiśvaryamadharmakāmādidoṣajātaṃ ca mṛtyuṃ tīrtvā-- hiraṇyagarbhopāsanenāpti hyāṇimādiprāptiḥ phalam, tenānaiśvaryādimṛtyumatītya asambhūtyā avyākṛtopāsanayā amṛtaṃ prakṛtilayalakṣaṇamaśnute /",
+            "sambhūtiṃ ca vināśaṃ cetyatrāvarṇalopena nirdeśo draṣṭavyaḥ prakṛtilayaphalaśrutyanurodhāt //IsUpBh_14//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇmayamiva hiraṇmayaṃ jyotirmayamityetat /",
+            "tena pātreṇeva apidhānabhūtena satyasyaivādityamaṇḍalasthasya brāhmaṇo 'pihitam ācchāditaṃ mukhaṃ dvāram /",
+            "tattvaṃ he pūṣannapāvṛṇvapasāraya satyasya upāsanātsatyaṃ dharmo yasya mama so 'haṃ satyadharmā tasmai mahyamathavā yathābhūtasya dharmasyānuṣṭhātre dṛṣṭaye tava satyātmana upalabdhaye //IsUpBh_15//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "yatte tava rūpaṃ kalyāṇatamam atyantaśobhanaṃ tatte tavātmanaḥ prasādāt paśyāmi /",
+            "kiñcāhaṃ na tu tvāṃ bhṛtyavadyāce yo 'sāvādityamaṇḍalastho vyāhṛtyavayavaḥ puruṣaḥ puruṣākāratvātpūrṇaṃ vānena prāṇabuddhayātmanā jagatsamastamiti puruṣaḥ puri śayanādvā puruṣaḥ so 'hamasmi bhavāmi //IsUpBh_16//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "'avidyayā mṛtyuṃ tīrtvā vidyayāmṛtamaśnute /' (ī.u.11) 'vināśena mṛtyuṃ tīrtvāsambhūtyāmṛtamaśnute' (ī.u.14) iti śrutvā kecitsaṃśayaṃ kurvanti /"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "amṛtamaśnuta ityāpekṣikam amṛtam /",
+            "vidyāśabdena paramātmavidyāgrahaṇe hiraṇmayenetyādinā dvāramārgādiyācanamanupapannaṃ syāt /",
+            "tasmādupāsanayā samuccayo na paramātmavijñāneneti yathāsmābhirvyākhyāta eva mantrāṇāmartha ityuparamyate //IsUpBh_18//"
+          ],
+          "line_count": 3
+        }
+      ],
+      "prose_sample": [
+        "Īśa-Upaniṣad (Īśopaniṣad or Īśāvāsyopanisad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "tat sad brāhmaṇe namaḥ",
+        "oṃ śāntiḥ śāntiḥ śāntiḥ /"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "file": "gautama_dharmasutra_gretil.xml",
+  "xml_id": "sa_gautama-dharmasUtra",
+  "title": "Dharmasūtra",
+  "total_chapters": 1,
+  "total_verses": 0,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "vedo dharmamūlam |",
+        "tadvidāṃ ca smṛtiśīle |",
+        "dṛṣṭo dharmavyatikramaḥ sāhasaṃ ca mahatāṃ |"
+      ]
+    }
+  ]
+}

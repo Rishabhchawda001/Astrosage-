@@ -1,0 +1,39 @@
+{
+  "file": "ashvalayana_grihya_sutra_gretil.xml",
+  "xml_id": "sa_AzvalAyanagRhyasUtra",
+  "title": "Āśvalāyanagṛhyasūtra",
+  "total_chapters": 3,
+  "total_verses": 0,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "uktāni.vaitānikāni.gṛhyāni.vakṣyāmaḥ./",
+        "trayaḥ.pāka.yajñāḥ.hutā.agnau.hūyamānā.anagnau.prahutā.brāhmaṇa.bhojane.brahmaṇi.hutāḥ./",
+        "atha.apy.ṛca.udāharanti./.yaḥ.samidha.ya.āhutī.yo.vedena.iti./"
+      ]
+    },
+    {
+      "chapter_num": 169,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "āyatīr.yāsām.ūdhaś.catur.bilam.madhoḥ.pūrṇam.ghṛtasya.ca./.tā.naḥ.santu.payasvatīr.bahvīr.goṣṭhe.ghṛtācyaḥ./.upa.mā.etu.mayobhuva.ūrjam.ca.ojaś.ca.bibhratīḥ./.duhānā.akṣitam.payo.mayi.goṣṭhe.niviśadhvam.yathā.bhavāmy.uttamaḥ./.yā.deveṣu.tanvam.airayanta.iti.ca.sūkta.śeṣam./: ṛV 10.169.3.4.(yā.deve.su.tanvam.airayanta.)",
+        "āgāvīyam.eke./: ṛV 6.28.",
+        "gaṇānām.upatiṣṭheta.aguru.gavīnām.bhūtāḥ.stha.praśastāḥ.stha.śobhanāḥ.priyāḥ.priyo.vo.bhūyāsam.śam.mayi.jānīdhvam.śam.mayi.jānīdhvam./"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "prāpya.evam.bhūmi.bhāgam.kartā.udakena.śamī.śākhayā.triḥ.prasavyam.āyatanam.parivrajan.prokṣaty.apeta.vīta.vi.ca.sarpatāta.iti./",
+        "dakṣiṇa.pūrva.uddhānta.āhavanīyam.nidadhāti./",
+        "uttara.paścime.gārhapatyam./"
+      ]
+    }
+  ]
+}

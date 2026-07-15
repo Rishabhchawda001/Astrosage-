@@ -1,134 +1,572 @@
 [
   {
-    "file": "agni_puran_gretil.xml",
+    "file": "agni_puran_gretil_structure.json",
     "title": "Agnipurāṇa",
     "chapters": 389,
     "verses": 22823
   },
   {
-    "file": "bhagavata_gretil.xml",
+    "file": "aitareya_upanishad_gretil_structure.json",
+    "title": "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+    "chapters": 26,
+    "verses": 26
+  },
+  {
+    "file": "apastamba_dharmasutra_gretil_structure.json",
+    "title": "Āpastambadharmasūtra",
+    "chapters": 7,
+    "verses": 0
+  },
+  {
+    "file": "apastamba_grihya_sutra_gretil_structure.json",
+    "title": "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+    "chapters": 354,
+    "verses": 841
+  },
+  {
+    "file": "ashvalayana_grihya_sutra_gretil_structure.json",
+    "title": "Āśvalāyanagṛhyasūtra",
+    "chapters": 3,
+    "verses": 0
+  },
+  {
+    "file": "ashvalayana_shrauta_sutra_gretil_structure.json",
+    "title": "Āśvalāyanaśrautasūtra",
+    "chapters": 6,
+    "verses": 0
+  },
+  {
+    "file": "astavakra_gita_gretil_structure.json",
+    "title": "Aṣṭāvakragītā",
+    "chapters": 1,
+    "verses": 298
+  },
+  {
+    "file": "atharvashiras_upanishad_gretil_structure.json",
+    "title": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+    "chapters": 1,
+    "verses": 3
+  },
+  {
+    "file": "atharvaveda_parisista_gretil_structure.json",
+    "title": "Atharvavedapariśiṣṭas",
+    "chapters": 9,
+    "verses": 19
+  },
+  {
+    "file": "baudhayana_dharmasutra_gretil_structure.json",
+    "title": "Baudhāyanadharmasūtra",
+    "chapters": 4,
+    "verses": 0
+  },
+  {
+    "file": "bhagavad_gita_4comm_gretil_structure.json",
+    "title": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "chapters": 664,
+    "verses": 1185
+  },
+  {
+    "file": "bhagavata_gretil_structure.json",
     "title": "Bhāgavatapurāṇa",
     "chapters": 326,
     "verses": 12836
   },
   {
-    "file": "bhagavata_gretil_tei.xml",
+    "file": "bhagavata_gretil_tei_structure.json",
     "title": "Bhāgavatapurāṇa",
     "chapters": 326,
     "verses": 12836
   },
   {
-    "file": "brahma_puran_gretil.xml",
+    "file": "bhaskara_gita_bhashya_gretil_structure.json",
+    "title": "Bhagavadāśayānusaraṇabhāsya",
+    "chapters": 143,
+    "verses": 296
+  },
+  {
+    "file": "brahma_puran_gretil_structure.json",
     "title": "Brahmapurāṇa 1-246",
     "chapters": 1,
     "verses": 13900
   },
   {
-    "file": "garuda_puran_gretil.xml",
+    "file": "brahma_samhita_gretil_structure.json",
+    "title": "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+    "chapters": 53,
+    "verses": 72
+  },
+  {
+    "file": "devi_gita_gretil_structure.json",
+    "title": "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
+    "chapters": 10,
+    "verses": 509
+  },
+  {
+    "file": "ganapati_stotra_gretil_structure.json",
+    "title": "Mahāgaṇapatistotra with a commentary “by his disciple”",
+    "chapters": 1,
+    "verses": 25
+  },
+  {
+    "file": "garuda_puran_gretil_structure.json",
     "title": "Garuḍapurāṇa",
     "chapters": 314,
     "verses": 11873
   },
   {
-    "file": "kurma_puran_gretil.xml",
+    "file": "gautama_dharmasutra_1_3_comm_gretil_structure.json",
+    "title": "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+    "chapters": 3,
+    "verses": 318
+  },
+  {
+    "file": "gautama_dharmasutra_gretil_structure.json",
+    "title": "Dharmasūtra",
+    "chapters": 1,
+    "verses": 0
+  },
+  {
+    "file": "gitagovinda_gretil_structure.json",
+    "title": "Gītagovinda",
+    "chapters": 1,
+    "verses": 264
+  },
+  {
+    "file": "gopatha_brahmana_gretil_structure.json",
+    "title": "Gopathabrāhmaṇa",
+    "chapters": 47,
+    "verses": 2
+  },
+  {
+    "file": "harivamsa_app1_gretil_structure.json",
+    "title": "Harivaṃśa, Appendix I",
+    "chapters": 1,
+    "verses": 2092
+  },
+  {
+    "file": "harivamsa_gretil_structure.json",
+    "title": "Harivaṃśa constituted text with star passages",
+    "chapters": 1,
+    "verses": 6215
+  },
+  {
+    "file": "hatha_yoga_pradipika_gretil_structure.json",
+    "title": "Haṭhayogapradīpikā",
+    "chapters": 1,
+    "verses": 388
+  },
+  {
+    "file": "isha_upanishad_gretil_structure.json",
+    "title": "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+    "chapters": 1,
+    "verses": 16
+  },
+  {
+    "file": "kalidasa_shyamaladandaka_gretil_structure.json",
+    "title": "Śyāmalādaṇḍaka",
+    "chapters": 1,
+    "verses": 4
+  },
+  {
+    "file": "kirana tantra_gretil_structure.json",
+    "title": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+    "chapters": 1,
+    "verses": 250
+  },
+  {
+    "file": "kositaki_brahmana_gretil_structure.json",
+    "title": "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+    "chapters": 10,
+    "verses": 0
+  },
+  {
+    "file": "kubjikamata tantra_gretil_structure.json",
+    "title": "Kubjikamatatantra",
+    "chapters": 25,
+    "verses": 2975
+  },
+  {
+    "file": "kurma_puran_gretil_structure.json",
     "title": "Kūrmapurāṇa",
     "chapters": 94,
     "verses": 5816
   },
   {
-    "file": "linga_puran_gretil.xml",
+    "file": "linga_puran_gretil_structure.json",
     "title": "Liṅgapurāṇa, 1-108",
     "chapters": 108,
     "verses": 6831
   },
   {
-    "file": "matsya_puran_gretil.xml",
+    "file": "madhva_gita_bhashya_gretil_structure.json",
+    "title": "Mahābhāratatātparyanirṇaya",
+    "chapters": 1,
+    "verses": 0
+  },
+  {
+    "file": "mahabharata_structure.json",
+    "title": "Mahabharata",
+    "chapters": 0,
+    "verses": 8584
+  },
+  {
+    "file": "malinivijayottara tantra_gretil_structure.json",
+    "title": "Mālinīvijayottaratantra",
+    "chapters": 24,
+    "verses": 0
+  },
+  {
+    "file": "manava_grihya_sutra_gretil_structure.json",
+    "title": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+    "chapters": 42,
+    "verses": 657
+  },
+  {
+    "file": "manusmriti_gretil_structure.json",
+    "title": "Manusmṛti",
+    "chapters": 12,
+    "verses": 2688
+  },
+  {
+    "file": "markandeya_puran_gretil_structure.json",
+    "title": "Mārkaṇḍeyapurāṇa, 1-93",
+    "chapters": 90,
+    "verses": 4518
+  },
+  {
+    "file": "matrkabhedatantra_gretil_structure.json",
+    "title": "Mātṛkābhedatantra",
+    "chapters": 1,
+    "verses": 534
+  },
+  {
+    "file": "matsya_puran_gretil_structure.json",
     "title": "Matsyapurāṇa, 1-176",
     "chapters": 176,
     "verses": 8553
   },
   {
-    "file": "narada_puran_gretil.xml",
+    "file": "nadabindi_upanishad_gretil_structure.json",
+    "title": "Nādabindūpaniṣad",
+    "chapters": 1,
+    "verses": 20
+  },
+  {
+    "file": "namaskaraikavimshati stotra_gretil_structure.json",
+    "title": "Namaskāraikaviṃśatistotra",
+    "chapters": 1,
+    "verses": 27
+  },
+  {
+    "file": "narada_puran_gretil_structure.json",
     "title": "Nāradapurāṇa (or Nāradīyapurāṇa)",
     "chapters": 165,
     "verses": 15554
   },
   {
-    "file": "ramayana_gretil.xml",
+    "file": "narasimha_puran_gretil_structure.json",
+    "title": "Narasiṃhapurāṇa",
+    "chapters": 69,
+    "verses": 3387
+  },
+  {
+    "file": "nirukta_gretil_structure.json",
+    "title": "Nirukta",
+    "chapters": 10,
+    "verses": 0
+  },
+  {
+    "file": "pancavimsha_brahmana_gretil_structure.json",
+    "title": "Pañcaviṃśabrāhmaṇa",
+    "chapters": 331,
+    "verses": 0
+  },
+  {
+    "file": "ramanuja_gita_bhashya_gretil_structure.json",
+    "title": "Bhagavadgītābhāṣya",
+    "chapters": 1,
+    "verses": 713
+  },
+  {
+    "file": "ramanuja_vedartha_gretil_structure.json",
+    "title": "Vedārthasaṃgraha",
+    "chapters": 1,
+    "verses": 2
+  },
+  {
+    "file": "ramayana_gretil_structure.json",
     "title": "Rāmāyaṇa",
     "chapters": 7,
     "verses": 18761
   },
   {
-    "file": "sa_bAdarAyaNa-brahmasUtra-alt.xml",
+    "file": "rigveda_aufrecht_gretil_structure.json",
+    "title": "Ṛgveda-Saṃhitā",
+    "chapters": 1028,
+    "verses": 10552
+  },
+  {
+    "file": "rigveda_khila_gretil_structure.json",
+    "title": "Ṛgvedakhilāni",
+    "chapters": 6,
+    "verses": 642
+  },
+  {
+    "file": "rigveda_padapatha_gretil_structure.json",
+    "title": "Ṛgvedasaṃhitā, Padapāṭha",
+    "chapters": 177,
+    "verses": 0
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra-alt_structure.json",
     "title": "Brahmasūtra text extracted from Śaṃkara's Śārīrakamīmāṃsābhāṣya",
     "chapters": 4,
     "verses": 555
   },
   {
-    "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2.xml",
+    "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_structure.json",
     "title": "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
     "chapters": 687,
     "verses": 1137
   },
   {
-    "file": "sa_bAdarAyaNa-brahmasUtra-comm.xml",
+    "file": "sa_bAdarAyaNa-brahmasUtra-comm_structure.json",
     "title": "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
     "chapters": 547,
     "verses": 775
   },
   {
-    "file": "sa_bAdarAyaNa-brahmasUtra-subcomm.xml",
-    "title": "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-    "chapters": 553,
-    "verses": 978
-  },
-  {
-    "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2.xml",
+    "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2_structure.json",
     "title": "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
     "chapters": 540,
     "verses": 916
   },
   {
-    "file": "sa_bAdarAyaNa-brahmasUtra.xml",
+    "file": "sa_bAdarAyaNa-brahmasUtra-subcomm_structure.json",
+    "title": "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+    "chapters": 553,
+    "verses": 978
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra_structure.json",
     "title": "Brahmasūtra",
     "chapters": 1,
     "verses": 545
   },
   {
-    "file": "sa_brahmANDapurANa.xml",
+    "file": "sa_brahmANDapurANa_structure.json",
     "title": "Brahmāṇḍapurāṇa",
     "chapters": 154,
     "verses": 13746
   },
   {
-    "file": "sa_brahmabindUpaniSad.xml",
+    "file": "sa_brahmabindUpaniSad_structure.json",
     "title": "Brahmabindūpaniṣad",
     "chapters": 1,
     "verses": 22
   },
   {
-    "file": "sa_brahmagupta-brAhmasphuTasiddhAnta.xml",
+    "file": "sa_brahmagupta-brAhmasphuTasiddhAnta_structure.json",
     "title": "Brāhmasphuṭasiddhānta",
     "chapters": 1,
     "verses": 214
   },
   {
-    "file": "vamana_puran_gretil.xml",
+    "file": "samaveda_gretil_structure.json",
+    "title": "Sāmavedasaṃhitā",
+    "chapters": 2,
+    "verses": 0
+  },
+  {
+    "file": "sarvadurgatiparishodhana tantra_gretil_structure.json",
+    "title": "Sarvadurgatipariśodhanatantra",
+    "chapters": 4,
+    "verses": 33
+  },
+  {
+    "file": "satvatatantra_gretil_structure.json",
+    "title": "Sātvatatantra",
+    "chapters": 1,
+    "verses": 701
+  },
+  {
+    "file": "shankhayana_shrauta_sutra_gretil_structure.json",
+    "title": "Śāṅkhāyanaśrautasūtra",
+    "chapters": 457,
+    "verses": 0
+  },
+  {
+    "file": "shira_upanishad_gretil_structure.json",
+    "title": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+    "chapters": 1,
+    "verses": 3
+  },
+  {
+    "file": "shiva mahimna stava_gretil_structure.json",
+    "title": "Śivamahimnastava",
+    "chapters": 1,
+    "verses": 46
+  },
+  {
+    "file": "shiva_puran_gretil_structure.json",
+    "title": "Śivapurāṇa, Books 1 and 7",
+    "chapters": 101,
+    "verses": 4808
+  },
+  {
+    "file": "shiva_sutra_varttika_gretil_structure.json",
+    "title": "Śivasūtra with vārttika",
+    "chapters": 1,
+    "verses": 683
+  },
+  {
+    "file": "shiva_upanishad_gretil_structure.json",
+    "title": "Śivopaniṣad",
+    "chapters": 7,
+    "verses": 625
+  },
+  {
+    "file": "shivasankalpa_upanishad_gretil_structure.json",
+    "title": "Śivasaṃkalpopaniṣad",
+    "chapters": 1,
+    "verses": 28
+  },
+  {
+    "file": "shvetashvatara_upanishad_gretil_structure.json",
+    "title": "Śvetāśvataropaniṣad",
+    "chapters": 7,
+    "verses": 113
+  },
+  {
+    "file": "skanda_puran_revakhanda_gretil_structure.json",
+    "title": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+    "chapters": 1,
+    "verses": 6465
+  },
+  {
+    "file": "svacchandatantra_gretil_structure.json",
+    "title": "Svacchandatantra [or Svacchandabhairavatantra]",
+    "chapters": 15,
+    "verses": 3680
+  },
+  {
+    "file": "svayambhu_puran_gretil_structure.json",
+    "title": "Svayaṃbhupurāṇa",
+    "chapters": 4,
+    "verses": 1753
+  },
+  {
+    "file": "todala tantra_gretil_structure.json",
+    "title": "Toḍalatantra",
+    "chapters": 10,
+    "verses": 396
+  },
+  {
+    "file": "uddamareshvara tantra_gretil_structure.json",
+    "title": "Uḍḍāmareśvaratantra",
+    "chapters": 1,
+    "verses": 175
+  },
+  {
+    "file": "vaikhanasa_dharmasutra_gretil_structure.json",
+    "title": "Vaikhānasadharmasūtra",
+    "chapters": 1,
+    "verses": 0
+  },
+  {
+    "file": "vamana_puran_gretil_structure.json",
     "title": "Vāmanapurāṇa, 1-69",
     "chapters": 69,
     "verses": 4477
   },
   {
-    "file": "vishnu_puran_gretil.xml",
+    "file": "vamana_puran_saromahatmya_gretil_structure.json",
+    "title": "Vāmanapurāṇa, Saromāhātmya",
+    "chapters": 26,
+    "verses": 1171
+  },
+  {
+    "file": "vasistha_dharmasutra_gretil_structure.json",
+    "title": "Vāsiṣṭhadharmasūtra",
+    "chapters": 46,
+    "verses": 0
+  },
+  {
+    "file": "vijJAnabhairava_gretil_structure.json",
+    "title": "Vijñānabhairava",
+    "chapters": 1,
+    "verses": 162
+  },
+  {
+    "file": "vijnana_bhairava_gretil_structure.json",
+    "title": "Vijñānabhairava",
+    "chapters": 1,
+    "verses": 162
+  },
+  {
+    "file": "vinaashikha tantra_gretil_structure.json",
+    "title": "Vīṇāśikhatantra",
+    "chapters": 1,
+    "verses": 396
+  },
+  {
+    "file": "vishnu_dharma_gretil_structure.json",
+    "title": "Viṣṇudharma",
+    "chapters": 1,
+    "verses": 0
+  },
+  {
+    "file": "vishnu_puran_gretil_critical_structure.json",
+    "title": "Viṣṇupurāṇa",
+    "chapters": 120,
+    "verses": 5834
+  },
+  {
+    "file": "vishnu_puran_gretil_structure.json",
     "title": "Viṣṇupurāṇa",
     "chapters": 126,
     "verses": 6339
   },
   {
-    "file": "vishnu_puran_gretil_critical.xml",
-    "title": "Viṣṇupurāṇa",
-    "chapters": 120,
-    "verses": 5834
+    "file": "vishnu_smriti_gretil_structure.json",
+    "title": "Viṣṇusmṛti",
+    "chapters": 99,
+    "verses": 480
+  },
+  {
+    "file": "yajnavalkya_smriti_gretil_structure.json",
+    "title": "Yājñavalkyasmṛti",
+    "chapters": 3,
+    "verses": 1011
+  },
+  {
+    "file": "yama_smriti_gretil_structure.json",
+    "title": "Yamasmṛti (South Indian recension)",
+    "chapters": 2,
+    "verses": 140
+  },
+  {
+    "file": "yamuna stotraratna_gretil_structure.json",
+    "title": "Stotraratna",
+    "chapters": 1,
+    "verses": 64
+  },
+  {
+    "file": "yoga_bija_gretil_structure.json",
+    "title": "Yogaśataka",
+    "chapters": 1,
+    "verses": 110
+  },
+  {
+    "file": "yoga_sutra_bhasya_gretil_structure.json",
+    "title": "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+    "chapters": 1,
+    "verses": 135
+  },
+  {
+    "file": "yoga_sutra_gretil_structure.json",
+    "title": "Yogasūtra",
+    "chapters": 1,
+    "verses": 195
   }
 ]

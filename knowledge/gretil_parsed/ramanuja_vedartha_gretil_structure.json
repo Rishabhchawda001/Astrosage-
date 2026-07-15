@@ -1,0 +1,34 @@
+{
+  "file": "ramanuja_vedartha_gretil.xml",
+  "xml_id": "sa_rAmAnuja-vedArthasaMgraha",
+  "title": "Vedārthasaṃgraha",
+  "total_chapters": 1,
+  "total_verses": 2,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 2,
+      "verse_groups": [
+        {
+          "lines": [
+            "aśeṣacidacidvastuviśeṣiṇe śeṣaśāyine /",
+            "nirmalānantakalyāṇanidhaye viṣṇave namaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "paraṃ brahmaivājñaṃ bhramaparigataṃ saṃsarati tatparopādhyālīḍhaṃ vivaśamaśubhasyāspadam iti /",
+            "śrutinyāyāpetaṃ jagati vitataṃ mohanam idaṃ tamo yenāpāstaṃ sa hi vijayate yāmunamuniḥ //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "aśeṣajagaddhitānuśāsanaśrutinikaraśirasi samadhigato 'yam arthaḥ jīvaparamātmayāthātmyajñānapūrvakavarṇāśramadharmetikartavyatākaparamapuruṣacaraṇayugaladhyānārcanapraṇāmādir atyarthapriyas tatprāptiphalaḥ /",
+        "asya jīvātmano 'nādyavidyāsaṃcitapuṇyapāparūpakarmapravāhahetukabrahmādisuranaratiryaksthāvarātmakacaturvidhadehapraveśakṛtatattadabhimānajanitāvarjanīyabhavabhayavidhvaṃsanāya dehātiriktātmasvarūpatatsvabhāvatadantarayāmiparamātmasvarūpatatsvabhāvatadupāsanatatphalabhūtātmasvarūpāvirbhāvapūrvakānavadhikātiśayānandabrahmānubhavajñāpane pravṛttaṃ hi vedāntavākyajātam, tat tvam asi / ayam ātmā brahma / ya ātmani tiṣṭhann ātmano 'ntaro yam ātmā na veda yasyātmā śarīraṃ ya ātmānam antaro yamayati sa ta ātmāntaryāmy amṛtaḥ / eṣa sarvabhūtāntarātmāpahatapāpmā divyo deva eko nārāyaṇaḥ / tam etaṃ vedānuvacanena brāhmaṇā vividiṣanti yajñena dānena tapasānāśakena / brahmavid āpnoti param / tam evaṃ vidvān\namṛta iha bhavati nānyaḥ panthā ayanāya vidyata ityādikam /",
+        "jīvātmanaḥ svarūpaṃ devamanuṣyādiprakṛtipariṇāmaviśeṣarūpanānāvidhabhedarahitaṃ jñānānandaikaguṇaṃ, tasyaitasya karmakṛtadevādibhede 'padhvaste svarūpabhedo vācām agocaraḥ svasaṃvedyaḥ, jñānasvarūpam ity etāvad eva nirdeśyam / tac ca sarveṣām ātmanāṃ samānam /"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3209 @@
+// Parva 3, Adhyaya 1, Verse 0
+oṃ vyāsaṃ vasiṣṭhanaptāraṃ śakteḥ pautram akalmaṣam parāśarātmajaṃ vande śukatātaṃ taponidhim vyāsāya viṣṇurūpāya vyāsarūpāya viṣṇave namo vai brahmanidhaye vāsiṣṭhāya namo namaḥ
+
+// Parva 3, Adhyaya 1, Verse 10
+tatas te puruṣavyāghrā rathān āsthāya bhārata dadṛśur jāhnavītīre pramāṇākhyaṃ mahāvaṭam
+
+// Parva 3, Adhyaya 1, Verse 28
+anīcair nāpy aviṣayair nādharmiṣṭhair viśeṣataḥ
+
+// Parva 3, Adhyaya 1, Verse 43
+rājā tu bhrātṛbhiḥ sārdhaṃ tathā sarvaiḥ suhṛdgaṇaiḥ aśeta tāṃ niśāṃ rājā duḥkhaśokasamāhataḥ
+
+// Parva 3, Adhyaya 2, Verse 17
+śuśrūṣā śravaṇaṃ caiva grahaṇaṃ dhāraṇaṃ tathā ūhāpoho 'pi vijñānaṃ tattvajñānaṃ ca dhīguṇāḥ
+
+// Parva 3, Adhyaya 2, Verse 20
+vyādhayo 'tra śarīre 'smin vātapittakaphodbhavāḥ ajīrṇaprabhavāḥ sarve duḥkhāḥ pāpodbhavās tathā
+
+// Parva 3, Adhyaya 2, Verse 38
+arthibhyaḥ kālatas tasmān nityam arthavatāṃ bhayam
+
+// Parva 3, Adhyaya 2, Verse 47
+dharmārthaṃ yasya vittehā varaṃ tasya nirīhatā
+
+// Parva 3, Adhyaya 2, Verse 54
+utthāya cāsanaṃ dadyād eṣa dharmaḥ sanātanaḥ
+
+// Parva 3, Adhyaya 2, Verse 58
+cakṣur dadyān mano dadyād vācaṃ dadyāc ca sūnṛtām anuvrajed upāsīta sa yajñaḥ pañcadakṣiṇaḥ yo dadyād aparikliṣṭam adhvani vartate śrāntāyādṛṣṭapūrvāya tasya puṇyaphalaṃ mahat
+
+// Parva 3, Adhyaya 3, Verse 5
+sāntvayitvā tato devaḥ prāṇikārye yuyoja ca
+
+// Parva 3, Adhyaya 3, Verse 13
+tatas tv adhyāpayām āsa mantraṃ sarvārthasādhakam aṣṭākṣaraṃ paraṃ mantram ārtasya satataṃ priyam
+
+// Parva 3, Adhyaya 3, Verse 14
+so 'vagāhya jalaṃ rājā devasyābhimukho 'bhavat
+
+// Parva 3, Adhyaya 3, Verse 15
+mayi sneho 'sti ced brahman yady anugrahabhāg aham bhagavan nāsti ced guhyaṃ tac ca me brūhi sāṃpratam
+
+// Parva 3, Adhyaya 3, Verse 25
+sraṣṭā saṃvartako vahniḥ sarvasyādir alolupaḥ anantaḥ kapilo bhānuḥ
+
+// Parva 3, Adhyaya 3, Verse 26
+**** **** sarvadhātuniṣevitaḥ
+
+// Parva 3, Adhyaya 4, Verse 3
+itaś caturdaśe varṣe bhūyo rājyam avāpsyasi yāvad vāñchati pāñcālī pātreṇānena suvrata
+
+// Parva 3, Adhyaya 4, Verse 4
+yudhiṣṭhira uvāca tvatprasādād dvijaśreṣṭha yad iṣṭaṃ prāptavān aham
+
+// Parva 3, Adhyaya 5, Verse 3
+saubalenaiva pāpena duryodhanahitaiṣiṇā krūram ācaritaṃ karma na me priyam anuṣṭhitam tathaivaṃ hi kṛte tatra tad bhavān vaktum arhati uttaraṃ prāptakālaṃ ca kim anyan manyate kṣamam nāsti dharme sahāyatvam iti me dīryate manaḥ yatra pāṇḍusutāḥ sarve kliśyanti vanam āgatāḥ
+
+// Parva 3, Adhyaya 5, Verse 7
+yaśo na naśyej jñātibhedaś ca na syād dharmo na syān naiva caivaṃ kṛte tvām
+
+// Parva 3, Adhyaya 5, Verse 10
+yeṣāṃ rājā dharmaputro mahātmā teṣāṃ loke kiṃ nu duṣprāpam asti
+
+// Parva 3, Adhyaya 6, Verse 20
+tasmāt satyaṃ satataṃ vai bruvāṇo lokasya hṛdyo bhavatīti sadyaḥ
+
+// Parva 3, Adhyaya 6, Verse 21
+mitraiḥ putrair bhūmihastyaśvabhūri mahīm imāṃ pālayituṃ purastāt
+
+// Parva 3, Adhyaya 7, Verse 1
+vidurasya prabhāvaṃ ca saṃdhivigrahakāritam vivṛddhiṃ ca parāṃ matvā pāṇḍavānāṃ bhaviṣyati
+
+// Parva 3, Adhyaya 7, Verse 2
+papāta sahasā rājā chinnadruma ivāvaśaḥ
+
+// Parva 3, Adhyaya 7, Verse 17
+so 'bhigatvā tadā veśma rājñaḥ samabhivādya ca upātiṣṭhan mahātmānaṃ rājānaṃ preṣyavat tadā
+
+// Parva 3, Adhyaya 7, Verse 20
+dhṛtarāṣṭro mahārāja bhrātṛsnehād uvāca ha yudhiṣṭhiras tu kuśalī bhrātṛbhiḥ saha tiṣṭhati atha rātriṃ dinaṃ cāhaṃ tvatkṛte bharatarṣabha prītas tvam eva me nityaṃ bhrātā sarvaguṇānvitaḥ
+
+// Parva 3, Adhyaya 8, Verse 9
+athāgamiṣyanti punaḥ pāṇḍavā vāraṇāhvayam
+
+// Parva 3, Adhyaya 8, Verse 11
+nāgamiṣyanti te vīrā akṛtvā kālasaṃvidam āgaccheyuś ca te mohāt punar dyūtaṃ na saṃśayaḥ
+
+// Parva 3, Adhyaya 8, Verse 20
+etat kṛtyatamaṃ rājñaḥ kauravyasya mahātmanaḥ
+
+// Parva 3, Adhyaya 11, Verse 7
+tam āgatam ṛṣiṃ dṛṣṭvā dhṛtarāṣṭro janeśvaraḥ pūjayitvā yathānyāyaṃ papracchāgamanakriyām
+
+// Parva 3, Adhyaya 12, Verse 2
+yaṃ jaghānaikacakrāyāṃ bhīmo bhīmaparākramaḥ rākṣasaṃ krodhatāmrākṣaṃ darpotsiktaṃ balādhikam tasya bhrātā mahāvīryaḥ kanīyān uruvikramaḥ bhrātṛnāśasamutthena channo vyasanabhasmanā bhīmasenāntaraprepsuś cacāra pṛthivīm imām sa nirjitān upāśrauṣīt pāṇḍavān anulakṣaye
+
+// Parva 3, Adhyaya 12, Verse 22
+paiṭhīnagotre utpanno nāstiko vedanindakaḥ
+
+// Parva 3, Adhyaya 12, Verse 28
+vismayaṃ paramaṃ gatvā rākṣaso ghoradarśanaḥ
+
+// Parva 3, Adhyaya 13, Verse 2
+**** **** dhṛṣṭadyumnaḥ pratāpavān śiśupālasutaḥ śrīmān
+
+// Parva 3, Adhyaya 13, Verse 3
+keśavaḥ sātyakiś caiva dhṛṣṭadyumnaś ca pārṣataḥ amātyaiḥ saha mitraiś ca balena svajanena ca vane tena yayuḥ pārthān ūcuḥ kiṃ karavāmahe
+
+// Parva 3, Adhyaya 13, Verse 4
+abhivādya kuruśreṣṭhaṃ viṣaṇṇaḥ keśavo 'bravīt
+
+// Parva 3, Adhyaya 13, Verse 5
+etān nihatya samare ye ca teṣāṃ padānugāḥ tāṃś ca sarvān vinirjitya sahitān sanarādhipān
+
+// Parva 3, Adhyaya 13, Verse 15
+yogakartā hṛṣīkeśa sāṃkhyakartā sanātanaḥ śīlas tvaṃ sarvayogānāṃ vīrāṇāṃ niyamasya ca
+
+// Parva 3, Adhyaya 13, Verse 25
+prādurbhāvasahasreṣu teṣu teṣu tvayā vibho adharmarucayaḥ kṛṣṇa nihatāḥ śataśo 'surāḥ
+
+// Parva 3, Adhyaya 13, Verse 29
+evam ete yudhi hatā bhūyaś cānyāñ śṛṇuṣva ha
+
+// Parva 3, Adhyaya 13, Verse 34
+tathā nārāyaṇa purā kratubhir bhūridakṣiṇaiḥ iṣṭavāṃs tvaṃ mahāsatraṃ kṛṣṇa caitrarathe vane taṃ hantum udyatau ghorau dānavau madhukaiṭabhau tayor vyatikramaṃ dṛṣṭvā kruddhasya bhavato hareḥ lalāṭāj jātavāñ śambhuḥ śūlapāṇis trilocanaḥ itthaṃ tāv api deveśau tvaccharīrasamudbhavau tvanniyogakārāv etāv iti me nārado 'bravīt
+
+// Parva 3, Adhyaya 13, Verse 41
+ity uktvā puṇḍarīkākṣaḥ pāṇḍavaṃ supriyaṃ priyam prīyamāṇo hṛṣīkeśas tūṣṇīm āsāṃ babhūva ha
+
+// Parva 3, Adhyaya 13, Verse 43
+vāsudeva vasūnāṃ ca vāsavo bahudhācyuta devadevo 'si lokānāṃ kṛṣṇadvaipāyano 'bravīt
+
+// Parva 3, Adhyaya 13, Verse 46
+brahmaśaṃkaraśakrādyair devavṛndaiḥ punaḥ punaḥ krīḍase tvaṃ naravyāghra bālaḥ krīḍanakair iva
+
+// Parva 3, Adhyaya 13, Verse 55
+kṛṣyamāṇāṃ tathā dīnām anāthām iva mādhava āhuś caitān ṣaṇḍatilān pañca caiva tu pāṇḍavān patim anyaṃ vṛṇīṣveti sarve te madhusūdana
+
+// Parva 3, Adhyaya 13, Verse 70
+kālaḥ sṛjati bhūtāni kālaḥ saṃharate prajāḥ tat kālena kṛtaṃ manye na te pauruṣavardhanam
+
+// Parva 3, Adhyaya 13, Verse 86
+sā dṛṣṭvā pāṇḍavaṃ tatra śayānaṃ bhrātṛbhiḥ saha hṛcchayenābhibhūtā hi bhīmasenam akāmayat
+
+// Parva 3, Adhyaya 13, Verse 88
+āgataṃ pratiyotsyāmi rākṣasaṃ bhrātaraṃ tava bhīmasenaṃ mahātmānam idam āha śucismitā palāyadhvam itaḥ kṣipraṃ mama bhrātā suvīryavān āgamiṣyati vo hantuṃ tasmād gacchata māciram atha bhīmo 'bhyuvācaināṃ sābhimānam idaṃ vacaḥ nodvijeyam ahaṃ tasmān nihaniṣye 'ham āgatam
+
+// Parva 3, Adhyaya 13, Verse 90
+athainām abravīt kruddho rākṣasaḥ puruṣādakaḥ
+
+// Parva 3, Adhyaya 13, Verse 92
+tam āgatam abhiprekṣya bhīmaseno mahābalam utthāya sahasā rakṣo nijagrāha mahābalaḥ
+
+// Parva 3, Adhyaya 13, Verse 96
+tato bhīmo mahābāhū rūpam āsthāya vai mahat jaghāna rākṣasaṃ kruddho vṛtraṃ devapatir yathā
+
+// Parva 3, Adhyaya 13, Verse 113
+caturbhiḥ kāraṇaiḥ kṛṣṇa tvayā rakṣyāsmi nityaśaḥ saṃbandhād gauravāt sakhyāt prabhutvenaiva keśava
+
+// Parva 3, Adhyaya 13, Verse 114
+sāntvayaṃś ca varārohāṃ suvākyair bharatarṣabha
+
+// Parva 3, Adhyaya 13, Verse 115
+tvaṃ śroṣyasy anavadyāṅgi duryodhanamukhān ripūn
+
+// Parva 3, Adhyaya 13, Verse 117
+tac chrutvā draupadī vākyaṃ prativākyam athācyutāt sācīkṛtam avaikṣat sā pāñcālī madhyamaṃ patim ābabhāṣe mahārāja draupadīm arjunas tadā mā rodīḥ śubhatāmrākṣi yad āha madhusūdanaḥ tathā tad bhavitā devi nānyathā varavarṇini
+
+// Parva 3, Adhyaya 13, Verse 118
+śakuniṃ tv akṣakitavaṃ mādrīputro haniṣyati
+
+// Parva 3, Adhyaya 14, Verse 5
+puṣkareṇa narendreṇa tāñ ca vakṣyāmi tasya vai
+
+// Parva 3, Adhyaya 14, Verse 13
+sarvāṃs tān anugṛhṇīma baddhvā pāśais tu vāruṇaiḥ
+
+// Parva 3, Adhyaya 15, Verse 6
+cirajīvī nṛpaḥ so 'pi prasādāt padmajanmanaḥ
+
+// Parva 3, Adhyaya 15, Verse 15
+gataḥ kauravya duṣṭātmā mārtikāvatiko nṛpaḥ
+
+// Parva 3, Adhyaya 15, Verse 22
+śrutvaiva tat kṣaṇaṃ vegād āgato 'haṃ narādhipa
+
+// Parva 3, Adhyaya 16, Verse 16
+saṃkramā bheditāḥ sarve prākārāś ca navīkṛtāḥ
+
+// Parva 3, Adhyaya 18, Verse 15
+tān āpatata (sic!) bāṇaughān sa ciccheda mahābalaḥ tataś cānyāñ śarān dīptān pracikṣepa sute mama
+
+// Parva 3, Adhyaya 21, Verse 15
+dṛṣṭavān asmi rājendra sālvarājam athāntike
+
+// Parva 3, Adhyaya 21, Verse 16
+sa mām ālokya sahasā senāṃ svāṃ prāhiṇon mṛdhe madbāhunā ca senāyāṃ śiṣṭāyāṃ kiṃ cid eva ca
+
+// Parva 3, Adhyaya 21, Verse 29
+patitās te 'pi bhakṣyante samudrāmbhonivāsibhiḥ
+
+// Parva 3, Adhyaya 21, Verse 32
+asayaḥ śaktimuśalapāśārṣṭikaṇapāḥ śarāḥ
+
+// Parva 3, Adhyaya 21, Verse 34
+aṅgārapāṃśuvarṣaṃ ca śastravarṣaṃ ca bhārata
+
+// Parva 3, Adhyaya 21, Verse 35
+sa mohayām āsa tadā māyayā yudhi dānavaḥ tato hatāyāṃ ca mayā māyāyāṃ yudhi dānavaḥ
+
+// Parva 3, Adhyaya 22, Verse 5
+avasthātuṃ na śakyāmi aṅgaṃ me vyavasīdati
+
+// Parva 3, Adhyaya 22, Verse 8
+śarair nānāvidhākārair divyāstrapratimantritaiḥ astraiḥ śastraiś ca vividhaiḥ khasthā hy antarhitā api
+
+// Parva 3, Adhyaya 23, Verse 24
+jitavāñ jāmadagnyaṃ yaḥ koṭivarṣagaṇān bahūn sa eṣa nānyair vadhyo hi tvām ṛte naiva kaiś cana
+
+// Parva 3, Adhyaya 23, Verse 28
+yojayaṃ tatra dhanuṣā dānavāntakaraṃ raṇe
+
+// Parva 3, Adhyaya 23, Verse 41
+adyāhaṃ kiṃ kariṣyāmi bhinnasetur ivodakam
+
+// Parva 3, Adhyaya 23, Verse 43
+pariṣvaktaś cārjunena yamābhyāṃ cābhivāditaḥ saṃmānitaś ca dhaumyena draupadyā cārcito 'śrubhiḥ
+
+// Parva 3, Adhyaya 26, Verse 4
+tam āgataṃ jvalitahutāśanaprabhaṃ mahāmanāḥ kuruvṛṣabho yudhiṣṭhiraḥ apūjayat suraṛṣimānavārcitaṃ mahāmuniṃ hy anupamasattvavīryavān
+
+// Parva 3, Adhyaya 28, Verse 5
+vacanāny amanojñāni durvācyāni ca saṃsadi
+
+// Parva 3, Adhyaya 28, Verse 31
+**** **** kasmāt kṣamasi pārthiva nakulaṃ sahadevaṃ ca dṛṣṭvā te duḥkhitāv ubhau aduḥkhārhau manuṣyendra
+
+// Parva 3, Adhyaya 28, Verse 32
+dhṛṣṭadyumnasya bhaginīṃ vīrapatnīm anuvratām
+
+// Parva 3, Adhyaya 28, Verse 33
+tyaktavāṃs tvaṃ vināśāya vyaktaṃ bhṛgupatir yathā
+
+// Parva 3, Adhyaya 29, Verse 31
+anvīkṣya kāraṇaṃ caiva kāryaṃ tejaḥ kṣamāpi vā
+
+// Parva 3, Adhyaya 30, Verse 0
+vaiśaṃpāyana uvāca draupadyā vacanaṃ śrutvā ślakṣṇākṣarapadaṃ śubham uvāca draupadīṃ rājā smayamāno yudhiṣṭhiraḥ kāraṇe bhavatī kruddhā dhārtarāṣṭrasya durmateḥ yena krodhaṃ mahāprājñe bahudhā bahu manyase krodhaṃ mūlaharaṃ śatruṃ kāraṇaiḥ śṛṇu taṃ mama
+
+// Parva 3, Adhyaya 30, Verse 2
+yo na saṃharate krodhaṃ tasyābhāvo bhavaty uta abhāvakaraṇaṃ tasmāt krodho bhavati śobhane
+
+// Parva 3, Adhyaya 30, Verse 45
+kṛṣṇaś ca devakīputraḥ śamaṃ saṃpūjayiṣyati
+
+// Parva 3, Adhyaya 30, Verse 47
+yatra pārtho dhanuṣpāṇir bhīmaḥ kṛṣṇaś ca vīryavān
+
+// Parva 3, Adhyaya 30, Verse 48
+kṣayaḥ sarvasya lokasya pṛthivyām iti me matiḥ bhīṣmo droṇaś ca karṇaś ca kiṃ śeṣaṃ tatra paśyasi
+
+// Parva 3, Adhyaya 31, Verse 1
+karmabhiś cintito loko gatyāgatyā pṛthagvidhaḥ tasmāt karmāṇi nityāni lobhān mokṣaṃ yiyāsati
+
+// Parva 3, Adhyaya 31, Verse 8
+chāyevānveti puruṣaṃ dharmaḥ sādhu mayārjitaḥ
+
+// Parva 3, Adhyaya 31, Verse 11
+bhuñjate rukmapātrībhir yatrāhaṃ paricārikā
+
+// Parva 3, Adhyaya 31, Verse 13
+śvabhyaś ca śvapacebhyaś ca dattvā śiṣṭena jīvasi
+
+// Parva 3, Adhyaya 32, Verse 14
+unmattān manyate bālaḥ sarvān āgataniścayān
+
+// Parva 3, Adhyaya 32, Verse 20
+yasya nārṣaṃ pramāṇaṃ syāc chiṣṭācāraś ca bhāmini naiva tasya paro loko nāyam astīti niścayaḥ
+
+// Parva 3, Adhyaya 32, Verse 34
+api kalpasahasreṇa naraḥ śreyo 'dhigacchati
+
+// Parva 3, Adhyaya 33, Verse 7
+akarmaṇāṃ vai bhūtānāṃ vṛttiḥ syān na hi kā cana tad evābhiprapadyeta na vihanyāt kathaṃ cana
+
+// Parva 3, Adhyaya 33, Verse 10
+tathā hy etā na vardheran karma ced aphalaṃ bhavet
+
+// Parva 3, Adhyaya 33, Verse 36
+tat tu niḥsaṃśayaṃ na syāt tvayy akarmaṇy avasthite
+
+// Parva 3, Adhyaya 34, Verse 13
+durmanuṣyā hi nirvedād āpannāḥ klībajīvikām
+
+// Parva 3, Adhyaya 34, Verse 14
+yad asmān sarvakāryeṣu samarthā dhṛtarāṣṭrajāḥ
+
+// Parva 3, Adhyaya 34, Verse 31
+kāmārthī caiva yaḥ kāmaṃ na kāmād anyam ṛcchati
+
+// Parva 3, Adhyaya 34, Verse 36
+dravyaparigrahāyārtho garīyān durbalātmanaḥ
+
+// Parva 3, Adhyaya 34, Verse 50
+svadharmaṃ pratipadyasva jahi śatrūn samāgatān dhārtarāṣṭravanaṃ pārtha mayā pārthena nāśaya
+
+// Parva 3, Adhyaya 34, Verse 70
+na tathā tapasā rājaṃl lokān prāpnoti kṣatriyaḥ yathā sṛṣṭena yuddhena vijayenetareṇa vā
+
+// Parva 3, Adhyaya 34, Verse 77
+dhārtarāṣṭrīṃ mahārāja na śaṃsanti matiṃ janāḥ
+
+// Parva 3, Adhyaya 34, Verse 79
+imām avasthāṃ ca gate sahāsmābhir ariṃdama hanta naṣṭāḥ sma sarve vai bhavatopadrave sati
+
+// Parva 3, Adhyaya 34, Verse 83
+kaḥ parair hriyamāṇānām ātmabhāvena saṃsahet
+
+// Parva 3, Adhyaya 34, Verse 85
+śatruhastagatāṃ rājan kathaṃ svinn āharer mahīm iha yatnam upāhṛtya balena mahatānvitaḥ
+
+// Parva 3, Adhyaya 35, Verse 0
+vaiśaṃpāyana uvāca sa evam uktas tu mahānubhāvaḥ satyavrato bhīmasenena rājā ajātaśatrus tadanantaraṃ vai dhairyānvito vākyam idaṃ babhāṣe
+
+// Parva 3, Adhyaya 36, Verse 6
+kālo nūnaṃ manuṣyasya nityaṃ saṃnihito 'mṛtaḥ
+
+// Parva 3, Adhyaya 36, Verse 18
+śrotriyasyeva te rājan mandakasyāvipaścitaḥ anuvākahatā buddhir naiṣā tattvārthadarśinī
+
+// Parva 3, Adhyaya 36, Verse 20
+jñāne tapasi śaurye vā yasya na prathitaṃ yaśaḥ vidyāyām atha lābhe vā mātur uccāra eva saḥ
+
+// Parva 3, Adhyaya 37, Verse 1
+śrutā me rājadharmāś ca varṇānāṃ ca pṛthak pṛthak āyatyāṃ ca tadātve ca yaḥ paśyati sa paśyati dharmasya jānamāno 'haṃ gatim agryāṃ sudurvidām kathaṃ balāt kariṣyāmi meror iva vimardanam
+
+// Parva 3, Adhyaya 37, Verse 23
+duryodhanān nṛpasutāt tathā duḥśāsanād api
+
+// Parva 3, Adhyaya 37, Verse 24
+pratipādya tu rājendra tataḥ kṣipraṃ jvaraṃ jahi
+
+// Parva 3, Adhyaya 37, Verse 39
+**** **** rṣayo devapatiṃ yathā saṃprāpya tad vanaṃ ramyaṃ
+
+// Parva 3, Adhyaya 38, Verse 6
+aikātmyaṃ ca gatāḥ sarve dhārtarāṣṭreṇa bhārata
+
+// Parva 3, Adhyaya 38, Verse 7
+ācāryā mānitās tuṣṭāḥ śāntiṃ vyavaharanty uta
+
+// Parva 3, Adhyaya 38, Verse 8
+anena brahmaṇā tāta sarvaṃ saṃpratipadyate
+
+// Parva 3, Adhyaya 38, Verse 21
+idaṃ ca me paraṃ duḥkhaṃ yat tvāṃ pārtha suyodhanaḥ dṛṣṭvā māṃ gaur iti prāha prahasan rājasaṃsadi tasmād duḥkhād idaṃ duḥkhaṃ garīya iti me matiḥ yad asmān prati sabhyeṣu bahv ayuktam abhāṣata
+
+// Parva 3, Adhyaya 38, Verse 25
+prāñjaliḥ pāṇḍavaṃ kṛṣṇā devānāṃ kurvatī namaḥ vāgbhiḥ paramaśaktābhir maṅgalābhir abhāṣata (25ab) namo dhātre vidhātre ca svasti gaccha vanād vanam dharmas tvāṃ juṣatāṃ pārtha bhāskaraś ca vibhāvasuḥ brahmā tvāṃ brāhmaṇāś caiva pālayantu dhanaṃjaya jyeṣṭhāpacāyī jyeṣṭhasya bhrātur vacanam āsthitaḥ prapadyethā vasūn rudrān ādityān samarudgaṇān viśvedevāṃs tathādityāñ śāntyarthaṃ bharatarṣabha (25cd) svasti te 'stv āntarikṣebhyo divyebhyo bharatarṣabha (25ef) pārthivebhyaś ca sarvebhyo ye ke cit paripanthinaḥ avarodhād vane vāsāt sarvasvaharaṇād api idaṃ duḥkhataraṃ manye putrebhyaś ca vivāsanāt (21ab) mā smāhaṃ kṣatriyakule jātu cit punar ābhavam (21cd) brāhmaṇebhyo namasyāmi yeṣāṃ nāyudhajīvikā dhvaṃsitaḥ svagṛhebhyaś ca rāṣṭrāc ca bharatarṣabha vane pratiṣṭhito bhūtvā sauhārdād avatiṣṭhase jetā yaḥ sarvaśatrūṇāṃ yaḥ pāvakam atarpayat janas tvāṃ paśyatīdānīṃ gacchantaṃ bharatarṣabha asmin nūnaṃ mahāraṇye bhrātaraḥ suhṛdaś ca te tvatkathāḥ kathayiṣyanti cāraṇā ṛṣayas tathā (20ab) yat tat kuntī mahābāho jātasyaicchad dhanaṃjaya (20cd) tat te sarvaṃ tathaivāstu yathā ca manasecchasi vasudevasvasā devī tvām āryā punar āgatam sā paśyatu pṛthā pārtha sahasrākṣam ivāditiḥ (22ab) nūnaṃ te bhrātaraḥ sarve tvatkathābhiḥ prajāgare (22cd) raṃsyante tava karmāṇi kīrtayantaḥ punaḥ punaḥ (23ab) naiva naḥ pārtha bhogeṣu na dhane nota jīvite (23cd) tuṣṭā buddhir bhavitrī vā tvayi dīrghapravāsini āśā saṃjāyate vīra tvayy araṇyaṃ prapadyati (24ab) tvayi naḥ pārtha sarveṣāṃ sukhaduḥkhe pratiṣṭhite (24cd) jīvitaṃ maraṇaṃ caiva svargo 'tha narakas tathā (24ef) āpṛṣṭo me 'si kaunteya svasti prāpnuhi pāṇḍava kṛtāstraṃ svastimantaṃ tvāṃ drakṣyāmi punar āgatam
+
+// Parva 3, Adhyaya 38, Verse 26
+śanair iva diśaṃ vīra udīcīṃ bharatarṣabhaḥ saṃharaṃs tarasā vṛkṣāṃl latāvallīś ca bhārata asajjamāno vṛkṣeṣu jagāma sumahābalaḥ
+
+// Parva 3, Adhyaya 38, Verse 27
+so 'gacchat parvatāṃs tāta tapodhananiṣevitān divyaṃ haimavataṃ puṇyaṃ devajuṣṭaṃ paraṃtapaḥ
+
+// Parva 3, Adhyaya 38, Verse 30
+gatvā sa ṣaḍ ahorātrān saptame 'hani pāṇḍavaḥ prasthendrakīlasya śubhe tapoyogaparo 'bhavat ūrdhvabāhur na cāṅgāni prāspandayata kiṃ cana samāhitātmā niyataḥ sahasrākṣasuto 'cyutaḥ
+
+// Parva 3, Adhyaya 39, Verse 13
+gandharvair apsarobhiś ca krīḍadbhir upaśobhitam mattaiḥ kiṃpuruṣaiś caiva pānabhūmigatais tathā tat priyābhiḥ samantāc ca vyāvṛtya parivīkṣitaḥ jagāma naraśārdūlo devaṃ draṣṭuṃ pinākinam
+
+// Parva 3, Adhyaya 39, Verse 25
+nivedayiṣavaḥ pārthaṃ tapasy ugre samāsthitam
+
+// Parva 3, Adhyaya 39, Verse 27
+teṣāṃ tad vacanaṃ śrutvā munīnāṃ bhāvitātmanām umāpatir bhūtapatir vākyam etad uvāca ha
+
+// Parva 3, Adhyaya 39, Verse 28
+na vo viṣādaḥ kartavyaḥ phalgunaṃ prati sarvaśaḥ
+
+// Parva 3, Adhyaya 40, Verse 6
+preṣayitvā nu ditijaṃ mūkaṃ vā pārthaniścitam mayepsitaṃ madīyais tu vastuṃ saha mahābalaḥ tasmād arjunabāṇais tvaṃ nirviddho hi mamaiva ca dehaṃ tyaktvā mahābāho mām evaiṣyasi dānava
+
+// Parva 3, Adhyaya 40, Verse 12
+mumoca niśitaṃ bāṇaṃ vajrāśanisamaṃ balam
+
+// Parva 3, Adhyaya 40, Verse 21
+na matkṛte tvayā vīra bhīḥ kāryā vanam antikāt iyaṃ bhūmiḥ sadāsmākam ucitā vasatāṃ vane tvayā tu duṣkaraḥ kasmād iha vāsaḥ prarocitaḥ vayaṃ tu bahusattve 'smin nivasāmas tapodhana bhavāṃs tu kṛṣṇavartmābhaḥ sukumāraḥ sukhocitaḥ kathaṃ śūnyam imaṃ deśam ekākī vicariṣyati gāṇḍīvam āśrayaṃ kṛtvā nārācāṃś cāgnisaṃnibhān nivasāmi mahāraṇye dvitīya iva pāvakiḥ eṣa cāpi mayā jantur mṛgarūpaṃ samāśritaḥ rākṣaso nihato ghoro hantuṃ mām iha cāgataḥ mayaiṣa dhanunirmuktais tāḍitaḥ pūrvam eva hi bāṇair abhihataḥ śete nītaś ca yamasādanam
+
+// Parva 3, Adhyaya 40, Verse 24
+tasya tad vacanaṃ śrutvā kirātasyārjunas tadā roṣam āhārayām āsa tāḍayām āsa ceṣubhiḥ tato hṛṣṭena manasā pratijagrāha sāyakān bhūyo bhūya iti prāha manda mandety uvāca ha praharasva śarair etān nārācān marmabhedinaḥ ity ukto bāṇavarṣaṃ sa mumoca sahasārjunaḥ
+
+// Parva 3, Adhyaya 40, Verse 38
+pragṛhyātha dhanuṣkoṭyā jyāpāśenāvakṛṣya ca muṣṭibhiś cāpi hatavān vajrakalpair mahādyutiḥ
+
+// Parva 3, Adhyaya 40, Verse 50
+sumuhūrtaṃ tathā dhyātvā sacetāḥ punar utthitaḥ tataḥ prīto bhavas tasya bhagavān kāmanāśanaḥ
+
+// Parva 3, Adhyaya 40, Verse 51
+uvāca cainaṃ vacasā meghagambhīragīr haraḥ jātavismayam ālokya tataḥ kṣīṇāṅgasaṃhatim śaraṇyaṃ śaraṇaṃ gatvā bhagavantaṃ pinākinam mṛnmayaṃ sthaṇḍilaṃ kṛtvā mālyenāpūjayad bhavam tac ca mālyaṃ tadā pārthaḥ kirātaśirasi sthitam apaśyat pāṇḍavaśreṣṭho harṣeṇa prakṛtiṃ gataḥ papāta pādayos tasya tataḥ prīto 'bhavad bhavaḥ
+
+// Parva 3, Adhyaya 40, Verse 54
+prītyā ca te 'haṃ dāsyāmi yad astram anivāritam tvaṃ hi śakto madīyaṃ tac chastraṃ dhārayituṃ kṣaṇāt
+
+// Parva 3, Adhyaya 40, Verse 57
+devadeva mahādeva nīlagrīva jaṭādhara kāraṇānāṃ ca paramaṃ jāne tvāṃ tryambakaṃ vibhum devānāṃ ca gatiṃ devaṃ tvatprasūtam idaṃ jagat ajeyas tvaṃ tribhir lokaiḥ sadevāsuramānuṣaiḥ śivāya viṣṇurūpāya viṣṇave śivarūpiṇe dakṣayajñavināśāya harirudrāya vai namaḥ lalāṭākṣāya śarvāya mīḍhuṣe śūlapāṇaye pinākagoptre sūryāya mārjālīyāya vedhase prasādaye tvāṃ bhagavan sarvabhūtamaheśvara gaṇeśaṃ jagataḥ śaṃbhuṃ lokakāraṇakāraṇam pradhānapuruṣātītaṃ paraṃ sūkṣmataraṃ haram
+
+// Parva 3, Adhyaya 40, Verse 61
+gaṅgāṅkitajaṭaḥ śarvaḥ pārthasyāmitatejasaḥ pragṛhya ruciraṃ bāhuṃ vṛttaṃ tāmratalāṅgulim
+
+// Parva 3, Adhyaya 41, Verse 8
+brahmāstrajñānasaṃpannair bhavitā me mahāhavaḥ tvatprasādān mahādeva jayeyaṃ tān yathā yudhi
+
+// Parva 3, Adhyaya 42, Verse 4
+ity evaṃ cintayānasya pārthasyāmitatejasaḥ
+
+// Parva 3, Adhyaya 42, Verse 30
+tatas tān vāruṇān divyān astrān astravidāṃ varaḥ pratijagrāha vidhivad varuṇād vāsavis tadā
+
+// Parva 3, Adhyaya 42, Verse 31
+prīto 'ham api te prājña pāṇḍaveya mahābala tvayā saha samāgamya ajitena tathaiva ca
+
+// Parva 3, Adhyaya 42, Verse 32
+darśanāt te tv idaṃ divyaṃ pradiśāmi nararṣabha amanuṣyān mahābāho durjayān api jeṣyasi
+
+// Parva 3, Adhyaya 42, Verse 33
+mahātmanā śaṃkareṇa tripuraṃ nihataṃ yadā tadaitad astraṃ nirmuktaṃ yena dagdhā mahāsurāḥ tvadartham udyataṃ cedaṃ mayā satyaparākrama tvam arho dhāraṇe cāsya merupratimagaurava
+
+// Parva 3, Adhyaya 43, Verse 25
+phalāni ca sugandhīni bhakṣitāni tatas tataḥ susugandhāś ca vāryoghās tvac charīraviniḥsṛtāḥ amṛtāsvādanīyā me pītāḥ prasravaṇodakāḥ śiśur yathā pitur aṅke susukhaṃ vartate naga tathā tavāṅke lalitaṃ śailarāja mayā prabho apsarogaṇasaṃkīrṇe brahmaghoṣānunādite sukham asmy uṣitaḥ śaila tava sānuṣu nityadā
+
+// Parva 3, Adhyaya 43, Verse 38
+evaṃ sa saṃkramaṃs tatra svargaloke mahāyaśāḥ
+
+// Parva 3, Adhyaya 44, Verse 9
+puṣpotkaraiḥ śubhaiḥ so 'tha kīryamāṇo nararṣabhaḥ
+
+// Parva 3, Adhyaya 44, Verse 23
+divyakāntākarāhūtavālavyajanamārutaiḥ
+
+// Parva 3, Adhyaya 45, Verse 8
+gītavāditranṛtyāni bhūya evādideśa ha tathāpi nālabhac charma tarasvī dyūtakāritam duḥśāsanavadhāmarṣī śakuneḥ saubalasya ca tatas tenātulāṃ prītim upagamya kva cit kva cit gāndharvam atulaṃ nṛtyaṃ vāditraṃ copalabdhavān sa śikṣito nṛtyaguṇān anekān vāditragītārthaguṇāṃś ca sarvān na śarma lebhe paravīrahantā bhrātṝn smaran mātaraṃ caiva kuntīm
+
+// Parva 3, Adhyaya 45, Verse 18
+vikhyātau triṣu lokeṣu naranārāyaṇāv ṛṣī kāryārtham avatīrṇau tau pṛthvīṃ puṇyapratiśrayām
+
+// Parva 3, Adhyaya 45, Verse 27
+so 'surān darśanād eva śakto hantuṃ sahānugān nivātakavacān sarvān nāgān iva mahāhrade kiṃ tu nālpena kāryeṇa prabodhyo madhusūdanaḥ tejasaḥ sumahān rāśiḥ prabuddhaḥ pradahej jagat
+
+// Parva 3, Adhyaya 45, Verse 36
+evam ukte mahendreṇa bībhatsur api lomaśam uvāca prayato vākyaṃ rakṣethāḥ pāṇḍunandanam yathā guptas tvayā rājā caret tīrthāni sattama dānaṃ dadyād yathā caiva tathā kuru mahāmune
+
+// Parva 3, Adhyaya 46, Verse 23
+lebhe pāśupataṃ cāpi paramāstraṃ mahādyutiḥ
+
+// Parva 3, Adhyaya 47, Verse 8
+na tatrāvinayaḥ kaś cid adṛśyata tadā dvijaḥ
+
+// Parva 3, Adhyaya 48, Verse 1
+na rātrau na divā sūta śāntiṃ prāpnomi vai kṣaṇam saṃcintya durnayaṃ ghoram atītaṃ dyūtajaṃ hi tat teṣām asahyavīryāṇāṃ śauryaṃ dhairyaṃ dhṛtiṃ parām anyonyam anurāgaṃ ca bhrātṝṇām atimānuṣam
+
+// Parva 3, Adhyaya 48, Verse 22
+tāṃś cānyāṃś ca subahūn āhūtān bharatarṣabha
+
+// Parva 3, Adhyaya 49, Verse 8
+yasya prabhāvād dhi vayaṃ sabhāmadhye dhanuṣmataḥ jitān manyāmahe sarvān dhārtarāṣṭrān sasaubalān
+
+// Parva 3, Adhyaya 49, Verse 14
+**** **** hṛdayena vicintyatām tad uttiṣṭha mahābāho
+
+// Parva 3, Adhyaya 49, Verse 33
+iti sarve maheṣvāsaṃ cintayānā dhanaṃjayam anena tu viṣaṇṇo 'haṃ kāraṇena sahānujaḥ vanavāsān nivṛttaṃ māṃ punas te pāpabuddhayaḥ jayantaḥ prīyamāṇā vai devane bhrātṛbhiḥ saha dyūtenaivāhvayiṣyanti balād akṣeṣu tadvidaḥ āhūtaś ca punar dyūte nāsmi śakto nivartitum paṇe ca mama nāsty arthaṃ vidyate vasu kiṃ cana etat sarvam anudhyāyaṃś cintayāno divāniśam na matto duḥkhitataraḥ pumān astīha kaś cana priyavādinam akṣudraṃ dayāyuktam atandritam
+
+// Parva 3, Adhyaya 49, Verse 35
+na viṣāde manaḥ kāryaṃ tvayā buddhimatāṃ vara āgamiṣyati bībhatsur amitrāṃś ca vijeṣyate
+
+// Parva 3, Adhyaya 50, Verse 1
+yajvā dānapatir dakṣaḥ sadā śīlapuraskṛtaḥ
+
+// Parva 3, Adhyaya 50, Verse 17
+kasya cit tv atha kālasya nalaḥ pārthivasattamaḥ
+
+// Parva 3, Adhyaya 50, Verse 20
+tava caiva yathā bhāryā bhaviṣyati tathānagha vidhāsyāmi naravyāghra so 'nujānātu mā bhavān
+
+// Parva 3, Adhyaya 50, Verse 31
+vayaṃ hi devagandharvāḥ śaptāś cendreṇa kāraṇāt asmān saṃspṛśya pāṇibhyāṃ yathā mokṣe vrajāmahe evam uktas tato haṃsān pramamajjātha naiṣadhaḥ naiṣadhena tu saṃspṛṣṭā indralokaṃ punar gatāḥ
+
+// Parva 3, Adhyaya 51, Verse 3
+pāṇḍuvarṇā kṣaṇenātha hṛcchayāviṣṭacetanā
+
+// Parva 3, Adhyaya 51, Verse 6
+kimarthaṃ duhitā me 'dya nātisvastheva lakṣyate
+
+// Parva 3, Adhyaya 51, Verse 10
+teṣāṃ bhīmo mahābāhuḥ pārthivānāṃ mahātmanām yathārham akarot pūjāṃ te 'vasaṃs tatra pūjitāḥ
+
+// Parva 3, Adhyaya 52, Verse 7
+evam ukto naiṣadhena maghavān punar abravīt parārtham īdṛśaṃ vaktuṃ tat kṣamantu maheśvarāḥ
+
+// Parva 3, Adhyaya 52, Verse 8
+sa vai tvam āgatān asmān damayantyai nivedaya śreyasā yokṣyase hi tvaṃ kurvann amaraśāsanam
+
+// Parva 3, Adhyaya 52, Verse 9
+asmākaṃ māyayā channas tvaṃ pravekṣyasi niścayam iti śakro naiṣadhaṃ taṃ punar evābhyabhāṣata
+
+// Parva 3, Adhyaya 54, Verse 5
+devagandharvapatayo dadṛśur vismayānvitāḥ paurajānapadāś caiva ye tatrāsan samāhitāḥ
+
+// Parva 3, Adhyaya 54, Verse 11
+nirviśeṣavayoveṣarūpāṇāṃ tatra sā śubhā
+
+// Parva 3, Adhyaya 54, Verse 19
+yathedaṃ vratam ārabdhaṃ nalasyārādhane mayā
+
+// Parva 3, Adhyaya 54, Verse 31
+varadvayaṃ dadau tasmai prīyamāṇo 'rkanandanaḥ
+
+// Parva 3, Adhyaya 54, Verse 32
+etat sarvaṃ nalo 'paśyad damayantī ca bhārata yathā svapnaṃ mahārāja tathaiva dadṛśur janāḥ tataḥ svayaṃvaraṃ cakre bhīmo rājātimānuṣam samāgateṣu sarveṣu bhūpāleṣu viśāṃ pate damayanty api tad dṛṣṭvā rājamaṇḍalam ṛddhimat anvīkṣya naiṣadhaṃ vavre bhaimī dharmeṇa bhārata
+
+// Parva 3, Adhyaya 54, Verse 33
+uṣya tatra yathākāmaṃ naiṣadho dvipadāṃ varaḥ bhīmena samanujñāto jagāma nagaraṃ svakam
+
+// Parva 3, Adhyaya 54, Verse 37
+janayām āsa ca nalo damayantyāṃ mahāmanāḥ indrasenaṃ sutaṃ cāpi indrasenāṃ ca kanyākām
+
+// Parva 3, Adhyaya 55, Verse 8
+yo 'dhīte caturo vedān sarvān ākhyānapañcamān nityaṃ tṛptā gṛhe yasya devā yajñeṣu dharmataḥ ahiṃsānirato yaś ca satyavādī dṛḍhavrataḥ
+
+// Parva 3, Adhyaya 55, Verse 9
+evaṃrūpaṃ nalaṃ yo vai kāmayec chapituṃ kale
+
+// Parva 3, Adhyaya 55, Verse 13
+mama priye kṛte tasmin kṛtavāṃś ca bhaviṣyasi
+
+// Parva 3, Adhyaya 56, Verse 5
+puṣkara uvāca paṇena dīvyate vīra nāsti vittaṃ paṇāya me vittahīnena ca nalaḥ krīḍate na mayā saha puṣkareṇaivam uktas tu kalir vacanam abravīt bhaviṣye 'haṃ vṛṣaśreṣṭhas tena dīvya paṇena vai
+
+// Parva 3, Adhyaya 56, Verse 8
+tataḥ sa rājā sahasā devituṃ saṃpracakrame bhrātrā daivābhibhūtena daivāviṣṭo janādhipaḥ
+
+// Parva 3, Adhyaya 56, Verse 15
+vṛddhair brāhmaṇamukhyaiś ca vaṇigbhiś ca samanvitaḥ āgataṃ sahitaṃ rājaṃs tvatprasādāvalambinam
+
+// Parva 3, Adhyaya 57, Verse 3
+bṛhatsenām atiyaśāṃ tāṃ dhātrīṃ paricārikām hitāṃ sarvārthakuśalām anuraktāṃ subhāṣitām
+
+// Parva 3, Adhyaya 57, Verse 4
+ity evaṃ sā samādiṣṭā bṛhatsenā nareśvara uvāca devyā vacanaṃ mantriṇāṃ sā samīpataḥ
+
+// Parva 3, Adhyaya 57, Verse 15
+yathā rājñaḥ pradīptānāṃ bhāgyānām adya sārathe
+
+// Parva 3, Adhyaya 57, Verse 22
+kva nu yāsyāmi manasā cintayāno muhur muhuḥ
+
+// Parva 3, Adhyaya 58, Verse 5
+uvāca vidyate 'nyac ca dhanaṃ mama narādhama paṇarūpeṇa nikṣipya puṇyaślokas tu durmanāḥ uttarīyaṃ tadā vastraṃ tasyāś cābharaṇāni ca
+
+// Parva 3, Adhyaya 58, Verse 10
+pīḍyamānaḥ kṣudhā tatra phalamūlāni karṣayan prātiṣṭhata tato rājā damayantī tam anvagāt
+
+// Parva 3, Adhyaya 58, Verse 22
+etad vākyaṃ nalo rājā damayantīṃ samāhitaḥ uvācāsakṛd ārto hi bhaimīm uddiśya bhārata
+
+// Parva 3, Adhyaya 59, Verse 0
+bṛhadaśvaḥ ity uktaḥ sa tadā devyā naḷo vacanam abravīt
+
+// Parva 3, Adhyaya 59, Verse 13
+na caiṣā tejasā śakyā kaiś cid dharṣayituṃ pathi yaśasvinī mahābhāgā madbhakteyaṃ pativratā evaṃ tasya tadā buddhir damayantyāṃ nyavartata kalinā duṣṭabhāvena damayantyā visarjane
+
+// Parva 3, Adhyaya 59, Verse 21
+ādityā vasavo rudrā aśvinau samarudgaṇau rakṣantu tvāṃ mahābhāge dharmeṇāsi samāvṛtā evam uktvā priyāṃ bhāryāṃ rūpeṇāpratimāṃ bhuvi kalināpahṛtajñāno nalaḥ prātiṣṭhad udyataḥ
+
+// Parva 3, Adhyaya 60, Verse 6
+nākāle vihito mṛtyur martyānāṃ puruṣarṣabha yatra kāntā tvayotsṛṣṭā muhūrtam api jīvati
+
+// Parva 3, Adhyaya 60, Verse 8
+ādhāryamāṇeṣu mayā śokamūleṣu duḥkhitaḥ
+
+// Parva 3, Adhyaya 60, Verse 10
+satyavāg asi māṃ tyaktvā gatasatyaḥ kathaṃ bhavān
+
+// Parva 3, Adhyaya 60, Verse 12
+māṃ tvaṃ saṃbhāṣaya vibho anāthāṃ nirjane vane itaś cetaś ca dhāvantī śokavyākulacetasā sahasā muhyate bālā muhū roditi śocatī
+
+// Parva 3, Adhyaya 60, Verse 14
+pativratā sā rudatī bhartṛśokasamākulā
+
+// Parva 3, Adhyaya 60, Verse 23
+kathaṃ bhavāñ jagāmādya mām utsṛjya vane prabho
+
+// Parva 3, Adhyaya 60, Verse 26
+samatikramya vegena satvaraḥ sa vanecaraḥ
+
+// Parva 3, Adhyaya 60, Verse 31
+praphullapadmanayanāṃ tathā madhurabhāṣiṇīm
+
+// Parva 3, Adhyaya 61, Verse 9
+atibhīme vane tatra yūthabhraṣṭā mṛgī yathā
+
+// Parva 3, Adhyaya 61, Verse 12
+yathoktaṃ ca tvayā kānta matsamakṣaṃ ca matpriyam smartum arhasi kalyāṇa vacaḥ pārthivanandana
+
+// Parva 3, Adhyaya 61, Verse 16
+aśvamedhasahasraṃ ca satyaṃ ca tulayā dhṛtam aśvamedhasahasrāt tu satyam evātiricyate
+
+// Parva 3, Adhyaya 61, Verse 25
+anuvratāṃ mahārāja kiṃ māṃ na pratibhāṣase
+
+// Parva 3, Adhyaya 61, Verse 30
+iti bhramantī dadarśa śārdūlaṃ ca mahāhanum tam uvāca rudantī tu tvam evātra narādhipaḥ
+
+// Parva 3, Adhyaya 61, Verse 38
+pṛthivyā rucirākāraṃ cūḍāmaṇim iva sthitam
+
+// Parva 3, Adhyaya 61, Verse 48
+puṇyaśloka iti khyāto brahmaṇyo vedavittamaḥ
+
+// Parva 3, Adhyaya 61, Verse 55
+bhītām āśvāsaya ca māṃ nṛpate dharmavatsala
+
+// Parva 3, Adhyaya 61, Verse 61
+sā dṛṣṭvaivāśramapadaṃ damayantī samāśvasat tāpasaiḥ samupetaṃ ca sā dṛṣṭvaiva samāśvasat
+
+// Parva 3, Adhyaya 61, Verse 63
+āśvāsitā tadā bhaimī tāpasaiḥ saha saṃgatā
+
+// Parva 3, Adhyaya 61, Verse 65
+pūjāṃ cakre yathānyāyam ṛṣīṇāṃ sā manasvinī
+
+// Parva 3, Adhyaya 61, Verse 66
+api svādhyāyayogeṣu dharmadeheṣu vā punaḥ
+
+// Parva 3, Adhyaya 61, Verse 84
+nārīṇām adhamā nārī yā bhartuḥ prāṇasaṃkṣaye paścāj jīvati nistejāḥ kaleva śaśino divā
+
+// Parva 3, Adhyaya 61, Verse 92
+cintayām āsa vaidarbhī kim etad dṛṣṭavaty aham
+
+// Parva 3, Adhyaya 61, Verse 94
+ity evaṃ naraśārdūla vismitā kamalekṣaṇā
+
+// Parva 3, Adhyaya 61, Verse 98
+aśoka śokāpanuda śokopahatacetasam tvannāmānaṃ kuru kṣipraṃ priyasaṃdarśanād dhi mām
+
+// Parva 3, Adhyaya 61, Verse 119
+kva nu māṃ kitavaś chitvā vastrārdhaṃ prasthito mama utsṛjya vipine suptām anuraktāṃ priyāṃ priya vaiṣamyam api saṃprāptā gopāyanti kulastriyaḥ ātmānam ātmanā satyotthitasargā na saṃśayaḥ kva nu sā kṣutpipāsārtā bhrāntārāte tapasvinī smarantī tasya mandasya kva vāsāyopatiṣṭhati
+
+// Parva 3, Adhyaya 61, Verse 123
+yato vayaṃ na paśyāmo nalaṃ pārthivam atra vai
+
+// Parva 3, Adhyaya 62, Verse 10
+evaṃ prakārair bahubhir daivenākramya hastibhiḥ
+
+// Parva 3, Adhyaya 62, Verse 17
+pralāpāni tadā tāni damayantī pativratā
+
+// Parva 3, Adhyaya 62, Verse 18
+bṛhadaśva uvāca sā tu tac cārusarvāṅgī subāhos tuṅgagopuram
+
+// Parva 3, Adhyaya 62, Verse 21
+dhātrīm uvāca gacchainām ānayeha mamāntikam janena kliśyate bālā duḥkhitā śaraṇārthinī yādṛgrūpāṃ ca paśyāmi vidyotayati me gṛham unmattaveṣapracchannā śrīr ivāyatalocanā
+
+// Parva 3, Adhyaya 62, Verse 29
+sa kena cid ameyātmā kāraṇena varāṅgane duḥkhitaḥ sarvam utsṛjya praviveśa mahāvanam tatas taṃ duḥkhitaṃ dṛṣṭvā praviśantaṃ ca kānanam
+
+// Parva 3, Adhyaya 62, Verse 33
+ity uktvā sānavadyāṅgī rājamātaram apy uta sthitāśruparipūrṇākṣī vepamānā suduḥkhitā
+
+// Parva 3, Adhyaya 62, Verse 39
+vadhyaś ca te 'sakṛn manda iti me vratam āhitam
+
+// Parva 3, Adhyaya 62, Verse 43
+saha sā nyavasad rājan rājaputryā sunandayā cintayantī nalaṃ vīram aniśaṃ vāmalocanā tataḥ sunandayā sārdhaṃ damayanty avasat sukham sarvakāmaiḥ samuditā patidarśanalālasā
+
+// Parva 3, Adhyaya 63, Verse 0
+nalasya caritaṃ rājañ chṛṇu me vadato 'dbhutam
+
+// Parva 3, Adhyaya 63, Verse 5
+tiṣṭha tvaṃ sthāvara iva yāvad eva nalaḥ kva cit ito netā hi tatra tvaṃ śāpān mokṣyasi matkṛtāt
+
+// Parva 3, Adhyaya 63, Verse 13
+karkoṭakasya nāgasya damayantyā nalasya ca ṛtuparṇasya rājarṣeḥ kīrtanaṃ kalināśanam
+
+// Parva 3, Adhyaya 64, Verse 4
+ity uktaḥ sa nalenātha ṛtuparṇo narādhipaḥ uvāca suprītamanās taṃ prekṣya ca mahīpate
+
+// Parva 3, Adhyaya 64, Verse 11
+āyuṣman kasya vā nārī yām evam anuśocasi
+
+// Parva 3, Adhyaya 65, Verse 5
+naiva kvāpi prapaśyanti nalaṃ vā bhīmaputrikām
+
+// Parva 3, Adhyaya 65, Verse 6
+kṛśāṃ vivarṇāṃ malināṃ bhartṛśokaparāyaṇām
+
+// Parva 3, Adhyaya 65, Verse 28
+kiṃ tu rājā dṛḍhaṃ bhīmo janitrī bhrātaraś ca te
+
+// Parva 3, Adhyaya 66, Verse 5
+sa dṛṣṭo bahuśo nādya lakṣito 'ntarhito mayā
+
+// Parva 3, Adhyaya 66, Verse 20
+prāhiṇod damayantīṃ tāṃ tadā viprapuraskṛtām
+
+// Parva 3, Adhyaya 67, Verse 12
+tathā dahati śokāgnir hṛdayaṃ mama nityaśaḥ
+
+// Parva 3, Adhyaya 68, Verse 13
+ayam artho mṛṣā na syād brāhmaṇasya kathaṃ cana
+
+// Parva 3, Adhyaya 68, Verse 17
+uvāca cainaṃ mahatā saṃpūjya draviṇena vai
+
+// Parva 3, Adhyaya 69, Verse 1
+sārathīn sa samānīya vārṣṇeyaprabhṛtīn nṛpaḥ kathayām āsa yad vṛttaṃ brāhmaṇena śrutaṃ tathā bāhukaṃ ca samāhūya damayantyāḥ svayaṃvaram
+
+// Parva 3, Adhyaya 69, Verse 9
+evam ukto 'bravīd rājā bāhukaṃ prahasaṃs tadā yady evaṃ bhavitā śvo vai kiṃ te kāmaṃ karomy aham
+
+// Parva 3, Adhyaya 69, Verse 11
+aśvāñ jijñāsamāno vai vicārya ca punaḥ punaḥ
+
+// Parva 3, Adhyaya 69, Verse 15
+eko lalāṭe dvau mūrdhni dvau dvau pārśvopapārśvayoḥ dvau dvau vakṣasi vijñeyau prayāṇe caika eva tu
+
+// Parva 3, Adhyaya 70, Verse 9
+saṃkhyātāni mayaitāni sarvāṇy asya vanaspateḥ
+
+// Parva 3, Adhyaya 70, Verse 10
+praviluptasya śākhe dve paścānyā yā praśākhikā
+
+// Parva 3, Adhyaya 70, Verse 11
+pratyakṣam etat kartāsmi śātayitvā bibhītakam
+
+// Parva 3, Adhyaya 70, Verse 20
+tatas taṃ bāhuko rājañ chākhaikoddeśam apy uta phalāni parisaṃkhyātuṃ tvaramāṇopacakrame
+
+// Parva 3, Adhyaya 70, Verse 28
+taṃ bhrāntarūpaṃ niḥśobhaṃ saṃkliṣṭam akarot kaliḥ
+
+// Parva 3, Adhyaya 70, Verse 32
+śaraṇaṃ tvāṃ prapanno 'smi śṛṇu cedaṃ vaco mama
+
+// Parva 3, Adhyaya 70, Verse 33
+bhayārtaṃ śaraṇaṃ yātaṃ yadi māṃ tvaṃ na śapsyase bhaviṣyati nṛṇāṃ rājan kīrtayiṣyanti ye nalam
+
+// Parva 3, Adhyaya 70, Verse 34
+kalisaṃsargadoṣeṇa apavitro bibhītakaḥ
+
+// Parva 3, Adhyaya 71, Verse 4
+paraṃ vismayam āpannā śrutvā nādaṃ mahāsvanam
+
+// Parva 3, Adhyaya 71, Verse 20
+sa tena pūjito rājñā ṛtuparṇo narādhipaḥ sa tatra kuṇḍine ramye vasamāno mahīpatiḥ na ca kiṃ cit tato 'paśyat prekṣyamāṇo muhur muhuḥ sa tu rājñā samāgamya vidarbhapatinā tadā
+
+// Parva 3, Adhyaya 71, Verse 24
+rājñaś cānyān atikramya prāpto 'yam abhivādakaḥ
+
+// Parva 3, Adhyaya 71, Verse 25
+paścād udarke jñāsyāmi kāraṇaṃ yad bhaviṣyati
+
+// Parva 3, Adhyaya 73, Verse 5
+nimittaṃ yat tvayā dṛṣṭaṃ bāhuke daivamānuṣam
+
+// Parva 3, Adhyaya 73, Verse 17
+ceṣṭitāni viśālākṣi bāhukasya samīpataḥ
+
+// Parva 3, Adhyaya 74, Verse 6
+tāṃ sma dṛṣṭvaiva sahasā damayantīṃ nalo nṛpaḥ āviṣṭaḥ śokaduḥkhābhyāṃ babhūvāśrupariplutaḥ
+
+// Parva 3, Adhyaya 74, Verse 18
+karkoṭakaviṣād dagdho mama satyena śobhane
+
+// Parva 3, Adhyaya 74, Verse 20
+āviṣṭaḥ śokaduḥkhābhyāṃ bāṣpadhārāpariplutaḥ
+
+// Parva 3, Adhyaya 74, Verse 23
+katham utsṛjya bhartāraṃ nibhṛtaiva vadhūś caret
+
+// Parva 3, Adhyaya 74, Verse 24
+gṛhe bhīmasya nṛpateḥ parasparasukhaiṣiṇau vasetāṃ hṛṣṭasaṃkalpau vaidarbhī ca nalaś ca ha
+
+// Parva 3, Adhyaya 76, Verse 10
+uvāca vākyaṃ tattvajño naiṣadhaṃ vadatāṃ varaḥ
+
+// Parva 3, Adhyaya 76, Verse 14
+ata ūrdhvaṃ tu bhūyas tvaṃ prītimān kṣantum arhasi
+
+// Parva 3, Adhyaya 76, Verse 18
+niṣadhādhipateś cāpi datvākṣahṛdayaṃ nṛpaḥ
+
+// Parva 3, Adhyaya 77, Verse 22
+tathaiva sarvasaṃbhāraṃ svam aṃśaṃ vitarāmi te
+
+// Parva 3, Adhyaya 78, Verse 1
+puṇyaślokaṃ tu rājyasthaṃ śrutvā bhīmo mahīpatiḥ mudā paramayā yukto babhūva bharatarṣabha atha hṛṣṭamanā rājā mahatyā senayā saha sutāṃ prasthāpayām āsa puṇyaślokāya dhīmate
+
+// Parva 3, Adhyaya 78, Verse 9
+karkoṭakasya nāgasya damayantyā nalasya ca ṛtuparṇasya rājarṣeḥ kīrtanaṃ kalināśanam
+
+// Parva 3, Adhyaya 78, Verse 10
+idam evānyad atraiva vyāsena parikīrtitam kalinā ca nṛpe dattaṃ rājan varam anuttamam akṣāṇāṃ hṛdaye prāpte ṛtuparṇasya saṃnidhau nalena paṭhitaḥ ślokaḥ kalināśāya bhārata
+
+// Parva 3, Adhyaya 78, Verse 11
+viṣamāvasthite daive pauruṣe 'phalatāṃ gate viṣādayanti nātmānaṃ sattvāpāśrayiṇo budhāḥ
+
+// Parva 3, Adhyaya 78, Verse 15
+upapadyati mattaś ca bhaviṣyati na saṃśayaḥ
+
+// Parva 3, Adhyaya 78, Verse 16
+kaunteyenaivam uktas tu bṛhadaśvo mahāmuniḥ
+
+// Parva 3, Adhyaya 78, Verse 17
+labdhvā ca pāṇḍavo rājā viśokaḥ samapadyata kathām evaṃ tathā kṛtvā nalasya caritāśrayām āmantrya pāṇḍavān sarvān bṛhadaśvo jagāma ha
+
+// Parva 3, Adhyaya 78, Verse 23
+pratigṛhyākṣahṛdayaṃ kuntīputro yudhiṣṭhiraḥ āsīd dhṛṣṭamanā rājan bhīmasenādibhir yutaḥ svabhrātṝn sahitān paśyan kuntīputro yudhiṣṭhiraḥ apaśyann arjunaṃ tatra babhūvāśrupariplutaḥ saṃtapyamānaḥ kaunteyo bhīmasenam uvāca ha kadā drakṣyāmi vai bhīma pārtham atra tavānujam matkṛte hi kuruśreṣṭhas tapyate duścaraṃ tapaḥ tasyākṣahṛdayajñānam ākhyāsyāmi kadā nv aham sa hi śrutvākṣahṛdayaṃ samupāttaṃ mayā vibho prahṛṣṭaḥ puruṣavyāghro bhaviṣyati na saṃśayaḥ
+
+// Parva 3, Adhyaya 79, Verse 1
+vaiśaṃpāyana uvāca tīrthānāṃ caiva māhātmyaṃ pulastyenābhibhāṣitān kadā cit tīrthayātrāyāṃ nārado bhagavān ṛṣiḥ tīrthāni paryaṭaṃs tatra yudhiṣṭhiram upāgamat vinayāvanato bhūtvā paryapṛcchad yudhiṣṭhiraḥ tīrthābhidhānaṃ puṇyaṃ ca nāradāya mahātmane tat te 'haṃ kathayiṣyāmi śṛṇu dharmabhṛtāṃ vara
+
+// Parva 3, Adhyaya 79, Verse 2
+**** **** rudrāṇāṃ caiva śaṃkaraḥ tridaśānāṃ mahendraś ca
+
+// Parva 3, Adhyaya 79, Verse 22
+paśyāmi ca diśaḥ sarvās timireṇāvṛtā iva tato 'bravīt sāśrukaṇṭho nakulaḥ pāṇḍunandanaḥ
+
+// Parva 3, Adhyaya 79, Verse 23
+yasmin divyāni karmāṇi kathayanti raṇājire devā api yudhāṃ śreṣṭhaṃ tam ṛte kā ratir vane
+
+// Parva 3, Adhyaya 79, Verse 27
+yenārdharājyam ācchidya drupadasya mahātmanaḥ ācāryadakṣiṇā dattā guror droṇasya bhārata
+
+// Parva 3, Adhyaya 80, Verse 1
+dhanaṃjayotsukānāṃ tu bhrātṝṇāṃ kṛṣṇayā saha śrutvā vākyāni vimanā dharmarājo 'py ajāyata
+
+// Parva 3, Adhyaya 80, Verse 2
+tam āgatam abhiprekṣya bhrātṛbhiḥ saha dharmarāṭ pratyutthāya yathānyāyaṃ pūjāṃ cakre mahātmane
+
+// Parva 3, Adhyaya 80, Verse 4
+tato yudhiṣṭhiro rājā dṛṣṭvā devarṣisattamam yathārhaṃ pūjayām āsa vidhivat kurunandanaḥ
+
+// Parva 3, Adhyaya 80, Verse 21
+tataḥ sa madhureṇātha svareṇa sumahātapāḥ uvāca vākyaṃ dharmajñaḥ pulastyaḥ prītamānasaḥ
+
+// Parva 3, Adhyaya 80, Verse 44
+tapoviśeṣair bahubhiḥ sthānāny āpur mahaujasaḥ
+
+// Parva 3, Adhyaya 80, Verse 57
+trīṇi śṛṅgāṇi śubhrāṇi trīṇi prasravaṇāni ca puṣkarāṇyādisiddhāni na vidmas tatra kāraṇam
+
+// Parva 3, Adhyaya 80, Verse 70
+rājñaś caivādhipatyaṃ hi tatra gatvā samāpnuyāt
+
+// Parva 3, Adhyaya 80, Verse 76
+tato gaccheta tad vṛttaṃ tīrthaṃ devaniṣevitam snātvā tatra naro bhāti vimalaś candramā yathā
+
+// Parva 3, Adhyaya 80, Verse 77
+tīrthaṃ devagaṇaiḥ pūjyam ṛṣibhiś ca niṣevitam
+
+// Parva 3, Adhyaya 80, Verse 104
+vitastāṃ ca samāsādya saṃtarpya pitṛdevatāḥ naraḥ phalam avāpnoti vājapeyasya bhārata kāśmīreṣv eva nāgasya bhavanaṃ takṣakasya ca vitastākhyam iti khyātaṃ sarvapāpapramocanam
+
+// Parva 3, Adhyaya 80, Verse 106
+ṛṣayaḥ pitaro devā gandharvāpsarasāṃ gaṇāḥ guhyakāḥ kiṃnarā yakṣāḥ siddhā vidyādharā narāḥ rākṣasā ditijā rudrā brahmā ca manujādhipa niyataḥ paramāṃ dīkṣām āsthāyābdasahasrikīm viṣṇoḥ prasādanaṃ kurvaṃś caruṃ ca śrapayaṃs tathā saptabhiḥ saptabhiś caiva ṛgbhis tuṣṭāva keśavam dadāv aṣṭaguṇaiśvaryaṃ teṣāṃ tuṣṭas tu keśavaḥ yathābhilaṣitān anyān kāmān dattvā mahīpate tatraivāntardadhe devo vidyud abhreṣu vai yathā nāmnā saptacaruṃ tena khyātaṃ lokeṣu bhārata
+
+// Parva 3, Adhyaya 81, Verse 2
+pāṃsavo 'pi kurukṣetre vāyunā samudīritāḥ api duṣkṛtakarmāṇaṃ nayanti paramāṃ gatim dakṣiṇena sarasvatyā dṛṣadvatyuttareṇa ca ye vasanti kurukṣetre te vasanti triviṣṭape
+
+// Parva 3, Adhyaya 81, Verse 50
+gatiṃ gacchanti paramāṃ snātvā bharatasattama
+
+// Parva 3, Adhyaya 81, Verse 77
+sa vai snātvārcayitvā ca miśrake pitṛdevatāḥ
+
+// Parva 3, Adhyaya 81, Verse 83
+vedītīrthe naraḥ snātvā gosahasraphalaṃ labhet
+
+// Parva 3, Adhyaya 81, Verse 89
+amaraiḥ saha saṃyāti vimānavaram āsthitaḥ
+
+// Parva 3, Adhyaya 81, Verse 94
+tato gaccheta dharmajña kanyātīrtham anuttamam
+
+// Parva 3, Adhyaya 81, Verse 104
+tapasvino dharmapathe sthitasya dvijasattama
+
+// Parva 3, Adhyaya 81, Verse 115
+evam uktvā mahādevas tatraivāntaradhīyata
+
+// Parva 3, Adhyaya 81, Verse 122
+pāpaṃ praṇaśyate tatra snātamātrasya bhārata
+
+// Parva 3, Adhyaya 81, Verse 152
+pradakṣiṇam upāvṛtya gosahasraphalaṃ labhet
+
+// Parva 3, Adhyaya 81, Verse 160
+tasmiṃs tīrthe naraḥ snātvā sthānaṃ mahad avāpnuyāt
+
+// Parva 3, Adhyaya 81, Verse 169
+tīrthasaṃnayanād evaṃ saṃnītā bhuvi viśrutā tatra snātvā ca pītvā ca svargaloke mahīyate amāvāsyāṃ tu tatraiva rāhugraste divākare yaḥ śrāddhaṃ kurute martyas tasya puṇyaphalaṃ śṛṇu aśvamedhasahasrasya samyag iṣṭasya yat phalam snāta eva tad āpnoti kṛtvā śrāddhaṃ ca mānavaḥ
+
+// Parva 3, Adhyaya 82, Verse 1
+yatra dharmo mahābhāgas taptavān uttamaṃ tapaḥ tena tīrthaṃ kṛtaṃ puṇyaṃ svena nāmnā ca cihnitam
+
+// Parva 3, Adhyaya 82, Verse 2
+kṛcchrena mahatā gatvā tatra snātvā samāhitaḥ
+
+// Parva 3, Adhyaya 82, Verse 23
+aśītiṃ yojanaśataṃ puṣkaraṃ svargam ucyate aśītiṃ dharmapṛṣṭhāt tu pravadanti manīṣiṇaḥ ṣaṣṭiṃ prayāgād rājendra kurukṣetrāt tu dvādaśa saṃyuktam eva rājendra gaṅgādvāraṃ triviṣṭapam
+
+// Parva 3, Adhyaya 82, Verse 24
+uṣyaikāṃ rajanīṃ tatra gosahasraphalaṃ labhet
+
+// Parva 3, Adhyaya 82, Verse 33
+gosahasram avāpnoti kalena * *tottama
+
+// Parva 3, Adhyaya 82, Verse 37
+**** **** brahmacārī samāhitaḥ aśvamedham avāpnoti
+
+// Parva 3, Adhyaya 82, Verse 44
+dvādaśāhasya yajñasya phalaṃ sa labhate naraḥ devān pitṝṃś cārcayitvā
+
+// Parva 3, Adhyaya 82, Verse 49
+tīrṇas tārayate jantur daśa pūrvān daśāparān dṛṣṭvā māheśvaraṃ divyaṃ padaṃ suranamaskṛtam kṛtārthaḥ sarvakṛtyeṣu na śocen maraṇaṃ naraḥ
+
+// Parva 3, Adhyaya 82, Verse 50
+daśāparān daśa pūrvān narān uddharate kulam
+
+// Parva 3, Adhyaya 82, Verse 60
+tatroṣya rajanīm ekāṃ svargaloke mahīyate
+
+// Parva 3, Adhyaya 82, Verse 68
+aśvamedhasya yajñasya phalaṃ prāpnoti mānavaḥ
+
+// Parva 3, Adhyaya 82, Verse 69
+avimuktaṃ samāsādya tīrthasevī kurūdvaha darśanād devadevasya mucyate brahmahatyayā prāṇān utsṛjya tatraiva mokṣaṃ prāpnoti mānavaḥ
+
+// Parva 3, Adhyaya 82, Verse 70
+aśvamedham avāpnoti viṣṇulokaṃ ca gacchati
+
+// Parva 3, Adhyaya 82, Verse 85
+yāvajjīvakṛtaṃ pāpaṃ māsenaikena śudhyati tato gayāṃ samāsādya brahmacārī samāhitaḥ
+
+// Parva 3, Adhyaya 82, Verse 87
+gatvā ca tatra dharmātmann aśvamedhaphalaṃ labhet uraḥ śiraś ca catvāraḥ sa vṛṣo nīḍa ucyate mataṅgasyāśramas tatra maharṣer bhāvitātmanaḥ taṃ praviśyāśramaṃ śrīmac chramaśokavināśanam gavāmayasya yajñasya phalaṃ prāpnoti mānavaḥ
+
+// Parva 3, Adhyaya 82, Verse 91
+bhuktavāṃs tatra maṇinā tīrthābhigamya mānavaḥ
+
+// Parva 3, Adhyaya 82, Verse 96
+tato vipāśaṃ dharmajña samāviśya tato 'nagha guhyaloke mahārāja modate nātra saṃśayaḥ
+
+// Parva 3, Adhyaya 82, Verse 106
+yatra brahmādayo devā ṛṣayaś ca tapodhanāḥ ādityā vasavo rudrā janārdanam upāsate
+
+// Parva 3, Adhyaya 82, Verse 111
+tatrāśramo vasiṣṭhasya triṣu lokeṣu viśrutaḥ
+
+// Parva 3, Adhyaya 82, Verse 116
+trirātropoṣitas tatra agniṣṭomaphalaṃ labhet
+
+// Parva 3, Adhyaya 82, Verse 130
+tato gaccheta dharmajña tīrthasevanatatparaḥ
+
+// Parva 3, Adhyaya 82, Verse 131
+stanakuṇḍam upaspṛśya vājapeyaphalaṃ labhet
+
+// Parva 3, Adhyaya 82, Verse 134
+vājimedhaphalaṃ prāpya śakralokaṃ ca gacchati
+
+// Parva 3, Adhyaya 82, Verse 137
+mṛgatuṅgaṃ samāsādya vipāpmā bhavati dvijaḥ sarvapāpaviśuddhātmā brahmalokaṃ ca gacchati
+
+// Parva 3, Adhyaya 83, Verse 6
+**** **** trirātropoṣito naraḥ aśvamedham avāpnoti
+
+// Parva 3, Adhyaya 83, Verse 13
+lapeṭikāṃ tato gacchet puṇyāṃ puṇyopaśobhitām vājapeyam avāpnoti devaiḥ sarvaiś ca pūjyate
+
+// Parva 3, Adhyaya 83, Verse 14
+vaśiṣṭhaś ca muniśreṣṭho durvāsāś ca mahātapāḥ
+
+// Parva 3, Adhyaya 83, Verse 20
+kāveryāḥ saṃgame caiva snātvā daśaguṇo bhavet setutīrthaṃ samāsādya brahmahatyām apohati
+
+// Parva 3, Adhyaya 83, Verse 31
+bāhudāsaṃgame snātvā vājimedhaphalaṃ labhet
+
+// Parva 3, Adhyaya 83, Verse 52
+**** **** brahmacārī jitendriyaḥ brāhmaṇān bhojayitvā tu
+
+// Parva 3, Adhyaya 83, Verse 58
+gosahasram avāpnoti phalaṃ caiva supuṣkalam
+
+// Parva 3, Adhyaya 83, Verse 62
+tasmiṃs tīrthe mahābāho snātvā pāpaiḥ pramucyate
+
+// Parva 3, Adhyaya 83, Verse 63
+tato muñjavaṭaṃ gacchet sthānaṃ devasya dhīmataḥ
+
+// Parva 3, Adhyaya 83, Verse 64
+tasmiṃs tīrthe tu jāhnavyāṃ snātvā pāpaiḥ pramucyate
+
+// Parva 3, Adhyaya 83, Verse 86
+śrīmat svargyaṃ tathā puṇyaṃ sapatnaśamanaṃ śivam medhājananam agryaṃ vai tīrthavaṃśānukīrtanam aputro labhate putram adhano dhanam āpnuyāt mahīṃ vijayate rājā vaiśyo dhanam avāpnuyāt śūdro yathepsitān kāmān brāhmaṇaḥ pāragaḥ paṭhan
+
+// Parva 3, Adhyaya 83, Verse 91
+sadbhiḥ śāstrārthatattvajñair brāhmaṇaiḥ saha gamyatām
+
+// Parva 3, Adhyaya 83, Verse 97
+evam eṣā mahābhāgā pratiṣṭhāne pratiṣṭhitā tīrthayātrā mahāpuṇyā sarvapāpapramocanī
+
+// Parva 3, Adhyaya 83, Verse 99
+bhīṣmaḥ kurūṇāṃ pravaro yathā pūrvam avāptavān
+
+// Parva 3, Adhyaya 83, Verse 111
+trailokyaṃ pālayām āsa devarāḍ vigatajvaraḥ
+
+// Parva 3, Adhyaya 85, Verse 2
+yāñ śrutvā gadato rājan viśoko bhavitāsi ha draupadyā cānayā sārdhaṃ bhrātṛbhiś ca nareśvara śravaṇāc caiva teṣāṃ tvaṃ puṇyam āpsyasi pāṇḍava gatvā śataguṇaṃ caiva tebhya eva narottama
+
+// Parva 3, Adhyaya 85, Verse 7
+yajeta vāśvamedhena nīlaṃ vā vṛṣam utsṛjet uttārayati saṃtatyā daśa pūrvān daśāvarān
+
+// Parva 3, Adhyaya 85, Verse 15
+tat tathā tāpasāraṇyaṃ tāpasair upaśobhitam
+
+// Parva 3, Adhyaya 85, Verse 23
+vistāreṇa yathābuddhi dikṣu tīrthāni me śṛṇu
+
+// Parva 3, Adhyaya 86, Verse 6
+marutaḥ pariveṣṭāraḥ sadasyāś ca divaukasaḥ uddhṛtaṃ bhūtalasthaṃ vā vāyunā samudīritam payoṣṇyā harate toyaṃ pāpam āmaraṇāntikam svargād uttuṅgam amalaṃ viṣāṇaṃ yatra śūlinaḥ svam ātmavihitaṃ dṛṣṭvā martyaḥ śivapuraṃ vrajet ekataḥ saritaḥ sarvā gaṅgādyāḥ saliloccayāḥ payoṣṇī caikataḥ puṇyā tīrthebhyo hi matā mama
+
+// Parva 3, Adhyaya 86, Verse 20
+eṣa nārāyaṇaḥ śrīmān kṣīrārṇavaniketanaḥ nāgaparyaṅkam utsṛjya hy āgato mathurāṃ purīm
+
+// Parva 3, Adhyaya 86, Verse 23
+maṅgaḷaṃ bhagavān viṣṇur maṅgaḷaṃ madhusūdanaḥ maṅgaḷaṃ puṇḍarīkākṣo maṅgaḷaṃ garuḍadhvajaḥ
+
+// Parva 3, Adhyaya 86, Verse 24
+avyayātmā mahātmā ca kṣetrajñaḥ parameśvaraḥ
+
+// Parva 3, Adhyaya 87, Verse 2
+trailokye yāni tīrthāni puṇyāny āyatanāni ca saridvanāni śailendrā devāś ca sapitāmahāḥ narmadāyāṃ kuruśreṣṭha saha siddharṣicāraṇaiḥ snātum āyānti puṇyaughaiḥ sadā vāriṣu bhārata
+
+// Parva 3, Adhyaya 88, Verse 1
+śṛṇuṣvāvahito bhūtvā mama mantrayataḥ prabho kathāpratigraho vīra śraddhāṃ janayate śubhām
+
+// Parva 3, Adhyaya 88, Verse 10
+nyagrodhākhyas tu puṇyākhyaḥ pāñcālyo dvipadāṃ vara dālbhyaghoṣaś ca dālbhyaś ca dharaṇīstho mahātmanaḥ kaunteyānantayaśasaḥ suvratasyāmitaujasaḥ āśramaḥ khyāyate puṇyas triṣu lokeṣu viśrutaḥ
+
+// Parva 3, Adhyaya 88, Verse 26
+tat paraṃ paramaṃ devaṃ bhūtānām īśvareśvaram śāśvataṃ paramaṃ caiva dhātāraṃ paramaṃ padam yaṃ viditvā na śocanti vidvāṃsaḥ śāstradṛṣṭayaḥ
+
+// Parva 3, Adhyaya 89, Verse 19
+satyasaṃdhaṃ mahotsāhaṃ mahāvīryaṃ mahābalam mahāhaveṣv apratimaṃ mahāyuddhaviśāradam mahādhanurdharaṃ vīraṃ mahāstraṃ varavarṇinam maheśvarasutaprakhyam ādityatanayaṃ prabhum tathā jñānagatiṃ skandhaṃ sahajolbaṇapauruṣam
+
+// Parva 3, Adhyaya 90, Verse 8
+āgatas tvāṃ mahābāho kuru puṇyaṃ yudhiṣṭhira
+
+// Parva 3, Adhyaya 90, Verse 19
+kṣuttṛṣṇādhvaśramāyāsaśītārtim asahiṣṇavaḥ te sarve vinivartantāṃ ye ca miṣṭabhujo dvijāḥ pakvānnalehyapānānāṃ māṃsānāṃ ca vikalpakāḥ te 'pi sarve nivartantāṃ ye ca sūdānuyāyinaḥ mayā yathocitā jīvyaiḥ saṃvibhaktāś ca vṛttibhiḥ
+
+// Parva 3, Adhyaya 91, Verse 13
+nāradasya ca rājendra devarṣeḥ parvatasya ca
+
+// Parva 3, Adhyaya 91, Verse 14
+ṛṣikulyāś ca kārtsnyena loḍayasva yudhiṣṭhira
+
+// Parva 3, Adhyaya 92, Verse 4
+yatra dharmeṇa vardhante rājāno rājasattama sarvān sapatnān bādhante rājyaṃ caiṣāṃ vivardhate
+
+// Parva 3, Adhyaya 92, Verse 12
+adharmarucayo rājann alakṣmyā samadhiṣṭhitāḥ
+
+// Parva 3, Adhyaya 93, Verse 10
+vānīramālinī ramyā nadī pulinaśobhitā divyaṃ pavitrakūṭaṃ ca pavitradharaṇīdharam
+
+// Parva 3, Adhyaya 93, Verse 13
+akṣaye devayajane akṣayaṃ yatra vai phalam te tu tatropavāsāṃs tu cakrur niścitamānasāḥ
+
+// Parva 3, Adhyaya 93, Verse 26
+sikatā vā yathā loka yathā vā divi tārakāḥ yathā vā varṣato dhārā asaṃkhyeyāḥ sma kena cit tathā gaṇayituṃ śakyā gayayajñe na dakṣiṇāḥ
+
+// Parva 3, Adhyaya 94, Verse 6
+tadā prabhṛti rājendra brahmahāsurasattamaḥ manyumān bhrātaraṃ chāgaṃ māyāvī pracakāra ha meṣarūpī ca vātāpiḥ kāmarūpo 'bhavat kṣaṇāt saṃskṛtya bhojayati taṃ viprān sa sma jighāṃsati
+
+// Parva 3, Adhyaya 94, Verse 8
+tām ilvalena mahatā svareṇa giram īritām śrutvātimāyo balavān kṣipraṃ brāhmaṇakaṇṭakaḥ
+
+// Parva 3, Adhyaya 94, Verse 12
+kimarthaṃ veha lambadhvaṃ garte yūyam adhomukhāḥ
+
+// Parva 3, Adhyaya 94, Verse 15
+sa cātha janayām āsa bhāratāpatyam uttamam lebhire pitaraś cāsya lokān rājan yathepsitān
+
+// Parva 3, Adhyaya 94, Verse 16
+ṛṣir hi pratapā nāma vidhāya varam uttamam
+
+// Parva 3, Adhyaya 95, Verse 18
+anyathā nopatiṣṭheyaṃ cīrakāṣāyavāsinī naivāpavitro viprarṣe bhūṣaṇo 'yaṃ kathaṃ cana
+
+// Parva 3, Adhyaya 95, Verse 24
+**** **** mama dharmavilopakaḥ kāme kṛte cariṣyāmi dharmaṃ dṛṣṭaṃ yathāsmṛti yady ayaṃ cepsitaḥ kāmaḥ
+
+// Parva 3, Adhyaya 96, Verse 3
+kimartham āgamo brahman dhanyo 'smy āgamanena te
+
+// Parva 3, Adhyaya 96, Verse 8
+vada kāmaṃ muniśreṣṭha dhanyo 'smy āgamanena te
+
+// Parva 3, Adhyaya 97, Verse 6
+vātāpe pratibudhyasva darśayan balatejasī tapasā durjayo yāvad eṣa tvāṃ nātivartate tatas tasyodaraṃ bhettuṃ vātāpir vegam āharat tam abudhyata tejasvī kumbhayonir mahātapāḥ sa vīryāt tapasogras tu nanarda bhagavān ṛṣiḥ eṣa jīrṇo 'si vātāpe mayā lokasya śāntaye ity uktvā svakarāgreṇa udaraṃ samatāḍayat trir evaṃ pratisaṃrabdhas tejasā prajvalann iva
+
+// Parva 3, Adhyaya 97, Verse 7
+śabdena mahatā tāta garjann iva yathā ghanaḥ vātāpe niṣkramasveti punaḥ punar uvāca ha taṃ prahasyābravīd rājann agastyo munisattamaḥ kuto niṣkramituṃ śakto mayā jīrṇas tu so 'suraḥ
+
+// Parva 3, Adhyaya 97, Verse 13
+lomaśaḥ sarvam etat pradāsyāmi hiraṇyaṃ gāś ca yad dhanam rathaṃ tu yam avoco māṃ nainaṃ vidma hiraṇmayam na me vāg anṛtā kā cid uktapūrvā mahāsura
+
+// Parva 3, Adhyaya 97, Verse 25
+evaṃ sa janayām āsa bhāratāpatyam uttamam
+
+// Parva 3, Adhyaya 97, Verse 26
+**** **** brahmaghno duṣṭacetanaḥ evaṃ vināśito rājan
+
+// Parva 3, Adhyaya 99, Verse 8
+kāleyabhayasaṃtrasto devaḥ sākṣāt puraṃdaraḥ jagāma śaraṇaṃ śīghraṃ taṃ tu nārāyaṇaṃ prabhum
+
+// Parva 3, Adhyaya 99, Verse 16
+vṛtraṃ hataṃ saṃdadṛśuḥ pṛthivyāṃ vajrāhataṃ śailam ivāvakīrṇam
+
+// Parva 3, Adhyaya 100, Verse 5
+kāleyās te durātmāno bhakṣayantas tapodhanān
+
+// Parva 3, Adhyaya 100, Verse 7
+kṣayāya jagataḥ krūrāḥ paryaṭanti sma medinīm
+
+// Parva 3, Adhyaya 100, Verse 17
+śaraṇyaṃ śaraṇaṃ devaṃ nārāyaṇam ajaṃ vibhum
+
+// Parva 3, Adhyaya 100, Verse 24
+śaraṇāgatasaṃtrāṇe tvam eko 'si dṛḍhavrataḥ
+
+// Parva 3, Adhyaya 101, Verse 11
+viṣṇum eva puraskṛtya brahmāṇaṃ samupasthitāḥ te tasmai praṇatā bhūtvā tam evārthaṃ nyavedayan sarvalokavināśārthaṃ kāleyāḥ kṛtaniścayāḥ teṣāṃ tad vacanaṃ śrutvā padmayoniḥ sanātanaḥ uvāca paramaprītas tridaśān arthavad vacaḥ viditaṃ me surāḥ sarvaṃ dānavānāṃ viceṣṭitam manuṣyādeś ca nidhanaṃ kāleyaiḥ kālacoditaiḥ kṣayas teṣām anuprāptaḥ kālenopahatāś ca ye upāyaṃ saṃpravakṣyāmi samudrasya viśoṣaṇe agastya iti vikhyāto vāruṇiḥ susamāhitaḥ tam upāgamya sahitā imam arthaṃ prayācata sa hi śakto mahātejāḥ kṣaṇāt pātuṃ mahodadhim samudre ca kṣayaṃ nīte kāleyān nihaniṣyatha evaṃ śrutvā vaco devā brahmaṇaḥ parameṣṭhinaḥ
+
+// Parva 3, Adhyaya 103, Verse 16
+tāṃs tathā sahitān devān agastyaḥ sapuraṃdarān
+
+// Parva 3, Adhyaya 103, Verse 19
+te dhātāram upāgamya tridaśāḥ saha viṣṇunā
+
+// Parva 3, Adhyaya 104, Verse 1
+nirhrādinyā girā rājan devān āśvāsayaṃs tadā
+
+// Parva 3, Adhyaya 104, Verse 2
+pūrayiṣyati toyaughaiḥ samudraṃ nidhim ambhasām kālayogaṃ pratīkṣanto jagmuś cāpi yathāgatam
+
+// Parva 3, Adhyaya 104, Verse 11
+lokadhātāram ajaram amareśaṃ purātanam digvāsasaṃ vṛṣaratham acintyādbhutayoginam
+
+// Parva 3, Adhyaya 104, Verse 16
+kālaṃ śaṃbhuvaraprāptaṃ pratīkṣan sagaro 'nayat
+
+// Parva 3, Adhyaya 105, Verse 1
+ekaikaśas tataḥ kṛtvā bījaṃ bījaṃ narādhipaḥ ghṛtapūrṇeṣu kumbheṣu tān bhāgān vidadhe tataḥ dhātrīś caikaikaśaḥ prādāt putrarakṣaṇatatparaḥ tataḥ kālena mahatā samuttasthur mahābalāḥ
+
+// Parva 3, Adhyaya 105, Verse 7
+kapilaṃ te samāsādya vinaśiṣyanty asaṃśayam
+
+// Parva 3, Adhyaya 105, Verse 14
+sthitvā sarve mahīpālāḥ sāgarāḥ sahitās tadā
+
+// Parva 3, Adhyaya 105, Verse 19
+samudre pṛthivīpāla padamārgaṃ ca vājinaḥ
+
+// Parva 3, Adhyaya 105, Verse 24
+vidāryamāṇāṃ pṛthivīṃ sāgarair baladarpitaiḥ
+
+// Parva 3, Adhyaya 105, Verse 25
+dṛṣṭvā hi hṛṣitāḥ sarve babhūvuḥ sāgarās tadā
+
+// Parva 3, Adhyaya 106, Verse 3
+ṣaṣṭiṃ sahasrāṇi tadā yugapan munisattamaḥ
+
+// Parva 3, Adhyaya 106, Verse 5
+sa putranidhanotthena duḥkhena samabhiplutaḥ
+
+// Parva 3, Adhyaya 106, Verse 10
+krīḍataḥ sahasāsādya tatra tatra mahīpate
+
+// Parva 3, Adhyaya 106, Verse 27
+śalabhatvaṃ gatā ete mama krodhahutāśane
+
+// Parva 3, Adhyaya 106, Verse 38
+sa rājarṣir dilīpas tu yuyuje kāladharmaṇā
+
+// Parva 3, Adhyaya 106, Verse 40
+bhagīrathaṃ mahātmānaṃ satyadharmaparāyaṇam
+
+// Parva 3, Adhyaya 107, Verse 16
+tadā bhagīratho rājan praṇipatya kṛtāñjaliḥ
+
+// Parva 3, Adhyaya 107, Verse 18
+tāvat teṣāṃ gatir nāsti sāgarāṇāṃ mahānadi
+
+// Parva 3, Adhyaya 107, Verse 25
+gaṅgāvataraṇaṃ rājann ayācata mahīpatiḥ
+
+// Parva 3, Adhyaya 108, Verse 4
+pitṝṇāṃ pāvanārthaṃ te tām ahaṃ manujādhipa
+
+// Parva 3, Adhyaya 108, Verse 14
+prāpayām āsa dharmajñaḥ pitṛdevāntikaṃ nadīm
+
+// Parva 3, Adhyaya 108, Verse 16
+jahnunā ca dhṛtā muktā jāhnavī tena saṃsmṛtā
+
+// Parva 3, Adhyaya 108, Verse 18
+kāleyāś ca yathā rājaṃs tridaśair vinipātitāḥ
+
+// Parva 3, Adhyaya 109, Verse 4
+makṣikāś cādaśaṃs tatra tapasaḥ pratighātikāḥ nirvedo jāyate tatra gṛhāṇi smarate janaḥ
+
+// Parva 3, Adhyaya 109, Verse 5
+yudhiṣṭhiraḥ yad etad bhagavaṃś citraṃ parvate 'smin mahaujasi etan me sarvam ācakṣva vistareṇa mahādyute
+
+// Parva 3, Adhyaya 110, Verse 15
+sā puroktā bhagavatā brahmaṇā lokakartṛṇā devakanyā mṛgī bhūtvā muniṃ sūya vimokṣyase
+
+// Parva 3, Adhyaya 110, Verse 19
+premoṣitāpacāreṇa tasya rājño yudhiṣṭhira
+
+// Parva 3, Adhyaya 110, Verse 20
+daivopahatasattvena dharmajñenāpi bhārata
+
+// Parva 3, Adhyaya 110, Verse 31
+niyojayām āsa ca tās tasya bālasya lobhane
+
+// Parva 3, Adhyaya 111, Verse 11
+bhavatā nābhivādyo 'ham abhivādyo bhavān mayā vratam etādṛśaṃ brahman pariṣvajyo bhavān mayā
+
+// Parva 3, Adhyaya 111, Verse 12
+gṛhāṇa kāmād dhi mamopakārāt kuruṣva kāmaṃ yad abhīpsitaṃ me
+
+// Parva 3, Adhyaya 112, Verse 4
+anyac ca tasyādbhutadarśanīyā vibhāti mālā kanakaprabhāsā kaṇṭhe sthitā vakṣasi ghūrṇamānā yathākṣamālā bhavatā nibaddhā
+
+// Parva 3, Adhyaya 112, Verse 18
+cartuṃ tathecchā hṛdaye mamāsti dunoti cittaṃ yadi taṃ na paśye
+
+// Parva 3, Adhyaya 113, Verse 10
+samāyāte ṛṣyaśṛṅge 'tha rājan
+
+// Parva 3, Adhyaya 113, Verse 13
+tat kopaśānteḥ pratikāram evaṃ kṛtvā sukhī saṃbabhūvātha rājā
+
+// Parva 3, Adhyaya 113, Verse 17
+gopās tathaite karṣaṇaṃ caivam ete
+
+// Parva 3, Adhyaya 113, Verse 21
+ity uktvāsāv ṛśyaśṛṅgaṃ mahātmā vibhaṇḍako romapādena rājā saṃpūjito hṛṣṭacetā maharṣir yayau vanaṃ munivaryaiḥ prajuṣṭam
+
+// Parva 3, Adhyaya 113, Verse 24
+yathā sītā dāśarather mahātmano yathā tava draupadī pāṇḍuputra
+
+// Parva 3, Adhyaya 114, Verse 9
+eṣa te rudra bhāgo vai mā no yajñam imaṃ jahi ayaṃ te paśur ity evam ūcur devāḥ samāgatāḥ
+
+// Parva 3, Adhyaya 114, Verse 20
+ity evam uktvā pṛthivī jagāma ca rasātalam nimamajja kuruśreṣṭha yācyamānāpi bhārata
+
+// Parva 3, Adhyaya 114, Verse 23
+saiṣā sāgaram āsādya rājan vedī samāśritā etām āruhya bhadraṃ te tvam ekas tara sāgaram
+
+// Parva 3, Adhyaya 114, Verse 24
+oṃ namo viśvaguptāya namo viśvaparāya te sāṃnidhyaṃ kuru deveśa sāgare lavaṇāmbhasi
+
+// Parva 3, Adhyaya 114, Verse 25
+ā janmaśatasāhasrād yat pāpaṃ kurute naraḥ mucyate sarvapāpebhyaḥ snātvā tu lavaṇāmbhasi evaṃ japan pāṇḍava satyavākyaṃ tato 'vagāheta patiṃ nadīnām anyathā hi kuruśreṣṭha devayonir apāṃ patiḥ kuśāgreṇāpi kaunteya na spraṣṭavyo mahodadhiḥ
+
+// Parva 3, Adhyaya 115, Verse 6
+tatra drakṣyasi rāmaṃ tvaṃ kṛṣṇājinajaṭādharam
+
+// Parva 3, Adhyaya 115, Verse 9
+kuśikasyātmajo rājañ jajñe vaṃśasamudbhavaḥ
+
+// Parva 3, Adhyaya 115, Verse 10
+babhūva śatapatrākṣī rūpeṇāsadṛśī bhuvi
+
+// Parva 3, Adhyaya 115, Verse 23
+carudvayam idaṃ bhadre jananyāś ca tavaiva ca viśvam āvartayitvā tu mayā yatnena sādhitam prāśitavyaṃ prayatnena tety uktvādarśanaṃ gataḥ
+
+// Parva 3, Adhyaya 115, Verse 24
+tataḥ punaḥ sa bhagavān kāle bahutithe gate divyajñānād viditvā tu bhagavān āgataḥ punaḥ
+
+// Parva 3, Adhyaya 115, Verse 25
+upayuktaś carur bhadre vṛkṣe cāliṅganaṃ kṛtam viparītena te subhrūr mātrā caivāsi vañcitā
+
+// Parva 3, Adhyaya 115, Verse 28
+kālaṃ pratīkṣya taṃ garbhaṃ dhārayām āsa yatnataḥ
+
+// Parva 3, Adhyaya 116, Verse 1
+taṃ tapyamānaṃ brahmarṣim ūcur devāḥ savāsavāḥ kimarthaṃ tapyase brahman kaḥ kāmaḥ prārthitas tava evam uktaḥ pratyuvāca devān brahmarṣisattamaḥ svargahetos tapas tapye lokāś ca syur mamākṣayāḥ tac chrutvā vacanaṃ tasya tadā devās tam ūcire nāsaṃtater bhavel lokaḥ kṛtvā dharmaśatāny api sa śrutvā vacanaṃ teṣāṃ tridaśānāṃ kurūdvaha
+
+// Parva 3, Adhyaya 116, Verse 8
+antarikṣān nipatitā narmadāyāṃ mahāhrade uttīrya cāpi sā yatnāj jagāma bharatarṣabha
+
+// Parva 3, Adhyaya 116, Verse 14
+ity ukto guruṇā rājan krodhāt tu jamadagninā
+
+// Parva 3, Adhyaya 116, Verse 24
+āgatya karma tat pitre nivedya gatavān vanam
+
+// Parva 3, Adhyaya 117, Verse 14
+tapaḥ sumahad āsthāya mahābalaparākramaḥ
+
+// Parva 3, Adhyaya 117, Verse 18
+**** **** mahendre parvatottame rāmam āmantrya dharmātmā
+
+// Parva 3, Adhyaya 118, Verse 7
+tatas tu kāverim anantatoyāṃ divyāśramair nityam upāttatoyām sahānujaḥ saṃpravigāhya puṇyāṃ nananda naṣṭaklamaśokapāpaḥ
+
+// Parva 3, Adhyaya 119, Verse 7
+hṛtasvarājyāyatanārthabhārye duryodhanenālpadhiyā ca pārthe
+
+// Parva 3, Adhyaya 119, Verse 19
+jigye raṇe taṃ nakulaṃ vaneṣu saṃpaśyante me 'dya manaḥ sudīnam
+
+// Parva 3, Adhyaya 120, Verse 1
+kurvīmahe yac ca hitaṃ bhavet tu rājñe hy asmāyājamīḍhāya nityam
+
+// Parva 3, Adhyaya 120, Verse 7
+yadartham aicchan manujāḥ suputraṃ śiṣyaṃ guruś cāpratikūlavādam
+
+// Parva 3, Adhyaya 120, Verse 13
+yathaiva yat tasya puraṃdarasya haridhvajaṃ syandanam āsthitasya
+
+// Parva 3, Adhyaya 120, Verse 14
+saṃprāpya vai tādṛśīṃ yodhalakṣmīṃ
+
+// Parva 3, Adhyaya 120, Verse 19
+samāhitaḥ pṛthivīṃ sādhu rājā yaśobhṛtāṃ dharmabhṛtāṃ variṣṭhaḥ yudhiṣṭhiraḥ pālayatāṃ mahātmā
+
+// Parva 3, Adhyaya 120, Verse 30
+dvijātimukhyair muditair mahātmā saṃstūyamānaḥ stutibhir varābhiḥ
+
+// Parva 3, Adhyaya 121, Verse 4
+caṣālayūpacamasāḥ sthālyaḥ pātryaḥ srucaḥ sruvāḥ
+
+// Parva 3, Adhyaya 121, Verse 7
+prasaṃkhyānān asaṃkhyeyān pratyagṛhṇan dvijātayaḥ
+
+// Parva 3, Adhyaya 121, Verse 15
+uddiśya pāṇḍavaśreṣṭhaḥ sa pratasthe mahīpatiḥ
+
+// Parva 3, Adhyaya 122, Verse 20
+**** **** candrādityasamaprabham jñānavṛddhaṃ vayovṛddhaṃ
+
+// Parva 3, Adhyaya 122, Verse 21
+imām eva ca te kanyāṃ dadāmi sudṛḍhavrata bhāryārthī tvaṃ gṛhāṇemāṃ prasīdasva ca bhārgava
+
+// Parva 3, Adhyaya 122, Verse 22
+apamānād ahaṃ viddho hy anayā darpapūrṇayā
+
+// Parva 3, Adhyaya 123, Verse 4
+nāmnā cāhaṃ sukanyeti nṛloke 'smin pratiṣṭhitā sāhaṃ sarvātmanā nityaṃ bhartāram anuvartinī
+
+// Parva 3, Adhyaya 123, Verse 6
+anābharaṇasaṃpannā paramāmbaravarjitā śobhayasy adhikaṃ bhadre vanam apy analaṃkṛtā
+
+// Parva 3, Adhyaya 123, Verse 18
+tam aśvinor anyatamaṃ cyavanaṃ vā manasvini
+
+// Parva 3, Adhyaya 123, Verse 19
+tato devāḥ sutuṣṭāś ca cyavanaṃ taṃ patiṃ daduḥ darśayām āsatus tasyāḥ sukanyāyā bhṛgoḥ sutam
+
+// Parva 3, Adhyaya 123, Verse 23
+tasminn eva sarastīre bibhratau rūpam uttamam
+
+// Parva 3, Adhyaya 125, Verse 5
+tathaiva mām api brahmañ śreyasā yoktum arhasi
+
+// Parva 3, Adhyaya 125, Verse 6
+iha riraṃsayā devāḥ pitaraś ca maharṣayaḥ arcayanti mahāprājña kratuṃ tava mahābalāḥ
+
+// Parva 3, Adhyaya 125, Verse 10
+adyāpīha pragāyanti gāthāṃ tasyaiva dhīmataḥ tāṃ śrutvā cakṣuṣor hāniṃ nāpnuvantīha mānavāḥ śaryātiṃ ca sukanyāṃ ca cyavanaṃ śakram aśvinau ye bhuktvā saṃsmariṣyanti teṣāṃ cakṣur na hīyate
+
+// Parva 3, Adhyaya 125, Verse 11
+tarpayādya pitṝn devān payasā pāvanena ca
+
+// Parva 3, Adhyaya 125, Verse 15
+ādisiddhāni kaunteya na vidmas tatra kāraṇam
+
+// Parva 3, Adhyaya 126, Verse 2
+satyakīrter hi māndhātuḥ kathyamānaṃ tvayānagha
+
+// Parva 3, Adhyaya 126, Verse 4
+yathā cāsau samabhavac caritaṃ tasya dhīmataḥ
+
+// Parva 3, Adhyaya 126, Verse 8
+sa kadā cin nṛpo rājann upavāsena duḥkhitaḥ
+
+// Parva 3, Adhyaya 126, Verse 24
+na ca prāṇair mahārāja viyogas te bhaviṣyati
+
+// Parva 3, Adhyaya 126, Verse 27
+tato devā mahendraṃ tam apṛcchan dhāsyatīti kim
+
+// Parva 3, Adhyaya 126, Verse 42
+tathā tvam api rājendra māndhāteva mahīpatiḥ dharmaṃ kṛtvā mahīṃ rakṣan svargalokam avāpsyasi
+
+// Parva 3, Adhyaya 126, Verse 43
+vaiśaṃpāyana uvāca evam uktaḥ sa kaunteyo lomaśena maharṣiṇā papracchānantaraṃ bhūyaḥ somakaṃ prati bhārata
+
+// Parva 3, Adhyaya 127, Verse 5
+mamāyam iti manvānā manobhiḥ putram aurasam
+
+// Parva 3, Adhyaya 127, Verse 17
+kriyatām avicāreṇa tataḥ prāpsyasi putrakān
+
+// Parva 3, Adhyaya 128, Verse 2
+sa somakavacaḥ śrutvā brāhmaṇo vedapāragaḥ
+
+// Parva 3, Adhyaya 128, Verse 8
+rājā pṛthivyāṃ vikhyātaḥ sadā dharmaparāyaṇaḥ
+
+// Parva 3, Adhyaya 128, Verse 13
+duṣkṛtaṃ cāsya vindethā mucyate tvadgurur yathā
+
+// Parva 3, Adhyaya 128, Verse 17
+kṣīṇapāpaś ca tasmāt sa vimukto guruṇā saha
+
+// Parva 3, Adhyaya 129, Verse 2
+teṣām iṣṭāni liṅgāni dṛśyante 'dyāpi bhārata yeṣāṃ liṅgair mahārāja saṃstīrṇaiva ca bhūr iyam svayaṃ prakāśabahavo vṛkṣāś caite viśāṃ pate devāś ca ṛṣayaś caiva samāgacchanti nityaśaḥ taptuṃ sāyaṃ tathā prātar dṛśyante te hutāśanāḥ ihāplutānāṃ kaunteya sadyaḥ pāpmā vihanyate kuruśreṣṭhābhiṣekaṃ vai tasmāt kuru sahānujaḥ tato natvāplutāṅgas tvaṃ kauśikīm anuyāsyasi viśvāmitreṇa vai tatra tapas taptam anuttamam tatas tatra samāplutya gātrāṇi sagaṇo nṛpaḥ jagāma kauśikīṃ puṇyāṃ ramyāṃ sphītajalāṃ nadīm eṣaiva ca nadī puṇyā kauśikī nāma bhārata viśvāmitrāśramo ramya eṣa tatra prakāśate āśramaś caiva puṇyākhyaḥ kaśyapasya mahātmanaḥ
+
+// Parva 3, Adhyaya 129, Verse 8
+atra sthāsyanti ye nityaṃ teṣāṃ vighno bhaved iti
+
+// Parva 3, Adhyaya 129, Verse 10
+evam etad viditvā tvaṃ rātriṃ vasa mahāmate
+
+// Parva 3, Adhyaya 129, Verse 15
+**** **** rājan kratubhir iṣṭavān hayamedhena yajñena
+
+// Parva 3, Adhyaya 129, Verse 20
+iha snātvā tapoyuktāṃs trīṃl lokān sacarācarān
+
+// Parva 3, Adhyaya 130, Verse 4
+kṣīṇapāpā śubhāṃl lokān prāpnute nātra saṃśayaḥ
+
+// Parva 3, Adhyaya 130, Verse 8
+yatra gayāśaro nāma pitṝṇāṃ tuṣṭikārakam yatra tīrthāny anekāni devatāyatanāni ca munīnām āśramāś caiva sarvāḥ svargamayāḥ śubhāḥ yatra gayāśiro nāma tīrthaṃ pāpabhayāpaham kṣetram etan mahīpāla praṇamasva yathāvidhi sarvatīrthasamāvāso dṛśyate vibudhācalaḥ
+
+// Parva 3, Adhyaya 130, Verse 9
+sarvatīrthasamāvāso dṛśyate 'trārbudācalaḥ
+
+// Parva 3, Adhyaya 130, Verse 10
+vitastāṃ paśya rājendra sarvapāpapramocanīm maharṣibhiś cādhyuṣitāṃ śītatoyāṃ sunirmalām
+
+// Parva 3, Adhyaya 130, Verse 13
+idam āścaryam aparaṃ deśe 'smin puruṣarṣabha kṣīṇe yuge 'pi kaunteya śarvasya saha pārṣadaiḥ sahomayā ca bhavati darśanaṃ kāmarūpiṇaḥ asmin sarasi ramye vai caitre māsi pinākinam yajanti yājakāḥ samyak parivāraṃ śubhārthinaḥ atropaspṛśya sarasi śraddadhāno jitendriyaḥ kṣīṇapāpaḥ śubhāṃl lokān prāpnute nātra saṃśayaḥ
+
+// Parva 3, Adhyaya 130, Verse 16
+maṇḍavāṃ ca tathā saṃdhyāṃ drakṣyasy amitavikrama
+
+// Parva 3, Adhyaya 131, Verse 0
+śṛṇu tvaṃ tatra vai rājañ śyeno yad abhibhāṣata
+
+// Parva 3, Adhyaya 131, Verse 5
+ekataḥ kratavaḥ sarve samāptavaradakṣiṇāḥ ekato bhayabhītasya prāṇinaḥ prāṇadhāraṇam
+
+// Parva 3, Adhyaya 131, Verse 14
+hriyamāṇaṃ tathāhāram utpannaṃ kṣudhitasya vai
+
+// Parva 3, Adhyaya 131, Verse 20
+kṛtsnam etan mayā dattaṃ rājavad vihagottama
+
+// Parva 3, Adhyaya 131, Verse 24
+yadi prāṇy upakārāya deho 'yaṃ nopayujyate tataḥ kim upacāro 'sya pratyahe kriyate vṛthā
+
+// Parva 3, Adhyaya 131, Verse 30
+ity evam uktvā rājānam āruroha divaṃ punaḥ uśīnaro 'pi dharmātmā dharmeṇāvṛtya rodasī vibhrājamāno vapuṣāpy āruroha triviṣṭapam
+
+// Parva 3, Adhyaya 131, Verse 31
+ity uktvā taṃ dānapatim indrāgnī tau tadā nṛpa pūrṇadehaṃ svakaṃ kṛtvā jagmatus tridaśālayam
+
+// Parva 3, Adhyaya 132, Verse 4
+upāssva kaunteya sahānujas tvaṃ tasyāśramaṃ puṇyatamaṃ praviśya aṣṭāvakraṃ yasya dauhitram āhur yo 'sau bandiṃ janakasyātha yajñe vādī viprāgryo bāla evābhigamya vāde bhaṅktvā majjayām āsa nadyām
+
+// Parva 3, Adhyaya 132, Verse 5
+kiṃ cādhikṛtyātha tayor vivādo videharājasya samīpa āsīt
+
+// Parva 3, Adhyaya 132, Verse 7
+tasyaiva śiṣyasya parāṃ ca śiṣyatāṃ jñātvā vikārāṃs tatsutāyās tadānīm
+
+// Parva 3, Adhyaya 132, Verse 8
+vedān sāṅgān sarvaśāstrair upetān adhītavān asmi tava prasādāt ihaiva garbhe tena pitar bravīmi nedaṃ tvattaḥ samyag ivopavartate
+
+// Parva 3, Adhyaya 133, Verse 2
+lomaśaḥ sa evam ukto mātulenaiva sārdhaṃ yatheṣṭamārgo yajñaniveśanaṃ tat dharmeṇa saṃprāpya nivāritaḥ san dvāri dvāḥsthaṃ vākyam idaṃ babhāṣe
+
+// Parva 3, Adhyaya 133, Verse 4
+mā ca tvam āvāṃ vyādhinā tapyamānāv abhibhū tvaṃ bālakau bāliśau ca samāyātau mātulabhāgineyau saṃmoktavyau dvārapāla kṣaṇe 'smin
+
+// Parva 3, Adhyaya 133, Verse 14
+paśyantu viprāḥ paripūrṇavidyāḥ sahaiva rājñā sapurodhamukhyāḥ
+
+// Parva 3, Adhyaya 133, Verse 15
+eṣa rājā saṃśravaṇe sthitas te stuhy enaṃ tvaṃ vacasā saṃskṛtena sa cānujñāṃ dāsyati prītiyuktaḥ praveśane yac ca kiṃ cit taveṣṭam
+
+// Parva 3, Adhyaya 133, Verse 19
+āśaṃsase tvaṃ bandinaṃ vai vijetum avijñātvā tu balaṃ bandino 'sya samāgatā brāhmaṇās tena pūrvaṃ na śobhante bhāskareṇeva tārāḥ āśaṃsanto bandinaṃ jetukāmās tasyāntikaṃ prāpya viluptaśobhāḥ vijñānamattā niḥsṛtāś caiva tāta kathaṃ sadasyair vacanaṃ vistareyuḥ
+
+// Parva 3, Adhyaya 134, Verse 5
+yathā mahendraḥ pravaraḥ surāṇāṃ nadīṣu gaṅgā pravarā yathaiva tathā nṛpāṇāṃ pravaras tvam eko bandiṃ samabhyānaya matsakāśam
+
+// Parva 3, Adhyaya 134, Verse 38
+tato 'ṣṭāvakraṃ mātur athāntike pitā nadīṃ samaṃgāṃ śīghram imāṃ viśasva provāca caināṃ sa tathā viveśa samair aṅgaiś cāpi babhūva sadyaḥ nadī samaṃgā ca babhūva puṇyā yasyāṃ snāto mucyate kilbiṣād dhi tvam apy enāṃ snānapānāvagāhaiḥ sabhrātṛkaḥ sahabhāryo viśasva
+
+// Parva 3, Adhyaya 135, Verse 9
+nānāpuṣpasamākīrṇaḥ phalapuṣpopaśobhitaḥ nānāvihagasaṃghuṣṭas tāpasālaya uttamaḥ raibhyasyaiṣa mahārāja āśramaḥ puṇyakarmaṇaḥ
+
+// Parva 3, Adhyaya 136, Verse 10
+munis tat kāraṇaṃ jñātvā svayaṃ mahiṣarūpadhṛk śṛṅgeṇādrīn acalayat tato 'yaṃ bhasmasād abhūt
+
+// Parva 3, Adhyaya 137, Verse 4
+athāśramapadaṃ prāpya yavakrītena yācitā pativratā yavakrīta
+
+// Parva 3, Adhyaya 137, Verse 12
+tataḥ snuṣākṛtīkṛtya yavakrītam upāgamat yavakrīto 'pi raibhyasya snuṣāṃ matvā jagāma tām
+
+// Parva 3, Adhyaya 138, Verse 2
+putramṛtyujam āśaucaṃ bharadvājo na jajñivān
+
+// Parva 3, Adhyaya 139, Verse 6
+tataḥ samīpam āsādya pitaraṃ dṛṣṭavān hatam ajñānāt pitaraṃ hatvā mṛgabuddhyā parāvasuḥ vilapya bahudhā rājan raibhyasya ca mahātmanaḥ
+
+// Parva 3, Adhyaya 139, Verse 10
+tac chrutvārvāvasuḥ paścāt prāyaścittaṃ vidhāya ca
+
+// Parva 3, Adhyaya 139, Verse 13
+lomaśa uvāca tac chrutvaiva tadā rājā preṣyān āha sa viṭpate
+
+// Parva 3, Adhyaya 139, Verse 18
+pratiṣṭhāṃ cāpi vedasya saurasya dvijasattamaḥ evam astv iti taṃ devāḥ procuś cāpi varān daduḥ
+
+// Parva 3, Adhyaya 139, Verse 23
+tato vai sa yavakrīto brahmacaryaṃ cacāra ha aṣṭau daśa ca varṣāṇi triṃśataṃ ca yudhiṣṭhira
+
+// Parva 3, Adhyaya 140, Verse 3
+etad dṛśyati devānām ākrīḍaṃ caraṇāṅkitam atikrānto 'si kaunteya kālaśailaṃ ca parvatam
+
+// Parva 3, Adhyaya 140, Verse 13
+marutaś ca sahāśvibhyāṃ saritaś ca sarāṃsi ca svasti devāsurebhyaś ca vasubhyaś ca mahādyute
+
+// Parva 3, Adhyaya 141, Verse 8
+apaśyantīha taṃ vīram evam eṣā suduḥkhitā kiṃ punar nakulaṃ tvāṃ ca taṃ ca vīraṃ dhanaṃjayam
+
+// Parva 3, Adhyaya 141, Verse 9
+guḍākeśaṃ mahātmānaṃ saṃgrāmeṣv apalāyinam
+
+// Parva 3, Adhyaya 142, Verse 11
+nārāyaṇasamo yuddhe satyasaṃdho dṛḍhavrataḥ taṃ mamāpaśyato bhīma na śāntir hṛdayasya vai
+
+// Parva 3, Adhyaya 143, Verse 16
+bhṛśaṃ caṭacaṭāśabdo vajrāṇāṃ kṣipyatām iva tatas tāḥ cañcalābhāsaś cerur abhre ca vidyutaḥ
+
+// Parva 3, Adhyaya 144, Verse 24
+etac chrutvā tu vacanaṃ bhīmasenasya dharmarāṭ bhīmaṃ saṃpūjayaṃs tuṣṭa evam astv ity abhāṣata
+
+// Parva 3, Adhyaya 145, Verse 6
+mandaṃ mandaṃ gamiṣyāmi vahan drupadanandinīm sarvān vo brāhmaṇaiḥ sārdhaṃ vakṣyanti sahitānagha
+
+// Parva 3, Adhyaya 145, Verse 12
+āsevitān kiṃpuruṣair gandharvaiś ca samantataḥ
+
+// Parva 3, Adhyaya 145, Verse 13
+nānāvidhair mṛgair anyair upetān saumyadarśanaiḥ varāhair gavayaiś caiva mahiṣaiś ca samāvṛtān
+
+// Parva 3, Adhyaya 145, Verse 14
+samadaiś cāpi vihagaiḥ pādapair anvitāṃs tathā
+
+// Parva 3, Adhyaya 145, Verse 37
+paśyantas te naravyāghrā remire tatra pāṇḍavāḥ
+
+// Parva 3, Adhyaya 145, Verse 38
+mudā yuktā mahātmāno remire tatra te tadā
+
+// Parva 3, Adhyaya 145, Verse 40
+prāpya puṇyāṃ devanadīṃ viśālāṃ badarīṃ tathā
+
+// Parva 3, Adhyaya 145, Verse 41
+tasmin devarṣicarite deśe paramadurgame bhāgīrathīpuṇyajale tarpayāṃ cakrire tadā devān ṛṣīṃś ca kaunteyāḥ paramaṃ śaucam āsthitāḥ
+
+// Parva 3, Adhyaya 146, Verse 10
+gṛhyāparāṇi puṣpāṇi bahūni puruṣarṣabha
+
+// Parva 3, Adhyaya 146, Verse 15
+dadṛśuḥ sarvabhūtāni mahābāṇadhanurdharam na glānir na ca vaiklavyaṃ na bhayaṃ na ca saṃbhramaḥ kadā cij juṣate pārtham ātmajaṃ mātariśvanaḥ
+
+// Parva 3, Adhyaya 146, Verse 21
+vījyamānaḥ supuṇyena nānākusumagandhinā
+
+// Parva 3, Adhyaya 146, Verse 32
+yakṣarākṣasagandharvanāgakanyāpaṇājire
+
+// Parva 3, Adhyaya 146, Verse 41
+ṛkṣāś cotsasṛjur vṛkṣāṃs tatyajur harayo guhām vyajṛmbhanta mahāsiṃhā mahiṣāś cāvalokayan tena vitrāsitā nāgāḥ kareṇuparivāritāḥ tad vanaṃ saṃparityajya jagmur anyan mahāvanam varāhamṛgasaṃghāś ca mahiṣāś ca vanecarāḥ vyāghragomāyusaṃghāś ca praṇedur gavayaiḥ saha rathāṅgasāhvadātyūhā haṃsakāraṇḍavaplavāḥ śukāḥ puṃskokilāḥ krauñcā visaṃjñā bhejire diśaḥ tathānye darpitā nāgā mahiṣāś ca mahābalāḥ
+
+// Parva 3, Adhyaya 146, Verse 44
+vimardaṃ sumahātejā nṛsiṃha iva darpitaḥ
+
+// Parva 3, Adhyaya 146, Verse 45
+praviveśa tataḥ kṣipraṃ tān apāsya mahābalaḥ vanaṃ pāṇḍusutaḥ śrīmāñ śabdenāpūrayan diśaḥ
+
+// Parva 3, Adhyaya 146, Verse 46
+śakṛn mūtraṃ ca muñcānāṃ bhayavibhrāntamānasāḥ
+
+// Parva 3, Adhyaya 146, Verse 55
+āsphoṭayac ca balavān bhīmaḥ saṃnādayan diśaḥ
+
+// Parva 3, Adhyaya 146, Verse 56
+tataḥ śaṅkhasvanaṃ śrutvā narditaṃ ca muhur muhuḥ vṛkṣāṇāṃ bhajyamānānāṃ śabdaṃ śrutvā tadā girau gandhamādanapārśvastho rāmasyābhimataḥ sakhā hanūmān nāma sa kapir lāṅgūlamadhunot tataḥ tasya dodhūyamānasya lāṅgūlaṃ līlayā muhuḥ tena lāṅgūlaśabdena svanantīva diśo daśa tataḥ pṛthvī ca śailāś ca prakampitam ivābhavat (!)
+
+// Parva 3, Adhyaya 146, Verse 59
+bhrātaraṃ bhīmasenaṃ tu vijñāya hanumān kapiḥ divaṃgamaṃ rurodhātha mārgaṃ bhīmasya kāraṇāt anena hi pathā mā vai gacched iti vicārya saḥ āsta ekāyane mārge kadalīṣaṇḍamaṇḍite bhrātur bhīmasya rakṣārthaṃ taṃ mārgam avarudhya vai mātra prāpsyati śāpaṃ vā dharṣaṇāṃ veti pāṇḍavaḥ kadalīṣaṇḍamadhyastha evaṃ saṃcintya vānaraḥ
+
+// Parva 3, Adhyaya 146, Verse 60
+tena śabdena mahatā vyābudhyata mahākapiḥ
+
+// Parva 3, Adhyaya 146, Verse 61
+lāṅgūlāsphoṭaśabdāc ca calitaḥ sa mahāgiriḥ vighūrṇamānaśikharaḥ samantāt paryaśīryata
+
+// Parva 3, Adhyaya 146, Verse 62
+tasya śrutvā tu ninadaṃ mahāmegharavasvanam pratinedur gajāḥ siṃhā vitresuś ca mṛgadvijāḥ
+
+// Parva 3, Adhyaya 146, Verse 68
+vivṛttadaṃṣṭrādaśanaṃ śuklatīkṣṇāgraśobhitam
+
+// Parva 3, Adhyaya 146, Verse 71
+dṛṣṭvā cainaṃ mahābāhur ekas tasmin mahāvane
+
+// Parva 3, Adhyaya 146, Verse 72
+bhīmo bhīmabalas tatra praviṣṭaḥ kadalīvanam apaśyad vānaraṃ suptam ekāyanagate pathi
+
+// Parva 3, Adhyaya 146, Verse 78
+kva vā tvayādya gantavyaṃ prabrūhi puruṣarṣabha
+
+// Parva 3, Adhyaya 146, Verse 79
+devalokasya mārgo 'yam agamyo mānuṣaiḥ sadā
+
+// Parva 3, Adhyaya 146, Verse 80
+svāgataṃ sarvathaiveha tavādya manujarṣabha
+
+// Parva 3, Adhyaya 146, Verse 81
+**** **** mā vṛthā prāpsyase vadham
+
+// Parva 3, Adhyaya 147, Verse 13
+idaṃ deśam anuprāptaḥ kāraṇenāsmi kena cit
+
+// Parva 3, Adhyaya 147, Verse 16
+vaiśaṃpāyana uvāca evam uktas tu balavān bhīmo bhīmaparākramaḥ manasācintayad bhīmaḥ svabāhubaladarpitaḥ pucche pragṛhya tarasā hīnavīryaparākramam sālokyam antakasyainaṃ nayāmy adyeha vānaram
+
+// Parva 3, Adhyaya 147, Verse 22
+śiṣyavat tvāṃ tu pṛcchāmi upapanno 'smi te 'nagha
+
+// Parva 3, Adhyaya 147, Verse 26
+**** **** tayor bhrātror mahātmanoḥ tayor nāsīt samo vīrye
+
+// Parva 3, Adhyaya 147, Verse 30
+rākṣasendreṇa balinā rāvaṇena durātmanā suvarṇaratnacitreṇa mṛgarūpeṇa rakṣasā
+
+// Parva 3, Adhyaya 147, Verse 33
+saṃpātinā samākhyātā rāvaṇasya niveśane sītāṃ mārgan mahābāho
+
+// Parva 3, Adhyaya 147, Verse 34
+ahaṃ svavīryād uttīrya sāgaraṃ makarālayam sutāṃ janakarājasya sītāṃ surasutopamām
+
+// Parva 3, Adhyaya 147, Verse 35
+madvākyaṃ cāvadhāryāśu rāmo rājīvalocanaḥ abaddhapūrvam anyaiś ca baddhvā setuṃ mahodadhau vṛto vānarakoṭībhiḥ samuttīrṇo mahārṇavam
+
+// Parva 3, Adhyaya 147, Verse 36
+tayaiva sahitaḥ sādhvyā patnyā rāmo mahāyaśāḥ gatvā tato 'titvaritaḥ svāṃ purīṃ raghunandanaḥ adhyāvasat tato 'yodhyām ayodhyāṃ dviṣatāṃ prabhuḥ dhārmikaṃ bhaktimantaṃ ca bhaktānugatavatsalam
+
+// Parva 3, Adhyaya 147, Verse 37
+varaṃ mayā yācito 'sau rāmo rājīvalocanaḥ
+
+// Parva 3, Adhyaya 147, Verse 40
+tvām anena pathā yāntaṃ yakṣo vā rākṣaso 'pi vā
+
+// Parva 3, Adhyaya 148, Verse 5
+tato 'dya duṣkaraṃ draṣṭuṃ mama rūpaṃ narottama
+
+// Parva 3, Adhyaya 148, Verse 7
+kālaṃ kālaṃ samāsādya narāṇāṃ narapuṃgava
+
+// Parva 3, Adhyaya 149, Verse 3
+tad rūpaṃ yat purā tasya babhūvodadhilaṅghane
+
+// Parva 3, Adhyaya 149, Verse 44
+sarvaṃ doṣakṛtaṃ yeṣāṃ vairaṃ tatra pratiṣṭhitam
+
+// Parva 3, Adhyaya 149, Verse 50
+sāmnā mitrāṇi dānena brāhmaṇaṃ kṛtrimāni ca bhedenārīn pradamayet kuṇḍena sādhayet prajāḥ
+
+// Parva 3, Adhyaya 149, Verse 51
+dvijaśuśrūṣayā śūdrā labhante gatim uttamām
+
+// Parva 3, Adhyaya 150, Verse 2
+balaṃ cātibalo mene na me 'sti sadṛśaḥ kva cit
+
+// Parva 3, Adhyaya 150, Verse 4
+śīghraṃ tu kāryasidhyarthaṃ gaccha tvaṃ pāṇḍunandana smartavyo 'smi tvayā vīra kathāsvamitavikrama
+
+// Parva 3, Adhyaya 150, Verse 6
+rāmābhidhānaṃ viṣṇuṃ hi jagad dhṛdayanandanam sītāvaktrāravindārkaṃ daśāsyadhvāntabhāskaram
+
+// Parva 3, Adhyaya 150, Verse 8
+nihatān dhārtarāṣṭrāṃs tu tan me vada ca bhārata
+
+// Parva 3, Adhyaya 150, Verse 9
+baddhvā duryodhanaṃ cādya ānayāmi tavāntikam
+
+// Parva 3, Adhyaya 150, Verse 15
+**** **** mā bhūt te mānaso jvaraḥ mayā hi prāṇasarvasvaṃ lāṅgūle viniveśitam śatruprāṇaharaṃ yogyaṃ
+
+// Parva 3, Adhyaya 150, Verse 19
+nānāvihagajuṣṭāni paśyati sma samantataḥ nānākusumacitrāṇi
+
+// Parva 3, Adhyaya 151, Verse 1
+nīlaśādvalaparyantāṃ citradrumaparicchadām
+
+// Parva 3, Adhyaya 151, Verse 3
+nānāpakṣigaṇākīrṇāṃ sūpatīrthām akardamām atīva ramyāṃ sujalāṃ jātāṃ parvatasānuṣu
+
+// Parva 3, Adhyaya 152, Verse 7
+āmantrya yakṣarājaṃ vai tataḥ piba harasva ca nāto 'nyathā tvayā śakyaṃ kiṃ cit puṣkaram īkṣitum
+
+// Parva 3, Adhyaya 152, Verse 12
+tāṃ tu puṣkariṇīṃ vīraḥ prabhinna iva kuñjaraḥ
+
+// Parva 3, Adhyaya 152, Verse 13
+agaṇayya sa tān sarvān bhīmasenaḥ pratāpavān padmāny agṛhṇāt sahasā pauruṣe sve vyavasthitaḥ
+
+// Parva 3, Adhyaya 153, Verse 1
+etasminn antare rājan yudhiṣṭhirasamīpataḥ
+
+// Parva 3, Adhyaya 153, Verse 5
+anye ca bahavo bhīmā utpātās tatra jajñire
+
+// Parva 3, Adhyaya 153, Verse 24
+bhinnakāyākṣibāhūrūn saṃcūrṇitaśirodharān taṃ ca bhīmaṃ mahātmānaṃ tasyās tīre vyavasthitam sakrodhaṃ stabdhanayanaṃ saṃdaṣṭadaśanacchadam
+
+// Parva 3, Adhyaya 153, Verse 29
+uccukruśuś ca te 'nyonyaṃ rākṣasā bhīmadarśanāḥ rājñas te vai kuberasya nalinīṃ vanacāriṇaḥ saṃbhrāntamanasaḥ sarve vyākulenāntarātmabhiḥ upatasthur mahātmānaṃ dharmaputraṃ yudhiṣṭhiram
+
+// Parva 3, Adhyaya 154, Verse 1
+ājagāma tadā rakṣo nāmnā khyāto jaṭāsuraḥ
+
+// Parva 3, Adhyaya 154, Verse 2
+janamejayaḥ brahman kathaṃ dharmarājaṃ yamau kṛṣṇāṃ ca rākṣasaḥ jagāma kutra bhīmaś ca gato rākṣasakaṇṭakaḥ vaktum arhasi viprāgrya vṛttam etan mamānagha
+
+// Parva 3, Adhyaya 154, Verse 3
+jāmadagnyasya śiṣyo 'haṃ rāmasyākliṣṭakarmaṇaḥ
+
+// Parva 3, Adhyaya 154, Verse 4
+poṣaṇaṃ tasya rājendra cakre pāṇḍavanandanaḥ bubudhe na ca taṃ pāpaṃ bhasmacchannam ivānalam
+
+// Parva 3, Adhyaya 154, Verse 5
+ghaṭotkacaṃ sānucaraṃ dṛṣṭvā vipradrutaṃ diśaḥ lomaśaprabhṛtīṃs tāṃs tu maharṣīṃś ca samāhitān snātuṃ vinirgatān dṛṣṭvā puṣpārthaṃ ca tapodhanān
+
+// Parva 3, Adhyaya 154, Verse 7
+vikramya kauśikaṃ khaḍgaṃ mokṣayitvā grahaṃ ripoḥ
+
+// Parva 3, Adhyaya 154, Verse 9
+tiryag yonigatāś caiva api kīṭapipīlikāḥ dharmasya rākṣasā mūlaṃ dharmaṃ te vidur uttamam etat parīkṣya sarvaṃ tvaṃ samaye sthātum arhasi devāś ca ṛṣayaḥ siddhāḥ pitaraś cāpi rākṣasāḥ
+
+// Parva 3, Adhyaya 154, Verse 12
+vighasāśān yathāśaktyā kurmahe devatādiṣu gurūṃś ca brāhmaṇāṃś caiva pramāṇapravaṇāḥ sadā
+
+// Parva 3, Adhyaya 154, Verse 40
+bruvan vai tiṣṭha tiṣṭheti krodhasaṃraktalocanaḥ
+
+// Parva 3, Adhyaya 154, Verse 41
+bhīmaseno 'py avaṣṭabdho niyuddhāyābhavat sthitaḥ rākṣaso 'pi ca visrabdho bāhuyuddham akāṅkṣata
+
+// Parva 3, Adhyaya 154, Verse 58
+tataḥ saṃpīḍya balavad bhujābhyāṃ krodhamūrchitaḥ
+
+// Parva 3, Adhyaya 154, Verse 61
+**** **** dānavendram iveśvaraḥ babhūva puruṣavyāghraḥ prahṛṣṭa iva pāṇḍavaḥ tato yudhiṣṭhiro rājā dhaumyaḥ kṛṣṇā yamau tathā bhīmasenam upāyāntaṃ dadṛśus te ca pāṇḍavam upasaṃhṛtya dhaumyaṃ ca pāṇḍavaṃ ca yudhiṣṭhiram paryaṣvajata durdharṣo yamau cāpi vṛkodaraḥ hataṃ jaṭāsuraṃ dṛṣṭvā pāñcālī bhīmam acyutam muditaṃ pūjayām āsa paulomīva puraṃdaram saṃpūjitaḥ * * sadbhir brāhmaṇān abhivādya ca jitārir mudito bhīmo babhūva bharatarṣabhaḥ
+
+// Parva 3, Adhyaya 155, Verse 4
+puṣpitair drumakhaṇḍaiś ca mattakokilaṣaṭpadaiḥ mayūraiś cātakaiś cāpi nityotsavavibhūṣitam vyāghrair varāhair mahiṣair gavayair hariṇais tathā śvāpadair vyālarūpaiś ca rurubhiś ca niṣevitam phullaiḥ sahasrapatraiś ca śatapatrais tathotpalaiḥ praphullaiḥ kamalaiś caiva tathā nīlotpalair api mahāpuṇyaṃ pavitraṃ ca surāsuraniṣevitam
+
+// Parva 3, Adhyaya 155, Verse 21
+paribarhaṃ ca taṃ śeṣaṃ paridāya mahātmane
+
+// Parva 3, Adhyaya 155, Verse 28
+ramyaṃ himavataḥ prasthaṃ bahukandaranirjharam śilāvihaṃgaviṭapaṃ latāpādapasaṃkulam
+
+// Parva 3, Adhyaya 155, Verse 33
+gajasaṃghasamāvāsaṃ siṃhavyāghragaṇāyutam
+
+// Parva 3, Adhyaya 155, Verse 35
+śarabhonnādasaṃghuṣṭaṃ nānāmṛganiṣevitam
+
+// Parva 3, Adhyaya 155, Verse 58
+tathā vanaspatībhāraṃ bhūribhārāsamadyutim dadhantyaḥ saṃgatāś cārulatāpuṣpasamāgatāḥ
+
+// Parva 3, Adhyaya 155, Verse 67
+aho śrīmad idaṃ bhīma gandhamādanakānanam viviśuḥ pāṇḍavāḥ sarve vismayotphullalocanāḥ kamalotpalakahlārapuṇḍarīkasugandhinā sevyamānā vane tasmin sukhasparśena vāyunā tato yudhiṣṭhiro bhīmam āhedaṃ prītimad vacaḥ
+
+// Parva 3, Adhyaya 155, Verse 68
+bhānty ete puṣpavikacāḥ puṃskokilakulākulāḥ
+
+// Parva 3, Adhyaya 155, Verse 88
+draupadyā sahitā vīrās taiś ca viprair mahātmabhiḥ
+
+// Parva 3, Adhyaya 157, Verse 1
+kiṃ cakrus tatra te vīrāḥ sarve 'tibalapauruṣāḥ
+
+// Parva 3, Adhyaya 157, Verse 19
+divyavarṇāni divyāni divyagandhavahāni ca madayantīva gandhena mano me bharatarṣabha yeṣāṃ tu darśanāt sparśāt saurabhyāc ca tathaiva ca naśyatīva manoduḥkhaṃ mamedaṃ śatrutāpana īdṛśaiḥ kusumair divyair divyagandhavahaiḥ śubhaiḥ devatāny arcayitvāham iccheyaṃ saṃgamaṃ tvayā idaṃ tu puruṣavyāghra viśeṣeṇāmbujaṃ śubham gandhasaṃsthānasaṃpannaṃ mama mānasavardhanam
+
+// Parva 3, Adhyaya 157, Verse 23
+sāśanaṃ satataṃ kuryus tathaiva bharatarṣabha
+
+// Parva 3, Adhyaya 157, Verse 24
+icchāmi ca naravyāghra puṣpaṃ pratyakṣam īdṛśam ānīyamānaṃ kṣipraṃ vai tvayā bharatasattama
+
+// Parva 3, Adhyaya 157, Verse 35
+prākāreṇa parikṣiptaṃ sauvarṇena samantataḥ sarvaratnadyutimatā sarvodyānavatā tathā śailād abhyucchrayavatā cayāṭṭālakaśobhinā dvāratoraṇanirvyūhadhvajasaṃvāhaśobhinā vilāsinībhir atyarthaṃ nṛtyantībhiḥ samantataḥ vāyunā dhūyamānābhiḥ patākābhir alaṃkṛtam dhanuṣkoṭim avaṣṭabhya vakrabhāvena bāhunā paśyamānaḥ sa khedena draviṇādhipateḥ puram
+
+// Parva 3, Adhyaya 157, Verse 43
+saṃrabdhānāṃ mahāghoṣaṃ siṃhānām iva nardatām
+
+// Parva 3, Adhyaya 157, Verse 44
+śoṇitasya tataḥ petur ghanānām iva bhārata
+
+// Parva 3, Adhyaya 157, Verse 45
+gadāparighapāṇīnāṃ rakṣasāṃ kāyasaṃbhavāḥ
+
+// Parva 3, Adhyaya 157, Verse 63
+rukmapaṭṭapinaddhāṃ tāṃ śatrūṇāṃ bhayavardhinīm
+
+// Parva 3, Adhyaya 157, Verse 67
+tatas taṃ gadayā bhīmo maṇimantaṃ niśācaraḥ jaghāna sahasā mūrdhni sa papāta mamāra ca
+
+// Parva 3, Adhyaya 158, Verse 12
+sāhasaṃ bata bhadraṃ te devānām api cāpriyam
+
+// Parva 3, Adhyaya 158, Verse 13
+bhīmasenaṃ mahābāhum apradhṛṣyaparākramam
+
+// Parva 3, Adhyaya 158, Verse 25
+tatas te tu mahāyakṣāḥ kruddhaṃ dṛṣṭvā dhaneśvaram
+
+// Parva 3, Adhyaya 158, Verse 27
+anujagmur mahātmānaṃ dhanadaṃ ghoradarśanāḥ
+
+// Parva 3, Adhyaya 158, Verse 28
+ramyaṃ caiva gireḥ śṛṅgam āsedur yatra pāṇḍavāḥ tat kesarimahājālaṃ dhanādhipatipālitam
+
+// Parva 3, Adhyaya 158, Verse 30
+devakāryaṃ cikīrṣan sa hṛdayena tutoṣa ha
+
+// Parva 3, Adhyaya 159, Verse 5
+yas tu kevalasaṃrambhāt prapātaṃ na nirīkṣate
+
+// Parva 3, Adhyaya 159, Verse 9
+tac chrutvā dhanado vākyaṃ pāṇḍavānāṃ samāgamam utthāya sa ha taiḥ sārdhaṃ calitas tatkṣaṇād vṛtam kuberaḥ prāpya rājānaṃ yudhiṣṭhiram abhāṣata
+
+// Parva 3, Adhyaya 159, Verse 25
+etac chrutvā tu vacanaṃ dhanadena prabhāṣitam pāṇḍavāś ca tatas tena babhūvuḥ saṃpraharṣitāḥ
+
+// Parva 3, Adhyaya 159, Verse 26
+vibhavas tāta śailāgre vasānaḥ saha bandhubhiḥ suparṇapitṛdevānāṃ satataṃ mānakṛd bhava ṛjuṃ paśyata mā vakraṃ satyaṃ vadata mānṛtam dīrghaṃ paśyata mā hrasvaṃ paraṃ paśyata māparam
+
+// Parva 3, Adhyaya 160, Verse 2
+ārṣṭiṣeṇaḥ pariṣvajya putravad bharatarṣabhān
+
+// Parva 3, Adhyaya 160, Verse 19
+yatra bhūteśvaras tāta sarvaprakṛtir ātmabhūḥ bhāsayan sarvabhūtāni suśriyābhivirājate nātra brahmarṣayas tāta kuta eva maharṣayaḥ prāpnuvanti gatiṃ hy etāṃ yatīnāṃ kurusattama
+
+// Parva 3, Adhyaya 160, Verse 22
+svayaṃbhuvaṃ mahātmānaṃ devadevaṃ sanātanam
+
+// Parva 3, Adhyaya 160, Verse 23
+enaṃ tvaharahar meruṃ sūryācandramasau dhruvam pradakṣiṇam upāvṛttau kurutaḥ kurusattama jyotīṃṣi cāpy aśeṣeṇa sarvāṇy anagha sarvataḥ pariyānti mahārāja girirājaṃ pradakṣiṇam
+
+// Parva 3, Adhyaya 160, Verse 28
+somaś ca vibhajan kālaṃ bahudhā parvasaṃdhiṣu
+
+// Parva 3, Adhyaya 161, Verse 15
+saṃtyajya kāmān pravrajitās tadaiva pārthās tadā śokaparā babhūvuḥ
+
+// Parva 3, Adhyaya 161, Verse 16
+uṣitvā pañca varṣāṇi sahasrākṣaniveśane avāpya divyāny astrāṇi sarvāṇi vibudheśvarāt āgneyaṃ vāruṇaṃ saumyaṃ vāyavyam atha vaiṣṇavam aindraṃ pāśupataṃ brāhmaṃ pārameṣṭhyaṃ prajāpateḥ yamasya dhātuḥ savitus tvaṣṭur vaiśravaṇasya ca tāni prāpya sahasrākṣād abhivādya śatakratum anujñātas tadā tena kṛtvā cāpi pradakṣiṇam āgacchad arjunaḥ prītaḥ prahṛṣṭo gandhamādanam
+
+// Parva 3, Adhyaya 161, Verse 26
+sākṣāt sahasrākṣa iva pratītaḥ śrīmān svadehād avamucya jiṣṇuḥ
+
+// Parva 3, Adhyaya 161, Verse 27
+devais tu dattā hi yathāstramukhyāḥ prakhyāpayad valkalacīravāsāḥ
+
+// Parva 3, Adhyaya 162, Verse 0
+tato rajanyāṃ vyuṣṭāyāṃ dharmarājaṃ yudhiṣṭhiram bhrātṛbhiḥ sahitaḥ sarvair avandata dhanaṃjayaḥ
+
+// Parva 3, Adhyaya 162, Verse 2
+ravonmukhās te saṃprekṣya prīyamāṇāḥ kurūdvahāḥ marudbhir anvitaṃ śakram āpatantaṃ vihāyasā
+
+// Parva 3, Adhyaya 162, Verse 10
+babhūva paramaprīto devarājaṃ ca pūjayan
+
+// Parva 3, Adhyaya 163, Verse 35
+**** **** tato 'ham apataṃ mahīm tataḥ prahasya tad bhūtaṃ
+
+// Parva 3, Adhyaya 163, Verse 39
+tataś cintāṃ samagamaṃ pūjayiṣyāmy ahaṃ punaḥ iti puṣpāṇi saṃgṛhya saikataṃ śaṃkaraṃ prabhum pūjayiṣyaṃs tam adrākṣaṃ kirātaṃ puṣpadhāriṇam tataś cānyāni puṣpāṇi pūjayiṣyan punaḥ punaḥ tāni sarvāṇi dṛṣṭvāhaṃ kirātasya ca mūrdhani iti kṛtvā mahādevaṃ praṇato 'smi punaḥ punaḥ
+
+// Parva 3, Adhyaya 163, Verse 49
+jagad vinirdahed evam alpatejasi pātitam
+
+// Parva 3, Adhyaya 164, Verse 22
+svargas tv avaśyaṃ gantavyas tvayā śatruniṣūdana
+
+// Parva 3, Adhyaya 164, Verse 23
+ihasthaḥ pāṇḍavaśreṣṭha tapaḥ kurvan suduṣkaram
+
+// Parva 3, Adhyaya 164, Verse 33
+devarājaḥ sahasrākṣas tvāṃ didṛkṣati bhārata
+
+// Parva 3, Adhyaya 164, Verse 40
+sa ratho haribhir yukto hy ūrdhvam ācakrame tataḥ ṛṣayo devatāś caiva pūjayanti narottama tataḥ kāmagamāṃl lokān apaśyaṃ vai surarṣiṇām gandharvāpsarasāṃ caiva prabhāvam amitaujasām
+
+// Parva 3, Adhyaya 166, Verse 7
+rathaṃ taṃ tu samāśliṣya prādravad rathayogavit
+
+// Parva 3, Adhyaya 167, Verse 16
+śaravegair nihatyāham astraiḥ śaravighātibhiḥ jvaladbhiḥ paramaiḥ śīghrais tān avidhyaṃ sahasraśaḥ
+
+// Parva 3, Adhyaya 168, Verse 3
+tato 'haṃ vāruṇāstreṇa aśmavarṣaṃ viśātavān
+
+// Parva 3, Adhyaya 168, Verse 19
+balaprajñādayaś cāpi tathānyeṣāṃ ca pāṇḍava
+
+// Parva 3, Adhyaya 168, Verse 29
+tathā devair avadhyatvaṃ purasyābhedyatvam eva tu manuṣyāṇāṃ durbalatvād upekṣyaiva mahāsuraiḥ
+
+// Parva 3, Adhyaya 170, Verse 12
+surāsurair avadhyānāṃ dānavānāṃ dhanaṃjaya
+
+// Parva 3, Adhyaya 170, Verse 37
+tato 'haṃ paramāyasto mātaliṃ paripṛṣṭavān kim ete mama bāṇaughair divyāstraparimantritaiḥ na vadhyante mahāghorais tattvam ākhyāhi pṛcchataḥ sa mām uvāca paryāptas tvam eṣāṃ bharatarṣabha tān uddiśyātha marmāṇi pratighātaṃ tadācara etac chrutvā tu rājendra saṃprahṛṣṭas tam ūcivān nivartaya rathaṃ śīghraṃ paśya caitān nipātitān evam ukto rathaṃ tatra mātaliḥ paryavartayat tato matvā raṇe bhagnaṃ dānavāḥ pratiharṣitāḥ vicukruśur mahārāja svareṇa mahatā tadā abhagnaḥ kaiś cid apy eṣa pāṇḍavo raṇamūrdhani asmābhiḥ samare bhagna ity evaṃ saṃghaśas tadā
+
+// Parva 3, Adhyaya 170, Verse 38
+prayataḥ praṇato bhūtvā namaskṛtya mahātmane
+
+// Parva 3, Adhyaya 170, Verse 43
+ṛkṣāśvameṣavaktrāṇām ulūkānāṃ tathaiva ca mīnavāyasarūpāṇāṃ nānāvaktrapracāriṇām
+
+// Parva 3, Adhyaya 170, Verse 44
+devānāṃ ca ṛṣīṇāṃ ca gandharvāṇāṃ ca sarvaśaḥ
+
+// Parva 3, Adhyaya 170, Verse 53
+hatāṃs tān dānavān dṛṣṭvā mayā saṃkhye sahasraśaḥ
+
+// Parva 3, Adhyaya 170, Verse 56
+kurarya iva vāśantyo duḥkhitāś ca muhur muhuḥ
+
+// Parva 3, Adhyaya 170, Verse 63
+kālakeyavadhaṃ caiva adbhutaṃ romaharṣaṇam
+
+// Parva 3, Adhyaya 170, Verse 64
+pariṣvajya ca māṃ premṇā mūrdhny upāghrāya sasmitam
+
+// Parva 3, Adhyaya 171, Verse 14
+paśyāmi bhūmiṃ kaunteya tvayā me pratipāditām
+
+// Parva 3, Adhyaya 171, Verse 15
+mahābalā mahāmāyā ekena nihitā yudhi
+
+// Parva 3, Adhyaya 172, Verse 4
+namaskṛtya triṇetrāya vāsavāya ca pāṇḍavaḥ
+
+// Parva 3, Adhyaya 172, Verse 13
+khecarāṇi ca bhūtāni sarvāṇy evāvatasthire
+
+// Parva 3, Adhyaya 172, Verse 16
+devatūryāṇy avādyanta ramyāṇi madhurāṇi ca
+
+// Parva 3, Adhyaya 172, Verse 18
+tato mahātmā sa viśuddhabuddhiḥ saṃprārthayām āsa nagendravaryam
+
+// Parva 3, Adhyaya 176, Verse 13
+tapobhiḥ kratubhiś caiva vidyayābhijanena ca trailokyaiśvaryam atulaṃ prāptaṃ me vikrameṇa ca atha sarvanṛponmāthī mado māṃ samupāviśat sahasraṃ munimukhyānām uvāha śibikāṃ mama tato vibhraṃśitaś cāham agastyena mahātmanā imām avasthāṃ saṃprāptaḥ paśya daivam idaṃ mama na daivaṃ prajñayā tāta na balotsāhaśaktibhiḥ na sahāyabalaiś cāpi kaś cid apy ativartate atha prajñā ca śauryaṃ ca saṃpadaḥ kāraṇaṃ bhavet prajñāvatāṃ ca śūrāṇāṃ na kadā cid asaṃpadaḥ yathā prājñāś ca śūrāś ca dṛśyante duḥkhajīvinaḥ bhīrumūrkhāś ca sukhinas tasmād daivaṃ hi kāraṇam
+
+// Parva 3, Adhyaya 176, Verse 14
+patito hi vimānāgryāt sa muniḥ prārthito mayā kuru śāpāntam ity evaṃ provācedaṃ dayānvitaḥ yas tu te vyāhṛtān praśnān prativakṣyati dharmataḥ sa tvāṃ mokṣayitā śāpāt kasmiṃś cit kālaparyaye na ca te matprasādena smṛtibhraṃśo bhaviṣyati balavān api jantus te gṛhīto vaśyam eṣyati
+
+// Parva 3, Adhyaya 176, Verse 19
+yas tvayā veṣṭito rājan moham eti mahābalaḥ
+
+// Parva 3, Adhyaya 176, Verse 47
+kathayām āsa tat sarvaṃ mṛgān hantum ito gatam tac chrutvā tvarito rājā bhṛśam udvignamānasaḥ
+
+// Parva 3, Adhyaya 176, Verse 49
+tato mṛgasahasrāṇi mṛgendrāṇāṃ śatāni ca patitāni vane dṛṣṭvā mārgaṃ tasyāviśan nṛpaḥ
+
+// Parva 3, Adhyaya 176, Verse 51
+rūkṣamārutabhūyiṣṭhe niṣpatradrumasaṃkaṭe īriṇe nirjale deśe kaṇṭakidrumasaṃkule aśmasthāṇukṣupākīrṇe sudurge viṣamotkaṭe
+
+// Parva 3, Adhyaya 177, Verse 3
+bhīma uvāca ayam ārya mahāsattvo bhakṣārthaṃ māṃ gṛhītavān yudhiṣṭhira uvāca mucyatām ayam āyuṣman bhrātā me 'mitavikramaḥ vayam āhāramanyaṃ te dāsyāmaḥ kṣunnivāraṇam āhāro rājaputro 'yaṃ mayā prāpto mukhāgataḥ gamyatāṃ neha sthātavyaṃ śvo bhavān api me bhavet vratam etan mahābāho viṣayaṃ mama yo vrajet sa me bhakṣo bhavet tāta tvaṃ cāpi viṣaye mama cireṇādya mayāhāraḥ prāpto 'yam anujas tava nāham enaṃ vimokṣyāmi na cānyam abhikāṅkṣaye
+
+// Parva 3, Adhyaya 177, Verse 4
+kimarthaṃ ca tvayā grasto bhīmaseno bhujaṃgama
+
+// Parva 3, Adhyaya 177, Verse 14
+brūhi yat te mayā vācyaṃ tattvaṃ dharmabhṛtāṃ vara
+
+// Parva 3, Adhyaya 177, Verse 16
+pareṣāṃ ca guṇānveṣī satataṃ puruṣarṣabha sato 'pi doṣān rājendra na gṛhṇāti kadā cana dīnānukampī satataṃ satataṃ sādhuvatsalaḥ nityaṃ dānarataś caiva taṃ devā brāhmaṇaṃ viduḥ yatnena brūhi rājendra kaḥ kālaḥ śrāddhadānayoḥ praśnaṃ praśnavidāṃ śreṣṭha sarvavit tvaṃ mato 'si me yatra vai brāhmaṇaṃ paśyec chrotriyaṃ dhyānatatparam dhanaṃ manyed viśiṣṭaṃ tu sa kālaḥ śrāddhadānayoḥ kiṃ vedyaṃ paramaṃ rājañ śaṃsa me tvaṃ yudhiṣṭhira sarvajño 'si mahābāho vākyair anumimīmahe
+
+// Parva 3, Adhyaya 177, Verse 19
+tāṃś ca sarvān aśeṣeṇa kathayasva narādhipa
+
+// Parva 3, Adhyaya 177, Verse 29
+tatas tu nāmakaraṇaṃ tataś caulaṃ vidhīyate tatopanayanaṃ proktaṃ dvijātīnāṃ yathāvidhi
+
+// Parva 3, Adhyaya 178, Verse 29
+kathaṃ ca sarpatāṃ yāto bhavān vyākhyātum arhati
+
+// Parva 3, Adhyaya 178, Verse 44
+sa cāyaṃ puruṣavyāghra kālaḥ puṇya upasthitaḥ tad asmāt kāraṇāt pārtha kāryaṃ mama mahat kṛtam
+
+// Parva 3, Adhyaya 178, Verse 45
+tatas tasmin muhūrte tu vimānaṃ kāmagāmi vai avapātena mahatā tatrāvāpatad uttamam
+
+// Parva 3, Adhyaya 180, Verse 19
+āpatsv api tvaṃ na jahāsi rājan
+
+// Parva 3, Adhyaya 180, Verse 23
+diṣṭyā samagrāsi dhanaṃjayena samāgatety evam uvāca kṛṣṇaḥ
+
+// Parva 3, Adhyaya 180, Verse 31
+yodhās tavārtheṣu narendrayantā kurvantu kāryaṃ sarathāḥ sanāgāḥ
+
+// Parva 3, Adhyaya 180, Verse 38
+eṣaiva buddhir juṣatāṃ sadā tvāṃ satye sthitāḥ keśava pāṇḍaveyāḥ sadānadharmāḥ sajanāḥ sadārāḥ sabāndhavās tvaccharaṇā hi pārthāḥ
+
+// Parva 3, Adhyaya 181, Verse 8
+etat sarvaṃ yathāvṛttaṃ mune vaktum ihārhasi
+
+// Parva 3, Adhyaya 181, Verse 19
+kāṅkṣiṇaḥ sarvakāmānāṃ nāstikā bhinnasetavaḥ
+
+// Parva 3, Adhyaya 181, Verse 22
+mārkaṇḍeya uvāca tvad yukto 'yam anupraśnaḥ śṛṇu bhārata tattvataḥ
+
+// Parva 3, Adhyaya 181, Verse 25
+anuśete śayānaṃ ca tiṣṭhantaṃ cānutiṣṭhati anudhāvati dhāvantaṃ pūrvakarma kṛtaṃ naram
+
+// Parva 3, Adhyaya 181, Verse 31
+ṛṣayas te mahātmānaḥ pratyakṣāgamabuddhayaḥ
+
+// Parva 3, Adhyaya 182, Verse 6
+sukumāro mahīpālo hehayānāṃ mahībhṛtām
+
+// Parva 3, Adhyaya 182, Verse 16
+mṛtyuḥ prabhavate yena nāsmākaṃ nṛpasattamāḥ suśuddhānnāḥ śuddhadhanā brahmacaryavratānvitāḥ
+
+// Parva 3, Adhyaya 182, Verse 19
+saṃbhojya śeṣam aśnīmas tasmān mṛtyubhayaṃ na naḥ kṣāntā dāntāḥ kṣamāśīlās tīrthadānaparāyaṇāḥ puṇyadeśanivāsāc ca tasmān mṛtyubhayaṃ na naḥ
+
+// Parva 3, Adhyaya 183, Verse 10
+vākyair maṅgalasaṃyuktaiḥ pūjayāno 'bravīd vacaḥ
+
+// Parva 3, Adhyaya 183, Verse 20
+papracchuḥ praṇatāḥ sarve brahmāṇam iva somapāḥ
+
+// Parva 3, Adhyaya 183, Verse 22
+saṃyuktau dahataḥ śatrūn vanānīvāgnimārutau
+
+// Parva 3, Adhyaya 183, Verse 25
+asmābhir brāhmaṇaiḥ kṣatraṃ kṣatreṇa brahma cāvyayam duṣṭānāṃ nigrahaṃ kartā sa ca rājābhidhīyate satyaṃ manyur dayā rakṣā dharmādharmavilokanam vidyante yasya cārāś ca sa rājety abhidhīyate
+
+// Parva 3, Adhyaya 183, Verse 27
+atriṇā vyāhṛtaṃ pūrvaṃ tat tathaiva na cānyathā
+
+// Parva 3, Adhyaya 184, Verse 10
+dadāti yo vai kapilāṃ sacailāṃ kāṃsyopadohāṃ draviṇottarīyām tais tair guṇaiḥ kāmaduhātha bhūtvā naraṃ pradātāram upaiti sā gauḥ yāvanti romāṇi bhavanti dhenvās tāvat phalaṃ labhate gopradāne putrāṃś ca pautrāṃś ca kulaṃ ca sarvam āsaptamaṃ tārayate paratra sadakṣiṇāṃ kāñcanacāruśṛṅgīṃ kāṃsyopadohāṃ draviṇottarīyām dhenuṃ tilānāṃ dadato dvijāya lokā vasūnāṃ sulabhā bhavanti svakarmabhir dānavasaṃniruddhe tīvrāndhakāre narake patantam mahārṇave naur iva vātayuktā dānaṃ gavāṃ tārayate paratra yo brahmadeyāṃ tu dadāti kanyāṃ bhūmipradānaṃ ca karoti vipre dadāti dānaṃ vidhinā ca yaś ca sa lokam āpnoti puraṃdarasya
+
+// Parva 3, Adhyaya 184, Verse 21
+sāṃkhyā yogāḥ paramaṃ yaṃ vadanti paraṃ purāṇaṃ tam ahaṃ na vedmi
+
+// Parva 3, Adhyaya 185, Verse 32
+tā na śakyā mahatyo vai āpas tartuṃ mayā vinā
+
+// Parva 3, Adhyaya 186, Verse 6
+svapramāṇam atho vipra tvayā kṛtam anekaśaḥ ghoreṇāviśya tapasā vedhaso nirjitās tvayā nārāyaṇāṅkaprakhyas tvaṃ sāṃparāye 'tipaṭhyase bhagavān ekaśaḥ kṛtvā tvayā viṣṇoś ca viśvakṛt karṇikoddharaṇaṃ divyaṃ brahmaṇaḥ kāmarūpiṇaḥ ratnālaṃkārayogābhyāṃ dṛgbhyāṃ dṛṣṭas tvayā purā
+
+// Parva 3, Adhyaya 186, Verse 13
+avyaktāya susūkṣmāya nirguṇāya guṇātmane
+
+// Parva 3, Adhyaya 186, Verse 30
+yugānte manujavyāghra tathākārāś ca bhārata
+
+// Parva 3, Adhyaya 186, Verse 36
+aṭṭam annam iti prāhuḥ śūlaṃ vikrayam ucyate vedaḥ śivam iti proktaṃ brāhmaṇāś ca catuṣpathāḥ keśo bhaga iti proktas taṃ vikrīyaiva bhuñjate
+
+// Parva 3, Adhyaya 186, Verse 42
+pāralaukikakāryeṣu pramattā bhṛśanāstikāḥ
+
+// Parva 3, Adhyaya 186, Verse 44
+hiṃsābhirāmaś ca janas tathā saṃpadyate 'śuciḥ
+
+// Parva 3, Adhyaya 186, Verse 48
+nagarāṇāṃ vihāreṣu vidharmāṇo yugakṣaye
+
+// Parva 3, Adhyaya 186, Verse 50
+naitad astīti manujā vartanti nirapatrapāḥ
+
+// Parva 3, Adhyaya 186, Verse 55
+vīrapatnyas tathā nāryaḥ saṃśrayanti narān nṛpa bhartāram api jīvantam anyān vyabhicaranty uta
+
+// Parva 3, Adhyaya 186, Verse 66
+kāraṇḍakanibhāḥ ke cit ke cid iṅgulikaprabhāḥ
+
+// Parva 3, Adhyaya 186, Verse 67
+ke cid dāridryasaṃkāśāḥ ke cit pītāḥ payodharāḥ
+
+// Parva 3, Adhyaya 186, Verse 69
+garjantaḥ pṛthivīpāla pṛthivīdharasaṃnibhāḥ
+
+// Parva 3, Adhyaya 186, Verse 95
+vitastāṃ ca mahārāja kāverīṃ ca mahānadīm
+
+// Parva 3, Adhyaya 186, Verse 107
+sādhyān rudrāṃs tathādityān guhyakān pitaras tathā sarpān nāgān suparṇāṃś ca vasūn apy aśvināv api
+
+// Parva 3, Adhyaya 186, Verse 111
+bhramaṃs tatra mahīpāla yadā varṣagaṇān bahūn
+
+// Parva 3, Adhyaya 186, Verse 118
+taṃ dṛṣṭvā devadeveśaṃ munir vacanam abruvam
+
+// Parva 3, Adhyaya 186, Verse 125
+nirgato 'ham akāmas tu icchayā te mahāprabho
+
+// Parva 3, Adhyaya 187, Verse 7
+dyaur mūrdhā khaṃ diśaḥ śrotre tathāpaḥ svedasaṃbhavāḥ
+
+// Parva 3, Adhyaya 187, Verse 19
+mayaiva suvibhaktās te devakāryārthasiddhaye
+
+// Parva 3, Adhyaya 187, Verse 25
+tvam evāpyaṃ vijānīhi narāṇāṃ bhāvitātmanām
+
+// Parva 3, Adhyaya 187, Verse 32
+yadā bhavati me varṇaḥ kṛṣṇo vai munisattama
+
+// Parva 3, Adhyaya 187, Verse 34
+sarvaloke ca māṃ bhaktāḥ pūjayanti ca sarvaśaḥ
+
+// Parva 3, Adhyaya 187, Verse 49
+sūtātmānaṃ samāhṛta caturddaśavidhānataḥ paramātmānam āviśya supityamittadhī * *
+
+// Parva 3, Adhyaya 188, Verse 9
+śṛṇu rājan mayā dṛṣṭaṃ yat purā śrutam eva ca anubhūtaṃ ca rājendra devadevaprasādajam
+
+// Parva 3, Adhyaya 188, Verse 12
+tāmasaṃ yugam āsādya tadā bharatasattama
+
+// Parva 3, Adhyaya 188, Verse 21
+**** **** ye 'pi nityaṃ dhṛtavratāḥ te 'pi lobhasamāyuktā
+
+// Parva 3, Adhyaya 188, Verse 25
+rātrau bhokṣyanti vratino gṛhiṇo 'pi yugakṣaye evaṃvidhaṃ kariṣyanti kalau śāstravimohitāḥ
+
+// Parva 3, Adhyaya 188, Verse 26
+nimneṣv īhāṃ kariṣyanti hetuvādavimohitāḥ
+
+// Parva 3, Adhyaya 188, Verse 64
+dharmācāraparibhraṣṭā lobhamohasamanvitāḥ
+
+// Parva 3, Adhyaya 188, Verse 70
+anyāyavartinaś cāpi bhaviṣyanti narādhipāḥ
+
+// Parva 3, Adhyaya 188, Verse 72
+brāhmaṇāḥ kṣatriyā vaiśyāḥ parityakṣyanti satkriyām
+
+// Parva 3, Adhyaya 188, Verse 84
+bhovādinas tathā śūdrā brāhmaṇāḥ prākṛtapriyāḥ pāṣaṇḍajanasaṃkīrṇā bhaviṣyanti yugakṣaye
+
+// Parva 3, Adhyaya 188, Verse 88
+dakṣiṇāni bhaviṣyanti grahāś cāpy anulomagāḥ pradakṣiṇā bhaviṣyanti pūjayantaḥ parasparam
+
+// Parva 3, Adhyaya 189, Verse 8
+puṣkariṇyaś ca vividhā devatāyatāni ca
+
+// Parva 3, Adhyaya 189, Verse 16
+sarvam etad yathātattvaṃ kathitaṃ tava sarvaśaḥ
+
+// Parva 3, Adhyaya 189, Verse 20
+yudhiṣṭhiraḥ etac chrutvā mayā kiṃ syāt kartavyaṃ munisattama kathaṃ cāyaṃ jito loko rakṣitavyo bhaviṣyati
+
+// Parva 3, Adhyaya 189, Verse 24
+prājñās tāta na muhyanti kālenābhiprapīḍitāḥ
+
+// Parva 3, Adhyaya 189, Verse 30
+viprarṣabhāś ca te sarve ye tatrāsan samāgatāḥ
+
+// Parva 3, Adhyaya 190, Verse 0
+janamejaya uvāca bhūya eva brāhmaṇānāṃ māhātmyaṃ vaktum arhasi pāṇḍavānāṃ yathācaṣṭa mārkaṇḍeyo mahātapāḥ
+
+// Parva 3, Adhyaya 190, Verse 2
+śrūyatāṃ kathayāmīdaṃ brahmarṣīṇāṃ pūrvacaritam
+
+// Parva 3, Adhyaya 190, Verse 48
+tataḥ punaḥ sa rājā khaḍgam udyamya śīghraṃ kathayasveti tam āha haniṣye tvām iti sa tad āha rājabhayabhītaḥ sūtaḥ
+
+// Parva 3, Adhyaya 190, Verse 64
+catvāro vā yātudhānāḥ suraudrāḥ mayā prayuktās tvadvadham īpsamānā
+
+// Parva 3, Adhyaya 190, Verse 65
+vāmadeva uvāca mamaitau vāmyau pratigṛhya rājan punar dadānīti prapadya me tvam prayaccha śīghraṃ mama vāmyau tvam aśvau yady ātmānaṃ jīvituṃ te kṣamaṃ syāt na brāhmaṇebhyo mṛgayā prasūtā na tv ānuśāsmy adya prabhṛti hy asatyam tavaivājñāṃ saṃpraṇidhāya sarvāṃ tathā brahman puṇyalokaṃ labheyam
+
+// Parva 3, Adhyaya 190, Verse 80
+sādhvi sthiraṃ ceyam aduṣṭacittā dharme matis te satataṃ prayātu varaṃ ca mattaḥ pratikāṅkṣasva subhru tvayā vṛṣaḥ pālanīyo hi nityam
+
+// Parva 3, Adhyaya 190, Verse 81
+vṛttena buddhyā ca vivṛddhim etu jīved asau mama putro 'dya vipra
+
+// Parva 3, Adhyaya 191, Verse 3
+tam aham abruvam | ākulatvāt kāryaceṣṭānāṃ na pratyabhijāne 'ham | sa mām uvāca | asty anyaś cirajātatara iti | tam abruvam |
+
+// Parva 3, Adhyaya 192, Verse 1
+śrutvā sa rājā rājarṣer indradyumnasya tat tadā mārkaṇḍeyān mahābhāgāt svargasya pratipādanam
+
+// Parva 3, Adhyaya 192, Verse 3
+devagandharvayakṣāṇāṃ kiṃnarāpsarasāṃ tathā
+
+// Parva 3, Adhyaya 192, Verse 5
+vaiśaṃpāyana uvāca yudhiṣṭhireṇaivam ukto mārkaṇḍeyo mahāmuniḥ dhaundhumāram upākhyānaṃ kathayām āsa bhārata
+
+// Parva 3, Adhyaya 192, Verse 26
+rājā hi vīryavāṃs tāta ikṣvākur aparājitaḥ
+
+// Parva 3, Adhyaya 194, Verse 4
+haniṣyati mahābāhus taṃ vai dhundhuṃ mahāsuram
+
+// Parva 3, Adhyaya 194, Verse 7
+yasya niḥśvāsavātena kampate bhūḥ saparvatā
+
+// Parva 3, Adhyaya 194, Verse 8
+kathyamānaṃ mahāprājña vistareṇa yathātatham
+
+// Parva 3, Adhyaya 194, Verse 9
+caturbhujam udārāṅgaṃ dṛṣṭavān asmi bhārata
+
+// Parva 3, Adhyaya 194, Verse 13
+viṣṇukarṇamalodbhūtau yojanānāṃ śatoc chritau
+
+// Parva 3, Adhyaya 194, Verse 18
+**** **** brahmāṇam amitaujasam tau ca vīryamadonmattau
+
+// Parva 3, Adhyaya 194, Verse 21
+vidhārayan varaṃ vīrau pratigṛhṇāmi kāmataḥ
+
+// Parva 3, Adhyaya 194, Verse 26
+vināśe tejasā yuktā * * puruṣasattama
+
+// Parva 3, Adhyaya 194, Verse 27
+anṛtaṃ mā bhaved deva yad dhi nau saṃśrutaṃ tadā
+
+// Parva 3, Adhyaya 195, Verse 10
+kuvalāśvo narapatiḥ putraiś ca sahitaḥ prabhuḥ putraiḥ saha mahīpālaḥ prayayau bharatarṣabha
+
+// Parva 3, Adhyaya 195, Verse 15
+pradakṣiṇāś cāpy abhavan vanyās tasya mṛgadvijāḥ
+
+// Parva 3, Adhyaya 195, Verse 18
+hitārthaṃ sarvalokānām udaṅkasya vaśe sthitaḥ
+
+// Parva 3, Adhyaya 195, Verse 20
+yugānte sarvabhūtāni pāvakasyeva dhakṣyataḥ
+
+// Parva 3, Adhyaya 195, Verse 29
+kuvalāśvo mahābāhur dhundhuṃ hatvā jaharṣa ca
+
+// Parva 3, Adhyaya 196, Verse 6
+nānyad daivatam ity eva strīṇāṃ bhartur dvijottama
+
+// Parva 3, Adhyaya 196, Verse 17
+ye cakrur eṣu sarveṣu vartamānajugupsayā
+
+// Parva 3, Adhyaya 196, Verse 18
+mātuḥ pituś ca rājendra satataṃ hitakāriṇaḥ
+
+// Parva 3, Adhyaya 197, Verse 4
+tāṃ balākāṃ mahārāja vilīnāṃ nagamūrdhani
+
+// Parva 3, Adhyaya 197, Verse 19
+kṣamasva viprapravara kṣamasva strījaḍatvatām prasīda bhagavan mahyaṃ kṛpāṃ kuru mayi dvija
+
+// Parva 3, Adhyaya 197, Verse 23
+nāhaṃ balākā viprendra tyaja krodhaṃ tapodhana anayā kruddhayā dṛṣṭyā kruddhaḥ kiṃ māṃ kariṣyasi
+
+// Parva 3, Adhyaya 197, Verse 25
+kasmāt paribhaven mūḍho brāhmaṇān amitaujasaḥ
+
+// Parva 3, Adhyaya 197, Verse 31
+mā sma kruddho balākeva na vadhyāsmi pativratā
+
+// Parva 3, Adhyaya 197, Verse 44
+dhanyā tvam asi kalyāṇi yasyāḥ syād vṛttam īdṛśam
+
+// Parva 3, Adhyaya 198, Verse 17
+arghyeṇa ca sa vai tena vyādhena dvijasattamaḥ
+
+// Parva 3, Adhyaya 198, Verse 36
+pāty eṣa rājā janakaḥ pitṛvad dvijasattama
+
+// Parva 3, Adhyaya 198, Verse 38
+na kiṃ cit phalam āpnoti svadharmasya ca lopanāt
+
+// Parva 3, Adhyaya 198, Verse 45
+sādhusannītimān eva sarvatra dvijasattama
+
+// Parva 3, Adhyaya 198, Verse 48
+kariṣye dharmam eveti tṛtīyāt parimucyate
+
+// Parva 3, Adhyaya 198, Verse 51
+taṃ tu devāḥ prapaśyanti svasyaivāntarapūruṣaḥ
+
+// Parva 3, Adhyaya 198, Verse 52
+apaśyann ātmano doṣān sa pāpaḥ pretya naśyati
+
+// Parva 3, Adhyaya 198, Verse 54
+tasmāt tau viduṣāṃ vipra varjanīyau pradhānataḥ
+
+// Parva 3, Adhyaya 198, Verse 56
+pañca kāni pavitrāṇi śiṣṭācāreṣu nityadā
+
+// Parva 3, Adhyaya 198, Verse 64
+etan mahāmate vyādha prabravīhi yathātatham yajño dānaṃ tapo vedāḥ satyaṃ ca dvijasattama pañcaitāni pavitrāṇi śiṣṭācāreṣu nityadā
+
+// Parva 3, Adhyaya 199, Verse 7
+ahany ahani vadhyete dve sahasre gavāṃ tathā
+
+// Parva 3, Adhyaya 199, Verse 34
+vedadharmāviruddhaṃ yat pramāṇaiḥ pratitaṃ śubham
+
+// Parva 3, Adhyaya 200, Verse 4
+yat karoty aśubhaṃ karma paśya dharmasya sūkṣmatām
+
+// Parva 3, Adhyaya 200, Verse 5
+asya kartur gatiṃ sarvāṃ vakṣyāmi dvijasattama
+
+// Parva 3, Adhyaya 200, Verse 13
+na dehajā manuṣyāṇāṃ vyādhayo dvijasattama
+
+// Parva 3, Adhyaya 200, Verse 21
+vahanti śibikām anye yānty anye śibikāgatāḥ
+
+// Parva 3, Adhyaya 200, Verse 38
+tapoyogasamārambhaṃ kurute dvijasattama karmabhir bahubhiś cāpi lokān aśnāti mānavaḥ
+
+// Parva 3, Adhyaya 200, Verse 39
+puṇyaṃ kurvan puṇyavṛttaḥ puṇyasyāntaṃ na gacchati
+
+// Parva 3, Adhyaya 200, Verse 44
+dharmeṇa vṛttiṃ kurute dharmaṃ caiva praśaṃsati
+
+// Parva 3, Adhyaya 201, Verse 16
+tad indriyāṇi saṃyamya tapo bhavati nānyathā
+
+// Parva 3, Adhyaya 203, Verse 20
+tvaṅmāṃsamedomajjāsthirasaraktāś ca dhātavaḥ
+
+// Parva 3, Adhyaya 203, Verse 36
+sukhaduḥkhe hi saṃtyajya nirdvaṃdvo niṣparigrahaḥ
+
+// Parva 3, Adhyaya 203, Verse 47
+bāhyasparśeṣu saktātmā vindaty ātmani yat sukham tad brahmayogayuktā[tmā] sukham a[kṣayyam a]śnute
+
+// Parva 3, Adhyaya 204, Verse 4
+tasya vyādhasya pitarau brāhmaṇaḥ saṃdadarśa ha
+
+// Parva 3, Adhyaya 204, Verse 8
+gatim iṣṭāṃ tathā jñānam evaṃ ca paravān bhava
+
+// Parva 3, Adhyaya 205, Verse 9
+tau prasādya dvijaśreṣṭha yac chreyas tad avāpsyasi
+
+// Parva 3, Adhyaya 205, Verse 12
+mātāpitroḥ sakāśaṃ hi gatvā tvaṃ dvijasattama
+
+// Parva 3, Adhyaya 205, Verse 25
+tato mṛgān varāhāṃś ca mahiṣāṃś ca mahīpatiḥ jaghāna puruṣavyāghraḥ sa rājā brāhmaṇottama tato 'ham api krīḍārthaṃ rājñaḥ priyahite rataḥ varān nighnan varāhāṃś ca śaraiḥ saṃnataparvabhiḥ vanadurgeṣu dharmajña samaṃ rājñā mahātmanā vyacaraṃ dhanur ādāya mṛgahā lubdhako yathā tatrāśramasamabhyāśe mayā dharmavidāṃ vara mṛgasya vajrasaṃkāśaḥ śaraḥ kṣiptas tadā dvija
+
+// Parva 3, Adhyaya 206, Verse 5
+bhūtvā ca dhārmiko vyādhaḥ pitroḥ śuśrūṣaṇe rataḥ
+
+// Parva 3, Adhyaya 207, Verse 5
+vaktum arhasi me brahmann itihāsam imaṃ śubham
+
+// Parva 3, Adhyaya 207, Verse 7
+purāṅgirā mahābāho cacāra tapa uttamam
+
+// Parva 3, Adhyaya 209, Verse 22
+krodhaḥ sa tu mahātejā vijñeyaḥ sarvadehiṣu āraṇyāni tathā grāmyān yo dahan saṃprakāśate svayam utpatitaḥ śrīmān vṛddhimān nāma pāvakaḥ
+
+// Parva 3, Adhyaya 210, Verse 19
+etaiḥ saha mahābhāga tapas tejasvibhir nṛpa
+
+// Parva 3, Adhyaya 211, Verse 9
+**** **** tadā sā kanyayā saha bhānor aṅgirasasyātha
+
+// Parva 3, Adhyaya 212, Verse 6
+sa vanhiḥ prathamo nityaṃ devair anviṣyate prabhuḥ
+
+// Parva 3, Adhyaya 213, Verse 1
+vaiśaṃpāyanaḥ śrutvemāṃ dharmasaṃyuktāṃ dharmarājaḥ kathāṃ śubhām punaḥ papraccha tam ṛṣiṃ mārkaṇḍeyaṃ tapasvinam kumāras tu yathā jāto yathā cāgneḥ suto 'bhavat yathā rudrāc ca saṃbhūto gaṅgāyāṃ kṛttikāsu ca etad icchāmy ahaṃ śrotuṃ kautūhalam atīva me
+
+// Parva 3, Adhyaya 213, Verse 9
+keśinn anicchatīṃ kanyāṃ vijane varayasva mām mayi śāstari duṣṭānāṃ vajrahaste madodite
+
+// Parva 3, Adhyaya 213, Verse 13
+mahāmeghapratīkāśaṃ calat pāvakasaṃkulam
+
+// Parva 3, Adhyaya 213, Verse 31
+sūryācandramasor ghoraṃ dṛśyate pariveṣaṇam etasminn eva rātryante mahad yuddhaṃ tu śaṃsati sarit sindhur apīyaṃ tu pratyasṛgvāhinī bhṛśam śṛgāliny agnivaktrā ca pratyādityaṃ virāviṇī
+
+// Parva 3, Adhyaya 214, Verse 2
+tavāpy adharmaḥ sumahān bhavitā vai hutāśana
+
+// Parva 3, Adhyaya 214, Verse 6
+upayantuṃ mahāvīrya pūrvam eva tvam arhasi
+
+// Parva 3, Adhyaya 214, Verse 32
+ghoram ārtasvaraṃ sarve dṛṣṭvā krauñcaṃ vidāritam
+
+// Parva 3, Adhyaya 215, Verse 1
+ity etad vividhākāraṃ vṛttaṃ śuklasya pañcamīm tato yuddhaṃ mahad ghoraṃ ṣaṣṭhyāṃ vṛttaṃ janādhipa strīpuṃsor viparītaṃ ca tathā dvaṃdvāni yāni ca grahā dīptā diśaḥ khaṃ ca rarāsa ca mahī bhṛśam
+
+// Parva 3, Adhyaya 215, Verse 15
+na bālam utsahe hantum iti śakraḥ prabhāṣate te 'bruvan nāsti te vīryaṃ yata evaṃ prabhāṣase
+
+// Parva 3, Adhyaya 215, Verse 18
+tāsāṃ tad vacanaṃ śrutvā pātukāmaḥ stanān prabhuḥ
+
+// Parva 3, Adhyaya 216, Verse 3
+ādāya vajraṃ balavān sarvair devagaṇair vṛtaḥ
+
+// Parva 3, Adhyaya 216, Verse 6
+atha dṛṣṭvā sthitaṃ skandaṃ śvetasyāgre mahāgireḥ
+
+// Parva 3, Adhyaya 218, Verse 16
+tvattejasāvamaṃsyanti lokā māṃ surasattama
+
+// Parva 3, Adhyaya 218, Verse 23
+tasya tad vacanaṃ śrutvā skandasya balavṛtrahā ṛṣibhis taṃ mahāsenaṃ hṛṣṭo devagaṇaiḥ saha sauvarṇe ratnakhacite taruṇāruṇabhāsvare divyāsane samāsthāpya vimalaiḥ puṇyavāribhiḥ mahāsenaṃ tadā śakraḥ senāpatye 'bhiṣiktavān
+
+// Parva 3, Adhyaya 218, Verse 27
+tac chuklaṃ bhakṣayām āsa vahnis tasmād guho 'bhavat
+
+// Parva 3, Adhyaya 218, Verse 32
+yā ceṣṭā sarvabhūtānāṃ prabhā śāntir balaṃ tathā agratas tasya sā śaktir devānāṃ jayavardhinī
+
+// Parva 3, Adhyaya 218, Verse 38
+susaṃvṛtaḥ piśācānāṃ gaṇair devagaṇais tathā
+
+// Parva 3, Adhyaya 218, Verse 45
+evam ukto bhagavatā mahāseno mahābalaḥ dṛṣṭvā kamalapatrākṣīṃ tanumadhyāṃ yaśasvinīm atīva rūpasaṃpannāṃ sarvābharaṇabhūṣitām sarvalakṣaṇasaṃpannāṃ devasenāṃ śucismitām
+
+// Parva 3, Adhyaya 218, Verse 46
+jagrāha bharataśreṣṭha devasenāpatis tataḥ
+
+// Parva 3, Adhyaya 219, Verse 3
+**** **** dharmayuktā mahāvratāḥ bhavadīyaikaśaraṇāḥ
+
+// Parva 3, Adhyaya 219, Verse 34
+varadā sā hi saumyā ca nityaṃ bhūtānukampinī
+
+// Parva 3, Adhyaya 220, Verse 10
+mithunaṃ vai mahābhāga tatra tad rudrasaṃbhavam
+
+// Parva 3, Adhyaya 221, Verse 21
+svena svenānuyogena sarve te 'nuyayur haram
+
+// Parva 3, Adhyaya 221, Verse 24
+evaṃ sarve suragaṇās tadā vai prītamānasāḥ
+
+// Parva 3, Adhyaya 221, Verse 29
+skandaṃ sahomayā prīto jvalantam iva tejasā
+
+// Parva 3, Adhyaya 221, Verse 54
+mahākāyaṃ mahārāja satoyam iva toyadam
+
+// Parva 3, Adhyaya 221, Verse 60
+**** **** āhūya guham ātmajam uvāca sasmitaṃ devo vivitsuḥ putravikramam daurātmyaṃ paśya putra tvaṃ dānavasya durātmanaḥ jahi śīghraṃ durācāraṃ draṣṭum icchāmi te balam ity uktvā bhagavān skandaṃ pariṣvajya maheśvaraḥ ayojayan nigrahārthaṃ mahiṣasya gatāyuṣaḥ tathābhūte tu bhagavān
+
+// Parva 3, Adhyaya 221, Verse 66
+patatā śirasā tena dvāraṃ ṣoḍaśayojanam parvatābhena pihitaṃ tad agamyaṃ tato 'bhavat uttarāḥ kuravas tena gacchanty adya yathāsukham
+
+// Parva 3, Adhyaya 221, Verse 68
+dānaveṣu mahārāja tasmin devāsure yudhi
+
+// Parva 3, Adhyaya 221, Verse 73
+ajayyo yudhi devānāṃ dānavaḥ sumahābalaḥ
+
+// Parva 3, Adhyaya 221, Verse 75
+bhavato 'nucarair vīra gaṇaiḥ paramabhīṣaṇaiḥ
+
+// Parva 3, Adhyaya 222, Verse 1
+praviśya cāśramaṃ puṇyam ubhe te paramastriyau
+
+// Parva 3, Adhyaya 222, Verse 5
+na cānyonyam asūyante kathaṃ vā te sumadhyame
+
+// Parva 3, Adhyaya 222, Verse 27
+atyālāpam asaṃtoṣaṃ paravyāpārasaṃkathāḥ
+
+// Parva 3, Adhyaya 222, Verse 32
+anutiṣṭhāmi taṃ satye nityakālam atandritā
+
+// Parva 3, Adhyaya 224, Verse 9
+ye ca tatra sthitā rājñi tatpakṣīyāḥ kṣitīśvarāḥ teṣāṃ kālaḥ kṣitīśānāṃ prāptaḥ kṛṣṇe durāsadaḥ
+
+// Parva 3, Adhyaya 224, Verse 12
+duḥkhitā tena duḥkhena sukhena sukhitā tathā
+
+// Parva 3, Adhyaya 226, Verse 2
+tavādya pṛthivī rājan nikhilā sāgarāmbarā saparvatavanākārā sahasthāvarajaṅgamā
+
+// Parva 3, Adhyaya 226, Verse 5
+**** **** dṛśyate sā tavādya vai śatravas tava rājendra
+
+// Parva 3, Adhyaya 229, Verse 13
+mattabhramarasaṃjuṣṭaṃ nīlakaṇṭharavākulam saptacchadasamākīrṇaṃ puṃnāgabakulair yutam
+
+// Parva 3, Adhyaya 229, Verse 15
+bhīmārjunayamaiḥ sārdhaṃ sarābhyāśe tadāvasat
+
+// Parva 3, Adhyaya 229, Verse 21
+nyavedayaṃs tato rājñe gandharvās tatra bhārata rakṣitaṃ bahubhiḥ śūrai rājan dvaitavanaṃ saraḥ
+
+// Parva 3, Adhyaya 230, Verse 3
+vayam atra yathāprītāḥ krīḍiṣyāmo nirantaram
+
+// Parva 3, Adhyaya 230, Verse 6
+sāmnaiva tatra vikrāntā mā sāhasam iti prabho
+
+// Parva 3, Adhyaya 230, Verse 22
+tena muktāḥ śarā ghorāḥ sūryaraśmisamaprabhāḥ viyat saṃchādayām āsur na vavau tatra mārutaḥ hastyārohā hatāḥ petur hastibhiḥ saha bhārata hayārohāś ca sahayai rathaiś ca rathinas tathā pattayaś ca yathā petur viśastāḥ śaravṛṣṭibhiḥ
+
+// Parva 3, Adhyaya 230, Verse 30
+anye saṃpūrṇayām āsuś cakre cākṣau tathāpare
+
+// Parva 3, Adhyaya 230, Verse 31
+aṃsāvalambitadhanur dhāvamāno mahābalaḥ
+
+// Parva 3, Adhyaya 231, Verse 6
+tasya bāhū mahārāja baddhvā rajjvā mahāratham āropya svaṃ mahārāja citraseno nanāda ha
+
+// Parva 3, Adhyaya 231, Verse 14
+mahatā hi prayatnena saṃnahya gajavājibhiḥ
+
+// Parva 3, Adhyaya 231, Verse 16
+dīnān duryodhanasyāsmān draṣṭukāmasya durmateḥ
+
+// Parva 3, Adhyaya 232, Verse 1
+rakṣaṇīyā mahābāho maivaṃ vada mahāmate
+
+// Parva 3, Adhyaya 232, Verse 3
+paraiḥ paribhave prāpte vayaṃ pañcottaraṃ śatam parasparavirodhe tu vayaṃ pañca śataṃ tu te
+
+// Parva 3, Adhyaya 232, Verse 8
+dhṛtarāṣṭrasya putrāṇāṃ vimalāḥ kāñcanadhvajāḥ sasvanān adhirohadhvaṃ nityasajjān imān rathān
+
+// Parva 3, Adhyaya 232, Verse 12
+ete śataṃ vayaṃ pañca yāvad vayaṃ parasparam parais tu paribhūtānāṃ vayaṃ pañca śatottaram
+
+// Parva 3, Adhyaya 232, Verse 14
+paraiḥ paribhave prāpte vayaṃ pañcottaraṃ śatam parasparavirodhe tu vayaṃ pañcaiva te śatam
+
+// Parva 3, Adhyaya 232, Verse 15
+yathāsau mṛduyuktena muñce bhīma sakauravān
+
+// Parva 3, Adhyaya 232, Verse 18
+varapradānaṃ sumahad yācakasya prakīrtitam
+
+// Parva 3, Adhyaya 233, Verse 2
+āyudhāni ca divyāni vividhāni samādadhuḥ
+
+// Parva 3, Adhyaya 233, Verse 11
+visarjayata rājānaṃ bhrātaraṃ me suyodhanam
+
+// Parva 3, Adhyaya 234, Verse 6
+tān samāpatato rājan divyāstrair abhivarṣayan
+
+// Parva 3, Adhyaya 234, Verse 25
+citrasenas tathovāca sakhāyaṃ yudhi viddhi mām
+
+// Parva 3, Adhyaya 235, Verse 4
+samastho viṣamasthāṃs tān drakṣyāmīty anavasthitān
+
+// Parva 3, Adhyaya 235, Verse 7
+neṣyāmy enaṃ durātmānaṃ pākaśāsanaśāsanāt
+
+// Parva 3, Adhyaya 235, Verse 16
+devalokaṃ tato gatvā gandharvaiḥ sahitās tadā nyavedayac ca tat sarvaṃ citrasenaḥ śatakratoḥ
+
+// Parva 3, Adhyaya 235, Verse 17
+citrasenas tadā vākyam uvāca prauḍhayā girā muñcadhvaṃ sānujāmātyaṃ sadāraṃ ca suyodhanam gandharvās tu vacaḥ śrutvā citrasenasya vai drutam rājānaṃ mokṣayām āsur baddhaṃ nigaḍabandhanaiḥ sadāraṃ sānugāmātyaṃ bāṇajālamaye vane luṭhantaś cāpi te sarve yudhiṣṭhirasamīpataḥ patitā lajjitāś caiva tasthuś cādhomukhās tadā yudhiṣṭhiro 'pi dayayā tān samīkṣya tathāgatān
+
+// Parva 3, Adhyaya 235, Verse 23
+abhivādya dharmaputraṃ gatendriya ivāturaḥ
+
+// Parva 3, Adhyaya 237, Verse 3
+asamarthās tatas tāṃs tu pratiyoddhuṃ viyadgatān
+
+// Parva 3, Adhyaya 237, Verse 7
+ity abruvan raṇān muktā dharmarājam upāgatāḥ
+
+// Parva 3, Adhyaya 237, Verse 10
+ākāśacāriṇo vīrā nadanto jaladā iva
+
+// Parva 3, Adhyaya 237, Verse 15
+parasparaṃ samāgamya prītyā paramayā yutāḥ
+
+// Parva 3, Adhyaya 238, Verse 12
+kāraṇair asmy abhihitaḥ śatrubhir vai vimānitaḥ akāraṇe 'smy abhijitaḥ śatrubhir vai vimānitaḥ
+
+// Parva 3, Adhyaya 238, Verse 31
+śatrūṇāṃ śokakṛd rājan suhṛdāṃ śokanāśanaḥ
+
+// Parva 3, Adhyaya 238, Verse 37
+tad alaṃ duḥkhitān etān kartuṃ sarvān narādhipa
+
+// Parva 3, Adhyaya 238, Verse 38
+alpatvaṃ ca tathā buddheḥ kāryāṇām avivekitām
+
+// Parva 3, Adhyaya 238, Verse 45
+tad alaṃ te mahābāho buddhiḥ prāyopaveśane
+
+// Parva 3, Adhyaya 239, Verse 21
+adhvaryavo dānavānāṃ karma prāvartayaṃs tataḥ
+
+// Parva 3, Adhyaya 239, Verse 22
+tasmin yajñe dānavānāṃ vartamāne narādhipa
+
+// Parva 3, Adhyaya 239, Verse 23
+kṛtyāṃ sutīkṣṇadantāgrāṃ dīptāṃ * * [śi]roruhām
+
+// Parva 3, Adhyaya 239, Verse 26
+dṛḍham enaṃ pariṣvajya pṛṣṭvā ca kuśalaṃ tadā
+
+// Parva 3, Adhyaya 240, Verse 9
+yaiḥ surāpi ghṛṇāṃ tyaktvā yotsyante saha vairibhiḥ
+
+// Parva 3, Adhyaya 240, Verse 29
+saṃsmṛtya tāni vākyāni dānavoktāni durmatiḥ
+
+// Parva 3, Adhyaya 240, Verse 43
+haṃsapaṅktisamākīrṇā bhramatsārasaśobhitā
+
+// Parva 3, Adhyaya 240, Verse 46
+pratyudgatāś ca kurubhir nāgarair brāhmaṇair api
+
+// Parva 3, Adhyaya 241, Verse 26
+brāhmaṇaiḥ sahito dhīmān ye tatrāsan samāgatāḥ
+
+// Parva 3, Adhyaya 242, Verse 19
+prāptān sarvān nṛpān dṛṣṭvā dhārtarāṣṭro mahāmanāḥ
+
+// Parva 3, Adhyaya 242, Verse 23
+snātaś cāvabhṛtho rājā dhārtarāṣṭro mahāmanāḥ
+
+// Parva 3, Adhyaya 243, Verse 4
+pravartito hy ayaṃ rājñā dhārtarāṣṭreṇa dhīmatā
+
+// Parva 3, Adhyaya 243, Verse 14
+rādheyasaubalādīn vai dhārtarāṣṭro mahīpatiḥ
+
+// Parva 3, Adhyaya 243, Verse 15
+kīlālajaṃ na khādeyaṃ kariṣye cāsuravratam nāstīti naiva vakṣyāmi yācito yena kena cit
+
+// Parva 3, Adhyaya 243, Verse 23
+satataṃ prīyamāṇo vai devinā saubalena ca
+
+// Parva 3, Adhyaya 244, Verse 12
+arjunaḥ tvadadhīnā vayaṃ rājan mā tvam asmin vicāraya yatraiva manyase pārtha tatra gacchāmahe vayam
+
+// Parva 3, Adhyaya 245, Verse 6
+cirasya jātadharmajñaṃ sāsūyam iva te tadā
+
+// Parva 3, Adhyaya 245, Verse 18
+karmabhūmir iyaṃ tāta phalabhūmir asau parā
+
+// Parva 3, Adhyaya 245, Verse 19
+mūle siktasya vṛkṣasya phalaṃ śākhāsu dṛśyate
+
+// Parva 3, Adhyaya 245, Verse 24
+vindate sukham atyantam iha loke paratra ca
+
+// Parva 3, Adhyaya 245, Verse 27
+rājan pratyakṣam evaitad dṛśyate lokasākṣikam
+
+// Parva 3, Adhyaya 245, Verse 28
+**** **** śāstrārthakuśalā bhuvi tathaiva pratipadyante
+
+// Parva 3, Adhyaya 245, Verse 30
+tad duṣkarataraṃ dānaṃ tasmād dānaṃ viśiṣyate
+
+// Parva 3, Adhyaya 245, Verse 31
+śraddhayā vidhivat pātre dattasyānto na vidyate
+
+// Parva 3, Adhyaya 245, Verse 33
+deśe kāle ca pātre ca mudgalaḥ śraddhayānvitaḥ vrīhidroṇaṃ pradāyātha paramaṃ padam āptavān
+
+// Parva 3, Adhyaya 246, Verse 5
+muniḥ sa tu mahārāja mahātmā niyatavrataḥ
+
+// Parva 3, Adhyaya 246, Verse 17
+śeṣe* * * *lipya hasan gāyan pradhāvati nṛtyate dhāvate caiva buddhyā tat krośate yathā
+
+// Parva 3, Adhyaya 246, Verse 27
+pāvanaṃ paramaṃ manye darśanaṃ te mahāmune
+
+// Parva 3, Adhyaya 246, Verse 28
+viśuddhasattvasaṃpanno na tvad anyo 'sti kaś cana dharmo 'pi dhāryate brahman dhṛtiyuktātmanā tvayā
+
+// Parva 3, Adhyaya 247, Verse 1
+nandanādīni ramyāṇi tatrodyānāni mudgala sarvakāmaphalair vṛkṣaiḥ śobhitāni samantataḥ
+
+// Parva 3, Adhyaya 247, Verse 6
+devānām api maudgalya kāṅkṣitā sā parā gatiḥ na duḥkham asukhaṃ cāpi rāgadveṣau kuto mune
+
+// Parva 3, Adhyaya 247, Verse 34
+tatra gatvā nivartante na budhā yoginas tathā
+
+// Parva 3, Adhyaya 247, Verse 40
+mudgala uvāca mahāntas tu amī doṣās tvayā svargasya kīrtitāḥ nirdoṣa eva yas tv anyo lokaṃ taṃ pravadasva me brahmaṇaḥ sadanād ūrdhvaṃ tad viṣṇoḥ paramaṃ padam śuddhaṃ sanātanaṃ jyotiḥ paraṃ brahmeti yad viduḥ na tatra vipra gacchanti puruṣā viṣayātmakāḥ dambhalobhamahākrodhamohadrohair abhidrutāḥ nirmamā nirahaṃkārā nirdvaṃdvāḥ saṃyatendriyāḥ dhyānayogaparāś caiva tatra gacchanti mānavāḥ
+
+// Parva 3, Adhyaya 247, Verse 42
+nigṛhītendriyagrāmaṃ samayojayad ātmani yuktacittaṃ tathātmānaṃ yuyoja parameśvare
+
+// Parva 3, Adhyaya 249, Verse 6
+vaśyendriyaḥ sabhyarucir varoru vṛddhopasevī gurupūjakaś ca
+
+// Parva 3, Adhyaya 249, Verse 7
+suvismitaḥ parvatavāsanidro na cāpi jānīma taveha nātham
+
+// Parva 3, Adhyaya 251, Verse 1
+koṭikāśyo jagāmāśu sindhurājaniṣevitam
+
+// Parva 3, Adhyaya 251, Verse 10
+api tvaṃ kuśalī rājan sahāmātyaḥ sahaprajaḥ kaccid ekaḥ śibīn āḍhyān sauvīrān saha sindhubhiḥ anutiṣṭhasi dharmeṇa ye cānye viditās tvayā
+
+// Parva 3, Adhyaya 251, Verse 21
+draupadī naivaṃ vada mahābāho nyāyyaṃ tvaṃ na ca manyase pāṇḍūnāṃ dhārtarāṣṭrāṇāṃ svasā caiva kanīyasī duḥśalā nāma tasyās tvaṃ bhartā rājakulodbhavaḥ mama bhrātā ca nyāyyena tvayā rakṣyā mahāratha dharmiṣṭhānāṃ kule jāto na dharmaṃ tvam avekṣase ity uktaḥ sindhurājo 'pi vākyam uttaram abravīt rājñāṃ dharmaṃ na jānīṣe striyo ratnāni caiva hi sādhāraṇāni loke 'smin pravadanti manīṣiṇaḥ svasā ca svasriyā caiva bhrātṛbhāryā tathaiva ca saṃgṛhṇanti ca rājānas tāś ca tatra nṛpodbhavāḥ
+
+// Parva 3, Adhyaya 252, Verse 18
+yadā draṣṭāsy arjunaṃ vīryaśālinaṃ tadā svabuddhiṃ pratininditāsi
+
+// Parva 3, Adhyaya 253, Verse 11
+kenātmanāśāya vadāpanītā chidraṃ samāsādya narendrapatnī paryākulā sā tu samīkṣya sūtam abhyāpatantaṃ drutam indrasenam uro ghnatī kaṣṭataraṃ tadānīm uccaiḥ pracukrośa hṛteti devī
+
+// Parva 3, Adhyaya 253, Verse 19
+purā hi pārthāś ca hatau ca kāpilam prasicyate kṣīradhārā yatadhvam
+
+// Parva 3, Adhyaya 254, Verse 14
+bandhupriyaḥ śastrabhṛtāṃ variṣṭho mahāhaveṣv aprativāryavīryaḥ
+
+// Parva 3, Adhyaya 254, Verse 15
+**** **** śūraḥ kṛtajño dṛḍhasauhṛdaś ca mahāhave yaś ca ripupramāthī
+
+// Parva 3, Adhyaya 255, Verse 26
+tadā tu saṃpravṛtte tu tumule yodhasaṃkṣaye aṅgārakaḥ kuñjaraś ca saṃjayo guptakas tathā śatruṃjayaḥ suprabuddho śubhakṛd bhramakā api śūraḥ parākuḥ kuhako dvādaśaite mahārathāḥ subalāḥ saindhavāś caiva trigartāś ca mahābalāḥ ikṣvākuyodhāḥ prabalā rathinaḥ saha yad dvipāḥ koṭīkṛtya ca pārthaṃ tu śaravarṣair avākiran arjunas tu tataḥ kruddhaḥ śaravarṣaṃ nihatya ca
+
+// Parva 3, Adhyaya 255, Verse 32
+vidrāvyamāne sainye tu makarair arṇavo yathā
+
+// Parva 3, Adhyaya 255, Verse 56
+rathāt praskandya padbhyāṃ vai palāyanaparo 'bhavat
+
+// Parva 3, Adhyaya 255, Verse 59
+**** **** arjunena ca dhīmatā saindhavo 'pi ca pāpātmā
+
+// Parva 3, Adhyaya 256, Verse 1
+salatābhiḥ *saṃvṛte kirīṭaṃ ratnabhāsvaram āpe vidravya dhāvantaṃ nilīyantaṃ vanāntaram bhīmasenas tu taṃ kakṣe līyamānaṃ bhayākulam mārgamāṇo 'vatīryāśu rathād ratnavibhūṣitāt
+
+// Parva 3, Adhyaya 256, Verse 10
+taṃ tathā na viceṣṭantam abudhvāpa vṛkodaraḥ
+
+// Parva 3, Adhyaya 256, Verse 18
+sa mu[mo]caivam uktas tu bhīmas taṃ bandhanāt tadā mumoca taṃ mahāpāpaṃ jayadratham acetasam
+
+// Parva 3, Adhyaya 256, Verse 25
+nirāhāro jitakrodhaḥ pādāṅguṣṭhāgraviṣṭhitaḥ
+
+// Parva 3, Adhyaya 256, Verse 28
+mama pāśupatāstreṇa guptaṃ sarvatra sarvadā badaryāṃ taptatapasaṃ nārāyaṇasahāyakam ajitaṃ sarvalokānāṃ
+
+// Parva 3, Adhyaya 256, Verse 29
+tasmāt tvaṃ pārtharahitān pāṇḍavān vārayiṣyasi ekadā puruṣavyāghra mayā dattaṃ varaṃ tava na śakyate tena jetuṃ tridaśair api duḥsahaḥ kaḥ punar mānuṣo bhāvo raṇe pārthaṃ vijeṣyati tam ekaṃ varjayitvā tu sarvaṃ yaudhiṣṭhiraṃ balam vaiśaṃpāyana uvāca ity evam uktvā nṛpatiṃ sarvapāpaharo haraḥ umāpatiḥ paśupatir yajñahā tripurārdanaḥ vāmanair vikaṭaiḥ kubjair ugraśravaṇadarśanaiḥ vṛtaḥ pāriṣadair ghorair nānāpraharaṇodyataiḥ tryambako rājaśārdūla bhaganetranipātanaḥ umāsahāyo bhagavāṃs tatraivāntaradhīyata
+
+// Parva 3, Adhyaya 257, Verse 3
+yudhiṣṭhira uvāca drupadasya sutā hy eṣā vedimadhyāt samutthitā ayonijā mahābhāgā snuṣā pāṇḍor mahātmanaḥ
+
+// Parva 3, Adhyaya 258, Verse 1
+vyasanaṃ pitṛśokādi bhāryāyā haraṇaṃ mahat pitur nideśād vasato vane 'sya svargataḥ pitā
+
+// Parva 3, Adhyaya 258, Verse 3
+tatas taṃ balavān rāmo ripuṃ bhāryāpahāriṇam saha vānarasainyena jaghāna raṇamūrdhani
+
+// Parva 3, Adhyaya 258, Verse 5
+tvayā pratyakṣato dṛṣṭaṃ yathā sarvam aśeṣataḥ
+
+// Parva 3, Adhyaya 258, Verse 6
+śṛṇu rājan purā vṛttam itihāsaṃ purātanam sabhāryeṇa yathā prāptaṃ duḥkhaṃ rāmeṇa bhārata
+
+// Parva 3, Adhyaya 258, Verse 16
+vimānaṃ puṣpakaṃ nāma kāmagaṃ ca dadau prabhuḥ yakṣāṇām ādhipatyaṃ ca rājarājatvam eva ca
+
+// Parva 3, Adhyaya 259, Verse 19
+vibhīṣaṇadaśagrīvau tepāte uttamaṃ tapaḥ daśa varṣasahasrāṇi vāyubhakṣau paraṃtapau sarake daśa varṣāṇi aṣṭa varṣāṇi sāgare ūṣur varṣasahasrāṇi gokarṇe 'smiṃs tapovane ceratus tṛṇaparṇāṇi mṛgaiḥ sārdham ariṃdamau bādaryās tv āśrame rājan tepāte paramaṃ tapaḥ ārādhayantau śaucena brahmāṇaṃ sutapasvinau
+
+// Parva 3, Adhyaya 259, Verse 28
+varaṃ vṛṇīṣva bhadraṃ te prīto 'smīti punaḥ punaḥ
+
+// Parva 3, Adhyaya 260, Verse 1
+tato devāḥ samāgamya sarve śakrapurogamāḥ agnau vākyaṃ samādhāya brahmaṇe te 'bhyavādayan tataḥ kṛśānur bhagavān bhagavantaṃ pitāmaham praṇamyovāca lokeśaṃ kṛtāñjalir idaṃ vacaḥ
+
+// Parva 3, Adhyaya 260, Verse 7
+te tathoktā bhagavatā tat pratiśrutya śāsanam sasṛjur devagandharvāḥ putrān vānararūpiṇaḥ
+
+// Parva 3, Adhyaya 260, Verse 8
+ṛṣayaś ca mahātmānaḥ siddhāś ca saha kiṃnaraiḥ cāraṇāś cāsṛjan ghorān vānarān vanacāriṇaḥ te sṛṣṭā bahusāhasrā daśagrīvavadhe ratāḥ aprameyabalāḥ śūrā vānarāḥ kāmarūpiṇaḥ yasya devasya yad rūpaṃ veṣas tejaś ca yadvidham ajāyanta samās tena tasya tasya sutās tadā
+
+// Parva 3, Adhyaya 261, Verse 1
+janmādi caritaṃ sarvaṃ vivāhādi mayā śrutam
+
+// Parva 3, Adhyaya 261, Verse 3
+vṛṣṭir jayanto vijayaḥ siddhārtho rāṣṭravardhanaḥ aśoko dharmapālaś ca sumantraś cāṣṭamo 'bhavat eteṣṭau daśarathāmātyāḥ
+
+// Parva 3, Adhyaya 261, Verse 15
+śva eṣa puṣyo bhavitā yatra rāmaḥ suto mayā yauvarājye 'bhiṣektavyaḥ pauraiś ca saha mantribhiḥ
+
+// Parva 3, Adhyaya 261, Verse 23
+pṛthivyāṃ rājarājo 'smi cāturvarṇyasya rakṣitā yas te 'bhilaṣitaḥ kāmo brūhi kalyāṇi māciram
+
+// Parva 3, Adhyaya 261, Verse 25
+nava pañca ca varṣāṇi daṇḍakāraṇyam āśritaḥ cīrājinajaṭādhārī rāmo vasatu tāpasaḥ
+
+// Parva 3, Adhyaya 261, Verse 34
+saṃskṛtya pitaraṃ vṛttaṃ bharato dharmavatsalaḥ
+
+// Parva 3, Adhyaya 261, Verse 37
+uvāca prāñjalir bhūtvā praṇipatya raghūttamam śaśaṃsa maraṇaṃ rājñaḥ so 'nāthāṃś caiva kośalān nātha tvaṃ pratipadyasva svarājyam iti coktavān tasya tad vacanaṃ śrutvā rāmaḥ paramaduḥkhitaḥ cakāra devakalpasya pituḥ snātvodakakriyām abravīc ca tadā rāmo bharataṃ bhrātṛvatsalam pāduke me bhaviṣyete rājyagopte paraṃtapa evam astv iti taṃ prāha bharataḥ praṇatas tadā
+
+// Parva 3, Adhyaya 261, Verse 43
+tena śūrpaṇakhā dṛṣṭvā sahasrāṇi caturdaśa hatāni yudhi rāmeṇa śarais tīkṣṇaiḥ padātinā
+
+// Parva 3, Adhyaya 261, Verse 51
+tato jñātivadhaṃ śrutvā rāvaṇaḥ kālanoditaḥ rāmasya vadham ākāṅkṣan mārīcaṃ manasāgamat
+
+// Parva 3, Adhyaya 262, Verse 5
+samāsenaiva kāryāṇi krodhamarṣasamanvitaḥ
+
+// Parva 3, Adhyaya 262, Verse 27
+pibeyaṃ vā viṣaṃ ghoraṃ tyajāmy ātmānam adya vai
+
+// Parva 3, Adhyaya 262, Verse 36
+śuṣyet toyanidhau toyaṃ candraḥ śītāṃśutāṃ tyajet uṣṇāṃśutvam atho jahyād ādityo vahnir uṣṇatām
+
+// Parva 3, Adhyaya 262, Verse 39
+krodhāt prasphuramāṇauṣṭhī vidhunvānā karau muhuḥ
+
+// Parva 3, Adhyaya 263, Verse 5
+abhidudrāva saṃkruddhaḥ patagendraṃ daśānanaḥ
+
+// Parva 3, Adhyaya 263, Verse 9
+evaṃ hṛtvā rāmapatnīṃ rāvaṇo 'gāt svakāṃ purīm dadarśātha purīṃ ramyāṃ bahudvārāṃ manoramām prākāravaprasaṃbādhāṃ nirmitāṃ viśvakarmaṇā praviveśa purīṃ laṅkāṃ sasīto rākṣaseśvaraḥ
+
+// Parva 3, Adhyaya 263, Verse 21
+aho dhanyaḥ subhāgyo 'sau jaṭāyur iti bhāratīm divi śṛṇvan gataḥ siddhiṃ siddhānām api durlabhām
+
+// Parva 3, Adhyaya 263, Verse 32
+śakto dharṣayituṃ vīra sumitrānandivardhana
+
+// Parva 3, Adhyaya 263, Verse 41
+tena tvaṃ saha saṃgamya duḥkhamūlaṃ nivedaya samānaśīlo bhavataḥ sāhāyaṃ sa kariṣyati
+
+// Parva 3, Adhyaya 264, Verse 11
+tataḥ sītāṃ hṛtāṃ śrutvā sugrīvo vālinā kṛtam duḥkham ākhyātavān sarvaṃ rāmāyāmitatejase
+
+// Parva 3, Adhyaya 264, Verse 21
+śrūyate dāśarathī rāmo vane pitur anujñayā
+
+// Parva 3, Adhyaya 264, Verse 28
+ity uktas tu jahāsoccaiḥ sugrīvo bhrātaraṃ prati hetumad vacanaṃ bhrātre provācedaṃ mahātmane
+
+// Parva 3, Adhyaya 264, Verse 33
+prajñānārthaṃ tadā rāmo niścitya manasā tadā
+
+// Parva 3, Adhyaya 264, Verse 67
+mokṣitā tvāṃ bhayād asmād rāmaḥ śatruniṣūdanaḥ
+
+// Parva 3, Adhyaya 265, Verse 18
+vyavasthāpya kathaṃ cit sā viṣādād atimohitā
+
+// Parva 3, Adhyaya 266, Verse 22
+**** **** āyātā vānarās tadā diśas tisro vānarendrāḥ
+
+// Parva 3, Adhyaya 267, Verse 3
+kumudo 'pi mahāvīryaḥ plavagarṣabhasattama
+
+// Parva 3, Adhyaya 267, Verse 35
+evam uktaḥ samudreṇa rāmo vākyam athābravīt
+
+// Parva 3, Adhyaya 267, Verse 36
+rākṣasaṃ sānubandhaṃ tu mama bhāryāpahāriṇam
+
+// Parva 3, Adhyaya 267, Verse 52
+draṣṭuṃ senām anuprāptau rāvaṇapriyakāriṇau
+
+// Parva 3, Adhyaya 268, Verse 25
+pralambabāhūrukarajaṅghāntaravilambinām ṛkṣāṇāṃ dhūmravarṇānāṃ tisraḥ koṭyo vyavasthitāḥ
+
+// Parva 3, Adhyaya 269, Verse 5
+rākṣasānāṃ balair ghoraiḥ piśācānāṃ ca saṃvṛtaḥ yuddhaśāstravidhānajña uśanā iva cāparaḥ
+
+// Parva 3, Adhyaya 270, Verse 4
+kṛttottamāṅgaṃ sahyaṃ tad anayānugatāsavām papāta rakṣaḥ sahasā vātarugṇa iva drumaḥ
+
+// Parva 3, Adhyaya 270, Verse 13
+śirasy abhyahanat pūrvaṃ kālayā ca punaḥ punaḥ tṛṇarājena mahatā lohasārathibhedinā
+
+// Parva 3, Adhyaya 270, Verse 14
+vegena mahatāviṣṭo rākṣasānāṃ mahad balam yodhayām āsa rājendra śilāvarṣaiḥ samantataḥ
+
+// Parva 3, Adhyaya 271, Verse 2
+śailavṛkṣāyudhā nādān amuñcan bhīṣaṇās tataḥ
+
+// Parva 3, Adhyaya 271, Verse 10
+gacchan saṃbodhayām āsa prahāreṇālpacetasam tataḥ saṃlabdhasaṃjñas tu hṛtvā karṇoṣṭanāsikām sugrīvaḥ kumbhakarṇasya jagāma harivāhinīm atha kruddhaḥ kumbhakarṇo miśritān harirākṣasān bhakṣayām āsa balavān mamarda padayor api bhakṣyamāṇān harīn sarvān kumbhakarṇena rakṣasā
+
+// Parva 3, Adhyaya 271, Verse 13
+vegena mahatāviṣṭas tiṣṭha tiṣṭheti cābravīt
+
+// Parva 3, Adhyaya 271, Verse 16
+saumitrir adbhutaṃ dṛṣṭvā krūraḥ samarakovidaḥ
+
+// Parva 3, Adhyaya 273, Verse 4
+kṣaṇena garuḍas tāta patatrī samadṛśyata darśanāt pakṣirājasya pannagāś ca pradudruvuḥ sa cāgatya mahāpakṣī tāv ubhau rāmalakṣmaṇau parāmṛjya kareṇātha yayau yena pathāgataḥ
+
+// Parva 3, Adhyaya 273, Verse 14
+tato bibheda paulastyaḥ śaktyā vakṣasi lakṣmaṇam paulastyam etad ālakṣya prāpa mūrchāṃ sa lakṣmaṇaḥ avahāraṃ tataḥ kṛtvā rāghavaḥ sarvavānarān vākyam ity abravīd dīnaṃ tan me nigadataḥ śṛṇu rājyabhaṅgo vane vāsaḥ sītā nītā pitā mṛtaḥ lakṣmaṇo moham āpannaḥ kiṃ no duḥkham ataḥ param bibhīṣaṇo hanumatā rāmas taṃ bodhya buddhimān ānāyyauṣadhayo divyā lakṣmaṇaṃ samajīvayat
+
+// Parva 3, Adhyaya 273, Verse 20
+tān aprāptāñ śitair bāṇaiś ciccheda raghunandanaḥ
+
+// Parva 3, Adhyaya 273, Verse 21
+vārayām āsa nārācaiḥ saumitrir mitranandanaḥ asṛjal lakṣmaṇaś cāṣṭau rākṣasāya śarān punaḥ
+
+// Parva 3, Adhyaya 273, Verse 24
+papāta vasudhāyāṃ tu chinnamūla iva drumaḥ
+
+// Parva 3, Adhyaya 274, Verse 11
+ity ukto lakṣmaṇaṃ pārtha tadā gantuṃ samudyataḥ
+
+// Parva 3, Adhyaya 274, Verse 13
+tvad artham iha saṃprāptaḥ saṃdeśād vai śatakratoḥ
+
+// Parva 3, Adhyaya 274, Verse 18
+alabdhopamam anyatra tayor eva tathābhavat
+
+// Parva 3, Adhyaya 274, Verse 27
+amogham aviṣahyaṃ ca sa devāsurapannagaiḥ bhāsayantaṃ diśaḥ sarvāḥ svayā dīptyā mahāprabhā
+
+// Parva 3, Adhyaya 275, Verse 24
+yathāhaṃ tvad ṛte vīra nānyaṃ svapne 'py acintayam tathā me devanirdiṣṭas tvam eva hi patir bhava
+
+// Parva 3, Adhyaya 275, Verse 28
+yamaḥ dharmarājo 'smi kākutstha sākṣī lokasya karmaṇām śubhāśubhānāṃ sīteyam apāpā pratigṛhyatām brahmapāro 'si viśveśa parapāranayas tathā parāṇāṃ ca parāsyasi pāraḥ pāraḥ sadaiva saḥ sarvabhūtanivāsī ca bhūman sa paramas tathā
+
+// Parva 3, Adhyaya 275, Verse 37
+saṃpūrṇāni hi varṣāṇi caturdaśa mahādyute
+
+// Parva 3, Adhyaya 275, Verse 61
+nandigrāmagataṃ rāmaḥ saśatrughnaṃ sa rāghavaḥ
+
+// Parva 3, Adhyaya 275, Verse 69
+daśa varṣasahasrāṇi daśa varṣaśatāni ca rājyaṃ kāritavān rāmaḥ paścāt sa tridivaṃ gataḥ
+
+// Parva 3, Adhyaya 276, Verse 1
+tad uktaṃ bhavatāṃ sarvaṃ rāmāyaṇam anuttamam āyuṣyam idam ākhyānaṃ śṛṇvatām aghanāśanam putrapautrapradaṃ puṃsām āyurārogyavardhanam tasmāt tvam api rājendra bhrātṛbhiḥ saha dharmaja
+
+// Parva 3, Adhyaya 276, Verse 13
+śrutvā rāmāyaṇaṃ sarvaṃ tyaktvā duḥkhaṃ yudhiṣṭhiraḥ mārkaṇḍeyaṃ punaḥ prāha bhrātṛbhiḥ saha saṃmataiḥ
+
+// Parva 3, Adhyaya 277, Verse 11
+sā tam aśvapatiṃ rājan sāvitrī niyamasthitam
+
+// Parva 3, Adhyaya 277, Verse 15
+evam uktvā tu sāvitrī pratyuvāca ca taṃ nṛpam
+
+// Parva 3, Adhyaya 278, Verse 18
+sa vadānyaḥ sa tejasvī sa dhīmān sa kṣamānvitaḥ
+
+// Parva 3, Adhyaya 278, Verse 22
+eka evāsya doṣo hi guṇān ākramya tiṣṭhati sa ca doṣaḥ prayatnena na śakyam ativartitum
+
+// Parva 3, Adhyaya 278, Verse 28
+vilambo nātra kartavyo niścite karmaṇi dhruvam
+
+// Parva 3, Adhyaya 279, Verse 23
+tadā prabhṛti sāvitrī gaṇayām āsa vāsarān
+
+// Parva 3, Adhyaya 280, Verse 10
+vrataṃ samāpya sāvitrī snātvā śuddhā yaśasvinī
+
+// Parva 3, Adhyaya 280, Verse 18
+**** **** kaṭhinaṃ ca tathā kare khanitraṃ satyavān gṛhya prasthitaś ca vanaṃ prati taṃ praṇamyābravīt sādhvī nāradoktaṃ vaśānugā
+
+// Parva 3, Adhyaya 281, Verse 5
+bhramatīva diśaḥ sarvāś cakrārūḍhaṃ mano mama
+
+// Parva 3, Adhyaya 281, Verse 7
+hanta prāptaḥ sa kālo 'yam iti cintāparā satī
+
+// Parva 3, Adhyaya 281, Verse 13
+sāvitry uvāca śrūyate bhagavan dūtās tavāgacchanti mānavān netuṃ kila bhavān kasmād āgato 'si svayaṃ prabho
+
+// Parva 3, Adhyaya 281, Verse 18
+bhartuḥ śarīrarakṣāṃ ca vidhāya hi tapasvinī bhartāram anugacchantī tathāvasthaṃ sumadhyamā
+
+// Parva 3, Adhyaya 281, Verse 19
+eṣa mārgo viśālākṣi na kenāpy anugamyate
+
+// Parva 3, Adhyaya 281, Verse 44
+varaṃ vṛṇe satyavato mayi prabho bhavet sutānāṃ śatam etad īpsitam
+
+// Parva 3, Adhyaya 281, Verse 45
+tathāstu te putraśataṃ śubhānane drutaṃ nivartasva pariśramo na te
+
+// Parva 3, Adhyaya 281, Verse 55
+toṣitena tvayā sādhvī vākyair dharmārthasaṃhitaiḥ
+
+// Parva 3, Adhyaya 281, Verse 98
+api nāma gurū tau hi paśyeyaṃ dhriyamāṇakau
+
+// Parva 3, Adhyaya 281, Verse 108
+sāvitrīsahitaḥ śrīmān satyavān saṃśitavrataḥ
+
+// Parva 3, Adhyaya 282, Verse 8
+**** **** sāvitryā darśanāni ca śokaṃ jagmatur anyonyaṃ
+
+// Parva 3, Adhyaya 282, Verse 9
+brāhmaṇaḥ satyavāk teṣām uvācedaṃ tayor vacaḥ
+
+// Parva 3, Adhyaya 282, Verse 21
+dṛṣṭvā cotpatitāḥ sarve harṣaṃ jagmuś ca te dvijāḥ kaṇṭhaṃ mātā pitā cāsya samāliṅgyābhyarodatām
+
+// Parva 3, Adhyaya 283, Verse 16
+yaś cedaṃ śṛṇuyād bhaktyā sāvitryākhyānam uttamam sa sukhī sarvasiddhārtho na duḥkhaṃ prāpnuyān naraḥ
+
+// Parva 3, Adhyaya 285, Verse 12
+pāṇḍavānāṃ hite yukto bhikṣan brāhmaṇaveṣadhṛk
+
+// Parva 3, Adhyaya 286, Verse 17
+karṇas tu bubudhe rājan svapnānte pravyathann iva pratibuddhas tu rādheyaḥ svapnaṃ saṃcintya bhārata cakāra niścayaṃ rājañ śaktyarthaṃ vadatāṃ vara yadi mām indra āyāti kuṇḍalārthaṃ paraṃtapaḥ śaktyā tasmai pradāsyāmi kuṇḍale varma caiva ha sa kṛtvā prātar utthāya kāryāṇi bharatarṣabha brāhmaṇān vācayitvā ca yathākāryam upākramat vidhinā rājaśārdūla muhūrtam ajapat tataḥ
+
+// Parva 3, Adhyaya 287, Verse 2
+yat tad vivasvato guhyaṃ yādṛśe kuṇḍale ca te ubhayaṃ tad yathā brahmaṃs tan mamācakṣva sattama
+
+// Parva 3, Adhyaya 288, Verse 10
+evaṃ bruvantīṃ bahuśaḥ pariṣvajya samarthya ca iti ceti ca kartavyaṃ rājā sarvam athādiśat
+
+// Parva 3, Adhyaya 288, Verse 19
+paricaryāparā rājan kuṃ[? read naktaṃ]dinam atandritā
+
+// Parva 3, Adhyaya 290, Verse 3
+tato harmyatalasthā sā mahārhaśayanocitā
+
+// Parva 3, Adhyaya 290, Verse 4
+tatra baddhamanodṛṣṭir abhavat sā samudhyamā
+
+// Parva 3, Adhyaya 290, Verse 15
+yadi tvaṃ vacanaṃ nādya kariṣyasi mama priyam
+
+// Parva 3, Adhyaya 290, Verse 25
+gaccheyam evaṃ suśroṇi gato 'haṃ vai nirākṛtaḥ
+
+// Parva 3, Adhyaya 291, Verse 17
+astu me saṃgamo deva anena samayena te
+
+// Parva 3, Adhyaya 292, Verse 6
+utsraṣṭukāmā taṃ garbhaṃ kārayām āsa bhārata mañjūṣāṃ śilpibhis tūrṇaṃ sunaddhāṃ supratiṣṭhitām plavair bahuvidhair baddhāṃ plavanārthaṃ jale nṛpa ajinair mṛdubhiś caiva saṃstīrṇaśayanāṃ tathā
+
+// Parva 3, Adhyaya 293, Verse 6
+parimlānamukhaṃ bālaṃ rudantaṃ kṣudhitaṃ bhṛśam sa taṃ paramayā lakṣmyā dṛṣṭvā yuktaṃ varātmajam
+
+// Parva 3, Adhyaya 293, Verse 10
+stanyaṃ samāsravac cāsyā daivād ity atha niścayaḥ
+
+// Parva 3, Adhyaya 293, Verse 11
+nāmakarma ca cakrāte kuṇḍale tasya dṛśyate karṇa ity eva taṃ bālaṃ dṛṣṭvā karṇaṃ sakuṇḍalam
+
+// Parva 3, Adhyaya 293, Verse 19
+etad guhyaṃ mahārāja sūryasyāsīn na saṃśayaḥ yaḥ sūryasaṃbhavaḥ karṇaḥ kuntyāṃ sūtakule tadā
+
+// Parva 3, Adhyaya 293, Verse 22
+etasminn eva kāle tu pāṇḍavānāṃ hite rataḥ
+
+// Parva 3, Adhyaya 294, Verse 9
+vināsya sahajaṃ varma kuṇḍale ca viśāṃ pate
+
+// Parva 3, Adhyaya 294, Verse 29
+evam etad yathāttha tvaṃ dānavānāṃ niṣūdana vadhiṣyāmi raṇe śatruṃ yo me sthātā puraḥsaraḥ
+
+// Parva 3, Adhyaya 294, Verse 38
+tato devo mudito vajrapāṇir dṛṣṭvā karṇaṃ śastranikṛttagātram
+
+// Parva 3, Adhyaya 295, Verse 2
+pratilabhya tataḥ kṛṣṇāṃ yad akurvanta tac chṛṇu
+
+// Parva 3, Adhyaya 295, Verse 6
+teṣāṃ ca vasatāṃ tatra pāṇḍavānāṃ mahāratham vane kleśaṃ sukhodarkaṃ tat pravakṣyāmi tac chṛṇu araṇīsahitaṃ manthaṃ brāhmaṇasya tapasvinaḥ mṛgasya gharṣamāṇasya viṣāṇe samasajjata tad ādāya gato rājaṃs tvaramāṇo mahāmṛgaḥ āśramāntaritaḥ śīghraṃ plavamāno mahājavaḥ hriyamāṇaṃ tu taṃ dṛṣṭvā sa vipraḥ kurusattama tvarito 'bhyāgamat tatra agnihotraparīpsayā
+
+// Parva 3, Adhyaya 296, Verse 3
+nakula uvāca dhārtarāṣṭrāḥ kutsayanto yan me na nihatās tadā dyūtakāle mahārāja tenemām āpadaṃ gatāḥ
+
+// Parva 3, Adhyaya 296, Verse 7
+**** **** bhrātur jyeṣṭhasya śāsanāt tata utthāya matimān
+
+// Parva 3, Adhyaya 296, Verse 22
+vigatāsū naravyāghrau śayānau vasudhātale
+
+// Parva 3, Adhyaya 296, Verse 29
+so 'py adṛśyāya bhūtāya nabhasy āmitatejase utsasarja mahābāhur bāṇajālaṃ dhanaṃjayaḥ tatas tān iṣusaṃghātān gāṇḍīvadhanuṣaś cyutān meghān kṛtvā jahāsoccais tad adbhutam ivābhavat
+
+// Parva 3, Adhyaya 296, Verse 30
+evam uktas tataḥ pārthaḥ savyasācī dhanaṃjayaḥ
+
+// Parva 3, Adhyaya 296, Verse 36
+vāg uvācātha suspaṣṭam adṛśyā pāṇḍunandanam
+
+// Parva 3, Adhyaya 296, Verse 38
+cirāyamānān bahuśaḥ punaḥ punar uvāca ha mādreyau kiṃ cirāyete gāṇḍīvī kiṃ cirāyate mahābaladharas tatra kiṃ nu bhīmaś cirāyate gacchāmy eṣāṃ padaṃ draṣṭum iti kṛtvā yudhiṣṭhiraḥ
+
+// Parva 3, Adhyaya 296, Verse 39
+vaiśaṃpāyana uvāca evamādīni vākyāni vimṛṣan nṛpasattamaḥ tataś ciragatān bhrātṝn atha rājā yudhiṣṭhiraḥ cirāyamāṇān bahuśaḥ punaḥ punar uvāca ha kiṃ svid vanam idaṃ draṣṭuṃ kiṃ svid dṛṣṭo mṛgo bhavet prāhasan vā mahābhūtaṃ śaptās tenātha te 'patan na paśyanty atha vā vīrāḥ pānīyaṃ yatra te gatāḥ anviṣadbhir vane toyaṃ kālo 'yam iti pātitaḥ kiṃ nu tat kāraṇaṃ yena nāyānti puruṣarṣabhāḥ gacchāmy eṣāṃ padaṃ draṣṭum iti kṛtvā yudhiṣṭhiraḥ
+
+// Parva 3, Adhyaya 296, Verse 41
+mṛduśāḍvalasaṃkīrṇaṃ bhūmibhāgaṃ manoharam
+
+// Parva 3, Adhyaya 296, Verse 43
+tato dharmasutaḥ śrīmān bhrātṛdarśanalālasaḥ
+
+// Parva 3, Adhyaya 297, Verse 7
+ambāṃ ca kiṃ nu vakṣyāmi sadā duḥkhasya bhāginīm dṛṣṭvā māṃ bhrātṛbhir hīnaṃ pṛcchantīṃ putragṛddhinīm yadā tvaṃ bhrātṛbhiḥ sarvaiḥ śakratulyaparākramaiḥ sārdhaṃ vanaṃ gato vīraiḥ katham ekas tvam āgataḥ
+
+// Parva 3, Adhyaya 297, Verse 8
+mṛtānām api caiteṣāṃ vikṛtaṃ naiva jāyate
+
+// Parva 3, Adhyaya 297, Verse 15
+vinighnatā maheṣvāsāṃś caturo 'pi mamānujān
+
+// Parva 3, Adhyaya 297, Verse 19
+tato rājann apākramya tasmād deśād avasthitaḥ
+
+// Parva 3, Adhyaya 297, Verse 21
+uvāca yakṣaḥ kaunteyaṃ bhrātṛśokābhipīḍitam
+
+// Parva 3, Adhyaya 297, Verse 45
+yakṣa uvāca ko 'tithiḥ sarvabhūtānāṃ kiṃ svid dharmaṃ sanātanam yudhiṣṭhira uvāca atithiḥ sarvabhūtānām agniḥ somo gavāmṛtam sanātano 'mṛto dharmo vāyuḥ sarvam idaṃ jagat
+
+// Parva 3, Adhyaya 297, Verse 57
+yakṣa uvāca kimarthaṃ brāhmaṇe dānaṃ kimarthaṃ naṭanartake yudhiṣṭhira uvāca dharmārthaṃ brāhmaṇe dānaṃ yaśorthaṃ naṭanartake yakṣa uvāca kena svid āvṛto lokaḥ kena svin na prakāśate yudhiṣṭhira uvāca ajñānenāvṛto lokas tamasā na prakāśate lobhāt tyajati mitrāṇi saṅgāt svargaṃ na gacchati
+
+// Parva 3, Adhyaya 297, Verse 64
+samatvaṃ yasya sarveṣu sa vai puruṣa ucyate bhūtabhavyabhaviṣyeṣu niḥspṛhaḥ śāntamānasaḥ
+
+// Parva 3, Adhyaya 297, Verse 71
+dharma eva hato hanti dharmo rakṣati rakṣitaḥ tasmād dharmaṃ na tyajāmi mā no dharmo hato vadhīt
+
+// Parva 3, Adhyaya 297, Verse 72
+kuntī caiva tu mādrī ca dve bhārye tu pitur mama ubhe saputre syātāṃ vai iti me dhīyate matiḥ
+
+// Parva 3, Adhyaya 298, Verse 10
+kāmakrodhau tu prathamau lobhamohau tu madhyamau ante bhayaviṣādau ca eṣā sā ṣaṭpadī smṛtā
+
+// Parva 3, Adhyaya 298, Verse 20
+pravṛṇīṣvāparaṃ saumya varam iṣṭaṃ dadāni te na tṛpyāmi naraśreṣṭha prayacchan vai varāṃs tava

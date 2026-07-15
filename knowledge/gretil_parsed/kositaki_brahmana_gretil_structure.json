@@ -1,0 +1,107 @@
+{
+  "file": "kositaki_brahmana_gretil.xml",
+  "xml_id": "sa_kauSItakibrAhmaNa",
+  "title": "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+  "total_chapters": 10,
+  "total_verses": 0,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "asmin.vai.loka.ubhaye.deva.manuṣyā.āsuḥ /",
+        "te.devāḥ.svargaṃl.lokam.yanto.agnim.acuḥ /",
+        "tvam.no.asya.lokasya.adhyakṣa.edhi.iti / (agnyādhāna)"
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "yad.v.eva.vatsam.spṛśati /",
+        "tasmād.vātsapram / (agnihotra)",
+        "tathā.ha.yajamānāt.paśavo.anutkrāmukā.bhavanti /"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "vi.yat.pavitram.dhiṣaṇā.atanvata.ity.ekā / (soma: pravargya)",
+        "tā.dvādaśa.pāvamānyaḥ /",
+        "saumyam.eva.svāhā.kāram.etābhir.anuvadati /"
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "yad.v.eva.viparyasyati.grīvāṇām.sthemne /",
+        "tasmādd.ha.āsām.grīvāṇām.vyatiṣaktāni.iva.parvāṇi.bhavanti / (soma: upasadah)",
+        "ājya.haviṣo.devatāḥ /"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "vi.dhiṣṇyān.haranti /",
+        "yajamānasya.eva.pāpmano.apahatyai /",
+        "devā.vai.dīkṣiṣyamāṇā.vācam.apāsādayanta / (soma: agni.praṇayana)"
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "yad.v.eva.triḥ.prathamām.trir.uttamām /",
+        "yajñasya.eva.tad.barsau.nahyati.sthemne.avisraṃsāya / (soma: havir.dhāna.pravartana)",
+        "tad.u.hotāram.abhibhāṣante.yathā.hotar.abhayam.asat.tathā.kurv.iti / (soma: havir.dhāna.pravartana)"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "vi.iva.vai.striyai.pumān.gṛhṇāti /"
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "yad.v.eva.vigṛhṇāti /",
+        "pratiṣṭhayos.tad.rūpam / (soma: prātaḥ.savana)",
+        "atho.etadd.ha.vai.mṛtyor.āsyam.yad.ete.pade.antareṇa /"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "vi.raśmibhiḥ.sasṛje.sūryo.gā.iti.sūryavat / (soma: viṣuvat)",
+        "tad.etasya.ahno.rūpam /",
+        "uta.syā.naḥ.sarasvatī.juṣoṇā.iti.sārasvatam /"
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "tasmād.v.apy.etarhy.uṣṇīṣy.eva.grāvṇo.abhiṣṭauti /",
+        "atho.khalv.āhuḥ / (soma: hotraka.śastrāṇi(mādhyaṃdina.savanam))",
+        "cakṣur.hā.ha.sa.sarpa.āsa /"
+      ]
+    }
+  ]
+}

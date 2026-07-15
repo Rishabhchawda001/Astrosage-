@@ -1,0 +1,974 @@
+// Parva 9, Adhyaya 1, Verse 0
+nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam devīṃ sarasvatīṃ caiva tato jayam udīrayet
+
+// Parva 9, Adhyaya 1, Verse 8
+madrarājaṃ puraskṛtya yuddhāyopajagāma ha
+
+// Parva 9, Adhyaya 1, Verse 12
+tathāparāhṇe tatrasthaṃ parivārya suyodhanam
+
+// Parva 9, Adhyaya 1, Verse 13
+suptaṃ śibiram āviśya dhṛṣṭadyumnapurogamān kṛtavarmā kṛpo drauṇir
+
+// Parva 9, Adhyaya 1, Verse 17
+vidhis tu balavān atra pauruṣaṃ tu nirarthakam
+
+// Parva 9, Adhyaya 1, Verse 18
+kleśena mahatā yuktaḥ sarvato rājasattama
+
+// Parva 9, Adhyaya 1, Verse 20
+dṛṣṭvaiva ca narāñ śīghraṃ vyājahārātiduḥkhitaḥ
+
+// Parva 9, Adhyaya 1, Verse 24
+uvāca bharataśreṣṭhaṃ dhṛtarāṣṭraṃ janādhipam
+
+// Parva 9, Adhyaya 1, Verse 28
+duryodhanasya bhīmena bhagnāv ūrū sutasya te sa bhūmau patitaḥ śete pāṃśubhiḥ pariguṇṭhitaḥ
+
+// Parva 9, Adhyaya 1, Verse 51
+gatir me ko bhaved adya iti cintāsamākulaḥ
+
+// Parva 9, Adhyaya 1, Verse 52
+jñātīn striyo 'tha niryāpya praviśya viduraḥ punaḥ rājānaṃ śocamānas tu taṃ śocantaṃ muhur muhuḥ
+
+// Parva 9, Adhyaya 2, Verse 2
+yac chrutvā suhṛdāṃ cātikaruṇā samajāyata
+
+// Parva 9, Adhyaya 2, Verse 31
+karṇaś ca nihataḥ saṃkhye divyāstrajño mahābalaḥ
+
+// Parva 9, Adhyaya 2, Verse 32
+bhagadatto hato yatra gajayuddhaviśāradaḥ jayadrathaś ca nihataḥ kim anyad bhāgadheyataḥ
+
+// Parva 9, Adhyaya 2, Verse 33
+mahābalas tathā pāṇḍyaḥ sarvaśastrāstrapāragaḥ nihataḥ pāṇḍavaiḥ saṃkhye kim anyad bhāgadheyataḥ
+
+// Parva 9, Adhyaya 2, Verse 34
+śatāyuś caiva vikrāntaḥ kim anyad bhāgadheyataḥ
+
+// Parva 9, Adhyaya 2, Verse 37
+ete cānye ca bahavaḥ kṛtāstrā yuddhadurmadāḥ
+
+// Parva 9, Adhyaya 2, Verse 38
+bahavo nihatāḥ sūta mahendrasamavikramāḥ
+
+// Parva 9, Adhyaya 2, Verse 40
+pārthena saṃyuge ghore kim anyad bhāgadheyataḥ
+
+// Parva 9, Adhyaya 2, Verse 51
+tathā śalyaṃ maheṣvāsaṃ madrāṇām īśvaraṃ vibhum
+
+// Parva 9, Adhyaya 3, Verse 3
+pātiteṣu turaṃgeṣu gajeṣu ca ratheṣu ca
+
+// Parva 9, Adhyaya 3, Verse 21
+śvetāś ca vegasaṃpannāḥ śaśikāśasamaprabhāḥ pibanta iva cākāśaṃ rathe yuktās tu vājinaḥ
+
+// Parva 9, Adhyaya 3, Verse 22
+jāmbūnadavicitrāṅgā vahante cārjunaṃ raṇe
+
+// Parva 9, Adhyaya 3, Verse 33
+asti kaḥ puruṣaś cādya yo jeṣyati dhanaṃjayam
+
+// Parva 9, Adhyaya 3, Verse 34
+**** **** kāminī ca mṛtapriyā yathā nadī śuṣkajalā senā karṇaṃ vinā tathā
+
+// Parva 9, Adhyaya 3, Verse 46
+ajātaśatruḥ kauravyo guruśuśrūṣaṇe rataḥ dhṛtarāṣṭrasya vacanaṃ nāvamaṃsyati dhārmikaḥ kurvanti bhrātaraś cāsya vacanaṃ nātra saṃśayaḥ
+
+// Parva 9, Adhyaya 4, Verse 13
+sa haniṣyati māṃ rudrahastenāpi hi rakṣitam
+
+// Parva 9, Adhyaya 4, Verse 17
+kṛṣṇaḥ pratyaham evedaṃ vakti nāśe mamoditaḥ teṣu jīvatsu pārtheṣu tasmiñ jīvati keśave vināśam eva yāsyāmi svapāpenaiva sānujaḥ
+
+// Parva 9, Adhyaya 4, Verse 27
+notsahe 'dya dvijaśreṣṭha pāṇḍavān vaktum īdṛśam
+
+// Parva 9, Adhyaya 4, Verse 35
+nūnaṃ mudopatiṣṭhanti svarge tān apsarogaṇāḥ
+
+// Parva 9, Adhyaya 4, Verse 38
+sārdhaṃ duryodhanaḥ svarge khelatāṃ yuddhapātitaḥ
+
+// Parva 9, Adhyaya 4, Verse 46
+tac chrutvā tava putrasya sattvayuktasya bhāṣitam
+
+// Parva 9, Adhyaya 5, Verse 13
+prayogabalasaṃhāraprāyaścittaṃ sumaṅgalam prayogaviniyogau ca smṛtiṃ yasya guṇān viduḥ
+
+// Parva 9, Adhyaya 6, Verse 26
+evam ukte tu kṛṣṇena dharmarājo viśāṃ patiḥ saṃgrāmāya matiṃ cakre tataḥ parapuraṃjayaḥ bherīmṛdaṅgaśaṅkhānāṃ paṭahānāṃ tathaiva ca ninādair ubhayos tatra sainyayor vyāptam ambaram
+
+// Parva 9, Adhyaya 6, Verse 37
+cakṣur dharmeti yal loke kathyase tvaṃ janādhipa
+
+// Parva 9, Adhyaya 6, Verse 40
+abravīt tāvakān sarvān karṇasya nidhanena vai
+
+// Parva 9, Adhyaya 7, Verse 9
+adyācāryasuto drauṇir naiko yudhyeta śatrubhiḥ
+
+// Parva 9, Adhyaya 7, Verse 14
+kathaṃ ca nihataḥ saṃkhye gadāyuddhaviśāradaḥ
+
+// Parva 9, Adhyaya 7, Verse 15
+śṛṇu rājann avahito gajāśvanarasaṃkṣayam vakṣye 'haṃ sarvayodhānāṃ saṃgrāmaṃ tava dāruṇam
+
+// Parva 9, Adhyaya 7, Verse 21
+tasya sthitvā mahārāja mukhe vyūhasya daṃśitaḥ
+
+// Parva 9, Adhyaya 7, Verse 40
+śastrāstreṣv abhavan ghorāḥ ketavaḥ kṣayakāriṇaḥ bhrāntyāśvāḥ śataśas tatra netrāṇy uccair avarṣayan
+
+// Parva 9, Adhyaya 9, Verse 20
+citraseno mahārāja nakulena hato raṇe
+
+// Parva 9, Adhyaya 9, Verse 24
+nakulo bharataśreṣṭhas tābhyāṃ parabalārdanaḥ
+
+// Parva 9, Adhyaya 9, Verse 34
+tataḥ śaktiṃ samudyamya satyasenāya cikṣipe
+
+// Parva 9, Adhyaya 9, Verse 40
+caturbhiś caturo vāhān dhvajaṃ chittvā tu pañcabhiḥ tribhir vai sārathiṃ hatvā karṇaputro nanāda ha
+
+// Parva 9, Adhyaya 9, Verse 50
+sā senā vidrutā rājan diśo daśa bhayadrutā
+
+// Parva 9, Adhyaya 10, Verse 12
+tathaiva tāvakā yaudhā dharmarājaṃ yudhiṣṭhiram
+
+// Parva 9, Adhyaya 10, Verse 16
+bhṛgusūnudharāputrau śaśijena samanvitau caramaṃ pāṇḍuputrāṇāṃ purastāt sarvabhūbhujām śastrāgreṣv abhavaj jvālā netrāṇy āhatya varṣatī śiraḥ svalīyanta bhṛśaṃ kākolūkāś ca ketuṣu
+
+// Parva 9, Adhyaya 10, Verse 25
+pradudrāva mahārāja śalyabāṇaiḥ prapīḍitā
+
+// Parva 9, Adhyaya 10, Verse 26
+vavarṣa samare kruddho dharmaputraṃ yudhiṣṭhiram
+
+// Parva 9, Adhyaya 10, Verse 40
+punaś ca bhīmasenasya jaghānāśvāṃs tathāhave so 'vatīrya rathāt tūrṇaṃ hatāśvaḥ pāṇḍunandanaḥ kālo daṇḍam ivodyamya gadāṃ kruddho mahābalaḥ pothayām āsa turagān rathaṃ ca kṛtavarmaṇaḥ kṛtavarmā tv avaplutya rathāt tasmād apākramat
+
+// Parva 9, Adhyaya 10, Verse 53
+cikṣepa bhīmasenasya so 'sravac choṇitaṃ bahu tam evādāya bhīmas tu tataḥ kopasamanvitaḥ
+
+// Parva 9, Adhyaya 10, Verse 56
+taṃ dṛṣṭvā karma śalyasya sarvasiddhās tv apūjayan pūrvajanmani prahlādo dṛṣṭo 'smābhir ayaṃ baliḥ
+
+// Parva 9, Adhyaya 11, Verse 3
+madrarājam asaṃbhrāntaḥ paśyatāṃ sarvadhanvinām saśaktim iva senānyaṃ
+
+// Parva 9, Adhyaya 12, Verse 11
+**** **** pañcabhiḥ pañcabhiḥ śaraiḥ gātre bāṇais tu te sarve śūrāḥ sarve samarpayan
+
+// Parva 9, Adhyaya 12, Verse 16
+evaṃ dvaṃdvaśatāny āsaṃs tvadīyānāṃ paraiḥ saha
+
+// Parva 9, Adhyaya 12, Verse 21
+ciccheda samare rājan sarveṣāṃ ca pṛthak pṛthak
+
+// Parva 9, Adhyaya 12, Verse 28
+tathāvidhaṃ mahārāja madrarājasya vikramam asahyaṃ mānavair yuddhe tad babhūva nararṣabha
+
+// Parva 9, Adhyaya 12, Verse 35
+ahaṃ madbhrātaraś caiva sātyakiś ca mahārathaḥ pāñcālāḥ sṛñjayāś caiva na śaktāś ca hi madrapam nihaniṣyati ced adya mātulo 'smān mahāyaśāḥ govindavacanaṃ satyaṃ kathaṃ bhavati kiṃ tv idam
+
+// Parva 9, Adhyaya 13, Verse 4
+parivārya mudā yuktā yodhayantaś cakāśire
+
+// Parva 9, Adhyaya 13, Verse 13
+īṣāṇāṃ cāpi yoktrāṇāṃ veṇūnāṃ cāpi sarvaśaḥ bhujānāṃ śirasāṃ caiva chattrāṇāṃ vyajanaiḥ saha tatra kruddhasya pārthasya agamyā samabhūd dharā
+
+// Parva 9, Adhyaya 13, Verse 15
+sarveṣāṃ patatāṃ caiva chattrāṇāṃ ca samantataḥ
+
+// Parva 9, Adhyaya 13, Verse 16
+tataḥ kruddhasya pārthasya rathamārge viśāṃ pate
+
+// Parva 9, Adhyaya 13, Verse 26
+nirucchvāsaṃ tataḥ kṛtvā guruputraṃ mahāmanāḥ so 'sṛjat sāyakān saṃkhye arjuno jayatāṃ varaḥ caturbhiḥ sāyakaiś caiva tāḍayām āsa ghoṭakān
+
+// Parva 9, Adhyaya 13, Verse 28
+yamadaṇḍanibhaṃ ghoraṃ śatrusainyabhayaṃkaram
+
+// Parva 9, Adhyaya 15, Verse 20
+kiṃ vā pralapitenātha vyarthenānena kiṃ cana
+
+// Parva 9, Adhyaya 15, Verse 27
+pratijñāṃ tāṃ tadā rājā kṛtvā madreśam abhyayāt
+
+// Parva 9, Adhyaya 15, Verse 33
+saṃdadhe vividhān bāṇān darśayan hastalāghavam
+
+// Parva 9, Adhyaya 15, Verse 57
+puṣpitau śuśubhāte tau vasante kiṃśukau yathā
+
+// Parva 9, Adhyaya 15, Verse 67
+sukūbaraṃ sucakrākṣaṃ vidheyāśvaṃ susārathim
+
+// Parva 9, Adhyaya 16, Verse 4
+ardayām āsa viśikhair ulkābhir iva kuñjarān
+
+// Parva 9, Adhyaya 16, Verse 17
+tataḥ sa viddho vidhidharmasūnunā mahābalenendraparākrameṇa
+
+// Parva 9, Adhyaya 16, Verse 24
+yad adbhutaṃ karma na śakyam anyaiḥ suduḥsahaṃ tat kṛtavantam ekam śalyaṃ narendraḥ sa viṣaṇṇabhāvād vicintayām āsa mṛdaṅgaketuḥ kim etad indrāvarajasya vākyaṃ moghaṃ bhavaty adya vidher balena jahīti śalyaṃ hy avadat tadājau na lokanāthasya vaco 'nyathā syāt
+
+// Parva 9, Adhyaya 16, Verse 28
+bhīmaḥ śarair niśitais tigmatejaiḥ śilīmukhair asya cakarta varma
+
+// Parva 9, Adhyaya 16, Verse 47
+sphuratprabhāmaṇḍalam aṃśujālair dharmātmajo madravināśakāle puratrayaproddharaṇe purastān māheśvaraṃ rūpam abhūt tadānīm āvartanākuñcitabāhudaṇḍaḥ saṃdhyāvihārī tanuvṛttamadhyaḥ viśālavakṣā bhagavān haro yathā sudurnirīkṣyo 'bhavad arjunāgrajaḥ
+
+// Parva 9, Adhyaya 16, Verse 52
+bāhū prasāryābhimukho 'titūrṇaṃ sa dharmarājasya samīpamadra(?dri)rāṭ
+
+// Parva 9, Adhyaya 16, Verse 62
+śiraś ciccheda bāṇena bhallena nataparvaṇā
+
+// Parva 9, Adhyaya 16, Verse 67
+tat sainyaṃ tava putrasya vidrutaṃ sarvato bhayāt
+
+// Parva 9, Adhyaya 16, Verse 75
+hārdikyaṃ virathaṃ dṛṣṭvā kṛpaḥ śāradvataḥ prabho apovāha tataḥ kṣipraṃ ratham āropya vīryavān
+
+// Parva 9, Adhyaya 16, Verse 78
+vividhān saritaś coghāñ śoṇitasya viśāṃ pate
+
+// Parva 9, Adhyaya 16, Verse 81
+pragṛhya ca dhanur ghoram abhyadhāvad yudhiṣṭhiram
+
+// Parva 9, Adhyaya 17, Verse 22
+vāryamāṇo (sic) mayā pūrvaṃ na kṛtaṃ vacanaṃ tvayā
+
+// Parva 9, Adhyaya 17, Verse 27
+paśyatāṃ tava putrāṇāṃ pāṇḍuputrair asaṃbhramam
+
+// Parva 9, Adhyaya 18, Verse 7
+nirāśaś ca hate śalye rājā rājan mahāyaśāḥ
+
+// Parva 9, Adhyaya 18, Verse 14
+adya diṣṭyā kṣmāśayanaṃ niratāmāmucakṣuṣaḥ (sic) draupadyā yaś ca saṃkalpaḥ saṃsiddha iti ghuṣyatām
+
+// Parva 9, Adhyaya 18, Verse 17
+adyaiva ca hi pārthānāṃ yat kṛtaṃ pūrvakarmabhiḥ
+
+// Parva 9, Adhyaya 18, Verse 18
+putrāṇāṃ ca vadhaṃ ghoraṃ bhīmena śroṣyate nṛpaḥ
+
+// Parva 9, Adhyaya 18, Verse 25
+lābhas teṣāṃ jayas teṣāṃ kutas teṣāṃ parābhavaḥ yeṣāṃ nātho hṛṣīkeśaḥ sarvalokavibhur hariḥ
+
+// Parva 9, Adhyaya 18, Verse 42
+nigṛhītuṃ tadā kruddhāḥ samantāt paryavārayan
+
+// Parva 9, Adhyaya 18, Verse 47
+bhīmaseno gadāpāṇir gadayā vajrakalpayā
+
+// Parva 9, Adhyaya 18, Verse 53
+samabhyadhāvaṃs tvaritā yuddhāya jitakāśinaḥ
+
+// Parva 9, Adhyaya 18, Verse 60
+martyenāvaśyamartavyaṃ gṛheṣv api kadā cana yudhyataḥ kṣatradharmeṇa mṛtyur eṣa sanātanaḥ
+
+// Parva 9, Adhyaya 19, Verse 3
+airāvataṃ daityagaṇān vimṛdnañ śakro yathā saṃjanayan bhayāni
+
+// Parva 9, Adhyaya 19, Verse 5
+airāvaṇasthasya camūvimarde daityāḥ purā vāsavasyeva rājan
+
+// Parva 9, Adhyaya 20, Verse 7
+śatavarmāṇam atyugraṃ mahāvīraṃ mahābalam
+
+// Parva 9, Adhyaya 20, Verse 35
+tathā duryodhano rājā saṃgrāme sarvato 'bhavat
+
+// Parva 9, Adhyaya 21, Verse 1
+durdharaḥ sa pumān kaś cit pāṇḍavān prati bhārata
+
+// Parva 9, Adhyaya 21, Verse 21
+yantreṇa hanyamānau tu rathāṅgāv api cicchide maṇḍalāgraṃ dhanuś cāpi niśitāṃs tomarān api nārācān ardhanārācān supuṇyān mudgarān api svarṇadaṇḍāṃ ca śaktiṃ ca bhiṇḍipālān parasvadhān nirundhayan satyadhṛtiṃ kṛtvaitat karma dāruṇam
+
+// Parva 9, Adhyaya 21, Verse 29
+pañcabhir niśitais tīkṣṇaiḥ śarair vivyādha marṣayan
+
+// Parva 9, Adhyaya 21, Verse 40
+ekacchāyam ivākāśaṃ samabhūt tatra dhanvinām
+
+// Parva 9, Adhyaya 22, Verse 11
+te dṛṣṭvā dharmarājānaṃ kauravais taṃ tathākṛtam
+
+// Parva 9, Adhyaya 22, Verse 13
+**** **** devāsuraraṇopamam tathānyat sumahac caiva
+
+// Parva 9, Adhyaya 22, Verse 17
+jyāghoṣair yodhamukhyānāṃ talaghoṣaiḥ samaṃtataḥ
+
+// Parva 9, Adhyaya 22, Verse 24
+te yāvat pṛṣṭhato hanti pāṇḍavān raṇadurmadān
+
+// Parva 9, Adhyaya 22, Verse 28
+suranārīratisukhaṃ vimardam evam anyathā utpāṭitaṃ dvāram etac chrīmat tridaśasadmanaḥ evam uktvā jagāmāśu śakunis tāṃ punaḥ punaḥ lakṣadhvajaṃ vasiṣṭhaṃ ca manonilajavaṃ mahat
+
+// Parva 9, Adhyaya 22, Verse 35
+kiranto yatra caivāsmān pariśiṣṭo mahāmate mamānudhyānamahimā bhaviṣyati na saṃśayaḥ na ca śāsanakartānyas tvattas tiṣṭhati kaś cana yad ājñāpayasīty evam avadat prītimānasaḥ
+
+// Parva 9, Adhyaya 22, Verse 57
+śakuniṃ mārayāmo 'dya sahaputraṃ sabāndhavam tato duryodhanaṃ pāpaṃ pāṇḍavānāṃ prasādataḥ
+
+// Parva 9, Adhyaya 22, Verse 58
+vayaṃ paścād gamiṣyāmaḥ sahitās tyaktajīvitāḥ bhṛśaṃ palāyane tasmād upādhiṃ samupāśritāḥ
+
+// Parva 9, Adhyaya 22, Verse 71
+evaṃ hi yodhāḥ saṃrabdhāḥ parasparasamāhatāḥ
+
+// Parva 9, Adhyaya 22, Verse 83
+drāvyamāṇaṃ balaṃ dṛṣṭvā tava putrasya paśyataḥ
+
+// Parva 9, Adhyaya 23, Verse 21
+hate droṇe ca karṇe ca bhūriśravasi saṃgare duḥśāsane ca śālve ca śalye ca saparicchade bhagadatte ca vīrendre naivāśāmyata hā raṇaḥ yena bhīṣmas tathā droṇaḥ kṛpo vidura eva ca pitā mātā śamasyārthe pratyākhyātās tu pāpinā
+
+// Parva 9, Adhyaya 23, Verse 23
+rādheye sūtaputre ca naiva śāmyati vaiśasam
+
+// Parva 9, Adhyaya 23, Verse 28
+nānādeśasamutthe ca hate sainye pṛthagvidhe
+
+// Parva 9, Adhyaya 23, Verse 30
+hatapravīrāṃ vidhvastāṃ dṛṣṭvā cemāṃ camūṃ raṇe alambuse ca nihate naiva śāmyati vaiśasam bhrātṝn vinihatān dṛṣṭvā vayasyān mātulān api putrān vinihatān saṃkhye naiva śāmyati vaiśasam
+
+// Parva 9, Adhyaya 23, Verse 31
+nṛpapravīrān vidhvastān dṛṣṭvā cemāṃ mahācamūm
+
+// Parva 9, Adhyaya 23, Verse 64
+dhanaṃjayaḥ saṃyati sāyakair vā
+
+// Parva 9, Adhyaya 24, Verse 3
+pitṝn bhrātṝn parityajya vayasyān api cāpare
+
+// Parva 9, Adhyaya 24, Verse 17
+abhyayus tāvakān yuddhe śataśo 'tha sahasraśaḥ
+
+// Parva 9, Adhyaya 24, Verse 18
+ekaikaṃ daśabhir bāṇair avidhyad bharatarṣabhaḥ
+
+// Parva 9, Adhyaya 24, Verse 19
+vatsadantaiś ca bāṇaiś ca karmāraparimārjitaiḥ aśvāṃś ca caturo hatvā
+
+// Parva 9, Adhyaya 24, Verse 30
+pātyamānān prapaśyāma līnakumbhān kṣaradvraṇān
+
+// Parva 9, Adhyaya 24, Verse 39
+tatas te kṣatriyāḥ sarve svadharmeṣu vyavasthitāḥ
+
+// Parva 9, Adhyaya 24, Verse 51
+sarve jayāya dhāvanti mayā labdho 'dya saṃjayaḥ iti bruvāṇaḥ śaineyo rājan mām agrahīt tadā
+
+// Parva 9, Adhyaya 24, Verse 53
+viniryayau rathenaiva śvetāśvaḥ kṛṣṇasārathiḥ
+
+// Parva 9, Adhyaya 25, Verse 4
+durvimocananāmā ca duṣpradharṣas tathaiva ca śrutarvā ca mahābāhuḥ sarve yuddhaviśāradāḥ
+
+// Parva 9, Adhyaya 25, Verse 6
+bhīmam eva samājaghnuḥ smarantaṃ pūrvakilbiṣam
+
+// Parva 9, Adhyaya 25, Verse 22
+**** **** avacchannā dharābhavat
+
+// Parva 9, Adhyaya 26, Verse 11
+yathā daityacamūṃ hatvā purā śakro mahābalaḥ
+
+// Parva 9, Adhyaya 26, Verse 37
+hāhākāras tato jāto hate vīre suśarmaṇi tāvakānāṃ balaughānāṃ rājan durmantritāt tava
+
+// Parva 9, Adhyaya 26, Verse 49
+**** **** tad anīkavanaṃ mahat adahad bhīmasenas tu helayā bāṇavahninā
+
+// Parva 9, Adhyaya 27, Verse 9
+ṛṣṭibhiḥ śaktibhiś caiva tomaraiś ca paraṃtapa
+
+// Parva 9, Adhyaya 27, Verse 20
+śūliyāsa[pāśa?]m atikramya śakralokaṃ samaśnute
+
+// Parva 9, Adhyaya 27, Verse 25
+sahadevaṃ cābhyavarṣac charaiḥ saṃnataparvabhiḥ ulūkaś ca tato rājan krodhena mahatā yutaḥ
+
+// Parva 9, Adhyaya 27, Verse 28
+gatotsāhā mahārāja dudruvur bhayapīḍitāḥ ulūkas tu śitair bāṇaiḥ sahadevam avidhyata
+
+// Parva 9, Adhyaya 27, Verse 36
+tato gāndhāranṛpatiḥ kṛtapraticikīrṣayā
+
+// Parva 9, Adhyaya 27, Verse 47
+sabhāmadhye vijityā kūṭadyūtena yad bhavān
+
+// Parva 9, Adhyaya 27, Verse 57
+prāvodayad bhūmipater mahātmā sa siṃhanādaṃ vyanadan mahātmā nihatya pāpaṃ subalasya putraṃ sa nairṛtīm eva diśaṃ mahātmā suvarṇapuṅkhair iṣubhiḥ patantaṃ
+
+// Parva 9, Adhyaya 27, Verse 60
+mādrīsutaṃ te sahasābhipetur gāndhārayodhāḥ pragṛhītaśastrāḥ
+
+// Parva 9, Adhyaya 27, Verse 61
+śekur na yoddhuṃ tarasājimadhye
+
+// Parva 9, Adhyaya 28, Verse 24
+dṛṣṭvā bharataśārdūla kaśmalenābhisaṃvṛtaḥ
+
+// Parva 9, Adhyaya 28, Verse 28
+daśaikākṣohiṇībhartā tathā duryodhano 'pi san prāptavān vyasanaṃ tīvraṃ daivaṃ hi balavattaram
+
+// Parva 9, Adhyaya 28, Verse 42
+yasya mūrdhāvasiktānāṃ sahasraṃ maṇimaulinām āhṛtya ca karaṃ sarvaṃ svasya vai vaśam āgatam catuḥsāgaraparyantā pṛthivī ratnabhūṣitā karṇenaikena yasyārthe karam āhāritā purā yasyājñā pararāṣṭreṣu karṇenaiva prasāritā nābhavad yasya śastreṣu khedo rājñaḥ praśāsataḥ āsīno hastinapure kṣemaṃ rājyam akaṇṭakam anvapālayad aiśvaryāt kuberam api nāsmarat bhavanād bhavanaṃ rājan prayātuṃ pṛthivīpate devālayapraveśe ca panthā yasya hiraṇmayaḥ patākāvṛtasūryāṃśutoraṇocchritaśobhinaḥ prayāṇe pṛthivībhartur dhanyānām abhavan gṛhāḥ āruhyairāvataprakhyaṃ nāgam indrasamo balī vibhūtyā sumahatyā yaḥ prayāti pṛthivīpate taṃ bhṛśaṃ kṣatam indrābhaṃ padbhyām eva dharātale tiṣṭhantam ekaṃ dṛṣṭvā tu mamābhūt kleśa uttamaḥ tasya caivaṃvidhasyādya jagannāthasya bhūpate āpadapratimaivābhūd balīyān vidhir eva hi
+
+// Parva 9, Adhyaya 28, Verse 77
+itas tataḥ palāyante hatanāthā hataujasaḥ adṛṣṭapūrvā duḥkhārtā bhayavyākulalocanāḥ hariṇā iva vitrastāḥ prekṣyamāṇā diśo daśa
+
+// Parva 9, Adhyaya 28, Verse 91
+saṃsmṛtaḥ kuladharmaś ca sānukrośatayā tvayā diṣṭyā tvāṃ tāta saṃgrāmād asmād vīrakṣayāt puram samāgatam apaśyāma hy aṃśumantam iva prajāḥ andhasya nṛpater yaṣṭir lubdhasyādīrghadarśinaḥ bahuśo yācyamānasya daivopahatacetasaḥ tvam eko vyasanārtasya dhriyase putra sarvadā
+
+// Parva 9, Adhyaya 28, Verse 92
+paurajānapadair duḥkhād dhā heti bhṛśanāditam nirānandaṃ gataśrīkaṃ hṛtanāgam ivāśayam śūnyarūpam apadhvastaṃ dṛṣṭvā dhvastataro 'bhavat viduraḥ sarvadharmajño viklavenāntarātmanā viveśa nṛpate rājan niśaśvāsa śanaiḥ śanaiḥ
+
+// Parva 9, Adhyaya 29, Verse 0
+saṃjaya uvāca muhūrtād iva rājendra sarvaṃ śūnyam adṛśyata mattavāraṇasaṃghuṣṭaṃ śibiraṃ vidrute bale yatra śabdena mahatā nānvabudhyan mahārathāḥ tatra śabdaṃ na śṛṇumo manuṣyasyāpi kasya cit
+
+// Parva 9, Adhyaya 29, Verse 7
+yadā duryodhano yuddhaṃ tyaktvā pattir apākramat
+
+// Parva 9, Adhyaya 29, Verse 13
+evam uktaḥ pratyuvāca tān sa tatra mahārathān
+
+// Parva 9, Adhyaya 29, Verse 38
+ariśeṣe bhavati tu saṃdigdho vijayo bhavet rājyaṃ labhe kathaṃ tad dhi pūjitaṃ vijayādibhiḥ
+
+// Parva 9, Adhyaya 30, Verse 12
+tārakaś ca mahādaityo hy andhakaś ca niṣūditaḥ
+
+// Parva 9, Adhyaya 30, Verse 34
+saṃjaya uvāca evam ukto mahārāja dharmaputreṇa dhīmatā salilasthas tava suta idaṃ vacanam abravīt
+
+// Parva 9, Adhyaya 30, Verse 50
+saṃjaya uvāca duryodhanaṃ tava sutaṃ salilasthaṃ mahāyaśāḥ śrutvā tu karuṇaṃ vākyam abhāṣata yudhiṣṭhiraḥ
+
+// Parva 9, Adhyaya 31, Verse 2
+yasyātapatracchāyāpi svakā bhānos tathā prabhā khedāyaivābhimānitvāt sahet saivaṃ kathaṃ giraḥ
+
+// Parva 9, Adhyaya 31, Verse 21
+salilāntargataḥ śrīmān putro duryodhanas tava
+
+// Parva 9, Adhyaya 31, Verse 25
+tatroccaiś cukruśuḥ siddhās tasya vākyāntare nṛpa
+
+// Parva 9, Adhyaya 31, Verse 30
+na hi me saṃbhramo jātu śakrād api yudhiṣṭhira
+
+// Parva 9, Adhyaya 31, Verse 50
+avaśyam eva yoddhavyaṃ sarvair eva mayā saha yuktaṃ tv ayuktam ity etad vetsi tvaṃ caiva sarvadā
+
+// Parva 9, Adhyaya 31, Verse 51
+kṣatradharmaṃ bhṛśaṃ krūraṃ nirapekṣaṃ sunirghṛṇam anyathā tu kathaṃ hanyur abhimanyuṃ tathāgatam sarve bhavanto dharmajñāḥ sarve śūrās tanutyajaḥ nyāyena yudhyatāṃ proktā śakralokagatiḥ parā yady ekas tu na hantavyo bahubhir dharma eva tu tadābhimanyuṃ bahavo nijaghnus tvanmate katham sarvo vimṛśate jantuḥ kṛcchrastho dharmadarśanam padastho vihitaṃ dvāraṃ paralokasya paśyati
+
+// Parva 9, Adhyaya 31, Verse 52
+iṣuṃ prāsaṃ gadāṃ vāpi varaṃ bhūyo dadāmy aham
+
+// Parva 9, Adhyaya 31, Verse 60
+na me samarthāḥ sarve vai yoddhuṃ nyāyena ke cana na yuktam ātmanā vaktum evaṃ garvoddhataṃ vacaḥ atha vā saphalaṃ hy etat kariṣye bhavatāṃ puraḥ asmin muhūrte satyaṃ vā mithyā vaitad bhaviṣyati
+
+// Parva 9, Adhyaya 32, Verse 4
+yat tvayā hi kṛtaṃ pūrvaṃ bhīmasenajighāṃsayā tasyādya kāryavṛttasya vākyasyānṛṇyatāṃ vraja
+
+// Parva 9, Adhyaya 32, Verse 10
+kṛcchraprāptena ca tathā hārayed rājyam āgatam
+
+// Parva 9, Adhyaya 32, Verse 11
+**** **** yo 'dya duryodhanaṃ raṇe gadāhastaṃ vijetuṃ vai śaktaḥ syād amaro 'pi hi
+
+// Parva 9, Adhyaya 32, Verse 12
+na tvaṃ bhīmo na nakulaḥ sahadevo 'tha phalgunaḥ jetuṃ nyāyena śakto vai kṛtī rājā suyodhanaḥ
+
+// Parva 9, Adhyaya 32, Verse 14
+ekaṃ vāsmān nihatya tvaṃ bhava rājeti vai punaḥ nūnaṃ na rājyabhāgeṣā pāṇḍoḥ kuntyāś ca saṃtatiḥ atyantavanavāsāya sṛṣṭā bhaikṣyāya vā punaḥ
+
+// Parva 9, Adhyaya 32, Verse 17
+anayā gadayā cāhaṃ saṃyuge yoddhum utsahe bhavantaḥ prekṣakāḥ sarve mama santu janārdana
+
+// Parva 9, Adhyaya 32, Verse 34
+tad āhvānam amṛṣyan vai tava putro 'tivīryavān pratyupasthita evāśu matto mattam iva dvipam gadāhastaṃ tava sutaṃ yuddhāya samupasthitam dadṛśuḥ pāṇḍavāḥ sarve kailāsam iva śṛṅgiṇam
+
+// Parva 9, Adhyaya 32, Verse 35
+na saṃbhramo na ca bhayaṃ na ca glānir na ca vyathā āsīd duryodhanasyāpi sthitaḥ siṃha ivāhave
+
+// Parva 9, Adhyaya 32, Verse 48
+yad etat kathitaṃ pūrvaṃ madīyaṃ durviceṣṭitam sarvaṃ tan na ca me kiṃ cic chaṅkitaṃ kartum eva hi araṇye cāpi vasatiṃ dāsyaṃ ca paraveśmasu tathā rūpaviparyāsam akariṣyam ahaṃ balāt hatāś ca bāndhavās tubhyaṃ kṣayas tulyo 'yam āvayoḥ patanaṃ saṃprati tu me yadi nāma bhaved yudhi tad atiślāghyam eva syāt kālo vā tatra kāraṇam adyāpi hi na me jetā dharmeṇāsti raṇājire chadmanā yadi jeṣyadhvam akīrtiḥ sthāsyati dhruvam adharmyā vāyaśasyā ca paścāt tapsyatha vai dhruvam
+
+// Parva 9, Adhyaya 33, Verse 3
+upagamyopasaṃgṛhya vidhivat pratyapūjayan pūjayitvā tataḥ paścād idaṃ vacanam abruvan
+
+// Parva 9, Adhyaya 33, Verse 9
+abhivādya tatas tau tu sasvajāte halāyudham
+
+// Parva 9, Adhyaya 34, Verse 8
+yathoktaṃ ca yathāvṛttam uktvā pāṇḍavam abravīt
+
+// Parva 9, Adhyaya 34, Verse 11
+dhīmān arivināśāya kṛtaṃ sarvaṃ sadā hariḥ sasmāra sa tadā tatra idaṃ tatra punaḥ punaḥ
+
+// Parva 9, Adhyaya 34, Verse 46
+saṃprāptāḥ paribhūtāḥ smo gatir bhava pitaḥ svayam
+
+// Parva 9, Adhyaya 34, Verse 54
+na tvadvaco gaṇayati nāsmāsu sneham icchati
+
+// Parva 9, Adhyaya 34, Verse 65
+teṣāṃ kṣaye kṣayo 'smākaṃ vināsmābhir jagac ca kim
+
+// Parva 9, Adhyaya 34, Verse 68
+samudraṃ paścimaṃ gatvā sarasvatyabdhisaṃgamam ārādhayatu deveśaṃ tataḥ kāntim avāpsyati
+
+// Parva 9, Adhyaya 34, Verse 77
+lokān prabhāsayām āsa pupoṣa ca vapus tathā tatra snātvā halī rāmo dattvā prīto 'tha dakṣiṇām
+
+// Parva 9, Adhyaya 35, Verse 6
+kathaṃ ca yājayām āsa papau somaṃ ca vai katham
+
+// Parva 9, Adhyaya 35, Verse 16
+tathā te samayaṃ kṛtvā gṛhān niṣkramya pārthiva
+
+// Parva 9, Adhyaya 35, Verse 46
+ājagāma drutaṃ prītā tasmin kūpe sarasvatī
+
+// Parva 9, Adhyaya 36, Verse 32
+tasyāṃ diśi vicitrāṇi tīrthāni paramāṇi ca
+
+// Parva 9, Adhyaya 36, Verse 35
+**** **** tathā tīrthāny anekaśaḥ sahasraśatasaṃkhyāni prathitāni pade pade āplutya teṣu tīrtheṣu yathoktaṃ tatra carṣibhiḥ kṛtvopavāsaniyamaṃ dattvā dānāni bhūriśaḥ abhivādya munīṃs tāṃs tu tatra tīrthanivāsinaḥ uddiṣṭamārgaḥ prayayau yatra bhūyaḥ sarasvatī prāṅmukhaṃ vai nivavṛte vṛṣṭir vātahatā yathā
+
+// Parva 9, Adhyaya 36, Verse 39
+sāyaṃprātarvrataparā naktasaṃbhojanāḥ pare pañcāgnitapaso grīṣme varṣāsv ākāśaśāyinaḥ tṛṇāśinas tathā cānye mārgaśāyina eva ca kaṇṭakapravare ghore svaptāro bhūmiśāyinaḥ
+
+// Parva 9, Adhyaya 36, Verse 46
+kaṇadhūmabhujaś cānye tathā māsopavāsinaḥ sarvatithyupavāsāś ca tathā hy anye sahasraśaḥ bhūmipātrabhujaś cānye tathā bhūmibhujo 'pi hi āvasathyāgniniratās tretāgniniratās tathā vighasābhyāśinas tīvrās tathānye mitabhojanāḥ
+
+// Parva 9, Adhyaya 36, Verse 53
+yathāgataṃ puṇyajalā kurukṣetraṃ praviśya ha
+
+// Parva 9, Adhyaya 36, Verse 57
+haṃsakāraṇḍavākīrṇaṃ cakravākopaśobhitam
+
+// Parva 9, Adhyaya 36, Verse 58
+sālais tālais tamālaiś ca kakubhaiś ca saketakaiḥ
+
+// Parva 9, Adhyaya 37, Verse 26
+suveṇur iti vikhyātā prasrutā śīghragāminī
+
+// Parva 9, Adhyaya 37, Verse 31
+ṛṣiḥ paramadharmātmā tadā puruṣasattamaḥ
+
+// Parva 9, Adhyaya 37, Verse 42
+uvāca pārvatīnātham indurekhāvataṃsakam
+
+// Parva 9, Adhyaya 37, Verse 45
+**** **** bhāvā ye jagati sthitāḥ tvām upāsanta varadaṃ
+
+// Parva 9, Adhyaya 37, Verse 46
+tvaṃ prabhuḥ paramaiśvaryād adhikaṃ bhāsi śaṃkara tvayi brahmā ca viṣṇuś ca lokān saṃdhārya tiṣṭhataḥ tvanmūlaṃ ca jagat sarvaṃ tvadantaṃ ca maheśvara tvayā hi vitatā lokā sapteme sarvasaṃbhava sarvathā sarvabhūteśa tvām evārcanti daivatam tvanmayaṃ hi jagat sarvaṃ bhūtaṃ sthāvarajaṅgamam svargaṃ ca paramasthānaṃ nṛṇām abhyudayārthinām dadāsi ca prasannas tvaṃ bhaktānāṃ parameśvara anāvṛttipadaṃ nṝṇāṃ nityaṃ niḥśreyasārthinām dadāsi karmiṇāṃ karma bhāvayan dhyānayogataḥ na vṛthāsti mahādeva prasādas te maheśvara yasmāt tvayopakaraṇāt karomi kamalekṣaṇa prapadye śaraṇaṃ śaṃbhuṃ sarvadā sarvataḥ sthitam karmaṇā manasā vācā tam evābhijagāma ha
+
+// Parva 9, Adhyaya 37, Verse 47
+yad idaṃ cāpalaṃ deva kṛtam etat smayādikam
+
+// Parva 9, Adhyaya 37, Verse 50
+saptasārasvataṃ cāpi yathotpannaṃ tathoditam
+
+// Parva 9, Adhyaya 38, Verse 20
+sa cāpi tīrthapravaraṃ punar gatvā mahān ṛṣiḥ pītvā payaḥ suvipulaṃ siddhim āyāt tadā muniḥ
+
+// Parva 9, Adhyaya 38, Verse 22
+sarvakāmasamṛddhaṃ ca tad āśramapadaṃ mahat munibhir brāhmaṇaiś caiva sevitaṃ sarvadā vibho
+
+// Parva 9, Adhyaya 39, Verse 6
+tatāpa rājan saṃprāpya tīrthaṃ vai sumahātapāḥ
+
+// Parva 9, Adhyaya 39, Verse 16
+**** **** pathā vai puṇyakarmaṇām tathā gādhisuto rājā
+
+// Parva 9, Adhyaya 40, Verse 1
+**** **** dhṛtarāṣṭreṇa satkṛtaḥ kiṃ cit prapāṃ pade mātraṃ (sic)
+
+// Parva 9, Adhyaya 40, Verse 4
+teṣāṃ vipradadau rājā brāhmaṇānāṃ vṛṣāṃs tadā
+
+// Parva 9, Adhyaya 40, Verse 13
+tataḥ prakṣīyamāṇaṃ tad rāṣṭraṃ tasya mahīpateḥ
+
+// Parva 9, Adhyaya 40, Verse 16
+na ca śreyo 'dhyagacchat tu kṣīyate rāṣṭram eva ca
+
+// Parva 9, Adhyaya 40, Verse 19
+yadīcchasi mahābāho śāntiṃ rāṣṭrasya bhūmipa
+
+// Parva 9, Adhyaya 40, Verse 31
+punas tatra ca rājñas tu yayāter yajataḥ prabhoḥ audāryaṃ paramaṃ kṛtvā bhaktiṃ cātmani śāśvatīm dadau kāmān brāhmaṇebhyo yān yān yo manasecchati yo yatra sthita eveha āhūto yajñasaṃstare tasya tasya saric chreṣṭhā gṛhādiśayanādikam yatra saṃbhojanaṃ caiva dānaṃ nānāvidhaṃ bahu te manyamānā rājñas tu saṃpradānam anuttamam rājānaṃ tuṣṭuvuḥ prītā dattvā caivāśiṣaḥ śubhāḥ
+
+// Parva 9, Adhyaya 41, Verse 19
+prākampata bhṛśaṃ bhītā vāyunevāhatā latā tathārūpāṃ tu tāṃ dṛṣṭvā munir āha mahānadīm avicāraṃ vasiṣṭhaṃ tvam ānayasvāntikaṃ mama sā tasya vacanaṃ śrutvā jñātvā pāpaṃ cikīrṣitam vasiṣṭhasya prabhāvaṃ ca jānanty apratimaṃ bhuvi
+
+// Parva 9, Adhyaya 41, Verse 33
+astrodyataḥ samuttiṣṭhad viśvāmitro muniṃ prati taṃ gṛhītāyudhaṃ dṛṣṭvā vasiṣṭhāntakaraṃ munim kauśikaṃ sumahat kruddhaṃ kālamṛtyum ivāparam
+
+// Parva 9, Adhyaya 42, Verse 12
+te sarve brāhmaṇā rājaṃs tapobhir niyamais tathā upavāsaiś ca vividhair yamaiḥ kaṣṭavratais tathā ārādhya paśubhartāraṃ mahādevaṃ jagatpatim mokṣayām āsus tāṃ devīṃ saricchreṣṭhāṃ sarasvatīm
+
+// Parva 9, Adhyaya 42, Verse 13
+evam uktvā ca munayo duḥkhāc caināṃ vyamocayan
+
+// Parva 9, Adhyaya 42, Verse 14
+tān eva śaraṇaṃ jagmū rākṣasāḥ kṣudhitās tathā
+
+// Parva 9, Adhyaya 42, Verse 21
+avadhūtam avijñātam atiśītaṃ ca yad bhavet patitānnaṃ sūtikānnaṃ puṃścalyānnaṃ ca yad bhavet
+
+// Parva 9, Adhyaya 42, Verse 34
+eṣā puṇyajalā śakra kṛtā munibhir eva tu nigūḍham asyā gamanam ihāsīt pūrvam eva tu tato 'bhyetyāruṇāṃ devīṃ plāvayām āsa vāriṇā sarasvatyāruṇāyāś ca puṇyo 'yaṃ saṃgamo mahān iha tvaṃ yaja devendra dada dānāny anekaśaḥ atrāplutya sughorāt tvaṃ pātakād vipramokṣyase
+
+// Parva 9, Adhyaya 42, Verse 36
+brahmaṇo vacanāc chakro 'yajad yajñair anekaśaḥ dattvā dānāny anekāni snātvā tīrthe śatakratuḥ vipāpmā virajāḥ śrīmān brahmavadhyāṃ vidhūya saḥ
+
+// Parva 9, Adhyaya 44, Verse 56
+pariśrutaḥ kokanadaḥ kṛṣṇakeśo jaṭādharaḥ
+
+// Parva 9, Adhyaya 44, Verse 64
+samudronmadanaś caiva mahānādī raṇotkaṭaḥ kālakaś ca prahāsaś ca tathāṅgārakavahnikau ete cānye ca bahavo mahāśālī raṇotkaṭaḥ
+
+// Parva 9, Adhyaya 44, Verse 70
+candramāḥ pāṇikarmā ca uḍukaś ca mahābalaḥ
+
+// Parva 9, Adhyaya 44, Verse 74
+**** **** dīrghavaktrāś ca bhārata śvagomāyumukhāś caiva
+
+// Parva 9, Adhyaya 44, Verse 88
+**** **** nānāmālyānulepanāḥ nānāvastradharāś caiva
+
+// Parva 9, Adhyaya 44, Verse 91
+vigrahaikarasā nityam ajeyāḥ surasattamaiḥ
+
+// Parva 9, Adhyaya 44, Verse 101
+nānāpraharaṇā ye vai nānāśastrāstrakovidāḥ
+
+// Parva 9, Adhyaya 45, Verse 16
+vegapāṣviṭapāvāsā kānanākrīḍanaprabhā
+
+// Parva 9, Adhyaya 45, Verse 36
+vaiṣṇavyo 'tibhayāś cānyāḥ krūrarūpā bhayaṃkarāḥ
+
+// Parva 9, Adhyaya 45, Verse 37
+śatrūṇāṃ vigrahe nityaṃ bhayadās tā bhavanty uta kāmarūpadharāś caiva jave vāyusamās tathā acintyabalavīryāś ca tathācintyaparākramāḥ
+
+// Parva 9, Adhyaya 45, Verse 39
+nānāvidhair bahuguṇaiś citrāyudhavibhūṣaṇaiḥ
+
+// Parva 9, Adhyaya 45, Verse 40
+divyāś ca pradadau tasmai nānāratnasamācitāḥ
+
+// Parva 9, Adhyaya 45, Verse 43
+ajeyāṃ svaguṇair yuktāṃ nāmnā senāṃ dhanaṃjayām rudratulyabalair guptāṃ yodhānām ayutais tribhiḥ na sā vijānāti raṇāt kadā cid vinivartitum
+
+// Parva 9, Adhyaya 45, Verse 58
+jvalitālātadhāriṇyā citrābharaṇavarmayā
+
+// Parva 9, Adhyaya 45, Verse 67
+nanṛtuś ca vavalguś ca jahasuś ca mudānvitāḥ
+
+// Parva 9, Adhyaya 45, Verse 68
+trailokyaṃ trāsitaṃ sarvaṃ jṛmbhamāṇābhir eva ca
+
+// Parva 9, Adhyaya 45, Verse 79
+sa caiva bhagavān kruddho daityendrasya sutaṃ tadā sahānujaṃ jaghānāśu vṛtraṃ devapatir yathā
+
+// Parva 9, Adhyaya 45, Verse 81
+śauryād dviguṇayogena tejasā yaśasā śriyā
+
+// Parva 9, Adhyaya 45, Verse 82
+bhinne krauñce girivare caṇḍaputre ca pātite
+
+// Parva 9, Adhyaya 45, Verse 95
+senānīś ca kṛto rājan bāla eva mahābalaḥ
+
+// Parva 9, Adhyaya 47, Verse 17
+tac ca tīrthaṃ mahārāja yatra japyaṃ jajāpa saḥ
+
+// Parva 9, Adhyaya 47, Verse 23
+na vaimanasyaṃ tasyāstu mukhabhedo 'tha vābhavat śarīram agninādīpya jalamadhyeva harṣitā tac cāsyā vacanaṃ nityam avartad dhṛdi bhārata sarvathā badarāṇy eva paktavyānīti kanyakā sā tan manasi kṛtvaiva maharṣer vacanaṃ śubhā apacad badarāṇy eva na cāpacyanta bhārata tasyāstu caraṇau vahnir dadāha bhagavān svayam na ca tasyā manoduḥkhaṃ svalpam apy abhavat tadā
+
+// Parva 9, Adhyaya 48, Verse 3
+yatra pūrvaṃ surapatiḥ kratūnāṃ śatam eva hi
+
+// Parva 9, Adhyaya 48, Verse 15
+tatrāpi lāṅgalī deva ṛṣīn abhyarcya pūjayā itarebhyo 'py adād dānam arthibhyaḥ kāmado vibhuḥ
+
+// Parva 9, Adhyaya 49, Verse 3
+priyāpriye tulyavṛttir yamavat samadarśanaḥ
+
+// Parva 9, Adhyaya 49, Verse 7
+na jñātas tena muninā devalena mahātmanā
+
+// Parva 9, Adhyaya 49, Verse 8
+jaigīṣavyaḥ kadā cit sa darśayām āsa devalam
+
+// Parva 9, Adhyaya 49, Verse 27
+tasmād ādityalokaṃ ca vrajantaṃ so 'nvapaśyata
+
+// Parva 9, Adhyaya 49, Verse 45
+so 'py apṛcchad yadā siddhān abruvan pṛcchate tadā yathābhūtaṃ tathādṛṣṭaṃ prabhāvaṃ tapasāṃ nidheḥ
+
+// Parva 9, Adhyaya 49, Verse 64
+nātaḥ parataraṃ kiṃ cit tulyam asti prabhāvataḥ tejasas tapasaś cāsya yogasya ca mahātmanaḥ evaṃprabhāvo dharmātmā jaigīṣavyas tathāsitaḥ tayor idaṃ sthānavaraṃ tīrthaṃ caiva mahātmanoḥ
+
+// Parva 9, Adhyaya 51, Verse 9
+jagāma vṛddhabhāvaṃ ca kaumārabrahmacāriṇī
+
+// Parva 9, Adhyaya 51, Verse 16
+yathādṛṣṭena vidhinā hutvā cāgniṃ vidhānataḥ
+
+// Parva 9, Adhyaya 52, Verse 16
+nātaḥ parataraṃ puṇyaṃ bhūmeḥ sthānaṃ bhaviṣyati iha tapsyanti ye ke cit tapaḥ paramakaṃ narāḥ dehatyāgena te sarve yāsyanti brahmaṇaḥ kṣayam ye punaḥ puṇyabhājo vai dānaṃ dāsyanti mānavāḥ teṣāṃ sahasraguṇitaṃ bhaviṣyaty acireṇa vai ye ceha nityaṃ manujā nivatsyanti śubhaiṣiṇaḥ yamasya viṣayaṃ te tu na drakṣyanti kadā cana yakṣyanti ye ca kratubhir mahadbhir manujeśvarāḥ teṣāṃ triviṣṭape vāso yāvad bhūmir dhariṣyati
+
+// Parva 9, Adhyaya 52, Verse 18
+kurukṣetraṃ gamiṣyāmi kurukṣetre vasāmy aham ity evaṃ niścito bhūtvā tenaiva svargam eṣyati kurukṣetraṃ gamiṣyāmi kurukṣetre vasāmy aham tathā sthānaṃ ca maunaṃ ca vīrāsanam upāsmahe evaṃ pralapamāno 'pi cintayaṃś ca muhur muhuḥ dūrastho yadi vā tiṣṭhaṃl labhet svargaṃ viniścitaḥ
+
+// Parva 9, Adhyaya 52, Verse 21
+ity uvāca svayaṃ śakraḥ saha brahmādibhis tathā tac cānumoditaṃ sarvaṃ brahmaviṣṇumaheśvaraiḥ
+
+// Parva 9, Adhyaya 53, Verse 7
+sā tu taptvā tapo ghoraṃ duścaraṃ strījanena ha
+
+// Parva 9, Adhyaya 53, Verse 9
+tasyāśrame 'śvamedhasya phaḷam āpnoti mānavaḥ
+
+// Parva 9, Adhyaya 53, Verse 15
+tatra saṃtiṣṭhataś cātha rāmasyāpratimadyuteḥ ājagāma mahātejā nārado bhagavān ṛṣiḥ
+
+// Parva 9, Adhyaya 53, Verse 25
+nihatāḥ pāṇḍavaiḥ sarve gatāḥ svargagatiṃ prati
+
+// Parva 9, Adhyaya 53, Verse 31
+**** **** adya rāmāhave dvayoḥ bhīmakauravayor vīra
+
+// Parva 9, Adhyaya 54, Verse 4
+**** **** samabhyarcya yathāvidhi āsanaṃ ca dadau tasmai paryapṛcchad anāmayam tato yudhiṣṭhiraṃ rāmo vākyam etad uvāca ha madhuraṃ dharmasaṃyuktaṃ śūrāṇāṃ hitam eva ca mayā śrutaṃ kathayatām ṛṣīṇāṃ rājasattama kurukṣetraṃ paraṃ puṇyaṃ pāvanaṃ svargyam eva ca daivatair ṛṣibhir juṣṭaṃ brāhmaṇaiś ca mahātmabhiḥ tatra vai yotsyamānā ye dehaṃ tyakṣyanti mānavāḥ teṣāṃ svarge dhruvo vāsaḥ śakreṇa saha māriṣa
+
+// Parva 9, Adhyaya 54, Verse 11
+tatas te tu kurukṣetraṃ prāptā naravarottamāḥ
+
+// Parva 9, Adhyaya 54, Verse 26
+rāmarāvaṇayoś caiva vālisugrīvayos tathā
+
+// Parva 9, Adhyaya 54, Verse 31
+pūrvapaścimajau meghau vāyunā kṣubhitau yathā garjamānau suviṣamaṃ kṣarantau prāvṛṣīva hi
+
+// Parva 9, Adhyaya 54, Verse 38
+kekayaiḥ sṛñjayair guptaṃ pāñcālaiś ca mahātmabhiḥ rāmeṇāmitavīryeṇa vākyaṃ śauṇḍīryasaṃmatam
+
+// Parva 9, Adhyaya 54, Verse 39
+śrutvā duryodhanavacaḥ pratyapadyanta tat tathā
+
+// Parva 9, Adhyaya 55, Verse 1
+**** **** tumulaṃ romaharṣaṇam krodhasaṃvardhanaṃ niṣṭhām (sic)
+
+// Parva 9, Adhyaya 55, Verse 7
+ājuhāva tato bhīmo yuddhāya ca suyodhanam evam āhvayamāne tu bhīmasene mahātmani
+
+// Parva 9, Adhyaya 55, Verse 21
+draupadyāḥ kleśadānasya vastrasaṃharaṇasya ca
+
+// Parva 9, Adhyaya 55, Verse 23
+adya saukhyaṃ tu rājendra kururājasya durmateḥ samāptaṃ ca mahārāja nārīṇāṃ darśanaṃ punaḥ
+
+// Parva 9, Adhyaya 55, Verse 28
+**** **** tava hetor durātmanaḥ sarveṣām api cāsmākaṃ duḥkhaṃ prāptaṃ sudurmate
+
+// Parva 9, Adhyaya 55, Verse 36
+iti duryodhanenoktaḥ pratyuvāca vṛkodaraḥ
+
+// Parva 9, Adhyaya 56, Verse 6
+saṃgrāme dāruṇe tāta subhṛśaṃ krodhasaṃyutau
+
+// Parva 9, Adhyaya 56, Verse 26
+yamadaṇḍanibhāṃ rājan ghorāṃ prati ariṃdamaḥ
+
+// Parva 9, Adhyaya 56, Verse 27
+śabda āsīn mahāṃs tatra tumulo lomaharṣaṇaḥ
+
+// Parva 9, Adhyaya 56, Verse 29
+udvamac cārciṣo vahniṃ sasphuliṅgaṃ samantataḥ
+
+// Parva 9, Adhyaya 56, Verse 46
+gadānipātaṃ kriyayā moghaṃ cakre sutas tava sa gadāvarjitaṃ dṛṣṭvā bhīmasenam upādravat so 'gacchac calito rājan kaunteyas trirathāntaram
+
+// Parva 9, Adhyaya 56, Verse 59
+sa saṃkruddho mahārāja bhīmo bhīmaparākramaḥ
+
+// Parva 9, Adhyaya 56, Verse 67
+tato yamau yamasadṛśau parākrame sapārṣataḥ śinitanayaś ca vīryavān samāhvayann aham aham ity abhitvaraṃs tavātmajaṃ samabhiyayur vadhaiṣiṇaḥ nigṛhya tān punar api pāṇḍavo balī tavātmajaṃ svayam abhigamya kālavat cacāra ca vyapagatakhedavepathuḥ sureśvaro namucim ivottamaṃ raṇe
+
+// Parva 9, Adhyaya 57, Verse 12
+asminn arthe purāṇo 'yaṃ śloko 'pi niyataḥ kila śrutaś cośanasā gītaḥ satāṃ nītividāṃ mataḥ
+
+// Parva 9, Adhyaya 57, Verse 13
+sāhasotpatitānāṃ ca nirāśānāṃ ca jīvite na śakyam agrataḥ sthātuṃ śakreṇāpi dhanaṃjaya
+
+// Parva 9, Adhyaya 57, Verse 36
+samāplutasya bhīmasya krodharaktekṣaṇasya ca
+
+// Parva 9, Adhyaya 57, Verse 57
+prahṛṣṭamanasaś cāsan pāṇḍavāḥ sṛñjayaiḥ saha
+
+// Parva 9, Adhyaya 58, Verse 3
+vṛkodaro mahārāja vākśalyam atiduḥsaham
+
+// Parva 9, Adhyaya 58, Verse 8
+na śāṭhyaṃ naiva no māyā yathāsya sudurātmanaḥ
+
+// Parva 9, Adhyaya 58, Verse 14
+gato 'si vairasyānṛṇyaṃ pratijñā pūritā tvayā śubhenaivāśubhenātha karmaṇā viramādhunā
+
+// Parva 9, Adhyaya 58, Verse 15
+ekādaśacamūnāthaṃ kurūṇām adhipaṃ tathā mā sprākṣīr bhīma pādena rājānaṃ jñātim eva ca hatabandhur hatāmātyo bhraṣṭasainyo hato mṛdhe sarvākāreṇa śocyo 'yaṃ nāvahāsyo 'yam īśvaraḥ
+
+// Parva 9, Adhyaya 58, Verse 18
+tāta manyur na te kāryo nātmā śocyas tvayā tathā nūnaṃ pūrvakṛtaṃ karma sughoram anubhūyate
+
+// Parva 9, Adhyaya 58, Verse 22
+ātmā na śocanīyas te ślāghyo mṛtyus tavānagha vayam evādhunā śocyāḥ sarvāvasthāsu kaurava kṛpaṇaṃ vartayiṣyāmas tair hīnā bandhubhiḥ priyaiḥ bhrātṝṇāṃ caiva putrāṇāṃ tathā vai śokavihvalāḥ kathaṃ drakṣyāmi vidhavā vadhūḥ śokapariplutāḥ tvam ekaḥ susthito rājan svarge te nilayo dhruvaḥ vayaṃ narakasaṃjñā vai duḥkhaṃ bhokṣyāma dāruṇam
+
+// Parva 9, Adhyaya 58, Verse 24
+vilalāpa mahīyān saḥ prakṛtyā karuṇāparaḥ
+
+// Parva 9, Adhyaya 59, Verse 7
+tato rājānam ālokya roṣasaṃraktalocanaḥ baladevo mahārāja tato vacanam abravīt na caiṣa patitaḥ kṛṣṇa kevalaṃ matsamo 'samaḥ āśritasya tu daurbalyād āśrayaḥ paribhartsyate
+
+// Parva 9, Adhyaya 59, Verse 8
+bhrātṛbhiḥ sahito bhīmaḥ sārjunair astrakovidaiḥ na vivyathe mahārāja dṛṣṭvā haladharaṃ balī
+
+// Parva 9, Adhyaya 59, Verse 10
+saṃgatāv iva rājendra kailāsāñjanaparvatau
+
+// Parva 9, Adhyaya 59, Verse 16
+vāsudevavacaḥ śrutvā sīrabhṛt prāha dharmavit
+
+// Parva 9, Adhyaya 59, Verse 21
+gacchatv adya mahāprājño bhīmaseno mahābalaḥ nikṛtyā nikṛtiprajñaṃ yo hanyād vairiṇaṃ raṇe adharmo vidyate nātra yad bhīmo hatavān ripum yudhyantaṃ samare vīraṃ kuruvṛṣṇiyaśaskaram anena karṇaḥ saṃdiṣṭaḥ pratīto dhanur acchinat tataḥ saṃchinnadhanvānaṃ virathaṃ pauruṣe sthitam vyāyudhīkṛtya hatavān saubhadram apalāyinam janmaprabhṛti lubdhaś ca pāpaś caiṣa durātmavān nihato bhīmasenena durbuddhiḥ kulapāṃsanaḥ pratijñāṃ bhīmasenasya trayodaśasamārjitām kimarthaṃ nābhijānāti yudhyamāno hi viśrutām ūrdhvam utkramya vegena jighāṃsantaṃ vṛkodaraḥ babhañja gadayā corū na ca sthāne ca maṇḍale
+
+// Parva 9, Adhyaya 59, Verse 25
+svargaṃ gantā mahārājaḥ sasuhṛjjñātibāndhavaḥ
+
+// Parva 9, Adhyaya 59, Verse 35
+ity uktavati kaunteye dharmarāje yudhiṣṭhire vāsudevo mahābāhur yudhiṣṭhiram abhāṣata
+
+// Parva 9, Adhyaya 59, Verse 36
+arjuno 'pi mahābāhur aprītenāntarātmanā novāca kiṃ cid vacanaṃ bhrātaraṃ sādhv asādhu vā
+
+// Parva 9, Adhyaya 60, Verse 1
+aśvatthāmā kṛpaś caiva kṛtavarmā ca sātvataḥ hataṃ duryodhanaṃ dṛṣṭvā pratyapadyanta saṃjaya
+
+// Parva 9, Adhyaya 60, Verse 20
+nānena kāryaṃ dṛṣṭena śrutenaiva kathāsv api īdṛśā bhinnamaryādā gatiṃ yāntīha tādṛśīm śrutvaivaṃ vacanaṃ tasya sāsūyavacanaṃ tadā jvalann iva ca roṣeṇa sphurann iva ca bhūpatiḥ
+
+// Parva 9, Adhyaya 60, Verse 38
+tvayā māyāvinā kṛṣṇa māyām arkapramoṣiṇīm kṛtvā hataḥ sindhupatiḥ kiṃ tan na viditaṃ mama
+
+// Parva 9, Adhyaya 60, Verse 42
+pāṇḍavāḥ duḥkhitāś cāsan purā vai vāraṇāvate
+
+// Parva 9, Adhyaya 60, Verse 45
+tasmāt so 'pi hataḥ krūras tava doṣeṇa cātmanaḥ
+
+// Parva 9, Adhyaya 60, Verse 46
+yāny akāryāṇi cāsmākaṃ kṛtānīti prabhāṣase vaiguṇyena tavātyarthaṃ sarvaṃ hi tad anuṣṭhitam bṛhaspater uśanaso nopadeśaḥ śrutas tvayā vṛddhā nopāsitāś caiva hitaṃ vākyaṃ na te śrutam lobhenātibalena tvaṃ tṛṣṇayā ca vaśīkṛtaḥ kṛtavān asyakāryāṇi vipākas teṣu bhujyatām
+
+// Parva 9, Adhyaya 60, Verse 50
+na me viṣādo bhīmena pādena śira āhatam kāko vā kaṅkagṛdhro vā nidhāsyati padaṃ kṣaṇāt
+
+// Parva 9, Adhyaya 60, Verse 52
+**** **** vāditraṃ sumanoharam jaguś cāpsaraso rājño yaśaḥ saṃbaddham eva ca
+
+// Parva 9, Adhyaya 60, Verse 54
+āścaryaṃ paramaṃ jagmuḥ pāñcālāḥ somakaiḥ saha
+
+// Parva 9, Adhyaya 60, Verse 55
+hatāṃś ca kauravāñ śrutvādharmataś ca mahīpatīn śokārtāḥ śuśucuḥ sarve pāṇḍavā bharatarṣabha
+
+// Parva 9, Adhyaya 60, Verse 57
+naiṣa śakyaḥ kadā cit tu hantuṃ dharmeṇa pārthivaḥ te vā bhīṣmamukhāḥ sarve maheṣvāsā mahārathāḥ mayānekair upāyais tu māyāyogena cāsakṛt hatās te sarva evājau bhavatāṃ hitam icchatā yadi naivaṃvidhaṃ jātu kuryāṃ jihmam ahaṃ raṇe kuto vo vijayo bhūyaḥ kuto rājyaṃ kuto dhanam
+
+// Parva 9, Adhyaya 60, Verse 62
+evaṃ vidhātrā vihitaṃ vadham eṣāṃ mahātmanām daivaṃ puruṣakāreṇa na śakyam ativartitum bhūtaṃ bhavyaṃ bhaviṣyac ca nimeṣād yo haniṣyati kṛtāntam anyathākartuṃ necchet so 'yaṃ dhanaṃjayaḥ
+
+// Parva 9, Adhyaya 60, Verse 65
+gīrbhir maṅgalayuktābhir vandinaḥ stutipāṭhakāḥ anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ pauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ nakulaḥ sahadevaś ca sughoṣamaṇipuṣpakau dhṛṣṭadyumnas tathā jaitraṃ sātyakir nandivardhanam teṣāṃ nādena mahatā śaṅkhānāṃ bharatarṣabha āpupūre nabhaḥ sarvaṃ pṛthivī ca cacāla ha tataḥ śaṅkhāś ca bheryaś ca paṇavānakagomukhāḥ pāṇḍusainyeṣv avādyanta sa śabdas tumulo 'bhavat astuvan pāṇḍavān anye gīrbhiś ca stutimaṅgalaiḥ
+
+// Parva 9, Adhyaya 61, Verse 17
+arjunasya vacaḥ śrutvā punaḥ prāha janārdanaḥ
+
+// Parva 9, Adhyaya 61, Verse 27
+bhīṣmadroṇakṛpadrauṇikarṇaśalyamukhān rathān
+
+// Parva 9, Adhyaya 61, Verse 29
+**** **** prasādād bahavo hatāḥ bhīmasenena ca mayā yamābhyāṃ yudhi mānada karmaṇā manasā vācā tvam asmākaṃ gatiḥ parā
+
+// Parva 9, Adhyaya 61, Verse 32
+gajān aśvān rathāṃś caiva mahānti śayanāni ca
+
+// Parva 9, Adhyaya 61, Verse 35
+jayantī yatra devī tu tatra vrajata mā ciram upayācitam etan me yuddhārambhopakalpitam
+
+// Parva 9, Adhyaya 61, Verse 37
+yudhiṣṭhiras tato rājā prāptakālam acintayat
+
+// Parva 9, Adhyaya 62, Verse 19
+jetuṃ parān parivyūḍhān prāptāṃś caiva tvayācyuta
+
+// Parva 9, Adhyaya 62, Verse 21
+tat sarvaṃ na yathā naśyet punaḥ kṛṣṇa tathā kuru saṃdehadolāṃ prāptaṃ naś cetaḥ kṛṣṇa jaye sati
+
+// Parva 9, Adhyaya 62, Verse 49
+tvaṃ caiva naraśārdūla gāndhārī ca yaśasvinī mā śuco naraśārdūla pāṇḍavān prati kilbiṣam
+
+// Parva 9, Adhyaya 63, Verse 8
+anyeṣv api ca śūreṣu nyastabhāro mahātmasu
+
+// Parva 9, Adhyaya 63, Verse 43
+vādikā duḥkhasaṃtaptāḥ śokopahatacetasaḥ
+
+// Parva 9, Adhyaya 64, Verse 17
+bhrātaras te mahārāja vīryaśakrasamā yudhi śatrūṇāṃ ca nihantāro mahābalaparākramāḥ kva gatāḥ pārthivendrādya saubhrātraṃ ca samāśritam tava putrā mahābhāga lakṣmaṇādyā mahārathāḥ pūrṇendusadṛśā vīrāḥ śāntisaundaryakāntibhiḥ kṛtavān nṛpaśārdūla jayantasamavikramam
+
+// Parva 9, Adhyaya 64, Verse 19
+imaṃ lokam anityaṃ vā hy adyāhaṃ samacintaye vivekibhir nṛbhir nityaṃ cintyamānā viśeṣataḥ na tu viśvasen nityāṃ vai hy adhruvā vai svabhāvataḥ
+
+// Parva 9, Adhyaya 64, Verse 24
+**** **** pāṇḍuputrair durātmabhiḥ adharmato gadāyuddhe
+
+// Parva 9, Adhyaya 64, Verse 25
+diṣṭyā hatā gajā yuddhe sagajārohakā bhṛśam diṣṭyāśvā deśajāḥ sarve kṛtino vegaśālinaḥ kuśalaiḥ sādibhiḥ sārdhaṃ nihatā raṇamūrdhani diṣṭyā raṇe vinihatā rathā hemapariṣkṛtāḥ rathibhir yuddhakuśalaiḥ sārdhaṃ vidalitaiḥ śaraiḥ diṣṭyā yodhā dhanuṣmantaḥ sarve yuddhaviśāradāḥ śaranirbhinnasarvāṅgāḥ samare patitābhavan diṣṭyā mamāyudhāny āśu nāśam āyānti vai kṣaṇāt
+
+// Parva 9, Adhyaya 64, Verse 26
+svasti haṃto tv ahaṃ yuddhe nihatajñātibāndhavaḥ
+
+// Parva 9, Adhyaya 64, Verse 29
+tathā tu dṛṣṭvā rājendra vartate vijayo mama
+
+// Parva 9, Adhyaya 64, Verse 34
+śapeyaṃ rājaśārdūla pādābhyāṃ mama vai pituḥ tava priyaṃ kariṣyāmi kṛtvā kāryam anuttamam īpsitaṃ manasā rājan yathecchasi tathā vada
+
+// Parva 9, Adhyaya 64, Verse 35
+adya rātrau mahārāja nihaniṣyāmi pāṇḍavān sarvāṃś ca nṛpatīn rājan dhṛṣṭadyumnapurogamān sasainyān yudhiśeṣāṃś ca
+
+// Parva 9, Adhyaya 64, Verse 36
+tac chrutvā vacanaṃ drauṇer dhṛtarāṣṭra tavātmajaḥ
+
+// Parva 9, Adhyaya 64, Verse 43
+kṛtavarmakṛpābhyāṃ ca aśvatthāme 'pi gacchati āste rājā cintayānas teṣām āgamanaṃ prati gadāparvaṇi rājendra samāpte 'bhīṣṭade nṛṇām brāhmaṇān bhojayet paścād vaktāraṃ ca supūjayet

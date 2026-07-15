@@ -1,0 +1,159 @@
+{
+  "file": "nadabindi_upanishad_gretil.xml",
+  "xml_id": "sa_nAdabindUpaniSad",
+  "title": "Nādabindūpaniṣad",
+  "total_chapters": 1,
+  "total_verses": 20,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 20,
+      "verse_groups": [
+        {
+          "lines": [
+            "oṃ",
+            "akāro dakṣiṇaḥ pakṣa ukāras tūttaraḥ smṛtaḥ /",
+            "makāras tasya pucchaṃ vā ardhamātrā śiras tathā // NbiUp_1 //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "pādau rajas tamas tasya śarīraṃ sattvam ucyate /",
+            "dharmaś ca dakṣiṇaṃ cakṣur adharmaś cottaraṃ smṛtam // NbiUp_2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhūr lokaḥ pādayos tasya bhuvar lokas tu jānunoḥ /",
+            "svar lokaḥ kaṭideśe tu nābhideśe mahar jagat // NbiUp_3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "janalokas tu hṛdaye kaṇṭhadeśe tapas tataḥ /",
+            "bhruvor lalāṭamadhye tu satyaloko vyavasthitaḥ // NbiUp_4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sahasram iti cātra mantra eva pradarśitaḥ /",
+            "evam enaṃ samārūḍho haṃsaṃ yogavicakṣaṇaḥ // NbiUp_5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na badhyate karmacārī pāpakoṭiśatair api /",
+            "āgneyī prathamā mātrā vāyavyaiṣā vaśānugā // NbiUp_6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhānumaṇḍalasaṃkāśā bhaven mātrā tathottarā /",
+            "paramā cārdhamātrā ca vāruṇīṃ tāṃ vidur budhāḥ // NbiUp_7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kalātrayānanā vāpi tāsāṃ mātrāpratiṣṭhitā /",
+            "eṣa oṃkāra ākhyāto dhāraṇābhir nibodhata // NbiUp_8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yoṣiṇī prathamā mātrā vidyunmālā tathāparā /",
+            "pataṃgī ca tṛtīyā syāc caturthī vāyuveginī // NbiUp_9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pañcamīnām adheyā ca ṣaṣṭhī caindrī vidhīyate /",
+            "saptamī vaiṣṇavī nāma śaṃkarī ca tathāṣṭamī // NbiUp_10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "navamī mahatī nāma dhruveti daśamī matā /",
+            "ekādaśī bhaven maunī brāhmīti dvādaśī matā // NbiUp_11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prathamāyāṃ tu mātrāyāṃ yadi prāṇair viyujyate /",
+            "sa rājā bhārate varṣe sārvabhaumaḥ prajāyate // NbiUp_12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dvitīyāyāṃ samutkrānto bhaved yakṣo mahātmavān /",
+            "vidyādharas tṛtīyāyāṃ gandharvas tu caturthikām // NbiUp_13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pañcamyām atha mātrāyāṃ yadi prāṇair viyujyate /",
+            "uṣitaḥ sahadevatvaṃ somaloke mahīyate // NbiUp_14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṣaṣṭhyām indrasya sāyujyaṃ saptamyāṃ vaiṣṇavaṃ padam /",
+            "aṣṭamyāṃ vrajate rudraṃ paśūnāṃ ca patiṃ tathā // NbiUp_15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "navamyāṃ ca maharlokaṃ daśamyāṃ ca dhruvaṃ vrajet /",
+            "ekādaśyāṃ tapolokaṃ dvādaśyāṃ brahma śāśvatam // NbiUp_16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tataḥ paraṃ śuddhaṃ vyāpakaṃ niṣkalaṃ śivam /",
+            "sadoditaṃ paraṃ brahma jyotiṣām udayo yataḥ // NbiUp_17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atīndriyaṃ guṇātītaṃ mano līnaṃ yadā bhavet /",
+            "anaupamyam abhāvaṃ ca yogayuktaṃ tadādiśet // NbiUp_18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadbhaktas tatsamāsaktaḥ śanair muñcet kalevaram /",
+            "susthito yogacāreṇa sarvasaṅgavivarjitaḥ // NbiUp_19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tato vilīnapāśo 'sau vimalaḥ kevalaḥ prabhuḥ /",
+            "tenaiva brahmabhāvena paramānandam aśnute // NbiUp_20 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "Nādabindūpaniṣat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4587 @@
+{
+  "file": "rigveda_khila_gretil.xml",
+  "xml_id": "sa_RgvedakhilAni",
+  "title": "Ṛgvedakhilāni",
+  "total_chapters": 6,
+  "total_verses": 642,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 88,
+      "verse_groups": [
+        {
+          "lines": [
+            "samaikṣiṣya.ūrdhva.mahasa.ādityena.sahiyasā./",
+            "aham.yaśasvinām.yaśo.viśvā.rūpāṇy.ādade./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "udyann.adya.vi.no.bhaja.pitā.putrebhyo.yathā./",
+            "dīrgha.āyutvasya.heśiṣe.tasya.no.dhehi.sūrya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "udyantam.tvā.mitramaha.ārohantam.vicakṣaṇa./",
+            "paśyema.śaradaś.śatam.jīvema.śaradaś.śatam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "abhi.tyam.meśam.puru.hūtam.ṛgmiyam./1"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śaśvan.nāsatyā.yuvayor.mahitvam.gāvo.arcanti.sadam.it.purukṣū./",
+            "yad.ūhathur.aśvinā.bhujyum.astam.anārambhaṇe.adhvani.taugryam.astam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.aśvam.śvetam.dadhato.abhighnan.nāsatyā.bhujyū.sumatāya.perave./",
+            "tam.vyām.ratim.vidatheṣu.viprā.rebhanto.dasrāv.agaman.manasyum./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.no.vipanyū.savanam.juṣethām.ā.vām.haṃsās.suyujo.vahantu./",
+            "yuvām.stomāso.janayo.na.maryā.uśanto.dasrā.vṛṣaṇā.sacante.|.(.p.54.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.no.yātam.tṛvṛtā.(.trivṛtā.).soma.peyam.rathena.dyukṣā.savanam.madāya./",
+            "stīrṇam.vām.bahris.suṣutā.madhūni.yuktā.hotāro.rathinās.suhastāḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vāsātyau.citrau.jagato.nidhānau.dyāvā.bhūmī.śṛṇutam.rodasī.me./",
+            "tāv.aśvinā.rāsabha.aśvā.havam.me.śubhaspatī.āgatam.sūryayā.saha./2"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "perṣas.santu.madhuno.ghṛtasya.tīvram.somam.hi.vapantu.śuṣmiṇaḥ./",
+            "evam.tathā.yuvaty.aśvinau.bāhū.ūrjam.duhatu.madhunā.ghṛtena./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agne.madantu.yātayas.stomāḥ.pra.ṇu.tyam.divam.yānti.gharmam./",
+            "caturdaśam.tridivam.yuvānam.ojo.mimātu.draviṇam.sumeke./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "harim.hinomi.dayamāno.aṃśu.puru.mīḍha.ṛṣabham.jayān./",
+            "haryaśvam.haritas.sapta.aśvam.yuktā.nemim.trinābhim.varuṇam.pragāthas.svastaye./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "somo.vaiṣṇavam.mahimānam.ojas.sapta.ṛṣayas.suvīrā.narāḥ.prīṇayanti./",
+            "saudhanvanāsas.suhastās.śamībhis.tvaṣṭam.āṅgirasam.ṛbhavam.svastaye./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ihaiha.(.iha.eha.).vo.maghavan.nidadhāmi.dhruvam.tīvram.ca.tam.hṛdiyantam.bṛhaspatim./",
+            "sate.dadhāmi.draviṇam.haviṣmate.gharmaś.cit.taptaḥ.pravṛje.vahanti./3"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaśvat.sauparṇau.viṣita.stukam.vāyasam.viśva.bhujaḥ.pathirakṣī.nṛ.cakṣasau./",
+            "iyam.hitvā.dayamānam.pṛcadbhir.mām.vāyaso.doṣād.dayamāno.abubudhat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tam.eka.nemim.trivṛtam.ṣoḍaśa.aram.śata.āvāram.viṃśati.pratyarābhiḥ./",
+            "aṣṭakaiṣ.ṣaḍbhir.viśva.rūpa.eka.pāśam.trimārga.bhedam.dvi.nimitta.eka.moham./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sadam.sadam.ekamakam.tasthuṣaḥ.pañca.triṃśād.daśa.param./",
+            "triṃśatam.śivam.nava.guhyam.yajñam.aṣṭa.ṣaṣṭham.vidat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atiṣṭhad.vajram.vṛṣaṇam.suvīram.dadhanvam.devām.harim.indra.keśam./",
+            "āyam.indraṣ.ṣoḍaśī.śarma.yacchantu.ṣaḍ.varmiṇam.ekam.dhruvan.ti.sākam.//4.(.p.55.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.dhārā.yantu.madhuno.ghṛtasya.yad.āvindatam.sūrī.usriyāyām./",
+            "mitrā.varuṇau.bhuvanasya.kārū.tā.me.aśvinā.juṣatām.savanā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sukham.ratham.śata.yāvānam.āśum.prātar.yāvānam.suṣadam.hiraṇyayam./",
+            "ātiṣṭhad.yatra.duhitā.vivasvatas.tam.eva.arvāñcam.avase.karāmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.vām.aśvāso.rathirā.vipaścito.vāta.dhrājiṣas.suyujo.ghṛta.ścutaḥ./",
+            "yebhir.yathā.upa.sūryām.vareyam.tebhir.no.dasrā.vardhatam.samatsu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.vām.reto.aśvinā.poṣayitnu.yad.rāsabho.vadhrimatyais.sudānū./",
+            "yasmāj.jajñe.deva.kāmas.sudakṣas.tad.asyai.dattam.bhiṣajāv.abhidyu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yan.nāsatyā.bheṣajam.citra.bhānū.yena.avathus.toka.kāmām.u.nu.ghoṣām./",
+            "tad.asyai.dattam.triṣu.puṃsu.vadhvai.yena.āvindatu.nayam.sā.suhastyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vaṣaḍ.vām.dasrāv.asmin.sute.nāsatyā.hotā.kṛṇotu.vedhāḥ./",
+            "sisratān.nāry.ṛta.prajātā.vi.parvāṇi.jihatām.sūtavā.u./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evā.niṣac.ca.upaniṣac.ca.viprā.yuvām.rebhatyau.sayujā.suparṇyau./",
+            "brahmāṇya.kratur.vidatheṣu.śakrā.dhattam.tayos.tanayan.tokam.agryam.//5.(.p.57.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jyotiṣmantam.ketumantam.tricakram.sukham.ratham.suṣadam.bhūri.māyam./",
+            "citrāmaghā.yasya.yoge.dhi.jajñe.tam.vām.huve.atiriktam.(.ati.riktam.).pibadhyai./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuvam.devā.kratunā.pūrvyeṇa.yuktā.rathena.taviṣam.yajatrā./",
+            "āgacchatam.nāsatyā.śacībhir.idam.tṛtīyam.śavanam.pibāthaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuvām.devās.traya.ekādaśāsas.satyā.satyasya.dadhire.purastāt./",
+            "asmākam.yajñam.savanam.juṣāṇā.pātam.somam.aśvinā.dīdyagnī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "panāyam.tad.aśvinākṛtam.vām.vṛṣabho.divo.rajasaḥ.pṛthvyāḥ./",
+            "sahasram.śaṃsā.uta.ye.gaviṣṭhau.sarvām.it.tām.upa.yātam.pibadhyai./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ayam.vām.bhāgo.nihito.yajatremā.giro.nāsatya.upa.yātam./",
+            "pibantam.somam.madhumantam.aśvinā.pra.dāśvāṃsam.avatam.śacībhih//6"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jyotiṣmantam.supratīkam.ajasreṇa.bhānunā.dīdyagnī./",
+            "śivam.prajānām.kṛṇuṣva.mā.hiṃsīḥ.puruṣam.jagat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhātā.rātis.savitā.idam.juṣantām.tvaṣṭā.yad.dūto.abhavad.vivasvataḥ./",
+            "sam.vām.aśvibhyām.uṣasā.sajūs.tam.ūrvam.gavyam.mahi.gṛṇāna.indra./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bharadvājasya.sunvato.yaviṣṭhā.yāhy.agne.madhumattamas.sutaḥ.|.(.p.58.).",
+            "somasya.mā.tavaso.dīdhyānā.acchā.kośam.janayitvā.avato.bhuvat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agniḥ.pṛthur.brahmaṇaspatis.somo.deveṣv.āyamat./",
+            "indrasya.ādhipatya.me.bṛhaspate.havīṃsi.te./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rucam.brāhmyam.janayanto.devā.agre.yad.abruvan./",
+            "yas.tvā.idam.brāhmaṇo.vidyāt.tasya.devā.asan.vaśe.//7"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṛśas.tvam.bhuvanas.pate.pāti.devānām.adbhutaḥ./",
+            "aśvinā.pātam.asmayū.nāsatyā.tiro.ahnyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvam.tam.suparṇa.ā.bhara.divas.putrā.niṣedire./",
+            "agniḥ.prajānām.abhavaj.jātavedo.vicarṣaṇe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agnir.hotā.vibhū.vasur.devānām.uttamam.yaśaḥ.//",
+            "punar.agniḥ.prajāpatir.vaiśvānaro.hiraṇyayaḥ.|.(.p.59.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agnis.trātā.śivo.bhavad.varūthyo.viśvadevyoḥ./",
+            "draviṇam.pāhi.viśvātas.somapā.abhayam.karaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agne.ni.jahi.marmāṇy.arātīnām.ca.marmaṇām./",
+            "dīrgha.āyutvasya.heśiṣe.tasya.no.dhehi.sūrya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "udyantam.tvā.mitramaha.ārohantam.vicakṣaṇa./",
+            "paśyema.śaradaś.śatam.jīvema.śaradaś.śatam.//8"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṛśam.cyavānam.ṛṣim.andham.aśvinā.jujurvāṃsam.kṛṇuthaḥ.karvarebhiḥ./",
+            "akṣaṇvantam.sthūla.vapuṣkam.ugrā.punar.yuvānam.patim.it.kanīnām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.vām.somair.haviṣā.yo.ghṛtena.vedena.yo.manasā.vāśa.śakrā./",
+            "sa.dhatte.ratnam.dyumad.indravantam.puru.spṛham.pṛtanājyam.suvīram./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.vām.narā.saptavadhrir.manīṣā.giram.hinvat.prativābhyām.idānīm./",
+            "vṛkṣā.samuddham.uśanā.yuvānam.atha.tam.kṛṇuta.mā.virapsinam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ajohavīt.saptavadhris.suhasta.druṇi.baddho.arya.samānaḥ.kakudmān./",
+            "arūrujatam.yuvam.asya.vṛkṣam.adrim.na.vajrī.suvṛṣāyamānaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ekā.kṛśaś.cakamānam.anā --- s suhavā.rāti.sūraḥ./",
+            "brahma.cakre.yuvayor.vardhanāni.dhattam.tasmai.sadam.arāti.dabdhim.//9.(.p.60.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "imāni.vām.bhāga.dheyāni.sisrata.indrā.varuṇā.pra.mahe.suteṣu.vām./",
+            "yajñe.yajñe.hi.savanā.bhuraṇyatho.yat.sunvate.yajamānāya.śikṣathaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "niṣṣidhvarīr.oṣadhīr.āpa.ābhyām.indrā.varuṇā.mahimānam.āśata./",
+            "yā.tasthatū.rajasas.pāre.adhvano.yayoś.śatrur.nakir.ādeva.ohate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "satyam.tad.indrā.varuṇā.ghṛta.ścutam.madhva.ūrmim.duhate.sapta.vāṇīḥ./",
+            "tābhir.dāśvāṃsam.avatam.śubhaspatī.yo.gām.adabdho.abhipāti.cittibhiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ghṛta.pruṣas.saumyā.jīra.dhānavas.sapta.svasāras.sadana.ṛtasya.|.(.p.61.).",
+            "yā.ha.vām.indrā.varuṇā.ghṛta.ścutā.tābhir.dakṣam.yajamānāya.śikṣatam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avocāma.mahate.saubhagāya.satyam.tveśābhyām.(.tvā.iśābhyām.).mahimānam.indriyam./",
+            "asmān.sv.indrā.varuṇā.ghṛta.ścutā.tribhis.saptebhir.avatam.śubhaspatī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indrā.varuṇā.yad.ṛṣibhyo.manīṣā.vāco.matim.śrutam.adhattam.agre./",
+            "tāni.chandāṃsy.asṛjanta.dhīrā.yajñam.tanvānās.tapasā.ābhy.apaśyan./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indrā.varuṇā.saumanasam.adṛptam.rāyas.poṣam.yajamāneṣu.dhattam./",
+            "prajām.puṣṭim.rayim.asmāsu.dhattam.dīrgha.āyutvāya.pratiratam.na.āyuḥ.//10"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ayam.somas.suśamī.adri.budhnaḥ.pariṣkṛto.matibhir.uktha.śastaḥ./",
+            "gobhiś.śrīto.matsaras.sāma.gīto.makṣū.parvāte.pari.vām.suśiprā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "asya.pājasaḥ.pibatam.sutasya.vāreṣṭhāvyāḥ.paripūtaya.vṛṣṇaḥ./",
+            "tāv.aśvinā.jaṭharam.āpṛṇethām.athā.mano.vasudheyāya.dhattam.|.(.p.62.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.iha.yātam.tanvā.śāśadānā.madhūni.naś.cakamāno.nu.medhā./",
+            "vi.suā.(.vi.svā.).mandrā.puru.rejamānā.yuvāyatī.havate.vām.manīṣā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sukham.nāsatyā.ratham.aṃśumantam.syonam.suvahnim.adhitiṣṭhatam.yuvam./",
+            "yam.vām.vahanti.harito.vahiṣṭhā.śatam.aśvā.yadi.vā.sapta.devā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yam.venan.tāgacchatam.mānavasya.śāryātasya.sadanam.śasyamānā./",
+            "abībhayus.sadhamādam.cakānaś.cyavano.devān.yuvayos.sa.eṣaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.no.aśvinā.trivṛtā.rathena.arvāñcam.rayim.vahatam.suvīram./",
+            "sṛṇvantā.vām.avase.johavīmi.vṛdhe.ca.no.bhavatam.vāja.sātau.//11"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadā.yuñjāthe.maghavānam.āśum.puru.spṛham.pṛtanājyam.suvīram./",
+            "svaśsvam.dasrā.ratham.ā.haveṣu.tadā.yutīr.yeti.rasan.tanūnām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhandiṣṭhā.ime.kavayaś.caranti.bhareṣu.na.grathitā.turvaśāsaḥ./",
+            "vācam.hinvānāḥ.puru.peśasam.vā.haviṣmatī.savane.mandayadhyai.|.(.p.63.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śrutam.havam.tarpayatam.makhasyum.kāmam.eṣām.ā.vahatho.havīṃsi./",
+            "adha.stotṝn.yajamānam.ca.pātam.ūtibhir.nṛpatī.yā.abhīke.//12"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yam.gacchatas.sutapā.devavantam.haviṣ.kṛtam.vṛṣaṇā.rāta.havyam./",
+            "sa.puṣyaty.annam.śatam.āvir.ukthya.manā.piban.prayatam.ādayitnu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ya.dāṃsāṃsi.jaritā.duṣṭarā.vām.yā.śaṃsanti.jaritāas.suteṣu./",
+            "yāni.iha.puṣyantu.vidhā.janeṣu.yer.aśnatho.vidathe.soma.peyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.uśantā.vṛṣaṇā.yā.dadhīce.śiro.bhiṣajā.samadhattam.arvāk./",
+            "tad.vām.matī.madhunā.tam.yuvānā.vaṣat.kṛtam.bhasatho.mandasānā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mā.voca.ātharvaṇa.yad.bravīmi.madhu.te.anyair.vīratarair.acittam./",
+            "yad.anv.aśāsan.maghavā.dadhīcam.tad.vām.avakṣat.śirasā.hayasya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.āgacchād.vīḍito.vajra.bāhur.dhatte.pitṛbhyā.madhu.no.dadhīcā./",
+            "ātireyam.duśśute.mā.vadeti.yadā.vadat.sā.yuvayos.sukīrtiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yābhiś.śacībhir.vṛṣaṇā.dadhīcam.yābhis.turam.kāvaśeyam.makhasya./",
+            "yābhir.dhiyam.jinvathāke.nipānā.tābhir.no.avatam.vidathe.gabhīrā.//13.(.p.64.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ayam.somo.devayā.vām.sumedhā.hṛdispṛg.yāti.dhiṣaṇām.miyānaḥ./",
+            "svādhiṣṭho.havyān.madhuno.ghṛtād.vā.nūtno.vām.stomo.aśvinā.aham.emi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.vām.mahī.mandate.deva.kāmā.yayair.ayāso.vayunāni.viśvā./",
+            "tāv.āśvinā.puru.bhujā.suśastī.ṛṣi.hitā.manhatam.viśvadhenām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.vām.gomān.aśvavān.sūnṛtāvān.puruścandra.spārhāṇi.spārhayiṣṇuḥ./",
+            "yam.johavīmi.rathiro.gaviṣṭhau.tam.ahve.ratham.ā.viśva.rūpam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "suvṛd.ratho.vām.vṛṣaṇā.suvahniḥ.puru.spṛho.vasuvid.yo.vayodhāḥ./",
+            "yena.vājān.vahatam.spārhavīrān.uru.śriyaś.śurudhośvāṃś.ca.(.śurudha.ūśvāṃś.ca.).mādhvī.//14.(.p.65.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "idam.devā.bhāga.dheyam.purāṇam.yad.āśire.hṛṣitā.yajñiyāsaḥ./",
+            "eṣasya.gharmaḥ.paripūta.ṛgbhis.tam.bapsatho.rathirā.vidravantā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vṛkṇam.śiro.vṛṣaṇā.yan.makhasya.śiro.bhiṣajā.samadhattam.arvāk./",
+            "tad.vām.naras.sarīram.cāru.citram.sadā.gṛṇanti.kavayas.suteṣu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.devā.aghnata.sam.rapāṃsi.yena.asahanta.pṛtanā.adevīḥ./",
+            "yena.abhavann.amṛtās.somadhānan.tam.arpayatam.śirasā.hayasya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "purā.viśīrṇā.vidathena.devā.nāvaśiṣo.arundhata.na.api.nākam./",
+            "ījānā.bahvīr.u.samā.yadā.asya.śiro.dattam.samadhānvāruhan.svaḥ.//15"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.vām.mātā.upa.ātiṣṭhad.ugram.suvṛdrathān.avyatheyam.saraṇyūḥ./",
+            "tatra.vām.mādhvī.madhvā.āhitam.sunītham.pratnam.aśvinā.mayo.bhu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuvam.stribhiś.citayatho.api.nākam.yuvam.payāṃsi.śakvarīṣu.dhattam./",
+            "yuvam.vīrudbhis.sṛjatam.mahīmam.yuvam.sartave.sṛjatam.vi.sindhūn./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuvam.mādhvī.madhubhis.sāraghebhir.yuvam.bheṣajā.stho.bhiṣajā.supāṇī./",
+            "yuvam.rathebhī.rathirai.stha.ugrā.sumaṅgalāv.amīva.cātanebhiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tan.me.dattam.cakṣur.akṣṇor.vicakṣe.paśyāmo.yena.svar.imā.diśaś.ca./",
+            "yena.abhikhyāya.vidhavāma.śakram.durhaṇād.vām.aśvinā.śūra.sātau.//16.(.p.66.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āśvina.vahatam.pīvarīs.svadhāśvāvatīr.dāsa.patnīr.īravatīḥ./",
+            "yuvor.dānāso.divi.na.āditeyo.yuvoḥ.payāṃsi.rurucire.suśukrā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.rebham.dasrā.vinigūḍham.apsu.yuvāyantam.vājayantam.ṛbīṣāt./",
+            "unninyathur.aśvinā.vadhrim.āśum.tad.vām.vratam.mahayanty.uktha.śāsaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yā.vām.nu.śarīre.yā.pṛthivyām.yā.vīrutsu.grāvasu.yā.antarikṣe./",
+            "yā.vīreṣu.sūriṣu.yā.api.nāke.tābhir.naś.śarma.yat.śatam.yuvānā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.vām.bharitrā.stuvato.maghāni.prayantrīṇi.dviṣato.barhaṇāni./",
+            "trātrīṇi.śaśvatām.sātapanti.tābhir.naś.śarma.yat.śatam.yuvānā.//17"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.vām.tricakras.supavis.suśaptis.trivandhuraḥ.ketumān.vāta.raṃhāḥ./",
+            "yoge.yasya.vitanoty.abhīśum.vibhāvarīs.sadatho.yan.mayo.bhū.|.(.p.67.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuvam.ūhathur.vimadāya.jāyām.yuvam.vaśām.śayave.dhenum.akratām./",
+            "yuvam.āyuṣā.tārayatam.pra.bandhanam.atrim.amuktam.yuvam.aṃhaso.vi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "havantam.meṣān.vṛkye.śivāyai.pitā.cakāra.ṛṣim.andham.aśvinā./",
+            "tasminn.ṛjra.aśve.cakṣuṣī.adhattam.āviṣ.kṛṇutam.punar.asya.lokam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.vām.cakṣur.divi.yat.suparṇo.yena.paśyatho.bhuvanāny.amartyāḥ./",
+            "tan.me.dattam.cakṣuṣī.deva.bandhū.namasyām.vindetha.purudhā.cakānām./upaprayanto.adhvaram.//18.(.p.68.)."
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "om.namo.viṣṇave / atha khileṣu sūkta.pratīka.ādy uktam.prayojanam.. śatarcy.ādīnām.adhidaivatā.lakṣaṇāni ca /.(.Khila I Introd..).\nkṛtiḥ.prakṛtir.ākṛtir.vikṛtis.saṃkṛtir.abhikṛtir.utkṛtir.ity.aśīty.akṣara.ādīni.catur.uttarāṇy.eva.yajūṃṣi.saṃkhyā.anuvartana.ādi.tulyam.ṛṣīṇām.ca.tulyānām.gotram.anādeśe.khilāny.antaram.mantra.uktāany.eva.saṃkhyā.ādīni.sambhavet //.(.Khila I Introd..).",
+        "<.sam.>.tṛcam.<.śaśvat.>.ṣaṇ.ūnā.tārkṣyas.suparṇa.āśvinam.vai.tat.saptamy.āgneyi.parā.aindrī.ekādaśī.vā.navamī.liṅga.uktā.devatā.aṣṭamy.ādi.virāḍ.rūpās.catasro.jagatya.uro.bṛhatī.<.pra.>.sapta.brāhmyo.niṣad.upaniṣadau.dvitīyā.jagatī.ṣaṣṭhī.virāṭ.sthānā.<.jyotiṣmantam.>.daśa.bhāradvājo.jyotiṣmām.ṣaṣṭhy.ādyā.liṅga.ukta.devatām.ānuṣṭum.navamy.antye.ca.<.kṛśa.>.ekādaśa.āśvinaḥ.kṛśa.ādyāṣ.ṣaḍ.liṅga.ukta.devatā.ānuṣṭubham.<.imāni.>.sapta.apunar.doṣa.aindr\nāvaruṇam.jāgatam.<.ayam.>.ṣaḍ.retāgaṅgyo.<.yadā.>.tṛcam.yāmuniḥ.praṇetā / <.yam.>.yajña.vatso.<.yam.>.catuṣkam.gaurīvītir.<.idam.>.aṣṭau.cakṣuṣī.<.āśvinā.>.apadoṣaṣ.ṣaṣṭhī.jagaty.atra.anukta.gotrās.sauparṇāḥ.//.(.p.53.)."
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "verse_count": 123,
+      "verse_groups": [
+        {
+          "lines": [
+            "mā.bibher.na.mariṣyasi.pari.tvā.pāmi.sarvataḥ./",
+            "ghanena.hanmi.vṛścikam.ahim.daṇḍena.āgatam./",
+            "tvam.agne.dyubhis.tvam.āśuśukṣaṇiḥ.//1.(.p.69.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "āditya.ratha.vegena.viṣṇor.bāhu.balena.ca./",
+            "garuḍa.pakṣa.nipātena.bhūmim.gaccha.mahā.yaśāḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "garuḍasya.jāta.mātreṇa.trayo.lokāḥ.prakampitāḥ./",
+            "prakampitā.mahī.sarvā.saśaila.vana.kānanā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gaganam.naṣṭa.candra.arkam.jyotiṣam.na.prakāśate./",
+            "devatā.bhaya.bhītāś.ca.māruto.na.plavāyati.māruto.na.plavāyaty.om.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bho.sarpa.bhadra.bhadram.te.dūram.gaccha.mahā.yaśāḥ./",
+            "janamejayasya.yajña.ante.āstīka.vacanam.smara./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āstīka.vacanam.śrutvā.yaḥ.sarpo.na.nivartate./",
+            "śatadhā.bhidyate.mūrdhni.śiṃśa.vṛkṣa.phalam.yathā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agastyo.mādhavaś.caiva.mucukundo.(.mucukuṃdo.).mahā.muniḥ./",
+            "kapilo.munir.āstīkaḥ.pañca.ete.sukha.śāyinaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "narmadāyai.namaḥ.prātar.narmadāyai.namo.niśi./",
+            "namo.astu.narmade.tubhyam.trāhi.mām.viṣa.sarpataḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.jaratkāruṇā.jāto.jarat.kanyām.mahā.yaśāḥ./",
+            "tasya.sarpo.api.bhadram.te.dūram.gaccha.mahā.yaśāḥ./",
+            "tasya.sarpasya.sarpatvam.tasmai.sarpa.namo.astu.te.|.(.p.70.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "bhadram.vada.dakṣiṇato.bhadram.uttarato.vada./",
+            "bhadram.purastān.no.vada.bhadram.paścāt.kapiñjala./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhadram.vada.putrair.bhadram.vada.gṛheṣu.ca./",
+            "bhadram.asmākam.vada.bhadram.no.abhayam.vada./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhadram.adhastān.no.vada.bhadram.upariṣṭān.no.vada./",
+            "bhadram.bhadram.na.āvada.bhadram.nas.sarvato.vada./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "asapatnam.purastān.naś.śivam.dakṣiṇatas.kṛdhi./",
+            "abhayam.satatam.paścād.bhadram.uttarato.gṛhe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yauvanāni.mahayasi.jigyuṣām.iva.dundubhiḥ./",
+            "śakuntaka.prakakṣiṇam.śata.patrābhi.no.vada./",
+            "āvadaṃs.tvam.śakune.bhadram.ā.vada.//2.(.p.71.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "jāgarṣi.tvam.bhuvane.jātavedo.jāgarṣi.yatra.yajate.haviṣmān./",
+            "idam.haviś.śraddadhāno.juhomi.tena.pāsi.guhyam.nāma.gonām./",
+            "vidā.divo.viṣyann.adrim.ukthaiḥ.//3."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "svastyayanam.tārkṣyam.ariṣṭanemim.mahad.bhūtam.vāyasam.devatānām./",
+            "asuraghnam.indra.sakham.samatsu.bṛhad.yaśo.nāvam.iva.āruhema./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṃho.mucam.āṅgirasam.gayam.ca.svasty.ātreyam.manasā.ca.tārkṣyam.|.(.p.71.).",
+            "prayata.pāṇiś.śaraṇam.prapadye.svasti.sambādheṣv.abhayan.no.astu./",
+            "pra.śyāvāśva.dhṛṣṇuyā.//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "varṣantu.te.vibhāvari.divo.abhrasya.vidyutaḥ./",
+            "rohantu.sarva.bījāny.ava.brahma.dviṣo.jahi./",
+            "pra.saṃrāje.bṛhadarcā.gabhīram.//5"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "hiraṇya.varṇām.hariṇīm.suvarṇa.rajata.srajām./",
+            "candrām.hiraṇmayīm.lakṣmīm.jātavedo.mama.āvaha./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tām.ma.āvaha.jātavedo.lakṣmīm.anapagāminīm./",
+            "yasyām.hiraṇyam.vindeyam.gām.aśvam.puruṣān.aham./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśva.pūrvām.ratha.madhyām.hasti.nāda.pramodinīm./",
+            "śriyam.devīm.upahvaye.śrīr.mā.devī.juṣatām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kāṃsy.asmi.tām.hiraṇya.pravārām.ardrām.jvalantīm.tṛptām.tarpayantīm./",
+            "padmestithām.padma.varṇām.tām.iha.upahvaye.śriyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "candrām.prabhāsām.yaśasā.jvalantīm.śriyam.loke.deva.juṣṭām.udārām./",
+            "tam.padma.nemim.śaraṇam.prapadye.alakṣmīr.me.naśyatām.tvām.vṛṇomi.//6"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āditya.varṇe.tapaso.adhijāto.vanaspatis.tava.vṛkṣo.atha.bilvaḥ./",
+            "tasya.phalāni.tapasā.nudantu.māyā.antarā.yāś.ca.bāhyā.alakṣmīḥ.|.(.p.72.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upa.etu.mām.deva.sakhaḥ.kīrtiś.ca.maṇinā.saha./",
+            "prādur.bhūto.asmi.rāṣṭre.asmin.kīrtim.vṛddhim.dadātu.me./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṣut.pipāsā.malā.jyeṣṭhām.alakṣmīn.nāśayāmy.aham./",
+            "abhūtim.asamṛddhim.ca.sarvān.nirṇuda.me.gṛhāt./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gandha.dvārām.durādharṣām.nitya.puṣṭām.karīṣiṇīm./",
+            "īśvarīm.sarva.bhūtānām.tām.iha.upahvaye.śriyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "manasaḥ.kāmam.ākūtim.vācas.satyam.aśīmahi./",
+            "paśūnām.rūpam.annasya.mayi.śrīś.śrayatām.yaśaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kardamena.prajā.bhūtā.mayi.sambhava.kardama./",
+            "śriyam.vāsaya.me.kule.mātaram.padma.mālinīm./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āpa.sravantu.snigdhāni.ciklītā.vasa.me.gṛhe./",
+            "ni.ca.devīm.mātaram.śriyam.vāsaya.me.gṛhe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pakvām.puṣkariṇīm.puṣṭām.piṅgalām.padma.mālinīm./",
+            "sūryām.hiraṇmayīm.lakṣmīm.jātavedo.mama.āvaha./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ārdram.puṣkariṇīm.yaṣṭīm.suvarṇām.hema.mālinīm./",
+            "candrām.hiraṇmayīm.lakṣmīm.jātavedo.mama.āvaha./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tām.ma.āvaha.jātavedo.lakṣmīm.anapagāminīm./",
+            "yasyām.hiraṇyam.prabhūtam.gāvo.dāsyo.vindeyam.puruṣān.aham.//8"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ya.ānandam.samāviśad.upādhāvan.vibhāvasum./",
+            "śriyas.sarvā.upāsiṣva.ciklīta.vasa.me.gṛhe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kardamena.prajā.sraṣṭā.sambhūtim.gamayāmasi./",
+            "adadhād.upāgād.yeṣām.kāmān.sasṛjmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jātavedaḥ.punīhi.mā.rāyas.poṣam.ca.dhāraya./",
+            "agnir.mā.tasmād.enaso.viśvān.muñcatv.aṃhasaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "acchā.no.mitramaho.deva.devān.agne.vocas.sumatim.rodasyoḥ./",
+            "vīhi.svastim.sukṣitim.divo.nṝn.dviṣo.aṃhāṃsi.duritā.tarema.tā.tarema.tava.avasā.tarema./9.(.p.73.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaḥ.śuciḥ.prayato.bhūtvā.juhuyād.ājyam.anvaham./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sūktam.pañcadaśarcam.ca.śrī.kāmaḥ.satatam.japet./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "padma.ānane.padma.ūrū.padma.akṣī.padma.saṃhave./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tan.me.bhajasi.padma.akṣī.yena.saukhyam.labhāmy.aham./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aśvadāyai.godāyai.dhanadāyai.mahā.dhane./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhanam.me.juṣatām.devi.sarva.kāmāṃś.ca.dehi.me./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "putra.pautram.dhanam.dhānyam.hasty.aśva.ādi.gave.ratham./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prajānām.bhavasi.mātā.āyuṣmantam.karotu.me./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhanam.agnir.dhanam.vāyur.dhanam.sūryo.dhanam.vasuḥ./",
+            "dhanam.indro.bṛhaspatir.varuṇam.dhanam.utsṛje./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vainateya.somam.piba.somam.pibatu.vṛtrahā./",
+            "somam.dhanasya.somino.mahyam.dadātu.sominaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na.krodho.na.ca.mātsaryam.na.lobho.na.aśubhā.matiḥ./",
+            "bhavanti.kṛta.puṇyānām.bhaktānām.śrī.sūktam.japet./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarasija.nilaye.saroja.haste.dhavalatarām.śubha.gandha.mālya.śobhe./",
+            "bhagavati.hari.vallabhe.manojñe.tribhuvana.bhūti.kari.prasīda.mahyam.|.(.p.77.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śrī.varcasvam.āyuṣyam.ārogyam.āvidhāt.śubhamānam.mahīyate./",
+            "dhānyam.dhanam.paśum.bahu.putra.lābham.śata.saṃvatsaram.dīrgham.āyuḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣṇu.patnīm.kṣamām.devīm.mādhavīm.mādhava.priyām./",
+            "lakṣmīm.priya.sakhīm.devīm.namāny.acyuta.vallabhām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahā.lakṣmī.ca.vidmahe.viṣṇu.patnī.ca.dhīmahi./",
+            "tan.no.lakṣmīḥ.pracodayāt./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "padma.ānane.padmini.padma.patre.padma.priye.padma.dala.āyata.akṣi./",
+            "viśva.priye.viśva.mano.anukūle.tvat.pāda.padmam.hṛdi.samnidhatsva./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ānandaḥ.kardamaḥ.śrītas.ciklīta.iva.viśritaḥ./",
+            "ṛṣayaś.śriyaḥ.putrāś.ca.śrīr.devī.deva.devatā.|.(.p.78.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛṇa.roga.ādi.dāridryam.pāpa.kṣud.apamṛtyavaḥ./",
+            "bhayaḥ.śoka.manas.tāpā.naśyantu.mama.sarvadā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "candra.ābham.lakṣmīm.īśānām.sūrya.ābham.śriyam.aiśvarīm./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "candra.sūrya.agni.varṇa.ābhām.mahā.lakṣmīm.upāsmahe./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varṣantu.te.vibhāvari.divo.abhrasya.vidyutaḥ./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rohantu.sarva.bījāny.ava.brahma.dviṣo.jahi./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "padma.priye.padmini.padma.haste.padma.ānane./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśva.priye.viṣṇu.mano.anukūle.tvat.pāda.padmam.mayi.samnidhatsva./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yā.sā.padma.āsanasthā.vipula.kaṭi.taṭī.padma.patra.āyata.akṣī.gambhīrā./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varta.nābhi.stana.bhara.namitā.śubhra.vastra.uttarīyā./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "lakṣmīr.divyair.gaja.indrair.maṇi.gaṇa.khacitai.snāpitā.hema.kumbhaiḥ./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nityam.sā.padma.hastā.mama.vasatu.gṛhe.sarva.māṅgalya.yuktā./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "siddha.lakṣmīr.mokṣa.lakṣmīr.jaya.lakṣmīḥ.sarasvatī./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrīr.lakṣmīr.vara.lakṣmīś.ca.prasannā.mama.sarvadā./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varām.kuśā.pāśam.abhītim.udrām.karair.vahantī.kamala.āsanasthām./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bāla.arka.koṭi.pratibhām.trinetrām.bhaje.aham.ādyām.jagad.īśvarīm.tām./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarva.maṅgala.māṅgalye.śive.sarva.artha.sādhike./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śaradhaye.tryambake.gaurī.nārāyaṇi.namo.astu.te.|.(.p.79.)."
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ciklīto.yasya.nāma.tad.diva.naktam.ca.sukrato./",
+            "asmān.dīdāsa.yujyāya.jīvase.jātavedaḥ.punantu.mām.deva.janāḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "punantu.manasā.dhiyaḥ.punantu.viśvā.bhūtāni./",
+            "jātavedo.yad.astutam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśve.devāḥ.punīta.mā.jātavedaḥ.punīhi.mā./",
+            "sambhūtā.asmākam.vīrā.dhruvā.dhruveśu.tiṣṭhati./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhruvā.dyaur.dhruvā.pṛthivī.dhruvā.dhruveṣu.tiṣṭhati./",
+            "agne.acchā.yad.astutam.rāyas.poṣam.ca.dhāraya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "acchā.no.mitra.maho.deva.devān.agne.vocas.sumatim.rodasyoḥ./",
+            "vīhi.svastim.sukṣitim.divo.nṝn.dviṣo.aṃhāṃsi.duritā.tarema.tā.tarema.tava.avasā.tarema.//10"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mayi.śleṣo.mā.vadhīḥ.pra.saṃrājam.ca.sukrato./",
+            "asmān.pṛṇīṣva.yujyāya.jīvase.jātavedaḥ.punīhi.mā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "marto.yo.no.didāsaty.adhirathā.na.nīnaśat./",
+            "davidhvato.vibhāvaso.jāgāram.uta.te.dhiyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anamīvā.bhavantv.aghnyā.su.san.garbho.vimocatu./",
+            "arātīyanti.ye.kecit.sūrayaś.ca.abhi.majmanā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rāyas.poṣam.vidhāraya.jātavedaḥ.punīhi.mā./",
+            "usrā.bhavantu.no.mayo.bahvīr.goṣṭhe.ghṛtācyaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "acchā.no.mitramaho.deva.devān.agne.vocas.sumatim.rodasyoḥ./",
+            "vīhi.svastim.sukṣitim.divo.nṝn.dviṣo.aṃhāṃsi.duritā.tarema.tā.tarema.tava.avasā.tarema.//11.(.p.80.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃsravantu.marutas.sam.aśvās.u.pūruṣāḥ./",
+            "sam.dhānyasya.yā.sphātis.saṃsrāvyeṇa.haviṣā.juhomi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.iha.yanti.paśavo.ye.pareyur.vāyur.yeṣām.sahacārām.jujoṣa./",
+            "tvaṣṭā.yeṣām.rūpa.dheyāni.veda.asmiṃs.tām.loke.savitā.abhirakṣatu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "imam.goṣṭham.paśavas.saṃsravantu.bṛhaspatir.ānayatu.prajānan./",
+            "sinīvālī.nayaty.agra.eṣām.ājagmuṣo.anumate.niyaccha./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃsiñcāmi.gavām.kṣīram.sam.ājyena.balam.rasam./",
+            "saṃsiktā.asmākam.vīrā.dhruvā.gāvas.santu.gopatau./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āharāmi.gavām.kṣīram.āharāmi.dhānyam.rasam./",
+            "āhṛtā.asmākam.vīrā.ā.patnīr.idam.astakam.//12"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.te.garbho.yonim.etu.pumān.bāṇa.iva.iṣudhim./",
+            "ā.vīro.atra.jāyatām.putras.te.daśa.māsyaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karomi.te.prājāpatyam.ā.garbho.yonim.etu.te./",
+            "anūnaḥ.pūrṇo.jāyatām.anandho.aśroṇo.apiśāca.dhītaḥ.|.(.p.81.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pumāṃs.te.putro.jāyatām.pumān.anujāyatām./",
+            "yāni.bhadrāṇi.bījāny.ṛṣabhā.janayanti.naḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tāni.bhadrāṇi.bījāny.ṛṣabhā.janayantu.te./",
+            "tais.tvam.putram.janayes.sa.jāyatām.vīratamas.svānām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.vaśāyām.garbho.yo.api.vehati.indras.tan.nidadhe.vanaspatau./",
+            "tais.tvam.putrān.vindasva.sā.prasūr.dhenukā.bhava./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sam.vo.manāṃsi.jānātām.sam.nabhis.sam.tato.asat./",
+            "sam.tvā.kāmasya.yoktreṇa.yuñjāny.avimocanāya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kāmas.samṛdhyatām.mahyam.aparājitam.eva.me./",
+            "yam.kāmam.kāmaye.deva.tam.me.vāyo.samardhaya.//13.(.p.82.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agnir.etu.prathamo.devatānām.so.syāḥ.prajām.muñcatu.mṛtyu.pāśāt./",
+            "tad.ayam.rājā.varuṇo.anumanyatām.yathā.iyam.strī.pautram.aghan.na.rodīt./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "imām.agnis.trāyatām.gārhaspatyaḥ.prajām.asyai.tiratu.dīrgham.āyuḥ./",
+            "aśūnya.upasthā.jīvatām.astu.mātā.pautram.ānandam.abhi.vibudhyatām.iyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mā.te.gṛhe.niśi.ghora.utthād.anyatra.tvad.rudatyas.saṃviśantu./",
+            "mā.tvam.vikeśy.ura.āvadhiṣṭhā.jīva.putrā.pati.loke.virāja.prajām.paśyantī.sumanasyamānā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aprajasyam.pautra.martyam.pāpmānam.uta.vā.agham./",
+            "prajām.iva.unmucyasva.dviṣadbhyaḥ.prati.muñcāmi.pāśān./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "deva.kṛtam.brāhmaṇam.kalpamānam.tena.hanmi.yoniṣadaḥ.piśācān./",
+            "kravyādo.mṛtyūn.adharān.pātayāmi.dīrgham.āyus.tava.jīvantu.putrāḥ./",
+            "tvam.hy.agne.prathamo.maotā.//14.(.p.83.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "cakṣuś.ca.śrotram.ca.manaś.ca.vāk.ca.prāṇa.apāṇau.deha.idam.śarīram./",
+            "dvau.pratyañcāv.anulomau.visargāv.edan.tam.manye.daśa.yantram.utsam./",
+            "ya.ānayat.parāvataḥ.//15.(.p.84.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "uraś.ca.pṛṣṭhaś.ca.karau.ca.bāhū.jaṃghe.ca.ūrū.udaram.śiraś.ca./",
+            "romāṇi.māṃsam.rudhira.asthi.majjam.etat.śarīram.jala.budbuda.upamam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhruvau.lalāṭe.ca.tathā.ca.karṇau.hanū.kapolau.chubukas.tathā.ca./",
+            "oṣṭhau.ca.dantāś.ca.tathaiva.jihvā.me.tat.śarīram.mukha.ratna.kośam.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaṃvatīḥ.pārayanty.etedam.pṛcchasva.vaco.yathā./",
+            "abhyāran.tam.samāketam.ya.eva.idam.iti.bravat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jāyā.ketam.parisrutam.bhāratī.brahma.vādinī./",
+            "saṃjānānā.mahī.jātā.ya.eva.idam.iti.bravat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indras.tam.kim.vibhum.prabhum.bhānunā.yam.juhoṣati./",
+            "tena.sūryam.arocayad.yena.ime.rodasī.ubhe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "juṣasva.agne.aṅgiraḥ.kāṇvam.medhyātithim./",
+            "mā.tvā.somasya.barbṛhat.sutasya.madhuattamaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvām.agne.aṅgiraś.śocasva.devavītamaḥ./",
+            "ā.śaṃtama.śaṃtamābhir.abhi.s.tibhiś.śāntim.svastim.akurvata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sam.naḥ.kanikradad.devaḥ.parjanyo.abhi.varṣatv.oṣadhayas.sam.pravardhantam./",
+            "sam.no.dyāvā.pṛthivī.śam.prajābhyas.śam.no.astu.dvipade.śam.catuṣpade./",
+            "śam.na.indrāgnī.bhavatām.avobhiḥ.//16.(.p.85.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "svapnas.svapna.adhikaraṇe.sarvam.niṣvāpayā.janam./",
+            "ā.sūryam.anyān.svāpaya.avyuṣam.jāgṛyām.aham./",
+            "ka.īm.vyaktā.naras.sanīḍhāḥ.//17"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "ajagaro.nāma.sarpaḥ.sarpiraviṣo.mahān./",
+            "tasmin.hi.sarpaḥ.sudhitas.tena.tvā.svāpayāmasi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarpaḥ.sarpo.ajagaraḥ.sarpiraviṣo.mahān./",
+            "tasya.sarpāt.siṃdhavas.tasya.gādham.asīmahi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kāliko.nāma.sarpo.nava.nāga.sahasra.balaḥ.|.(.kāḷika, baḷa.).",
+            "yamuna.hrade.ha.so.jāto.yo.nārāyaṇa.vāhanaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadi.kālika.dūtasya.yadi.kāhkālikād.bhayam.|.(.kāḷika.).",
+            "janma.bhūmim.atikrānto.nirviṣo.yāti.kālikaḥ.|.(.kāḷika.).(.p.86.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āyāhi.indra.pathibhir.iḍitebhir.yajñam.imam.no.bhāga.dheyam.juṣasva./",
+            "tṛptām.juhur.mātulasya.iva.yoṣā.bhāgas.te.paitṛ.svaseyī.vapām.iva.|.(.mātuḷa.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaśaskaram.balavantam.prabhutvam.tam.eva.rāja.adhipatir.babhūva./",
+            "saṃkīrṇa.nāga.aśva.patir.narāṇām.sumaṅgalyam.satatam.dīrgham.āyuḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karkoṭako.nāma.sarpo.yo.dṛṣṭī.viṣa.ucyate./",
+            "tasya.sarpasya.sarpatvam.tasmai.sarpa.namo.astu.te./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ati.kālika.raudrasya.viṣṇuḥ.saumyena.bhāminā.|.(.kāḷika.).",
+            "yamuna.nadī.kālikam.te.viṣṇu.stotram.anusmaram.|.(.kāḷika.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.ado.rocane.divo.ye.vā.sūryasya.raśmiṣu./",
+            "teṣām.apsu.sadas.kṛtam.tebhyaḥ.sarpebhyo.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namo.astu.sarpebhyo.ye.ke.ca.pṛthivīm.anu./",
+            "ye.antarikṣe.ye.div.tebhyaḥ.sarpebhyo.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ugra.āyudhāḥ.pramathinaḥ.pravīrā.māyāvino.balino.micchamānāḥ./",
+            "ye.devā.asurān.parābhavan.tāṃs.tvam.vajreṇa.maghavan.nivāraya./(.p.87.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasya.vratam.upatiṣṭhanta.āpo.yasya.vrate.paśavo.yānti.sarve./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yasya.vrate.puṣṭi.patr.niviṣṭas.tam.sarasvantam.avase.johavīmi./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yajñe.divo.nṛṣadane.pṛthivyāḥ.//18"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "upa.pravada.maṇḍūki.varṣam.āvada.tāduri./",
+            "madhye.hradasya.plavasva.nigṛhya.caturaḥ.padaḥ./ indrāsomā.tapatam.rakṣa.ubjatam.//19.(.p.88.)."
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "om.<.mā.>.ekā.<.bhadram.>.pañca.anuṣṭubho.<.jāgarṣy.>.ekā.jātavedasyam.<.svastyayanam.>.dve.<.varṣantv.>.ekā.<.hiraṇya.varṇām.>.eka.ūnā.śrīr.bhārgavī.śrīr.alakṣmīghnam.śraiyam.ānuṣṭubham.vai.śakvary.antam.hiṃsā.āgneyī.caturthī.prastāra.paṅktis.triṣṭubhau.pañcadaśy.upariṣṭād.bṛhatī.śrīḥ.putrāḥ.pare.ṣaṭ.<.ciklītaḥ.>.pañca.ānanda.kardamau.vaiśvadevam.<.mayi.śleṣaś.>.śleṣo.jātavedasyam.bṛhaty.ādi.<.saṃsravantv.>.iti.saṃsravān.vaiśvadevam.dvitīyā.ādi.tri\nṣṭubhāv.<.ā.te.>.sapta.prajāvān.garbha.artha.āśī.stutiḥ.prajāpatir.aindravāyavyau.caturthī.bṛhatī.pañcamī.prastāra.paṅktir.--\n<.agniḥ.>.pañca.jīva.putra.agni.vāruṇam.atijagaty.ānuṣṭup.triṣṭub.antam.<.cakṣur.>.eka.ātma.stutiś.<.śaṃvatī.>.ṣaṭ.śāntir.ānuṣṭubham.pañcamy.ādi.bṛhatī.jagatyau.<.svapna.>.ekā.<.yasya.upa.>.anuṣṭub.vālakhilyāḥ.pareṣṭau.//"
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "verse_count": 160,
+      "verse_groups": [
+        {
+          "lines": [
+            "abhi.pra.vas.surādhasam.indram.arca.yathā.vide./",
+            "yo.jaritṛbhyo.maghavā.purūvasus.sahasreṇa.iva.śikṣati./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śata.anīkā.iva.prajigāti.dhṛṣṇuyā.hanti.vṛtrāṇi.dāśuṣe./",
+            "girer.iva.pra.rasā.asya.pinvire.datrāṇi.puru.bhojasaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.tvā.sutāsa.indavo.madā.ya.indra.girvaṇaḥ./",
+            "āpo.na.vajrinn.anv.okyam.saraḥ.pṛṇanti.śūra.rādhase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anehasam.prataraṇam.vivakṣaṇam.mahvas.svādiṣṭham.īm.piba./",
+            "yā.yathā.manda.sānaḥ.kirāsi.naḥ.pra.kṣudrā.iva.tmanā.dhṛṣat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.nas.stomam.upa.dravad.dhiyāno.aśvo.na.sotṛbhiḥ./",
+            "yan.te.svadhāvan.svadayanti.dhenava.indra.kaṇveṣu.rātayaḥ.//1"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ugram.na.vīran.namasā.upa.sdima.vibhūtim.akṣitāvasum./",
+            "udrīva.vajrinn.avato.na.siñcate.kṣaranti.indra.dhītayaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.dha.nūnam.yad.vā.yajñe.yad.vā.pṛthivyām.adhi./",
+            "ato.no.yajñam.āśubhir.mahemata.ugra.ṛṣvebhir.ā.gahi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ajirāso.harayo.ye.ta.āśavo.vātā.iva.prasakṣiṇaḥ./",
+            "yebhir.apatyam.manuṣaḥ.parīyase.yebhir.viśvam.svar.dṛśe.|.(.p.89.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "(.etāvatas.ta.imaha.indra.).sumnasya.gomataḥ./",
+            "yathā.prāva.etaśam.kṛtvye.dhane.yathā.vaśan.daśa.vraje./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā.kaṇve.maghavann.trasadasyavi.y.(.athā.pakthe.da.).śa.vraje.|.(.daśa.vraje.).",
+            "yathā.gośarye.asanor.ṛjiśvani.indra.gomadd.hiraṇyavat.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.su.śrutam.surādhasam.arcā.śakram.(.abhiṣṭa.).ye(.abhiṣṭaye.).",
+            "yas.sunvate.stuvate.kāmyam.vasu.sahasreṇa.iva.manhate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śata.anīkā.hetayo.asya.duṣṭārā.indrasya.samiṣo.mahīḥ./",
+            "śinir.na.bhujmā.maghavatsu.pinvate.yad.īm.sutā.amandiṣuḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.īm.sutāsa.indavobhi.priyam.amandiṣuḥ./",
+            "āpo.na.dhāyi.savanam.ma.ā.vaso.dughā.iva.upa.dāśuṣe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anehasam.vo.havamānam.ūtaye.madhvaḥ.kṣaranti.dhītayaḥ./",
+            "ā.tvā.vaso.havamānāsa.indava.upa.stotreṣu.dadhire./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.nas.some.svadhvara.iyāno.atyo.na.tośate./",
+            "yan.te.svadhāvan.svadhayanti.gūrtayaḥ.paure.chandayase.havam.//3"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.vīram.ugram.vivicin.dhanaspṛtam.vibhūtim.rādhaso.mahaḥ./",
+            "udrīva.vajrinn.avato.vasutvanā.sadā.pīpetha.dāśuṣe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.dha.nūnam.parāvati.yad.vā.pṛthivyān.divi./",
+            "yujāna.indra.haribhir.mahemata.ugra.ṛṣvebhir.ā.gahi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rathirāso.harayo.ye.te.asridha.ojo.vātasya.piprati./",
+            "yebhir.ni.dāsyum.manuṣo.nighoṣayo.yebhis.svaḥ.parīyase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etāvatas.te.vaso.vidyāma.śūra.navyasaḥ./",
+            "yathā.prāvo.maghavan.medhyātithim.yathā.nipātithin.dhane./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā.kaṇve.maghavan.medhe.adhvare.dīrgha.nīthe.damūnasi./",
+            "yathā.gośarye.asiṣāso.adrivo.mayi.gotram.hari.śriyam.//4.(.p.90.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā.manau.sāṃvaraṇam.somam.indra.apibas.sutam./",
+            "nipātithau.maghavan.medhyātithau.puṣṭigau.śruṣṭigau.sacā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pārṣadvānaḥ.praskaṇvam.sam.asādayat.śayānam.jivrim.uddhitam./",
+            "sahasrāṇy.āsiṣāsad.gavām.ṛṣis.tvā.uto.dasyave.vṛkaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ya.ukthebhir.na.vindhate.cikid.ya.ṛṣi.codanaḥ./",
+            "indram.tam.acchā.vada.navyasyā.maty.āviṣyantam.na.bhojase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmā.arkam.sapta.śīrṣāṇam.ānṛcus.tridhātum.uttame.pade./",
+            "sa.tv.imā.viśvā.bhuvanāni.cikradad.ād.ij.janiṣṭa.pauṃsyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.no.dātā.vasūnām.indram.tam.hūmahe.vayam./",
+            "vidmā.hy.asya.sumatim.navīyasīm.gamema.gomati.vraje.//5"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmai.tvam.vaso.dānāya.śikṣasi.sa.rāyas.poṣam.aśnute./",
+            "tan.tvā.vayam.maghavann.indra.gīrvaṇas.sutāvanto.havāmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kadā.cana.starīr.asi.na.indra.saścasi.dāśuṣe./",
+            "upa.upa.in.nu.maghavan.bhūya.in.nu.t.dānan.devasya.pṛcyate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.yo.nanakṣe.abhy.ojasā.krivim.vadhaiś.śuṣṇam.nighoṣayan./",
+            "yadā.id.astambhīt.prathayann.amūn.divam.ād.ij.janiṣṭa.pārthivaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasya.ayam.viśva.āryo.dāsaś.śevadhipā.ariḥ./",
+            "tiraś.cid.arye.ruśame.pavīravi.tubhyet.so.ajyate.rayiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "turaṇyavo.madhumanto.ghṛta.ścuto.viprāso.arkam.ānṛcuḥ./",
+            "asme.rayiḥ.paprathe.vṛṣṇyam.śavo.asme.suvānāsa.indavaḥ.//6.(.p.91.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā.manau.vivasvati.somam.śakra.apibas.sutam./",
+            "yathā.trite.chanda.indra.jujoṣasy.āyau.mādayase.sacā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pṛṣadhre.ṃdhye.mātariśvani.indra.suvāne.amandathaḥ./",
+            "yathā.somam.daśa.sipre.daśoṇye.(.daśa.uṇye.).syūma.raśmāv.ṛjīnasi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ya.ukthā.kevalā.dadhe.yas.somam.dhṛṣata.apibat./",
+            "yasmai.viṣṇus.trīṇi.padā.vicakrama.upa.mitrasya.dharmabhiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasya.tvam.indra.stomeṣu.cākano.vāje.vājin.śata.krato./",
+            "tan.tvā.vayam.sudughām.iva.goduhe.juhūmasi.śravassu.ca./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.no.dātā.sa.naḥ.pitā.mahān.ugra.īśāna.kṛt./",
+            "ayāmann.ugro.maghavā.purūvasur.gor.aśvasya.pra.dāti.naḥ.//7"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmai.tvam.vaso.dānāya.manhase.sa.rāyas.poṣam.invati./",
+            "vasūyavo.vasu.patim.śata.kratum.stomair.indram.havāmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kadā.cana.pra.yucchasy.ubḥ.ni.pāsi.janmanī./",
+            "turīya.āditya.savanam.ta.indriyam.ā.tasthāv.amṛtam.divi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmai.tvam.maghavann.indra.girvaṇas.śikṣo.śikṣati.dāśuṣe./",
+            "asmākam.gira.uta.suṣṭutim.vaso.kaṇvavat.śṛṇudhī.havam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "astāvi.manma.pūrvyam.brahma.indrāya.vocata./",
+            "pūrvīr.ṛtasya.bṛhatir.anūṣata.stotur.medhā.asṛkṣata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sam.indro.rāyo.bṛhatīr.adhūnuta.sam.kṣoṇī.sam.u.sūryam./",
+            "sam.śukrāsaś.śucayas.sam.gavāśiras.somā.indram.amandiṣuḥ.//8.(.p.92.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upaman.tvā.maghonām.jyeṣṭham.ca.vṛṣabhāṇām./",
+            "pūrbhittamam.maghavann.indra.govidam.īśānam.rāya.īmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ya.āyan.kutsam.atithigvam.ardayo.vāvṛdhāno.dive.dive./",
+            "tan.tvā.vayam.haryaśvam.śatakratum.vājayanto.havāmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.no.viśveṣām.rasam.madhvas.siñcanty.adrayaḥ./",
+            "ye.parāvati.sunvire.janeṣv.ā.ye.arvāvatī.indavaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśvā.dveṣāṃsi.jahi.ca.ava.cā.kṛdhi.viśve.sunvantv.ā.vasu./",
+            "śīrṣṭeṣu.cit.te.madirāso.aṃśavo.yatrā.somasya.tṛmpasi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indra.nedīya.ā.id.ihi.mita.medhābhir.ūtibhiḥ./",
+            "ā.śantama.śaṃtamābhir.abhiṣṭibhir.ā.svāpe.svāpibhiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āji.turam.satpatim.viśva.carṣaṇim.kṛdhi.prajāsv.ābhagam./",
+            "pra.sū.tirā.śacībhir.ye.ta.ukthinaḥ.kratum.punata.ānuṣak./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas.te.sādhiṣṭho.avase.te.syāma.bhareṣu.te./",
+            "vītihotrābhir.uta.deva.hūtibhis.sasavāṃso.viśṛṇvire./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aham.hi.te.harivo.brahma.vājayur.ājim.yāmi.sadotibhiḥ./",
+            "tvām.id.eva.tam.ame.sam.aśvayur.gavyur.agre.matīnām.//10"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etat.ta.inra.vīryam.gīrbhir.gṛṇanti.kāravaḥ./",
+            "te.stobhanta.ūrjam.āvan.ghṛta.ścutam.paprāso.nakṣan.dhītibhiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nakṣanta.indram.avase.ṣukṛtyayā.yeṣām.suteṣu.mandase./",
+            "yathā.saṃvarte.amado.yathā.kṛśa.eva.asme.indra.matsva./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.no.viśve.sajoṣaso.devāso.gantana.upa.naḥ./",
+            "vasavo.rudrā.avase.na.ā.gamam.śṛṇvantu.maruto.havam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pūṣā.viṣṇur.havanam.me.arasvaty.avantu.sapta.sindhavaḥ./",
+            "āpo.vātaḥ.parvatāso.vanaspatiś.śṛṇotu.pṛthivī.havam.//11"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.indra.rādho.asti.te.maghonam.maghavattama./",
+            "tena.no.bodhi.sadhamādyo.vṛdhe.bhago.dānāya.vṛtrahan.|.(.p.94.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ājipate.nṛpate.tvam.id.dhi.no.vāja.ābhakṣi.sukrato./",
+            "vayam.hotrābhir.uta.deva.hūtibhis.sasavāṃso.manāmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "santi.hy.arya.āśiṣa.indra.āyur.janānām./",
+            "asmān.nakṣasva.maghavann.upa.avase.dhukṣasva.pipyuṣīm.iṣam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vayam.ta.indra.stomebhir.vidhema.tvam.asmākam.śatakrato./",
+            "mahi.sthūram.śaśayam.rādho.ahrayam.praskaṇvāya.intosaya.//12"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhūri.id.indrasya.vīryam.vy.akhyam.abhyājati./",
+            "rādhas.te.dasyave.vṛka./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śatam.śvetāsa.ukṣaṇo.divi.tāro.na.rocante./",
+            "mahnā.ivan.na.tastabhuḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śatam.veṇum.śatam.śunas.śatam.carmaṇī.ṃlātāni./",
+            "śatam.me.balbaja.stukā.aruṣīṇām.catuśśatam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sudevās.stha.kaṇvāyanā.vayo.vayo.vicarantaḥ./",
+            "aśvāso.na.caṅkṣamata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ād.it.saptasya.carkirann.ānūnam.ca.mahi.śravaḥ./",
+            "śyāvīr.atidhvasan.pathas.cakṣuṣā.cana.samnaśe.//13"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prati.te.dasyave.vṛka.rādho.adarśy.ahrayam./",
+            "dyaur.na.prathinā.śavaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "daśa.mahyam.pūta.kratus.sahasrā.dasyave.vṛkaḥ./",
+            "nityād.rāyo.amanhata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śatam.me.gardabhānām.śatam.ūrṇāvatīnām./",
+            "śatam.dāśam.adhi.srajaḥ.|.(.p.94.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatro.api.prāṇīyata.pūta.kratāyī.vyaktā./",
+            "aśvānām.in.na.yūthyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "acety.agniś.cikitir.havyavāṭ.sa.sumadrathaḥ./",
+            "agniś.śukreṇa.śociṣā.bṛhat.sūryo.arocata.divi.sūryo.arocata./",
+            "agna.āyāhy.agnibhiḥ.//14"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "tvam.drapsam.dhanuṣā.yudhyamānam.upātiṣṭho.maghavann.aṃśumatyāḥ./",
+            "pra.śūra.āpas.sanitā.dhanāni.indra.tāni.te.purukṛt.sahāṃsi./",
+            "tvam.ha.tyat.saptabhyo.jāyamānaḥ.//15"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "pāvamānīs.svastyayanīs.sudughā.hi.ghṛta.ścutaḥ./",
+            "ṛṣibhis.sambhṛto.raso.brāhmaṇeṣv.amṛtam.hitam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāvamānīr.diśantu.na.imam.lokam.atho.amum./",
+            "kāmān.samardhayantu.no.devair.devīs.samāhṛtāḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.devāḥ.pavitreṇa.ātmānam.punate.sadā./",
+            "(.tena.sahasra.dhāreṇa.pāvamānyaḥ.punantu.mā.)./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prājāpatyam.pavitram.śata.udyāmam.(.śatodyāmam.).ṇhiraṇmayam./",
+            "tena.brahmavido.vayam.pūtam.brahma.punīmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indras.sunītī.saha.mā.punātu.somas.svastyā.varuṇas.samīcyā./",
+            "yamo.rājā.pramṛṇābhiḥ.punātu.mām.jātavedā.morjayantyā.(.mā.ūrjayantyā.).punātu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāvamānīs.svastyayanīr.yābhir.gacchati.nāndanam./",
+            "puṇyāṃś.ca.bhakṣān.bhakṣayaty.).amṛtatvam.ca.gacchati./",
+            "pra.devam.acchā.madhumanta.//16.(.p.95.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "yan.me.garbhe.vasataḥ.pāpam.ugram.yaj.jāyamānasya.ca.kiṃcid.anyat./",
+            "jātasya.ca.yac.ca.api.ca.vardhato.me.tat.pāvamānībhir.aham.punāmi.|.(.p.96.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mātā.pitror.yan.na.kṛtam.vaco.me.yat.sthāvaram.jaṅgamam.ābabhūva./",
+            "viśvasya.yat.prahṛṣitam.vaco.me.tat.pāvamānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kraya.vikrayād.yoni.doṣād.bhakṣād.bhojyāt.pratigrahāt./",
+            "asambhojanāc.ca.api.nṛśaṃsam.tat.pāvamānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "goghnāt.taskaratvāt.strī.vadhād.yac.ca.kilbiṣam./",
+            "pāpakam.ca.caraṇebhyas.tat.pāpavānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahma.vadhāt.surā.pānāt.suvarṇa.steyād.vṛṣali.mithuna.saṃgamāt./",
+            "guror.dārā.abhigamanāc.ca.tat.pāpavānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bālaghnān.mātṛ.pitṛ.vadhād.bhūmi.taskarāt.sarva.varṇa.gamana.mithuna.saṃgamāt./",
+            "pāpebhyaś.ca.pratigrahāt.sadyaḥ.praharanti.sarva.duṣkṛtam.tat.pāvamānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "amantram.annam.yat.kiṃcidd.hūyate.ca.huta.aśane./",
+            "saṃvatsara.kṛtam.pāpam.tat.pāvamānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "duryaṣṭam.duradhītam.pāpam.yac.ca.ajñānato.kṛtam./",
+            "ayājitāś.ca.asamyājyās.tat.pāvamānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛtasya.yonayo.amṛtasya.dhāma.sarvā.devebhyaḥ.puṇya.gandhā./",
+            "tā.na.āpaḥ.pravahantu.pāpam.śrddhā.gacchāmi.sukṛtām.u.lokam.tat.pāvamānībhir.aham.punāmi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "= vs. 5 des Ms."
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "= vss. 1-4 des Ms; 15=obigem vs. 6 des Ms."
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pāvamānīm.pitṝn.devān.dhyāyed.yaś.ca.sarasvatīm./",
+            "pitṝṃs.tasya.upatiṣṭheta.kṣīram.sarpir.madhu.udakam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛṣayas.tu.tapas.tepuḥ.sarve.svarga.jigīṣavaḥ./",
+            "tapasas.tapaso.agryam.tu.pāvamānīr.ṛco.japet./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāvamānam.param.brahma.ye.paṭhanti.manīṣiṇaḥ./",
+            "sapta.janma.bhaved.vipro.dhana.āḍhyo.veda.pāragaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "daśa.uttarāṇy.ṛcām.ca.etat.pāvamānīḥ.śatāni.ṣaṭ./",
+            "etaj.juhvam.japaṃś.caiva.ghoram.mṛtyu.bhayam.jayet./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāvamānam.param.brahma.śukra.jyotiḥ.sanātanam./",
+            "ṛṣīṃs.tasya.upatiṣṭheta.kṣīram.sarpir.madhu.udakam./ (.p.97.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iḍā.eva.(.vām.anuvastām.ghṛtena.yasyāḥ.pade.puna.).te.(.punate.).devayantaḥ./",
+            "ghṛta.padī.śakvarī.soma.pṛṣṭha.upa.yajñam.asthita.vaiśvadevī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vaiśvadevī.punatī.devy.ā.(.gāad.(.āgād.).yasyām.imā.bahvyas.ta.).nvo.(.tanvo.).vīta.pṛṣṭhāḥ./",
+            "tayā.madantas.sadha.mādhyeṣu.vayam.syāma.patayo.rayiṇām./",
+            "pra.tu.drava.pari.kośan.niṣīda.//17"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "yatra.lokyās.tanu.tyajāś.śraddhayā.tapasā.jitāḥ./",
+            "tejaś.ca.yatra.brahma.ca.tatra.mām.amṛtam.kṛdhi.indrāya.indo.parisrava.|.(.p.98.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yatra.devā.mahātmānas.sa.indras.(.sendras.).samarud.gaṇāḥ./",
+            "brahmā.ca.yatra.viṣṇuś.ca.tatra.mām.amṛtam.kṛdhi.indrāya.indo.parisrava./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yatra.tat.paramam.padam.viṣṇor.loke.mahīyate./",
+            "devais.sukṛta.karmabhis.tatra.mām.amṛtam.kṛdhi.indrāya.indo.parisrava./ yatra.ānandāś.ca.modāś.ca.//18"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sasruṣīs.tad.apaso.divā.naktam.ca.sasruṣīḥ./",
+            "vareṇya.kratur.aham.ā.devīr.avasā.huve./",
+            "o.cit.sakhāyam.sakhyā.vavṛtyām.//19.(.p.99.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "ehi.indra.vasumatā.rathena.sākam.somam.apiban.madāya./",
+            "hṛtsu.pītvā.mandasāno.marudbhis.stīrṇam.yāhi.vṛtra.hatyāya.vajrī./",
+            "indra.somam.imam.piba.//20.(.p.100.)."
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "mama.vrate.hṛdayam.te.dadhāmi.mama.cittam.anu.cittam.te.astu./",
+            "mama.vācam.eka.vratā.juṣasva.bṛhaspatis.tvā.niyunaktu.mahyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhātā.tvā.mahyam.adadan.mahyam.dhātā.dadhātu.tvā./",
+            "pra.dhātā.tvā.mahyam.prāyacchan.mahyam.tvā.anumatir.dadau./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anumatenu.manyasva.svānumatenu.manyasva./",
+            "mahyam.enam.sam.ākuru.vācā.cakṣuṣā.manasā.mayi.samyatam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āharayat.te.hṛdayam.tad.astu.hṛdayam.mama./",
+            "atho.yan.mama.hṛdayam.tad.astu.hṛdayam.tava./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hṛdayena.hṛdayam.prāṇena.prāṇam.agṛbham./",
+            "gṛbhṇāmi.cakṣuṣā.cakṣur.gṛbhṇāmi.manasā.manaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ākūtam.cittam.cakṣuś.śrotram.atho.balam./",
+            "śriyam.yām.devā.jagmus.tayā.badhnāmi.te.manaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "annamayena.maṇinā.prāṇa.sūtreṇa.pṛśninā./",
+            "badhnāmi.satya.grathinā.hṛdayam.ca.manaś.ca.te./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āvartanam.nivartanam.mayā.saṃvananam.tava./",
+            "indrāgnī.aśvinā.ubhā.tvaṣṭā.dhātā.ca.cakratuḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.cittena.vadasi.yena.tvā.anyo.abhidāsati./",
+            "sarvam.tad.agna.ābhara.mahyam.dāsāya.rādhyaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anuvanam.suvanam.udvanam.vanam./",
+            "gharmasya.paśya.rūpāṇi.tena.badhnāmi.te.manaḥ.//22.(.p.100.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sam.mā.viśantu.paśavas.sam.mā.viśantv.oṣadhīḥ./",
+            "sam.mā.viśantu.rājāno.yathā.aham.kāmaye.tathā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ananta.roham.tubhyam.bhūyāsam.hṛdayam.me.bhūyāsam.anantaram./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sabhā.sam.āsāv.ituś.ca.avatām.ubhe.prajāpater.duhitārau.sacetasau./",
+            "saṃgatheṣu.pade.cāru.namo.vaiśvānarāya.adhi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "(...).ya.padena.ta.ā.te.prāṇān.samādade./",
+            "atho.etat.samādade.yad.anyeṣu.janeṣu.ca./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aham.te.cakṣuṣā.cakṣur.aham.te.manasā.manaḥ./",
+            "aham.gandharva.rūpeṇa.sana.āvartayāmi.te./23"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hata.citto.hata.mano.hato.anyeṣu.te.manaḥ./",
+            "sarveṣu.kṛṣṇa.keśeṣu.hato.anyeṣu.te.manaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mām.ca.eva.paśya.sūryam.ca.mā.tṛtīyam.kadācana./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "smṛtir.asi.kāma.saṃjananī.mayi.te.kāmo.astu./",
+            "yat.te.mano.vareṇyam.lokeṣu.bahudhā.kṛtam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "samudram.iva.saritas.sarvam.tvā.anuvartayāmasi./",
+            "ādīpayāmi.te.hṛdayam.agnā.me.va.pradīpayāmasi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "eṣa.te.hṛdaya.iṅgāro.dīptas.te.asmi.dahyase./",
+            "mayā.te.dahyamānasya.agnir.dāṃsena.na.tṛpyatu.bhūmir.dāṃsena.tṛpyatu.//24"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "cittam.ca.te.manaś.ca.te.mayi.dhātā.niyacchatu./",
+            "mayi.te.cittam.āyattam.manas.te.mayi.samaśnute./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āvṛtās.te.mayā.prā.(..",
+            "blank."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "naṣṭam.te.kṛpam.anyasmin.mayi.te.ramatām.manaḥ./",
+            "anu.(...).manaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "cakṣuś.śrotram.ca.adhītam.ca.sarvam.te.aham.ādade./",
+            "hṛdya.ṛṣir.ajāyata.de.(...).|.(.p.101.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tad.eva.eṣv.adadhur.hṛdayeṣv.artha.darśinam./",
+            "sarvajñam.sarva.darśinam.sa.naḥ.karmāṇi.sādhaya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.(...).stava.jātavedaḥ.praviṣṭā.agnir.durhṛdayasya.karma./",
+            "teṣām.aham.bhāgadheyam.juhomi.tam.mā.devās.sarvaiḥ.kāmais.tarpayantām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhṛgūṇām.aṅgirasām.tapaso.gṛṇa.samyatam./",
+            "kuśika.abhyavarāṇām.ca.mana.āvartayāmi.te./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yat.te.mano.vareṇyam.lokeṣu.bahudhā.kṛtam./",
+            "tat.ta.āvartayāmasy.adhriś.ca.ahaś.ca.brāhmaṇaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yat.kakṣīvān.saṃvananam.putro.aṅgirasām.avet./",
+            "tena.no.adya.viśve.devās.sam.priyām.sam.avīvanan.//26.(.p.102.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uttuda.enam.gṛhapate.jñātebhyaś.śayanād.adhi./",
+            "grīvā.gṛhītvā.uttiṣṭha.pādato.na.viveśaya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ut.khād.udantu.maruta.ut.samudrām.ato.dadhi./",
+            "kratvāyam.agnir.dahatu.kratvā.tapatu.sūryaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kāma.śayyā.arthe.abhitaptām.yathā.striyam.śoṣayasi./",
+            "evam.śoṣaya.no.rātīr.divā.naktam.daśasyatam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "imām.me.mitrāvaruṇau.kṛdhi.cittena.vyasyatām./",
+            "dattvā.pītvā.agrataḥ.kṛtvā.yathā.asyām.devaśo.vaśe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parān.kṛṇuṣva.dāsān.devī.vaśān.anvavāyinaḥ.//",
+            "adhiṣṭhāya.padā.mūrdhni.sānvayam.śāśvatīs.samā.//27"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛtubhis.tvā.ārtavebhir.āyuṣā.saha.varcasā./",
+            "saṃvatsarasya.tejasā.tena.mā.saha.śundhata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anena.brahmaṇā.agne.tvam.ayam.ca.indro.na.īḍitaḥ./",
+            "saṃrājam.ca.ādhipatyam.ca.svānām.kṛṇu.tam.uttamam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agne.nijahi.saṃhitān.iṣūn.marmaṇi.marmaṇi./",
+            "khādiram.hṛdi.śaṅkum.no.dviṣato.na.viveśaya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "satyena.uttabhitā.bhūmiḥ.//28.(.p.103.)."
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhruvaidhi.poṣyā.mayi.mahyan.tvādād.bṛhaspatiḥ./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mayā.patyā.prajāvatī.saṃjīva.śaradaś.śatam./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vi.hi.sotor.asṛkṣata.//29"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avidhavā.bhava.varṣāṇi.śatam.sāgram.tu.suvratā./",
+            "tejasvī.ca.yaśasvī.ca.dharma.patnī.pati.vratā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "janayad.bahu.putrāṇi.mā.ca.duhkham.labhet.kvacit./",
+            "bhartā.te.somapā.nityam.bhaved.dharma.parāyaṇaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṣṭa.putrā.bhava.tvam.ca.subhagā.ca.pati.vratā./",
+            "bhartuś.caiva.pitur.bhrātur.hṛdaya.ānandinī.sadā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indrasya.tu.yathā.indrāṇī.śrīdharasya.yathā.śriyā./",
+            "śaṃkarasya.yathā.gaurī.tad.bhartur.api.bhartari./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atrer.yathā.anusūyā.syād.vasiṣṭhasya.apy.arundhatī./",
+            "kauśikasya.yathā.satī.tathā.tvam.api.bhartari.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "eka.eva.agnir.bahudhā.samiddha.ekas.sūryo.viśvam.anu.prabhūtam./",
+            "ekā.eva.uṣās.sarvam.idam.vibhāty.ekā.eva.iḍam.vibabhūva.sarvam.|.(.p.104.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yam.ṛtvijo.bahudhā.kalpayantas.sacetaso.yajñam.imam.vahanti./",
+            "yo.anūcāno.brāhmaṇo.yukta.āste.kā.svit.tatra.yajamānasya.saṃvit./",
+            "yāvan.mātram.uṣaso.na.pratīkam.//30"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "ud.apaptama.vasater.vayo.yathā.riṇantv.ā.bhṛgavo.manyamānāḥ./",
+            "purūravaḥ.punar.astam.parehi.yāme.mano.deva.janā.ayāt.svaḥ.|.pra.te.mahe.vidathe.śaṃsiṣam.harī.//31.(.p.105.)."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.(...).yad.akṛtam.yad.enas.cakṛmā.vayam./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "oṣadhayas.tasmāt.pāntu.duritād.enasas.pari./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bṛhaspate.prati.me.devatām.ihi.//32.(.p.105.)."
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "asau.yā.senā.marutaḥ.pareṣām.abhyaiti.na.ojasā.spardhamānā./",
+            "tām.gūhata.tamasā.apavratena.yathā.amīṣām.anyo.anyan.nā.jānāt./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "andhā.amitrā.bhavatā.aśīrṣāṇo.ahaya.iva./",
+            "teṣām.vo.agni.dagdhānām.indro.hantu.varam.varam.//33"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahma.jajñānam.prathamam.purastāt.vi.sīmatas.suruco.vena.āvaḥ./",
+            "sa.budhnyā.upamā.asya.viṣṭhās.sataś.ca.yonim.asataś.ca.vivaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iyam.pitre.rāṣṭry.ety.agre.prathamāya.januṣe.bhūmaneṣṭhāḥ./",
+            "tasmā.etam.surucam.hvāramahyam.gharmam.śrīṇanti.prathamāya.dhāseḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahān.mahī.astabhayad.vijāto.dyām.pitā.sadma.pārthivam.ca.rajaḥ./",
+            "sa.budhnyād.āṣṭa.januṣā.abhy.ugram.bṛhaspatir.devatā.tasya.saṃrāṭ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "{.abhi.tyam.devam.savitāram.oṇyoḥ.kavi.kratum.",
+            "{.arcāmi.satya.savam.ratnadhām.abhi.priyam.matim.kavim.|.(.p.106.).",
+            "{.ūrdhva.yasya.amatir.bhā.adidyutat.savīmani.",
+            "{.hiraṇya.pāṇir.amimīta.sukratuḥ.kṛpā.svaḥ.//34"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "tā.sūryā.candramasā.gātuvittamā.mahat.tejo.vasumad.bhrājato.divi./",
+            "sāma.ātmanā.caratas.sāma.cāriṇā.yayor.vratam.na.vase.jātu.devayoḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "(.ubhāv.antau.pariyāta.armyā.divo.na.raśmīṃs.tanuto.vy.arṇave./",
+            "ubhā.bhuvantī.bhuvanā.kavi.kratū.sūryā.na.candrā.carato.hatāmatī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "patī.dyumad.viśvavidā.ubhā.divas.sūryā.ubhā.candramasā.vicakṣaṇā./",
+            "viśva.vārā.varivā.ubhā.vareṇyā.tā.).no.avatam.matimantā.mahi.vratā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśva.vaparī.prata.(.raṇā.(.prataraṇā.).tarantā.suvarvidā.dṛśaye.bhūri.raśmī./",
+            "sūryā.hi.candrā.vasu.tve.).ṣadarśatā.(.tveṣa.darśatā.).manasvinā.ubhā.anucarato.nu.san.divam.//35"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "asya.śravo.nadyas.sapta.bibhrati.dyāvā.kṣāmā.pṛthivī.darśatam.vapuḥ./",
+            "asme.sūryā.candramasā.abhicakṣe.śraddhe.kam.indra.carato.vitarturam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pūrva.aparam.carato.māyayā.etau.śiśū.krīḍantau.pari.yāto.adhvaram./",
+            "viśvāny.anyo.bhuvanā.abhicaṣṭa.ṛtūṃr.anyo.vidadhaj.jāyate.punaḥ./",
+            "asāvi.somaḥ.puru.hūta.tubhyam.//36.(.p.107.)."
+          ],
+          "line_count": 3
+        }
+      ],
+      "prose_sample": [
+        "<.abhi.>.daśa.praskaṇvaḥ.pragātham.tu.<.pra.>.puṣṭigur.<.yathā.>.śruṣṭigur.<.yathā.āyur.upamam.>.aṣṭau.medhya.<.etat.te.>.mātariśvā.dvitīyaḥ.prāgātho.vaiśvadevo.<.bhūri.>.pañca.kṛśaḥ.pṛṣadhrasya.dāna.stutis.tu.gāyatram.tu.tṛtīya.pañcamyāv.anuṣṭubhau.<.prati.>.pṛṣadhraḥ.pāṅkty.antam.saliṅga.uktā.devatā.<.tvam.ekā.pāvamānīṣ.>.ṣaḍ.vaiśvadevam.antyā.ādye.ca.pāvamānī.stutiḥ.pañcamī.triṣṭub.<.iḍaiva.>.dve.bṛhaddivo.<.yatra.>.tisras.<.sasruṣīr.ekaihi.mama.>.d\nvātriṃśat.prājāpatyo.hṛdyo.vaiśvadevam.tu.vivāha.artha.āśīs.tv.ānuṣṭubham.tv.ādyā.triṣṭup.tṛtīya.viṃśī.pañcaviṃśyaḥ.paṅktayo.daśamī.pra.uṣṇig.(.puroṣṇig.).dvādaśa.ādye.āstāra.paṅktiḥ.prastāra.paṅktir.ekona.viṃśī.bṛhaty.ekona.triṃśī.triṣṭub.jagatī.iva.--\n<.ud.>.aṣṭau.parāga.dāso.<.dhruva.>.ekā.<.eko.>.dve.<.ud.>.ekā.<.yac.ca.asau.>.dve.<.brahma.>.daśa.vāmadevyo.nakulas.saurī.gharma.stutir.bārhaspatyā.sāvitry.aṣṭir.gharma.parā.etās.sauryaś.cāndramasyaś.ca.śeṣā.jagatyaḥ.//"
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "verse_count": 129,
+      "verse_groups": [
+        {
+          "lines": [
+            "ā.yasmin.deva.vītaye.putrāso.yantu.samyataḥ./",
+            "anādhṛṣṭam.vipanyayā.śrutāya.vo.dhṛṣat./",
+            "aham.rudrebhir.vasubhiś.carāmi.//1"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "ā.rātri.pārthivam.rajaḥ.pitur.aprāyi.dhāmabhiḥ./",
+            "divas.sadāṃsi.bṛhatī.vitiṣṭhasa.ā.tveṣam.vartate.tamaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.te.rātri.nṛcakṣaso.yuktāso.navatīr.nava./",
+            "aśītis.santv.aṣṭā.uto.sapta.saptatiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rātrim.prapadye.jananīm.sarva.bhūta.niveśanīm./",
+            "bhadrām.bhagavatīm.kṛṣṇām.viśvasya.jagato.niśām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃveśanīm.samyamanīm.graha.nakṣatra.mālinīm./",
+            "prapanno.aham.śivām.rātrīm.bhadre.pāram.aśīmahi./",
+            "mama.agne.varco.vihaveṣv.astu.//2(p.110)"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "stoṣyāmi.prayato.devīm.śaraṇyām.bahvṛca.priyam./",
+            "sahasra.sammitām.durgām.jātavedase.sunavāma.somam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śānty.artham.tad.dvijātīnām.ṛṣibhiḥ.samupaśritāḥ./",
+            "ṛgvede.tvam.samutpanna.arātīyato.nidahāti.vedaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.tvām.devi.prapadyanti.brāhmaṇā.havya.vāhanīm./",
+            "avidyā.bahu.vidyā.vā.sa.naḥ.parṣad.ati.durgāṇi.viśvā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.agni.varṇām.śubhām.saumyām.kīrtayiṣyanti.ye.dvijāḥ./",
+            "tām.tārayati.durgāṇi.nava.iva.sindhum.duritāty.agniḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "durgeṣu.viṣame.ghore.saṃgrāme.ripu.saṃkaṭe./",
+            "agni.cora.nipāteṣu.duṣṭa.graha.nivāraṇe.duṣṭa.graha.nivāraṇy.om.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "durgeṣu.viṣameṣu.tvam.saṃgrāmeṣu.vaneṣu.ca./",
+            "mohayitvā.prapadyante.teṣām.me.abhayam.kuru.teṣām.me.abhayam.kurv.om.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "keśinīm.sarva.bhūtānām.pañcamī.iti.ca.nāma.ca./",
+            "sā.mām.samām.diśām.devī.sarvataḥ.parirakṣatu.sarvataḥ.parirakṣatu.om.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tām.agni.varṇām.tapasā.jvalantīm.vairocanīm.karma.phaleṣu.juṣṭām./(p.111)",
+            "durgām.devīm.śaraṇam.aham.prapadye.sutarasi.tarase.namaḥ.sutarasi.tarase.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "durgā.durgeṣu.sthāneṣu.śam.no.devīr.abhiṣṭaye./",
+            "ya.imam.durgā.stavam.puṇyam.rātrau.rātrau.sadā.paṭhet./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rātriḥ.kuśikaḥ.saubharo.rātrir.vā.bhāradvājī.rātri.stavam.gāyatram./",
+            "rātrī.sūktam.japen.nityam.tat.kāla.upapadyate.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "arvāñcam.indram.amuto.havāmahe.yo.gojid.dhanajid.aśvajid.yaḥ./",
+            "imam.no.yajñam.vihave.juṣasva.iha.kurmo.harivo.vedinau.tvā.//3(p.112)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namas.te.astu.vidyute.namas.te.stanayitnave./",
+            "namas.te.astv.aśmane.yo.mā.dūṇāśo.asyasi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namas.te.pravato.napād.yattas.tapas.samūhasi./",
+            "mṛḍayā.nas.tanubhyo.abhayam.naḥ.paśubhyaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pravato.napān.nama.eva.astu.tubhyam.namas.te.hetaye.tapuṣe.ca.kṛṇmaḥ./",
+            "vidmā.te.nāma.paramam.guhā.yat.samudre.antar.nihitā.api.na.asi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yām.tvā.devā.ajaniṣṭa.dhiṣva.dhiyam.kṛṇvānā.asanāya.vājam./",
+            "sā.no.mṛḍa.vidathe.gṛṇānā.tasyai.te.namo.astu.devi.//4"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yām.kalpayanti.no.arayaḥ.krūrām.kṛtyām.vadhūm.iva./",
+            "tām.brahmaṇā.pari.nijmaḥ.pratyak.kartāram.ṛcchatu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śīrṣaṇvatīm.karṇavatīm.viśva.rūpām.bhayam.karīm./",
+            "yaḥ.prāhiṇomi.hādya.tvā.vi.tat.tvam.yojaya.aśubhi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yna.cittena.vadasi.pratikūlam.aghāyūni./",
+            "tam.evam.te.ni.kṛtye.ha.mā.asmān.ṛṣyo.anāgasaḥ./(p.113)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "abhivartasva.kartāram.nirastā.asmābhir.ojasā./",
+            "āyur.asya.nivartasva.prajām.ca.puruṣādini./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas.tvā.kṛtye.cakāra.iha.tan.tvam.gaccha.punarnave./",
+            "arātīḥ.kṛtyān.nāśaya.sarvāś.ca.yātu.dhānyaḥ.//5"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṣipram.kṛtye.nivartasva.kartur.eva.gṛhān.prati./",
+            "paśūṃś.ca.avāsya.nāśaya.vīrāṃś.ca.asya.nibārhaya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas.tvā.kṛtye.pra.jigāti...",
+            "..."
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas.te.parūṃṣi.saṃdadhau.rathasya.iva.ṛbhur.dhiyā./",
+            "tam.gṛccha.tatra.te.janam.ajñātas.te.yam.janaḥ.//6"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "..kaścid.vā.nyabhihiṃsati./",
+            "tasya.tvam.dror.iva.iddho.agnis.tanuḥ.pṛcchasva.heḍitaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bḥ....sya.te.pāpa.kṛtvane./",
+            "harasvatīs.tvam.ca.kṛtye.na.ut.śiras.tasya.kiṃcana./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.no.śivāsaḥ.panthānaḥ.parāyānti.parāvatam./",
+            "tair.devy.arātīḥ.kṛtyā.no.gamayasvā.nivartaya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.naḥ.kaścid.druho.arātir.manasā.apy.abhidāsati./",
+            "dūrastho.vā.antikastho.vā.tasya.hṛdyam.asṛk.piba./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.asi.kṛtye.prahitā.dūḍhyena.asmaj.jighāṃsayā./",
+            "tasya.vyanac.ca.avyanac.ca.hinastu.śaradā.aśaniḥ.//7"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yady.u.vaiṣi.dvipady.asmān.yadi.vaiṣi.catuṣpadī./",
+            "nirastāto.avratā.asmābhiḥ.kartuḥ.aṣṭāpadī.gṛham./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.nas.śapād.aśapato.yaś.ca.naś.śapataś.śapāt./",
+            "vṛkṣa.iva.vidyutā.hata.ā.mūlād.anuśiṣyatu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yam.dviṣmo.yaś.ca.no.dveṣṭy.aghāyur.yaś.ca.naś.śapāt./",
+            "śune.peṣṭram.iva.avakṣāmam.tam.praty.asyāmi.mṛtyave./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaś.ca.sāpatnaś.śapatho.yaś.ca.jāmyāś.śapathaḥ./",
+            "brahmā.ca.yat.kruddhaś.śapāt.sarvam.tat.kṛdhy.adhaspadam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sabandhuś.ca.asabandhuś.ca.yo.asmān.abhidāsati./",
+            "tasya.tvam.bhindhy.adhiṣṭhāya.padā.viṣpūryate.śiraḥ.//8"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "abhi.prehi.sahasra.akṣam.yuktvā.āśum.śapatha.ratham./",
+            "śatrūṃr.anvicchatī.kṛty.vṛkī.iva.avivṛto.gṛhān./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pari.ṇo.vṛndhi.śapathān.dahann.agnir.iva.vrajam./",
+            "śatrūṃr.eva.ā.vinojahi.divyā.vṛkṣam.iva.aśaniḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śatrūn.me.proṣṭa.śapathān.kṛtyāś.ca.suhṛdo.hṛdyāḥ./",
+            "jihmāś.ślakṣṇāś.ca.durhṛdas.samiddham.jātavedasam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "asapatnam.purastān.naś.śivam.dakṣiṇatas.kṛdhi./",
+            "abhayam.satatam.paścād.bhadram.uttarato.gṛhe./(p.114)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parehi.kṛtye.mā.tiṣṭha.vṛddhasya.iva.padam.naya./",
+            "mṛgasya.hi.mṛgāris.tvam.tan.tvam.nikartum.arhasi.//9"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aghnyāsye.ghora.rūpe.vara.rūpe.vināśani./",
+            "jambhitāḥ.pratyā.gṛbhṇīṣva.svayam.ādāya.adbhutam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvam.indro.yamo.varuṇas.tvam.āpo.agnir.atha.anilaḥ./",
+            "brahmā.caiva.rudraś.ca.tvaṣṭā.caiva.prajāpatiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āvartadhvam.nivartadhvam.ṛtavaḥ.parivatsarāḥ./",
+            "ahorātrāś.ca.abdāś.ca.tvam.diśaḥ.pradiśaś.ca.me./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvam.indro.yamo.varuṇas.tvam.āpo.agnir.atha.anilaḥ./",
+            "atyāhṛtya.paśūn.devān.utpātayasva.adbhutam.//10"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "abhyaktās.tās.svalaṃkṛtās.sarvān.no.duritam.jahi./",
+            "jānīthāś.caiva.kṛtyānām.kartṝn.nṝn.pāpa.cetasaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā.hanti.pūrva.asinam.tayā.eva.iṣvā.asakṛj.janaḥ./",
+            "tathā.tvayā.yujā.vayam.tasya.nikṛṇma.sthās.tu.jaṅgamam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uttiṣṭhā.eva.parehi.ito.aghnyāsye.kim.iha.icchasi./",
+            "grīvās.te.kṛtye.padā.ca.api.kartsyāmi.nirdrava./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svāyasā.santi.no.asayo.vidmaś.caiva.parūṃṣi.te./",
+            "tai.stha.nikṛṇma.sthāny.ugre.yadi.no.jīvayasva.īm./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mā.asya.ut.śiṣo.dvipadam.moca.kiṃcic.catuṣpadam./",
+            "mā.jñātīr.anujāsvanvā.mā.veśam.prativeśinā.//11"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śatrūyatā.prahitām.imām.yena.abhi.yathā.yathā./",
+            "tatas.tathā.tvā.ānudatu.yo.ayam.antar.mayi.śritaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evam.tvam.nikṛtā.asmābhir.brahmaṇā.devi.sarvaśaḥ./",
+            "yathā.tam.āśritam.kartvā.pāpahīr.eva.no.jahi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "devās.tam.sarve.dhūrvantu.brahma.varma.mama.antaram./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yathā.vidyudd.hato.vṛkṣa.ā.mūlād.anuśuṣyati./",
+            "evam.sa.prati.śuṣyatu.no.me.pāpam.cikīrṣati./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā.pratihitā.bhūtvā.tām.eva.pratidhāvati./",
+            "pāpam.tam.eva.dhāvatu.yo.me.pāpam.cikīrṣati./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kuvīram.te.sukham.rudram.nandīmānam.vimatha.ha./",
+            "brahma.varma.mama.antaram.śarma.varma.mama.antaram.gharma.varma.mama.antaram.//12(p.115)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āyuṣyam.varcasyam.rāyas.poṣam.audbhidam./",
+            "ida.hiraṇyam.varcasvaj.jaitrāyā.viśatād.u.mām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uccair.vāji.pṛtanāṣaṭ.sabhāsāham.dhanaṃjayam./",
+            "sarvās.samagrā.ṛddhayo.hiraṇye.asmin.samāhṛtāḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śunam.aham.hiraṇya.svapitur.nāma.iva.jagrabha./",
+            "tena.mām.sūrya.tvacam.akaram.puruṣa.priyam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃrājam.ca.virājam.ca.abhiṣṭir.yā.ca.me.dhruvā./",
+            "lakṣmī.rāṣṭrasya.yā.mukhe.tayā.mām.indra.saṃsṛja./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agne.ḥ.prajātam.pari.yadd.hiraṇyam.amṛtam.jajñe.adhi.martyeṣu./",
+            "ya.enad.veda.sa.id.enad.arhati.jarā.mṛtyur.bhavati.yo.bibharti.//13"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.veda.rājā.varuṇo.yad.u.devī.sarasvatī./",
+            "indro.yad.vṛtrahā.veda.tan.me.varcasa.āyuṣe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na.tad.rakṣāṃsi.na.piśācās.taranti.devānām.ojaḥ.prathamajām.hy.etat./",
+            "yo.bibharti.dākṣāyaṇā.hiraṇyam.sa.deveṣu.kṛṇute.dīrgham.āyus.sa.manuṣyeṣu.kṛṇute.dīrgham.āyuḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.abadhnan.dākṣāyaṇā.hiraṇyam.śata.anīkāya.sumanasyamānāḥ./(p.117)",
+            "tan.mā.ābadhnāmi.śata.śāradāya.āyuṣmān.jaradaṣṭir.yathā.āsat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ghṛtād.ulluptam.madhumat.suvarṇam.dhanaṃjayam.dharuṇam.dhārayiṣṇu./",
+            "ṛṇak.sapatnān.adharāṃś.ca.kṛṇvad.āroha.mām.mahate.saubhagāya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "priyam.mā.kuru.deveṣu.priyam.rājasu.mā.kuru./",
+            "priyam.viśveṣu.goptreṣu.mayi.dhehi.rucā.rucam./",
+            "na.asad.āsīn.no.sad.āsīt.//14(p.118)"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "bhūmir.mātā.nabhaḥ.pitā.aryamā.te.pitāmahaḥ./",
+            "ghṛtācī.nāma.vā.asi.sā.devānām.asi.svasā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ya.tvā.pibati.jīvati.trāyase.puruṣam.tvam./",
+            "trātriṇī.śaśvatām.asi.śaśvatām.samyañcanī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.daṇḍena.yad.iṣuṇā.yad.vārur.harasā.kṛtam./",
+            "tasya.tvam.asi.niṣkṛtis.sānau.niṣkṛtya.oṣadhīḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vṛkṣam.vṛkṣam.sampatasi.vṛkṣāyanti.iva.kanyanā./",
+            "jayantī.pratyātiṣṭhantī.saṃjeyā.nāma.vā.asi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhadrāt.plakṣe.nistiṣṭha.aśvatthe.khadire.dhave./",
+            "bhadrāt.parṇe.nyagrodhe.sā.mām.rautsīd.arundhatī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśvasya.asṛk.sampatasi.tat.parṇam.abhitiṭhasi./",
+            "sarat.pataty.aruṇasi.sā.mām.rautsīd.arundhatī./(p.119)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇya.parṇe.subhage.so.akṣme.(.sokṣme.).lomaśavakṣaṇe./",
+            "apām.asi.svasā.lākṣe.vāto.ha.ātmā.babhūva.te./",
+            "tava.tya.indra.sakhyeṣu.vahnayaḥ.//15"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "rātrī.mātā.nabhaḥ.pitā.aryamā.te.pitāmahaḥ./",
+            "śilādī.nāma.vā.asi.sā.devānām.asi.svasā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas.tvā.pibati.jīvati.trāyase.puruṣam.tvam./",
+            "dharatrī.ca.śaśvatām.asi.śaśvatām.nyanvañcanīm./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.aṇḍena.yad.uṣṭā.yad.adur.harasā.kṛtam./(p.121)",
+            "tasya.tvam.asi.bhīṣajīm.niṣkṛtir.nāma.vāsī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhadrā.prakṣeṇa.tiṣṭhasy.aśvatthe.khadire.dhave./",
+            "bhadrā.nyagrodhe.parṇe.mā.nehy.arundhatī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vṛkṣam.vṛkṣam.ārohasi.vṛṣaṇyanti.iva.kanyalā./",
+            "jayantī.pratyātiṣṭhantī.saṃjayā.nāma.vāsī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇya.varṇe.yuvate.śuṣme.loma.samakṣaṇe./",
+            "apām.asi.svasā.lākṣe.vāto.yat.sā.babhūvyathe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇya.bāhū.subhage.sūrya.varṇe.vapuṣṭame./",
+            "ṛtam.gacchasi.niṣkṛdhi.sā.imam.niṣkṛdhi.pauruṣam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ghṛtācī.nāma.kānīno.na.babhru.pitā.bhava./",
+            "aśvo.yamasye.śrāvas.tā.asya.ha.astnā.asy.ukṣata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśvasya.astnas.sampatitā.sā.parṇam.abhiśuṣyata./",
+            "sadā.patatinn.asi.mā.nehy.arundhatī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ghṛtācake.vāma.rate.vidyut.parṇe.arundhatī./",
+            "yā.turaṅga.miṣṭā.asi.tvam.aṅga.niṣkarī.yasī./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yat.te.jagradham.piśācais.tat.tarhā.apy.āyatām.punaḥ./",
+            "lākṣā.yadvā.viśva.bheṣajīr.devebhis.trāyatām.saha.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "medhām.mahyam.aṅgiraso.medhām.saptarṣayo.daduḥ./",
+            "medhām.indraś.ca.agniś.ca.medhām.dhātā.dadhātu.me./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "medhām.me.varuṇo.rājā.medhām.devī.sarasvatī./",
+            "medhām.me.aśvinau.devāv.ādhattam.puṣkara.srajā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yā.medhā.apsarassu.gandharveṣu.ca.yan.manaḥ./",
+            "daivī.yā.mānuṣī.medhā.sā.mām.āviśatād.iha./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yan.menu.uktam.tad.ramatām.śakeyam.yad.anubruve./",
+            "niśāmitam.niśāmaye.mayi.śrutam./ saha.vratena.bhūyāsam.brahmaṇā.saṃgamemahi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śarīram.me.vicakṣaṇa.vān.me.madhumad.duhe./",
+            "avṛdham.aham.asau.sūryo.brahmaṇa.āṇīs.stha./ śrutam.me.mā.prahāsīḥ.//16"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "medhām.devīm.manasā.rejamānām.gandharva.juṣṭām.prati.no.juṣasva./",
+            "mahyam.medhām.vada.mahyam.śriyam.vada.medhāvī.bhūyāsam.ajirācariṣṇuḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sadasas.patim.adbhutam.priyam.indrasya.kāmyam./",
+            "sanim.medhām.ayāsiṣam./(p.121)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "medhāvy.aham.sumanās.supratīkaś.śraddhā.manās.satya.matis.suśevaḥ./",
+            "mahā.yaśā.dhārayiṣṇuḥ.pravaktā.bhūyāsam.asya.īśvarayā.prayoge./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yām.medhām.deva.gaṇāḥ.pitaraś.ca.upāsate./",
+            "tayā.mām.adya.medhayā.agne.medhāvinam.kuru.//17(p.122)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā.sūr.etu.parāvato.agnir.gṛhapatis.supratīko.vibhāvasur./ agnir.jyotir.nicāyyaḥ.pṛthivyām.adhyābhara./ yam.āgatya.vājy.adhvānam.sarvā.mṛdho.vidhūnute./ ākramya.vājin.pṛthivīm.agnim.iccha.rucā.tvam./ senām.jigāti.suṣṭutim.sudīdhitir.vibhāvasum.//(p.123)"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhruvam.agnir.no.dūto.rodasī.havyavāḍ.devām.āvakṣad.adhvare./ vipro.dūtaḥ.pariṣkṛto.yakṣaś.ca.yajñiyaḥ.kaviḥ./ apnavānavad.aurvavad.bhṛguvaj.jamadagnivad.../"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mahiṣī.vo.agnir.dhūma.ketur.uṣarbudho.vaiśvānara.uṣasām.agram.akhyad.aty.akramīd.draviṇodā.vājy.arvākas.su.lokam.sukṛtaḥ.pṛthivyām.tataḥ.khanema.supratīkam.agnim.vaiśvānaram.svo.ruhāṇā.adhi.nāke.asminn.adhā.poṣasva.poṣeṇa.punar.no.naṣṭam.ākṛdhi.punar.no.rayim.ākṛdhi.//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na.vai.devān.pīvaro.samyata.ātmā.rorūyamāṇaḥ.kakubhām.acodatte.agne.u.manya.tvam.agne.vratabhṛt.śucir.agne.devān.iha.āvaha.upa.yajñam.haviś.ca.naḥ./ vratāni.bibhrad.vratapā.adabdho.yajā.no.devān.ajaras.suvīraḥ./ dadhad.ratnāni.sumṛḍīko.agne.gopāya.no.jīvase.jātavedaḥ.//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "devo.agnis.sviṣṭakṛt.sudraviṇā.mandraḥ.kavis.satya.manma.āyajī.hotā.hotur.hotur.āāyajīvān.agne.yān.devān.ayāḍ.yān.apiprer.ye.te.hotre.amatsata.tān.sasanuṣīm.hotrān.devaṃgamān.divi.deveṣu.yajñam.eraya.imam.sviṣṭakṛc.ca.agnir.hotā.abhūd.vasuvane.vasudheyasya.namovāke.vīhi./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvam.vahantu.duṣkṛtam.agnim.gīrbhir.havāmahe./ agniś.śukreṇa.śociṣā.bṛhat.sūryo.arocata.divi.sūryo.arocata./ ghṛtair.havyebhir.āhutam.dyumat.sūryo.na.rocan.te.agnau.havyāni.dhattana.agnau.brahmāṇi.kevala.agne.bṛhantam.adhvare./ saścato.dāśuṣo.ghṛtam.evā.tvām.agne.sahobhir.gīrbhir.vatso.avīvṛdhat./ śāsa.itthā.mahāṃsi.//18(p.124)"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "venas.tat.paśyad.bhuvanasya.vidvān.yatra.viśvam.bhuvaty.eka.nīḍam./",
+            "idam.dhenur.aduhaj.jāyamānā.svarvidam.abhyanūṣata.vrā.h/"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.tad.voced.amṛtam.nu.vidvān.gandharvo.nāma.nihitam.guhā.yat./",
+            "trīṇi.padāni.nihitā.guhā.asya.yas.tāni.veda.sa.pituṣ.pitā.āsat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sato.bandhur.janitā.sa.vidhātā.dhāmāni.veda.bhuvanāni.viśvā./",
+            "yatra.devā.amṛtam.anāśānās.tṛtīye.dhāmann.abhy.airayanta./",
+            "akṣībhyām.te.nāsikābhyām.//19(p.126)"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "venas.tat.paśyanta.paramam.padam.yatra.viśvam.bhavaty.ekanaḍam./",
+            "idam.dhenur.aduhaj.jāyamānās.svarvido.abhyanukti.virāṭ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pṛthag.voced.amṛtam.na.vidvān.gandharvo.dhāma.paramam.guhā.yat./",
+            "trīṇi.padāni.hatā.guhāsu.vas.tāni.veda.sa.pituṣ.pitā.āsat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sa.no.bandhur.janitā.sa.vidhantā.dhāmāni.veda.bhuvanāni.viśvā./",
+            "yatra.devā.amṛtām.ānaśānā.samāne.dhāmann.addhīrayanta./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pari.viśvā.bhuvanāny.āyam.upācaṣṭe.prathamajā.ṛtasya./",
+            "vācasi.vāktri.bhuvaneṣṭhā.dhāsram.neṣaṇatveṣo.agniḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pari.dyāvā.pṛthi.sadyāyam.ṛtasya.tantum.vitaram.dṛkeśam./",
+            "devo.devatvam.abhirakṣamāṇas.samānam.bandhum.viparicchade.kaḥ.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.idam.bhūtam.bhuvanam.bhaviṣyat.parigṛhītam.amṛtena.sarvam./",
+            "yena.yajñas.tāyate.sapta.hotā.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.karmāṇy.apaso.manīṣiṇo.yajñe.kṛṇvanti.vidatheṣu.dhīrāḥ./",
+            "yad.apūrvam.yakṣam.antaḥ.prajānān.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yat.prajñānam.uta.ceto.dhṛtiś.ca.yaj.jyotir.antar.amṛtam.prajāsu./",
+            "yasmān.na.ṛte.kiṃcana.karma.kriyate.tan.me.manaś.śiva.saṃkalpam.astu./(p.127)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaj.jāgrato.dūram.udaiti.daivam.tad.u.suptasya.tatha.eva.eti./",
+            "dūraṃgamam.jyotiṣām.jyotir.ekam.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmin.ṛcas.sāma.yajūṃṣi.yasmin.pratiṣṭhitā.ratha.nābhā.vivarāḥ./",
+            "yasmiṃś.cittam.sarvam.otam.prajānān.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "suṣārathir.aśvān.iva.yan.manuṣyān.nenīyate.abhīśubhir.vājina.iva./",
+            "hṛt.prthiṣṭham.yad.ajiram.javiṣṭham.tan.me.manaś.śiva.saṃkalpam.astu.//20"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.atra.ṣaṣṭham.triśatam.śarīram.yajñasya.(...).hyan.nava.nābham.ādyam./",
+            "daśa.pañca.triṃśatam.yat.param.ca.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.pañca.pañcā.daśatam.śatam.ca.sahasram.ca.niyutam.nyarbudam.ca./",
+            "te.yajña.citta.iṣṭakāt.tam.śarīram.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "veda.aham.etam.puruṣam.mahāntam.āditya.varṇam.tamasaḥ.parastāt./",
+            "(..).u.(..).nt.(..).dhīrās.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.karmāṇi.pracaranti.dhīrā.viprā.vācā.manasā.karmaṇā.ca./",
+            "saṃvidam.anu.samyanti.prāṇinas.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.mano.hṛdayam.ye.ca.devā.ye.antarikṣe.bahudhā.caranti./",
+            "ye.srotram.cakṣuṣī.saṃcaranti.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.dyaur.ugrā.pṛthivī.ca.antarikṣam.ye.parvatāḥ.pradiśo.diśaś.ca./",
+            "yena.idam.jagaty.āptam.prajānān.tan.me.manaś.śiva.saṃkalpam.astu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.idam.sarvam.jagato.babhūvur.ye.devā.api.mahato.jātavedāḥ./",
+            "tad.iva.agnis.tapaso.jyotir.ekam.tan.me.manaś.śiva.saṃkalpmam.astu./",
+            "tubhya.idam.(tubhyeyam).indra.pari.ṣicyate.madhu.//21(p.128)"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "yāsām.ūdhaś.caturbilam.madhoḥ.pūrṇam.ghṛtasya.ca./",
+            "tā.nas.santu.payasvatīr.bahvīr.goṣṭhe.ghṛtācyaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upamaitu.mayobhuvam.ūrjam.ca.ojaś.ca.pipratīḥ./",
+            "duhānā.akṣitim.payo.mama.gotre.niviśadhvam.yathā.bhavāmy.uttamaḥ./",
+            "vibhrāḍ.bṛhat.pibatu.somyam.madhu.//22(p.129)"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "nejameṣa.parā.pata.suputraḥ.punar.āpata./",
+            "asyai.me.putra.kāmāyai.garbham.ādhehi.yaḥ.pumān./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā.iyam.pṛthivī.mahyy.uttānā.garbham.ādadhe./",
+            "evam.tam.garbham.ādhehi.daśame.māsi.sūtave./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣṇoś.śraiṣṭhyena.rūpeṇa.asyām.nāryām.gavīnyām./",
+            "pumāṃsam.putram.ādhehi.daśame.māsi.sūtave./",
+            "mahi.trīṇām.avo.astu.//23(p.130)"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "anīkavantam.ūtaye.agnim.gīrbhir.havāmahe./",
+            "sa.naḥ.parṣad.atidviṣaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.nūnam.jātavedasam.//24(p.130)"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "om.<.ā.yasminn.>.ekā.ānuṣṭubham.tu.<.tad.ā.rātri.>.catuṣkam.ādyā.bṛhaty.<.arvāñcam.>.ekā.triṣṭum.<.namas.te.>.catuṣkam.aśmākhāno.vaidyutam.antye.triṣṭubhau.<.yām.>.catvāriṃśat.pratyan.kṛtyā.nāśanam.āśīḥ.pāṅky.antam.<.āyuṣyam.>.daśa.dākṣāyaṇāya.ekarcās.sanakas.sanakās.sanātanas.sanandanas.sahasaṃjñās.sumas.(p.109).suśrīs.suvāk.sarvo.hiraṇya.ātma.stutiḥ.pañcamy.aṣṭamī.navamyau.triṣṭubhas.saptamī.śakvarī.<.bhūmis.>.sapta.prājāpatyā.lākṣā.lākṣā.stavo.--\n<.medhā.>.nava.medhā.mānavī.mādhāvī.caturthy.ādir.mahā.bṛhatī.paṅktir.virāḍ.jagatī.gāyatrī.triṣṭub.<.ā.sūs.>.sapta.ātharvaṇas.subheṣaja.āgneyaḥ.prakṛtīḥ.kṛtir.ākṛtir.vikṛtis.saṃkṛtir.abhikṛtir.utkṛtir.<.venas.>.tṛcam.veno.bhāva.vṛttam.tu.<.yena.>.sapta.ūnā.mānavaś.śiva.saṃkalpo.mānasam.<.yāsām>.dve.anuṣṭup.paṅktī.<.nejameṣa.>.tṛcam.prājāpatyo.nejameṣo.<.anīkavantam.>.ekā.//"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 119,
+      "verse_groups": [
+        {
+          "lines": [
+            "saṃjñānam.uśanā.avadat.saṃjñānam.varuṇo.vadat./",
+            "saṃjñāmam.indraś.ca.agniś.ca.saṃjñānam.savitā.vadat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃjñānam.nas.svebhyas.saṃjñānam.araṇebhyaḥ./",
+            "saṃjñānam.āśvina.yuvam.iha.asmāsu.niyacchatām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yat.kakṣīvān.saṃvananam.putro.aṅgirasām.avet./",
+            "tena.no.adya.viśve.devās.sam.priyām.sam.avīvanam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sam.vo.manāṃsi.jānatām.sam.ākūtim.manāmasi./",
+            "asau.yo.vimanā.janas.tam.samāvartayāmasi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tat.śamyor.āvṛṇīmahe.gātum.yajñāya.gātum.yajña.pataye.daivī.svastir.astu.nas.svastir.mānuṣebhyaḥ./",
+            "ūrdhvam.jigātu.bheṣajam.śam.no.astu.dvipade.śam.catuṣpade.//(p.132)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nairhastyam.senā.daraṇam.pari.vartmā.iva.yadd.haviḥ./",
+            "tena.amitrāṇām.bāhūn.haviṣā.śoṣayāmasi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pari.vartmāny.eṣām.indraḥ.pūṣā.ca.cakratuḥ./",
+            "teṣām.vo.agni.dagdhānām.agni.gūḍhānām.indro.hantu.varam.varam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aiṣu.nahya.viṣādanam.hariṇasya.dhiyam.yathā./",
+            "parān.amitrān.aiṣatv.arvācī.gaur.upejatu.//2"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.adhvarāṇām.pate.vaso.hotar.vareṇya.krato./",
+            "tubhyam.gāyatram.ṛcyate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "go.kāmo.anna.kāmaḥ.prajā.kāmā.uta.kaśyapaḥ./",
+            "bhūtam.bhaviṣyat.prastauti.mahad.brahma.ekam.akṣaram.bahu.brahma.ekam.akṣaram./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.akṣaram.bhūtakṛto.viśve.devā.upāsate./",
+            "maharṣim.asya.goptāram.jamadagnim.akurvata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jamadagnir.āpyāyate.chandobhiś.catur.uttaraiḥ./(p.133)",
+            "rājñas.somasya.bhakṣeṇa.brahmaṇā.vīryavatām.śivā.naḥ.pradiśo.diśaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ajo.yat.tejo.dadṛśe.śukram.jyotiḥ.paro.guhā./",
+            "tad.ṛṣiḥ.kaśyapa.stauti.satyam.brahma.cara.acaram.dhruvam.brahma.cara.acaram./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tryāyuṣam.jamadagneḥ.kaśyapasya.tryāyuṣam./",
+            "agastyasya.tryāyuṣam.yad.devānām.tryāyuṣam.tan.no.astu.tryāyuṣam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tat.śamyor.āvṛṇīmahe.gātum.yajñāya.gātum.yajña.pataye.daivī.svastir.astu.nas.svastir.mānuṣebhyaḥ./",
+            "ūrdhvam.jigātu.bheṣajam.śam.no.astu.dvipade.śam.catuṣpade.//3"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vidā.maghavan.vidā.gātum.anu.śaṃsiṣo.diśaḥ./",
+            "śikṣā.śacīnām.pate.pūrvīṇām.purūvaso./(p.134)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ābhiṣ.ṭvam.abhiṣṭibhiḥ.pracetana.pracetaya./",
+            "indra.dyumnāya.na.iṣa.evā.hi.śakraḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rāye.vājāya.vajrivaś.śaviṣṭha.vajrin.ṛñjase./",
+            "manhiṣṭha.vajrin.ṛñjasa.āyāhi.piba.matsva./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vidā.rāye.suvīryam.bhuvo.vājānām.patir.vaśām.anu./",
+            "manhiṣṭha.vajrin.ṛñjase.yaś.śaviṣṭhas.śūrāṇām./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.manhiṣṭho.maghonām.cikitvo.abhi.no.naya./",
+            "indro.vide.tam.u.stuṣe.vaśī.hi.śakraḥ.//4"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tam.ūtaye.havāmahe.jetāram.aparājitam./",
+            "sa.naḥ.parṣad.atidviṣas.kratuś.chanda.ṛtam.bṛhat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indram.dhanasya.sātaye.havāmahe.jetāram.aparājitam./",
+            "sa.naḥ.parṣad.atidviṣas.sa.naḥ.parṣad.atisridhaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pūrvasya.yat.te.adrivas.sumna.ādhehi.no.vaso./",
+            "pūrtiś.śaviṣṭha.śaśvata.īśe.hi.śakraḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nūnam.tam.navyam.manyase.prabho.janasya.vṛtrahan./",
+            "sam.anyeṣu.bravāvahai.śūro.yo.goṣu.gacchati.sakhā.suśevo.advayāḥ.//5"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evā.hy.eva.evā.hy.agne./ evā.hy.eva.evā.hi.viṣṇo./",
+            "evā.hy.eva.evā.hi.indra./ evā.hy.eva.evā.hi.pūṣan./",
+            "evā.hy.eva.evā.hi.devāḥ./"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "evā.hi.śakro.vaśī.hi.śakro.vaśām.anu./",
+            "āyo.manyāya.manyava.upo.manyāya.manyava.upehi.viśvatha.//6(p.135)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vāyur.agregā.yajñaprīs.sākam.gan.manasā.yajñam./",
+            "śivo.niyudbhiś.śivābhiḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇya.vartanī.narā.devā.patī.abhiṣṭaye./",
+            "vāyuś.ca.indraś.ca.sumakhā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kāvyā.rājānā.kratvā.dakṣasya.duroṇe./",
+            "riśādasā.sadhastha.ā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "daivyā.adhvaryū.āgatam.rathena.sūrya.tvacā./",
+            "madhvā.yajñam.samañjāthe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indra.ukthebhir.bhandiṣṭho.vājānām.ca.vāja.patiḥ./",
+            "harivān.sutānām.sakhā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśvān.devān.havāmahe.asmin.yajñe.supeśasaḥ./",
+            "ta.imam.yajñam.āgaman.devāso.devyā.dhiyā./",
+            "juṣāṇā.adhvare.sado.ye.yajñasya.tanūkṛtaḥ./ viśva.ā.soma.pītaye./"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "vācā.mahīm.devīm.vācam.asmin.yajñe.supeśasam./",
+            "sarasvatīm.havāmahe.//18(p.141)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hotā.yakṣad.agnim.samidhā.suṣamidhā.samiddham.nābhā.pṛthivyās.saṃgathe.vāmasya./ varṣmam.diva.iḍas.pade.vetv.ājyasya.hotar.yaja./",
+            "hotā.yakṣat.tanūnapātam.aditer.garbham.bhuvanasya.gopām./",
+            "madhvā.adya.devo.devebhyo.deva.yānān.patho.anaktu.vetv.ājyasya.hotar.yaja./",
+            "hotā.yakṣan.narāśaṃsam.nṛśastam.nṝmḥ.praṇetram./ gobhir.vapāvān.syād.vīraiś.śaktīvān.rathaiḥ.prathamayāvā.hiraṇyaiś.candrī.vetv.ājyasya.hotar.yaja./",
+            "hotā.yakṣad.agnim.iḍa.īḍito.devo.devam.āvakṣad.dūto.havyavāḍ.amūraḥ./ upa.imam.yajñam.upa.imām.devo.deva.hūtim.avatu.vetv.ājyasya.hotar.yaja./",
+            "hotā.yakad.barhis.suṣṭarīma.ūrṇa.ṃradā.asmin.yajñe.vi.ca.pra.ca.prathām.svāsastham.devebhyaḥ./ ā.īm.enad.adya.vasavo.rudrā.ādityās.sadantu.priyam.indrasya.astu.vetv.ājyasya.hotar.yaja./",
+            "hotā.yakṣad.dura.ṛṣvāḥ.kavaṣyo.koṣa.dhāvanīr.ud.ātābhir.jihatām.viprakṣobhiś.śrayantām./ suprāyaṇā.asmin.yajñe.viśrayantām.ṛtā.vṛdho.vyantv.ājyasya.hotar.yaja./19",
+            "hotā.yakṣad.uṣāsā.naktā.bṛhatī.spueśasā.nṝmḥ.patibhyo.yonim.kṛṇvāne./ saṃsmayamāne.indreṇa.devair.ā.idam.barhis.sīdatām.vītām.ājyasya.hotar.yaja./",
+            "hotā.yakṣad.daivyā.hotārā.mandrā.potārā.kavī.pracetasā./ sviṣṭam.adya.anyāḥ.karad.iṣā.svabhigūrtam.anya.ūrjā.svatavasā.imam.yajñam.divi.deveṣu.dhattām.vītām.ājyasya.hotar.yaja./",
+            "hotā.yakṣat.tisro.devīr.apasām.apastamā.achidram.adya.idam.apas.tanvatām./",
+            "hotā.yakṣat.tvaṣṭāram.aciṣṭam.apākam.retodhām.viśva.vasam.yaśodhām./ puru.rūpam.akāma.karśanam.supoṣaḥ.poṣais.syāt.suvīro.vīrair.vetv.ājyasya.hotar.yaja./(p.142)",
+            "hotā.yakṣad.vanaspatim.upa.avasrakṣad.dhiyo.joṣṭāram.śaśaman.naraḥ./ svadāt.svadhitir.ṛtuthā.adya.devo.devebhyo.havyāvāḍ.vetv.ājyasya.hotar.yaja./",
+            "hotā.yakṣad.agnim.svājā.ājyasya.svāhā.medasas.svāhā.stokānām.svāhā.svāhā.kṛtīnām.svāhā.havya.sūktīnām./ svāhā.devā.ājyapā.juṣāṇā.agna.ājyasya.vyantu.hotar.yaja.//20"
+          ],
+          "line_count": 13
+        },
+        {
+          "lines": [
+            "ajaid.agnir.asanad.vājan.ni.devo.devebhyo.havyavāṭ./ prāñjobhir.hinvāno.dhenābhiḥ.kalpamāno.yajñasya.āyuḥ./ pratirann.upapreṣa.hotar.havyā.devebhyaḥ./",
+            "hotā.yakṣad.agnim.ājyasya.juṣatām.havir.hotar.yaja./",
+            "hotā.yakṣat.somam.ājyasya.juṣatām.havir.hotar.yaja./",
+            "hotā.yakṣad.agnī.ṣomau.chāgasya.vapāyā.medaso.juṣetām.havir.hotar.yaja./",
+            "hotā.yakṣad.agnī.ṣomau.puroḍāśasya.juṣetām.havir.hotar.yaja./ RvKh_5.7.2f: hotā.yakṣad.agnī.ṣomau.chāgasya.haviṣa.āttām.adya.madhyato.meda.udbhṛtam.purā.deveṣobhyaḥ.purā.pauruṣeyyā.gṛbho.ghastām.nūnam.ghāe.ajrāṇām.yavasa.prathamānām.sumatkṣarāṇām.śata.rudriyānām.agniṣvāttānām.pīva.upavasanānām.pārśvataś.śroṇitaś.śitāmata.utsādato.aṅgād.aṅgād.avattānām.karata.eva.agnī.ṣomau.juṣetām.ahvir.hotar.yaja.//21",
+            "devebhyo.vanapate.havīṃṣi.hiraṇya.parṇa.pradivas.te.artham./ pradakṣiṇid.raśanayā.niyūya.ṛtasya.vakṣi.pathibhī.rajiṣṭhaiḥ./",
+            "hotā.yakṣad.vanaspatim.abhi.hi.piṣṭatamayā.rabhiṣṭayā.raśanayā.adhita./ yatra.agner.ājyasya.haviṣaḥ.priyā.dhāmāni.yatra.somasya.ājyasya.haviṣaḥ.priyā.dhāmāni.yatra.agnīṣ.omayoś.chāgasya.haviṣaḥ.priyā.dhāmāni.yatrā.vanaspateḥ.priyā.pāthāṃsi.yatra.devānām.ājyapānām.priyā.dhāmāni.yatra.agner.hotuḥ.priyā.dhāmāni.tatra.etam.prastuty.eva.upastuty.eva.upāvasrakṣad.rabhīyām.sam.iva.kṛtvī.karad.evam.devo.vanaspatir.juṣatām.havir.hotar.yaja./(p.143)",
+            "vanaspate.raśanayā.niyūya.piṣṭatamayā.vayunāni.vidvān./ vahā.devatrā.dadhiṣo.havīṃṣi.pra.ca.dātāram.amṛteṣu.vocaḥ./",
+            "hotā.yakṣad.agnim.sviṣṭakṛtam.ayād.agnir.agner.ājyasya.haviṣaḥ.priyā.dhāmāny.ayāṭ.somasya.ājyasya.haviṣaḥ.priyā.dhāmāny.ayāḍ.agnī.ṣomayoś.chāgasya.haviṣaḥ.priyā.dhāmāny.ayāḍ.vanaspateḥ.priyā.pāthāṃsy.ayāḍ.devānām.ājyapānām.priyā.dhāmāni.yakṣad.agner.hotuḥ.priyā.dhāmāni.yakṣat.svam.mahimānam.āyajatām.ejyā.iṣaḥ.kṛṇotu.so.adhvarā.jātavedā.juṣatām.havir.hotar.yaja./",
+            "agnim.adya.hotāram.avṛṇītāyam.yajamānaḥ.pacan.paktīḥ.pacan.puroḍāśam.gṛhṇann.agnaya.ājyam.gṛhṇan.somāyājyam.badhnann.agnī.ṣomābhyām.chāgam.sūpasthādya.devo.nanaspatir.abhavad.agnaya.ājyena.somāyājyena.agnī.ṣomābhyām.chāgena.āghattām.tam.medastaḥ.prati.pacata.agrabhīṣṭām.avīvṛdhetām.puroḍāśena.tvām.adya.ṛṣa.ārṣeya.ṛṣīṇām.napād.avṛṇītāyām.yajamāno.bahubhya.ā.saṃgatebhyaḥ./ eṣa.me.deveṣu.vasu.vāry.āyakṣyata.iti.tā.yā.devā.deva.dānāny.adus.tāny.asmā.ā.ca.śāssvā.ca.gurasva.iṣitaś.ca.hotar.asi.bhadra.vācyāya.preṣito.mānuṣas.sūkta.vākāya.sūktā.brūhi.//22"
+          ],
+          "line_count": 10
+        },
+        {
+          "lines": [
+            "devam.barhis.sudevam.devais.syāt.suvīram.vīrair.vastor.vṛjyeta.aktoḥ.prabhriyeta.aty.anyān.rāyā.barhiṣmato.madema.vasuvane.vasudheyasya.vetu.yaja./",
+            "devīr.dvāras.saṃghāte.vīḍvīr.yāman.śithirā.dhruvā.deva.hūtau.vatsa.īm.enās.taruṇā.āmimīyāt.kumāro.vā.nava.jāto.mā.enā.arvā.reṇuka.kāṭaḥ.praṇag.vasuvane.vasudheyasya.vyantu.yaja./",
+            "devī.uṣāsā.naktā.vy.asmin.yajñe.prayaty.ahvetām.api.nūnam.daivīr.viśaḥ.prāyāsiṣṭhām.suprīte.sudhite.vasuvane.vasudheyasya.vītām.yaja./",
+            "devī.joṣṭrī.vasudhitī.yayor.anya.aghā.dveṣāṃsi.yūyavad.ānyāvakṣad.vasu.vāryāṇi.yajamānāya.vasuvane.vasudheyasya.vītām.yaja./",
+            "devī.ūrja.āhutī.iṣam.ūrjam.anyāvakṣat.sagdhim.sapītim.anyā.mavena.pūrvam.dayamānā.syāma.purāṇena.navam.tām.ūrjam.ūrja.āhutī.ūrjayamāne.adhātām.vasuvane.vasudheyasya.vītām.yaja.//23(p.144)",
+            "devā.daivyā.hotārā.potārā.neṣṭārā.hata.agha.śaṃsāv.ābharad.vasū.vasuvane.vasudheyasya.vītām.yaja./",
+            "devīs.tisras.tisro.devīr.iḍā.sarasvatī.bhāratī.dyām.bhāraty.ādityair.aspṛkṣat.sarasvatī.imam.rudrair.yajñam.āvīd.iha.eva.iḍayā.vasumatyā.sadhamādam.madema.vasuvane.vasudheyasya.vyantu.yaja./",
+            "devo.narāśaṃsas.triśīrṣā.ṣaḍakṣaś.śatam.id.enam.śiti.pṛṣṭhā.ādadhati.sahasram.īm.pravahanti.mitrā.varuṇa.id.asya.hotram.arhato.bṛhaspati.stotram.aśvinā.ādhvaryavam.vasuvane.vasudheyasya.vetu.yaja./",
+            "devo.vanaspatir.varṣa.prāvā.ghṛta.nirṇig.dyām.agreṇa.aspṛkṣad.āntarikṣam.madhyena.aprāḥ.pṛthivīm.upareṇa.adṛṃhīd.vasuvane.vasudheyasya.vetu.yaja./",
+            "devam.barhir.vāritīnām.nidhedhāsi.pracyutīnām.apracyutam.nikāma.dharaṇam.puru.spārham.yaśasvad.enā.barhiṣāṇyā.barhīṃṣy.abhiṣyāma.vasuvane.vasudheyasya.vetu.yaja./",
+            "devo.agnis.sviṣṭakṛt.sudraviṇā.mandraḥ.kavis.satya.manma.āyājī.hotā.hotur.hotur.āyajīvān.agne.yān.devān.ayāḍ.yām.apiprer.ye.te.hotre.amatsata./ tām.sasanuṣīm.hotrān.devaṃgamām.divi.deveṣu.yajñam.eraya.imam.sviṣṭakṛc.ca.agne.hotā.abhūr.vasuvane.vasudheyasya.namovāke.vīhi.yaja.//"
+          ],
+          "line_count": 11
+        },
+        {
+          "lines": [
+            "hotā.yakṣad.indram.harivām.indro.dhānā.attu.pūṣaṇvān.karambham.sarasvatīvān.bhāratīvān.parivāpa.indrasya.apūpo.mitrā.varuṇayoḥ.payasyā.prātas.sāvasya.puroḍāśām.indraḥ.prasthitām.juṣāṇo.vetu.hotar.yaja.//24",
+            "hotā.yakṣad.indram.harivān.indro.dhānā.attu.pūṣaṇvān.karambham.sarasvatīvān.bhāratīvān.parivāpa.indrasya.apūpo.mādhyaṃdinasya.savanasya.puroḍāśām.indraḥ.prasthitām.juṣāṇo.vetu.hotar.yaja./",
+            "hotā.yakṣad.indram.harivān.indro.dhānā.attu.pūṣaṇvān.karambham.sarasvatīvān.bhāratīvān.parivāpa.indrasya.apūpas.tṛtīyasya.savanasya.puroḍāśām.indraḥ.prasthitam.juṣāṇo.vetu.hotar.yaja./",
+            "hotā.yakṣad.agniḥ.puroḍāśānām.juṣatām.havir.hotar.yaja./(p.145)",
+            "hotā.yakṣad.vāyum.agregām.agreyāvānam.agre.somasya.pātāram.karad.evam.vāyur.āvasā.gamaj.juṣatām.vetu.pibatu.somam.hotar.yaja.//25",
+            "hotā.yakṣad.indra.vāyū.arhantā.rihāṇā.gavyābhir.gomantā.bhriyantām.vīrasyā.śukrayā.enayor.niyuto.go.agrayāṇām.vīrau.kaśā.aśva.purastāt.tāsām.iha.prayāṇam.āstika.vimocanam.karata.eva.indra.vāyū.juṣetām.vītām.pibatām.somam.hotar.yaja./",
+            "hotā.yakṣan.mitrā.varuṇā.sukṣattrā.riśādasā.ni.cin.miṣantā.nicirā.nicayyāṃsākṣṇaś.cid.gātu.vittara.anulbaṇena.cakṣasā.ṛtam.ṛtam.iti.dīdhyānā.karata.evam.mitrā.varuṇā.juṣetām.vītām.pibetām.somam.hotar.yaja./",
+            "hotā.yakṣad.aśvinā.nāsatyā.dīdyagnī.rudra.vartanī.ny.antareṇa.cakreṇa.ca.vāmīr.iṣa.ūrja.āvahatam.suvīrās.sanutareṇa.anaruṣo.bādhetām.madhukaśayā.imam.yajñam.yuvānā.mimikṣatām.karata.eva.aśvinā.juṣetām.vītām.pibetām.soma.hotar.yaja./",
+            "hotā.yakṣad.indram.prātaḥ.prātas.sāvasy.arvāvato.gamad.ā.parāvata.ā.uror.antarikṣād.ā.svāt.sadhasthād.ime.asmai.śukrā.madhu.ścutaḥ.prashitā.indrāya.somās.tām.juṣatām.vetu.pibatu.somam.hotar.yaja.",
+            "hotā.yakṣad.indram.mādhyaṃdinasya.savanasya.niṣkevalyasya.bhāgasya.attāram.pātāram.śrotāram.havam.āgantāram.asyā.dhiyo.vitāram.sunvato.yajamānasya.vṛdham.obhā.kukṣi.pṛṇatām.vārtraghnam.ca.māhgonam.ca.ime.asmai.śukrā.manthinaḥ.prasthitā.indrāya.somās.tām.juṣaṭām.vetu.pibatu.somam.hotar.yaja.//26",
+            "hotā.yakṣad.indram.tṛtīyasya.savanasya.ṛbhumato.vibhumato.vājavato.bṛhaspativato.viśvadevyāvatas.sam.asya.madāḥ.prātastanāgmata.sam.mādhyaṃdinās.samidātanās.teṣām.samukṣitānām.gaura.iva.pragāhyā.vṛṣāyasvāyūyā.bāhubhyām.upayāhi.haribhyām.prapruthyā.śipre.niṣpṛthya.ṛjīṣinn.ime.asmai.tīvrā.āśīrvantaḥ.prasthitā.indrāya.somās.tām.juṣatām.vetu.pibatu.somam.hotar.yaja./",
+            "hotā.yakṣad.indram.marutvantam.indro.marutvān.juṣatām.vetu.pibatu.somam.hotar.yaja./",
+            "hotā.yakṣad.ādityān.priyān.priya.dhāmnaḥ.priya.vratān.mahas.svasarasya.patīn.uror.antarikṣasya.adhyakṣān.svādityam.(p.146)|.avocat.tad.asmai.sunvate.yajamānāya.karann.evam.ādityā.juṣantām.mandantām.vyantu.pibantu.mandantu.somam.hotar.yaja./",
+            "hotā.yakṣad.devam.savitāram.parāmīvān.sāviṣat.parāgha.śaṃsam.susāvitram.asāviṣat.tad.asmai.sunvate.yajamānāya.karad.evam.devas.savitā.juṣatām.mandatām.vetu.pibatu.somam.hotar.yaja./",
+            "agnim.adya.hotāram.avṛṇītāyam.sunvan.yajamānaḥ.pacan.paktīḥ.pacan.puroḍāśān.gṛhṇann.agnaya.ājyam.gṛhṇan.somā.yājyam.badhnann.aṅgaye.chāgam.sunvann.indrāya.soma.bhṛjja.haribhyām.dhānās.sūpasthā.adya.devo.vanaspatir.abhavad.agnaye.ājyena.somāyājyena.agnaye.chāgena.indrāya.somena.haribhyām.dhānābhir.aghattam./ medastaḥ.prati.pacata.agrabhīd.avīvṛdhata.puroḍāśair.apād.indras.somam.gavāśiram.yavāśiram.tīvra.antam.bahula.madhyam.upa.utthā.madā.vyaśrod.vimadām.ānaḍ.avīvṛdhata.aṅgūṣais.tvām.adya.ṛṣa.ārṣeya.ṛṣīṇām.napād.avṛṇīta.āyan.sunvan.yajamāno.bahubhya.āsaṃgatebhyaḥ./ eṣa.me.deveṣu.vasu.vāry.āyakṣyata.iti.tā.yā.devā.deva.dānāny.adus.tāny.asmā.ā.ca.śāssvā.ca.gurasva.iṣitaś.ca.hotar.asi.bhadra.vācyāya.preṣito.mānuṣas.sūkta.vākāya.sūktā.brūhi.//27",
+            "dhānā.somānām.indrādd.hi.ca.piba.ca.babdhān.te.harī.dhānā.upa.ṛjīṣam.jighratām.ā.ratha.carṣaṇe.siñcasva.yat.tvā.pṛcchād.viṣam.patnīḥ.kva.amīmadathā.ity.asmin.sunvati.yajamāne.tasmai.kim.arāsthāḥ./ suṣṭhu.suvīryam.yajñasya.agura.udṛcam.yad.yad.acīkamata.ut.tat.tathā.abhūdd.hotar.yaja./",
+            "iha.mada.eva.maghavann.indra.te.śvo.vasumato.rudravato.ādityavata.ṛbhumato.vibhumato.vājavato.bṛhaspativato.viśvadevyāvataś.śvassutyām.agnim.indrāya.indra.agnibhyām.prabrūhi./ mitra.varuṇābhyām.vasubhyo.rudrebhyo.ādityebhyo.viśvebhyo.devebhyo.brahmaṇebhyas.somyebhyas.somapebhyo.brahman.vācam.yaccha./",
+            "hotā.yakṣad.aśvinā.somānām.tiro.ahnyānām.trir.ā.vartir.yātām.trir.aha.mānayethām.uto.turīyam.nāsatyā.vājināya.devāḥ./ sajūr.agni.rohid.aśvo.ghṛtasnuḥ./ sajūr.uṣā.arūṣebhiḥ./sajūs.sūrya.etaśebhiḥ./sajoṣasāv.aśvinā.daṃsobhiḥ.karata.eva.aśvinā.juṣetām.mandetām.vītām.pibetām.somam.hotar.yaja.//28(p.147)"
+          ],
+          "line_count": 18
+        },
+        {
+          "lines": [
+            "hotā.yakṣad.indram.hotrāt.sajūr.divā.pṛthivyā.ṛtunā.somam.pibatu.hotar.yaja./",
+            "hotā.yakṣan.marutaḥ.potrāt.suṣṭubhas.svarkā.ṛtunā.somam.pibantu.potar.yaja./",
+            "hotā.yakṣad.grāvo.neṣṭrāt.tvaṣṭā.sujanimā.sajūr.devānām.patnībhir.ṛtunā.somam.pibatu.neṣṭar.yaja./",
+            "hotā.yakṣad.agnim.āgnīdhrād.ṛtunā.somam.pibatv.agnīd.yaja./",
+            "hotā.yakṣad.indram.brahmāṇam.brahmaṇād.ṛtunā.somam.pibatu.brahman.yaja./",
+            "hotā.yakṣan.mitrā.varuṇā.praśāstārau.praśāstrād.ṛtunā.somam.pibatām.praśāstar.yaja./29",
+            "hotā.yakṣad.devam.draviṇodām.hotrād.ṛtubhis.somam.pibatu.hotar.yaja./",
+            "hotā.yakṣad.devam.draviṇodām.potrād.ṛtubhis.somam.pibatu.potar.yaja./",
+            "hotā.yakṣad.devam.draviṇodām.neṣṭrād.ṛtubhis.somam.pibatu.neṣṭar.yaja./",
+            "hotā.yakṣad.devam.draviṇodām.apād.hotrād.apāt.potrād.apān.neṣṭrāt.turīyam.pātram.amṛktam.amartyam.indra.pānam.devo.draviṇodāḥ.pibatu.drāviṇodasaḥ./ svayam.āyūyās.svayam.abhigūryāḥ./ svayam.abhigūrtayā.hotrāya.ṛtubhis.somasya.pibatv.acchāvāka.yaja./",
+            "hotā.yakṣad.aśvinā.adhvaryū.ādhvaryavād.ṛtunā.somam.pibetām.adhvaryū.yajatām./",
+            "hotā.yakṣad.agnim.gṛhapatim.gārhapatyāt.sugṛhapatis.tv.adha.agne.yām.sunvan.yajamānas.syāt.sugṛhapatis.tvam.anena.sunvatā.yajamānas.syās.sugṛhapatis.tvam.anena.sunvatā.yajamānena.agnir.gṛhapatir.gārhapatyād.ṛtunā.somam.pibatu.gṛhapate.yaja.//30//(p.148)RvKh_(Kuntāpa.adhyāya)VIII-XXII:"
+          ],
+          "line_count": 12
+        },
+        {
+          "lines": [
+            "idam.janā.upaśrutam.narāśaṃsa.staviṣyate./",
+            "ṣaṣṭim.sahasrā.navatim.ca.kaurava.ā.ruśameṣu.dadmahe./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uṣṭrā.yasya.pravāhiṇo.vadhūmanto.dvir.daśa./",
+            "varṣmā.rathasya.nijihīḍate.diva.īṣamāṇā.upaspṛśaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "eṣa.iṣāya.māmahe.śatam.niṣkān.daśa.srajaḥ./",
+            "trīṇi.śatāny.arvatām.sahasrā.daśa.gonām.//31"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vacyasva.rebha.vacyasva.vṛkṣe.na.pakve.śakunaḥ./",
+            "niṣ.ṭe.jihvā.carcarīti.kṣuro.na.bhurijor.iva./(p.155)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.rebhāso.mānīṣayā.vṛthā.gāva.iva.īrate./",
+            "amota.putrakā.eṣām.u.modakā.upāsate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pra.rebha.dhiyam.bharasva.govidam.vasuvidam./",
+            "devatra.imām.vācam.śṛṇīhi.iṣur.nā.vīra.āstāram.//32"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rājño.viśva.janīnasya.yo.devo.matyān.ati./",
+            "vaiśvānarasya.suṣṭutim.āsunotā.parikṣitaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parikṣin.naḥ.kṣemam.akarat.tama.āsanam.ā.saram./",
+            "arāyyan.kurvan.kauravyaḥ.patir.vadati.jāyayā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "katarat.ta.āharāṇi.dadhi.manthām.parisrutam./",
+            "jāyā.patim.vipṛcchati.rāṣṭtre.rājñaḥ.parikṣitaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "(.abhīva.svaḥ.prajihīte.yavaḥ.pakvaḥ.patho.bilam./",
+            "janas.sa.bhadram.edhate.rāṣṭre.rājñaḥ.parikṣitaḥ.).//33(p.156)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indraḥ.kārum.abūbudhad.uttiṣṭha.vi.carā.caran./",
+            "mama.id.ugrasya.carkṛtis.sarva.it.te.pṛṇād.ariḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iha.gāvaḥ.prajāyadhvam.iha.aśvā.iha.pūrṣāḥ./",
+            "iho.sahasra.dakṣiṇo.vīras.trātā.niṣīdatu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na.imā.indra.gāvo.riṣan.mo.asān.gopatī.riṣat./",
+            "māsām.amitrayur.jana.indra.mā.stena.īśata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upa.vo.nara.emasi.sūktena.vacasā.vayam.bhadreṇa.vacasā.vayam./",
+            "cano.dadhiṣva.no.gira.na.riṣyema.kadācana.//34"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas.sabheyo.vidathyas.sutvā.yajvā.ca.pūruṣaḥ./",
+            "sūryam.camū.riśādasam.tad.devāḥ.prāg.akalpayan./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.jāmyāḥ.praty.amadad.yas.sakhāyan.ninitsati./",
+            "jyeṣṭho.yad.apracetās.tad.āhur.adharāg.iti./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.bhadrasya.puruṣasya.putro.bhavati.dādhṛṣiḥ./",
+            "tad.vipro.abravīd.udag.gandharvaḥ.kāmyam.vacaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaś.ca.paṇis.abhujiṣyo.yaś.ca.revān.adāśuriḥ./",
+            "dhīrāṇām.śaśvatām.aham.tad.apāg.iti.śuśrava./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye.ca.deva.ayajanta.atho.ye.ca.parādaduḥ./",
+            "sūryo.divam.iva.gatvāya.maghāvāno.virapsate.//35(p.157)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo.anākta.akṣyo.anabhyakto.maṇivo.ahiraṇyavataḥ./",
+            "abrahma.abrahmaṇas.putras.to.ta.kalpeṣu.sammitā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ya.ākta.akṣyas.svabhyaktas.sumaṇis.suhiraṇyavataḥ./",
+            "subrahmā.brahmaṇas.putras.to.tā.kalpeṣu.sammitā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aprapāṇā.ca.veśantā.revām.apracatiś.cayaḥ./",
+            "ayabhyā.kanyā.kalyāṇi.tvo.tā.kalpeṣu.sammitā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "suprapāṇa.ca.veśantā.revām.supracatiś.cayaḥ./",
+            "suyabhyā.kanyā.kalyāṇi.tvo.tā.kalpeṣu.sammitā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parivṛktā.ca.mahiṣī.svastyā.ca.yudhim.gamaḥ./",
+            "śvāśur.aśva.āyāmī.tvo.tā.kalpeṣu.sammitā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vāvātā.ca.mahiṣvaṇisthā.ca.yudhim.gamaḥ./",
+            "anāśur.aśva.āyāmī.tvo.tā.kalpeṣu.sammitā.//36(p.158)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.indrādo.daśa.rājñe.mānuṣam.vigāhathāḥ./",
+            "virūpas.sarvasmā.āsīt.sadṛg.akṣāya.vañcate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvam.viṣa.akṣam.maghavan.naṃram.paryākaror.abhi./",
+            "tvam.rauhiṇam.vyāsyam.tvam.vṛtrasya.abhinat.śiraḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaḥ.parvatān.vyadadhād.yo.apo.vyagāhathāḥ./",
+            "yo.vṛtram.vṛtrahann.ahan.tasmā.indra.namo.astu.te./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "praṣṭim.dhāvantam.haryor.auccaiśśravasam.abravam./",
+            "svasty.aśva.jaitrāya.indram.āvahato.ratham./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yatvā.śvetā.uccaiśśravasam.haryor.yuñjanti.dakṣiṇam./",
+            "mūrdhānam.aśvam.devānām.bibhrad.indram.mahīyate.//37"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etā.aśvā.āplavante./ pratīpam.prātisatvanam./",
+            "tāsām.ekā.hariklikā./ hariklike.kim.icchasi./(p.159)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sādhum.putram.hiraṇyayam./ kva.aha.tam.parāsyaḥ./",
+            "yatra.amūs.tisraś.śiṃśapāḥ./ pari.trayaḥ.pṛdākavaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śṛṅgam.dhamanta.āsate./ ayam.vahāte.avahi./",
+            "sa.ittha.kam.sa.eva.kam./ saghā.gha.te.saghā.gha.me./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gomī.gha.giminīr.abhi./ pumān.bhūmne.ninitsasi./",
+            "balbab.atho.iti./ balbabo.atho.iti./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ajakorakovikā./ aśvasya.vāro.goś.śaphaḥ./",
+            "keśinī.śyenī.enīva./ anāmayā.upajihvikā.//38"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ko.amba.hulam.ayuni./ ko.arjunyāḥ.payaḥ./",
+            "ko.asiknyāḥ.payaḥ./ etam.pṛccha.kuham.pṛccha./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kuhā.kam.pakvakam.pṛccha./ ya.āyanti.śvabhiṣ.kubhiḥ./",
+            "abjantaḥ.kubhāyavaḥ./ āmanako.manasthakaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "devattaḥ.prati.jūryaḥ./ pinaṣṭi.partikā.haviḥ./",
+            "pra.budbudo.mathāyati./ śuṅga.utpata./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "irā.ca.indram.amandata./ iyann.iyann.iti./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atho.iyann.iti./ atho.jyāyastaro.bhuvat./",
+            "iyam.yakā.salākakā./ āminoti.nibhajyate.//39"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasyā.anunibhañjanam./ varuṇo.yāti.babhrubhiḥ./",
+            "śatam.babhror.abhīśubhiḥ./ śatam.kaśā.hiraṇyayīḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śatam.rathā.hiraṇyayāḥ./ āhakaluś.śavartakaḥ./",
+            "āyavanena.tejanī./ śaphena.pīva.ohate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vaniṣṭhunā.upanṛtyati./ imam.mahyam.adur.iti./",
+            "te.vṛṣkās.saha.tiṣṭhanti./ pākavaliś.śakavaliḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśvattaḥ.khadiro.dhavaḥ./ araduḥ.paramaś.śaye./",
+            "hata.iva.pāpa.pūruṣaḥ./ adoham.it.piyūṣakam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dvam.ca.hastino.dṛtī./ adhyardham.ca.parasvataḥ./",
+            "ād.alābukam.ekakam./ alābukam.nikhātakam.//40"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karkariko.nikhātakaḥ./ tad.vāta.unmathāyati./",
+            "kulāyam.karavān.iti./ ugram.valṣad.ātatam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na.valṣad.anātatam./ ka.eṣām.karkarim.likhat./",
+            "ka.eṣām.dundubhim.hanat./ yad.īm.hanat.katham.hanat./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dailīm.hanat.katham.hanat./ pary.ākaram.punaḥ.punaḥ.//41(p.160)"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vitatau.kiraṇau.dvau.tāv.āpinaṣṭi.pūruṣaḥ./",
+            "na.vai.kumāri.tat.tathā.yathā.kumāri.manyase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mātuṣ.ṭe.kiraṇau.dvau.nīvītaḥ.puruṣād.ṛte./",
+            "na.vai.kumāri.tad.tathā.yathā.kumāri.manyase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nigṛhya.karṇakau.dvau.nirāyacchasi.madhyamam./",
+            "na.vai.kumāri.tat.tathā.yathā.kumāri.manyase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uttānāyai.śayanāyai.tiṣṭhann.eva.avagūhasi./",
+            "na.vai.kumāri.tat.tathā.yathā.kumāri.manyase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ślakṣṇāvām.ślakṣṇikāyām.ślakṣṇam.eva.avagūhasi./",
+            "na.vai.kumāri.tat.tathā.yathā.kumāri.manyase./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ava.ślakṣṇam.avabhraśad.antar.lomavatī.hrade./",
+            "na.vai.kumāri.tat.tathā.yathā.kumāri.manyase.//42(p.162)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iha.ittha.prāg.apāg.udag.adharāg.arālā.udabhartsata./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iha.ittha.prāg.apāg.udag.adharāg.vatsāḥ.pruṣanta.āsate./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iha.ittha.prāg.apāg.udag.adharāk.sthālīpāo.vilīyate./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iha.ittha.prāg.apāg.udag.adharāk.silī.puccho.vilīyate.//"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhug.ity.abhigataḥ./ śar.ity.abhiṣṭhitaḥ./",
+            "phal.ity.apakrāntaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vi.ime.devā.akransata.adhvaryoḥ.kṣipram.pracara./",
+            "suśastir.id.gavām.asy.ati.prakhidaso.mahat.//43(p.163)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ādityā.ha.jaritar.aṅgirobhyo.dakṣiṇām.anayan./",
+            "tām.ha.jaritar.na.praty.āyan.tām.u.ha.jaritaḥ.pratyāyan./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tām.ha.jaritar.na.praty.agṛbhṇan.tām.u.ha.jaritaḥ.pratyagṛbhṇan./",
+            "ahā.neta.sann.avicetanāni.jajñā.neta.sann.apurogavāsaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uta.śveta.āśupatvā.uto.padyābhir.javiṣṭhaḥ./",
+            "uta.īm.āśu.mānam.piparti./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ādityā.rudrā.vasavas.tv.eḍate.idam.rādhaḥ.prati.gṛbhṇīhy.aṅgiraḥ./",
+            "idam.rādho.bṛhat.pṛthu.devā.dadātv.ā.varam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tad.vo.astu.sucetanam.yuṣme.astu.dive.dive./",
+            "praty.eva.gṛbhāyata.//44"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvam.indra.śarmann.ariṇā.havyam.parāvatebhyaḥ./",
+            "viprāya.stuvate.vasu.ṛjur.it.śravase.vahaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvam.indra.kapotāya.chinna.pakṣāya.vañcate./",
+            "śyāmākam.pakvam.viruja.vār.asmā.akṛṇor.bahu./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āraṅgaro.vāvadīti.tredhā.baddho.varaty.ayāḥ./",
+            "irām.u.ha.praśaṃsaty.anirām.apasedhata.//45(p.164)"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.asyā.aṃhu.bhedyāḥ.pṛthu.sthūram.upātasat./",
+            "muṣkā.id.asyā.ejato.gośaphe.śakulāv.iva./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadā.sthūreṇa.pasasā.aṇū.muṣkā.upāvadhīt./",
+            "viṣvañcāv.asya.ardatassikatāsv.iva.gardabhau./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.alpikā.svalpikā.karkandhukā.iva.pacyate./",
+            "vāsantikam.iva.tejanam.yabhyamānā.vinamyate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.devāso.lalābukam.praviṣṭīminam.āviṣuḥ./",
+            "sakthnā.te.dṛśyate.nārī.satyasya.akṣī.bhāgo.yathā.//46"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahānagny.upabrūte.śvasyā.veśitam.pasaḥ./",
+            "īdṛk.phalasya.vṛkṣasya.śūrpam.śūrpam.bhajemahi./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahānagny.adṛptam.hi.so.krandad.astam.āsadat./",
+            "saknu.kāmanā.bhuva.maśakam.sakthy.udyatam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahānagny.ulūkhalam.atikrāmanty.abravīt./",
+            "yathā.eva.te.vanaspate.pighnanti.tathā.eva.me./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahānagnī.kṛkavākum.śamyayā.paridhāvati./",
+            "idam.na.vidma.tejanam.śīrṣṇā.bhavati.dhānikā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahānagnī.mahāgaṅgan.dhāvantam.anudhāvati./",
+            "imās.tad.asya.gā.rakṣa.yabha.mām.addhy.odanam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahān.vai.bhadro.bilvo.mahān.pakva.udumbaraḥ./",
+            "mahān.abhijñu.bādhate.mahatas.sādhu.khodanam./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kapṛn.naraḥ.kapṛtham.uddadhātana.codayata.khudata.vāja.sātaye./",
+            "niṣṭigryaḥ.putram.ācyāvaya.ūtaya.indram.sabādha.iha.soma.pītaye./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yad.dha.prācīr.ajaganta.uro.maṇḍūra.dhāṇikīḥ./",
+            "hatā.indrasya.śatravas.sarve.budbudayāśavaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dadhikrāvṇo.akāriṣan.jiṣṇor.aśvasya.vājinaḥ./",
+            "surabhi.no.mukhā.karat.pra.ṇa.āyūṃṣi.tāriṣat.//47(p.165)"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "om.<.saṃjñānam.>.pañca.kaśyapas.saṃjñānaś.śamyur.uttamā.sā.āśīś.śakvarī.sarvatra.<.nairhastyam.>.tṛcam.nirhastya.sapatnaghnam.senā.daraṇam.ānuṣṭubham.bṛhatī.madhyam.<.pra.>.sapta.kaśyapo.jamadagnir.uttamā.śamyur.ādyā.āgneyī.gāyatrī.dvitīyā.upottamā.āśīḥ.pāṅktyam.tṛtīyā.akṣara.stutis.sā.anuṣṭup.caturthī.saumī.pañcamī.saurī.<.vidā.>.daśa.pādāś.ca..pañca..viśvāmitra.indro.vā.prajāpatir.aindram.pāvanam.ānuṣṭubham.purīṣa.padāny.āgneya.vaiṣnava.ain\ndra.pauṣṇa.daivāni.vairājāni.dvitīyā.pañcamyāv.uṣṇihau.caturthī.nyaṅkusāriṇī.saptamī.purastād.bṛhatī.navamy.antye.paṅktī.<.agnir.>.ekādaśa.liṅga.ukta.devatam.yajūṃṣi.--\n<.vāyus.>.sapta.praugeṇa.ukta.daivatam.gāyatram.ṣaṣṭhī.śakvarī.yājuṣāṇi.pañca.<.hotā.>.dvādaśa.vasiṣṭho.vā.praiṣa.sūktāny.ādyam.āpriyam.param.liṅga.ukta.devatam.aniruktam.svayajña.ukta.devatam.anyat.proktam.<.ajaid.>.ekādaśa.saptamī.navamyau.triṣṭubhau.<.devam.hotā.>.aṣṭādaśa.<.hotā.>.dvādaśa.<.idam.>.tṛcam.vasiṣṭha.vāmadevau.kuntāpau.dvibṛhatyāv.anuṣṭub.<.vacyasvar.>.ānuṣṭub.antam.rājñaś.catuṣkam.<.indraḥ.>.paṅkty.antam.<.yaḥ.>.pañca.<.yaṣ.ṣaḍ\n.yat.>.pañca.etā.dvyūnā.aitaśo.muniṣ.ṣaṣṭy.aṣṭamyāv.uṣṇuhāv.antyā.dvipadā.yajūṃṣi.vā.catvāri.--\n<.vitatau.>.ṣaḍ.ānuṣṭubham.<.ihettha.>.catuṣkam.dvipadam.<.bhug.>.ekapādā.nicṛd.<.vi.>.ime.anuṣṭub.<.ādityāḥ.>.pañca.jagatī.triṣṭub.upariṣṭād.bṛhatī.purastād.bṛhatī.dvipadā.yajur.vā.<.tvam.>.tṛcam.ānuṣṭubham.tu.<.yad.>.daśa.hotṛ.pratigaritros.saṃvādo.nāka.pṛtsu.jagaty.ādyā.jagaty.ādyā.//",
+        "agnir.deva.iddhaḥ../\nagnir.manv.iddha../\nagnis.suṣamit../\nhotā.deva.vṛtaḥ../\nhotā.manu.vṛtaḥ../\npraṇīr.yajñānām../\nrathīr.adhvarāṇām../\natūrto.hotā../\ntūrṇir.havyavāṭ../\nā.devo.devān.vakṣat../\nyakṣad.agnir.devo.devān../\nso.adhvarā.karati.jātavedāḥ.//7",
+        "indro.marutvān.somasya.pibatu./\nmarut.stotro.marud.gaṇaḥ./\nmarut.sakhā.marud.vṛdhaḥ./\nghnan.vṛtrā.sṛjad.apaḥ./\nmarutām.ojasā.saha./\nya.īm.enam.devā.anvamadan./\nap.tūrye.vṛtra.tūrye./\nśambara.hatye.gaviṣṭhau./\narcantam.guhyā.padā./\nparamasyām.parāvati./\nād.īm.brahmāṇi.vardhayan./\nanādhṛṣṭāny.ojasā./\nkṛṇvan.devebhyo.duvaḥ./\nmarudbhis.sakhibhis.saha./\nindro.marutvān.iha.śravad.iha.somasya.pibatu./\npremān.devo.deva.hūtim.avatu.devyā.dhiyā./\npra.idam.brahma./\npra.idam.kṣatram./\npra.imam.sunvantam.yajamānam.avatu./\ncitraś.citrābhir.ūtibhiḥ./\nśravad.brahmāṇy.āvasā.gamat.//8"
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "verse_count": 23,
+      "verse_groups": [
+        {
+          "lines": [
+            "sūkta.ante.kṛṇāny.agnāv.araṇye.vā.udake.apivā./",
+            "yat.stṛṇair.adhyayanam.tad.adhītam.stṛṇāni.bhava.te.bhava.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vāpī.kūpa.taḍāgānām.samudram.gaccha.svāhā.agnim.gaccha.svāhā.//(p.169)"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśva.īśvara.virūpa.akṣa.viśva.rūpa.sadāśiva./",
+            "śaraṇam.bhava.bhūta.īśa.karuṇā.kara.śaṃkara./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hara.śambho.mahā.deva.viśva.īśa.amara.vallabha./",
+            "śiva.śaṃkara.sarva.ātman.nīla.kantha.namo.astu.te./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mṛtyum.jayāya.rudrāya.nīla.kanthāya.śambhave./",
+            "amṛta.īśāya.śarvāya.śrī.mahādevāya.te.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etāni.śiva.nāmāni.yaḥ.paṭhen.niyataḥ.sakṛt./",
+            "na.asti.mṛtyu.bhayam.tasya.pāpa.roga.ādi.kiṃcana./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yajña.īśa.acyuta.govinda.mādhava.ananta.keśava./",
+            "kṛṣṇa.viṣṇo.hṛṣīkeśa.vāsudeva.namo.astu.te./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṛṣṇāya.gopināthāya.cakriṇe.suravairiṇe./",
+            "amṛta.īśāya.gopāya.govindāya.namo.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etāny.anantanāmāni.maṇḍala.ante.sadā.paṭhet./(p.170)"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yat.stṛṇair.adhyayanam.tad.adhītam.stṛṇāni.bhava.te.bhava./",
+            "vāpī.kūpa.taḍāgānām.samudram.gaccha.svāhā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sūkta.ante.tṛṇāny.agnau./"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sita.asite.sarite.yatra.saṃgate.tatra.āplutāso.divam.utpatanti./",
+            "ye.vai.tanvān.visṛjanti.dhirās.te.janāso.amṛtatvam.bhajante.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "havirhir.eke.svar.itaḥ.sacante.sunvanta.eke.savaneṣu.somān./",
+            "śacīr.madanta.uta.dakṣiṇābhir.nej.jihmāyantyo.narakam.patāma.//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "himasya.tvā.jarāyuṇā.śāle.pari.vyayāmasi./",
+            "uta.hrado.hi.no.bhuvo.agnir.dadātu.bheṣajam./",
+            "śīta.hrado.hi.no.bhuvo.agnir.dadātu.bheṣajam./"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "antikām.agnim.ajanayad.durvāraḥ.śiśur.āgamat./",
+            "ajāta.putra.pakṣāyā.hṛdayam.mama.dūyate./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vipulam.vanam.bahv.ākāśam.cara.jātavedaḥ.kāmāya./",
+            "mām.ca.rakṣa.putrāṃś.ca.śaraṇam.abhūt.tava./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "piṅga.akṣa.lohita.grīva.kṛṣṇa.varṇa.namo.astu.te./",
+            "asmān.nibarha.rasyonam.sāgarasya.ūrmayo.yathā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indraḥ.kṣatram.dadātu.varuṇam.abhiṣiñcatu./",
+            "śatravo.nidhanam.yāntu.jayas.tvam.brahma.tejasā./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kalpa.jaṭīm.sarva.bhakṣam.ca.agnim.pratyakṣa.daivatam./",
+            "varuṇam.ca.vaśāmy.agre.mama.putrāṃś.ca.rakṣatu.mama.putrāṃś.ca.rakṣatv.om.namaḥ./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sāgram.varṣa.śatam.jīva.piba.khāda.ca.moda.ca./",
+            "duhkhitāṃś.ca.dvijāṃś.caiva.prajām.ca.paśu.pālaya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yāvad.ādityas.tapati.yāvad.bhrājati.candramāḥ./",
+            "yāvad.vāyuḥ.plavāyati.tāvaj.jīva.jayā.jaya./"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena.kena.prakāreṇa.ko.vīnām.anujīvati./",
+            "pareṣām.upakāra.artham.yaj.jīvati.sa.jīvati./",
+            "etām.vaiśvānarīm.sarva.deva.namo.astu.te./"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "na.cora.bhayam.na.ca.sarpa.bhayam.na.ca.vyāghra.bhayam.na.ca.mṛtyu.bhayam./",
+            "yasya.apamṛtyur.na.ca.mṛtyuḥ.sa.sarvam.labhate.sa.sarvam.jayate.//"
+          ],
+          "line_count": 2
+        }
+      ]
+    }
+  ]
+}

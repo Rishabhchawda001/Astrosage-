@@ -1,0 +1,2193 @@
+{
+  "file": "gautama_dharmasutra_1_3_comm_gretil.xml",
+  "xml_id": "sa_gautama-dharmasUtra1-3-comm",
+  "title": "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+  "total_chapters": 3,
+  "total_verses": 318,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 128,
+      "verse_groups": [
+        {
+          "lines": [
+            "praṇipatyādidevāya vāsudevāya bhaktitaḥ /",
+            "gautamīyacchalenedaṃ sarvasmṛtinibandhanam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṅgāni vedāścatvāro mīmāṃsā nyāyavistaraḥ /",
+            "purāṇaṃ dharmaśāstraṃ ca vidyā hyetāścaturdaśa //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vedo dharmamūlam // Gaut_1.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nanu vidhipratiṣedharūpatvācchāstrasya 'upanayanaṃ brāhmaṇasyāṣṭame'; ityādyeva vaktavyam, na tvanuvādarūpatvādvedo dharmamūlamityādi, niṣprayojanatvādanuvādasyeti /",
+            "na cānena vedasya prāmāṇyaṃ pratipādyate, tasya svata eva siddheḥ anyathā yena prāmāṇyaṃ pratipādyate tasyāpyanyena prāmāṇyaṃ tasyāpyanyenetyanavasthā syāditi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ā haiva sa nakhāgrebhyaḥ paramaṃ tapyate tapaḥ /",
+            "yaḥ sragvyapi dvijo 'dhīte svādhyāyaṃ śaktito 'nvaham //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadvidāṃ ca smṛtiśīle // Gaut_1.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vedo 'khilo dharmamūlaṃ smṛtiśīle ca tadvidām /",
+            "ācāraścaiva sādhūnāṃ ātmanastuṣṭireva ca //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sandhyoparamaṇakāle triḥ pradakṣiṇādiḥ śiṣṭācāra /",
+            "vedavidāṃ sakalānuṣṭhānaparāṇāṃ nirdeṣatvena yadvijñānamutpadyate, sā'tmatuṣṭiḥ /",
+            "vakṣyati-\"yaccātmavanto vṛddhāḥ\"ityādi //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "kecidvarṇayanti-aṣṭakādivadeṣāṃ kautukamaṅgalādīnāṃ anupanibandho 'karaṇe pratyavāyābhāvāt /",
+            "ācārātmatuṣṭī api śīla evāntarbhūte iti na pṛthagupanyaste /",
+            "cakāropyuktasamuccayārtha eveti //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "dṛṣṭo dharmavyatikramaḥ // Gaut_1.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dharmamūlatvaṃ na prāpnotīti śeṣaḥ /",
+            "yathā prajāpatiḥ svāṃ dihitaramabhyadhyāyat,yathendrasyāhalyāgamanādiḥ yathā vyāsabhīṣmādīnāmanāśramāvasthānam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sāhasaṃ ca mahatām // Gaut_1.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na tu dṛṣṭārthe 'varadaurbalyāt // Gaut_1.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tulyabalavirodhe vikalpaḥ // Gaut_1.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pakṣijagdhaṃ gavāghrātamavadhūtamavakṣutam /",
+            "dūṣitaṃ keśakīṭaiśca mṛtprakṣepeṇa śudhyati //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svatantrapakṣo 'bhihitaḥ, sa pakṣaḥ\"tadvidāṃ ca smṛtiśīle\"ityetasmin sati durupapāda eveti /",
+            "tasmādvedaliṅgaprabhavatvameva smṛtīnāṃ nirdeṣataramiti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nanu caivamapi nopapadyate, kvacit smṛtyā śruterbādhadarśanāt yathā sāmānyena pravṛtto vaidikakarmādhikāraḥ smṛtyā upanītādipuruṣaviśeṣa evādhikriyate /",
+            "tathā saṃskāraikadeśenāpyātmaguṇayoge sati viśiṣṭaphalābhidhānāt, tathā gāmālabheteti śruticodito 'pi govadhaḥ smārtapratiṣedhabalīyastvānna kriyate, tathāgnihotrādikaṃ coditajīvanopādhikaṃ karma dravyasādhyamapi na smārtacauryādipratiṣaddhenāpi dravyamārjayitvā tatkriyate /",
+            "ataḥ śrutyā smṛtirbādhyata ityayuktamuktamiti //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "upanayanaṃ brāhmaṇasyāṣṭame // Gaut_1.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "navame pañcame vā kāmyam // Gaut_1.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "visamāsaḥ kāmyabhedajñāpanārthaḥ /",
+            "tathācaca smṛtyantaraṃ-'navame tvāyuṣmākaṃ pañcame brahmavarcasakāmam'; iti /",
+            "vāśabdo vikalpārthaḥ /",
+            "sa icchāto draṣṭavyaḥ //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "garbhādiḥsaṅkhyā varṣāṇām // Gaut_1.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "garbhasahacaritā daśa māsā garbha ityucyate /",
+            "tatprabhṛti varṣagaṇanā kartavyā, na tu janmata ārabhya /",
+            "tataśca 'upanayanaṃ brāhmaṇasya'; ityevamādau 'garbhāṣṭame'; ityevamādi yojyam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "taddvitīyaṃ janma // Gaut_1.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tat upanayanaṃ dvitīyaṃ janma /",
+            "tena saṃskṛto dvijo bhavatītyarthaḥ /",
+            "'dvijātīnāmadhyayanam'; ityevamādau vyavahārārthaṃ dvijasaṃjñākaraṇam /",
+            "tadgrahaṇaṃ nityakāmyopanayanasaṃgrahaṇārtham //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "tadyasmātsa ācāryaḥ // Gaut_1.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadgrahaṇaṃ nityakāmyopanayanasaṃgrahaṇārtham /",
+            "'ācāryaḥ śreṣṭho gurūṇām'; ityādau vyavahārārthaṃ saṃjñākaraṇam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vedānuvacanācca // Gaut_1.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "alpaṃ vā bahu vā yasya śrutasyopakaroti yaḥ /",
+            "tamapīha guruṃ vidyāt śrutopakriyayā tayā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upanīya tu yaḥśiṣyaṃ vedamadhyāpayeddvijaḥ /",
+            "sakalpaṃ sarahasyaṃ ca tamācāryaṃ pracakṣate //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ekādaśadvādaśayoḥ kṣatriyavaiśyayoḥ // Gaut_1.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ā ṣoḍaśādbrāhmaṇasyāpatitā sāvitrī // Gaut_1.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dvāvaṃśate rājanyasya // Gaut_1.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atrāpyāṅnuvartate varṣasahitam /",
+            "rājanyaśabdaprayogo rājatvaprasiddhyarthaḥ, tasyopanītasyaiva rājyādhikāra iti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dvyadhikāyā vaiśyasya // Gaut_1.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dvābhyāmadhikābhyāṃ sahitā yā dvāviṃśatiḥ sā dvyadhikāḥ, caturviṃśāterityarthaḥ /",
+            "caturviṃśateriti vaktavye evamabhidhānaṃ pūrvatrāṅo 'bhividhijñāpanārtham //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mauñjījyāmaurvīsautrayo mekhalāḥ krameṇa // Gaut_1.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mauñjī trivṛt samā ślakṣṇā kāryā viprasya mekhalā /",
+            "kṣatriyasya tu maurvī jyā vaiśyasya śaṇatāntavī //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "muñjābhāve tu kartavyā kuśāśmantakabalbajaiḥ /",
+            "trivṛtā granthinaikena tribhiḥ pañcabhireva veti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṛṣṇarurubastājināni // Gaut_1.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ajinaśabdaḥ pratyekamabhisambadhyate /",
+            "kṛṣṇaḥ kṛṣṇamṛgaḥ, ruruḥ pṛṣanmṛgaḥ, bastaḥ prasiddhaḥ /",
+            "etāni krameṇottarīyāṇi /",
+            "tathā ca smṛtyantaram-'ajinamevottarīyaṃ dhārayeyuḥ'; iti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "vāsāṃsi śāṇakṣaumacīrakutapāḥsarveṣām // Gaut_1.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kārpāsaṃ cāvikṛtam // Gaut_1.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarveṣāmityanuvartate, vāsa iti ca /",
+            "avikṛtamarāgasambandham /",
+            "svabhāvataḥ śuklamevetyarthaḥ /",
+            "pūrveṣāmapyavikṛtatvajñāpanārthaścaśabdaḥ //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "kāṣāyamapyeke // Gaut_1.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rāgasambandhamapi kecidicchanti /",
+            "apiśabdo nindārthaḥ /",
+            "ataḥ pūrveṣāmabhāve draṣṭavyam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "vārkṣaṃ brāhmaṇasya // Gaut_1.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "māñjiṣṭhahāridre itarayoḥ // Gaut_1.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mañjiṣṭhayā vikṛtaṃ kṣatriyasya /",
+            "haridrayā vikṛtaṃ vaiśyasya //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bailvapālāśau brāhmaṇadaṇḍau // Gaut_1.24 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bailvaḥ pālāśo vā brāhmaṇasya daṇḍaḥ /",
+            "yadyapi dvandvanirdeśaiḥ, tathāpi 'yajñiyo vā sarveṣām'; ityekavacananirdeśāt, 'pratigṛhyepsitaṃ daṇḍam'; iti smṛtyantaradarśanācca ekasyaiva dhāraṇaṃ yuktam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āśvatthapailavo śeṣe // Gaut_1.25 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aśvatthaḥ prasiddhaḥ, pīluḥ kalkiḥ, śeṣe kṣatriyavaiśyaviṣaye /",
+            "tatrāpi kṣatriyasyāśvatthaḥ, vaiśyasya pailavaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yajñiyo vā sarveṣām // Gaut_1.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yajñārhe vā syāt vibhītakabilvakayāvakādirvarjito vṛkṣaviśeṣa ityarthaḥ /",
+            "vāśabdo 'bhāvavikalpārthaḥ, ataḥ pūrveṣāmabhāve /",
+            "anyathāpārtho vāśabdaḥ /",
+            "sarveṣāṃgrahaṇamanantarayoreva mā bhūditi //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "apīḍitā yūpavakrāḥsaśalkāḥ // Gaut_1.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ṛjavaste tu sarve syuravraṇāḥsaumyadarśanāḥ /",
+            "anudvegakarā nṝṇāṃ satvaco 'nagnidūṣitāḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mūrghalalāṭanāsāgrapramāṇāḥ // Gaut_1.28 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "keśāntiko brāhmaṇasya daṇḍaḥ kāryaḥ pramāṇataḥ /",
+            "lalāṭasammito rājñaḥ syāttu nāsāntiko viśaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "muṇḍajaṭilaśikhājaṭāśca // Gaut_1.29 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dravyahasta ucchiṣṭo nidhāyācāmet // Gaut_1.30 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pracarannabhyavahāryeṣu ucchiṣṭaṃ yadi saṃspṛśet /",
+            "bhūmau nidhāya taddravyamācamya pracaretpunaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ucchiṣṭena tu saṃspṛṣṭo dravyahastaḥ kathaṃcana /",
+            "anidhāyaiva taddravyamācāntaḥśucitāmiyāt //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pakvasya bhūmau nikṣipya prokṣaṇācchuddhiḥ /",
+            "anabhyavahāryadravyasya vastrāderanidhāyācamanācchuddhiḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "taijasamārttikadāravatāntavānām // Gaut_1.31 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "madyamūtrapurīṣaiśca śleṣmapūyāśruśoṇitaiḥ /",
+            "saṃspṛṣṭaṃ naiva śuddhyeta punaḥpākena mṛnmayam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "taijasavadupalamaṇiśaṅkhaśuktīnām // Gaut_1.32 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti manuvacanam /",
+            "'payasā śaṅkhaśuktīnām'; iti paiṭhīnasivacanam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dāruvadasthibhūmyoḥ // Gaut_1.33 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āvapanaṃ ca bhūmeḥ // Gaut_1.34 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "khananāddahanāddharṣāt gobhirākramaṇādapi /",
+            "caturbhiḥśuddhyate bhūmiḥ pañcamāccopalepanāt //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sammārjanena sekena dāhenollekhanena ca /",
+            "gavāṃ ca parivāsena bhūmiḥśuddhyati pañcabhiḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "celavadrajjuvidalacarmaṇām // Gaut_1.35 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "utsargo vātyantopahatānām // Gaut_1.36 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rajjvādīnāṃ tyāgo vā /",
+            "vyavasthaitavikalpo 'yam /",
+            "ato 'tyantopahatānāṃ tyāgaḥ /",
+            "itareṣāṃ śaucamiti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "prāṅmukha udaṅmukho vā śaucamārabheta // Gaut_1.37 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śucau deśa āsīno dakṣiṇaṃ bāhuṃ jānvantarā kṛtvā yajñopavītyā maṇibandhātpāṇī prakṣālya vāgyato hṛdayaspṛśastriścaturvāpa ācāmet // Gaut_1.38 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "snātakānāṃ tu nityaṃ syādantarvāsastathottaram /",
+            "yajñopavīte dde yaṣṭiḥ sodakaśca kamaṇḍaluḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dviḥ parimṛjyāt // Gaut_1.39 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prakṛtāboṣṭhau, atrānuktatvāt, smṛtyantaradarśanācca, brāhmeṇaiva tīrthena /",
+            "parityupasargo vidhyantaropasaṃgrahārthaḥ /",
+            "tatra tūktaṃ kaṇvena-'atharvavedetihāsapurāṇāni dhyāyan brāhmeṇa tīrthenoṣṭhayoḥ salomapradeśaṃ mṛjyāt'; iti //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "pādau cābhyukṣet // Gaut_1.40 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "khāni copaspṛśecchīrṣaṇyāni // Gaut_1.41 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "trirācāmedapaḥ pūrvaṃ dvirunmṛjyāttato mukham /",
+            "khāni copaspṛśedadbhirātmānaṃ hṛdayaṃ śiraḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mūrdhani ca dadyāt // Gaut_1.42 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "suptvā bhuktvā kṣutvā ca punaḥ // Gaut_1.43 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "punargrahaṇaṃ ādāvante cācamanaṃ kuryādityevamartham /",
+            "cakārāt snātvā ruditvā ca /",
+            "tathā ca vasiṣṭhaḥ- 'suptvā bhuktvā kṣutvā snātvā pītvā ruditvā cācāntaḥ punarācāmet'; iti //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "'suptvā bhuktvā kṣutvā snātvā pītvā ruditvā cācāntaḥ punarācāmeddvi'; iti /",
+            "evaṃ ca bhojane ādāvante cca dvirācamanaṃ svāpādāvekamante ca dviḥ /",
+            "kṣutasyāniyatatvādanta eva dviriti siddhāntaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "daśanāntaralagneṣu bhakṣyabhojyāvayaveṣu dantavat anucchiṣṭo bhavatītyarthaḥ /",
+            "na cejjihvayā saṃspṛśyante //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prākcyuterityeke // Gaut_1.44 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "cyuteṣvāsrāvavadvidyānnigiranneva tacchuciḥ // Gaut_1.46 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na mukhyā vipruṣa ucchiṣṭaṃ kurvanti na cedaṅge nipatanti // Gaut_1.47 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mukhe bhavā mukhyāḥ vipruṣa āsrābāvayavāḥ te mantrayamāṇasya vinirgatā nāprāyatyaṃ janayanti yadyaṅge stanodarādau na nipatanti /",
+            "niśabdo niścayārthaḥ ato niścayena yadyaṅge patanti tadānīmevocchiṣṭaṃ janayanti nāśaṅkāmātreṇeti /",
+            "evaṃ cocchiṣṭāvayavo yatrakutracinnipatannucchiṣṭaṃ janayati, āsrāvo 'ṅga eveti siddhāntaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "lepagandhāpakarṣaṇe śaucamamedhyaliptasya // Gaut_1.48 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "lepagandhayorapanayane kṛte amedhyaliptasya amedhyasambaddhasya śucitvaṃ bhavati /",
+            "amedhyaśabdena dvādaśamalā ucyante //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vasā śuklamasṛṅmajjā mūtraviḍghrāṇakarṇaviṭ /",
+            "śleṣmāśru dūṣikā svedo dvādaśaite nṛṇāṃ malāḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anabhivyaktagandhānāṃ śleṣmādīnāṃ lepamātradarśanāt lepagrahaṇam /",
+            "mūtrādīnāṃ lepānupalabdhergandhamātropalabdheśca gandhagrahaṇam /",
+            "śaucādhikāre punaḥ śaucagrahaṇaṃ taijasādīnāmapi lepagandhāpanayanayādeva śaucamityevamartham //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "tadadbhiḥ pūrvaṃ mṛtā ca // Gaut_1.49 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nirlepaṃ kāñcanaṃ bhāṇḍamadbhireva viśudhyati /",
+            "abjamaśmamayaṃ caiva rājataṃ cānupaskṛtam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "athavā yatra yatra śaucamuktaṃ tatra tatrādbhireva śaucaṃ prathamaṃ kāryamityevamartham /",
+            "yathā mṛdā adbhiriti samuccīyate tathā bhasmādibhirapi samuccayārtho visamāsaḥ /",
+            "taisajādīnāṃ dravyāṇāmuktatvāt idaṃ śaucaṃ śarīrāvayavasyāmedhyaliptasya draṣṭavyam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "mūtrapurīṣasrehuvisraṃsanābhyavahārasaṃyogeṣu ca // Gaut_1.50 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "retasaśca ye lepāstān prakṣālya pādau cācamya prayato bhavati'; iti /",
+            "mūtrapurīṣau prasiddhau /",
+            "srehū retaḥ /",
+            "mūtrādīnāmācamanārthamupanyāsaḥ lepagandhāpakarṣasya 'lepagandhāpakarṣaṇe śaucam'; ityanenaiva siddhatvāt //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "yatra cāmnāyo vidadhyāt // Gaut_1.51 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pāṇinā savyamupasaṅgṛhyānaṅguṣṭhamadhīhi bho ityāmantrayeta gurum // Gaut_1.52 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra cakṣurmanāḥ // Gaut_1.53 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāṇopasparśanaṃ darbhaiḥ // Gaut_1.54 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāryamiti śeṣaḥ /",
+            "sākṣātprāṇānāmupasparśanāsambhavāt prāṇa iti cakṣurādīndriyāṇi śīrṣaṇyānyucyante /",
+            "tānyupasparśayeddarbhairācamanoktena krameṇa //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "prāṇāyāmāstrayaḥ pañcadaśamātrāḥ // Gaut_1.55 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāryā iti śeṣaḥ /",
+            "prāṇāyāmaḥ prāṇanirodhaḥ nirucchvāsenāvasthānaṃ, te trayaḥ kāryāḥ /",
+            "pratyekaṃ pañcadaśamātrāḥ /",
+            "mātrā nāma madhyamāṅguṣṭhaśabdena loke prasiddhā //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "prākkūleṣvāsanaṃ ca // Gaut_1.56 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prāgagreṣu, prakaraṇāddarbheṣu, āsanamupaveśanaṃ, kāryamiti śeṣaḥ /",
+            "cakārāt darbhapavitraprāṇiśca //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "oṃpūrvā vyāhṛtayaḥ pañca satyāntāḥ // Gaut_1.57 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udāhartavyā iti śeṣaḥ /",
+            "pratyekaṃ praṇavapūrvā bhūrādyāstisraḥ puruṣamadhyāḥ satyāntāḥ /",
+            "evaṃ jābāliśrutau prasiddhaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "guroḥ pādopasaṅgrahaṇaṃ prātaḥ // Gaut_1.58 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vyatyastapāṇinā kāryamupasaṅgrahaṇaṃ guroḥ /",
+            "savyena savyaḥ spṛṣṭavyo dakṣiṇena tu dakṣiṇaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prātarutthāyotthāya pratidinam /",
+            "gurugrahaṇaṃ ātmano mā bhūditi /",
+            "taṭaḥ pūrvaṃ prāṇopasparśanamātmanaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "brahmānuvacane cādyantayoḥ // Gaut_1.59 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vedapāṭhasyādyantayoḥ ārambhāvasānayoḥ /",
+            "cakāraḥ pādopasaṅgrahaṇānukarṣaṇārthaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anujñāta upaviśetprāṅmukho dakṣiṇataḥ śiṣya udaṅmukho vā // Gaut_1.60 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryeṇādiṣṭaḥ tasya dakṣiṇasyāṃ diśi prāṅmukha udaṅmukho vopaviśet saṃbhavato vikalpaḥ āsīnasyācāryasya yathā tadabhimukho bhavati tathā prāṅmukha udaṅmukho vā upaviśedityarthaḥ /",
+            "kathaṃ ? 'tatra caturmanāḥ '; ityuktatvāt /",
+            "śiṣyagrahaṇamanyasyāpyupasannasyāyameva vidhiriti jñāpanārtham /",
+            "'anujñāto dakṣiṇataḥ'; iti ca niyamārthaḥ nānanujñāta upaviśennādakṣiṇata iti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "sāvitrī cānuvacanamādito brahmaṇa ādāne // Gaut_1.61 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "oṅkārapūrvikāstisro mahāvyāhṛtayo 'vyayāḥ /",
+            "tripadā caiva gāyatrī vijñeyā brahmaṇo mukham //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anuvacanamadhyetavyam /",
+            "brahmaṇo vedasyādāne ārambhe adhyayanārambhakāla ityarthaḥ /",
+            "āditaḥ pūrvam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "oṅkāro 'nyatrāpi // Gaut_1.62 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "antarāgamane punarupasadanam // Gaut_1.63 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śvanakulasarpamaṇḍūkamārjārāṇāṃ tryahamupavāso vipravāsaśca // Gaut_1.64 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paśumaṇḍūkamārjāraśvasarpanakuleṣu ca /",
+            "antarā gamane vidyādanadhyāyamaharniśam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prāṇāyāmā ghṛtaprāśanaṃ cetareṣām // Gaut_1.65 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "itareṣāṃ kākādīnāṃ prāṇāyāmāstrayaḥ, bahuvacanaśravaṇāt /",
+            "ghṛtaprāśanaṃ kāyāplavanamātram /",
+            "upasadanānukarṣeṇārthaḥ cakāraḥ /",
+            "tatastrīnprāṇāyāmān dhārayitvā ghṛtaṃ prāśyopasadanaṃ ca kṛtvādhīyīta, anadhyāyāśravaṇāt //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "śmaśānābhyadhyayane caivaṃ śmaśānābhyadhyayane caivam // Gaut_1.66 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "oṃ",
+        "gautamagṛhyasūtram.",
+        "maskaribhāṣyasahitam."
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "verse_count": 117,
+      "verse_groups": [
+        {
+          "lines": [
+            "prāgupanayanātkāmacāravādabhakṣaḥ // Gaut_2.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atrocyate-yadvihitākaraṇe pratipiddhasevane vā prāyaścittamuktaṃ rājadaṇḍo vā tadubhayamasyāpi prāpnotyeva /",
+            "yadyapyasyaivoddeśena vidhiḥ pratiṣedho vā na śrūyate, tathāpi yattu sāmānyenoktaṃ 'ahiṃsā satyamasteyam'; ityādi, tdavarṇadharmatvādasyāpi prāpnoti /",
+            "tadvyatikrame rājadaṇḍaprāyaścitte api bhavataḥ /",
+            "ataḥ tannivṛttyarthamanuvādasvarūpaṃ sūtramārabdham //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "āśītiryasya varṣāṇi bālo vāpyūnaṣoḍaśaḥ /",
+            "prāyaścittārdhamarhanti striyo vyādhita eva ca //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ūnaikādaśavarṣasya pañcavarṣātparasya ca /",
+            "caretsuhṛdguraścaiva prāyaścittaṃ viśuddhaye //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ato bālatarasyātha nāparādho 'sti kutra cit /",
+            "rājadaṇḍaśca tasyātaḥ prāyaścittaṃ ca neṣyate //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evaṃ copanayanātprāgyadyapi sāmānyena kāmacāritvādyuktaṃ, tathāpi pañcavarṣātprāgevātyantakāmacāritā, tata ūrdhvaṃ varṇadharmeṣu niyoktavyaḥ pitrādibhiḥ, tadvyatikrame bālasya sataḥ pitrādīnāṃ prāyaścittasya śravaṇāt /",
+            "alamatiprasaṅgena //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ato 'tyantabālāvasthāyāmapi brahmahatyāderyatnato nivārayitavyaḥ /",
+            "kāmavāde abhiśaṃsādau kāmabhakṣaṇe surāpānādau cātyantavālyāvasthāyāmapi yatnato nivārayitavya-, kāmacāra ityanenaiva siddhe vādabhakṣaṇayoḥ punarupanyāsāt /",
+            "upanayanāditi vaktavye prāggrahaṇaṃ niyamārthaṃ, upanayanātprāgeva kāmacāritvādīti /",
+            "asati niyame 'uttareṣāṃ caitadavirodhi'; ityanena hutaśiṣṭabhakṣaṇavarjanādi yatīnāmapi prāpnotīti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "ahutādbrahmacārī // Gaut_2.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "brahmacārī // Gaut_2.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yathopapādamūtrapurīṣo bhavati // Gaut_2.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nāsyācamanakalpo vidyate // Gaut_2.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anyatrāpamārjanapradhāvanāvokṣaṇebhyaḥ // Gaut_2.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na tadupasparśanādaśaucam // Gaut_2.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadgrahaṇenākṛtaśauco gṛhyate /",
+            "akṛtaśaucasparśanāttena vā spṛṣṭasyāśucitvaṃ na bhavati /",
+            "atibālaviṣayamevaitat //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "tarhyasya śaucavidhānamanarthakaṃ, kutaḥ ? dvayameva prayojanaṃ śaucavidhānasya dṛśyate itarasparśayogyārthamanuṣṭhānārthaṃ ca /",
+            "asya tu itarasparśayogyārthaṃ na bhavati, akṛtaśaucasyāpi sparśayogyatvāt /",
+            "'na tadupasparśanādaśaucam'; ityanena /",
+            "anuṣṭhānārthaṃ ca na bhavati, asyānuṣṭhānābhāvāditi //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "nānarthakaṃ, rakṣārthatvācchaucavidhānasyeti /",
+            "tathāca smṛtyantaraṃ-'bālasyāpañcamādvarṣādrakṣārthaṃ śaucaṃ kuryāt'; iti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśuciṃ spṛśate yastu eka eva hi duṣyate /",
+            "taṃ spṛṣṭvānyo na duṣyeta sarvadravyeṣvayaṃ vidhiḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "caṇḍālasparśane tu śavaspṛṣṭisūtre vakṣyati /",
+            "'tamupaspṛśet'; iti vaktavye 'na tadupasparśanādaśaucam'; iti gurasūtrakaraṇaṃ prāgupanayanādityatra niyamamyāpi bādhanārtham /",
+            "tataścopanayanādūrdhvamapyucchiṣṭakṛtamūtrapurīṣāṇāṃ sparśane ācamanaṃ kartavyam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "na tvenainamagnihavanabaligrahaṇayorniyuñjyāt // Gaut_2.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "naiva kanyā na yuvatirnālpavidyo na bāliśaḥ /",
+            "hotā syādagnihotrasya nārto nāsaṃskṛtastathā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na brahmābhivyāhārayedanyatra svadhāninayanāt // Gaut_2.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "upanayanādirniyamaḥ // Gaut_2.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "upanayanādārabhya yo vidhiruktaḥ sa niyamasaṃjño bhavati /",
+            "evaṃ cāsyākaraṇe prāyaścittaṃ na pūrvasya /",
+            "ato vā ārabhya niyamaḥ vratadhāraṇaṃ yo vakṣyate 'gnīndhanādiḥ sa niyamaḥ upanayanādiḥ kartavyaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "uktaṃ brahmacaryam // Gaut_2.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "uktagrahaṇaṃ prāgupanayanānniyama evaitaditi /",
+            "tataśca tatskhalane 'nupanītasyāpi avakīrṇiprāyaścittenaivādhikāro draṣṭavyaḥ /",
+            "tathāca smṛtyantaraṃ-'viplutamavakīrṇivratena śuddhamupanayedūnasaptadaśavarṣaṃ, ata ūrdhvaṃ brātyāvakīrṇivratābhyām'; iti /",
+            "brahmacāriṇastu strīprekṣaṇādipratiṣedhādarthasiddhamiti cet, na, paśvādaṣvapi sambhavāt //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "agnīndhanabhaikṣacaraṇe // Gaut_2.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratigṛhyepsitaṃ daṇḍamupasthāya ca bhāskaram /",
+            "pradakṣiṇaṃ parotyāgniṃ caredbhaikṣaṃ yathāvidhi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dūrādāhṛtya samidhaḥ sannidadhyādvihāyasi /",
+            "sāyaṃ prātaśca juhuyāttābhiragnimatandritaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "satyavacan // Gaut_2.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "akṛtvā bhaikṣacaraṇamasamidhya ca pāvakam /",
+            "anāturaḥ saptarātramavakīrṇivrataṃ caret //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "apāmupasparśanam // Gaut_2.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "snānāni pañca puṇyāni kīrtitāni maharṣibhiḥ /",
+            "āgneyaṃ vāruṇaṃ vrāhyaṃ vāyavyaṃ divyameva ca //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āgneyaṃ bhasmanā snānamavagāhaṃ tu vāruṇam /",
+            "āpo hiṣṭheti ca brāhmaṃ vāyavyaṃ gorajaḥ smṛtam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yattu syātsātapaṃ varṣaṃ divyaṃ snānaṃ taducyate /",
+            "aśakto vāruṇe snāne āgneyādi samācaret //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na snānamācaredbhuktvā nāturo na mahāniśi /",
+            "na vāsobhiḥsahājasraṃ nāvijñāte jalāśaye //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "eke godānādi // Gaut_2.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bahiḥsandhyatvaṃ ca // Gaut_2.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tiṣṭhetpūrvāmāsītottarāṃ sajyotiṣyā jyotiṣo darśanādvāgyataḥ // Gaut_2.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pūrvāṃ sandhyāṃ japan tiṣṭhennaiśameno vyapohati /",
+            "paścimāṃ tu samāsīno malaṃ hanti divā kṛtam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛṣayo dīrghasandhyatvāddīrghamāyuravāpnuyuḥ /",
+            "prajñāṃ yaśaśca kīrtiṃ ca brahmavarcasameva ca //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "'tiṣṭhanpūrvāṃ sandhyāmāsīna uttarāmupāsīta'; iti vaktavye evamabhidhānaṃ smṛtyantaroktasyāpi vidhergrahaṇārtham /",
+            "tathā'hośanā-'sāyaṃ prātarudakaṃ gatvā pūto bhūtvā pavitreṇa mārjayitvā āpohiṣṭhīyābhistisṛbhirabliṅgābhiḥ vāmadevyena ca, tataḥ śuco deśe darbheṣvāsīno darbhāndhārayamāṇaḥ pratyaṅmukho vāgyata ātmānaṃ dhyātvā tataḥ sarecakaṣūrakakumbhakādīn trīn prāṇāyāmān dhārayitvā ṛṣicchabdodevatādhyānapūrvakaṃ bhūrbhuvaḥsvarityādikāṃ sāvitrīṃ sahasrakṛtva āvartayecchatakṛtvo vā daśāvarāmathottiṣṭhamnagniyamabrahmabhyaḥ pratyagdakṣiṇodīcyāsu namaskṛtvā triḥ pradakṣiṇaṃ kṛtvā punarapi pratīcīṃ diśaṃ namaskuryāt /",
+            "evameva prātaḥ prāṅmukhastiṣṭhanmitrādibhyo namaskuryāt'; //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "nādityamīkṣeta // Gaut_2.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paṭhet /",
+            "ubhayathākaraṇādanyābhiprāyeṇedamuktamiti jñātuṃ śakyate /",
+            "abhiprāyaśca smṛtyantarokto draṣṭavyaḥ yathā cāhośanā-'nekṣetādityaṃ sandhyāgataṃ madhyaṃdinagataṃ rāhugrastaṃ vāristham'; iti //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "varjayenmadhumāṃsagandhamālyadivāsvapnāñjanābhyañjanayānopānacchatrakāmakrodhalobhamohavādavādanasnānadantadhāvanaharṣanṛttagītaparivādabhayāni // Gaut_2.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vratavaddevadaivatye pritrayai karmaṇyatharṣivat /",
+            "kāmamabhyarthito 'śnīyādvratamasya na lupyate //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gurudarśane kaṇṭhaprāvṛtāvasakthikāpāśrayaṇapādaprasāraṇāni // Gaut_2.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "niṣṭhīvitahasitavijṛmbhitāvasphoṭanāni // Gaut_2.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "strīprekṣaṇalambhane maithunaśaṅkāyām // Gaut_2.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dyūtaṃ hīnasevāmadattādānaṃ hiṃsām // Gaut_2.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryatatputrastrīdīkṣitanāmāni // Gaut_2.24 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varjayediti prastutam /",
+            "ācāryasya tatputrasya ca tadbhāryāyāśca dīkṣitasya ca saṃjñāṃ pitrādikṛtāṃ noccārayet //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śuktā vācaḥ // Gaut_2.25 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śuktāḥ niṣṭhurāḥ parasyogvegakāriṇvaḥ /",
+            "sarveṣāṃ varjayet //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "madyaṃ nityaṃ brāhmaṇaḥ // Gaut_2.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gauḍī mādhvī ca paiṣṭī ca vijñeyā trividhā surā /",
+            "yathaivaikā tathā sarvā na pātavyā dvijottamaiḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhaḥśayyāsanī pūrvotthāyī jaghanyasaṃveśī // Gaut_2.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vāgbāhūdarasaṃyataḥ // Gaut_2.28 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nāmagotre guroḥsamānato nirdiśet // Gaut_2.29 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryaṃ caiva tatputraṃ tadbhāryāṃ dīkṣitaṃ gurum /",
+            "pitaraṃ ca pitṛvyaṃ ca mātaraṃ mātulaṃ tathā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hitaiṣiṇaṃ ca vidvāṃsaṃ śvaśuraṃ patimeva ca /",
+            "na brūyānnāmato vidvān mātuśca bhaginīṃ tathā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "arcite śreyasi caivam // Gaut_2.30 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "arcito mānyo vidvānityarthaḥ /",
+            "śreyān hitaiṣī vayasā ca vṛddha iti draṣṭavyam /",
+            "cakārādevaitasmin siddhe evaṃśabdaḥsamastātideśārthaḥ /",
+            "tataśca gurudarśane yadabhivādanādi tadatrāpi draṣṭavyam //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "śayyāsanasthānāni vihāya pratiśravaṇam // Gaut_2.31 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadā gururājñāṃ dadyāttadā śayanaṃ khaṭvādi /",
+            "āsanaṃ phalakādi /",
+            "sthānaṃ yatra sthitaḥ /",
+            "etāni vihāya tyaktvā pratiśravaṇaṃ prativacanaṃ dadyādityarthaḥ //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "abhikramaṇaṃ vacanādadṛṣṭena // Gaut_2.32 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "adhaḥsthānāsanatiryagvātasevāyāṃ gurudarśane cottiṣṭhet // Gaut_2.33 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kūpasthitaṃ guruṃ dṛṣṭvā taṭākasthaṃ tathaiva ca /",
+            "tiṣṭhedanyamukho bhūtvā śiṣyo dāsastathaiva ca //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "athavā-cakārādapagamanamucyate /",
+            "evaṃ sūtrārthaśca tadānīṃ draṣṭavyaḥ adhaḥsthānāsanatiryagvātasevāyāmuttiṣṭhet apayāyācca krameṇeti tatrādhaḥsthānāsane dṛṣṭvottiṣṭhet /",
+            "tiryagvātasevāyāmapayāyāditi kramaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "gacchantamanuvrajet // Gaut_2.34 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "karma vijñāpyākhyāya // Gaut_2.35 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadasya karma kartavyaṃ tatkaromītyācāryasya vijñāpya tatkṛtvā kṛtamityākhyāya tiṣṭhet /",
+            "vākyasyāparipūrṇatvāt vijñāpyetyatra kṛtvā ityadhyāhartavyam /",
+            "ākhyāyetyatrāpi tiṣṭhediti kriyā ca, 'praviśa piṇḍīm'; itivat //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "āhūtādhyāyī // Gaut_2.36 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadaiva guruṇā'hūto bhavati tadaivādhīyīta /",
+            "na tvenaṃ codayedityarthaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuktaḥ priyahitayoḥ // Gaut_2.37 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadbhāryāputreṣu caivam // Gaut_2.38 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya yau savarṇau sadṛśau bhāryāputrau tayorapi priyahitayoryuktaḥsyāt /",
+            "cakārāt kaṇṭhaprāvṛtādyapi /",
+            "kutaḥsavarṇayoreva grahaṇamiti cet bahuvacanasya pūjārthatvāt //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "nocchiṣṭāśanasnāpanaprasādhanapādaprakṣālanonmardanopasaṃgrahaṇāni // Gaut_2.39 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viproṣyopasaṃgrahaṇaṃ gurabhāryāṇām // Gaut_2.40 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viproṣya pratyāgatena gurubhāryāṇāmupasaṃgrahaṇaṃ kāryam /",
+            "nānyadā /",
+            "nānyasyāḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "naike yuvatīnāṃ vyavahāraprāptena // Gaut_2.41 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gautamaḥ /",
+            "āśaṅkanīyānāśaṅkanīyāpekṣayā draṣṭavyaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sārvavarṇikaṃ bhaikṣacaraṇamabhiśastapatitavarjam // Gaut_2.42 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kimarthamidaṃ sūtramārabhyate ? bhaikṣacaraṇaṃ tāvadanena na vidhīyate 'agnīndhanabhaikṣacaraṇe'; ityanena vihitatvāt /",
+            "abhiśastapativarjanaṃ ca 'praśastānāṃ svakarmasu'; ityanenoktatvāditi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śūdrānnarasapuṣṭāṅgo yodhīyānopi nityaśaḥ /",
+            "juhvannapi japanvāpi gatimūrdhvāṃ na vindati //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmādanāpadyeva brahmacāriṇaḥ apraśastadvijātiprāpaṇārthoyamārambhaḥ apraśastānāmaviśeṣeṇa prāptau satyāṃ 'abhiśastapatitavarjaṃ'; iti yujyate ca pratiṣedhaḥ /",
+            "itarathā śūdraprāpaṇe sati abhiśastādīnāṃ prāptyabhāvādeva pratiṣedho na yujyata iti na ca śakyate vaktuṃ śūdraviṣaya evāyamapavāda iti, yatra hi dvijātayaḥ praśastā adhikriyante tatra śūdro 'pi praśasta eveti itarasya prasaṅga eva nāstīti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kecitsarveṣu varṇeṣu bhavaṃ sārvavarṇikamiti vigrahaṃ kurvanti teṣāṃ sarvaśabdasya prayojanaṃ na vidmaḥ /",
+            "apraśastadvijātiprāpaṇārthaṃ cenna sūtrārambhasyāpi tasyaiva prayojanatvāt /",
+            "śūdraprāpaṇārthatve 'pyukta eva parihāraḥ tasmāttadbhūsurairvicāraṇīyam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "adimadhyānteṣu bhavacchabdaḥ prayojyo varṇānupūrvyeṇa // Gaut_2.43 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryajñātigurusveṣvalābhe 'nyatra // Gaut_2.44 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācārya uktaḥ /",
+            "jñātiḥ sapiṇḍaḥ, gururmātulādiḥ, svamātmīyam /",
+            "anyatrālābhe eṣu bhaikṣaṃ prārthanīyam /",
+            "kramastu pratipāditaḥ //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "teṣāṃ pūrvaṃ pūrvaṃ pariharet // Gaut_2.45 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhaikṣaṃ paricaritavyam /",
+            "nopādhyāyagṛhādityevaṃ niyamārthaṃ teṣāṃ grahaṇam /",
+            "tataśca sarvatrālābhe upādhyāyagṛhādityeva draṣṭavyam /",
+            "tathāca smṛtyantaraṃ\"alābhe 'nyatropādhyāyagṛhādapi\"iti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "nivedya gurave 'nujñāto bhuñjīta // Gaut_2.46 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "idaṃ bhaikṣamiti gurave kathayitvā tato bhuṃkṣveti tenānujñāto bhuñjīta /",
+            "evañca nivedanaṃ bhaikṣasaṃskārārthaṃ, anujñāta iti vacanāt /",
+            "yadi gururgṛhṇīyāt tadānyadāhartavyam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "asannidhau tadbhāryāputrasabrahmacārisadbhyaḥ // Gaut_2.47 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryasannidhānena tadbhāryādīnāṃ nivedanaṃ yathāsambhavaṃ kartavyam /",
+            "tadgrahaṇaṃ bhāryāputrayoḥ samānajātīyatvajñāpanārtham /",
+            "sabrahmacārī samānacaraṇaḥ, san sādhu prakṛṣṭaguṇaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "vāgyatastṛpyannalolupyamānaḥ sannidhāyodakam // Gaut_2.48 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mekhalāmajinaṃ daṇḍamupavītaṃ kamaṇḍalum /",
+            "apsu prāsya vinaṣṭāni gṛhṇītānyāni mantravat //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "apsu pāṇau ca kāṣṭhe ca kalpitaḥ pāvakaḥ śuciḥ /",
+            "tasmādudakapāṇibhyāṃ parimṛjyātkamaṇḍalum //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti /",
+            "kecitsamupasargādevaitamarthaṃ samarthayanti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śiṣyaśiṣṭiravadhena // Gaut_2.49 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śiṣyāśiṣṭiḥ śiṣyaśāsanaṃ, avadhena vadhaṃ muktvā, nirrbhatsanādinā kartavyamityarthaḥ /",
+            "adhikārādeva siddhe śiṣyagrahaṇamanyasyāpi śāsanīyasya bhāryāputrāderayameva dharma iti jñāpanārtham //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśaktau rajjuveṇuvidalābhyāṃ tanubhyām // Gaut_2.50 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nirrbhatsanādinā śāsanāśaktau rajjvā veṇuvidalena vā /",
+            "sahanirdiṣṭayorapi tulyārthatvāt vikalpaḥ /",
+            "tenāpi tanunā śāsyaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "anyena ghnatrājñā śāsyaḥ // Gaut_2.51 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anyena hastapādādinā krodhena ghnatrājñā daṇḍyaḥ /",
+            "gauravārthaṃ rājagrahaṇam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dvādaśa varṣāṇyekavede brahmacaryaṃ caret // Gaut_2.52 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prati dvādaśa vā // Gaut_2.53 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarveṣu grahaṇāntaṃ vā // Gaut_2.54 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "iti /",
+            "soyamuktāvadherūrdvamarvāgvāpavādaḥ /",
+            "niyamenādhītaṃ vīryavadbhavatīti niyamoktiḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "vidyānte gururarthena nimantryaḥ // Gaut_2.55 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṛtvānujñātasya vā snānam // Gaut_2.56 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṛtvā datvetyarthaḥ, gurūpadiṣṭamartham /",
+            "tena vā alaṃ gurudakṣiṇayetyanujñātasya snānaṃ samāvṛttiḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ācāryaḥ śreṣṭho gurūṇām // Gaut_2.57 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācārya uktalakṣaṇaḥ, sa śreṣṭhaḥ pradhāno gurūṇāṃ anyeṣāṃ pitrādīnām /",
+            "tataśca 'saṃnipāte parasya'; ityatra paraśabdenāyamevocyate //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mātetyeke mātetyeke // Gaut_2.58 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryastvasya yāṃ jātiṃ vidhivadvedapāragaḥ /",
+            "utpādayati sāvitryā sā satyā sājarāmarā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upādhyāyaddaśācārya ācāryāttu śataṃ pitā /",
+            "sahasraṃ tu piturmātā gauraveṇātiricyate //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "dvitīyo 'dhyāyaḥ",
+        "dvijānāmuktamupanayanam /\nteṣāmupanayanātprāgapi kaiścidvarṇadharmairadhikāra iṣyata iti tadarthamāha-",
+        "nanu ca prāgevopanayanādetadvaktavyaṃ, tatra prāgupanayanādityetanna vaktavyaṃ bhavati //"
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "verse_count": 73,
+      "verse_groups": [
+        {
+          "lines": [
+            "tasyāśramavikalpameke bruvate // Gaut_3.1 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vedānadhītya vedau vā vedaṃ vāpi yathākramam /",
+            "aviplutabrahmacaryo gṛhasthāśramamāvaset //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarve 'pi kramaśastvete yathāśāstraṃ niṣevitāḥ /",
+            "yathoktakāriṇaṃ vipraṃ nayanti paramāṃ gatim //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atrāpiśabdādeko 'pi draṣṭavyaḥ /",
+            "āpastambopyāha-'catvāra āśramā gārhasthyamācāryakule vasanaṃ maunaṃ vānapraśthyāmiti /",
+            "teṣu sarveṣu yathopadeśamavyagraṃ vartamānaḥ kṣemaṃ gacchati'; iti /",
+            "tena tulyaphalatvādvikalpa iti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "yajñena devānāpnoti vairājaṃ tapasā punaḥ /",
+            "saṃnyāsādbrahmaṇaḥ sthānaṃ vairāgyātprakṛtau layam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahmacārī gṛhastho bhikṣurvaikhānasaḥ // Gaut_3.2 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "cāturvaidyo vikalpī ca nairukto dharmapāṭhakaḥ /",
+            "brahmacārī gṛhī bhikṣuḥ parṣadeṣā daśāvarā //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prajāpatyāṃ nirupyeṣṭiṃ sarvavedasadakṣiṇām /",
+            "ātmanyagnīnsamāropya brāhmaṇaḥ pravrajet gṛhāt //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti smṛtyantaramavalambya gārhasthyādeva saṃnyāsaḥ kartavya ityevamarthaḥ kramabheda iti varṇayanti /",
+            "tatpūrvasūtreṇaiva pratipāditaṃ uta neti bhūsurairvicāraṇīyam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "teṣāṃ gṛhastho yoniraprajanatvāditareṣām // Gaut_3.3 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "caṇḍālāḥ pratyavasitāḥ parivrājakatāpasāḥ /",
+            "teṣāṃ jātānyapatyāni caṇḍālaiḥsaha vāsayet //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti teṣāṃ gṛhastha eva yonirityukte evakārādevetareṣāṃ brahmacaryarakṣaṇe siddhe evamabhidhānameṣāṃ punarnivṛttirmā bhūditi /",
+            "yadi te gārhasthyaṃ prati nivṛtti bhaveyuḥ tadā te caṇḍālā bhavanti kutaḥ ? udāhṛtaśātātapavacanāt /",
+            "tatra- caṇḍālā bhavanti /",
+            "pratyavasitāḥ pratinivṛttāḥ ye parivrājakatāpasāḥ naiṣṭhikavaikhānasāḥ tasmātteṣāṃ jātānyapatyāni caṇḍālaiḥsahavāsayedrājā grāmo vetyarthaḥ //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "tatroktaṃ brahmacāriṇaḥ // Gaut_3.4 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ācāryādhīnatvamāntam // Gaut_3.5 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "guroḥ karmaśeṣeṇa japet // Gaut_3.6 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "guruśuśrūṣātiriktakāle japaṃ kuryāt /",
+            "evaṃ ca japa evāsya viśiṣṭaṃ dharmasādhanamiti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "teṣāṃ trayāṇāṃ śuśrūṣā paramaṃ tapa ucyate /",
+            "na tairanabhyanujñāto dharmamanyaṃ samācaret //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gurvabhāve tadapatye vṛttiḥ // Gaut_3.7 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "gurorabhāve tadapatye śuśrūṣā, adhyāpayiturabhāve tadapatye śuśrūṣeti niyamārtham /",
+            "gurugrahaṇaṃ samānajātīyāpatyagrahaṇārtham /",
+            "apatyagrahaṇaṃ bhāryānivṛttyartham //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "tadabhāve vṛddhe sabrahmacāriṇyagnau vā // Gaut_3.8 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadabhāve guruputrābhāve vidyādibhirvṛddhe, tadabhāve sabrahmacāriṇiṃ samānacaraṇe, tadabhāve agnau /",
+            "agneḥ śuśrūṣā jyotīrūpasyāgnerdhyānam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evaṃvṛtto brahmalokamavāpnoti jitendriyaḥ // Gaut_3.9 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrutvā spṛṣṭvā ca dṛṣṭvā ca bhuktvā ghrātvā ca yo nara /",
+            "na hṛṣyati glāyati vā sa vijñeyo jitendriyaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uttareṣāṃ caitadavirodhi // Gaut_3.10 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yadbrahmacāriṇa uktaṃ taduttareṣāmapi bhavati yadaviruddhaṃ dyūtādivarjanam /",
+            "yadvirudhyate tadvyāvartate yathāgnikāryaṃ pravrajitasya, gurukulavāso vaikhānasasya, gṛhasthasya brahmacaryarakṣaṇam /",
+            "caśabdaḥ uttarasya yadvakṣyamāṇaṃ tadapyaviruddhaṃ pūrveṣāmapi bhavatīti jñāpayati, 'yathā na mlecchāśucyadhārmikaiḥsaha sambhāṣeta'; ityādi //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "anicayo bhikṣuḥ // Gaut_3.11 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "idānīṃ kramaprāptasya gṛhasthasya dharmā vaktavyāḥ, tānvilaṅghya kimarthaṃ bhikṣorabhidhīyata iti cet,atrocyate- bahuvaktavyo gṛhasthaḥ /",
+            "tasyābhidhīyamānāḥ dharmāḥ aviruddhāḥ kecitkathaṃ nāma pūrveṣāṃ syuriti tadarthaṃ vyutkrameṇābhidhānam /",
+            "tarhi vaikhānasasya vaktavya iti cet, upanyāsakrameṇoktatvādadoṣaḥ //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "ato bhikṣostāvaducyate /",
+            "anicayaśabdenaupacayikadravyasya tyāga ucyate, na nityadravyasya śikhāyajñopavītādeḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "araṇyanityasya jitendriyasya sarvātmakaprītanivartakasya /",
+            "adhyātmacintāgatamānasasya dhruvā hyanāvṛttirupekṣakasya //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kiñca-nityadravyatyāge bhikṣorācamanābhāvaśca prāpnoti, 'ācamane yajñopavīti'; ityārambhāt tadabhāve ācamanasyāpyabhāvaḥ prāpnotīti /",
+            "'muṇḍaśikhī vā'; iti muṇḍapakṣe ācamanāṅgaśikhāvarjitasyāpi ācamanaṃ yuṣmābhirabhyupagamyate, tadvadasmābhirapīti cet, na, tatra vacanādadoṣaḥ 'muṇḍaḥśikhī vā'; iti /",
+            "yuṣmākaṃ tu yajñopavītaṃ tyaktavyamiti vacanābhāvāddoṣa eveti //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "kartavyaḥ /",
+            "vaisānasādeva yaḥ pravrajet tatrāpi sapatnīkapakṣe prāptasya dārasya śrāmaṇakāgnisahitasya pañcayajñāderapi tyāgaḥ kartavyaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kecinnaiṣṭhikasyāpyanicayatvavidhānārthamādābabhidhānamiti varṇayanti /",
+            "tadayuktaṃ, 'guroḥ karmaśeṣeṇa japet'; iti japasyaiva pradhānatvenopadiṣṭatvāt tenaivāgniparigrahāderapyabhāvo jñātuṃ śakyata eveti //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ūrdhvaretāḥ // Gaut_3.12 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viṣayā vinivartante nirāhārasya dehinaḥ /",
+            "rasavarjaṃ rasopyasya paraṃ dṛṣṭvā nivartate //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anaḍvānbrahmacārī ca āhitāgniśca te trayaḥ /",
+            "bhuñjānā eva sidhyanti naiṣāṃ siddhiranaśnatām //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhruvaśīlo varṣāsu // Gaut_3.13 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhikṣārthī grāmamiyāt // Gaut_3.14 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jaghanyamanivṛttaṃ caret // Gaut_3.15 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vidhūme sannamusale vyaṅgāre bhuktavajjane /",
+            "vṛtte śarāvasaṃpāte bhikṣāṃ nityaṃ yatiścaret //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti /",
+            "anivṛttaṃ yasmin gṛhe pratyākhyātaṃ tasmindine tadgrahaṃ punarna praviśedityarthaḥ /",
+            "carediti smṛtyantaropasaṅgrahaṇārtham /",
+            "yathā'ha vasiṣṭhaḥ-'vidhūme sannamusale ekaśāṭhīparihito 'jinena vā'; iti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "nivṛttāśīḥ // Gaut_3.16 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhikṣādānābhivādanādāvāśiṣāmaprayoktetyarthaḥ /",
+            "'hiṃsānugrahayoranārambhī'; ityanenaivetallabhyamiti cet, na , kriyārūpatvādanugrahasya, vāgātmakatvādāśiṣaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vākcakṣuḥkarmasaṃyataḥ // Gaut_3.17 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dharmayogaṃ pathipraśnaṃ svādhyāyaṃ ca tathaiva ca /",
+            "bhikṣārthaṃ dehivacanaṃ na nindati yaterapi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti smṛtyantaravacanāt /",
+            "cakṣuḥsaṃyamaḥ, ātmano vyādherapīkṣaṇaṃ na kartavyam /",
+            "tathā ca vasiṣṭhaḥ-'upekṣakaḥsarvabhūtānām'; iti /",
+            "karmasaṃyamaḥ yāvadvihitānuṣṭhānamātraṃ, kāmye pravṛttirmā bhūditi //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "kaupīnācchādanārthaṃ vāso bibhṛyāt // Gaut_3.18 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prahīṇameke nirṇijya // Gaut_3.19 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nāviprayuktamoṣadhivanaspatīnāmaṅgamupādadīta // Gaut_3.20 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "cet, tatra jaṅgamavadha eva hiṃseti kecidvadanti /",
+            "tadabhiprāyeṇoktatvādadoṣaḥ /",
+            "upaśabdāt prayojayitāpi na syāt //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "dvitīyāmapartu rātriṃ grāme vaset // Gaut_3.21 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "muṇḍaḥśikhī vā // Gaut_3.22 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "varjayedbījavadham // Gaut_3.23 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samo bhūteṣu // Gaut_3.24 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hiṃsānugrahayoranārambhī // Gaut_3.25 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vaikhānaso vane mūlaphalāśī tapaḥśīlaḥ // Gaut_3.26 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vaikhānasaśabdaḥ sṛtanirvacanaḥ /",
+            "so 'raṇye vasanmūlādyaśanaśīlaḥ syāt, na saṃskṛtamannamaśnīyādityarthaḥ /",
+            "tapaḥśīlaḥ śarīrapariśoṣaṇaśīlaḥ /",
+            "evaṃca mūlaphalādyapi svalpamevāśnīyāt, smṛtyantaradarśanāt ṣoḍaśakṛtva eva 'vānaprasthasya ṣoḍaśa'; iti //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "śrāmaṇakenāgnimādhāya // Gaut_3.27 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrāmaṇako nāma vaikhānasānāṃ śāstram /",
+            "tenāgnimādhāya gṛhītvā sāyaṃprātarhemaṃ kuryāditi śeṣaḥ //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agrāmyabhojī // Gaut_3.28 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "devapitṛmanuṣyabhūtarṣipūjakaḥ // Gaut_3.29 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "āraṇyairvividhairmedhyaiḥ śākamūlaphalena vā /",
+            "etāneva mahāyajñān nirvapedvidhipūrvakam //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvātithiḥ pratiṣiddhavarjam // Gaut_3.30 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yāvadasya āśramaṃ gacchati tatsarvamasyātithireva /",
+            "'brāhmaṇasyānatithirabrāhmaṇaḥ'; ityādivarṇaniyamaḥ saṅkhyāniyamo vā nāstītyarthaḥ /",
+            "pratiṣiddhāḥ stenādayaḥ pratilomajāśca, tadvarjam //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "vaiṣkamapyupayuñjīta // Gaut_3.31 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viṣkairvyāghrādibhirhatasya paśormāṃsaṃ vaiṣkam /",
+            "tadupayuñjīta /",
+            "apiśabdo garhāyām /",
+            "tataścāpadyevopayuñjīta //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "na phālakṛṣṭamadhitiṣṭhet // Gaut_3.32 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "araṇye 'pi phālakṛṣṭapradeśaṃ nākrāmeta, āvāsaṃ tatra na kuryādityarthaḥ /",
+            "ākrāmediti siddhe adhitiṣṭhediti vacanaṃ pramādādākramato doṣābhāvajñāpanārtham /",
+            "kṛṣṭamiti siddhe phālagrahaṇaṃ kṣetrasamīpe vāsapratiṣedhārtham //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "grāmaṃ ca na praviśet // Gaut_3.33 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aphālakṛṣṭenāpi mārgeṇa janavāsaṃ na praviśet /",
+            "caśabdādgrāmāntaramapi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jaṭilaścīrājinavāsāḥ // Gaut_3.34 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nātisaṃvatsaraṃ bhuñjīta // Gaut_3.35 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aikāśramyaṃ tvācāryaḥ pratyakṣavidhānāt gārhasthasya gārhasthasya // Gaut_3.36 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kutaḥ ? pratyakṣavidhānāt upalabdhaśrutividhānādityarthaḥ /",
+            "yadyapi gṛhasthobhavedityevaṃ na vihitam, tathāpyagnihotrādigṛhasthasādhyakriyāvidhānāttasyaiva vidhānaṃ draṣṭavyam //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "tṛtīyo 'dhyāyaḥ",
+        "evaṃ kṛtaniyamasya kṛtavidyasya ca-",
+        "tasyākhaṇḍitabrahmacaryasya /\ntathāca manuḥ-"
+      ]
+    }
+  ]
+}

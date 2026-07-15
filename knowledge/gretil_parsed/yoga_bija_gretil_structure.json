@@ -1,0 +1,827 @@
+{
+  "file": "yoga_bija_gretil.xml",
+  "xml_id": "sa_yogazataka",
+  "title": "Yogaśataka",
+  "total_chapters": 1,
+  "total_verses": 110,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 110,
+      "verse_groups": [
+        {
+          "lines": [
+            "kṛtsnasya tantrasya gṛhītadhāmnaś cikitsitād viprasṛtasya dūram /",
+            "vidagdhavaidyapratipūjitasya kariṣyate yogaśatasya bandhaḥ // Yś_1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parīkṣya hetvāmayalakṣaṇāni cikitsitajñena cikitsikena /",
+            "nirāmadehasya hi bhaiṣajāni bhavanti yuktāny amṛtopamāni // Yś_2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chinnodbhavāmbudharadhanvayavāsaviśvair duḥsparśaparpaṭakameghakirātatiktaiḥ /",
+            "mustāṭarūṣakamahauṣadhadhanvayāsaiḥ kvāthaṃ pibed anilapittakaphajvareṣu // Yś_3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṣudrāmṛtānāgarapuṣkarāhvayaiḥ kṛtaḥ kaṣāyaḥ kaphamārutottare /",
+            "saśvāsakāsārucipārśvarukkare jvare tridoṣaprabhave 'pi śasyate // Yś_4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āragvadhagranthikamustatiktāharītakībhiḥ kvathitaḥ kaṣāyaḥ /",
+            "sāme saśūle kaphavātayukte jvare hito dīpanapācanaś ca // Yś_5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "drākṣābhayāparpaṭakābdatiktākvāthaṃ saśamyākaphalaṃ vidadhyāt /",
+            "pralāpamūrchābhramadāhamohatṛṣṇānvite pittabhave jvare tu // Yś_6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nidigdhikānāgarakāmṛtānāṃ kvāthaṃ piben miśritapippalīkam /",
+            "jīrṇajvarārocakakāsaśūlaśvāsāgnimāndyārditapīnaseṣu // Yś_7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "durālabhāparpaṭakapriyaṅgubhūnimbavāsākaṭurohiṇīnām /",
+            "kvāthaṃ pibec charkarayāvagāḍhaṃ tṛṣṇāśrapittajvaradāhayuktaḥ // Yś_8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "phalatrikaṃ dāruniśāviśālāmustaṃ ca niṣkvāthya niśāṃśakalkam /",
+            "pibet kaṣāyaṃ madhusaṃprayuktaṃ sarvaprameheṣu samutthiteṣu // Yś_9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "savatsakaḥ sātiviṣaḥ sabilvaḥ sodīcyamustaś ca kṛtaḥ kaṣāyaḥ /",
+            "sāme saśūle ca saśoṇite ca cirapravṛtte 'pi hito 'tisāre // Yś_10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śuṇṭhīṃ samustātiviṣāguḍūcīṃ pibej jalena kvathitāṃ samāṃśām /",
+            "mandānalatve satatāmayānām āmānubandhe grahaṇīgade ca // Yś_11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "punarnavādārvyabhayāguḍūcīḥ pibet samūtrā mahiṣākṣayuktāḥ /",
+            "tvagdoṣaśophodarapāṇḍurogasthaulyaprasekordhvakaphāmayeṣu // Yś_12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mustākhuparṇīphaladāruśigrukvāthaḥ sakṛṣṇākṛmiśatrukalkaḥ /",
+            "mārgadvayenāpi cirapravṛttān kṛmīn nihanyāt kṛmijāṃś ca rogān // Yś_13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "elopakulyāmadhukāśmabhedakauntīśvadaṃṣṭrāvṛṣakorubūkaiḥ /",
+            "śṛtaṃ pibed aśmajatupradhānaṃ saśarkare sāśmarimūtrakṛcchre // Yś_14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "elāśmabhedakaśilājatupippalīnāṃ cūrṇāni taṇḍulajalair lulitāni pītvā /",
+            "yad vā guḍena sahitāny avalehyamānāny āsannamṛtyur api jīvati mūtrakṛcchrī // Yś_15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "harītakīgokṣurarājavṛkṣapāṣāṇabhiddhanvayavāsakānām /",
+            "kvāthaṃ piben mākṣikasaṃprayuktaṃ kṛcchre sadāhe saruje vibandhe // Yś_16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vāsāguḍūcīcaturaṅgulānām eraṇḍatailena pibet kaṣāyam /",
+            "krameṇa sarvāṅgajam apy aśeṣaṃ jayed asṛgvātabhavaṃ vikāram // Yś_17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rasāñjanaṃ taṇḍulakasya mūlaṃ kṣaudrānvitaṃ taṇḍulatoyapītam /",
+            "asṛgdaraṃ sarvabhavaṃ nihanti śvāsaṃ ca bhārgī saha nāgareṇa // Yś_18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "eraṇḍabilvabṛhatīdvayamātuluṅgapāṣāṇabhittrikaṭamūlakṛtaṃ kaṣāyaḥ /",
+            "sakṣārahiṅgulavaṇoruhutailamiśraḥ śroṇyaṃsameḍhrahṛdayastanarukṣu peyaḥ // Yś_19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiṅgūgragandhāviḍaśuṇṭhyajājīharītakīpuṣkaramūlakuṣṭham /",
+            "bhāgottaraṃ cūrṇitam etad iṣṭaṃ gulmodarājīrṇavisūcikāsu // Yś_20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "cūrṇaṃ samaṃ rucakahiṅgumahauṣadhānām śuṇṭhyambunā kaphasamīraṇasaṃbhavāsu /",
+            "hṛtpārśvapṛṣṭhajaṭharārtivisūcikāsu peyaṃ tathā yavarasena ca viḍvibandhe // Yś_21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pūtīkapatragajacirbhiṭacavyavahni vyoṣaṃ ca saṃstaracitaṃ lavaṇopadhānam /",
+            "dagdhvā vicūrṇya dadhimastuyutaṃ prayojyaṃ gulmodaraśvayathupāṇḍugudodbhaveṣu // Yś_22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dviruttarā hiṅgu vacā sakuṣṭhā suvarcikā ceti viḍaṃ ca cūrṇam /",
+            "uṣṇāmbunānāhavisūcikārtihṛdrogagulmordhvasamīraṇaghnam // Yś_23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śṛṅgīkaṭutrikaphalatrayakaṇṭakārībhārgīsapuṣkarajaṭā lavaṇāni pañca /",
+            "cūrṇaṃ pibed aśiśireṇa jalena hikkāśvāsordhvavātakasanārucipīnaseṣu // Yś_24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nādeyīkuṭajārkaśigrubṛhatīsnugbilvabhallātaka-",
+            "vyāghrīkiṃśukapāribhadrakajaṭāpāmārganīpāgnikān /",
+            "vāsāmuṣkakapāṭalāḥ salavaṇā dagdhvā rasaṃ pācitaṃ",
+            "hiṅgvādiprativāpam etad ucitaṃ gulmodaraplīhiṣu // Yś_25 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "cavyamlavetasakaṭutrikatittiḍīkatālīsajīrakatugādahanaiḥ samāṃśaiḥ /",
+            "cūrṇaṃ guḍapramṛditaṃ trisugandhiyuktaṃ vaisvaryapīnasakaphāruciṣu praśastam // Yś_26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tālīsacavyamaricaṃ sadṛśaṃ dviraṃśaṃ mūlaṃ tugāṃ magadhajāṃ triguṇāṃ ca śuṇṭhīm /",
+            "kṛtvā guḍatriguṇitāṃ guḍikāṃ sugandhāṃ kāsāgnimāndyagudajajvararukṣu dadyāt // Yś_27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "suṇṭhīkaṇāmaricanāgadalatvagelaṃ cūrṇīkṛtaṃ kramavivardhitam ūrdhvam antyāt /",
+            "khāded idaṃ samasitaṃ gudajāgnimāndyagulmāruciśvasanakaṇṭhahṛdāmayeṣu // Yś_28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sindhūtthahiṅgutriphalāyavānīvyoṣair guḍāṃśair guḍikāṃ prakuryāt /",
+            "tair bhakṣitais tṛptim avāpnuvan na bhuñjīta mandāgnir api prabhūtam // Yś_29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ayastilatryūṣaṇakolabhāgaiḥ sarvaiḥ samaṃ mākṣikadhātucūrṇam /",
+            "tair modakaḥ kṣaudrayuto 'nutakraḥ pāṇḍvāmaye dūragate 'pi śastaḥ // Yś_30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guḍena śuṇṭhīm athavopakulyāṃ pathyātṛtīyām atha dāḍimaṃ ca /",
+            "āmeṣv ajīrṇeṣu gudāmayeṣu varcovibandheṣu ca nityam adyāt // Yś_31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "harītakīnāgaramustacūrṇaṃ guḍena sārdhaṃ guṭikā vidheyā /",
+            "nivārayaty āsyavidhāriteyaṃ śvāsaṃ pravṛddhaṃ prabalaṃ ca kāsam // Yś_32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vaṭaprarohaṃ madhu kuṣṭham utpalaṃ salājacūrṇaṃ guḍikāṃ prakalpayet /",
+            "susaṃhitā sā vadanena dhāritā tṛṣṇāṃ pravṛddhām api hanti satvaram // Yś_33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "manaḥśilāmāgadhikoṣaṇānāṃ cūrṇaṃ kapitthāmlarasena yuktam /",
+            "lājaiḥ samāṃśair madhunāvalīḍhaṃ chardiṃ prasaktām asakṛn nihanti // Yś_34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dūrvāraso dāḍimapuṣpajo vā ghrāṇapravṛtte 'sṛji nasyam uktam /",
+            "stanyena vālaktarasena vāpi viṇ makṣikānāṃ ca nihanti hikkām // Yś_35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhātrīrasaḥ sarjarasaḥ sapākyaḥ sauvīrapiṣṭaś ca tadāsutaś ca /",
+            "bhavanti sidhmāni yathā na bhūyas tathaivam udvartanakaṃ karoti // Yś_36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dūrvābhayāsaindhavacakramardakuṭherakāḥ kāñjikatakrapiṣṭāḥ /",
+            "tribhiḥ pralepair api baddhamūlāṃ dadruṃ ca kaṇḍuṃ ca vināśayanti // Yś_37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gaṇḍīrikacitrakamārkavārkakuṣṭhadrumatvaglavaṇaiḥ samūtraiḥ /",
+            "tailaṃ pacen maṇḍalakuṣṭhadadruduṣṭavraṇāruk kiṭimāpahāri // Yś_38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sindūraguggulurasāñjanasikthatutthais tulyāṃśakaiḥ kaṭukatailam idaṃ vipakvam /",
+            "kacchūṃ sravatpiṭakikām athavāpi śuṣkām abhyañjanena sakṛd uddharati prasahya // Yś_39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "suvarcikānāgarakuṣṭhamūrvālākṣāniśālohitayaṣṭikābhiḥ /",
+            "tailaṃ jvare ṣaḍguṇatakrasiddham abhyañjanāc chītavidāhanut syāt // Yś_40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarpir guḍūcīvṛṣakaṇṭakārīkvāthena kalkena ca siddham etat /",
+            "peyaṃ purāṇajvarakāsaśūlaśvāsāgnimāndyagrahaṇīgadeṣu // Yś_41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vṛṣakhadirapaṭolapatranimbatvagamṛtatāmalakīkaṣāyakalkaiḥ /",
+            "ghṛtam abhinavam etad āśu siddhaṃ jayati visarpamadāśrakuṣṭhagulmān // Yś_42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvaṅmāṃsaśoṇitagatair doṣaiḥ prakupitair janitaḥ",
+            "sarvāṅgaśārīraśoṣaviśeṣo visarpaḥ /",
+            "mado madyātmo madyapānajanitavikāraḥ // Yś_43 //"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "amṛtāpaṭolapicumardadhāvanītriphalākarañjavṛṣakalkavāribhiḥ /",
+            "ghṛtam uttamaṃ vidhivipakvam ādṛtaḥ prapibann idaṃ jayati kuṣṭham āturaḥ // Yś_44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "khaṇḍān kuṣmāṇḍakānām atha pacanavidhisvinnaśuṣkājyabhṛṣṭān",
+            "nyasyet khaṇḍe vipakve samaricamagadhāśuṇṭhyajājītrigandhān /",
+            "leho 'yaṃ bālavṛddhānilarudhirakṛśastrīprasaktakṣatānāṃ",
+            "tṛṣṇākāsāsrapittaśvasanagudarujācharditānāṃ ca śastaḥ // Yś_45 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "vipācya mūtrāmblamadhūni dantīpiṇḍītakṛṣṇāviḍadhūmakuṣṭhaiḥ /",
+            "vartiṃ karāṅguṣṭhanibhāṃ ghṛtāktāṃ gude rujānāhaharīṃ vidadhyāt // Yś_46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saśarkaraṃ kuṅkumam ājyabhṛṣṭaṃ nasyaṃ vidheyaṃ pavanāsṛgutthe /",
+            "bhrūkarṇaśaṅkhākṣiśiro'rdhaśūle dinābhivṛddhiprabhave ca roge // Yś_47 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pathyākṣadhātrīphalamadhyabījais tridvyekabhāgair vidadhīta vartim /",
+            "tayāñjayed aśrum atipravṛddham akṣṇor haret kaṣṭam api prakopam // Yś_48 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "harītakīsaindhavatārkṣyaśailaiḥ sagairikaiḥ svacchajalaprapiṣṭaiḥ /",
+            "bahiṣpralepaṃ nayanasya kuryāt sarvākṣirogopaśamārtham etat // Yś_49 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sasaindhavaṃ lodhram athājyabhṛṣṭaṃ sauvīrapiṣṭaṃ sitavastrabaddham /",
+            "āścyotanaṃ tan nayanasya kuryāt sadāhakaṇḍūṃ ca rujaṃ nihanyāt // Yś_50 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hanty arjunaṃ śarkarayābdhipheno naktāndhatāṃ gośakṛtā ca kṛṣṇā /",
+            "rasāñjanaṃ vyoṣayutaṃ ca pillaṃ tāpīsamutthaṃ madhunā ca śukram // Yś_51 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "puṣpākhyatārkṣyasasitodadhiphenaśaṅkhasindhūtthagairikaśilāmaricaiḥ samāṃśaiḥ /",
+            "piṣṭais tu mākṣikarasena rasakriyeyaṃ hanty armakācatimirārjunavartmarogān // Yś_52 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mustośīrarajoyavāsamaricāḥ sindhūdbhavaṃ kaṭphalaṃ",
+            "dārvītutthakaśaṅkhaphenanaladaṃ kālānusāry añjanam /",
+            "tulyaṃ cūrṇitam āyase vinihitaṃ kṣaudrānvitaṃ śasyate",
+            "kaṇḍvarmāmayaraktarājitimire pillopadeheṣu ca // Yś_53 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "mañjiṣṭhāmadhukotpalodadhikaphatvaksevyagorocanā-",
+            "māṃsīcandanaśaṅkhapatragirimṛttālīsapuṣpāñjanaiḥ /",
+            "sarvair eva samāṃśam añjanam idaṃ śastaṃ sadā cakṣuṣaḥ",
+            "kaṇḍūtkledamalāśruśoṇitarujāpillārmaśukrāpaham // Yś_54 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "kvāthaḥ samustātiviṣendradārukaliṅgapāṭhākaṭurohiṇīnām /",
+            "gomūtrasiddho madhunā ca yuktaḥ peyo galavyādhiṣu sarvajeṣu // Yś_55 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yavāgrajaṃ tejavatīṃ sapāṭhāṃ rasāñjanaṃ dāruniśāṃ sakṛṣṇām /",
+            "kṣaudreṇa kuryād guṭikāṃ mukhena tāṃ dhārayet sarvagalāmayeṣu // Yś_56 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dārvīguḍūcīsumanāpravālādrākṣāyavāsatriphalākaṣāyaḥ /",
+            "kṣaudreṇa yuktaḥ kavalagraho 'yaṃ mukhasya pākaṃ śamayaty udīrṇam // Yś_57 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kuṣṭhaṃ dārvī lodhram abdaṃ samaṅgā pāṭhā tiktā tejanī pītikā ca /",
+            "cūrṇaṃ śastaṃ gharṣaṇaṃ tad dvijānāṃ raktasrāvaṃ hanti kaṇḍūrujaṃ ca // Yś_58 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sauvīraśuktārdrakamātuluṅgamāṃsai rasair guggulusaindhavaś ca /",
+            "paktvā tu tailaṃ kaṭukaṃ niṣiñcet tat karṇayoḥ karṇarujopaśāntyai // Yś_59 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vāsānimbapaṭolaparpaṭaphalaśrīcavyadārvyambudaiḥ",
+            "tiktośiradurālabhātrikaṭukatrāyantikācandanaiḥ /",
+            "sarpiḥ siddham athordhvajatruvikṛtighrāṇākṣiśūlādiṣu",
+            "tvagdoṣajvaravidradhivraṇarujāśukreṣu vai ceṣyate // Yś_60 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "dārvīparpaṭanimbavatsakakaṇāduḥsparśayaṣṭīvṛṣās",
+            "trāyantītriphalāpaṭolakaṭukābhūnimbaraktāmbudāḥ /",
+            "eṣāṃ kalkakaṣāyasādhitam idaṃ sarpiḥ praśastaṃ dṛśaḥ",
+            "pittāsṛkprabhaveṣu śukratimireṣūrdhveṣu ca vyādhiṣu // Yś_61 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "śuklairaṇḍān mūlam athogrā śatapuṣpā puṣpodbhūtaṃ yac ca bṛhatyās tagaraṃ ca /",
+            "tailaṃ siddhaṃ taiḥ sapayaskais timiraghnaṃ nasyaṃ śreṣṭhaṃ vyādhiṣu cordhveṣv apareṣu // Yś_62 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kvāthe muṣkakabhasmano 'nalaśikhādagdhaṃ kṣipec chaṅkhakaṃ",
+            "tat tenaiva punar jalena vipacet kṣāraṃ sa taile vidhiḥ /",
+            "yuñjyāt tad vraṇaduṣṭiṣu vraṇarujāsv arśassu nāḍīṣu ca",
+            "tvagdoṣeṣu bhagaṃdareṣu vividhe kaṇṭhāmaye ca sthire // Yś_63 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "niśāsayaṣṭīmadhupadmakotpalaiḥ priyaṅgukāsāvaralodhracandanaiḥ /",
+            "vipācya tailaṃ payasā prayojayet kṣateṣu saṃropaṇadāhanāśanam // Yś_64 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jātīnimbapaṭolapatrakaṭukādārvīniśāsārivā-",
+            "mañjiṣṭhābhayasikthatutthamadhukair naktāhvabījaiḥ samaiḥ /",
+            "sarpiḥ siddham anena sūkṣmavadanā marmāśritāḥ srāvino",
+            "gambhīrāḥ sarujā vraṇāḥ sagatikāḥ śudhyanti rohanti ca // Yś_65 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "śirīṣapuṣpaṃ svarasena bhāvitaṃ sahasrakṛtvo maricaṃ sitāhvayam /",
+            "prayojayed añjanapānanāvanair vimohitānām api sarpadaṃśinām // Yś_66 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mayūrapittena tu taṇḍulīyakaṃ kākāṇḍayuktaṃ prapibed analpam /",
+            "viṣāṇi saṃstāvarajaṅgamāni sopadravāṇy apy acireṇa hanti // Yś_67 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tailaṃ tilānāṃ palalaṃ guḍaṃ ca kṣīraṃ tathārkaṃ samam eva pītam /",
+            "ālarkam ugraṃ viṣam āśu hanti sadyodbhavaṃ vāyur ivābhravṛndam // Yś_68 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āgāradhūmo mahiṣākṣayuktaḥ savājigandhāghṛtataṇḍulīyakaḥ /",
+            "gomūtrapiṣṭo hy agado nihanti viṣāṇi saṃsthāvarajaṅgamāni // Yś_69 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "māṃsīsevyālakauntījalajaladaśilārocanāpadmakeśī-",
+            "spṛkkācaṇḍāharidrāgadasitapalitāsṛglatāpadmakailāḥ /",
+            "tulyā gaurāṣṭabhāgāś caturibhakusumā vartayaḥ sarvabhogyāḥ",
+            "kṛtyālakṣmīpiśācajvaraviṣam agadā ghnanti candrodayākhyāḥ // Yś_70 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "siddhārthatriphalāśirīṣakaṭabhīśvetākarañjāmṛtā-",
+            "mañjiṣṭhārajanīdvayatrikaṭukaṃ śyāmā vacā hiṅgu ca /",
+            "śastaṃ chāgalamūtrapiṣṭam agadaṃ sarvagrahotsādanaṃ",
+            "kṛtyonmādapiśācarākṣasaharaṃ pānādibhiḥ sevitam // Yś_71 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "karpāsāsthimayūrapatrabṛhatīnirmālyapiṇḍītakais",
+            "tvagvāṃśīvṛṣadaṃśaviṭtuṣavacākeśāhinirmocakaiḥ /",
+            "gośṛṅgīdvipadantahiṅgumaricais tulyaiś ca dhūpaḥ kṛtaḥ",
+            "skandonmādapiśācarākṣasasurāveśajvaraghnaḥ smṛtaḥ // Yś_72 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "trikaṭukadalakuṅkumagranthikakṣārasiṃhīniśākuṣṭhasiddhārthayugmāmbuśakrāhvayaiḥ",
+            "sitalaśunaphalatrikośīratiktāvacātutthayaṣṭībalālohitākhyāśilāpadmakaiḥ /",
+            "dadhitagaramadhūkasārapriyāhvāviṣākhyāviṣātārkṣyaśailaiḥ sacavyāmaraiḥ kalkitaiḥ",
+            "ghṛtam anavam aśeṣamūtrāmbusiddhaṃ smṛtaṃ bhūtarāvaṃ tu pānena tat syād grahaghnaṃ param // Yś_73 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "dārvī haridrā kuṭajasya bījaṃ siṃhī ca yaṣṭīmadhukaṃ ca tulyam /",
+            "kvāthaḥ śiśoḥ stanyakṛte ca doṣe sarvātisāreṣu ca sarvajeṣu // Yś_75 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bilvaṃ ca puṣpāṇi ca dhātakīnāṃ jalaṃ salodhraṃ gajapippalī ca /",
+            "kvāthāvalehau madhunā vimiśrau bāleṣu yojyāv atisāriteṣu // Yś_76 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śṛṅgīṃ sakṛṣṇātiviṣāṃ vicūrṇya lehaṃ vidadhyān madhunā śiśūnām /",
+            "kāsajvaracchardibhir arditānāṃ samākṣikāṃ cātiviṣām athaikām // Yś_77 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhātrīcūrṇasya kaṃsaṃ svarasaparigataḥ kṣaudrasarpiḥ samāṃśaṃ",
+            "kṛṣṇāmānīsitāṣṭaprasṛtayutam idaṃ sthāpitaṃ bhasmarāśau /",
+            "varṣānte tat samaśnan bhavati vipalito rūpavarṇaprabhāvī",
+            "nirvyādhir buddhimedhāsmṛtivacanabalasthairyasattvair upetaḥ // Yś_78 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "yaṣṭītugāsaindhavapippalībhiḥ saśarkarābhis triphalā prayuktā /",
+            "āyuḥpradā vṛṣyatamātimedhyā bhavej jarāvyādhivināśanī ca // Yś_79 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "cūrṇaṃ śvadaṃṣṭrāmalakāmṛtānāṃ lihet sasarpir madhunā ca yuktam /",
+            "vṛṣyaḥ sthiraḥ śāntavikāraduḥkhaḥ samāśataṃ jīvati kṛṣṇakeśaḥ // Yś_80 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nimbasya tailaṃ prakṛtistham evaṃ nasyāṃ niṣiktaṃ vidhinā yathāvat /",
+            "māsena tat kṣīraghṛtopayojyaṃ jarāprabhūtaṃ palitaṃ nihanti // Yś_81 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gokṣurakaḥ kṣurakaḥ śatamūlī vānari nāgabalātibalā ca /",
+            "cūrṇam idaṃ payasā niśi peyaṃ yasya gṛhe pramadāśatam asti // Yś_82 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "madhukāṃ madhunā ghṛtena ca pralihan kṣīram anuprayojayet /",
+            "labhate ca na dhātusaṃkṣayaṃ pramadānāṃ ca śataṃ ca gacchati // Yś_83 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaṣṭīkaṣāyaṃ lavaṇāgrayuktaṃ kaliṅgakṛṣṇāphalakalkamiśram /",
+            "sakṣaudram etad vamanaṃ prayojyaṃ ghrāṇāsyakaṇṭhaśravaṇāmayeṣu // Yś_84 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "harītakībhiḥ kvathitaṃ suvīraṃ dantyaṅghrikṛṣṇāviḍacūrṇayuktam /",
+            "virecanaṃ sorubutailam etan niratyayaṃ yojyam athāmayaghnam // Yś_85 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rāsnārāṭhaphalatrayāmṛtalatāyukpañcamūlībalā-",
+            "māṃsakvāthayutaḥ satailalavaṇakṣaudrāṃśasarpirguḍaḥ /",
+            "puṣpāhvāghanakuṣṭhabilvaphalinīkṛṣṇāvacākalkito",
+            "vastiḥ kāñjikadugdhamūtrasahito vātāmayebhyo hitaḥ // Yś_86 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "tailaṃ balākvathitakalkasugandhigarbhasiddhaṃ payodadhituṣodakamastucukraiḥ /",
+            "tadvat sahācarasaraṇyamṛtāvarībhiḥ pratyekapakvam anuvāsasamīraṇaghnam // Yś_87 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nasyaṃ vidadhyād guḍanāgaraṃ vā sasaindhavāṃ māgadhikām athovā /",
+            "ghrāṇāsyamanyāhanubāhupṛṣṭhaśirokṣikaṇṭhaśravaṇāmayeṣu // Yś_88 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śreṣṭhaḥ parpaṭako jvareṣu vihitas tṛṣṇāsu pañcāmliko",
+            "lājā cchardiṣu vastijeṣu girijo meheṣu dhātrīrasaḥ /",
+            "rāsnā vātagadeṣu mūtram udare plīhāmaye pippalī",
+            "saṃdhāne kṛmihā viṣe śukataruḥ śophe tathā gugguluḥ // Yś_89 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "vṛṣo 'śrapitte kuṭajo 'tisāre bhallātam arśassu gareṣu hema /",
+            "sthūleṣu dāruḥ kṛmiṣu krimighnaṃ harītakī pāṇḍugadeṣu śasyate // Yś_90 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "akṣyāmayeṣu triphalā vadanti śūleṣu sarveṣu tathā rasonam /",
+            "kuṣṭheṣu nityaṃ khadirasya sāraṃ sarveṣu kāseṣu nidigdhikāṃ ca // Yś_91 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaṃsanti vājīkaraṇe śvadaṃṣṭrām uraḥkṣate nāgabalā balāṃ ca /",
+            "rasāyaneṣv āmalakaṃ sadevagraheṣu rogeṣu śilāhvayaṃ ca // Yś_92 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ity ete vidhivihitāḥ prasiddhayogāḥ siddhyarthaṃ vinigaditā bhiṣagvarāṇām /",
+            "dṛṣṭvaitān katham acikitsako 'pi yuñjyād ity arthaṃ punar api vakṣyate 'tra kiṃcit // Yś_93 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃdhāraṇānaśanajāgaraṇoccabhāṣāvyāyāmayānakaṭutiktakaṣāyarūkṣaiḥ /",
+            "cintāvyavāyabhayalaṅghanaśokaśītair vāyuḥ prakopam upayāti ghanāgame ca // Yś_94 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kaṭvāmlamadyalavaṇoṣṇavidāhitīkṣṇakrodhānalātapapariśramaśuṣkaśākaiḥ /",
+            "kṣārādyajīrṇaviṣamāśanabhojanaś ca pittaṃ prakopam upayāti ghanātyaye ca // Yś_95 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svapnād divā madhuraśītalamatsamāṃsagurvāmlapicchalatilekṣupayovikāraiḥ /",
+            "snigdhātitṛptilavaṇodakapānabhakṣaiḥ śleṣmā prakopam upayāti tathā vasante // Yś_96 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ity evam ete kramaśo dviśo vā doṣāḥ pravṛddhā yugapat trayo vā /",
+            "kurvanti rogān vividhān śarīre saṃkhyātu saṃjnāvigatān anekān // Yś_97 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāruṣyasaṃkocanatodaśūlaśyāmatvam aṅgavyathabhaṅgaceṣṭān /",
+            "suptatvaśītatvakharatvaśoṣān karmāṇi vāyoḥ pravadanti tajjñāḥ // Yś_98 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parisravasvedavidāharāgadaurgandhisaṃkledavipākakopān /",
+            "pralāpamūrchabhramapītabhāvān pittasya karmāṇi vadanti tajjñāḥ // Yś_99 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śvetatvaśītatvagurutvakaṇḍūsnehopadehastimitatvalepān /",
+            "utsekasaṃghātacirakriyāś ca kaphasya karmāṇi vadanti tajjnāḥ // Yś_100 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etāni liṅgāni ca tatkṛtānāṃ sarvāmayānām api naikanāmnām /",
+            "kaścid bhavet prāptiviśeṣa eṣāṃ saṃjñāntaraṃ yena tu saṃprayānti // Yś_101 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ālasyatandrāhṛdayāviśuddhidoṣāpravṛttikṣudabhāvamūtraiḥ /",
+            "gurūdaratvārucisuptatābhir āmānvitaṃ vyādhim udāharanti // Yś_102 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "snigdhoṣṇasthiravṛṣyabalyalavaṇasvādvamlatailātapa-",
+            "snānābhyañjanavastimāṃsamadirāsaṃvāhanonmardanaiḥ /",
+            "snehasvedanirūhanasyaśamanasnehopanāhādikaṃ",
+            "pānāhāravihārabheṣajam idaṃ vātapraśāntim nayet // Yś_103 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "tiktasvādukaṣāyaśītapavanacchāyāniśāvījanaṃ",
+            "jyotsnābhūgṛhayantravārijaladastrīgātrasaṃsparśanam /",
+            "sarpiḥkṣīravirekasekarudhirasrāvapradehādikaṃ",
+            "pānāhāravihārabheṣajam idaṃ pittaṃ praśāntiṃ nayet // Yś_104 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "rūkṣakṣārakaṣāyatiktakaṭukavyāyāmaniṣṭīvanaṃ",
+            "strīsevādhvaniyuddhajāgarajalakrīḍāpadāghātanam /",
+            "dhūmātyuṣṇaśirovirekavamanasvedopavāsādikaṃ",
+            "pānāhāravihārabhaiṣajam idaṃ śleṣmānam ugraṃ jayet // Yś_105 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "āmaṃ jayel laṅghanakolapeyālaghvannasūpodakatiktayūṣaiḥ /",
+            "virūkṣaṇasvedanapācanaiś ca saṃśodhanair ūrdhvam adhas tathā ca // Yś_106 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hemantavarṣāśiśireṣu vāyoḥ pittasya toyāntanidāghayoś ca /",
+            "kaphasya kopaḥ kusumāgame ca kurvanti tad vai vihitaṃ yathaiṣām // Yś_107 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kaphasya kope vamanaṃ sanasyaṃ virecanaṃ pittabhave vikāre /",
+            "vātātmake vastim udāharanti saṃsargaje 'pi vyatimiśram etat // Yś_108 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vāto 'mlatailalavaṇair madhurānnapānaiḥ pittaṃ tathā madhuratiktakaṣāyaśītaiḥ /",
+            "śleṣmāpi tiktakaṭurūkṣakaṣāyatīkṣṇair āmaṃ praśāntim upayānty apatarpaṇena // Yś_109 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "buddhvaitad anyad api yat tad anuktam atra yuktyā svayaṃ samadhigamya yathānurūpam /",
+            "rogeṣu bheṣajam analpamatir vidadhyāc chāstraṃ hi kiṃcid upadeśalavaṃ karoti // Yś_110 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇādhikaṃ yogaśataṃ nibadhya prāptaṃ mayā puṇyam anuttaraṃ yat /",
+            "nānāprakārāmayanīḍabhūtaṃ kṛtsnaṃ jagat tena bhavatv arogam // Yś_111 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "oṃ namaḥ sarvajñāya //",
+        "oṃ namo dhanvantarāye //",
+        "natamadhukakarañjalākṣāpaṭolīsamaṅgāvacāpāṭalīhiṅgusiddhārthasiṃhīniśāyuglatārohiṇī-\nphalakhadirakaṭutrikākāṇḍadārukrimighnājagandhāmarāṅkollakośātakīśigrunimbāmbudendrāhvayaiḥ /"
+      ]
+    }
+  ]
+}

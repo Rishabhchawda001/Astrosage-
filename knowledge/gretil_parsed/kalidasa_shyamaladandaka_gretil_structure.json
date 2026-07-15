@@ -1,0 +1,50 @@
+{
+  "file": "kalidasa_shyamaladandaka_gretil.xml",
+  "xml_id": "sa_kAlidAsa-zyAmalAdaNDaka",
+  "title": "Śyāmalādaṇḍaka",
+  "total_chapters": 1,
+  "total_verses": 4,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 4,
+      "verse_groups": [
+        {
+          "lines": [
+            "māṇikyavīṇāmupalāpayantīṃ madālasāṃ mañjulavāgvilāsām /",
+            "māhendranīlopalakomalāṅgīṃ mātaṅgakanyāṃ satataṃ smarāmi //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jaya mātaṅgatanaye jaya nīlotpaladyute /",
+            "jaya saṃgītarasike jaya līlāśukapriye //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vikasitanavakiṃśukātāmradivyāṃśukacchannacārūruśobhāparābhūtasindūraśoṇāyamānendramātaṅgahastārgale vaibhavānargale śyāmale /",
+            "komalasnigdhanīlopalotpāditānaṅgatūṇīraśaṅkākarodārajaṅghālate cārulīlāgate /",
+            "namradikpālasīmantinīkuntalasnigdhanīlaprabhāpuñjasaṃjātadūrvāṅkurāśaṅkasāraṅgasaṃyogariṅkhannakhendūjjvale projjvale nirmale /",
+            "prahvadeveśalakṣmīśabhūteśatoyeśavāṇīśakīnāśadaityeśayakṣeśavāyvagnikoṭīramāṇikyasaṃghṛṣṭabālātapoddāmalākṣārasāruṇyatāruṇyalakṣmīgṛhītāṅghripadme supadme ume // 3 //"
+          ],
+          "line_count": 4
+        },
+        {
+          "lines": [
+            "mātā marakataśyāmā mātaṅgī madaśālinī /",
+            "kaṭākṣayatu kalyāṇī kadambavanavāsinī //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "mahākaviśrīkālidāsakṛtaṃ śyāmalādaṇḍakam /",
+        "jaya janani sudhāsamudrāntarudyanmaṇidvīpasaṃrūḍhabilvāṭavīmadhyakalpadrumākalpakādambakāntāravāsapriye kṛttivāsaḥpriye sarvalokapriye /\nsādarārabdhasaṃgītasaṃbhāvanāsaṃbhramālolanīpasragābaddhacūlīsanāthatrike sānumatputrike /\nśekharībhūtapītāṃśurekhāmayūkhāvalībaddhasusnigdhanīlālakaśreṇiśṛṅgārite lokasaṃbhāvite /\nkāmalīlādhanuḥsaṃnibhabhrūlatāpuṣpasaṃdohasaṃdehakṛllocane vāksudhāsecane /\ncārugorocanāpaṅkakelīlalāmābhirāme surāme rame /\nprollasadbālikāmauktikaśreṇikācandrikāmaṇḍalodbhāsilāvaṇyagaṇḍasthalanyastakastūrikāpattrarekhāsamudbhūtasaurabhyasaṃbhrāntabhṛṅgāṅganāgītasāndrībhavanmandratantrīsvare susvare bhāsvare /\nvallakīvādanaprakriyālolatālīdalābaddhatāṭaṅkabhūṣāviśeṣānvite siddhasaṃmānite /",
+        "sulalitanavayauvanārambhacandrodayodvelalāvaṇyadugdhārṇavāvirbhavatkambubibbokabhṛtkaṃdhare satkalāmandire manthare /\ndivyaratnaprabhābandhuracchannahārādibhūṣāsamuddyotamānānavadyāṃśuśobhe śubhe /\nratnakeyūraraśmicchaṭāpallavaprollasaddorlatārājite yogibhiḥ pūjite /\nviśvadiṅmaṇḍalavyāpimāṇikyatejaḥsphuratkaṅkaṇālaṃkṛte vibhramālaṃkṛte sādhakaiḥ satkṛte /\nvāsarārambhavelāsamujjṛmbhamānāravindapratidvandvipāṇidvaye saṃtatodyaddaye advaye /\ndivyaratnormikādīdhitistomasaṃdhyāyamānāṅgulīpallavodyannakhenduprabhāmaṇḍale saṃnatākhaṇḍale citprabhāmaṇḍale prollasatkuṇḍale /\ntārakārājinīkāśahārāvalismeracārustanābhogabhārānamanmadhyavallībalicchedavīcīsamullāsasaṃdarśitākārasaundaryaratnākare vallakībhṛtkare kiṃkaraśrīkare /"
+      ]
+    }
+  ]
+}

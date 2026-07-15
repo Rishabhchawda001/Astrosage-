@@ -1,0 +1,3677 @@
+{
+  "file": "devi_gita_gretil.xml",
+  "xml_id": "sa_devIgItA",
+  "title": "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
+  "total_chapters": 10,
+  "total_verses": 509,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 74,
+      "verse_groups": [
+        {
+          "lines": [
+            "dharādharādhīśa maulāvāvirāsītparaṃ mahaḥ /",
+            "yaduktaṃ bhavatā pūrvaṃ vistarāttadvadasva me // Dg_1.1 = DbhP_7,31.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ko virajyeta matimānpibañchaktikathāmṛtam /",
+            "sudhāṃ tu pibatāṃ mṛtyuḥ sa naitacchṛṇvato bhavet // Dg_1.2 = DbhP_7,31.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhanyo 'si kṛtakṛtyo 'si śikṣito 'si mahātmabhiḥ /",
+            "bhāgyavānasi yaddevyāṃ nirvyājā bhaktirasti te // Dg_1.3 = DbhP_7,31.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śṛṇu rājanpurā vṛttaṃ satīdehe 'gnibharjite /",
+            "bhrāntaḥ śivastu babhrāma kvaciddeśe sthiro 'bhavat // Dg_1.4 = DbhP_7,31.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prapañcabhānarahitaḥ samādhigatamānasaḥ /",
+            "dhyāyandevīsvarūpaṃ tu kālaṃ ninye sa ātmavān // Dg_1.5 = DbhP_7,31.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saubhāgyarahitaṃ jātaṃ trailokyaṃ sacarācaram /",
+            "śaktihīnaṃ jagatsarvaṃ sābdhidvīpaṃ saparvatam // Dg_1.6 = DbhP_7,31.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ānandaḥ śuṣkatāṃ yātaḥ sarveṣāṃ hṛdayāntare /",
+            "udāsīnāḥ sarvalokāścintājarjaracetasaḥ // Dg_1.7 = DbhP_7,31.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sadā duḥkhodadhau magnā rogagrastāstadābhavan /",
+            "grahāṇāṃ devatānāṃ ca vaiparītyena vartanam // Dg_1.8 = DbhP_7,31.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhibhūtādhidaivānāṃ satyabhāvānnṛpābhavan /",
+            "atha 'sminneva kāle tu tārakākhyo mahasuraḥ // Dg_1.9 = DbhP_7,31.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahmadattavaro daityo 'bhavattrailokyanāyakaḥ /",
+            "śivaurasastu yaḥ putraḥ sa te hantā bhaviṣyati // Dg_1.10 = DbhP_7,31.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti kalpitamṛtyuḥ sa devadevairmahāsuraḥ /",
+            "śivairasasutābhāvājjagarja ca nananda ca // Dg_1.11 = DbhP_7,31.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tena copadrutāḥ sarve svasthānātpracyutāḥ surāḥ /",
+            "śivairasasutābhāvāccintāmāpurduratyayām // Dg_1.12 = DbhP_7,31.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nāṅganā śaṅkarasyāsti kathaṃ tatsutasambhāvaḥ /",
+            "asmākaṃ bhāgyahīnānāṃ kathaṃ kāryaṃ bhaviṣyati // Dg_1.13 = DbhP_7,31.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti cintāturāḥ sarve jagmurvaikuṇṭhamaṇḍale /",
+            "śaśaṃsurharimekānte sa copāyaṃ jagāda ha // Dg_1.14 = DbhP_7,31.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kutaścintāturāḥ sarve kāmakalpadrumā śivā /",
+            "jāgarti bhūvaneśānī maṇidvīpādhivāsinī // Dg_1.15 = DbhP_7,31.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "asmākamanayādeva tadupekṣāsti nānyathā /",
+            "śikṣaiveyaṃ jaganmātrā kṛtāsmacchikṣaṇāya // Dg_1.16 = DbhP_7,31.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "lālane tāḍane māturnā kāruṇyaṃ yathārbhake /",
+            "tadvadeva jaganmāturniyantrā guṇadoṣayoḥ // Dg_1.17 = DbhP_7,31.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aparādho bhavatyeva tanayasya pade pade /",
+            "ko 'paraḥ sahate loke kevalaṃ mātaraṃ vinā // Dg_1.18 = DbhP_7,31.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmadyūyaṃ parāmbāṃ tāṃ śaraṇaṃ yāta mā ciram /",
+            "nirvyājayā cittavṛttyā sā vaḥ kāryaṃ vidhāsyati // Dg_1.19 = DbhP_7,31.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ityādiśya surānsarvānmahāviṣṇuḥ svajāyayā /",
+            "saṃyuto nirjagāmāśu devaiḥ saha surādhipaḥ // Dg_1.20 = DbhP_7,31.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ājagāma mahāśailaṃ himavantaṃ nagādhipam /",
+            "abhavaṃśca surāḥ sarve puraścaraṇakarmiṇaḥ // Dg_1.21 = DbhP_7,31.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ambāyajñavidhānajñā ambāyajñaṃ ca cakrire /",
+            "tṛtīyādivratānyāśu cakruḥ sarve surā nṛpa // Dg_1.22 = DbhP_7,31.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kecitsamādhiniṣṇātāḥ kecinnāmaparāyaṇāḥ /",
+            "kecitsūktaparāḥ kecinnāmapārāyaṇotsukāḥ // Dg_1.23 = DbhP_7,31.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mantrapārāyaṇaparaḥ kecitkṛcchrādi kāriṇaḥ /",
+            "antaryāgaparāḥ kecitkecinnyāsaparāyaṇāḥ // Dg_1.24 = DbhP_7,31.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hṛllekhayā parāśakteḥ pūjāṃ cakruratandritāḥ /",
+            "ityevaṃ bahuvarṣāṇi kālo 'gājjanamejaya // Dg_1.25 = DbhP_7,31.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "akasmāccaitramāsīyanavamyāṃ ca bhṛgordine /",
+            "prādurbabhūva puratastanmahaḥ śrutibodhitam // Dg_1.26 = DbhP_7,31.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "caturdikṣu caturvedairmūrtimadbhirabhiṣṭutam /",
+            "koṭisūrypratīkāśaṃ candrakoṭisuśītalam // Dg_1.27 = DbhP_7,31.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vidyutkoṭisamānābhamaruṇaṃ tatparaṃ mahaḥ /",
+            "naiva cordhvaṃ na tiryakca na madhye parijagrabhat // Dg_1.28 = DbhP_7,31.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ādyantarahitaṃ tattu na hastādyaṅgasaṃyutam /",
+            "na ca strīrūpamathavā na puṃrūpamathobhayam // Dg_1.29 = DbhP_7,31.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dīptyā pidhānaṃ netrāṇāṃ teṣāmāsīnmahīpate /",
+            "punaśca dhairyamālambya yāvatte dadṛśuḥ surāḥ // Dg_1.30 = DbhP_7,31.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tāvattadeva strīrūpeṇābhāddivyaṃ manoharam /",
+            "atīva ramaṇīyāṅgīṃ kumārīṃ navayauvanām // Dg_1.31 = DbhP_7,31.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "udyatpīnakucadvandvaninditāmbhojakuḍmalām /",
+            "raṇatkiṅkiṇikājālasiñjanmañjīramekhalām // Dg_1.32 = DbhP_7,31.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kanakāṅgadakeyūragraiveyakavibhūṣitām /",
+            "anarghyamaṇisambhinnagalabandhavirājitām // Dg_1.33 = DbhP_7,31.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tanuketakasaṃrājannīlabhramarakuntalām /",
+            "nitambabimbasubhagāṃ romarājivirājitām // Dg_1.34 = DbhP_7,31.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karpūraśakalonmiśratāmbūlapūritānanām /",
+            "kanatkanakatāṭaṅkaviṭaṅkavadanāmbujām // Dg_1.35 = DbhP_7,31.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṣṭamīcandrabimbābhalalāṭāmāyatabhruvam /",
+            "raktāravindanayanāmunnasāṃ madhurādharām // Dg_1.36 = DbhP_7,31.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kundakuḍmaladantāgrāṃ muktāhāravirājitām /",
+            "ratnasambhinnamukuṭāṃ candrarekhāvatāmsinīm // Dg_1.37 = DbhP_7,31.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mallikāmālatīmālākeśapāśavirājitām /",
+            "kāśmīrabinduniṭilāṃ netratrayavilāsinīm // Dg_1.38 = DbhP_7,31.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāśāṅkuśavarābhīticaturbāhuṃ trilocanām /",
+            "raktavastraparīdhānāṃ dāḍimīkusumaprabhām // Dg_1.39 = DbhP_7,31.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvaśṛṅgāraveṣāḍhyāṃ sarvadevanamaskṛtām /",
+            "sarvāśāpūrikāṃ sarvamātaraṃ sarvamohinīm // Dg_1.40 = DbhP_7,31.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prasādasumukhīmambāṃ mandasmitamukhāmbujām /",
+            "avyājakaruṇāmūrtiṃ dadṛśuḥ purataḥ surāḥ // Dg_1.41 = DbhP_7,31.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dṛṣṭvā tāṃ karuṇāmurtiṃ praṇemuḥ sakalāḥ surāḥ /",
+            "vaktuṃ nāśaknuvan kiñcidvāṣpasaṃruddhaniḥsvanāḥ // Dg_1.42 = DbhP_7,31.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kathañcitsthairyamālambya bhaktyā cānatakandharāḥ /",
+            "premāśrupūrṇanayanāstuṣṭuvurjagadambikām // Dg_1.43 = DbhP_7,31.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namo devyai mahādevyai śivāyai satataṃ namaḥ /",
+            "namaḥ prakṛtyai bhadrāyai niyatāḥ praṇatāḥ sma tām // Dg_1.44 = DbhP_7,31.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tām agnivarṇāṃ tapasā jvalantīṃ vairocanīṃ karmaphaleṣu juṣṭām /",
+            "durgāṃ devīṃ śaraṇamahaṃ prapadye sutarasi tarase namaḥ // Dg_1.45 = DbhP_7,31.45 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "devīṃ vācamajanayanta devāstāṃ viśvarūpāḥ paśavo vadanti /",
+            "sā no mandreṣamūrjaṃ duhānā dhenur vāgasmānupasuṣṭutaitu // Dg_1.46 = DbhP_7,31.46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kālarātrīṃ brahmastutāṃ vaiṣṇavīṃ skandamātaram /",
+            "sarasvatīmaditiṃ dakṣaduhitaraṃ namāmaḥ pāvanāṃ śivām // Dg_1.47 = DbhP_7,31.47 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahālakṣmyai ca vidmahe sarvaśaktyai ca dhīmahi /",
+            "tanno devī pracodayāt // Dg_1.48 = DbhP_7,31.48 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namo virāṭsvarūpiṇyai namaḥ sūtrātmamūrtaye /",
+            "namo 'vyākṛtarūpiṇyai namaḥ śrībrahma mūrtaye // Dg_1.49 = DbhP_7,31.49 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadajñānājjagaddhāti rajjusarpasragādivat /",
+            "yajjñānāllayamāpnoti numastāṃ bhuvaneśvarīm // Dg_1.50 = DbhP_7,31.50 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "numastatpadalakṣyārthāṃ cidekarasarūpiṇīm /",
+            "akhaṇḍānandarūpāṃ tāṃ vedatātparyabhūmikām // Dg_1.51 = DbhP_7,31.51 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pañcakośātiriktāṃ tām avasthātrayasākṣiṇīm /",
+            "punastvampadalakṣyārthāṃ pratyagātmasvarūpiṇīm // Dg_1.52 = DbhP_7,31.52 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namaḥ praṇavarūpāyai namo hrīṅkāramūrtaye /",
+            "nānāmantrātmikāyai te karuṇāyai namo namaḥ // Dg_1.53 = DbhP_7,31.53 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti stutā tadā devair maṇidvīpādhivāsinī /",
+            "prāha vācā madhurayā mattakokilaniḥsvanā // Dg_1.54 = DbhP_7,31.54 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vedantu vibudhāḥ kāryaṃ yadarthamiha saṅgatāḥ /",
+            "varadāhaṃ sadā bhaktakāmakalpadrumāsmi ca // Dg_1.55 = DbhP_7,31.55 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tiṣṭhantyāṃ mayi kā cintā yuṣmākaṃ bhaktiśālinām /",
+            "samuddharāmi madbhaktānduḥkhasaṃsārasāgarāt // Dg_1.56 = DbhP_7,31.56 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti pratijñāṃ me satyāṃ jānītha vibudhottamāḥ /",
+            "iti premākulāṃ vāṇīṃ śrutvā santuṣṭamānasāḥ // Dg_1.57 = DbhP_7,31.57 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nājñātaṃ kiñcidapyatra bhvatyāsti jagastraye // Dg_1.58 = DbhP_7,31.58 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvajñayā sarvasākṣirūpiṇyā parmeśvari /",
+            "tārakeṇāsurendreṇa pīḍitāḥ smo divāniśam // Dg_1.59 = DbhP_7,31.59 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śivāṅgajādvadhastasya nirmito brahmaṇāśive /",
+            "śivāṅganā tu naivāsti jānāsi tvaṃ maheśvari // Dg_1.60 = DbhP_7,31.60 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvajñapurataḥ kiṃ vā vaktavyaṃ pāmarairjanaiḥ /",
+            "etaduddeśataḥ proktamaparaṃ tarkayāmbike // Dg_1.61 = DbhP_7,31.61 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvadā caraṇāmbhoje bhaktiḥ syāttava niścalā /",
+            "prārthanīyamidaṃ mukhyamaparaṃ dehahetave // Dg_1.62 = DbhP_7,31.62 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti teṣāṃ vacaḥ śrutvā provāca parameśvarī /",
+            "mama śaktistu yā gaurī bhaviṣyati himālaye // Dg_1.63 = DbhP_7,31.63 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śivāya sā pradeyā syāt sā vaḥ kāryaṃ vidhāsyati /",
+            "bhaktiryaccaraṇāmbhoje bhūyādyuṣmākamādarāt // Dg_1.64 = DbhP_7,31.64 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "himālayo hi manasā māmupāste 'tibhaktitaḥ /",
+            "tatastasya gṛhe janma mama priyakaraṃ matam // Dg_1.65 = DbhP_7,31.65 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "himālayo 'pi tacchrutvātyanugrahakaraṃ vacaḥ /",
+            "bāṣpaiḥ saṃruddhakaṇṭhākṣo mahārājñīṃ vaco 'bravīt // Dg_1.66 = DbhP_7,31.66 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahattaraṃ taṃ kuruṣe yasyānugrahamicchasi /",
+            "nocetkvāhaṃ jaḍaḥ sthāṇuḥ kva tvaṃ saccitsvarūpiṇī // Dg_1.67 = DbhP_7,31.67 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "asambhāvyaṃ janmaśataistvatpitṛtvaṃ mamānaghe /",
+            "aśvamedhādi puṇyairvā puṇyairvā tatsamādhijaiḥ // Dg_1.68 = DbhP_7,31.68 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adya prapañce kīrtiḥ syājjaganmātā sutābhavat /",
+            "aho himālayasyāsya dhanyo 'sau bhāgyavāniti // Dg_1.69 = DbhP_7,31.69 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasyāstu jaṭhare santi brahmāṇḍānāṃ ca koṭayaḥ /",
+            "saiva yasya sutā jātā ko vā syāttatsamo bhuvi // Dg_1.70 = DbhP_7,31.70 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na jāne 'smatpitṝṇāṃ kiṃ sthānaṃ syānnirmitaṃ param /",
+            "etādṛśānāṃ vāsāya yeṣāṃ vaṃśe 'sti mādṛśaḥ // Dg_1.71 = DbhP_7,31.71 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "idaṃ yathā ca dattaṃ me kṛpayā premapūrṇayā /",
+            "sarvavedāntasiddhaṃ ca tvadrūpaṃ brūhi me tathā // Dg_1.72 = DbhP_7,31.72 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yogaṃ ca bhaktisahitaṃ jñānaṃ ca śrutisammatam /",
+            "vadasva parameśāni tvamevāhaṃ yato bhaveḥ // Dg_1.73 = DbhP_7,31.73 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti tasya vacaḥ prasannamukhapaṅkajā /",
+            "vaktumārabhatāmbā sā rahasyaṃ śrutigūhitam // Dg_1.74 = DbhP_7,31.74 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "Devīgītā",
+        "atha prathamo 'dhyāyaḥ -\nsaptamaḥ skandhaḥ\natha ekatriṃśo 'dhyāyaḥ",
+        "janamejaya uvāca"
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "verse_count": 50,
+      "verse_groups": [
+        {
+          "lines": [
+            "śṛṇvantu nirjarāḥ sarve vyāharantyā vaco mama /",
+            "yasya śravaṇamātreṇa madrūpatvaṃ prapadyate // Dg_2.1 = DbhP_7,32.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aham evāsa pūrvaṃ tu nānyatkiñcinnagādhipa /",
+            "tadātmarūpaṃ citsaṃvit parabrahmaikanāmakam // Dg_2.2 = DbhP_7,32.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "apratarkyam anirdeśyamanaupamyamanāmayam /",
+            "tasya kācitsvataḥ siddhā śaktirmāyeti viśrutā // Dg_2.3 = DbhP_7,32.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na satī sā nāsatī sā nobhayātmā virodhataḥ /",
+            "etadvilakṣaṇā kācidvastubhūtāsti sarvadā // Dg_2.4 = DbhP_7,32.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāvakasyoṣṇateveyamuṣṇāṃśoriva dīdhitiḥ /",
+            "candrasya candrikeveyaṃ mameyaṃ sahajā dhruvā // Dg_2.5 = DbhP_7,32.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasyāṃ karmaṇi jīvānāṃ jīvāḥ kālāśca sañcare /",
+            "abhedena vilīnāḥ syuḥ suṣuptau vyavahāravat // Dg_2.6 = DbhP_7,32.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svaśakteś ca samāyogādahaṃ bījātmatāṃ gatā /",
+            "svādhārāvaraṇāttasyā doṣatvaṃ ca samāgatam // Dg_2.7 = DbhP_7,32.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "caitanyasya samāyogānnimittatvaṃ ca kathyate /",
+            "prapañcapariṇāmācca samavāyitvamucyate // Dg_2.8 = DbhP_7,32.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kecittāṃ tapa ityāhustamaḥ kecijjaḍaṃ pare /",
+            "jñānaṃ māyāṃ pradhānaṃ ca prakṛtiṃ śaktimapyajām // Dg_2.9 = DbhP_7,32.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vimarśa iti tāṃ prāhuḥ śaivaśāstraviśāradāḥ /",
+            "avidyāmitare prāhurvedatattvārthacintakāḥ // Dg_2.10 = DbhP_7,32.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evaṃ nānāvidhāni syurnāmāni nigamādiṣu /",
+            "tasyā jaḍatvaṃ dṛśyatvājjñānanāśāttato 'satī // Dg_2.11 = DbhP_7,32.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "caitanyasya na dṛśyatvam dṛśyatve jaḍameva tat /",
+            "svaprakāśaṃ ca caitanyaṃ na pareṇa prakāśitam // Dg_2.12 = DbhP_7,32.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anavasthādoṣasattvānna svenāpi prakāśitam /",
+            "karmakartrīvirodhaḥ syāttasmāttaddīpavatsvayam // Dg_2.13 = DbhP_7,32.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prakāśamānamanyeṣāṃ bhāsakaṃ viddhi parvata /",
+            "ata eva ca nityatvaṃ siddhasaṃvittanormama // Dg_2.14 = DbhP_7,32.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jāgratsvapnasuṣuptyādau dṛśyasya vyabhicārataḥ /",
+            "saṃvido vyabhicāraśca nānubhūto 'sti karhicit // Dg_2.15 = DbhP_7,32.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadi tasyāpyanubhavastarhyayaṃ yena sākṣiṇā /",
+            "anubhūtaḥ sa evātra śiṣṭaḥ saṃvidvapuḥ purā // Dg_2.16 = DbhP_7,32.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ata eva ca nityatvaṃ proktaṃ sacchāstrakovidaiḥ /",
+            "ānandarūpatā cāsyāḥ parapremāspadatvataḥ // Dg_2.17 = DbhP_7,32.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mā na bhūvaṃ hi bhūyāsamiti premātmani sthitam /",
+            "sarvasyānyasya mithyātvādasaṅgatvaṃ sphuṭaṃ mama // Dg_2.18 = DbhP_7,32.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aparicchinnatāpyevamata eva matā mama /",
+            "tacca jñānaṃ nātmadharmā dharmatve jaḍatātmanaḥ // Dg_2.19 = DbhP_7,32.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñānasya jaḍaśeṣatvaṃ na dṛṣṭaṃ na ca saṃbhavi /",
+            "ciddharmatvaṃ tathā nāsti citaścinna hi bhidyate // Dg_2.20 = DbhP_7,32.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmādātmā jñānarūpaḥ sukharūpaśca sarvadā /",
+            "satyaḥ pūrṇo 'py asaṅgaśca dvaitajālavivarjitaḥ // Dg_2.21 = DbhP_7,32.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sa punaḥ kāmakarmādiyuktayā svīyamāyayā /",
+            "pūrvānubhūtasaṃskārātkālakarmavipākataḥ // Dg_2.22 = DbhP_7,32.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avivekācca tattvasya sisṛkṣāvānprajāyate /",
+            "abuddhipūrvaḥ sargo 'yaṃ kathitaste nagādhipa // Dg_2.23 = DbhP_7,32.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etaddhi yanmayā proktaṃ mama rūpamalaukikam /",
+            "avyākṛtaṃ tadavyaktaṃ māyāśabalamityapi // Dg_2.24 = DbhP_7,32.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "procyate sarvaśāstreṣu sarvakāraṇakāraṇam /",
+            "tattvānāmādibhūtaṃ ca saccidānandavigraham // Dg_2.25 = DbhP_7,32.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvakarmaghanībhūtamicchājñānakriyāśrayam /",
+            "hrīṅkāramantravācyaṃ tadāditattvaṃ taducyate // Dg_2.26 = DbhP_7,32.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmādākāśa utpannaḥ śabdatanmātrarūpakaḥ /",
+            "bhavetsparśātmako vāyustejorūpātmakaṃ punaḥ // Dg_2.27 = DbhP_7,32.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jalaṃ rasātmakaṃ paścāttato gandhātmikā dharā /",
+            "śabdaikaguṇa ākāśo vāyuḥ sparśaravānvitaḥ // Dg_2.28 = DbhP_7,32.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śabdasparśarūpaguṇaṃ teja ityucyate budhaiḥ /",
+            "śabdasparśarūparasairāpo vedaguṇāḥ smṛtāḥ // Dg_2.29 = DbhP_7,32.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śabdasparśarūparasagandhaiḥ pañcaguṇā dharā /",
+            "tebhyo 'bhavanmahatsūtraṃ yalliṅgaṃ paricakṣate // Dg_2.30 = DbhP_7,32.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvātmakam tatsamproktaṃ sūkṣmadeho 'yamātmanaḥ /",
+            "avyaktaṃ kāraṇo dehaḥ sa coktaḥ pūrvam eva hi // Dg_2.31 = DbhP_7,32.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmiñjagadbījarūpaṃ sthitaṃ liṅgodbhavo yataḥ /",
+            "tataḥ sthūlāni bhūtāni pañcīkaraṇamārgataḥ // Dg_2.32 = DbhP_7,32.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pañcasaṃkhyāni jāyante tatprakārastvathocyate /",
+            "pūrvoktāni ca bhūtāni pratyekaṃ vibhajed dvidhā // Dg_2.33 = DbhP_7,32.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ekaikaṃ bhāgamekasya caturdhā vibhajedgire /",
+            "svasvetaradvitīyāṃśe yojanātpañca pañca te // Dg_2.34 = DbhP_7,32.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatkāryam ca virāḍdehaḥ sthūladeho 'yamātmanaḥ /",
+            "pañcabhūtasthasattvāṃśaiḥ śrotrādīnāṃ samudbhavaḥ // Dg_2.35 = DbhP_7,32.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñānendriyāṇāṃ rājendra pratyekaṃ militaistu taiḥ /",
+            "antaḥkaraṇamekaṃ syād vṛttibhedāccaturvidham // Dg_2.36 = DbhP_7,32.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yadā tu saṅkalpavikalpakṛtyaṃ tadā bhavettanmana ityabhikhyam /",
+            "syād buddhisaṃjñaṃ ca yadā pravetti suniścitaṃ saṃśayahīnarūpam // Dg_2.37 = DbhP_7,32.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anusandhānarūpaṃ taccittam ca parikīrtitam /",
+            "ahaṅkṛtyātmavṛttyā tu tadahaṅkāratāṃ gatam // Dg_2.38 = DbhP_7,32.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "teṣāṃ rajoṃśairjñātāni kramātkarmendriyāṇi ca /",
+            "pratyekaṃ militairtairtu prāṇo bhavati pañcadhā // Dg_2.39 = DbhP_7,32.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hṛdi prāṇo gude 'pāno nābhisthastu samānakaḥ /",
+            "kaṇṭhadeśe 'pyudānaḥ syādvyānaḥ sarvaśarīragaḥ // Dg_2.40 = DbhP_7,32.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jānendriyāṇi pañcaiva pañca karmendriyāṇi ca /",
+            "prāṇādipañcakaṃ caiva dhiyāca sahitaṃ manaḥ // Dg_2.41 = DbhP_7,32.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etatsūkṣmaśarīraṃ syānmama liṇgaṃ yaducyate /",
+            "tatra yā prakṛtiḥ proktā sā rājandvididhā smṛtā // Dg_2.42 = DbhP_7,32.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sattvātmikā tu māyā syādavidyā guṇamiśritā /",
+            "svāśrayaṃ yā tu saṃrakṣetsā māyeti nigadyate // Dg_2.43 = DbhP_7,32.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasyāṃ yatpratibimbaṃ syādbimbabhūtasya ceśituḥ /",
+            "sa īśvaraḥ samākhyātaḥ svāśrayajñānavānparaḥ // Dg_2.44 = DbhP_7,32.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvajñaḥ sarvakartā ca sarvānugrahakārakaḥ /",
+            "avidyāyāṃ tu yatkiñcitpratibimbaṃ nagādhipa // Dg_2.45 = DbhP_7,32.45 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadeva jīvasaṃjñaṃ syātsarvaduḥkhāśrayaṃ punaḥ /",
+            "dvayorapīha samproktaṃ dehatrayamavidyayā // Dg_2.46 = DbhP_7,32.46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dehatrayābhimānāccāpyabhūnnāmatrayaṃ punaḥ /",
+            "prājñastu kāraṇātmā syātsūkṣmadehī tu taijasaḥ // Dg_2.47 = DbhP_7,32.47 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sthūladehī tu viśvākhyastrividhaḥ parikīrtitaḥ /",
+            "evamīśo 'pi samprokta īśasūtravirāṭpadaiḥ // Dg_2.48 = DbhP_7,32.48 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prathamo vyaṣṭirūpastu samaṣṭyātmā paraḥ smṛtaḥ /",
+            "sa hi sarveśvaraḥ sākṣājjīvānugrahakāmyayā // Dg_2.49 = DbhP_7,32.49 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karoti vividhaṃ viśvaṃ nānābhogāśrayaṃ punaḥ /",
+            "macchaktiprerito nityaṃ mayi rājanprakalpitaḥ // Dg_2.50 = DbhP_7,32.50 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "atha dvitīyo 'dhyāyaḥ -\nsaptamaḥ skandhaḥ\natha dvātriṃśo 'dhyāyaḥ",
+        "śrīdevyuvāca",
+        "iti devīgītāyāṃ dvitīyo 'dhyāyaḥ -\niti śrīdevībhāgavate mahāpurāṇe saptamaskandhe devīgītāyāṃ dvātriṃśo 'dhyāyaḥ"
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "verse_count": 56,
+      "verse_groups": [
+        {
+          "lines": [
+            "manmāyāśaktisaṃklṛptaṃ jagatsarvaṃ carācaram /",
+            "sāpi mattaḥ pṛthaṅmāyā nāstyeva paramārthataḥ // Dg_3.1 = DbhP_7,33.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vyavahāradṛśā seyaṃ vidyā māyeti viśrutā /",
+            "tattvadṛṣṭyā tu nāstyeva tattvamevāsti kevalam // Dg_3.2 = DbhP_7,33.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sāhaṃ sarvaṃ jagatsṛṣṭvā tadantaḥ praviśāmyaham /",
+            "māyākarmādisahitā gire prāṇapuraḥsarā // Dg_3.3 = DbhP_7,33.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "lokāntaragatirno cetkathaṃ syāditi hetunā /",
+            "yathā yathā bhavantyeva māyābhedāstathā tathā // Dg_3.4 = DbhP_7,33.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upādhibhedādbhinnāhaṃ ghaṭākāśādayo yathā /",
+            "uccanīcādivastūni bhāsayanbhāskaraḥ sadā // Dg_3.5 = DbhP_7,33.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na duṣyati tathaivāhaṃ doṣairliptā kadāpi na /",
+            "mayi buddhyādikartṛtvamadhyasyaivāpare janāḥ // Dg_3.6 = DbhP_7,33.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vadanti cātmā karmeti vimūḍhā na subuddhayaḥ /",
+            "ajñānabhedatastadvanmāyāyā bhedatastathā // Dg_3.7 = DbhP_7,33.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jīveśvaravibhāgaśca kalpito māyayaiva tu /",
+            "ghaṭākāśamahākāśavibhāgaḥ kalpito yathā // Dg_3.8 = DbhP_7,33.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tathaiva kalpito bhedo jīvātmaparamātmanoḥ /",
+            "yathā jīvabahūtvaṃ ca māyayaiva na ca svataḥ // Dg_3.9 = DbhP_7,33.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatheśvarabahūtvaṃ ca māyayā na svabhāvataḥ /",
+            "dehendriyādisaṅghātavāsanābhedabheditā // Dg_3.10 = DbhP_7,33.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avidyā jīvabhedasya heturnānyaḥ prakīrtitaḥ /",
+            "guṇānāṃ vāsanābhedabheditā yā dharādhara // Dg_3.11 = DbhP_7,33.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "māyā sā parabhedasya heturnānyaḥ kadācana /",
+            "mayi sarvamidaṃ protamotaṃ ca dharaṇīdhara // Dg_3.12 = DbhP_7,33.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "īśvaro 'haṃ ca sūtrātmā virāḍātmāhamasmi ca /",
+            "brahmāhaṃ viṣṇurudrau ca gaurī brāhmī ca vaiṣṇāvī // Dg_3.13 = DbhP_7,33.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sūryo 'haṃ tārakāścāhaṃ tārakeśastathāsmyaham /",
+            "paśupakṣisvarūpāhaṃ cāṇḍālo 'haṃ ca taskaraḥ // Dg_3.14 = DbhP_7,33.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vyādho 'haṃ krūrakarmāhaṃ satkarmāhaṃ mahājanaḥ /",
+            "strīpunnapuṃsakākāro 'pyahameva na saṃśayaḥ // Dg_3.15 = DbhP_7,33.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yacca kiñcitkvacidvastu dṛśyate śrūyate 'pi vā /",
+            "antarbahiśca tatsarvaṃ vyāpyāhaṃ sarvadā sthitā // Dg_3.16 = DbhP_7,33.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na tadasti mayā tyaktaṃ vastu kiñciccarācaram /",
+            "yadyasti cettacchūnyaṃ syādvandhyāputropamaṃ hi tat // Dg_3.17 = DbhP_7,33.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rajjuryathā sarpamālābhedairekā vibhāti hi /",
+            "tathaiveśādirūpeṇa bhāmyahaṃ nātra saṃśayaḥ // Dg_3.18 = DbhP_7,33.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhiṣṭhānātirekeṇa kalpitaṃ tanna bhāsate /",
+            "tasmānmatsattayaivaitat sattāvannānyathā bhavet // Dg_3.19 = DbhP_7,33.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yathā vadasi deveśi samaṣṭyātmavapustvidam /",
+            "tathaiva draṣṭumicchāmi yadi devi kṛpā mayi // Dg_3.20 = DbhP_7,33.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti tasya vacaḥ śrutvā sarve devāḥ saviṣṇavaḥ /",
+            "nanandurmuditātmānaḥ pūjayantaśca tadvacaḥ // Dg_3.21 = DbhP_7,33.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atha devamataṃ jñātvā bhaktakāmadughā śivā /",
+            "adarśayannijaṃ rūpaṃ bhaktakāmaprapūriṇī // Dg_3.22 = DbhP_7,33.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "apaśyaṃste mahādevyā virāḍrūpaṃ parātparam /",
+            "dyaurmastakaṃ bhavedyasya candramūryau ca cakṣuṣī // Dg_3.23 = DbhP_7,33.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "diśaḥ śrotre vaco devāḥ prāṇo vāyuḥ prakīrtitaḥ /",
+            "viśvaṃ hṛdayamityāhuḥ pṛthivī jaghanaṃ smṛtam // Dg_3.24 = DbhP_7,33.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nabhastalaṃ nābhisaro jyotiścakramuraḥ sthalam /",
+            "maharlokastu grīvā syājjanoloko mukhaṃ smṛtam // Dg_3.25 = DbhP_7,33.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tapoloko rarāṭistu satyalokādadhaḥ sthitaḥ /",
+            "indrādayo bāhavaḥ syuḥ śabdaḥ śrotraṃ maheśituḥ // Dg_3.26 = DbhP_7,33.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nāsatyadasrau nāse sto gandho ghrāṇaṃ smṛtitaḥ /",
+            "mukhamagniḥ samākhyāto divārātrī ca pakṣmaṇī // Dg_3.27 = DbhP_7,33.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahmasthānaṃ bhrūvijṛmbho 'pyāpastāluḥ prkīrtitāḥ /",
+            "raso jihvā samākhyātā yamo daṃṣṭrāḥ prakīrtitāḥ // Dg_3.28 = DbhP_7,33.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dantāḥ snehakalā yasya hāso māyā prakīrtitā /",
+            "sargastvapāṅgamokṣaḥ syādvīḍordhvoṣṭho maheśituḥ // Dg_3.29 = DbhP_7,33.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "lobhaḥ syādadharoṣṭho 'syā dharmamārgastu pṛṣṭhabhūḥ /",
+            "prajāpatiśca meḍhraṃ syādyaḥ sraṣṭā jagatītale // Dg_3.30 = DbhP_7,33.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kukṣiḥ samudrā girayo 'sthīni devyā maheśituḥ /",
+            "nadyo nāḍyaḥ samākhyātā vṛkṣāḥ keśaḥ prakīrtitāḥ // Dg_3.31 = DbhP_7,33.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kaumārayauvanajarāvayo 'sya gatiruttamā /",
+            "balāhakāstu keśāḥ syuḥ sandhye te vāsasī vibho // Dg_3.32 = DbhP_7,33.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rājañchrījagadambāyāścandramāstu manaḥ smṛtaḥ /",
+            "vijñānaśaktistu harī rudro 'ntaḥkaraṇaṃ smṛtam // Dg_3.33 = DbhP_7,33.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśvā hi jātayaḥ sarvāḥ śroṇideśe sthitā vibhoḥ /",
+            "atalādimahālokāḥ kaṭyadhobhāgatām gatāḥ // Dg_3.34 = DbhP_7,33.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etādṛśaṃ mahārūpaṃ dadṛśuḥ surapuṅgavāḥ /",
+            "jvālāmālāsahasrāḍhyaṃ lelihānaṃ ca jihvayā // Dg_3.35 = DbhP_7,33.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "daṃṣṭrākaṭakaṭārāvaṃ vamantaṃ vahnimakṣibhiḥ /",
+            "nānāyudhadharaṃ vīraṃ brahmakṣatraudanaṃ ca yat // Dg_3.36 = DbhP_7,33.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sahasraśīrṣanayanaṃ sahasracaraṇaṃ tathā /",
+            "koṭisūryapratīkāśaṃ vidyutkoṭisamaprabham // Dg_3.37 = DbhP_7,33.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhayaṅkaraṃ mahāghoraṃ hṛdakṣṇostrāsakārakam /",
+            "dadṛśuste surāḥ sarve hāhākāraṃ ca cakrire // Dg_3.38 = DbhP_7,33.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vikampamānahṛdayā mūrcchāmāpurduratyayām /",
+            "smaraṇaṃ ca gataṃ teṣāṃ jagadambeyamityapi // Dg_3.39 = DbhP_7,33.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atha te ye sthitā vedāścaturdikṣu mahāvibhoḥ /",
+            "bodhayāmāsuratyugraṃ mūrchāto mūrcchitānsurān // Dg_3.40 = DbhP_7,33.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "atha te dhairyamālambya labdhvā ca śrutimuttamām /",
+            "premāśrupūrṇanayanā ruddhakaṇṭhāstu nirjarāḥ // Dg_3.41 = DbhP_7,33.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uparādhaṃ kṣamasvāmba pāhi dīnāṃstvadudbhavān // Dg_3.42 = DbhP_7,33.42 //"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kopaṃ saṃhara deveśi sabhayā rūpadarśanāt /",
+            "kā te stutiḥ prakartavyā pāmarairnirjarairiha // Dg_3.43 = DbhP_7,33.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svasyāpyajñeya evāsau yāvānyaśca svavikramaḥ /",
+            "tadarvāgjāyamānānāṃ kathaṃ sa viṣayo bhavet // Dg_3.44 = DbhP_7,33.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namaste bhuvaneśāni namaste praṇavātmike /",
+            "sarvavedāntasaṃsiddhe namo hrīṅkāramūrtaye // Dg_3.45 = DbhP_7,33.45 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmādagniḥ samutpanno yasmātsūryaśca candramāḥ /",
+            "yasmādoṣadhayaḥ sarvāstasmai sarvātmane namaḥ // Dg_3.46 = DbhP_7,33.46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmācca devāḥ sambhūtāḥ sādhyāḥpakṣiṇa eva ca /",
+            "paśavaśca manuṣyāśca tasmai sarvātmane namaḥ // Dg_3.47 = DbhP_7,33.47 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prāṇāpānau vrīhiyavau tapaḥ śraddhā ṛtaṃ tathā /",
+            "brahmacaryaṃ vidhiścaiva yasmāttasmai namo namaḥ // Dg_3.48 = DbhP_7,33.48 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sapta prāṇārciṣo yasmātsamidhaḥ sapta eva ca /",
+            "homāḥ sapta tathā lokāstasmai sarvātmane namaḥ // Dg_3.49 = DbhP_7,33.49 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmātsamudrā girayaḥ sindhavaḥ pracaranti ca /",
+            "yasmādoṣadhayaḥ sarvā rasāstasmai namo namaḥ // Dg_3.50 = DbhP_7,33.50 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmātyajñaḥ samudbhūto dīkṣā yūpaśca dakṣiṇāḥ /",
+            "ṛco yajūṃṣi sāmāni tasmai sarvātmane namaḥ // Dg_3.51 = DbhP_7,33.51 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namaḥ purastātpṛṣṭhe ca namaste pārśvayordvayoḥ /",
+            "adha ūrdhvaṃ caturdikṣu mātarbhūyo namo namaḥ // Dg_3.52 = DbhP_7,33.52 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upasaṃhara deveśi rūpametadalaukikam /",
+            "tadeva darśayāsmākaṃ rūpaṃ sundarasundaram // Dg_3.53 = DbhP_7,33.53 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti bhītānsurāndṛṣṭvā jagadambā kṛpārṇavā /",
+            "saṃhṛtya rūpaṃ ghoraṃ taddarśayāmāsa sundaram // Dg_3.54 = DbhP_7,33.54 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāśāḍkuśavarābhītidharaṃ sarvaṅgakomalam /",
+            "karuṇāpūrṇanayanaṃ mandasmitamukhāmbujam // Dg_3.55 = DbhP_7,33.55 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dṛṣṭvā tatsundaraṃ rūpaṃ tadā bhītivivarjitāḥ /",
+            "śāntacittāḥ praṇemuste harṣagadnadaniḥsvanāḥ // Dg_3.56 = DbhP_7,33.56 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "atha tṛtīyo 'dhyāyaḥ -\nsaptamaḥ skandhaḥ\natha trayastriṃśo 'dhyāyaḥ",
+        "devyuvāca",
+        "himālaya uvāca"
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "verse_count": 50,
+      "verse_groups": [
+        {
+          "lines": [
+            "kva yūyaṃ mandabhāgyā vai kvedaṃ rūpaṃ mahādbhutam /",
+            "tathāpi bhaktavātsalyādīdṛśaṃ darśitaṃ mayā // Dg_4.1 = DbhP_7,34.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na vedādhyayanairyogair na dānaistapasejyayā /",
+            "rūpaṃ draṣṭum idaṃ śakyaṃ kevalaṃ matkṛpāṃ vinā // Dg_4.2 = DbhP_7,34.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prakṛtaṃ śṛṇu rājendra paramātmātra jīvatām /",
+            "upādhiyogāt samprāptaḥ kartṛtvādikam apyuta // Dg_4.3 = DbhP_7,34.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kriyāḥ karoti vividhā dharmādharmaika hetavaḥ /",
+            "nānā yonīstataḥ prāpya sukhaduḥkhaiśca yujyate // Dg_4.4 = DbhP_7,34.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "punastatsaṃskṛtivaśānnānā karmarataḥ sadā /",
+            "nānā dehān samāpnoti sukhaduḥkhaiśca yujyate // Dg_4.5 = DbhP_7,34.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ghaṭīyantravadetasya na virāmaḥ kadāpi hi /",
+            "ajñānam eva mūlaṃ syāt tataḥ kāmaḥ kriyāstataḥ // Dg_4.6 = DbhP_7,34.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmād ajñānanāśāya yateta niyataṃ naraḥ /",
+            "etaddhi janmasāphalyaṃ yadajñānasya nāśanam // Dg_4.7 = DbhP_7,34.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "puruṣārthasamāptiśca jīvanmuktadaśāpi ca /",
+            "ajñānanāśane śaktā vidyaiva tu paṭīyasī // Dg_4.8 = DbhP_7,34.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na karma tajjannopāstirvirodhābhāvato gire /",
+            "pratyutāśājñānanāśe karmaṇā naiva bhāvyatām // Dg_4.9 = DbhP_7,34.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anarthadāni karmāṇi punaḥ punaruśanti hi /",
+            "tato rāgastato doṣastato 'nartho mahānbhavet // Dg_4.10 = DbhP_7,34.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmāt sarva prayatnena jñānaṃ sampādayennaraḥ /",
+            "kurvanneveha karmāṇītyataḥ karmāpyavaśyakam // Dg_4.11 = DbhP_7,34.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñānādeva hi kaivalyam ataḥ syāt tatsamuccayaḥ /",
+            "sahāyatāṃ vrajet karma jñānasya hitakāri ca // Dg_4.12 = DbhP_7,34.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti kecidvadantyatra tadvirodhānna sambhavet /",
+            "jñānādhṛdgranthibhedaḥ syādhṛdgranthau karmasambhavaḥ // Dg_4.13 = DbhP_7,34.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yaugapadyaṃ na sambhāvyaṃ virodhāt tu tatastayoḥ /",
+            "tamaḥ prakāśayoryadvadyaugapadyaṃ na sambhavi // Dg_4.14 = DbhP_7,34.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmāt sarvāṇi karmāṇi vaidikāni mahāmate /",
+            "cittaśuddhyantam eva syustāni kuryāt prayatnataḥ // Dg_4.15 = DbhP_7,34.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śamo damastitikṣā ca vairāgyaṃ sattvasambhavaḥ /",
+            "tāvat paryantam eva syuḥ karmāṇi na tataḥ param // Dg_4.16 = DbhP_7,34.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadante caiva saṃnyasya saṃśrayedgurum ātmavān /",
+            "śrotriyaṃ brahmaniṣṭhaṃ ca bhaktyā nirvyājayā punaḥ // Dg_4.17 = DbhP_7,34.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vedāntaśravaṇaṃ kuryānnityam evam atandritaḥ /",
+            "tat tvam asyādi vākyasya nityam arthaṃ vicārayet // Dg_4.18 = DbhP_7,34.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tat tvam asyādi vākyaṃ tu jīvabrahmaikyabodhakam /",
+            "aikye jñāte nirbhayastu madrūpo hi prajāyate // Dg_4.19 = DbhP_7,34.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "padārthāvagatiḥ pūrvaṃ vākyārthāvagatistataḥ /",
+            "tat padasya ca vākyārtho gire 'haṃ parikīrtitaḥ // Dg_4.20 = DbhP_7,34.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvaṃ padasya ca vākyārtho jīva eva na saṃśayaḥ /",
+            "ubhayor aikyam asinā padena procyate budhaiḥ // Dg_4.21 = DbhP_7,34.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vācyārthayorviruddhatvāt aikyaṃ naiva ghaṭeta ha /",
+            "lakṣaṇātaḥ prakartavyā tattvamoḥ śrutisaṃsthayoḥ // Dg_4.22 = DbhP_7,34.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "cinmātraṃ tu tayorlakṣyaṃ tayoraikyasya sambhavaḥ /",
+            "tayoraikyaṃ tathā jñātvā svābhedenādvayo bhavet // Dg_4.23 = DbhP_7,34.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "devadattaḥ sa evāyam iti vallakṣaṇā smṛtā /",
+            "sthūlādi deharahito brahma sampadyate naraḥ // Dg_4.24 = DbhP_7,34.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pañcīkṛtamahābhūtasambhūtaḥ sthūladehakaḥ /",
+            "bhogālayo jarāvyādhisaṃyutaḥ sarvakarmaṇām // Dg_4.25 = DbhP_7,34.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mithyā bhūto 'yam ābhāti sphuṭaṃ māyāmayatvataḥ /",
+            "so 'yaṃ sthūla upādhiḥ syādātmano me nageśvara // Dg_4.26 = DbhP_7,34.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñānakarmendriyayutaṃ prāṇapañcakasaṃyutam /",
+            "manobuddhiyutaṃ caitat sūkṣmaṃ tatkavayo viduḥ // Dg_4.27 = DbhP_7,34.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "apañcīkṛtabhūtotthaṃ sūkṣmadeho 'yam ātmanaḥ /",
+            "dvitīyo 'yam upādhiḥ syāt sukhāderavabodhakaḥ // Dg_4.28 = DbhP_7,34.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anādyanirvācyam idam ajñānaṃ tu tṛtīyakaḥ /",
+            "deho 'yam ātmano bhāti kāraṇātmā nageśvara // Dg_4.29 = DbhP_7,34.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upādhivilaye jāte kevalātmāvaśiṣyate /",
+            "dehatraye pañcakośā antaḥsthāḥ santi sarvadā // Dg_4.30 = DbhP_7,34.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pañcakośaparityāge brahma pucchaṃ hi labhyate /",
+            "neti neti iti ādivākyair mama rūpaṃ yaducyate // Dg_4.31 = DbhP_7,34.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na jāyate mriyate tat kadācinnāyaṃ bhūtvā na babhūva kaścit /",
+            "ajo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre // Dg_4.32 = DbhP_7,34.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hataṃ cenmanyate hantuṃ hataścenmanyate hatam /",
+            "ubhau tau na vijānītau nāyaṃ hanti na hanyate // Dg_4.33 = DbhP_7,34.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṇoraṇīyān mahato mahīyān ātmāsya jantornihito guhāyām /",
+            "tam akratuḥ paśyati vītaśoko dhātuḥ prasādān mahimānam asya // Dg_4.34 = DbhP_7,34.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ātmānaṃ rathinaṃ viddhi śarīraṃ ratham eva tu /",
+            "buddhiṃ tu sārathiṃ viddhi manaḥ pragraham eva ca // Dg_4.35 = DbhP_7,34.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indriyāṇi hayān āhur viṣayāṃs teṣu gocarān /",
+            "ātmendriyamanoyuktaṃ bhoktetyāhurmanīṣiṇaḥ // Dg_4.36 = DbhP_7,34.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yastvavidvān bhavati cāmanaskaśca sadāśuciḥ /",
+            "na tatpadam avāpnoti saṃsāraṃ cādhigacchati // Dg_4.37 = DbhP_7,34.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yastu vijñānavān bhavati samanaskaḥ sadā śuciḥ /",
+            "sa tu tatpadam āpnoti yasmād bhūyo na jāyate // Dg_4.38 = DbhP_7,34.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vijñānasārathiryastu manaḥ pragrahavān naraḥ /",
+            "so 'dhvanaḥ pāram āpnoti madīyaṃ yatparaṃ padam // Dg_4.39 = DbhP_7,34.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "itthaṃ śrutyā ca matyā ca niścityātmānam ātmanā /",
+            "bhāvayenmām ātmarūpāṃ nididhyāsanato 'pi // Dg_4.40 = DbhP_7,34.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yogavṛtteḥ purā svasmin bhāvayedakṣaratrayam /",
+            "devīpraṇavasañjñasya dhyānārthaṃ mantravācyayoḥ // Dg_4.41 = DbhP_7,34.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hakāraḥ sthūladehaḥ syād rakāraḥ sūkṣmadehakaḥ /",
+            "īkāraḥ kāraṇātmāsau hrīṅkāro 'haṃ turīyakam // Dg_4.42 = DbhP_7,34.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evaṃ samaṣṭidehe 'pi jñātvā bījatrayam kramāt /",
+            "samaṣṭivyaṣṭyorekatvaṃ bhāvayenmatimān naraḥ // Dg_4.43 = DbhP_7,34.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "samādhikālātpūrvaṃ tu bhāvayitvaivam ādṛtaḥ /",
+            "tato dhyāyennilīnākṣo devīṃ māṃ jagadīśvarīm // Dg_4.44 = DbhP_7,34.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prāṇāpānau samau kṛtvā nāsābhyantaracāriṇau /",
+            "nivṛttaviṣayākāṅkṣo vītadoṣo vimatsaraḥ // Dg_4.45 = DbhP_7,34.45 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhaktyā nirvyājayā yukto guhāyāṃ niḥsvane sthale /",
+            "hakāram viśvam ātmānaṃ rakāre pravilāpayet // Dg_4.46 = DbhP_7,34.46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rakāraṃ taijasaṃ devam īkāre pravilāpayet /",
+            "īkāraṃ prājñam ātmānaṃ hrīṅkāre pravilāpayet // Dg_4.47 = DbhP_7,34.47 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vācyavācakatāhīnaṃ dvaitabhāvavivarjitam /",
+            "akhaṇḍaṃ saccidānandaṃ bhāvayet tacchikhāntare // Dg_4.48 = DbhP_7,34.48 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti dhyānena māṃ rājan sākṣātkṛtya narottamaḥ /",
+            "madrūpa eva bhavati dvayorapyekatā yataḥ // Dg_4.49 = DbhP_7,34.49 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yogayuktyānayā dṛṣṭvā mām ātmānaṃ parātparam /",
+            "ajñānasya sakāryasya tat kṣaṇo nāśako bhavet // Dg_4.50 = DbhP_7,34.50 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "atha caturtho 'dhyāyaḥ -\nsaptamaḥ skandhaḥ\natha catustriṃśo 'dhyāyaḥ",
+        "śrī devyuvāca",
+        "iti devīgītāyāṃ caturtho 'dhyāyaḥ -\niti śrīdevībhāgavate mahāpurāṇe saptamaskandhe devīgītāyāṃ catustriṃśo 'dhyāyaḥ"
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "verse_count": 62,
+      "verse_groups": [
+        {
+          "lines": [
+            "yogaṃ veda maheśāni sāṅgaṃ saṃvitpradāyakam /",
+            "kṛtena yena yogyo 'haṃ bhaveyaṃ tattvadarśane // Dg_5.1 = DbhP_7,35.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na yogo nabhasaḥ pṛṣṭhe na bhūmau na rasātale /",
+            "aikyaṃ jīvātmanor āhur yogaṃ yogaviśāradāḥ // Dg_5.2 = DbhP_7,35.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatpratyūhāḥ ṣaḍākhyātā yogavighnakarānagha /",
+            "kāmakrodhau lobhamohau madamātsaryasañjñakau // Dg_5.3 = DbhP_7,35.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yogāṅgaireva bhittvā tānyogino yogamāpnuyuḥ /",
+            "yamaṃ niyamamāsanaprāṇāyāmau tataḥ param // Dg_5.4 = DbhP_7,35.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pratyāhāraṃ dhāraṇākhyaṃ dhyānaṃ sārdhaṃ samādhinā /",
+            "aṣṭāṅgānyāhuretāni yogināṃ yogasādhane // Dg_5.5 = DbhP_7,35.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ahiṃsā satyamasteyaṃ brahmacaryaṃ dayārjavam /",
+            "kṣamā dhṛtirmitāhāraḥ śaucaṃ ceti yamā daśa // Dg_5.6 = DbhP_7,35.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tapaḥ santoṣa āstikyaṃ dānaṃ devasya pūjanam /",
+            "siddhāntaśravaṇaṃ caiva hrīrmatiśca japo hutam // Dg_5.7 = DbhP_7,35.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "daśaite niyamāḥ proktā mayā parvatanāyaka /",
+            "padmāsanaṃ svastikaṃ ca bhadraṃ vajrāsanaṃ tathā // Dg_5.8 = DbhP_7,35.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vīrāsanamiti proktaṃ kramādāsanapañcakam /",
+            "ūrvorupari vinyasya samyakpādatale śubhe // Dg_5.9 = DbhP_7,35.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṅguṣṭhau ca nibadhnīyāddhastābhyāṃ vyutkramāt tataḥ /",
+            "padmāsanamiti proktaṃ yogināṃ hṛdayaṅgamam // Dg_5.10 = DbhP_7,35.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jānūrvorantare samyak kṛtvā pādatale śubhe /",
+            "kṛjukāyo viśedyogī svastikaṃ tatpracakṣate // Dg_5.11 = DbhP_7,35.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sīvanyāḥ pārśvayornyasya gulphayugmaṃ suniścitam /",
+            "vṛṣaṇādhaḥ pādapārṣṇī pārṣṇibhyāṃ paribandhayet // Dg_5.12 = DbhP_7,35.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhadrāsanamiti proktaṃ yogibhiḥ paripūjitam /",
+            "urvoḥ pādau kramānnyasya jānvoḥ pratyaṅmukhāṅgulī // Dg_5.13 = DbhP_7,35.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karau vidadhyādākhyātaṃ vajrāsanamanuttamam /",
+            "ekaṃ pādamadhaḥ kṛtvā vinyasyoruṃ tathottare // Dg_5.14 = DbhP_7,35.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṛjukāyo viśedyogī vīrāsanamitīritam /",
+            "iḍayākarṣayet vāyuṃ bāhyaṃ ṣoḍaśamātrayā // Dg_5.15 = DbhP_7,35.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhārayetpūritaṃ yogī catuḥṣaṣṭyā tu mātrayā /",
+            "suṣumnāmadhyagaṃ samyagdvātriṃśanmātrayā śanaiḥ // Dg_5.16 = DbhP_7,35.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nāḍyā piṅgalayā caiva recayedyogavittamaḥ /",
+            "prāṇāyāmamimaṃ prāhūryogaśāstraviśāradāḥ // Dg_5.17 = DbhP_7,35.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhūyobhūyaḥ kramāt tasya bāhyamevaṃ samācaret /",
+            "mātrāvṛddhiḥ krameṇaiva samyagdvādaśa ṣoḍaśa // Dg_5.18 = DbhP_7,35.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "japadhyānādibhiḥ sārdhaṃ sagarbhaṃ taṃ vidurbudhāḥ /",
+            "tadapetaṃ vigarbhaṃ ca prāṇāyāmaṃ pare viduḥ // Dg_5.19 = DbhP_7,35.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kramādabhyasyataḥ puṃso dehe svedodgamo 'dhamaḥ /",
+            "madhyamaḥ kampasaṃyukto bhūmityāgaḥ paro mataḥ // Dg_5.20 = DbhP_7,35.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uttamasya guṇāvāptiryāvacchīlanam iṣyate /",
+            "indriyāṇāṃ vicaratāṃ viṣayeṣu nirargalam // Dg_5.21 = DbhP_7,35.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "balādāharaṇaṃ tebhyaḥ pratyāhāro 'bhidhīyate /",
+            "aṅguṣṭhagulphajānūrumūlādhāraliṅganābhiṣu // Dg_5.22 = DbhP_7,35.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hṛdgrīvākaṇṭhadeśeṣu lambikāyāṃ tato nasi /",
+            "bhrūmadhye mastake mūrdhni dvādaśānte yathāvidhi // Dg_5.23 = DbhP_7,35.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhāraṇaṃ prāṇamaruto dhāraṇeti nigadyate /",
+            "samāhitena manasā caitanyāntaravartinā // Dg_5.24 = DbhP_7,35.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ātmanyabhīṣṭadevānāṃ dhyānaṃ dhyānamihocyate /",
+            "samatvabhāvanā nityaṃ jīvātmaparamātmanoḥ // Dg_5.25 = DbhP_7,35.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "samādhimāhurmunayaḥ proktam aṣṭāṅgalakṣaṇam /",
+            "idānīṃ kathaye te 'haṃ mantrayogamanuttamam // Dg_5.26 = DbhP_7,35.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśvaṃ śarīramityuktaṃ pañcabhūtātmakaṃ naga /",
+            "candrasūryāgnitejobhirjīvabrahmaikyarūpakam // Dg_5.27 = DbhP_7,35.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tisraḥ koṭyastadardhena śarīre nāḍayo matāḥ /",
+            "tāsu mukhyā daśa proktāstābhyastisro vyavasthitāḥ // Dg_5.28 = DbhP_7,35.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaktirūpā tu sā nāḍī sākṣādamṛtavigrahā /",
+            "dakṣiṇe yā piṅgalākhyā puṃrūpā sūryavigrahā // Dg_5.30 = DbhP_7,35.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvatejomayī sā tu suṣumnā vahnirūpiṇī /",
+            "tasyā madhye vicitrākhye icchājñānakriyātmakam // Dg_5.31 = DbhP_7,35.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "madhye svayaṃbhūliṅgaṃ tu koṭisūryasamaprabham /",
+            "tadūrdhvaṃ māyābījaṃ tu harātmā bindunādakam // Dg_5.32 = DbhP_7,35.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadūrdhvaṃ tu śikhākārā kuṇḍalī raktavigrahā /",
+            "devyātmikā tu sā proktā madabhinnā nagādhipa // Dg_5.33 = DbhP_7,35.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadbāhye hemarūpābhaṃ vādisāntacaturdalam /",
+            "drutahemasamaprakhyaṃ padmaṃ tatra vicintayet // Dg_5.34 = DbhP_7,35.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadūrdhvaṃ tvanalaprakhyaṃ ṣaḍdalaṃ hīrakaprabham /",
+            "bādilāntaṣaḍvarṇena svādhiṣṭhānamanuttamam // Dg_5.35 = DbhP_7,35.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mūlamādhāraṣaṭkoṇaṃ mūlādhāraṃ tato viduḥ /",
+            "svaśabdena paraṃ liṅgaṃ svādhiṣṭhānaṃ tato viduḥ // Dg_5.36 = DbhP_7,35.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadūrdhvaṃ nābhideśe tu maṇipūraṃ mahāprabham /",
+            "meghābhaṃ vidyudābhaṃ ca bahutejomayaṃ tataḥ // Dg_5.37 = DbhP_7,35.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "maṇivadbhinnaṃ tatpadmaṃ maṇipadmaṃ tathocyate /",
+            "daśabhiśca dalairyuktaṃ ḍādiphāntākṣarānvitam // Dg_5.38 = DbhP_7,35.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣṇunādhiṣṭhitaṃ padmaṃ viṣṇvālokanakāraṇam /",
+            "tadūrdhve 'nāhataṃ padmamudyadādityasannibham // Dg_5.39 = DbhP_7,35.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kādiṭhāntadalairekaṃ patraiśca samadhiṣṭhitam /",
+            "tanmadhye bāṇaliṅgaṃ tu sūryāyutasamaprabham // Dg_5.40 = DbhP_7,35.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śabdabrahmamayaṃ śabdānāhataṃ tatra dṛśyate /",
+            "anāhatākhyaṃ tatpadmaṃ munibhiḥ parikīrtitam // Dg_5.41 = DbhP_7,35.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ānandasadanaṃ tattu puruṣādhiṣṭhitaṃ param /",
+            "tadūrdhvaṃ tu viśuddhākhyaṃ dalaṃ ṣoḍaśapaṅkajam // Dg_5.42 = DbhP_7,35.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svaraiḥ ṣoḍaśabhiryuktaṃ dhūmravarṇam mahāprabham /",
+            "viśuddhaṃ tanute yasmājjīvasya haṃsalokanāt // Dg_5.43 = DbhP_7,35.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśuddhaṃ padmamākhyātamākāśākhyaṃ mahādbhutam /",
+            "ājñācakraṃ tadūrdhve tu ātmanādhiṣṭhitaṃ param // Dg_5.44 = DbhP_7,35.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ājñāsaṃkramaṇaṃ tatra tenājñeti prakīrtitam /",
+            "dvidalaṃ hakṣasaṃyuktaṃ padmaṃ tatsumanoharam // Dg_5.45 = DbhP_7,35.45 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kailāsākhyaṃ tadūrdhvaṃ tu rodhinī tu tadūrdhvataḥ /",
+            "evaṃ tvādhāracakrāṇi proktāni tava suvrata // Dg_5.46 = DbhP_7,35.46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sahasrārayutaṃ bindusthānaṃ tadūrdhvamīritam /",
+            "ityetatkathitaṃ sarvam yogamārgamanuttamam // Dg_5.47 = DbhP_7,35.47 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ādau pūrakayogenāpyādhāre yojayenmanaḥ /",
+            "gudameḍhrāntare śaktistāmākuñcya prabodhayet // Dg_5.48 = DbhP_7,35.48 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "liṅgabhedakrameṇaiva binducakraṃ ca prāpayet /",
+            "śambhunā tāṃ parāṃ śaktimekībhūtāṃ vicintayet // Dg_5.49 = DbhP_7,35.49 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatrotthitāmṛtam yattu drutalākṣārasopamam /",
+            "pāyayitvā tu tāṃ śaktiṃ māyākhyāṃ yogasiddhidam // Dg_5.50 = DbhP_7,35.50 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṣaḍcakradevatāstatra santarpyāmṛtadhārayā /",
+            "ānayettena mārgeṇa mūlādhāraṃ tataḥ sudhī // Dg_5.51 = DbhP_7,35.51 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evamabhyasyamānasyāpyahanyahani niścitam /",
+            "pūrvoktadūṣitā mantrāḥ sarve sidhyanti nānyathā // Dg_5.52 = DbhP_7,35.52 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jarāmaraṇaduḥkhādyairmucyate bhavabandhanāt /",
+            "ye guṇāḥ santi devyā me jaganmāturyathā tathā // Dg_5.53 = DbhP_7,35.53 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "te guṇāḥ sādhakavare bhavantyeva na cānyathā /",
+            "ityevaṃ kathitaṃ tāta vāyudhāraṇamuttamam // Dg_5.54 = DbhP_7,35.54 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "idānīṃ dhāraṇākhyaṃ tu śṛṇuṣvāvahito mama /",
+            "dikkālādyanavacchinnadevyāṃ ceto vidhāya ca // Dg_5.55 = DbhP_7,35.55 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tanmayo bhavati kṣipraṃ jīvabrahmaikyayojanāt /",
+            "athavā samalaṃ ceto yadi kṣipraṃ na siddhyati // Dg_5.56 = DbhP_7,35.56 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadāvayavayogena yogī yogānsamabhyaset /",
+            "madīyahastapādādāvaṅge tu madhure naga // Dg_5.57 = DbhP_7,35.57 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "cittaṃ saṃsthāpayenmantrī sthānasthānajayātpunaḥ /",
+            "viśuddhacittaḥ sarvasminrūpe samsthāpayenmanaḥ // Dg_5.58 = DbhP_7,35.58 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yāvanmano layaṃ yāti devyāṃ saṃvidi parvata /",
+            "tāvadiṣṭamanuṃ mantrī japahomaiḥ samabhyaset // Dg_5.59 = DbhP_7,35.59 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mantrābhyāsena yogena jñeyajñānāya kalpate /",
+            "na yogena vinā mantro na mantreṇa vinā hi saḥ // Dg_5.60 = DbhP_7,35.60 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dvayorabhyāsayogo hi brahmasaṃsiddhikāraṇam /",
+            "tamaḥ parivṛte gehe ghaṭo dīpena dṛśyate // Dg_5.61 = DbhP_7,35.61 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evaṃ māyāvṛto hyātmā manunā gocarīkṛtaḥ /",
+            "iti yogavidhiḥ kṛtsnaḥ sāṅgaḥ prokto mayā 'dhunā // Dg_5.62 = DbhP_7,35.62 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gurūpadeśato jñeyo nānyathā śāstrakoṭibhiḥ // Dg_5.63 = DbhP_7,35.63 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "atha pañcamo 'dhyāyaḥ -\nsaptamaḥ skandhaḥ\natha pañcatriṃśo 'dhyāyaḥ",
+        "himālaya uvāca",
+        "śrīdevyuvāca"
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "verse_count": 30,
+      "verse_groups": [
+        {
+          "lines": [
+            "ityādiyogayuktātmā dhyāyenmāṃ brahmarūpiṇīm /",
+            "bhaktyā nirvyājayā rājannāsane samupasthitaḥ // Dg_6.1 = DbhP_7,36.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āviḥ sannihitaṃ guhācaraṃ nāma mahatpadam /",
+            "atraitat sarvam arpitam ejat prāṇannimiṣacca yat // Dg_6.2 = DbhP_7,36.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etajjānatha sadasadvareṇyaṃ paraṃ vijñānādyadvariṣṭhaṃ prajānām /",
+            "yadarcimadyadaṇubhyo 'ṇu ca yasmiṃllokā nihitā lokinaśca // Dg_6.3 = DbhP_7,36.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadetadakṣaraṃ brahma sa prāṇastadu vāṅmanaḥ /",
+            "tadetat satyam amṛtaṃ tadveddhavyaṃ saumya viddhi // Dg_6.4 = DbhP_7,36.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhanurgṛhītvaupaniṣadaṃ mahāstraṃ śaraṃ hyupāsāniśitaṃ sandhayīta /",
+            "āyamya tadbhāvagatena cetasā lakṣyaṃ tadevākṣaraṃ saumya viddhi // Dg_6.5 = DbhP_7,36.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "praṇavo dhanuḥ śaro hyātmā brahma tallakṣyam ucyate /",
+            "apramattena veddhavyaṃ śaravattanmayo bhavet // Dg_6.6 = DbhP_7,36.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasmin dyauśca pṛthivī cāntarikṣam otaṃ manaḥ saha prāṇaiśca sarvaiḥ /",
+            "tam evaikaṃ jānathātmānam anyā vāco vimuñcathāmṛtasyaiṣa setuḥ // Dg_6.7 = DbhP_7,36.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "arā iva rathanābhau saṃhatā yatra nāḍyaḥ /",
+            "sa eṣo 'ntaścarate bahudhā jāyamānaḥ // Dg_6.8 = DbhP_7,36.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "Omityevaṃ dhyāyathātmānaṃ svasti vaḥ pārāya tamasaḥ parastāt /",
+            "divye brahmapure vyomni ātmā sampratiṣṭhitaḥ // Dg_6.9 = DbhP_7,36.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "manomayaḥ prāṇaśarīranetā pratiṣṭhito 'nne hṛdayaṃ sannidhāya /",
+            "tadvijñānena paripaśyanti dhīrā ānandarūpam amṛtaṃ yadvibhāti // Dg_6.10 = DbhP_7,36.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhidyate hṛdayagranthiśchidyante sarvasaṃśayāḥ /",
+            "kṣīyante cāsya karmāṇi tasmin dṛṣṭe parāvare // Dg_6.11 = DbhP_7,36.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hiraṇmaye pare kośe virājaṃ brahma niṣkalam /",
+            "tacchubhraṃ jyotiṣāṃ jyotis tadyadātmavido viduḥ // Dg_6.12 = DbhP_7,36.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto 'yam agniḥ /",
+            "tameva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti // Dg_6.13 = DbhP_7,36.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahmaivedam amṛtaṃ purastādbrahma paścādbrahma dakṣiṇataścottareṇa /",
+            "adhaścordhvaṃ ca prasṛtaṃ brahmaivedaṃ viśvaṃ variṣṭham // Dg_6.14 = DbhP_7,36.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etādṛganubhavo yasya sa kṛtārtho narottamaḥ /",
+            "brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati // Dg_6.15 = DbhP_7,36.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dvitīyādvai bhayaṃ rājaṃstadabhāvādbibheti na /",
+            "na tadviyogo me 'pyasti madviyogo 'pi tasya na // Dg_6.16 = DbhP_7,36.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aham eva sa so 'haṃ vai niścitaṃ viddhi parvata /",
+            "maddarśanaṃ tu tatra syādyatra jñānī sthito mama // Dg_6.17 = DbhP_7,36.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nāhaṃ tīrthe na kailāse vaikuṇṭhe vā na karhicit /",
+            "vasāmi kintu majjñānihṛdayāmbhojamadhyame // Dg_6.18 = DbhP_7,36.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "matpūjākoṭiphaladaṃ sakṛnmajjñānino 'rcanam /",
+            "kulaṃ pavitraṃ tasyāsti jananī kṛtakṛtyakā // Dg_6.19 = DbhP_7,36.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viśvambharā puṇyavatī cillayo yasya cetasaḥ /",
+            "brahmajñānaṃ tu yatpṛṣṭaṃ tvayā parvata sattama // Dg_6.20 = DbhP_7,36.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kathitaṃ tanmayā sarvaṃ nāto vaktavyam asti hi /",
+            "idaṃ jyeṣṭhāya putrāya bhaktiyuktāya śīline // Dg_6.21 = DbhP_7,36.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śiṣyāya ca yathoktāya vaktavyaṃ nānyathā kvacit /",
+            "yasya deve parā bhaktiryathā deve tathā gurau // Dg_6.22 = DbhP_7,36.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasyaite kathitā hyarthāḥ prakāśante mahātmanaḥ /",
+            "yenopadiṣṭāvidyeyaṃ sa eva parameśvaraḥ // Dg_6.23 = DbhP_7,36.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yasyāyaṃ sukṛtaṃ kartum asamarthastato ṛṇī /",
+            "pitrorapyadhikaḥ prokto brahmajanmapradāyakaḥ // Dg_6.24 = DbhP_7,36.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pitṛjātaṃ janma naṣṭaṃ netthaṃ jātaṃ kadācana /",
+            "tasmai na druhyedityādi nigamo 'pyavadannaga // Dg_6.25 = DbhP_7,36.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmācchāstrasya siddhānto brahmadātā guruḥ paraḥ /",
+            "śive ruṣṭe gurustrātā gurau ruṣṭe na śaṅkaraḥ // Dg_6.26 = DbhP_7,36.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmāt sarvaprayatnena śrīguruṃ toṣayennaga /",
+            "kāyena manasā vācā sarvadā tatparo bhavet // Dg_6.27 = DbhP_7,36.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anyathā tu kṛtaghnaḥ syāt kṛtaghne nāsti niṣkṛtiḥ /",
+            "indreṇātharvaṇāyoktā śiraścheda pratijñayā // Dg_6.28 = DbhP_7,36.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aśvibhyāṃ kathane tasya śiraśchinnaṃ ca vajriṇā /",
+            "aśvīyaṃ tacchiro naṣṭaṃ dṛṣṭvā vaidyau surottamau // Dg_6.29 = DbhP_7,36.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "punaḥ saṃyojitaṃ svīyaṃ tābhyāṃ muniśirastadā /",
+            "iti saṅkaṭasampādyā brahmavidyā nagādhipa // Dg_6.30 = DbhP_7,36.30 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "atha ṣaṣṭho 'dhyāyaḥ -\nsaptamaḥ skandhaḥ\natha ṣaṭtriṃśo 'dhyāyaḥ",
+        "devyuvāca",
+        "lābdhā yena sa dhanyaḥ syāt kṛtakṛtyaśca bhūdhara"
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "verse_count": 45,
+      "verse_groups": [
+        {
+          "lines": [
+            "svīyāṃ bhaktiṃ vadasvāmba yena jñānaṃ sukhena hi /",
+            "jāyeta manujasyāsya madhyamasyāvirāgiṇaḥ // Dg_7.1 = DbhP_7,37.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mārgāstrayo me vikhyātā mokṣaprāptau nagādhipa /",
+            "karmayogo jñānayogo bhaktiyogaśca sattama // Dg_7.2 = DbhP_7,37.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "trayāṇāmapyayaṃ yogyaḥ kartuṃ śakyo 'sti sarvathā /",
+            "sulabhatvānmānasatvāt kāyacittādyapīḍanāt // Dg_7.3 = DbhP_7,37.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇabhedānmanuṣyāṇāṃ sā bhaktistrividhā matā /",
+            "parapīḍāṃ samuddiśya dambhaṃ kṛtvā puraḥsaram // Dg_7.4 = DbhP_7,37.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mātsaryakrodhayukto yastasya bhaktis tu tāmasī /",
+            "parapīḍādirahitaḥ svakalyāṇārtham eva ca // Dg_7.5 = DbhP_7,37.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nityaṃ sakāmo hṛdayaṃ yaśorthī bhogalolupaḥ /",
+            "tattatphalasamāvāptyai māmupāste 'tibhaktitaḥ // Dg_7.6 = DbhP_7,37.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhedabuddhyā tu māṃ svasmādanyāṃ jānāti pāmaraḥ /",
+            "tasya bhaktiḥ samākhyātā nagādhipa tu rājasī // Dg_7.7 = DbhP_7,37.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parameśārpaṇaṃ karma pāpasaṅkṣālanāya ca /",
+            "vedoktatvādavaśyaṃ tatkartavyaṃ tu mayāniśam // Dg_7.8 = DbhP_7,37.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti niścitabuddhistu bhedabuddhim upāśritaḥ /",
+            "karoti prītaye karma bhaktiḥ sā naga sattvikī // Dg_7.9 = DbhP_7,37.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parabhakteḥ prāpikeyaṃ bhedabuddhyavalambanāt /",
+            "pūrvaprokte hyubhe bhaktī na paraprāpike mate // Dg_7.10 = DbhP_7,37.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhunā parabhaktiṃ tu procyamānāṃ nibodha me /",
+            "madguṇaśravaṇaṃ nityaṃ mama nāmānukīrtanam // Dg_7.11 = DbhP_7,37.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kalyāṇaguṇaratnānāmākarāyāṃ mayi sthiram /",
+            "cetaso vartanaṃ caiva tailadhārāsamaṃ sadā // Dg_7.12 = DbhP_7,37.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hetustu tatra ko vāpi na kadācidbhavedapi /",
+            "sāmīpyasārṣṭisāyujyasālokyānāṃ na caiṣaṇā // Dg_7.13 = DbhP_7,37.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "matsevāto 'dhikaṃ kiñcinnaiva jānāti karhicit /",
+            "sevyasevakatābhāvāt tatra mokṣaṃ na vāñchati // Dg_7.14 = DbhP_7,37.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parānuraktyā mām eva cintayedyo hyatandritaḥ /",
+            "svābhedenaiva māṃ nityaṃ jānāti na vibhedataḥ // Dg_7.15 = DbhP_7,37.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "madrūpatvena jīvānāṃ cintanaṃ kurute tu yaḥ /",
+            "yathā svasyātmani prītistathaiva ca parātmani // Dg_7.16 = DbhP_7,37.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "caitanyasya samānatvānna bhedaṃ kurute tu yaḥ /",
+            "sarvatra vartamānānāṃ sarvarūpāṃ ca sarvadā // Dg_7.17 = DbhP_7,37.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "namate yajate caivāpyācāṇḍālāntam īśvara /",
+            "na kutrāpi drohabuddhiṃ kurute bhedavarjanāt // Dg_7.18 = DbhP_7,37.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "matsthānadarśane śraddhā madbhaktadarśane tathā /",
+            "macchāstraśravaṇe śraddhā mantratantrādiṣu prabho // Dg_7.19 = DbhP_7,37.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "māyi premākulamatī romāñcitatanuḥ sadā /",
+            "premāśrujalapūrṇākṣaḥ kaṇṭhagadnadanisvanaḥ // Dg_7.20 = DbhP_7,37.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ananyenaiva bhāvena pūjayedyo nagādhipa /",
+            "māmīśvarīṃ jagadyoniṃ sarvakāraṇakāraṇam // Dg_7.21 = DbhP_7,37.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vratāni mama divyāni nityanaimittikānyapi /",
+            "nityaṃ yaḥ kurute bhaktyā vittaśāṭhyavivarjitaḥ // Dg_7.22 = DbhP_7,37.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "madutsavadidṛkṣā ca madutsavakṛtistathā /",
+            "jāyate yasya niyataṃ svabhāvadeva bhūdhara // Dg_7.23 = DbhP_7,37.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uccairgāyaṃśca nāmāni mamaiva khalu nṛtyati /",
+            "ahaṅkārādirahito dehatādātmyavarjitaḥ // Dg_7.24 = DbhP_7,37.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prārabdhena yathā yacca kriyate tattathā bahvet /",
+            "na me cintāsti tatrāpi dehasaṃrakṣaṇādiṣu // Dg_7.25 = DbhP_7,37.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iti bhaktistu yā proktā parabhaktistu sā smṛtā /",
+            "yasyāṃ devyatiriktaṃ tu na kiñcidapi bhāvyate // Dg_7.26 = DbhP_7,37.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "itthaṃ jātā parā bhaktiryasya bhūdhara tattvataḥ /",
+            "tadaiva tasya cinmātre madrūpe vilayo bhavet // Dg_7.27 = DbhP_7,37.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhaktestu yā parā kāṣṭhā saiva jñānaṃ prakīrtitam /",
+            "vairāgyasya ca sīmā sā jñāne tadubhayaṃ yataḥ // Dg_7.28 = DbhP_7,37.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhaktau kṛtāyāṃ yasyāpi prārabdhavaśato naga /",
+            "na jāyate mama jñānaṃ maṇidvīpaṃ sa gacchati // Dg_7.29 = DbhP_7,37.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatra gatvākhilānbhogānanicchannapi carcchati /",
+            "tadante mama cidrūpajñānaṃ samyagbhavennaga // Dg_7.30 = DbhP_7,37.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tena muktaḥ sadaiva syājjñānānmuktirna cānyathā /",
+            "ihaiva yasya jñānaṃ syāddhṛdgatapratyagātmanaḥ // Dg_7.31 = DbhP_7,37.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mama saṃvitparatanostasya prāṇā vrajanti na /",
+            "brahmaiva saṃstadāpnoti brahmaiva brahma veda yaḥ // Dg_7.32 = DbhP_7,37.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kaṇṭhacāmīkarasamam ajñānāttu tirohitam /",
+            "jñānādajñānanāśena labdhameva hi labhyate // Dg_7.33 = DbhP_7,37.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viditāviditādanyannagottama vapurmama /",
+            "yathādarśe tathātmani yathā jale tathā pitṛloke // Dg_7.34 = DbhP_7,37.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chāyātapau yathā svacchau viviktau tadvadeva hi /",
+            "mama loke bhavejjñānaṃ dvaitabhāvavivarjitam // Dg_7.35 = DbhP_7,37.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yastu vairāgyavāneva jñānahīno mriyeta cet /",
+            "brahmaloke vasennityaṃ yāvatkalpaṃ tataḥ param // Dg_7.36 = DbhP_7,37.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śucīnāṃ śrīmatāṃ gehe bhavettasya janiḥ punaḥ /",
+            "karoti sādhanaṃ paścāttato jñānaṃ hi jāyate // Dg_7.37 = DbhP_7,37.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anekajanmabhī rājañjñānaṃ syānnaikajanmanā /",
+            "tataḥ sarvaprayatnena jñānārthaṃ yatnamāśrayet // Dg_7.38 = DbhP_7,37.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nocenmahānvināśaḥ syājjanmaitaddurlabhaṃ punaḥ /",
+            "tatrāpi prathame varṇe vedaprāptiśca durlabhā // Dg_7.39 = DbhP_7,37.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śamādiṣaṭkasampattiryogasiddhistathaiva ca /",
+            "tathottamaguruprāptiḥ sarvamevātra durlabham // Dg_7.40 = DbhP_7,37.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tathendriyāṇāṃ paṭutā saṃskṛtatvaṃ tanostathā /",
+            "anekajanmapuṇyaistu mokṣecchā jāyate tataḥ // Dg_7.41 = DbhP_7,37.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sādhane saphale 'pyevaṃ jāyamāne 'pi yo naraḥ /",
+            "jñānārthaṃ naiva yatate tasya janma nirarthakam // Dg_7.42 = DbhP_7,37.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmādrājanyathāśaktyā jñānārthaṃ yatnamāśrayet /",
+            "padepade 'śvamedhasya phalamāpnoti niścitam // Dg_7.43 = DbhP_7,37.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ghṛtamiva payasi nigūḍhaṃ bhūte bhūte ca vasati vijñānam /",
+            "satataṃ manthayitavyaṃ manasā manthānabhūtena // Dg_7.44 = DbhP_7,37.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñānaṃ labdhvā kṛtārthaḥ syāditi vedāntaḍiṇḍimaḥ /",
+            "sarvamuktaṃ samāsena kiṃ bhūyaḥ śrotumicchasi // Dg_7.45 = DbhP_7,37.45 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "atha saptamo 'dhyāyaḥ -\nsaptamaḥ skandhaḥ\natha saptatriṃśo 'dhyāyaḥ",
+        "himālaya uvāca",
+        "devyuvāca"
+      ]
+    },
+    {
+      "chapter_num": 8,
+      "verse_count": 50,
+      "verse_groups": [
+        {
+          "lines": [
+            "kati sthānāni deveśi draṣṭavyāni mahītale /",
+            "mukhyāni ca pavitrāṇi devīpriyatamāni ca // Dg_8.1 = DbhP_7,38.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vratānyapi tathā yāni tuṣṭidānyutsavā api /",
+            "tatsarvaṃ deva me mātaḥ kṛtakṛtyo yato naraḥ // Dg_8.2 = DbhP_7,38.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvaṃ dṛśyaṃ mama sthānaṃ sarve kālā vratātmakāḥ /",
+            "utsavāḥ sarvakāleṣu yato 'haṃ sarvarūpiṇī // Dg_8.3 = DbhP_7,38.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tathāpi bhaktavātsalyāt kiñcitkiñcidathocyate /",
+            "śṛṇuṣvāvahito bhūtvā nagarāja vaco mama // Dg_8.4 = DbhP_7,38.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kolāpuraṃ mahāsthānaṃ yatra lakṣmīḥ sadā sthitā /",
+            "mātuḥ puraṃ dvitīyaṃ ca reṇukādhiṣṭhitaṃ param // Dg_8.5 = DbhP_7,38.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tulajāpuraṃ tṛtīyaṃ syātsaptaśṛṅgaṃ tathaiva ca /",
+            "hiṅgulāyā mahāsthānaṃ jvālāmukhyāstathaiva ca // Dg_8.6 = DbhP_7,38.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śakambharyāḥ paraṃ sthānaṃ bhrāmaryāḥ sthānamuttamam /",
+            "śrīraktadantikāsthānaṃ durgāsthānaṃ tathaiva ca // Dg_8.7 = DbhP_7,38.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vindhyācalanivāsinyāḥ sthānaṃ sarvottamottamam /",
+            "annapūrṇamahāsthānaṃ kāñcīpuramanuttamam // Dg_8.8 = DbhP_7,38.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhīmādevyāḥ paraṃ sthānaṃ vimalāsthānameva ca /",
+            "śrīcandralāmahāsthānaṃ kauśikīsthānameva // Dg_8.9 = DbhP_7,38.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nīlāmbāyāḥ paraṃ sthānaṃ nīlaparvatamastake /",
+            "jāmbūnadeśvarīsthānaṃ tathā śrīnagaraṃ śubham // Dg_8.10 = DbhP_7,38.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guhyakālyā mahāsthānaṃ nepāle yatpratiṣṭhitam /",
+            "mīnākṣyāḥ paraṃ sthānaṃ yacca proktaṃ cidambare // Dg_8.11 = DbhP_7,38.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vedāraṇyaṃ mahāsthānaṃ sundaryāḥ samadhiṣṭhitam /",
+            "ekāmbaraṃ mahāsthānaṃ paraśaktyā pratiṣṭhitam // Dg_8.12 = DbhP_7,38.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahālasāparaṃ sthānaṃ yogeśvaryāstathaiva ca /",
+            "tathā nīlasarasvatyāḥ sthānaṃ cīneṣu viśrutam // Dg_8.13 = DbhP_7,38.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vaidyanāthe tu bagalāsthānaṃ sarvottamaṃ matam /",
+            "śrīmacchrībhuvaneśvaryā maṇidvīpaṃ mama smṛtam // Dg_8.14 = DbhP_7,38.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śrīmattripurabhairavyāḥ kāmākhyāyonimaṇḍalam /",
+            "bhūmaṇḍale kṣetraratnaṃ mahāmāyādhivāsitam // Dg_8.15 = DbhP_7,38.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nātaḥ parataraṃ sthānaṃ kvacidasti dharātale /",
+            "pratimāsaṃ bhaveddevī yatra sākṣādrajasvalā // Dg_8.16 = DbhP_7,38.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatratyā devatāḥ sarvāḥ parvatātmakatāṃ gatāḥ /",
+            "parvateṣu vasantyeva mahatyo devatā api // Dg_8.17 = DbhP_7,38.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatratyā pṛthivī sarvā devīrūpā smṛtā budhaiḥ /",
+            "nātaḥ parataraṃ sthānaṃ kāmākhyāyonimaṇḍalāt // Dg_8.18 = DbhP_7,38.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gāyatryāśca paraṃ sthānam srīmatpuṣkaramīritam /",
+            "amareśe caṇḍikā syātprabhāse puṣkarekṣiṇī // Dg_8.19 = DbhP_7,38.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "naimiṣe tu mahāsthāne devī sā liṅgadhāriṇī /",
+            "puruhūtā puṣkarākṣe aṣāḍhai ca ratistathā // Dg_8.20 = DbhP_7,38.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "caṇḍamuṇḍīmahāsthāne daṇḍinī parameśvarī /",
+            "bhārabhūtau bhavedbhūtirnākule nakuleśvarī // Dg_8.21 = DbhP_7,38.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "candrikā tu hariścandre śrīgirau śāṅkarī smṛtā /",
+            "japyeśvare triśūlā syātsūkṣmā cāmrātakeśvare // Dg_8.22 = DbhP_7,38.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śāṅkarī tu mahākāle śarvāṇī madhyamābhidhe /",
+            "kedārākhye mahākṣetre devī sā mārgadāyinī // Dg_8.23 = DbhP_7,38.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhairavākhye bhairavī sā gayāyāṃ maṅgalā smṛtā /",
+            "sthāṇupriyā kurukṣetre svāyambhuvyapi nākule // Dg_8.24 = DbhP_7,38.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kanakhale bhavedugrā viśveśā vimaleśvare /",
+            "aṭṭahāse mahānandā mahendre tu mahāntakā // Dg_8.25 = DbhP_7,38.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhīme bhīmeśvarī proktā sthāne vastrāpathe punaḥ /",
+            "bhavānī śāṅkarī proktā rudrāṇī tvardhakoṭike // Dg_8.26 = DbhP_7,38.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avimukte viśālākṣī mahābhāgā mahālaye /",
+            "gokarṇe bhadrakarṇī syādbhadrā syādbhadrakarṇake // Dg_8.27 = DbhP_7,38.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "utpalākṣī suvarṇākṣe sthāṇvīśā sthāṇusañjñike /",
+            "kamalālaye tu kamalā pracaṇḍā chagalaṇḍake // Dg_8.28 = DbhP_7,38.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kuraṇḍale trisandhyā syānmākoṭe mukuṭeśvarī /",
+            "maṇḍaleśe śāṇḍakī syātkālī kālañjare punaḥ // Dg_8.29 = DbhP_7,38.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaṅkukarṇe dhvaniḥ proktā sthūlā syātsthūlakeśvare /",
+            "jñānināṃ hṛdayāmbhoje hṛllekhā parameśvarī // Dg_8.30 = DbhP_7,38.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "proktānīmāni sthānāni devyāḥ priyatamāni ca /",
+            "tattatkṣetrasya māhātmyaṃ śrutvā pūrvaṃ nagottama // Dg_8.31 = DbhP_7,38.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "taduktena vidhānena paścāddevīṃ prapūjayet /",
+            "athavā sarvakṣetrāṇi kāśyāṃ santi nagottama // Dg_8.32 = DbhP_7,38.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatra nityaṃ vasennityaṃ devībhaktiparāyaṇaḥ /",
+            "tāni sthānāni sampaśyañjapandevīṃ nirantaram // Dg_8.33 = DbhP_7,38.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhyāyaṃstaccaraṇāmbhojaṃ mukto bhavati bandhanāt /",
+            "imāni devīnāmāni prātarutthāya yaḥ paṭhet // Dg_8.34 = DbhP_7,38.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhasmībhavanti pāpāni tatkṣaṇānnaga satvaram /",
+            "śrāddhakāle paṭhedetānyamalāni dvijāgrataḥ // Dg_8.35 = DbhP_7,38.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "muktāstatpitaraḥ sarve prayānti paramāṃ gatim /",
+            "adhunā kathayiṣyāmi vratāni tava suvrata // Dg_8.36 = DbhP_7,38.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nārībhiśca naraiścaiva kartavyāni prayatnataḥ /",
+            "vratamanantatṛtīyākhyaṃ rasakalyāṇinīvratam // Dg_8.37 = DbhP_7,38.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ārdrānandakaraṃ nāmnā tṛtīyāyā vratam ca yat /",
+            "śukravāravrataṃ caiva tathā kṛṣṇacaturdaśī // Dg_8.38 = DbhP_7,38.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhaumavāravrataṃ caiva pradoṣavratameva ca /",
+            "yatra devo mahādevo devīṃ saṃsthāpya viṣṭare // Dg_8.39 = DbhP_7,38.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nṛtyaṃ karoti purataḥ sārdhaṃ devairniśāmukhe /",
+            "tatropoṣya rajanyādau pradoṣe pūjayecchivām // Dg_8.40 = DbhP_7,38.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pratipakṣaṃ viśeṣeṇa taddevīprītikārakam /",
+            "somavāravrataṃ caiva mamātipriyakṛnnaga // Dg_8.41 = DbhP_7,38.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatrāpi devīṃ sampūjya rātrau bhojanamācaret /",
+            "navarātradvayaṃ caiva vrataṃ prītikaraṃ // Dg_8.42 = DbhP_7,38.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evamanyānyapi vibho nityanaimittikāni ca /",
+            "vratāni kurute yo vai matprītyarthaṃ vimatsaraḥ // Dg_8.43 = DbhP_7,38.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prāpnoti mama sāyujyaṃ sa me bhaktaḥ sa me priyaḥ /",
+            "utsavānapi kurvīt dolotsavasukhānvibho // Dg_8.44 = DbhP_7,38.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śayanotsavaṃ yathā kuryāttathā jāgaraṇotsavam /",
+            "rathotsavaṃ ca me kuryāddamanotsavameva ca // Dg_8.45 = DbhP_7,38.45 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pavitrotsavamevāpi śrāvaṇo prītikārakam /",
+            "mama bhaktaḥ sadā kuryādevamanyānmahotsavān // Dg_8.46 = DbhP_7,38.46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "madbhaktānbhojayetprītyā tathā caiva suvāsinīḥ /",
+            "kumārīrbaṭukāṃścāpi madbuddhyā tadgatāntaraḥ // Dg_8.47 = DbhP_7,38.47 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vittaśāṭhyena rahito yajedetānsumādibhiḥ /",
+            "ya evaṃ kurute bhaktyā prativarṣamatandritaḥ // Dg_8.48 = DbhP_7,38.48 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sa dhanyaḥ kṛtakṛtyo 'sau matprīteḥ pātramañjasā /",
+            "sarvamuktaṃ samāsena mama prītipradāyakam // Dg_8.49 = DbhP_7,38.49 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nāśiṣyāya pradātavyaṃ nābaktāya kadācana // Dg_8.50 = DbhP_7,38.50 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "aṣṭamo 'dhyāyaḥ\nsaptamaḥ skandhaḥ\nathāṣṭatriṃśo 'dhyāyaḥ",
+        "himālaya uvāca",
+        "śrīdevyuvāca"
+      ]
+    },
+    {
+      "chapter_num": 9,
+      "verse_count": 47,
+      "verse_groups": [
+        {
+          "lines": [
+            "devadevi maheśāni karuṇāsāgare 'mbike /",
+            "brūhi pūjāvidhiṃ samyagyathāvadadhunā nijam // Dg_9.1 = DbhP_7,39.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vakṣye pūjāvidhiṃ rājannambikāyā yathā priyam /",
+            "atyantaśraddhayā sārdhaṃ śṛṇu parvatapuṅgava // Dg_9.2 = DbhP_7,39.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dvividhā mama pūjā syād vāhyā cābhyantarāpi ca /",
+            "bāhyāpi dvividhā proktā vaidikī tāntrikī tathā // Dg_9.3 = DbhP_7,39.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vaidikyar cāpi dvividhā mūrtibhedena bhūdhara /",
+            "vaidikī vaidikaiḥ kāryā vedadīkṣāsamanvitaiḥ // Dg_9.4 = DbhP_7,39.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tantroktadīkṣāvadbhistu tāntrikī saṃśritā bhavet /",
+            "itthaṃ pūjārahasyaṃ ca na jñātvā viparītakam // Dg_9.5 = DbhP_7,39.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karoti yo naro mūḍhaḥ sa patatyeva sarvathā /",
+            "tatra yā vaidikī proktā prathamā tāṃ vadāmyaham // Dg_9.6 = DbhP_7,39.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yanme sākṣātparaṃ rūpaṃ dṛṣṭavānasi bhūdhara /",
+            "anantasīrṣanayanamanantacaraṇaṃ mahat // Dg_9.7 = DbhP_7,39.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvaśaktisamāyuktaṃ prerakaṃ yatparātparam /",
+            "tadeva pūjayennityaṃ nameddhyāyetsmaredapi // Dg_9.8 = DbhP_7,39.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ityetatprathamārcāyāḥ svarūpaṃ kathitaṃ naga /",
+            "śāntaḥ samāhitamanā dambhāhaṅkāravarjitaḥ // Dg_9.9 = DbhP_7,39.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatparo bhava tadyājī tadeva śaraṇaṃ vraja /",
+            "tadeva cetasā paśya japa dhyāyasva sarvadā // Dg_9.10 = DbhP_7,39.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ananyayā premayuktabhaktyā madbhāvam āśritaḥ /",
+            "yajñairyaja tapodānairmāmeva paritoṣaya // Dg_9.11 = DbhP_7,39.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "itthaṃ mamānugrahato mokṣyase bhavabandhanāt /",
+            "matparā ye madāsaktacittā bhaktavarā matāḥ // Dg_9.12 = DbhP_7,39.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pratijāne bhavādasmāduddharāmyacireṇa tu /",
+            "dhyānena karmayuktena bhaktijñānena vā punaḥ // Dg_9.13 = DbhP_7,39.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prāpyāhaṃ sarvathā rājanna tu kevalakarmabhiḥ /",
+            "dharmātsañjāyate bhaktirbhaktyā sañjāyate param // Dg_9.14 = DbhP_7,39.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śrutismṛtibhyāmuditaṃ yatsa dharmaḥ prakīrtitaḥ /",
+            "anyaśāstreṇa yaḥ prokto dharmābhāsaḥ sa ucyate // Dg_9.15 = DbhP_7,39.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvajñātsarvaśakteśca matto vedaḥ samutthitaḥ /",
+            "ajñānasya mamābhāvādapramāṇā na ca śrutiḥ // Dg_9.16 = DbhP_7,39.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "smṛtayaśca śruterarthaṃ gṛhītvaiva ca nirgatāḥ /",
+            "manvādīnāṃ śrutīnāṃ ca tataḥ prāmāṇyamiṣyate // Dg_9.17 = DbhP_7,39.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kvacitkadācittantrārthakaṭākṣeṇa paroditam /",
+            "dharmaṃ vadanti soṃśastu naivagrāhyo 'sti vaidikaiḥ // Dg_9.18 = DbhP_7,39.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "anyeṣāṃ śāstrakartṛṇāmajñānaprabhavatvataḥ /",
+            "ajñānadoṣaduṣṭatvāttadukterna pramāṇatā // Dg_9.19 = DbhP_7,39.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmānmumukṣurdharmārthaṃ sarvathā vedamāśrayet /",
+            "rājājñā ca yathā loke hanyate na kadācana // Dg_9.20 = DbhP_7,39.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarveśānyā mamājñā sā śrutistyājyā kathaṃ nṛbhiḥ /",
+            "madājñārakṣaṇārthaṃ tu brahmakṣatriyajātayaḥ // Dg_9.21 = DbhP_7,39.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mayā sṛṣṭāstato jñeyaṃ rahasyaṃ me śrutervacaḥ /",
+            "yadā yadā hi dharmasya glānirbhavati bhūdhara // Dg_9.22 = DbhP_7,39.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "abhyutthānamadharmasya tadā veṣānbibharmyaham /",
+            "devadaityavibhāgaścāpyata evābhavannṛpa // Dg_9.23 = DbhP_7,39.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ye na kurvanti taddharmaṃ tacchikṣārthaṃ mayā sadā /",
+            "sampāditāstu narakāstrāso yacchravaṇādbhavet // Dg_9.24 = DbhP_7,39.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yo vedadharmam ujjhitya dharmamanyaṃ samāśrayet /",
+            "rājā pravāsayeddeśānnijādetānadharmiṇaḥ // Dg_9.25 = DbhP_7,39.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brāhmaṇairna ca sambhāṣyāḥ paṅktigrāhyā na ca dvijaiḥ /",
+            "anyāni yāni śāstrāṇi loke 'sminvividhāni ca // Dg_9.26 = DbhP_7,39.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śrutismṛtiviruddhāni tāmasānyeva sarvaśaḥ /",
+            "vāmaṃ kāpālakaṃ caiva kaulakaṃ bhairavāgamaḥ // Dg_9.27 = DbhP_7,39.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śivena mohanārthāya praṇīto nānyahetukaḥ /",
+            "dakṣaśāpādbhṛgoḥ śāpāddadhīcasya ca śāpataḥ // Dg_9.28 = DbhP_7,39.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dagdhā ye brāhmaṇavarā vedamārgabahiṣkṛtāḥ /",
+            "teṣāmuddharaṇārthāya sopānakramataḥ sadā // Dg_9.29 = DbhP_7,39.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaivāśca vaiṣṇavāśścaiva saurāḥ śāktāstathaiva ca /",
+            "gāṇapatyā āgamāśca praṇītāḥ śaṅkareṇa tu // Dg_9.30 = DbhP_7,39.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatra vedāviruddhāṃśo 'pyukta eva kvacitkvacit /",
+            "vaidikaistadgrahe deṣo na bhavatyeva karhicit // Dg_9.31 = DbhP_7,39.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvathā vedabhinnārthe nādhikārī dvijo bhavet /",
+            "vedādhikārahīnastu bhavettatrādhikāravān // Dg_9.32 = DbhP_7,39.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tasmātsarvaprayatnena vaidiko vedamāśrayet /",
+            "dharmeṇa sahitaṃ jñānaṃ paraṃ brahma prakāśayet // Dg_9.33 = DbhP_7,39.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvaiṣaṇāḥ parityajya māmeva śaraṇaṃ gatāḥ /",
+            "sarvabhūtadayāvanto mānāhaṅkāravarjitāḥ // Dg_9.34 = DbhP_7,39.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "maccittā madgataprāṇā matsthānakathane ratāḥ /",
+            "saṃnyāsino vanasthāśca gṛhasthā brahmacāriṇaḥ // Dg_9.35 = DbhP_7,39.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "upāsante sadā bhaktyā yogamaiśvarasañjñitam /",
+            "teṣāṃ nityāviyuktānāmahamajñānajaṃ tamaḥ // Dg_9.36 = DbhP_7,39.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñānasūryaprakāśena nāśayāmi na saṃśayaḥ /",
+            "itthaṃ vaidikapūjāyāḥ prathamāyā nagādhipa // Dg_9.37 = DbhP_7,39.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svarūpamuktaṃ samkṣepād dvitīyāyā atho bruve /",
+            "mūrtau vā sthaṇḍile vāpi tathā sūryendumaṇḍale // Dg_9.38 = DbhP_7,39.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jale 'thavā bāṇaliṅge yantre vāpi mahāpaṭe /",
+            "tathā śrīhṛdayāmbhoje dhyātvā devīṃ parātparām // Dg_9.39 = DbhP_7,39.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saguṇāṃ karuṇāpūrṇāṃ taruṇīmaruṇāruṇām /",
+            "saundaryasārasīmāntāṃ sarvāvayavasundarām // Dg_9.40 = DbhP_7,39.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śṛṅgārarasasampūrṇāṃ sadā bhaktārtikātarām /",
+            "prasādasumukhīmambāṃ candrakhaṇḍaśikhaṇḍinīm // Dg_9.41 = DbhP_7,39.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pāśāṅkuśavarābhītidharāmānandarūpiṇīm /",
+            "pūjayedupacāraiśca yathāvittānusārataḥ // Dg_9.42 = DbhP_7,39.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yāvadāntarapūjāyāmadhikāro bhavenna hi /",
+            "tāvadbāhyāmimāṃ pūjāṃ śrayejjāte tu tāṃ tyajet // Dg_9.43 = DbhP_7,39.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ābhyantarā tu yā pūjā sā tu saṃvillayaḥ smṛtaḥ /",
+            "saṃvideva paraṃ rūpamupādhirahitaṃ mama // Dg_9.44 = DbhP_7,39.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ataḥ saṃvidi madrūpe cetaḥ sthāpyaṃ nirāśrayam /",
+            "saṃvidrūpātiriktaṃ tu mithyā māyāmayaṃ jagat // Dg_9.45 = DbhP_7,39.45 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ataḥ saṃsāranāśāya sākṣiṇīmātmarūpiṇīm /",
+            "bhāvayennirmanaskena yogayuktena cetasā // Dg_9.46 = DbhP_7,39.46 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ataḥ paraṃ bāhyapūjāvistāraḥ kathyate mayā /",
+            "sāvadhānena manasā śṛṇu parvatasattama // Dg_9.47 = DbhP_7,39.47 //"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "navamo 'dhyāyaḥ\nsaptamaḥ skandhaḥ\nathaikonacatvāriṃśo 'dhyāyaḥ",
+        "himālaya uvāca",
+        "śrīdevyuvāca"
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "verse_count": 45,
+      "verse_groups": [
+        {
+          "lines": [
+            "prātarutthāya śirasi saṃsmaretpadmamujjvalam /",
+            "karpūrābhaṃ smarettatra śrīguruṃ nijarūpiṇam // Dg_10.1 = DbhP_7,40.1 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "suprasann aṃ lasadbhūṣābhūṣitaṃ śaktisaṃyutam /",
+            "namaskṛtya tato devīṃ kuṇḍalīṃ saṃsmaredbudhaḥ // Dg_10.2 = DbhP_7,40.2 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prakāśamānāṃ prathame prayāṇe pratiprayāṇe 'pyamṛtāyamānām /",
+            "antaḥ padavyāmanusañcarantīmānandarūpāmabalāṃ prapadye // Dg_10.3 = DbhP_7,40.3 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhyātvaivaṃ tacchikhāmadhye saccidānandarūpiṇīm /",
+            "māṃ dhyāyedatha śaucāditriyāḥ sarvāḥ samāpayet // Dg_10.4 = DbhP_7,40.4 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agnihotraṃ tato hūtvā matprītyarthaṃ dvijottamaḥ /",
+            "homānte svāsane sthitvā pūjāsaṅkalpamācaret // Dg_10.5 = DbhP_7,40.5 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhūtaśuddhiṃ purā kṛtvā mātṛkānyāsameva ca /",
+            "hṛllekhāmātṛkānyāsaṃ nityameva samācaret // Dg_10.6 = DbhP_7,40.6 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mūlādhāre hakāraṃ ca hṛdaye ca rakārakam /",
+            "bhrūmadhye tadvadīkāraṃ hrīṅkāraṃ mastake nyaset // Dg_10.7 = DbhP_7,40.7 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tattanmantroditānanyānnyāsānsarvānsamācaret /",
+            "kalpayetsvātmano dehe pīṭhaṃ dharmādibhiḥ punaḥ // Dg_10.8 = DbhP_7,40.8 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tato dhyāyenmahādevīṃ prāṇāyāmairvijṛmbhite /",
+            "hṛdambhoje mama sthāne pañcapretāsane budhaḥ // Dg_10.9 = DbhP_7,40.9 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "brahmā viṣṇuśca rudraśca īśvaraśca sadāśivaḥ /",
+            "ete pañca mahāpretāḥ pādamūle mama sthitāḥ // Dg_10.10 = DbhP_7,40.10 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pañcabhūtātmakā hyete pañcāvasthātmakā api /",
+            "ahaṃ tvavyaktacidrūpā tadatītāsti sarvathā // Dg_10.11 = DbhP_7,40.11 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tato viṣṭaratāṃ yātāḥ śaktitantreṣu sarvadā /",
+            "dhyātvaivaṃ mānasairbhogaiḥ pūjayenmāṃ japedapi // Dg_10.12 = DbhP_7,40.12 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "japaṃ samarpya śrīdevyai tato 'rghyasthāpanaṃ caret /",
+            "pātrāsādanakaṃ kṛtvā pūjādravyāṇi śodhayet // Dg_10.13 = DbhP_7,40.13 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jalena tena manunā cāstramantreṇa deśikaḥ /",
+            "digbandhaṃ ca purā kṛtvā gurūn natvā tataḥ param // Dg_10.14 = DbhP_7,40.14 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tadanujñāṃ samādāya bāhyapīṭhe tataḥ param /",
+            "hṛdisthāṃ bhavitāṃ mūrtiṃ mama divyāṃ manoharām // Dg_10.15 = DbhP_7,40.15 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āvāhayettataḥ pīṭhe prāṇasthāpanavidyayā /",
+            "asanāvāhane cārghyaṃ pādyādyācamanaṃ tathā // Dg_10.16 = DbhP_7,40.16 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "snānaṃ vāsodvayaṃ caiva bhūṣaṇāni ca sarvaśaḥ /",
+            "gandhapuṣpaṃ yathāyogyaṃ dattvā devyai svabhaktitaḥ // Dg_10.17 = DbhP_7,40.17 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yantrasthānāmāvṛtīnīṃ pūjanaṃ samyagācaret /",
+            "prativāramaśaktānāṃ śukravāro niyamyate // Dg_10.18 = DbhP_7,40.18 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mūladevīprabhārūpāḥ smartavyā aṅgadevatāḥ /",
+            "tatprabhāpaṭalavyāptaṃ trailokyaṃ ca vicintayet // Dg_10.19 = DbhP_7,40.19 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "punarāvṛttisahitāṃ mūladevīṃ ca pūjayet /",
+            "gandhādibhiḥ sugandhaistu tathā puṣpaiḥ suvāsitaiḥ // Dg_10.20 = DbhP_7,40.20 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "naivedyaistarpaṇaiścaiva tāmbūlairdakṣiṇādibhiḥ /",
+            "toṣayenmāṃ tvatkṛtena nāmnāṃ sāhasrakeṇa ca // Dg_10.21 = DbhP_7,40.21 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kavacena ca sūktenāhaṃ rudrebhiriti prabho /",
+            "devyatharvaśiromantrairhṛllekhopaniṣadbhavaiḥ // Dg_10.22 = DbhP_7,40.22 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mahāvidyāmahāmantraistoṣayenmāṃ muhurmuhuḥ /",
+            "kṣamāpayejjagaddhātrīṃ premārdrahṛdayo naraḥ // Dg_10.23 = DbhP_7,40.23 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pulakāṅkitasarvāṅgairbāṣparuddhākṣiniḥsvanaḥ /",
+            "nṛtyagītādighoṣeṇa toṣayenmāṃ muhurmuhuḥ // Dg_10.24 = DbhP_7,40.24 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vedapārāyanaiścaiva purāṇaiḥ sakalairapi /",
+            "pratipādyā yato 'haṃ vai tasmāttaistoṣayettu mām // Dg_10.25 = DbhP_7,40.25 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nijaṃ sarvasvamapi me sadehaṃ nityaśo 'rpayet /",
+            "nityahomaṃ tataḥ kuryādbrāhmaṇāṃśca suvāsinīḥ // Dg_10.26 = DbhP_7,40.26 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "baṭukānpāmarānanyāndevībuddhyā tu bhojayet /",
+            "natvā punaḥ svahṛdaye vyutkrameṇa visarjayet // Dg_10.27 = DbhP_7,40.27 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sarvaṃ hṛllekhayā kuryāt pūjanaṃ mama subrata /",
+            "hṛllekhā sarvamantrāṇāṃ nāyikā paramā smṛtā // Dg_10.28 = DbhP_7,40.28 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hṛllekhādarpaṇe nityamahaṃ tatpratibimbitā /",
+            "tasmād hṛllekhayā dattaṃ sarvamantraiḥ samarpitam // Dg_10.29 = DbhP_7,40.29 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guruṃ sampūjya bhūṣādyaiḥ kṛtakṛtyatvamāvahet /",
+            "ya evaṃ pūjayeddevīṃ śrīmadbhuvanasundarīm // Dg_10.30 = DbhP_7,40.30 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "na tasya durlabhaṃ kiñcit kadācit kvacidasti hi /",
+            "dehānte tu maṇidvīpaṃ mama yātyeva sarvathā // Dg_10.31 = DbhP_7,40.31 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñeyo devīsvarūpo 'sau devā nityaṃ namanti tam /",
+            "iti te kathitaṃ rājan mahādevyāḥ prapūjanam // Dg_10.32 = DbhP_7,40.32 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vimṛśyaitadaśeṣeṇāpyadhikārānurūpataḥ /",
+            "kuru me pūjanaṃ tena kṛtārthastvaṃ baviṣyasi // Dg_10.33 = DbhP_7,40.33 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "idaṃ tu gītāśāstraṃ me nāśiṣyāya vadet kvacit /",
+            "nābhaktāya pradātavyaṃ na dhūrtāya ca durhṛde // Dg_10.34 = DbhP_7,40.34 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "etatprakāśanaṃ māturuddhāṭanamurojayoḥ /",
+            "tasmādavaśyaṃ yatnena gopanīyamidaṃ sadā // Dg_10.35 = DbhP_7,40.35 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "deyaṃ bhaktāya śiṣyāya jyeṣṭhaputrāya caiva hi /",
+            "suśīlāya suveṣāya devībhaktiyutāya ca // Dg_10.36 = DbhP_7,40.36 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śrāddhakāle paṭhedetad brāhmaṇānām samīpataḥ /",
+            "tṛptāstatpitaraḥ sarve prayānti paramaṃ padam // Dg_10.37 = DbhP_7,40.37 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ityuktvā sā bhagavatī tatraivāntaradhīyata /",
+            "devāśca muditāḥ sarve devīdarśanato 'bhavan // Dg_10.38 = DbhP_7,40.38 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tato himālaye jajñe devī haimavatī tu sā /",
+            "yā gaurīti prasiddhāsīddattā sā śaṅkarāya ca // Dg_10.39 = DbhP_7,40.39 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tataḥ skandaḥ samudbhūtastārakastena pātitaḥ /",
+            "samudramanthane pūrvaṃ ratnānyāsurnarādhipa // Dg_10.40 = DbhP_7,40.40 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatra devaiḥ stutā devī lakṣmīprāptyarthamādarāt /",
+            "teṣāmanugrahārthāya nirgatā tu ramā tataḥ // Dg_10.41 = DbhP_7,40.41 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vaikuṇṭhāya surairdattā tena tasya śamo 'bhavat /",
+            "iti te kathitaṃ rājan devīmāhātmyamuttamam // Dg_10.42 = DbhP_7,40.42 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gaurīlakṣmyoḥ samudbhūtiviṣayaṃ sarvakāmadam /",
+            "na vācyaṃ tvetadanyasmai rahasyaṃ kathitaṃ yataḥ // Dg_10.43 = DbhP_7,40.43 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gītā rahasyabhūteyaṃ gopanīyā prayatnataḥ /",
+            "sarvamuktaṃ smasena yatpṛṣṭaṃ tattvayānagha // Dg_10.44 = DbhP_7,40.44 //"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "pavitraṃ pāvanaṃ divyaṃ kiṃ bhūyaḥ śrotumicchasi // Dg_10.45 = DbhP_7,40.45 //"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "daśamo 'dhyāyaḥ\nsaptamaḥ skandhaḥ\natha catvāriṃśo 'dhyāyaḥ",
+        "śrī devyuvāca",
+        "vyāsa uvāca"
+      ]
+    }
+  ]
+}
