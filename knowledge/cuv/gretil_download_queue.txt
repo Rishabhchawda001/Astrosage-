@@ -1,0 +1,17 @@
+gretil/corpustei/sa_agnipurANa.xml	sa_agnipurANa.xml
+gretil/corpustei/sa_bhAgavatapurANa-10.xml	sa_bhAgavatapurANa-10.xml
+gretil/corpustei/sa_bhAgavatapurANa.xml	sa_bhAgavatapurANa.xml
+gretil/corpustei/sa_rUpagosvAmin-laghubhAgavatAmRta.xml	sa_rUpagosvAmin-laghubhAgavatAmRta.xml
+gretil/corpustei/sa_garuDapurANa.xml	sa_garuDapurANa.xml
+gretil/corpustei/sa_skandapurANa-revAkhaNDa-rks.xml	sa_skandapurANa-revAkhaNDa-rks.xml
+gretil/corpustei/sa_skandapurANa1-31.xml	sa_skandapurANa1-31.xml
+gretil/corpustei/sa_matsyapurANa1-176.xml	sa_matsyapurANa1-176.xml
+gretil/corpustei/sa_nAradapurANa.xml	sa_nAradapurANa.xml
+gretil/corpustei/sa_brahmapurANa-1-246.xml	sa_brahmapurANa-1-246.xml
+gretil/corpustei/sa_kUrmapurANa.xml	sa_kUrmapurANa.xml
+gretil/corpustei/sa_dhyAnacandragosvAmin-gauragaovindArcanasmaraNapaddhati.xml	sa_dhyAnacandragosvAmin-gauragaovindArcanasmaraNapaddhati.xml
+gretil/corpustei/sa_dhyAnacandragosvAmin-rAdhAkRSNASTakAlIyalIlAsmaraNakramapaddhati.xml	sa_dhyAnacandragosvAmin-rAdhAkRSNASTakAlIyalIlAsmaraNakramapaddhati.xml
+gretil/corpustei/sa_vAmadeva-janmamaraNavicAra.xml	sa_vAmadeva-janmamaraNavicAra.xml
+gretil/corpustei/sa_mArkaNDeyapurANa1-93.xml	sa_mArkaNDeyapurANa1-93.xml
+gretil/corpustei/sa_revAkhANDa-of-the-vAyupurANa-rkv.xml	sa_revAkhANDa-of-the-vAyupurANa-rkv.xml
+gretil/corpustei/sa_nAradapurANa.xml	sa_nAradapurANa.xml
