@@ -1,397 +1,2379 @@
 {
-  "metadata": {
-    "created": "2026-07-14T20:34:00.321039+00:00",
-    "purpose": "Identify the strongest possible witness for each canonical gap"
+  "bhairava stava": {
+    "tei_xml": [
+      {
+        "file": "abhinavagupta_bhairava_stava_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 10,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
   },
-  "scriptures": {
-    "Bhagavata Purana": {
-      "gap": "335 chapters expected, only 40 detected (12%)",
-      "root_cause": "OCR damage destroys chapter markers (अध्याय) in Gita Press edition",
-      "ideal_witness": {
-        "type": "Critical Sanskrit edition",
-        "publisher": "Gita Press (native digital) or Chaukhamba Publishers",
-        "language": "Sanskrit",
-        "script": "Devanagari",
-        "format": "Native Unicode text (not OCR)",
-        "features": [
-          "Chapter numbers",
-          "Verse numbers",
-          "Skandha structure",
-          "TOC"
-        ],
-        "example": "Srimad Bhagavatam with Gitagovernment Sanskrit text",
-        "why": "Gita Press publishes canonical Sanskrit editions with proper chapter/verse numbering"
+  "krama stotra": {
+    "tei_xml": [
+      {
+        "file": "abhinavagupta_krama_stotra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 30,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "agni purana": {
+    "tei_xml": [
+      {
+        "file": "agni_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 389,
+        "verses": 22823,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "agni_puran_anand_ashram.txt",
+        "source": "Anandashram",
+        "type": "Text File (OCR/Digital)",
+        "size": 3580187,
+        "authority": "Medium"
       },
-      "current_witnesses": [
-        {
-          "file": "bhagavat_gitapress_complete_external.md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        },
-        {
-          "file": "Bhagavat Purana Hindi Full (Variant Edition).md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        },
-        {
-          "file": "श्री_मद्भागवत_महापुराण_प्रथम_खण्ड.md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        },
-        {
-          "file": "bhagavata_gretil.xml",
-          "quality": "high",
-          "structure": "326 chapters, 12836 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": [
-        "Srimad Bhagavatam sanskrit text chapter wise",
-        "भागवत पुराण संस्कृत मूल अध्याय",
-        "Bhagavata Purana critical edition Chaukhamba",
-        "Srimad Bhagavatam Gita Press sanskrit"
-      ]
-    },
-    "Valmiki Ramayana": {
-      "gap": "614 chapters (sargas) expected, only 26 detected (4%)",
-      "root_cause": "OCR damage destroys Kanda/Sarga structure",
-      "ideal_witness": {
-        "type": "Critical Sanskrit edition",
-        "publisher": "Chaukhamba Publishers (Baroda Critical Edition) or Gita Press",
-        "language": "Sanskrit",
-        "script": "Devanagari",
-        "format": "Native Unicode text",
-        "features": [
-          "7 Kandas",
-          "614 Sargas",
-          "Verse numbering",
-          "Critical apparatus"
-        ],
-        "example": "Valmiki Ramayana Baroda Critical Edition (6 volumes)",
-        "why": "Baroda Critical Edition is the scholarly standard with complete structural apparatus"
+      {
+        "file": "agni_puran_chowkhamba.txt",
+        "source": "Chowkhamba",
+        "type": "Text File (OCR/Digital)",
+        "size": 7612575,
+        "authority": "Medium"
       },
-      "current_witnesses": [
-        {
-          "file": "Shrimad Valmiki Ramayana (Hindi Edition) - Valmiki.md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        },
-        {
-          "file": "ramayana_sanskrit_dpsharma.md",
-          "quality": "HIGH",
-          "structure": "POOR"
-        },
-        {
-          "file": "ramayana_gretil.xml",
-          "quality": "high",
-          "structure": "7 chapters, 18761 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": [
-        "Valmiki Ramayana Baroda Critical Edition sanskrit",
-        "वाल्मीकि रामायण बारोदा संस्करण",
-        "Ramayana Chaukhamba critical edition",
-        "Valmiki Ramayana sanskrit unicode text"
-      ]
-    },
-    "Devi Bhagwat": {
-      "gap": "245 chapters expected, only 19 detected (8%)",
-      "root_cause": "OCR damage destroys Skandha/Adhyaya structure",
-      "ideal_witness": {
-        "type": "Sanskrit edition with commentary",
-        "publisher": "Bharatiya Vidya Prakashan or Khemraj",
-        "language": "Sanskrit",
-        "script": "Devanagari",
-        "format": "Native Unicode text",
-        "features": [
-          "12 Skandhas",
-          "245 Adhyayas",
-          "Verse numbering",
-          "Nilkanthi commentary"
-        ],
-        "example": "Shrimad Devi Bhagavat with Nilkanthi Sanskrit Annotation",
-        "why": "Nilkanthi edition has the best scholarly apparatus"
+      {
+        "file": "agni_puran_english_motilal.txt",
+        "source": "Motilal Banarsidass",
+        "type": "Text File (OCR/Digital)",
+        "size": 2614972,
+        "authority": "Low"
       },
-      "current_witnesses": [
-        {
-          "file": "devi_bhagwat_nilkanthi_external.md",
-          "quality": "HIGH",
-          "structure": "POOR"
-        },
-        {
-          "file": "Devi Bhagwat (Gita Press).md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        }
-      ],
-      "search_queries": [
-        "Devi Bhagavatam sanskrit text chapter wise",
-        "देवी भागवत संस्कृत मूल अध्याय",
-        "Devi Bhagwat Nilkanthi commentary sanskrit"
-      ]
-    },
-    "Harivansh Puran": {
-      "gap": "162 chapters expected, only 23 detected (14%)",
-      "root_cause": "OCR damage destroys chapter structure",
-      "ideal_witness": {
-        "type": "BORI Critical Edition",
-        "publisher": "Bhandarkar Oriental Research Institute",
-        "language": "Sanskrit",
-        "script": "Devanagari",
-        "format": "Critical edition with apparatus",
-        "features": [
-          "Complete Harivamsha",
-          "Critical apparatus",
-          "Chapter structure"
-        ],
-        "example": "Harivamsa BORI Edition",
-        "why": "BORI is the definitive critical edition of Mahabharata and its supplements"
+      {
+        "file": "agni_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 6679116,
+        "authority": "Medium"
       },
-      "current_witnesses": [
-        {
-          "file": "harivamsha_sanskrit_supplement_external.md",
-          "quality": "HIGH",
-          "structure": "PARTIAL"
-        },
-        {
-          "file": "Harivansh Puran (Gita Press).md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        }
-      ],
-      "search_queries": [
-        "Harivamsa BORI critical edition sanskrit",
-        "हरिवंश पुराण बोरी संस्करण",
-        "Harivamsha supplement Mahabharata sanskrit text"
-      ]
-    },
-    "Vishnu Purana": {
-      "gap": "132 chapters expected, only 14 detected (11%)",
-      "root_cause": "OCR damage destroys chapter structure",
-      "ideal_witness": {
-        "type": "Critical Sanskrit edition",
-        "publisher": "Chaukhamba Publishers or Anandashram",
-        "language": "Sanskrit",
-        "script": "Devanagari",
-        "format": "Native Unicode text",
-        "features": [
-          "6 Books",
-          "132 Adhyayas",
-          "Verse numbering"
-        ],
-        "example": "Vishnu Purana Anandashram Sanskrit Series",
-        "why": "Anandashram publishes authoritative Sanskrit editions"
+      {
+        "file": "agni_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 2893476,
+        "authority": "Medium"
       },
-      "current_witnesses": [
-        {
-          "file": "vishnu_puran_hindi_new_external.md",
-          "quality": "HIGH",
-          "structure": "POOR"
-        },
-        {
-          "file": "Vishnu Puran (Gita Press).md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        },
-        {
-          "file": "vishnu_puran_gretil.xml",
-          "quality": "high",
-          "structure": "126 chapters, 6339 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        },
-        {
-          "file": "vishnu_puran_gretil_critical.xml",
-          "quality": "high",
-          "structure": "120 chapters, 5834 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": [
-        "Vishnu Purana sanskrit text Anandashram",
-        "विष्णु पुराण संस्कृत मूल",
-        "Vishnu Purana Chaukhamba critical edition"
-      ]
-    },
-    "Brahma Purana": {
-      "gap": "245 chapters expected, only 13 detected (5%)",
-      "root_cause": "OCR damage destroys chapter structure",
-      "ideal_witness": {
-        "type": "Critical Sanskrit edition",
-        "publisher": "Chaukhamba Publishers or Anandashram",
-        "language": "Sanskrit",
-        "script": "Devanagari",
-        "format": "Native Unicode text",
-        "features": [
-          "245 chapters",
-          "Verse numbering"
-        ],
-        "example": "Brahma Purana Anandashram Sanskrit Series",
-        "why": "Anandashram publishes authoritative Sanskrit editions"
+      {
+        "file": "agni_puran_gitapress_old.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 6799538,
+        "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "aitareya upanishad": {
+    "tei_xml": [
+      {
+        "file": "aitareya_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 26,
+        "verses": 26,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "angiras smriti": {
+    "tei_xml": [
+      {
+        "file": "angiras_smriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 13,
+        "verses": 1277,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "apastamba dharmasutra": {
+    "tei_xml": [
+      {
+        "file": "apastamba_dharmasutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 7,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "apastamba grihya sutra": {
+    "tei_xml": [
+      {
+        "file": "apastamba_grihya_sutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 354,
+        "verses": 841,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "ashvalayana grihya sutra": {
+    "tei_xml": [
+      {
+        "file": "ashvalayana_grihya_sutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 3,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "ashvalayana shrauta sutra": {
+    "tei_xml": [
+      {
+        "file": "ashvalayana_shrauta_sutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 6,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "astavakra gita": {
+    "tei_xml": [
+      {
+        "file": "astavakra_gita_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 298,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "atharva prayashchittani": {
+    "tei_xml": [
+      {
+        "file": "atharva_prayashchittani_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 130,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "siras upanishad": {
+    "tei_xml": [
+      {
+        "file": "atharvashiras_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 3,
+        "authority": "High"
       },
-      "current_witnesses": [
-        {
-          "file": "Brahma Puran Part 1 (Archive.org).md",
-          "quality": "MEDIUM",
-          "structure": "POOR"
-        },
-        {
-          "file": "brahma_puran_gretil.xml",
-          "quality": "high",
-          "structure": "1 chapters, 13900 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": [
-        "Brahma Purana sanskrit text Anandashram",
-        "ब्रह्म पुराण संस्कृत मूल",
-        "Brahma Purana Chaukhamba edition"
-      ]
-    },
-    "Agni Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "agni_puran_gretil.xml",
-          "quality": "high",
-          "structure": "389 chapters, 22823 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Garuda Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "garuda_puran_gretil.xml",
-          "quality": "high",
-          "structure": "314 chapters, 11873 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Kurma Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "kurma_puran_gretil.xml",
-          "quality": "high",
-          "structure": "94 chapters, 5816 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Linga Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "linga_puran_gretil.xml",
-          "quality": "high",
-          "structure": "108 chapters, 6831 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Matsya Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "matsya_puran_gretil.xml",
-          "quality": "high",
-          "structure": "176 chapters, 8553 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Naradiya Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "narada_puran_gretil.xml",
-          "quality": "high",
-          "structure": "165 chapters, 15554 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Brahma Sutra": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "sa_bAdarAyaNa-brahmasUtra.xml",
-          "quality": "high",
-          "structure": "1 chapters, 545 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Brahmanda Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "sa_brahmANDapurANa.xml",
-          "quality": "high",
-          "structure": "154 chapters, 13746 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    },
-    "Vamana Purana": {
-      "gap": "",
-      "ideal_witness": [],
-      "current_witnesses": [
-        {
-          "file": "vamana_puran_gretil.xml",
-          "quality": "high",
-          "structure": "69 chapters, 4477 verses (GRETIL TEI XML)",
-          "source": "GRETIL",
-          "witness_type": "native_digital",
-          "script": "IAST"
-        }
-      ],
-      "search_queries": []
-    }
+      {
+        "file": "shira_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 3,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "atharvaveda parisista": {
+    "tei_xml": [
+      {
+        "file": "atharvaveda_parisista_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 9,
+        "verses": 19,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "baudhayana dharmasutra": {
+    "tei_xml": [
+      {
+        "file": "baudhayana_dharmasutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 4,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "bhagavad gita": {
+    "tei_xml": [
+      {
+        "file": "bhagavad_gita_4comm_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 664,
+        "verses": 1185,
+        "authority": "High"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 52,
+        "verses": 693,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "bhagavata purana": {
+    "tei_xml": [
+      {
+        "file": "bhagavata_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 326,
+        "verses": 12836,
+        "authority": "High"
+      },
+      {
+        "file": "bhagavata_gretil_tei_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 326,
+        "verses": 12836,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol1.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 5469581,
+        "authority": "Low"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol2.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4649143,
+        "authority": "Low"
+      },
+      {
+        "file": "bhagavat_gita_press_sanskrit_hindi.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 6801917,
+        "authority": "Medium"
+      },
+      {
+        "file": "bhagavat_gitapress_complete.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 13000671,
+        "authority": "Medium"
+      },
+      {
+        "file": "bhagavat_purana_hindi_full.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 9273505,
+        "authority": "Low"
+      },
+      {
+        "file": "bhagavat_searchable.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2571249,
+        "authority": "Low"
+      },
+      {
+        "file": "bhagavat_vol1_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 6648787,
+        "authority": "Medium"
+      },
+      {
+        "file": "bhagavat_vol2_sanskrit_hindi.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 6559049,
+        "authority": "Low"
+      },
+      {
+        "file": "bhagwat_puran_part1_khemraj.txt",
+        "source": "Khemraj",
+        "type": "Text File (OCR/Digital)",
+        "size": 6612594,
+        "authority": "Low"
+      },
+      {
+        "file": "bhagwat_puran_part2_khemraj.txt",
+        "source": "Khemraj",
+        "type": "Text File (OCR/Digital)",
+        "size": 6558545,
+        "authority": "Low"
+      },
+      {
+        "file": "devi_bhagwat_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 12085032,
+        "authority": "Medium"
+      },
+      {
+        "file": "devi_bhagwat_gitapress_2.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 6241673,
+        "authority": "Medium"
+      },
+      {
+        "file": "devi_bhagwat_ia_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 6000980,
+        "authority": "Low"
+      },
+      {
+        "file": "devi_bhagwat_nilkanthi.txt",
+        "source": "Nilkanthi",
+        "type": "Text File (OCR/Digital)",
+        "size": 6964978,
+        "authority": "Low"
+      },
+      {
+        "file": "devi_bhagwat_prasang_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 132705,
+        "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "bhaskara gita bhashya": {
+    "tei_xml": [
+      {
+        "file": "bhaskara_gita_bhashya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 143,
+        "verses": 296,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "brahma purana": {
+    "tei_xml": [
+      {
+        "file": "brahma_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 13900,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "brahma_puran_anandashram.txt",
+        "source": "Anandashram",
+        "type": "Text File (OCR/Digital)",
+        "size": 5068158,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_anandashram_series.txt",
+        "source": "Anandashram",
+        "type": "Text File (OCR/Digital)",
+        "size": 5068158,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 3034115,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 1091484,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_part2.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3955933,
+        "authority": "Low"
+      },
+      {
+        "file": "brahma_purana_part1_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4079692,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "brahma samhita": {
+    "tei_xml": [
+      {
+        "file": "brahma_samhita_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 53,
+        "verses": 72,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "brihaspati smriti": {
+    "tei_xml": [
+      {
+        "file": "brihaspati_smriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 1272,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "devi gita": {
+    "tei_xml": [
+      {
+        "file": "devi_gita_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 10,
+        "verses": 509,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "devi kalottara agama": {
+    "tei_xml": [
+      {
+        "file": "devi_kalottara_agama_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 84,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "mahaganapati stotra": {
+    "tei_xml": [
+      {
+        "file": "ganapati_stotra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 25,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "garuda purana": {
+    "tei_xml": [
+      {
+        "file": "garuda_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 314,
+        "verses": 11873,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "garuda_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4593049,
+        "authority": "Low"
+      },
+      {
+        "file": "garuda_puran_1887.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 335048,
+        "authority": "Low"
+      },
+      {
+        "file": "garuda_puran_1990.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2363082,
+        "authority": "Low"
+      },
+      {
+        "file": "garuda_puran_bhashya.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 780967,
+        "authority": "Low"
+      },
+      {
+        "file": "garuda_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 1625986,
+        "authority": "Medium"
+      },
+      {
+        "file": "garuda_puran_hindi.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4423584,
+        "authority": "Low"
+      },
+      {
+        "file": "garuda_purana_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2276851,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "gautama dharmasutra": {
+    "tei_xml": [
+      {
+        "file": "gautama_dharmasutra_1_3_comm_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 3,
+        "verses": 318,
+        "authority": "High"
+      },
+      {
+        "file": "gautama_dharmasutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "gitagovinda": {
+    "tei_xml": [
+      {
+        "file": "gitagovinda_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 264,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "gopatha brahmana": {
+    "tei_xml": [
+      {
+        "file": "gopatha_brahmana_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 47,
+        "verses": 2,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "hatha yoga pradipika": {
+    "tei_xml": [
+      {
+        "file": "ha_tha_yoga_pradipika_gretil2_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 388,
+        "authority": "High"
+      },
+      {
+        "file": "hatha_yoga_pradipika_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 388,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "harivamsha": {
+    "tei_xml": [
+      {
+        "file": "harivamsa_app1_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 2092,
+        "authority": "High"
+      },
+      {
+        "file": "harivamsa_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 6215,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "2015.325684.Shri-Harivansh_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4260895,
+        "authority": "Low"
+      },
+      {
+        "file": "harivamsha_bori.txt",
+        "source": "BORI",
+        "type": "Text File (OCR/Digital)",
+        "size": 6010337,
+        "authority": "Medium"
+      },
+      {
+        "file": "harivamsha_sanskrit_supplement.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 10662516,
+        "authority": "Low"
+      },
+      {
+        "file": "harivansh_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 11009621,
+        "authority": "Medium"
+      },
+      {
+        "file": "harivansh_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 11009621,
+        "authority": "Medium"
+      },
+      {
+        "file": "harivansh_puran_original.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 11120180,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "īśopaniṣad (or īśāvāsyopaniṣad), kāṇva recension": {
+    "tei_xml": [
+      {
+        "file": "isha_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 16,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "shyamala dandaka": {
+    "tei_xml": [
+      {
+        "file": "kalidasa_shyamaladandaka_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 4,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "katyayana smriti": {
+    "tei_xml": [
+      {
+        "file": "katyayana_smriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 976,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "kirana tantra": {
+    "tei_xml": [
+      {
+        "file": "kirana tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 250,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "kauṣītakibrāhmaṇa (or śāṅkhāyanabrāhmaṇa)": {
+    "tei_xml": [
+      {
+        "file": "kositaki_brahmana_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 10,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "kubjikamata tantra": {
+    "tei_xml": [
+      {
+        "file": "kubjikamata tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 25,
+        "verses": 2975,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "kurma purana": {
+    "tei_xml": [
+      {
+        "file": "kurma_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 94,
+        "verses": 5816,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "kurma_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3810922,
+        "authority": "Low"
+      },
+      {
+        "file": "kurma_puran_critical.txt",
+        "source": "Critical Edition",
+        "type": "Text File (OCR/Digital)",
+        "size": 7988004,
+        "authority": "Low"
+      },
+      {
+        "file": "kurma_puran_dli.txt",
+        "source": "Digital Library of India",
+        "type": "Text File (OCR/Digital)",
+        "size": 1874439,
+        "authority": "Low"
+      },
+      {
+        "file": "kurma_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 1275301,
+        "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "linga purana": {
+    "tei_xml": [
+      {
+        "file": "linga_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 108,
+        "verses": 6831,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "linga_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 6337527,
+        "authority": "Low"
+      },
+      {
+        "file": "linga_puran_1890.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2211437,
+        "authority": "Low"
+      },
+      {
+        "file": "linga_puran_commentary.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4212691,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "madhva mahabharata tatparya": {
+    "tei_xml": [
+      {
+        "file": "madhva_gita_bhashya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "mahabharata": {
+    "tei_xml": [
+      {
+        "file": "mahabharata_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 0,
+        "verses": 8584,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "malinivijayottara tantra": {
+    "tei_xml": [
+      {
+        "file": "malinivijayottara tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 24,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "manava grihya sutra": {
+    "tei_xml": [
+      {
+        "file": "manava_grihya_sutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 42,
+        "verses": 657,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "manusmriti": {
+    "tei_xml": [
+      {
+        "file": "manusmriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 12,
+        "verses": 2688,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "markandeya purana": {
+    "tei_xml": [
+      {
+        "file": "markandeya_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 90,
+        "verses": 4518,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "markandeya_puran_hindi_translation.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3245277,
+        "authority": "Low"
+      },
+      {
+        "file": "markandeya_puran_sanskrit.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 1842581,
+        "authority": "Low"
+      },
+      {
+        "file": "markandeya_purana_hindi_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3245277,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "matrkabheda tantra": {
+    "tei_xml": [
+      {
+        "file": "matrkabhedatantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 534,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "matsya purana": {
+    "tei_xml": [
+      {
+        "file": "matsya_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 176,
+        "verses": 8553,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "matsya_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 8604999,
+        "authority": "Low"
+      },
+      {
+        "file": "matsya_puran_gitapress_hindi.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 8364305,
+        "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "mrigendra agama": {
+    "tei_xml": [
+      {
+        "file": "mrigendra_agama_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 3,
+        "verses": 685,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "nadabindi upanishad": {
+    "tei_xml": [
+      {
+        "file": "nadabindi_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 20,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "namaskaraikavimshati stotra": {
+    "tei_xml": [
+      {
+        "file": "namaskaraikavimshati stotra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 27,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "narada purana": {
+    "tei_xml": [
+      {
+        "file": "narada_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 165,
+        "verses": 15554,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "narada smriti": {
+    "tei_xml": [
+      {
+        "file": "narada_smriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 22,
+        "verses": 929,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "narasimha purana": {
+    "tei_xml": [
+      {
+        "file": "narasimha_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 69,
+        "verses": 3387,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "nirukta": {
+    "tei_xml": [
+      {
+        "file": "nirukta_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 10,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "pancavimsha brahmana": {
+    "tei_xml": [
+      {
+        "file": "pancavimsha_brahmana_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 331,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "bhagavad gita bhashya": {
+    "tei_xml": [
+      {
+        "file": "ramanuja_gita_bhashya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 713,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "vedartha samgraha": {
+    "tei_xml": [
+      {
+        "file": "ramanuja_vedartha_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 2,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "ramayana": {
+    "tei_xml": [
+      {
+        "file": "ramayana_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 7,
+        "verses": 18761,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "ramayana_baroda_critical_vol1.txt",
+        "source": "Critical Edition",
+        "type": "Text File (OCR/Digital)",
+        "size": 3891378,
+        "authority": "Low"
+      },
+      {
+        "file": "ramayana_critical_2022.txt",
+        "source": "Critical Edition",
+        "type": "Text File (OCR/Digital)",
+        "size": 3318519,
+        "authority": "Low"
+      },
+      {
+        "file": "ramayana_part2_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 8072331,
+        "authority": "Medium"
+      },
+      {
+        "file": "ramayana_sanskrit_dpsharma.txt",
+        "source": "DP Sharma",
+        "type": "Text File (OCR/Digital)",
+        "size": 1950960,
+        "authority": "Low"
+      },
+      {
+        "file": "ramayanamahabhar0000valm.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 896806,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "revakhanda vayu purana": {
+    "tei_xml": [
+      {
+        "file": "revakhanda_vayu_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 7754,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "rigveda samhita": {
+    "tei_xml": [
+      {
+        "file": "rigveda_aufrecht_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1028,
+        "verses": 10552,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "rigveda khila": {
+    "tei_xml": [
+      {
+        "file": "rigveda_khila_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 6,
+        "verses": 642,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "rigveda padapatha": {
+    "tei_xml": [
+      {
+        "file": "rigveda_padapatha_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 177,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "brahmasūtra text extracted from śaṃkara's śārīrakamīmāṃsābhāṣya": {
+    "tei_xml": [
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-alt_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 4,
+        "verses": 555,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "brahma sutra commentary": {
+    "tei_xml": [
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 687,
+        "verses": 1137,
+        "authority": "High"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 540,
+        "verses": 916,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "brahma sutra": {
+    "tei_xml": [
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 547,
+        "verses": 775,
+        "authority": "High"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 553,
+        "verses": 978,
+        "authority": "High"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 545,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "brahma_sutra_shankara_bhashya.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2155693,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "brahmanda purana": {
+    "tei_xml": [
+      {
+        "file": "sa_brahmANDapurANa_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 154,
+        "verses": 13746,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "brahmabindi upanishad": {
+    "tei_xml": [
+      {
+        "file": "sa_brahmabindUpaniSad_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 22,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "brahma sphuta siddhanta": {
+    "tei_xml": [
+      {
+        "file": "sa_brahmagupta-brAhmasphuTasiddhAnta_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 214,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "yoga sutra": {
+    "tei_xml": [
+      {
+        "file": "sa_pataJjali-yogasUtra-alt_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 2,
+        "verses": 181,
+        "authority": "High"
+      },
+      {
+        "file": "sa_pataJjali-yogasUtra-with-bhASya-alt_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 9,
+        "verses": 0,
+        "authority": "High"
+      },
+      {
+        "file": "sa_pataJjali-yogasUtra-with-bhASya_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 135,
+        "authority": "High"
+      },
+      {
+        "file": "sa_pataJjali-yogasUtra_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 195,
+        "authority": "High"
+      },
+      {
+        "file": "yoga_sutra_bhasya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 135,
+        "authority": "High"
+      },
+      {
+        "file": "yoga_sutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 195,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "yoga_sutra_darshan.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 539807,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "samaveda": {
+    "tei_xml": [
+      {
+        "file": "samaveda_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 2,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "samaveda_jayadev.txt",
+        "source": "Jayadev",
+        "type": "Text File (OCR/Digital)",
+        "size": 3008265,
+        "authority": "Low"
+      },
+      {
+        "file": "samaveda_samhita.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2762687,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "sarvadurgati tantra": {
+    "tei_xml": [
+      {
+        "file": "sarvadurgatiparishodhana tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 4,
+        "verses": 33,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "satvata tantra": {
+    "tei_xml": [
+      {
+        "file": "satvatatantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 701,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "shankhayana shrauta sutra": {
+    "tei_xml": [
+      {
+        "file": "shankhayana_shrauta_sutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 457,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "shiva mahimna stava": {
+    "tei_xml": [
+      {
+        "file": "shiva mahimna stava_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 46,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "shiva purana": {
+    "tei_xml": [
+      {
+        "file": "shiva_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 101,
+        "verses": 4808,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "shiv_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 5178110,
+        "authority": "Medium"
+      },
+      {
+        "file": "shiv_puran_khand2_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 7661722,
+        "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "śivasūtra": {
+    "tei_xml": [
+      {
+        "file": "shiva_sutra_varttika_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 683,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "shiva upanishad": {
+    "tei_xml": [
+      {
+        "file": "shiva_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 7,
+        "verses": 625,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "shivasankalpa upanishad": {
+    "tei_xml": [
+      {
+        "file": "shivasankalpa_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 28,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "shvetashvatara upanishad": {
+    "tei_xml": [
+      {
+        "file": "shvetashvatara_upanishad_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 7,
+        "verses": 113,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "skanda purana": {
+    "tei_xml": [
+      {
+        "file": "skanda_puran_revakhanda_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 6465,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "skand_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 10588900,
+        "authority": "Medium"
+      },
+      {
+        "file": "skand_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 10502414,
+        "authority": "Medium"
+      },
+      {
+        "file": "skanda_puran_full.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 10382979,
+        "authority": "Low"
+      },
+      {
+        "file": "skanda_puran_ia_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 297364,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "svacchandatantra [or svacchandabhairavatantra]": {
+    "tei_xml": [
+      {
+        "file": "svacchandatantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 15,
+        "verses": 3680,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "svayambhu purana": {
+    "tei_xml": [
+      {
+        "file": "svayambhu_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 4,
+        "verses": 1753,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "taittiriya upanishad": {
+    "tei_xml": [
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "todala tantra": {
+    "tei_xml": [
+      {
+        "file": "todala tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 10,
+        "verses": 396,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "uddamareshvara tantra": {
+    "tei_xml": [
+      {
+        "file": "uddamareshvara tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 175,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "vaikhanasa dharmasutra": {
+    "tei_xml": [
+      {
+        "file": "vaikhanasa_dharmasutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "vamana purana": {
+    "tei_xml": [
+      {
+        "file": "vamana_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 69,
+        "verses": 4477,
+        "authority": "High"
+      },
+      {
+        "file": "vamana_puran_saromahatmya_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 26,
+        "verses": 1171,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "vaman_puran_dli.txt",
+        "source": "Digital Library of India",
+        "type": "Text File (OCR/Digital)",
+        "size": 1859964,
+        "authority": "Low"
+      },
+      {
+        "file": "vaman_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 3631214,
+        "authority": "Medium"
+      },
+      {
+        "file": "vaman_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 3631214,
+        "authority": "Medium"
+      },
+      {
+        "file": "vaman_puran_hindi.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 1421046,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "vasistha dharmasutra": {
+    "tei_xml": [
+      {
+        "file": "vasistha_dharmasutra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 46,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "vijnana bhairava": {
+    "tei_xml": [
+      {
+        "file": "vijJAnabhairava_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 162,
+        "authority": "High"
+      },
+      {
+        "file": "vijnana_bhairava_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 162,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "vinashikha tantra": {
+    "tei_xml": [
+      {
+        "file": "vinaashikha tantra_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 396,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "vishnu dharma": {
+    "tei_xml": [
+      {
+        "file": "vishnu_dharma_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 0,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "vishnu purana": {
+    "tei_xml": [
+      {
+        "file": "vishnu_puran_gretil_critical_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 120,
+        "verses": 5834,
+        "authority": "High"
+      },
+      {
+        "file": "vishnu_puran_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 126,
+        "verses": 6339,
+        "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "vishnu_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4176797,
+        "authority": "Low"
+      },
+      {
+        "file": "vishnu_puran_gita_press_2.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 3599547,
+        "authority": "Medium"
+      },
+      {
+        "file": "vishnu_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 1374016,
+        "authority": "Medium"
+      },
+      {
+        "file": "vishnu_puran_hindi_new.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4189152,
+        "authority": "Low"
+      },
+      {
+        "file": "vishnu_puran_sanskrit_english.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 1935950,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "vishnu smriti": {
+    "tei_xml": [
+      {
+        "file": "vishnu_smriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 99,
+        "verses": 480,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "yajnavalkya smriti": {
+    "tei_xml": [
+      {
+        "file": "yajnavalkya_smriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 3,
+        "verses": 1011,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "yama smriti": {
+    "tei_xml": [
+      {
+        "file": "yama_smriti_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 2,
+        "verses": 140,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "stotraratna": {
+    "tei_xml": [
+      {
+        "file": "yamuna stotraratna_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 64,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "yoga shataka": {
+    "tei_xml": [
+      {
+        "file": "yoga_bija_gretil_structure.json",
+        "source": "GRETIL",
+        "type": "TEI XML Scholarly Edition",
+        "chapters": 1,
+        "verses": 110,
+        "authority": "High"
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "upanishads": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "Upanishads_110.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2027327,
+        "authority": "Low"
+      },
+      {
+        "file": "brhadaranyaka_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 2385583,
+        "authority": "Low"
+      },
+      {
+        "file": "kena_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 43363,
+        "authority": "Low"
+      },
+      {
+        "file": "mandukya_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 1196683,
+        "authority": "Low"
+      },
+      {
+        "file": "mundaka_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 32697,
+        "authority": "Low"
+      },
+      {
+        "file": "taittiriya_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 1191022,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "atharvaveda": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "atharvaveda_jayadev_part1.txt",
+        "source": "Jayadev",
+        "type": "Text File (OCR/Digital)",
+        "size": 2113053,
+        "authority": "Low"
+      },
+      {
+        "file": "atharvaveda_samhita_sanskrit.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3081784,
+        "authority": "Low"
+      },
+      {
+        "file": "atharvaveda_samhita_sayana_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 2941883,
+        "authority": "Low"
+      },
+      {
+        "file": "atharvaveda_vol1_sayana.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3369803,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "bhavishya purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "bhavishya_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4728614,
+        "authority": "Low"
+      },
+      {
+        "file": "bhavishya_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 4709487,
+        "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "brahma vaivarta purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "brahma_vaivarta_dli.txt",
+        "source": "Digital Library of India",
+        "type": "Text File (OCR/Digital)",
+        "size": 1870353,
+        "authority": "Low"
+      },
+      {
+        "file": "brahma_vaivarta_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 6033236,
+        "authority": "Low"
+      },
+      {
+        "file": "brahma_vaivarta_puran_english.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3713002,
+        "authority": "Low"
+      },
+      {
+        "file": "brahma_vaivarta_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 5966482,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_vaivarta_puran_gitapress_hindi.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 3374608,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_vaivarta_puran_ia_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 6033067,
+        "authority": "Low"
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_dli.txt",
+        "source": "Digital Library of India",
+        "type": "Text File (OCR/Digital)",
+        "size": 137508,
+        "authority": "Low"
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_full.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 1739314,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "padma purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "padma_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 7943401,
+        "authority": "Low"
+      },
+      {
+        "file": "padma_puran_gita_press_2025.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 9047588,
+        "authority": "Medium"
+      },
+      {
+        "file": "padma_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 8378446,
+        "authority": "Medium"
+      },
+      {
+        "file": "padma_puran_part1.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 6919298,
+        "authority": "Low"
+      },
+      {
+        "file": "padma_purana_part1_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 6937303,
+        "authority": "Low"
+      },
+      {
+        "file": "padma_purana_part3_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File (OCR/Digital)",
+        "size": 2528340,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "rigveda": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "rigveda_bhashyam.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 379372,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_hindi.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 5781110,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_jayadev_part1.txt",
+        "source": "Jayadev",
+        "type": "Text File (OCR/Digital)",
+        "size": 2474344,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_samhita_ramtek_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 1330816,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_sayanacharya_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 7065865,
+        "authority": "Low"
+      },
+      {
+        "file": "rigvedasanhitc01wils.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 865154,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "varaha purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "varaha_puran.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2906025,
+        "authority": "Low"
+      },
+      {
+        "file": "varaha_puran_2.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 6698392,
+        "authority": "Low"
+      },
+      {
+        "file": "varaha_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File (OCR/Digital)",
+        "size": 1079820,
+        "authority": "Medium"
+      },
+      {
+        "file": "varaha_puran_sanskrit.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 2743882,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "yajurveda": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "yajurveda_gujarati_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3595221,
+        "authority": "Low"
+      },
+      {
+        "file": "yajurveda_jayadev.txt",
+        "source": "Jayadev",
+        "type": "Text File (OCR/Digital)",
+        "size": 2894662,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "yogavasishtha": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "yogavasishtha_full_djvu.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 17764150,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_hindi_part2.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3912964,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_hindi_part3.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 3531755,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_hindi_part4.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 5672028,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_marathi.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 4682550,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_sanskrit_tatparyaprakasha_v2.txt",
+        "source": "Other",
+        "type": "Text File (OCR/Digital)",
+        "size": 8538203,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
   }
 }
