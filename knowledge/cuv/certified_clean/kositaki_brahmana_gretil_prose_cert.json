@@ -1,0 +1,47 @@
+{
+  "file": "kositaki_brahmana_gretil_prose.json",
+  "title": "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+  "status": "certified",
+  "total_akus": 6914,
+  "certified_akus": 6914,
+  "issues": [],
+  "class_distribution": {
+    "prose": 6081,
+    "unknown": 574,
+    "commentary": 146,
+    "mantra": 28,
+    "heading": 17,
+    "translation": 67,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 6914,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "vanam))ṇṇṇ",
+          "start": "ekaikām.it"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "vanam))ṇṇṇ",
+      "start": "ekaikām.it"
+    }
+  ],
+  "blocking_issues": 0
+}

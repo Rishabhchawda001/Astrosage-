@@ -1,0 +1,2944 @@
+{
+  "file": "skanda_puran_revakhanda_gretil.xml",
+  "title": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+  "total_chapters": 4,
+  "total_akus": 728,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 725,
+      "akus": [
+        {
+          "ref": null,
+          "body": "Skandapurāṇa: Revākhaṇḍa (RKS)"
+        },
+        {
+          "ref": null,
+          "body": "dattāni ca mayaiteṣāṃ harmyabhogasukhāni ca /"
+        },
+        {
+          "ref": null,
+          "body": "skanda uvāca: sahasraśatabhaumāśca vaidūryamāṇamaṇḍitāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "etatsarvaṃ yathānyāyaṃ kathayasva prasādataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: ye mṛtā narmadātīre saṅgame tigmadārśite //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe prathamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "bhaktyā yuktaṃ ca yat kiṃcit kathayasva prasādataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "sūta uvāca: śrutvā 'khyānamidaṃ puṇya purāṇaṃ skandakīrtitam //"
+        },
+        {
+          "ref": null,
+          "body": "tatastuṣṭaḥ sureśāno varaṃ dātuṃ yathepsitam /"
+        },
+        {
+          "ref": null,
+          "body": "devā ūcuḥ: yadi tuṣṭo 'si deveśa devānāṃ varado bhava //"
+        },
+        {
+          "ref": null,
+          "body": "lokānāṃ ca hitārthāya martyānāṃ ca viśeṣataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "narmadovāca: tavājñāṃ ca kariṣye 'haṃ nirādhārā kathaṃ vibho //"
+        },
+        {
+          "ref": null,
+          "body": "ādiśyaitāṃśca tān sarvāṃs tato devaḥ svayaṃ śivaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "parvatā ūcuḥ: na śaknumo vayaṃ sarve dhartuṃ vegaṃ ca nārmadam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīrevākhaṇḍe ādikalpakathanaṃ dvitīyo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "uktānuktāśca yat kiṃcit kathayasva prasādataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śrūyatāṃ rājarājendra kathyamānaṃ nibodha me //"
+        },
+        {
+          "ref": null,
+          "body": "etacchrutvā mahādevo naradevasya bhāṣitam /"
+        },
+        {
+          "ref": null,
+          "body": "hara uvāca: uvāca durlabhaṃ devairayācyaṃ yācyate nṛpa //"
+        },
+        {
+          "ref": null,
+          "body": "varamanyaṃ prayacchāmi varjayitvā tu narmadām /"
+        },
+        {
+          "ref": null,
+          "body": "purūravā uvāca: nānyaṃ varaṃ mahādeva prāṇatyāge 'pi prārthaye //"
+        },
+        {
+          "ref": null,
+          "body": "kṛtāñjalipuṭā bhūtvā mamādeśo 'dya dīyatām /"
+        },
+        {
+          "ref": null,
+          "body": "hara uvāca: svargāt prayāhi reve tvaṃ martyalokaṃ mamājñayā //"
+        },
+        {
+          "ref": null,
+          "body": "purūravas tapaḥ satyaṃ kuru kalyāṇi sāmpratam /"
+        },
+        {
+          "ref": null,
+          "body": "narmadovāca: kathamīśa nirādhārā svargād yāsyāmyahaṃ dharām //"
+        },
+        {
+          "ref": null,
+          "body": "uvāca parvatān devaḥ kaḥ sariddhāraṇe kṣamaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "parvatā ūcuḥ: śatadhā bhedam āyānti jalāghātān mahādrayaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe revādvitīyā 'vatārakathanaṃ nāma tṛtīyo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "hiraṇyatejā rājarṣiḥ paśyati sma tadā pitṝn /"
+        },
+        {
+          "ref": null,
+          "body": "hiraṇyatejā uvāca: ke yūyaṃ vikṛtākārāḥ pretabhūtā bubhukṣitāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "evaṃ varam ahaṃ manye tvat prasādād umāpate /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: ayācyaṃ yācitaṃ tāta brahmaviṣṇusurāsuraiḥ //"
+        },
+        {
+          "ref": null,
+          "body": "ādeśaṃ deva me dehi tvad ādeśe sthitā hy aham /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: hiraṇyatejā nṛpatis tyaktvā rājya ca narmade //"
+        },
+        {
+          "ref": null,
+          "body": "mucyante yena cāghaughād dhūtapāpā yathepsitam /"
+        },
+        {
+          "ref": null,
+          "body": "narmadovācā: maheśvaraṃ śūlapāṇim evam astviti cābravīt //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe caturtho 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narmadāyāś caturthāvatāre pañcamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "jalaughakallolataraṅgabhaṅgā gaṅgā dhṛtā yena jaṭāgrabhāge pādāmbujāṅguṣṭhanipīḍanena papāta laṅkādhipatir visaṃjñaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "surāsurāṇāmiha yat samakṣaṃ vidhvaṃsito dakṣamakhaḥ kṣaṇena praṇamya dakṣaḥ kṣayakārakasya lebhe varaṃ tārakamārakasya //"
+        },
+        {
+          "ref": null,
+          "body": "sarvasya pūjyaṃ hi varottamāṅgaṃ sampūjyate liṅgavaraṃ harasya anena paryāptam atīva mūḍhaḥ prāptuṃ padaṃ yacchati yat karoti //"
+        },
+        {
+          "ref": null,
+          "body": "brahmātra vṛddho harir atra liṅgaṃ surā 'surāś caiva samarcayanti tathāpi nūnaṃ suvicārayānti ko vā 'dhiko vā 'sti samo hareṇa //"
+        },
+        {
+          "ref": null,
+          "body": "tenaiva cakrāṅkasaroruhāṅkau liṅgāṅkitaṃ yasya jagad bhagāṅkam haste prabaddhe navakaṅkaṇe vai paśyanti mūḍhāḥ khalu darpaṇena //"
+        },
+        {
+          "ref": null,
+          "body": "iti revākhaṇḍe narmadāmāhātye ṣaṣṭho 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe vyāsatīrthamahimavarṇano nāma saptamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe tripurīvarṇano nāmāṣṭamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "cāndrāyaṇaśatasyoktaṃ yat puṇyaṃ tad avāpnuyāt /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: saṃkṣepācchrutam etaddhi vistareṇa tapodhana //"
+        },
+        {
+          "ref": null,
+          "body": "kathaṃ tu markaṭītīrthaṃ tan me kathaya suvrata /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: āsīt tretāyuge rājā satyaseno mahātapāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "praṇamya daṇḍavadbhūmau stotuṃ samupacakrame /"
+        },
+        {
+          "ref": null,
+          "body": "bhṛgur uvāca: praṇamāmi jane saṃsthaṃ bhūteśaṃ bhūtidaṃ haram //"
+        },
+        {
+          "ref": null,
+          "body": "avatāraya cātmānaṃ bhṛgukṣetre maheśvara /"
+        },
+        {
+          "ref": null,
+          "body": "śaṅkara uvāca: evaṃ bhavatu viprendra tava nāmnā bhaviṣyati //"
+        },
+        {
+          "ref": null,
+          "body": "śāpāntaṃ kuru me vipra bāliśasya prasādataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "durvāsā uvāca: gaccha gandharvarāja tvaṃ tripuryāṃ narmadātaṭam //"
+        },
+        {
+          "ref": null,
+          "body": "varaṃ vṛṇu mahābhāga yat te manasi vartate /"
+        },
+        {
+          "ref": null,
+          "body": "gandharva uvāca: yadi tuṣṭo 'si deveśa varaṃ dātumihecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe 'rkatīrthamāhātmye navamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe mātaṅgākhyānaṃ nāma daśamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe tīrthamahimavarṇano nāmaikādaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tīrthasyā 'sya prabhāveṇa mukto bhūd vatsagovadhāt /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: mamāsti saṃśayas tāta sumahāṃllomaharṣaṇaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "kathaṃ rājani gohatyā kathaṃ muktaś ca govadhāt /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan kathāṃ divyām itihāsaṃ purātanam //"
+        },
+        {
+          "ref": null,
+          "body": "anugrahaṃ bahu manye prāyaścittamathoditam /"
+        },
+        {
+          "ref": null,
+          "body": "brāhmaṇā ūcuḥ: daśalakṣāṇi gāyatryās tīrthe tīrthe japaṃ kuruṃ //"
+        },
+        {
+          "ref": null,
+          "body": "saptajanmakṛtaṃ pāpaṃ sadya eva praṇaśyatu /"
+        },
+        {
+          "ref": null,
+          "body": "revovāca: evam astu nṛpaśreṣṭha matprasādād bhaviṣyati //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narmadāmāhātmye gāñjālatīrthavarṇano nāma dvādaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "imaṃ varam ahaṃ manye yadi tuṣṭo 'si śaṅkara /"
+        },
+        {
+          "ref": null,
+          "body": "śaṅkara uvāca: sarvakābhaphalāvāptir matprasādād bhaviṣyati //"
+        },
+        {
+          "ref": null,
+          "body": "provāca bhagavan vidvan kiṃ karomi tavājñayā /"
+        },
+        {
+          "ref": null,
+          "body": "āpastamba uvāca: śrameṇa mahatāviṣṭāḥ kaivartā duḥkhajīvinaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "mama mūlyaṃ prayaccheti yad yogyaṃ manyase nṛpa /"
+        },
+        {
+          "ref": null,
+          "body": "nābhāga uvāca: sahasrāṇi śataṃ mūlyaṃ niṣādebhyo dadāmy aham //"
+        },
+        {
+          "ref": null,
+          "body": "niṣkrayārthaṃ hi bhagavan nītaṃ te brahmanandana /"
+        },
+        {
+          "ref": null,
+          "body": "āpastamba uvāca: nāhaṃ śatasahasreṇa niyamyaḥ pārthiva tvayā //"
+        },
+        {
+          "ref": null,
+          "body": "sadṛśaṃ dīyatāṃ mūlyam amātyaiḥ saha cintaya /"
+        },
+        {
+          "ref": null,
+          "body": "nābhāga uvāca: koṭiṃ pradīyatāṃ mūlyaṃ niṣādebhyo dvijottama //"
+        },
+        {
+          "ref": null,
+          "body": "yady etad api yogyaṃ no tato bhūyaḥ pradīyatām /"
+        },
+        {
+          "ref": null,
+          "body": "āpastamba uvāca: rājannārhā vayaṃ koṭimadhikaṃ cāpi pārthiva //"
+        },
+        {
+          "ref": null,
+          "body": "sadṛśaṃ dīyatāṃ mūlyaṃ brāhmaṇaiḥ saha saṃvada /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: arddhaṃ rājyaṃ samastaṃ vā niṣādebhyaḥ pradīyate //"
+        },
+        {
+          "ref": null,
+          "body": "etan mūlyam ahaṃ manye kiṃ vālaṃ manyase dvija /"
+        },
+        {
+          "ref": null,
+          "body": "āpastamba uvāca: arddhaṃ rājyaṃ samastaṃ vā nāham arhāmi vai nṛpa //"
+        },
+        {
+          "ref": null,
+          "body": "nābhāgam abravīt mābhaiḥ toṣayiṣyāmi taṃ munim /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: brūhi mūlyaṃ mahābhāga me jñātikulabāndhavān //"
+        },
+        {
+          "ref": null,
+          "body": "yadīcchasi mahārāja śāśvatīṃ gatimātmanaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: ityuktvā mahātmānau jagmatuḥ svaṃ svamāśramam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe matsyeśvaratīrthavarṇanonāma trayodaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śivamahimavarṇano nāma caturdaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tuṣṭo 'haṃ tava bhaktyā tu rudrajāpyena toṣitaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "jamadagniruvāca: yadi tuṣṭo mahādeva varaṃ dātuṃ mamecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kārtavīryākhyāne pañcadaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "śivaprasādasampannā buddhir anyā pracakrame /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śrutvā tu vacanaṃ śambhoḥ sāṣṭāṅgaṃ praṇipatya saḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narmadāmāhātmye hradākhyānaṃ nāma ṣoḍaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe nāgeśvarākhyānaṃ nāma saptadaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kṛtā mayā mahādeva vimānaṃ me tathā 'pyadhaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: śṛṇu rājan mahābhāga kathyamānaṃ nibodha me //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe janakayajño nāmāṣṭādaśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kalpagātoyasaṃsparśāt prāpnoṣi paramāṃ gatim /"
+        },
+        {
+          "ref": null,
+          "body": "gandharva uvāca: yadi tuṣṭo maheśāna varaṃ dātumihecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "śivājñā vartate rājaṃs tatra yastridivaṃ jayet /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: kaḥ sraṣṭā cāsya jagato hartā dhartā ca bho mune //"
+        },
+        {
+          "ref": null,
+          "body": "kalpānte ca suraśreṣṭha kva līyante ca devatāḥ /"
+        },
+        {
+          "ref": null,
+          "body": "hara uvāca: kathayāmi paraṃ guhyaṃ sṛṣṭisaṃhārakārakam //"
+        },
+        {
+          "ref": null,
+          "body": "akṣayā tena loke /# aṣṭau yugasahasrāṇi ahorātraṃ prajāpateḥ //"
+        },
+        {
+          "ref": null,
+          "body": "yathā vibhavayogena bhikṣāṃ dattvā yathā purā /"
+        },
+        {
+          "ref": null,
+          "body": "hara uvāca: varaṃ brūhi mahābhāga siddhastvaṃ dharmato yataḥ //"
+        },
+        {
+          "ref": null,
+          "body": "putradārasnuṣopeto viṣṇulokamito vraja /"
+        },
+        {
+          "ref": null,
+          "body": "śārṅga uvāca: yadi tuṣṭo 'si me deva varaṃ dātuṃ yathepsitam //"
+        },
+        {
+          "ref": null,
+          "body": "dvijaṃ vācālarūpaṃ tu dūrataḥ parivarjayet /"
+        },
+        {
+          "ref": null,
+          "body": "brāhmaṇā ūcuḥ: ko bhavān vaiśyarūpeṇa brahmā śakro janārdanaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "sāṅgopāṅgās tathā vedās tvayi dharmaḥ pratiṣṭhitaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "śārṅga uvāca: dharmo 'haṃ vaiśyarūpeṇa jijñāsā 'rtham ihāgataḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe sṛṣṭisaṃhārasārasvatatīrthakathanaṃ nāmaikonaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "jñānarūpamayaṃ devaṃ siddhaliṅgaṃ prakīrtitam /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: kasmādapsarasaḥ śaptāḥ kathaṃ yātāś ca saṅgamam //"
+        },
+        {
+          "ref": null,
+          "body": "kathaṃ ca mokṣaṇaṃ śāpād viditaṃ kuru sāmpratam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan yathā nyāyaṃ kathayāmi tavā 'nagha //"
+        },
+        {
+          "ref": null,
+          "body": "kimāgamanakāryaṃ vaḥ kuto vo bhayamāgatam /"
+        },
+        {
+          "ref": null,
+          "body": "devā ūcuḥ: eṣa tvāṃ prati saṃpraṣṭuṃ devarājaḥ śatakratuḥ //"
+        },
+        {
+          "ref": null,
+          "body": "mokṣaṇaṃ brahmahatyāyāḥ syād yathā vai tathā kuru /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: vārāṇasyāṃ kratuṃ ceṣṭvā hayamedhaṃ yathā vidhi //"
+        },
+        {
+          "ref": null,
+          "body": "na tāvad brahmahatyā tu nirgame punarāviśet /"
+        },
+        {
+          "ref": null,
+          "body": "kāśyuvāca: nāhaṃ samarthā haraṇe muktvā kācit tu kalpagām //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe brahmahatyāchedano nāma viṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "etat te kathitaṃ skanda harmyās santi samuddhṛtāḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: evaṃ purā mahārāja kailāse parvatottame //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kubjāmāhātmya ekaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "nikhilaṃ śrotumicchāmi kathayasva śivoditam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇvantu munayaḥ sarve śrotukāmās samāgamam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe bilvāmrakotpattivarṇano nāma dvāviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "ātithyakāle samprāpto yācayasva yathocitam /"
+        },
+        {
+          "ref": null,
+          "body": "brāhmaṇa uvāca: vittaṃ varṣaśataṃ yāvadekaikāya sutāya me //"
+        },
+        {
+          "ref": null,
+          "body": "labhate brahmalokaṃ ca rakṣoyoneś ca mokṣaṇam /"
+        },
+        {
+          "ref": null,
+          "body": "brahmarākṣasa uvāca: kā 'si tvaṃ ca varārohe kasya cāsi yaśasvini //"
+        },
+        {
+          "ref": null,
+          "body": "anugrahārthaṃ bhūtānāṃ pūrvajanma kṛtaiḥ śubhaiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "ākāśavāṇy uvāca: dhanyā 'haṃ sarvabhūtānāmavyaktāvyaktarūpiṇī //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kubjāmāhātmye trayoviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "niṣkṛtis tv asya pāpasya kriyatāṃ vacanāt mama /"
+        },
+        {
+          "ref": null,
+          "body": "śaṅkara uvāca: yajñapākāśramaṃ gatvā mekalātīram āśritam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kubjāmāhātmye citrāṅgadaśāpamocano nāma caturviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "ādeśo dīyatāṃ mahyaṃ makhaṃ yatra pravartate /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: vaidūryasya ca vāruṇyāṃ yajñayūpāṃś ca maṇḍapān //"
+        },
+        {
+          "ref": null,
+          "body": "tān ānaya tathā śūdrān naimiṣāraṇyavāsinaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "vaśiṣṭha uvāca: anugraham imaṃ manye yanmāṃ vadasi pārthiva //"
+        },
+        {
+          "ref": null,
+          "body": "prāha brūhi varaṃ rājan yat te manasi vartate /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: pūrvān sapta parān sapta pravāhān akṣayān kuru //"
+        },
+        {
+          "ref": null,
+          "body": "varam etam ahaṃ manye saptakalpāntavāsini /"
+        },
+        {
+          "ref": null,
+          "body": "narmadovāca: datto varo mayā hyeṣa satyaṃ tava narādhipa //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe pañcaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: amareśvarapūrveṇa paryaṅkāt paścime tathā //"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan mahābhāga pūrvabhāge vyavasthitam //"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: bhagavān chrotum icchāmi māhiṣmatyās tu paścime //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe gardabhītīrthavarṇano nāma ṣaḍviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "na tat paśyanti manujāḥ sarvair devais tu pūjitam /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: gaurīkhaṇḍeśvaraṃ nāma tasmiṃs tīrthe kathaṃ mune //"
+        },
+        {
+          "ref": null,
+          "body": "kathyatāṃ ca yathā nyāyaṃ viditaṃ yat tu sāmpratam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: purādevagaṇaiḥ sarvaiḥ kumāraḥ śaṅkarātmaja //"
+        },
+        {
+          "ref": null,
+          "body": "pitṝṇāṃ tarpaṇāt tatra svargaṃ prāpnoti mānavaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: kathayasva mahābhāga karamardāsamudbhavam //"
+        },
+        {
+          "ref": null,
+          "body": "bhāviṣyabhūtatattvajñas trikālajñas trivedavit /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: kathayāmi yathādṛṣṭaṃ śṛṇu caikamanā nṛpa //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe karamardeśvarīkīrtanaṃ nāma saptaviṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tuṣṭo 'smīti na sandeho yatheṣṭaṃ tad dadāmyaham /"
+        },
+        {
+          "ref": null,
+          "body": "māndhātovāca: yadi tuṣṭo 'si deveśa varaṃ dātuṃ tvamicchasi //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe māndhāturupākhyāne 'ṣṭāviṃśo 'dhyāya"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "śāntaṃ ca mama toyena rasātalatalaṃ yayau /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: puraṃ tu nikhilaṃ dagdham aghorāstraṃ sudussaham //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe 'mareśvaramāhātye ekonatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "anugraham imaṃ manye yan māṃ prāpto 'si nārada /"
+        },
+        {
+          "ref": null,
+          "body": "nārada uvāca: śṛṇu rājan mahābhāga kathyamānaṃ nibodha me //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe revācarusaṅgamavarṇano nāma triṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kiṃ kartavyaṃ mayā te 'dya brahman me 'nugrahaṃ kuru /"
+        },
+        {
+          "ref": null,
+          "body": "nārada uvāca: kuru brahmamunīnāṃ tvaṃ śāpāntaṃ rājadarśanāt //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe pañcaliṅgamāhātmye ekatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe brāhmaṇasya bhāryayā saha svargārohaṇaṃ nāma dvātriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe pātāleśvaramāhātmyaṃ nāma trayastriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "ṛṣaya ūcuḥ: kecid vārāṇasīṃ bhūpa prayāgaṃ ca tathā pare //"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeyo vakṣyate yat tatra yajñaḥ pravartyatām /"
+        },
+        {
+          "ref": null,
+          "body": "indradyumna uvāca: yathā vadasi devarṣe tathā kāryaṃ mayānagha //"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: pṛthivyāṃ yāni tīrthāni āsamudrāntagocare //"
+        },
+        {
+          "ref": null,
+          "body": "tathā bhāgo hi rudrāṇāṃ yathā sṛṣṭasvayambhuvā /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: rudrādityavasūtāṃ ca viśvedevahavirbhujām //"
+        },
+        {
+          "ref": null,
+          "body": "pramāṇaṃ nāma gotrāṃś ca kathayasva mahāmune /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: atriścāṅgirasaḥ sarpirmarutaś ca bṛhaspatiḥ //"
+        },
+        {
+          "ref": null,
+          "body": "indradyumna uvāca: yadi tuṣṭo 'si me deva varaṃ dātuṃ mamecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "oṃkāra uvāca: sarvam etat nṛpaśreṣṭha kāmaḥ sampadyatāṃ tava //"
+        },
+        {
+          "ref": null,
+          "body": "tuṣṭaḥ provāca dhātā taṃ varaṃ vṛṇu viśāmpate /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: tuṣṭo 'si yadi me deva varaṃ dātum ihecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "kasyāsti śaktiḥ stotuṃ tvāmṛte candrārdhaśekharāt /"
+        },
+        {
+          "ref": null,
+          "body": "gaṅgovāca: tuṣṭā 'smi te mahārāja varaṃ yācasva suvrata //"
+        },
+        {
+          "ref": null,
+          "body": "gaṅgāyā vacanaṃ śrutvā rājā tāṃ pratyuvāca ha /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: yadi tuṣṭā 'si deveśi varaṃ dātum ihecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "gaṅgovāca: evaṃ bhavatu rājendra bhāgenaiva vahāmy aham //"
+        },
+        {
+          "ref": null,
+          "body": "divyayānasamārūḍhā stūyamānāpsarogaṇaiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "sarasvaty uvāca: duhitā 'haṃ tava hyeṣā dharmataḥ paripālitā //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe indradyumnayajñanīlagaṅgāvatāro nāma catustriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tathā tu kathyatāṃ tāta yathoddiṣṭaṃ śivena tu /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan mahābāho kathyamānaṃ nibodha me //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe vaidūryaparvatavarṇanaṃ nāma pañcatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "varaṃ vṛṇu mahābhāga yajñenānena suvrata /"
+        },
+        {
+          "ref": null,
+          "body": "vasudāna uvāca: revākapilasambhede snātvā 'bhyarcya maheśvaram //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kapilāvatāro nāma ṣaṭtriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kalpāntadarśanaṃ nāma saptatriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "brahmovāca: tvayā vinā jagan nātha kṣoṇī channā surāribhiḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe cakrasvāmivarṇano nāmāṣṭatriṃśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "prabhāvaṃ vedituṃ tasya punar icchāmy ahaṃ mune /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan kathāṃ divyāṃ sarvapāpapraṇāśinīm //"
+        },
+        {
+          "ref": null,
+          "body": "sarvaṃ nyavedayat tatrābhakṣabhojyaṃ ca yatkṛtam /"
+        },
+        {
+          "ref": null,
+          "body": "brahmovāca: lokāpacaritaṃ karma [] kāryaṃ devavarjitam //"
+        },
+        {
+          "ref": null,
+          "body": "yūyaṃ ca vikṛtākārāḥ kathayadhvaṃ kathaṃ ca tat /"
+        },
+        {
+          "ref": null,
+          "body": "bhāradvāja uvāca: śṛṇu brahman samāsena kathyamānaṃ vaco mama //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe vimaleśvaravarṇano nāmaikonacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe sūtrayāgavarṇano nāma catvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "imaṃ varam ahaṃ manye jagad dyotanakārakam /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: sarvasampatsamṛddhis te matprasādād bhaviṣyati //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kāverīmāhātmyaṃ nāmaikacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe caṇḍavegāmāhātmyavarṇano nāma dvicatvāriṃśo 'dhyāya"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "snātvā saṃtyajya tāṃ yoniṃ rājyaṃ kṛtvā divaṃ gataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: kathaṃ sa rājā saṃprāpto mānuṣīṃ ca tanuṃ punaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "etad āścaryabhūtaṃ me kathayasva mahāmate /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: sukanyāṃ nāma kanyāṃ vai yayāce cyavano nṛpam //"
+        },
+        {
+          "ref": null,
+          "body": "tadā bhokṣye mahīpāla no cet pāpam avāpsyasi /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: ekā me duhitā brahman rājñīṃ yācasva varṇinīm //"
+        },
+        {
+          "ref": null,
+          "body": "tyaktvā gacchati tāṃ mohād bhrūṇaghnaḥ sa tu kīrtitaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "pakṣiṇy uvāca: ātmānaṃ rakṣa jīveśa mūlabhūtaṃ kulasya tu //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe eraṇḍīsaṅgamamahimānuvarṇano nāma tricatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tataḥ saṃpūjya vidhivad durvāsās taṃ pitāmaham /"
+        },
+        {
+          "ref": null,
+          "body": "brahmovāca: udbhaved yadi te tīrthamamāsomasamāgame //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe durvāsaścaritre eraṇḍītīrthavarṇano nāma catuścatvāriṃśo 'dhyāyaḥ"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śalyāviśalyāmāhātmyānuvarṇano nāma pañcacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe bhṛguparvatamahimā 'nuvarṇano nāma ṣaṭcatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe oṃkāramahimānuvarṇano nāma saptacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe pañcabrahmātmakastavo nāmāṣṭacatvāriṃśo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe vārāhasvargārohaṇaṃ nāmaikonapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "śrāddhakālaḥ pitṝṇāṃ me bhojanaṃ kriyatām iti /"
+        },
+        {
+          "ref": null,
+          "body": "ṛṣir uvāca: rājño hi darśanaṃ ghoraṃ medhāmathanamakṣamam //"
+        },
+        {
+          "ref": null,
+          "body": "anugraham imaṃ viddhi uddhariṣye bhavārṇavāt /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: dadāmi te na sandehaḥ tvam eko munisattamaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "kālaprāptaṃ pumāṃsaṃ tu na rakṣed īśvaraḥ svayam /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: kā 'si tvaṃ ca varārohe hyumā gaṅgā 'thavā ramā //"
+        },
+        {
+          "ref": null,
+          "body": "kathayasva mahābhāge mama tvaṃ bhaktidāyinī /"
+        },
+        {
+          "ref": null,
+          "body": "stryuvāca: nāhaṃ gaṅgā na vāṇī vā kapilāṃ viddhi māṃ nṛpa //"
+        },
+        {
+          "ref": null,
+          "body": "gatvā praṇamya tam ṛṣim upaviṣṭas tathāgrataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: kuśalaṃ te nṛpaśreṣṭha dharmācāravidāṃ vara //"
+        },
+        {
+          "ref": null,
+          "body": "santyajya ca kathaṃ sainyam ekākī tvam ihāgataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: adya me saphalaṃ janma tvatpādāmbujadarśanāt //"
+        },
+        {
+          "ref": null,
+          "body": "stotreṇānena tuṣṭāhaṃ varaṃ vṛṇu yathepsitam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: parituṣṭāsi deveśi varaṃ dātuṃ tvam icchasi //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kapilāmāhātmye dhundhumārasvargārohaṇaṃ nāma pañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "saptakalpavahātīre dānasaṃkhyā na vidyate /"
+        },
+        {
+          "ref": null,
+          "body": "mucukunda uvāca: dharmādharme tvam evādya svargadvārārgalo yataḥ //"
+        },
+        {
+          "ref": null,
+          "body": "svāgataṃ te mahārāja kuśalaṃ tava sarvadā /"
+        },
+        {
+          "ref": null,
+          "body": "kuvalayāśva uvāca: parasparavirodhatvaṃ devadānavayoḥ sadā //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe mucukundakuvalayāśvasvargārohaṇaṃ nāmaikapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narakavarṇanaṃ nāma dvipañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narakāyātanānuvarṇano nāma tripañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: tīryate kena dharmeṇa saṃsārābdhiḥ sudustaraḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: tena nirbhartsitaiḥ pāpaiḥ kathyamānāṃ kathāṃ śṛṇu //"
+        },
+        {
+          "ref": null,
+          "body": "etat te sarvam ākhyātaṃ yathā pṛṣṭaṃ tvayānagha / pāpiṣṭhān nṝnadharmasthān kathayāmāsa bhārata (?) //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe karmagatiyamavākyaṃ nāma catuṣpañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe godānamahimānuvarṇano nāma pañcapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe mātaṅgāśramavarṇano nāma ṣaṭpañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narmadāmāhātmye saptapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "asyākhyānena bhagavān /# prīyatāṃ me śivaḥ svayam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śivalokavarṇano nāmāṣṭapañcāśattamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narmadāmāhātmye śivamahimānuvarṇano nāmaikonaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kastvaṃ vānararūpeṇa satyam etad bravīṣi me /"
+        },
+        {
+          "ref": null,
+          "body": "vānara uvāca: ahaṃ jābālinaḥ putraḥ kadambo nāma viśrutaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narmadāmāhātmye ṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kuru kāryaṃ ca devānāṃ satyadharmavrate sthitaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "dadhīcir uvāca: śṛṇu kāryaṃ ca devarṣe devānāṃ hitakāmyayā //"
+        },
+        {
+          "ref": null,
+          "body": "akṣayaṃ ca pitṛśrāddhaṃ pitṝṇām akṣayā gatiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "ṛṣaya ūcuḥ: mārkaṇḍeyāśramaṃ gaccha asmābhiḥ saha bhūpate //"
+        },
+        {
+          "ref": null,
+          "body": "samutthāyābravīd vākyam upaviṣṭaḥ kuśāsane /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: kān na mocayate ghorān pitṝn saṃsārasāgarāt //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe rantidevopākhyānaṃ nāmaikaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe mātṛstutirnāma dviṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "lokanātho jagatsraṣṭā praṇipatya yathāvidhi /"
+        },
+        {
+          "ref": null,
+          "body": "brahmo vāca: nāsti rudrasamo devo nāsti rudrasamo guruḥ //"
+        },
+        {
+          "ref": null,
+          "body": "idaṃ varam ahaṃ manye yadi tuṣṭo 'si śaṅkara /"
+        },
+        {
+          "ref": null,
+          "body": "śaṅkara uvāca: amāsomasamāyoge kārttikyāṃ caiva parvaṇi //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kubjāmāhātmye triṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe viṣṇukīrtanaṃ nāma catuḥṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "asya tīrthasya māhātmyāt pāṭalīputravāsinaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: hayamedhamakheneṣṭaṃ kathaṃ tāta svayambhuvā //"
+        },
+        {
+          "ref": null,
+          "body": "etat sarvaṃ yathā nyāyaṃ śaṃsa me munisattama /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan mahābhāga samākhyānaṃ purātanam //"
+        },
+        {
+          "ref": null,
+          "body": "etat sarvaṃ yathā nyāyaṃ trikālajña nivedaya /"
+        },
+        {
+          "ref": null,
+          "body": "agastya uvāca: śṛṇu rājan mahābhāga kathyamānaṃ nibodha ca //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe narmadāmāhātmye pañcaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "suprītā vihitā rājann arghapādyapradānataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: munayaḥ kena kāryeṇa pāṭalīputravāsinaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "devyā śaptāḥ śvayoniṃ ca gatā muktāś ca te katham /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: purā tapodhanāḥ sarve jaṭāvalkaladhāriṇaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "devadundubhayo neduḥ puṣpavṛṣṭiḥ papāta ca /"
+        },
+        {
+          "ref": null,
+          "body": "durvāsā uvāca: kṣatriyeṣu tvayā tulyo na dṛṣṭo na śruto mayā //"
+        },
+        {
+          "ref": null,
+          "body": "imaṃ varam ahaṃ manye prasādaḥ kriyatāṃ mayi /"
+        },
+        {
+          "ref": null,
+          "body": "yama uvāca: evaṃ bhavatu rājendra satyadharmaparāyaṇa //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe 'śokavanikāvarṇano nāma ṣaṭṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "etat sarvaṃ yathā nyāyaṃ kathayasva tapodhana /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan yathā nyāyam itihāsaṃ purātanam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe vāgīśvarākhyāna nāma saptaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "brahmaṇā ca kṛtaṃ stotraṃ puṇyakīrte niśāmaya /"
+        },
+        {
+          "ref": null,
+          "body": "brahmovācā: vākpatir vacasāṃ nityaṃ vāsudevo 'stu me gatiḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe vārāhamahimānuvarṇano nāmāṣṭaṣaṣṭitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śambhustutirnāmaikonasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "etat sarvaṃ samākhyāhi pṛcchato me mahāmune /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājan kathāṃ divyāṃ svargārhaṇyām anuttamām //"
+        },
+        {
+          "ref": null,
+          "body": "varaṃ vṛṇīṣva bhadraṃ te tam uvāca vṛṣadhvajaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yayātir uvāca: yadi tuṣṭo 'si me deva varaṃ dātuṃ mamecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "pāpakarmaratā ye tu teṣāṃ śāstā yamaḥ svayam /"
+        },
+        {
+          "ref": null,
+          "body": "yama uvāca: gatvā kailāsamāyāmi yāvat tāvat pratīkṣatām //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe dvīpeśvaravarṇano nāmaikasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe viṣṇustutirnāma dvisaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe meghanādeśvaramahimānuvarṇano nāma trisaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe dārutīrthatamahimānuvarṇano nāma catuḥsaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe devatīrthamahimānuvarṇano nāma pañcasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "śrotum icchāmy ahaṃ deva sarvaṃ kautūhalaṃ hi me /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: mahāpraśnaḥ kṛto māṃ yo mahāprājña nareśvara //"
+        },
+        {
+          "ref": null,
+          "body": "etal lokaviruddhaṃ hi yadīcchasi vaśe sukham /"
+        },
+        {
+          "ref": null,
+          "body": "devy uvāca: nāhaṃ te dayitā deva nāhaṃ te vaśavartinī //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe dāruvanaprasaṅge narmadeśvarakīrtanaṃ nāma ṣaṭsaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "tatra siddho mahābhāga daityo vai lokaviśrutaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: ko 'sau siddho mahābhāga tatra tīrthe mahātapāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "kasya putro 'tha kiṃkāryaṃ kālaḥ kaḥ kathaya dvija /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: purā cādiyuge rājan mānaso brahmaṇaḥ sutaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe karañjeśvaramahimānuvarṇano nāma saptasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "etad vistaratas tāta kathayasva mamānagha /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: purā tretāyuge rājan paulastyo nāma viśravāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kuṇḍaleśvaramahimā anuvarṇanonāma aṣṭasaptatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kimasya tvaṃ mahābhūta kartā kṛtya vadasva me /"
+        },
+        {
+          "ref": null,
+          "body": "kṛtyovāca: krodhadīptena deveśa pippalādena cintitā //"
+        },
+        {
+          "ref": null,
+          "body": "toṣayāmāsa deveśam umayā saha śaṅkaram /"
+        },
+        {
+          "ref": null,
+          "body": "hara uvāca: parituṣṭo 'smi te vipra tapasānena suvrata //"
+        },
+        {
+          "ref": null,
+          "body": "varaṃ vṛṇīṣva te dadyāṃ manasābhīpsitaṃ śubham /"
+        },
+        {
+          "ref": null,
+          "body": "pippalāda uvāca: yadi me bhagavāṃs tuṣṭo yadi deyo varo mama //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe pippaleśvaramahimānuvarṇano nāmaikonāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "svalpenāpi hi dānena tasya cānto na vidyate /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: kāni dānāni viprendra śastāni dharaṇītale //"
+        },
+        {
+          "ref": null,
+          "body": "yāni dattvā naro bhaktyā mucyate sarvakilbiṣaiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: suvarṇaṃ rajataṃ tāmraṃ maṇiṃ mauktikam eva ca //"
+        },
+        {
+          "ref": null,
+          "body": "vihitaṃ karmakurvāṇaḥ sa gacchati satāṃ gatim /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: kiṃ japan mucyate vyādher jñātvā varṇaṃ dvijottama //"
+        },
+        {
+          "ref": null,
+          "body": "kiṃ kurvan mucyate prāṇī yāti lokam anāmayam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: śṛṇu rājann avahita itihāsaṃ purātanam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe guhyāvatītīrthamahimānuvarṇano nāmāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe pañcaliṅgamahimānuvarṇano nāmaikāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe mṛkaṇḍāśramakīrtano nāma dvyaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe rameśvarahariṇeśvaralubdhakeśvaradhanurīśvarabāṇeśvarakathano nāma tryaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "devā ūcuḥ: mṛtyuloke 'bhavat pāpas tv andhako nāma durmadaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "upaviṣṭo 'ndhakas tatra śakrasyaivāsane śubhe /"
+        },
+        {
+          "ref": null,
+          "body": "śakra uvāca: kiṃ vo hy āgamanaṃ cātra kiṃ kāryaṃ kathayasva me //"
+        },
+        {
+          "ref": null,
+          "body": "yadasmadīyaṃ vittaṃ ca tatte dāsyāmi dānava /"
+        },
+        {
+          "ref": null,
+          "body": "andhaka uvāca: na cāhaṃ kāmaye vittaṃ na gajān na turaṃgamān //"
+        },
+        {
+          "ref": null,
+          "body": "kenāvamānitās sarve tatsarvaṃ me nivedyatām /"
+        },
+        {
+          "ref": null,
+          "body": "devā ūcuḥ: anyako nāma nāmneti dānavo baladarpitaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "āśu rakṣaya deveśa tasmāt te śaraṇaṃ gatāḥ /"
+        },
+        {
+          "ref": null,
+          "body": "janārdana uvāca: svāgataṃ vo mahābhāgā bruvatāṃ caiva svāgatam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe 'ndhakopākhyāne caturaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "dṛṣṭvā gadādharaṃ devaṃ sāṣṭāṅgaṃ praṇato bhuvi /"
+        },
+        {
+          "ref": null,
+          "body": "andhaka uvāca: jaya kṛṣṇa parastvaṃ hi viṣṇo jiṣṇo namo namaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "guṇānāṃ hi vidhānāya namaste 'stu punaḥ punaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "deva uvāca: tuṣṭo hy ahaṃ dānavendra varaṃ vṛṇu yathepsitam //"
+        },
+        {
+          "ref": null,
+          "body": "dadāmi te varaṃ cādya yācamānasya sāmpratam /"
+        },
+        {
+          "ref": null,
+          "body": "andhaka uvāca: yadi tuṣṭo 'si me deva varaṃ dātum ihecchasi //"
+        },
+        {
+          "ref": null,
+          "body": "tadā dadasva me deva yuddhaṃ paramaśobhanam /"
+        },
+        {
+          "ref": null,
+          "body": "śrībhagavān uvāca: kathaṃ dadāmi te yuddhaṃ toṣito 'haṃ tvayā punaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "tarhi tvaṃ gaccha śīghraṃ vai devaṃ prati maheśvaram /"
+        },
+        {
+          "ref": null,
+          "body": "andhaka uvāca: prasādāt tasya devasya vijayī bhuvanatraye //"
+        },
+        {
+          "ref": null,
+          "body": "kiṃ vā yugakṣayo deva tan mamākhyātum arhasi /"
+        },
+        {
+          "ref": null,
+          "body": "maheśvara uvāca: kasyaiṣā durmatir jātā 'pi pārśvacarasya nu //"
+        },
+        {
+          "ref": null,
+          "body": "dānavaś cāndhakaḥ prāha antarikṣacaras tathā /"
+        },
+        {
+          "ref": null,
+          "body": "andhaka uvāca: jayadeva jagannātha umāṅgārdhaśarīrabhṛt //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe 'ndhakavarapradāno nāma pañcāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śūlabhedotpattirnāma ṣaḍaśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "rājasaṃ tāmasaṃ vāpi niḥśreyasam athāpi vā /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: sarveṣām eva dānānāṃ kanyādānaṃ viśiṣyate //"
+        },
+        {
+          "ref": null,
+          "body": "cāndrāyaṇena śuddhaḥ syāt taptakṛcchram athāpi vā /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: vittaṃ na vidyate yasya kanyodvāhe 'vatiṣṭhati //"
+        },
+        {
+          "ref": null,
+          "body": "kathaṃ codvāhanaṃ kuryād etad ācakṣva me prabho /"
+        },
+        {
+          "ref": null,
+          "body": "deva uvāca: svavittenānukartavyaṃ kanyodvāhanam eva ca //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe dānamahimānuvarṇanaṃ nāma saptāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śūlabhedamahimānukathanaṃ nāmāṣṭāśītitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "hā hā kaṣṭaṃ kṛtaṃ me 'dya yenāsau ghātito mayā /"
+        },
+        {
+          "ref": null,
+          "body": "brāhmaṇa uvāca: na te siddhir bhavet kiṃcin mayi pañcatvam āgate //"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: nāhaṃ vipro na vaiśyo 'haṃ na śūdraḥ kṣatriyo hy aham /"
+        },
+        {
+          "ref": null,
+          "body": "śṛṅgyuvāca: māṃ gṛhītvāśramaṃ puṇyaṃ yatra tau pitarau mama //"
+        },
+        {
+          "ref": null,
+          "body": "dṛṣṭimārge sthitas tasya brahmarṣer bhāvitātmanaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "dīrghatapā uvāca: āgaccha svāgataṃ te 'dya āsane upaviśyatām //"
+        },
+        {
+          "ref": null,
+          "body": "dīrghatapāsmy ahaṃ te 'dya madhuparkaḥ saviṣṭaraḥ /"
+        },
+        {
+          "ref": null,
+          "body": "rājovācā: arghasyaiva na yogyo 'haṃ maharṣer bhāvitātmanaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "viprā ūcuḥ: narmadādakṣiṇe kūle gato drakṣyasi nānyathā //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe dīrghatapākhyāno nāmaikonanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kare dhṛtvā tu rājānaṃ rudro vacanam abravīt /"
+        },
+        {
+          "ref": null,
+          "body": "hara uvāca: prāṇatyāgaṃ mahārāja akāle mā kuruṣva ha //"
+        },
+        {
+          "ref": null,
+          "body": "bhuṅkṣva niṣkaṇṭakaṃ rājyaṃ nākaṃ śakra ivāparaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "citrasena uvāca: na rājyaṃ kāmaye deva na putrān na ca bāndhavān //"
+        },
+        {
+          "ref": null,
+          "body": "svargaprāptir mamādyaiva tvatprasādān maheśvara /"
+        },
+        {
+          "ref": null,
+          "body": "deva uvāca: yasyāgrato bhaved viṣṇurbrahmā rudras tathaiva ca //"
+        },
+        {
+          "ref": null,
+          "body": "yathepsitaṃ mahārāja satyam etanna saṃśayaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "citrasena uvāca: yadi tuṣṭās trayo devā brahmaviṣṇumaheśvarāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "gaṇānām iha sarveṣām avadhyo 'haṃ sureśvara /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: adya prabhṛti tiṣṭhāma śūlabhede nareśvara //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe citrasenakathāvarṇano nāma navatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "alpasyaiva tu dānasya tasya cānto na vidyate /"
+        },
+        {
+          "ref": null,
+          "body": "uttānapāda uvāca: kāni dānāni śastāni deveśa dharaṇītale //"
+        },
+        {
+          "ref": null,
+          "body": "vratopavāsani yamair yat prāpyaṃ tad vadasva me /"
+        },
+        {
+          "ref": null,
+          "body": "śrībhagavān uvāca: āsīt purā mahāvīryaścedinātho mahābalaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "parasparaṃ vivadatos tacchrutvā kanyakā 'bravīt /"
+        },
+        {
+          "ref": null,
+          "body": "bhānumaty uvāca: na vrīḍāmi tavāgre 'haṃ jvalantī dāhakenaca //"
+        },
+        {
+          "ref": null,
+          "body": "na mayā varjitaṃ bhadre pāpavṛddhyā 'śubhaṃ kṛtam /"
+        },
+        {
+          "ref": null,
+          "body": "śabary uvāca: na pūrvaṃ tu mayā svāmin bhuktaṃ tasmiṃs tu vāsare //"
+        },
+        {
+          "ref": null,
+          "body": "arcāṃ kuru yathānyāyaṃ vāsudevaṃ jagatpatim /"
+        },
+        {
+          "ref": null,
+          "body": "rājñī uvāca: vinā mūlyaṃ na gṛhṇāmi kamalāni tavādhunā //"
+        },
+        {
+          "ref": null,
+          "body": "śabara uvāca: nāhāraṃ cintayāmyadya muktvā devaṃ varānane //"
+        },
+        {
+          "ref": null,
+          "body": "devakāryaṃ vinā bhadre nānyābuddhiḥ pravartate /"
+        },
+        {
+          "ref": null,
+          "body": "rājñī uvāca: na tvayānnaṃ parityājyaṃ sarvamanne pratiṣṭhitam //"
+        },
+        {
+          "ref": null,
+          "body": "te maddvāre sthitāḥ sarve yācante te 'nnakāṅkṣiṇaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "śabara uvāca: niṣedho 'dhikṛtaḥ pūrvaṃ mayā satyaṃ na saṃśayaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "pratigraheṇa yal labdhaṃ niṣphalaṃ tad vidurbudhāḥ /"
+        },
+        {
+          "ref": null,
+          "body": "purohita uvāca: gṛhāṇa rājñi puṣpāṇi pūjāṃ kuru janārdane //"
+        },
+        {
+          "ref": null,
+          "body": "uvāca śabaro bhāryāṃ yac chṛṇuṣva narādhipa /"
+        },
+        {
+          "ref": null,
+          "body": "śabara uvāca: purāṇaṃ paṭhitaṃ bhadre brāhmaṇair vedapāragaiḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śabarasvargārohaṇaṃ nāmaikanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe bhānumatīsvargārohaṇaṃ nāma dvinavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kandamūlaphalaṃ śākaṃ sukhaṃ sarvasaṃśritam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: paṭhanti ye stotram idaṃ narendra śṛṇvanti bhaktyā parayaā prapannāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "te dṛṣṭā brāhmaṇaiḥ sarvair vedavedāṅgapāragaiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "viprā ūcuḥ: dinānte ca striyor yugmaṃ dṛṣṭaṃ raudraṃ bhayāvaham //"
+        },
+        {
+          "ref": null,
+          "body": "teṣu saṅgheṣu yatproktaṃ tatsarvaṃ kathayāmi te /"
+        },
+        {
+          "ref": null,
+          "body": "puruṣā ūcuḥ: tīrthāvagāhanaṃ sarvaiḥ pūrvapaścimadakṣiṇe //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe 'rkatīrthamahimānuvarṇano nāma trinavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: puṇyā gatiḥ kathaṃ tāta etat kathaya tattvataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: purā kṛtayugasyādau brahmālokapitāmahaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe ādityeśvaratīrthakīrtano nāma caturnavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tasya pāpaṃ praṇaśyeta ṣaṇmāsena tu yatkṛtam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: tato gacchet tu rājendra kumāreśvaram uttamam //"
+        },
+        {
+          "ref": null,
+          "body": "narmadātaṭam āśritya tatsarvaṃ kathayasva me /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: mahāpraśno mahārāja paripṛṣṭaś ca yas tvayā //"
+        },
+        {
+          "ref": null,
+          "body": "tataḥ sarve gatās tatra yatrāsau kamalāsanaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "bṛhaspatir uvāca: brahman nirlambanā jātā daityabhārād vasundharā //"
+        },
+        {
+          "ref": null,
+          "body": "sarvasattvopakārāya sṛṣṭis tvayi jagatpate /"
+        },
+        {
+          "ref": null,
+          "body": "pitāmaha uvāca: kartā 'smi sarvajagatām ayonikalaśodbhavaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "guruṃ netrasahasreṇa prerayāmāsa vṛtrahā /"
+        },
+        {
+          "ref": null,
+          "body": "vākpatir uvāca: tvayā pūrvaṃ mahābhāga devakāryārthasiddhaye //"
+        },
+        {
+          "ref": null,
+          "body": "vardhanaṃ parvatasyāsya vārayāmi na saṃśayaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "devā ūcuḥ: yāmyāṃ gatvā suraiḥ sārdhaṃ draṣṭavyo yaṃ na saṃśayaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "ādeśo dīyatāṃ tāta tava preṣyo dvijottama /"
+        },
+        {
+          "ref": null,
+          "body": "agastya uvāca: devakāryavighātaṃ ca kauśika tvaṃ visarjaya //"
+        },
+        {
+          "ref": null,
+          "body": "tadā tvaṃ varjayeḥ sarvam unmārgasya pravartanam /"
+        },
+        {
+          "ref": null,
+          "body": "viśvāmitra uvāca: gurur ātmavatāṃ śāstā rājā śāstā durātmanām //"
+        },
+        {
+          "ref": null,
+          "body": "pratyakṣo dvādaśe varṣe saṅgataḥ pārvatīpatiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: sādhu sādhu muniśreṣṭha tapasā dyotitaṃ nabhaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "naite paśyanti tvad rūpaṃ dhātardeva namo 'stu te /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: prasannas tava viprendra ūrdhvaretas tv ayonija //"
+        },
+        {
+          "ref": null,
+          "body": "tava bhaktigṛhīto 'haṃ prasanna umayā saha /"
+        },
+        {
+          "ref": null,
+          "body": "agastya uvāca: yadi tuṣṭo 'si deveśa yadi deyo varo mama //"
+        },
+        {
+          "ref": null,
+          "body": "puṣpāṇi vavṛṣurdevā jayaśabdaṃ punaḥ punaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: tasya tīrthasya yatpuṇyaṃ kathyatāṃ munisuvrata //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe 'gastyatīrthavarṇano nāma pañcanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tattīrthaṃ kathayiṣyāmi sūryapāpakṣayaṃ karam /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: ānandaś caiva saṃjāto rudrasya dvijasattama //"
+        },
+        {
+          "ref": null,
+          "body": "kathayasva mahābhāga saṃkṣepān munisattama /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: kathayāmi nṛpaśreṣṭha ānandeśvaram uttamam //"
+        },
+        {
+          "ref": null,
+          "body": "tadahaṃ śrotum icchāmi tava vākyād dvijottama /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: āścaryabhūtā loke 'smin pratiṣṭhā pāṇḍunandana //"
+        },
+        {
+          "ref": null,
+          "body": "nivedya keśavaṃ sarvaṃ tasminn eva nyalīyata /"
+        },
+        {
+          "ref": null,
+          "body": "keśava uvāca: hanmy ahaṃ taṃ mahādeva duṣṭaṃ daityajaneśvaram //"
+        },
+        {
+          "ref": null,
+          "body": "trailokyasvāminī tvaṃ ca prasīda mama sundari /"
+        },
+        {
+          "ref": null,
+          "body": "śrīkṛṣṇa uvāca: yadi māṃ manyase bhāryāṃ pratyayaś ca bhaven mama //"
+        },
+        {
+          "ref": null,
+          "body": "stryuvāca: kuruṣva tvaṃ mahābhāga śiro haste pradīyatām /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: kāmāndhenaiva rājendra nikṣipto mastake karaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe bhasmāsuravadho nāma ṣaṇṇavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "sa yāti bhāskaraṃ lokaṃ sarvaduḥkhavivarjitaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: ahaṃ te kathayiṣyāmi cetihāsaṃ purātanam //"
+        },
+        {
+          "ref": null,
+          "body": "dhāvamānam aviśrāntaṃ javena mānasopamam /"
+        },
+        {
+          "ref": null,
+          "body": "kadrūr uvāca: katham etat tu tanvaṅgi kṛṣṇaṃ jalpasi pāṇḍuram //"
+        },
+        {
+          "ref": null,
+          "body": "asatyaṃ bhāṣitaṃ bhadre yamalokaṃ gamiṣyasi /"
+        },
+        {
+          "ref": null,
+          "body": "vinatovāca: satyānṛte tu vacane paṇo 'yaṃ me 'stu te 'dhunā //"
+        },
+        {
+          "ref": null,
+          "body": "upakārāya lokānāṃ mama nāmnā ca śaṅkara /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: sthāpaya svaparaṃ liṅgamājñayā mama pannaga //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe maṇināgatīrthavarṇano nāma saptanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "godehān niḥsṛtaṃ liṅgaṃ puṇyaṃ bhūmitale nṛpa /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: godehāt niḥsṛtaṃ kasmāl liṅgaṃ pāpakṣayaṃ karam //"
+        },
+        {
+          "ref": null,
+          "body": "tasmiṃs tīrthe tu yo rājan vṛṣaṃ caiva samutsṛjet /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: vṛṣotsarge kṛte tāta yatphalaṃ bhavate nṛṇām //"
+        },
+        {
+          "ref": null,
+          "body": "tatsarvaṃ kathayasvādya prayatnena dvijottama /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: sarvalakṣaṇasampanne vṛṣe caiva tu yatphalam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe gopāleśvaramahimānuvarṇano nāmāṣṭanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "tīrthānāṃ paramaṃ tīrthaṃ svayaṃ rudreṇa bhāṣitam /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: dakṣiṇe narmadākūle tīrthaṃ paramaśobhanam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe śaṅkhacūḍatīrthamahimānuvarṇano nāma navanavatitamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe parāśaratīrthamahimānuvarṇano nāma śatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "nārada uvāca: tvatprasādena bho deva yogaś caiva prasidhyatu /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: yogo bhavatu bhaktis te sarvakālaṃ mamaiva tu //"
+        },
+        {
+          "ref": null,
+          "body": "ṣoḍaśābdāni tuṣyanti nātra kāryā vicāraṇā /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: tato gacchet tu rājendra nanditīrtham anuttamam //"
+        },
+        {
+          "ref": null,
+          "body": "tatas tuṣṭo mahādevo nandinaṃ tamuvāca ha /"
+        },
+        {
+          "ref": null,
+          "body": "maheśvara uvāca: bho bhoḥ prasanno nandīśa varaṃ vṛṇu yathepsitam //"
+        },
+        {
+          "ref": null,
+          "body": "tapasā tena tuṣṭo 'haṃ tīrthayātrākṛtena ca /"
+        },
+        {
+          "ref": null,
+          "body": "nandy uvāca: na cāhaṃ kāmaye vittaṃ na cāhaṃ kulasantatim //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe nanditīrthavarṇano nāmaikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe tīrthapañcakavarṇano nāma dvyadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "bhairavasyāsanaṃ puṇyaṃ na gantā 'si mahābala /"
+        },
+        {
+          "ref": null,
+          "body": "hanumān uvāca: nandiṃs tvaṃ hi varaṃ yaccha pātakasyopaśāntaye //"
+        },
+        {
+          "ref": null,
+          "body": "bhūtvā niṣpātako 'haṃ vai praṇamāmi maheśvaram /"
+        },
+        {
+          "ref": null,
+          "body": "nandy uvāca: rudradehodbhavā puṇyā narmadā saritāṃ varā //"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: varaṃ prārthaya tvaṃ vatsa prārthitaṃ rabhasaṃ vada /"
+        },
+        {
+          "ref": null,
+          "body": "hanumān uvāca: brahmarakṣovadhāj jātā brahmahatyā maheśvara //"
+        },
+        {
+          "ref": null,
+          "body": "niṣpāpo 'haṃ bhaveyaṃ vai yuṣmat sambhāṣaṇena ca /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: narmadātīrthaṃ māhātmyadhyānayogaprabhāvataḥ //"
+        },
+        {
+          "ref": null,
+          "body": "brāhmaṇa uvāca: kānyakubjāt samāyātaḥ preṣito rājakanyayā /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: kathayasva prasādena kasmāt kāryād vada prabho //"
+        },
+        {
+          "ref": null,
+          "body": "asāre cādya saṃsāre kanyādānaṃ dadāmyaham /"
+        },
+        {
+          "ref": null,
+          "body": "kanyovācā: yasmin kāle hy ahaṃ lipse tasmin kāle pradīyatām //"
+        },
+        {
+          "ref": null,
+          "body": "putrīvākyena rājāsau vismayāviṣṭacetanaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "śikhaṇḍy uvāca: kathyatāṃ me mahābhāge bhāṣitaṃ hi tvayā katham //"
+        },
+        {
+          "ref": null,
+          "body": "sādhu sādhu nṛpaśreṣṭha vimānārohaṇaṃ kuru /"
+        },
+        {
+          "ref": null,
+          "body": "rājovāca: ūrdhvamārgaṃ na gacchāmi vipro yāvan na saṃsthitaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "upadeśaprado mahyaṃ garurūpo dvijottamaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "devā ūcuḥ: hanumadīśvare rājanye mṛtāḥ santi mānavāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe hanumadīśvaravarṇano nāma tryadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: varaṃ varaya bhadraṃ te yat te manasi vartate /"
+        },
+        {
+          "ref": null,
+          "body": "soma uvāca: dakṣaśāpena dagdho 'haṃ kṣīṇadeho maheśvara //"
+        },
+        {
+          "ref": null,
+          "body": "pāpapraśamanaṃ deva kuru sarvaṃ mamaiva tu /"
+        },
+        {
+          "ref": null,
+          "body": "maheśvara uvāca: bhavadbhaktigṛhīto 'haṃ tūṣṭaś caivomayā saha //"
+        },
+        {
+          "ref": null,
+          "body": "vṛkṣachāyāsthitaṃ kaṇṭhaṃ brāhmaṇo hi dadarśa ha /"
+        },
+        {
+          "ref": null,
+          "body": "brāhmaṇa uvāca: vanānte ca mayā dṛṣṭā bālā kamalalocanā //"
+        },
+        {
+          "ref": null,
+          "body": "vṛkṣārūḍhāvadad vākyaṃ bhartāraṃ preṣayasva mām /"
+        },
+        {
+          "ref": null,
+          "body": "kaṇṭha uvāca: kasmin sthāne tu viprendra tiṣṭhate mṛgalocanā //"
+        },
+        {
+          "ref": null,
+          "body": "kasya sā kena kāryeṇa etat sarvaṃ vada hi me /"
+        },
+        {
+          "ref": null,
+          "body": "brāhmaṇa uvāca: saṃgamād ardhakrośe ca udyānānte praśobhite //"
+        },
+        {
+          "ref": null,
+          "body": "tasya vākyena rājāsau papāta dharaṇītale /"
+        },
+        {
+          "ref": null,
+          "body": "bhṛtya uvāca: kasmāt tvaṃ śocase nātha pūrvajātaṃ śūbhāśubham //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe somanāthatīrthamahimānuvarṇano nāma caturadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "havyavāhena rājendra sthāpitaḥ piṅgaleśvaraḥ /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: havyavāhena viprendra sthāpitaś ceśvaraḥ katham //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe kapileśvaramahimānuvarṇano nāma pañcādhikaśatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kimarthaṃ bodhito brahman samastaiś ca surāsuraiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "brahmovāca: nalameghabhayeneha samprāptās tava mandiram //"
+        },
+        {
+          "ref": null,
+          "body": "balādānaya taṃ baddhvā mamāgre balaśālinam /"
+        },
+        {
+          "ref": null,
+          "body": "dhundhumāra uvāca: ānayāmi na sandehaḥ surapakṣāṃś ca sāmpratam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe cakratīrthamāhātmyavarṇano nāma ṣaḍadhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe candrādityeśvaramahimānuvarṇano nāma saptādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe yamahāsamahimānuvarṇano nāmāṣṭādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "daṇḍahastaṃ jaṭāyuktamuttarīyavibhūṣitam /"
+        },
+        {
+          "ref": null,
+          "body": "parāśara uvāca: mā bhaiṣīstvaṃ suto jātaḥ kanyaiva tvaṃ bhaviṣyasi //"
+        },
+        {
+          "ref": null,
+          "body": "atītānāgatajñānaṃ tvatprasādān maheśvara /"
+        },
+        {
+          "ref": null,
+          "body": "īśvara uvāca: evaṃ bhavatu te vipra matpasādāt na saṃśayaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "paraṃ vai bhoktukāmāś ca tava śraddhāviśeṣataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "vyāsa uvāca: karomi bhavatāṃ yuktam atraiva sthīyatāṃ kṣaṇam //"
+        },
+        {
+          "ref": null,
+          "body": "stutā ca narmadādevī tato vacanam abravīt /"
+        },
+        {
+          "ref": null,
+          "body": "narmadovāca: stutivādena tuṣṭāsmi bho bho vyāsamahāmune //"
+        },
+        {
+          "ref": null,
+          "body": "yam icchasi varaṃ samyak taṃ te sarvaṃ dadāmy aham /"
+        },
+        {
+          "ref": null,
+          "body": "vyāsa uvāca: yadi tuṣṭāsi me devi yadi deyo varo mama //"
+        },
+        {
+          "ref": null,
+          "body": "ātithyam uttare kūle mama dātuṃ tvam arhasi /"
+        },
+        {
+          "ref": null,
+          "body": "narmadovāca: ayuktaṃ cintitaṃ vyāsa amārge tvaṃ pravartase //"
+        },
+        {
+          "ref": null,
+          "body": "sacetanaḥ satyavatī suto 'yaṃ nanāma devaiḥ saha narmadāntaiḥ /"
+        },
+        {
+          "ref": null,
+          "body": "vyāsa uvāca: tīrthaṃ samastaṃ tvayi devatānāṃ phalaṃ pradiṣṭaṃ mama mandabhāgyam //"
+        },
+        {
+          "ref": null,
+          "body": "kiṃ kurmo 'tra mahimnā te karmaṇā te varaṃ jitāḥ /"
+        },
+        {
+          "ref": null,
+          "body": "vyāsa uvāca: tapaḥ kṛtvā suvipulaṃ dānaṃ dattvā mahatphalam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe dvīpeśvaravyāsatīrthavarṇano nāma navādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "alabdhasaukhyā bhartuś ca tena kliśye maheśvara /"
+        },
+        {
+          "ref": null,
+          "body": "deva uvāca: vallabhā bhāskarasya tvaṃ matprabhāvād bhaviṣyasi //"
+        },
+        {
+          "ref": null,
+          "body": "bhānur uvāca: kasmād āhvānito deva andhakāsuranāśana /"
+        },
+        {
+          "ref": null,
+          "body": "deva uvāca: prabhāṃ pālaya he bhāno santoṣeṇa pareṇa ca //"
+        },
+        {
+          "ref": null,
+          "body": "svāṃśena sthīyatām atra tīrthamunmīlayānagha /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: sarvadevam ayaṃ liṅgaṃ sthāpitaṃ pāṇḍunandana //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe prabhāsatīrthamahimānuvarṇano nāma daśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "evam ākhyātavān asmi tava snehād viśeṣataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: tato gacchec ca rājendra mārkaṇḍeśvaram uttamam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe mārkaṇḍeśvaramahimānuvarṇano nāmaikādaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe manmatheśvaramahimānuvarṇanonāma dvādaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "kathayāmāsa tatsarvam ṛṣisaṅghaiḥ samāvṛtaḥ /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: kathitaṃ comayā pūrvaṃ śambhunā parameṣṭhinā //"
+        },
+        {
+          "ref": null,
+          "body": "tat te 'haṃ sampravakṣyāmi śrūyatāṃ bhrātṛbhiḥ saha /"
+        },
+        {
+          "ref": null,
+          "body": "maheśvara uvāca: atrir nāmāhvayo deva mānaso brahmaṇaḥ sutaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "vadataḥ sukhaduḥkhāni daivadattāni yāni ca /"
+        },
+        {
+          "ref": null,
+          "body": "atrir uvāca: saumye śubhe priye kānte surūpe priyabhāṣiṇi //"
+        },
+        {
+          "ref": null,
+          "body": "ānanditā tu sā devī dṛṣṭvaitān mahāvrata /"
+        },
+        {
+          "ref": null,
+          "body": "anasūyovāca: kiṃ vyāpārāś ca ke yūyaṃ viṣṇurudrapitāmahāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "tad ahaṃ śrotum icchāmīmaṃ praśnaṃ kathayantu te /"
+        },
+        {
+          "ref": null,
+          "body": "brahmovāca: prāvṛṭkālo hy ahaṃ prokta āpaś caiva prakīrtitaḥ //"
+        },
+        {
+          "ref": null,
+          "body": "etasmāt kāraṇād bhāvarahasyaṃ kathitaṃ mayā /"
+        },
+        {
+          "ref": null,
+          "body": "viṣṇur uvāca: hemantatvāc ca vihitaṃ viṣṇurūpaṃ carācaram //"
+        },
+        {
+          "ref": null,
+          "body": "pālanīyaṃ jagat sarvaṃ viṣṇor māhātmyam uttamam /"
+        },
+        {
+          "ref": null,
+          "body": "rudra uvāca: grīṣmakālo hy ahaṃ proktaḥ sarvabhūtakṣayaṃkaraḥ //"
+        },
+        {
+          "ref": null,
+          "body": "varaṃ dadāmi te bhadre yat te manasi vartate /"
+        },
+        {
+          "ref": null,
+          "body": "anasūyovāca: vandhyā lokair ahaṃ loke khyāpyamānā ca sarvadā //"
+        },
+        {
+          "ref": null,
+          "body": "asmiṃs tīrthe tu sānnidhyaṃ varaṃ dadatu me 'dhunā /"
+        },
+        {
+          "ref": null,
+          "body": "devā ūcuḥ: evaṃ bhavatu te vākyaṃ yat tvayā prārthitaṃ śubhe //"
+        },
+        {
+          "ref": null,
+          "body": "pratyakṣā vaiṣṇavī māyā eraṇḍī caiva nāmataḥ /"
+        },
+        {
+          "ref": null,
+          "body": "anasūyovāca: yadi tuṣṭās trayo devā mama bhaktiprabodhitāḥ //"
+        },
+        {
+          "ref": null,
+          "body": "mama putrā bhavantv atra harirudrapitāmahāḥ /"
+        },
+        {
+          "ref": null,
+          "body": "viṣṇur uvāca: arthadāḥ putratāṃ yānti na kadācic chrutaṃ mayā //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe eraṇḍītīrthamahimānuvarṇano nāma trayodaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "snātvā dattvā ca subhagā na priyeṇa viyujyate /"
+        },
+        {
+          "ref": null,
+          "body": "yudhiṣṭhira uvāca: na daurbhāgyaṃ na dāridryaṃ na śoko na ca durgatiḥ //"
+        },
+        {
+          "ref": null,
+          "body": "etat sarvaṃ bhaved yena tatsarvaṃ kathayasva me /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: daurbhāgyaṃ durgatiṃ caiva dāridryaṃ śokavardhanam //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe saubhāgyatīrthamahimānuvarṇano nāma caturdaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe cakratīrthamahimānuvarṇano nāma pañcadaśādhika śatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "RKS adhyāya"
+        },
+        {
+          "ref": null,
+          "body": "nandinī nalinī puṇyā sarvam arghaṃ dadus tadā /"
+        },
+        {
+          "ref": null,
+          "body": "narmadovāca: madīye saṅgame divye snātvā santarpayanti ye //"
+        },
+        {
+          "ref": null,
+          "body": "narmadovāca: pavitro 'si mahābhāga ekākī tvaṃ mahodadhe /"
+        },
+        {
+          "ref": null,
+          "body": "mārkaṇḍeya uvāca: evaṃ bhagavatī rājan narmadā mekalā śubhā //"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇe revākhaṇḍe yudhiṣṭhiramārkaṇḍeyasaṃvāde narmadācaritravarṇano nāma ṣoḍaśādhikaśatatamo 'dhyāyaḥ ||"
+        },
+        {
+          "ref": null,
+          "body": "iti śrīskandapurāṇasya revākhaṇḍaḥ ||"
+        }
+      ]
+    },
+    {
+      "chapter_num": 39,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "RKS_39.36",
+          "body": "// [Gap in Original] uktāni ca niṣiddhāni dharmādharmavicāraṇe / lokoktaṃ vihitaṃ karma trayī mārgaṃ vicāritam //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 54,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "RKS_54.23",
+          "body": "// [steht so dort] godānaṃ hemadānaṃ ca tiladānaṃ tathaiva ca / annadānaṃ payodānaṃ sarvopaskaram eva ca //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 78,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": "78",
+          "body": "atha aṣṭasaptatitamo 'dhyāyaḥ"
+        }
+      ]
+    }
+  ]
+}

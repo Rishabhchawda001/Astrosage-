@@ -1,0 +1,79 @@
+{
+  "file": "isha_upanishad_gretil_prose.json",
+  "title": "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+  "status": "certified",
+  "total_akus": 90,
+  "certified_akus": 90,
+  "issues": [],
+  "class_distribution": {
+    "translation": 8,
+    "metadata": 2,
+    "unknown": 2,
+    "mantra": 2,
+    "commentary": 25,
+    "prose": 35,
+    "verse": 14,
+    "critical_apparatus": 1,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 76,
+      "certified": 76,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 13,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 11,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 17,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 22,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 21,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 16,
+      "total": 5,
+      "certified": 5,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

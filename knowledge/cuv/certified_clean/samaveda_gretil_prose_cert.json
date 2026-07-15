@@ -1,0 +1,1710 @@
+{
+  "file": "samaveda_gretil_prose.json",
+  "title": "Sāmavedasaṃhitā",
+  "status": "certified",
+  "total_akus": 3789,
+  "certified_akus": 3789,
+  "issues": [],
+  "class_distribution": {
+    "verse": 1,
+    "prose": 3020,
+    "heading": 28,
+    "metadata": 448,
+    "translation": 227,
+    "unknown": 24,
+    "commentary": 36,
+    "mantra": 5
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 56,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ārcikaḥ",
+          "start": "āgneyaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "prathama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "dvitīya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kāṇḍam",
+          "start": "dvitīya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "tṛtīya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "tṛtīya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "caturtha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "caturtha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "pañcama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "pañcama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kāṇḍam",
+          "start": "ṣaṣṭha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "ṣaṣṭha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "kāṇḍam",
+          "start": "mahānāmnya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "dvitīya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "dvitīya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "tṛtīya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "samīcīnā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "caturtha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "caturtha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "pañcama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "pañcama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "ṣaṣṭha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "ṣaṣṭha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "ṣaṣṭha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "saptama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "saptama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "saptama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "āṣṭama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "āṣṭama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "āṣṭama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "navama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "navama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'rdhaḥ",
+          "start": "navama"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 440,
+      "certified": 51,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "01a",
+          "end": "indrāgnī",
+          "start": "pibataṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 101,
+      "total": 35,
+      "certified": 35,
+      "issues": []
+    },
+    {
+      "chapter": 102,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 433,
+      "certified": 433,
+      "issues": []
+    },
+    {
+      "chapter": 103,
+      "total": 32,
+      "certified": 32,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 395,
+      "certified": 66,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "03a",
+          "end": "avatīmiṣam",
+          "start": "īśānaḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "03a",
+          "end": "jyotiṣā",
+          "start": "rocanaṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 104,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 55,
+      "certified": 55,
+      "issues": []
+    },
+    {
+      "chapter": 105,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 5,
+      "total": 45,
+      "certified": 45,
+      "issues": []
+    },
+    {
+      "chapter": 106,
+      "total": 15,
+      "certified": 15,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 39,
+      "certified": 8,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "06a",
+          "end": "vacchiśīte",
+          "start": "nṛmṇā"
+        }
+      ]
+    },
+    {
+      "chapter": 107,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 7,
+      "total": 24,
+      "certified": 24,
+      "issues": []
+    },
+    {
+      "chapter": 108,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 8,
+      "total": 21,
+      "certified": 21,
+      "issues": []
+    },
+    {
+      "chapter": 109,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 9,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 110,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 201,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 11,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 202,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 12,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 203,
+      "total": 29,
+      "certified": 29,
+      "issues": []
+    },
+    {
+      "chapter": 13,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 204,
+      "total": 20,
+      "certified": 20,
+      "issues": []
+    },
+    {
+      "chapter": 205,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 206,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 207,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 208,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 209,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 210,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 301,
+      "total": 35,
+      "certified": 35,
+      "issues": []
+    },
+    {
+      "chapter": 302,
+      "total": 34,
+      "certified": 34,
+      "issues": []
+    },
+    {
+      "chapter": 303,
+      "total": 30,
+      "certified": 30,
+      "issues": []
+    },
+    {
+      "chapter": 304,
+      "total": 16,
+      "certified": 16,
+      "issues": []
+    },
+    {
+      "chapter": 305,
+      "total": 16,
+      "certified": 16,
+      "issues": []
+    },
+    {
+      "chapter": 306,
+      "total": 16,
+      "certified": 16,
+      "issues": []
+    },
+    {
+      "chapter": 307,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 308,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 309,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 310,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 311,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 312,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 313,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 314,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 401,
+      "total": 36,
+      "certified": 36,
+      "issues": []
+    },
+    {
+      "chapter": 402,
+      "total": 34,
+      "certified": 34,
+      "issues": []
+    },
+    {
+      "chapter": 403,
+      "total": 26,
+      "certified": 26,
+      "issues": []
+    },
+    {
+      "chapter": 404,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 405,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 406,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 407,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 408,
+      "total": 14,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 408,
+          "aku_ref": "0408c",
+          "end": "viddhī",
+          "start": "vayaṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 409,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 410,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 501,
+      "total": 35,
+      "certified": 35,
+      "issues": []
+    },
+    {
+      "chapter": 502,
+      "total": 34,
+      "certified": 34,
+      "issues": []
+    },
+    {
+      "chapter": 503,
+      "total": 29,
+      "certified": 29,
+      "issues": []
+    },
+    {
+      "chapter": 504,
+      "total": 15,
+      "certified": 15,
+      "issues": []
+    },
+    {
+      "chapter": 505,
+      "total": 15,
+      "certified": 15,
+      "issues": []
+    },
+    {
+      "chapter": 506,
+      "total": 16,
+      "certified": 16,
+      "issues": []
+    },
+    {
+      "chapter": 507,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 508,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 509,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 510,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 601,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 602,
+      "total": 29,
+      "certified": 2,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 602,
+          "aku_ref": "0602a",
+          "end": "vṛjanā",
+          "start": "tvayā"
+        }
+      ]
+    },
+    {
+      "chapter": 603,
+      "total": 21,
+      "certified": 21,
+      "issues": []
+    },
+    {
+      "chapter": 604,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 605,
+      "total": 11,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 605,
+          "aku_ref": "0605a",
+          "end": "maghonām",
+          "start": "yuktā"
+        }
+      ]
+    },
+    {
+      "chapter": 606,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 607,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 608,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 701,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 702,
+      "total": 31,
+      "certified": 31,
+      "issues": []
+    },
+    {
+      "chapter": 703,
+      "total": 24,
+      "certified": 24,
+      "issues": []
+    },
+    {
+      "chapter": 704,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 705,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 706,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 707,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 708,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 709,
+      "total": 9,
+      "certified": 9,
+      "issues": []
+    },
+    {
+      "chapter": 710,
+      "total": 9,
+      "certified": 9,
+      "issues": []
+    },
+    {
+      "chapter": 801,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 802,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 803,
+      "total": 26,
+      "certified": 26,
+      "issues": []
+    },
+    {
+      "chapter": 804,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 805,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 806,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 807,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 808,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 901,
+      "total": 34,
+      "certified": 34,
+      "issues": []
+    },
+    {
+      "chapter": 902,
+      "total": 28,
+      "certified": 28,
+      "issues": []
+    },
+    {
+      "chapter": 903,
+      "total": 25,
+      "certified": 25,
+      "issues": []
+    },
+    {
+      "chapter": 904,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 905,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 906,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 907,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 908,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 909,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 910,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 1001,
+      "total": 31,
+      "certified": 31,
+      "issues": []
+    },
+    {
+      "chapter": 1002,
+      "total": 31,
+      "certified": 31,
+      "issues": []
+    },
+    {
+      "chapter": 1003,
+      "total": 27,
+      "certified": 27,
+      "issues": []
+    },
+    {
+      "chapter": 1004,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 1005,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 1006,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 609,
+      "total": 9,
+      "certified": 9,
+      "issues": []
+    },
+    {
+      "chapter": 610,
+      "total": 7,
+      "certified": 7,
+      "issues": []
+    },
+    {
+      "chapter": 809,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 810,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 1007,
+      "total": 8,
+      "certified": 8,
+      "issues": []
+    },
+    {
+      "chapter": 1008,
+      "total": 8,
+      "certified": 8,
+      "issues": []
+    },
+    {
+      "chapter": 1009,
+      "total": 8,
+      "certified": 8,
+      "issues": []
+    },
+    {
+      "chapter": 211,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 212,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 213,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 214,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 1010,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 911,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 411,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 412,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 511,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 512,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 513,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 514,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 711,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 712,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 811,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 812,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 640,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 649,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 650,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 1101,
+      "total": 20,
+      "certified": 20,
+      "issues": []
+    },
+    {
+      "chapter": 1102,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 1103,
+      "total": 16,
+      "certified": 16,
+      "issues": []
+    },
+    {
+      "chapter": 1201,
+      "total": 20,
+      "certified": 20,
+      "issues": []
+    },
+    {
+      "chapter": 1202,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 1203,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 1301,
+      "total": 20,
+      "certified": 20,
+      "issues": []
+    },
+    {
+      "chapter": 1302,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 1303,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 1401,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    },
+    {
+      "chapter": 1402,
+      "total": 19,
+      "certified": 19,
+      "issues": []
+    },
+    {
+      "chapter": 1403,
+      "total": 19,
+      "certified": 19,
+      "issues": []
+    },
+    {
+      "chapter": 1501,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 1502,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 1503,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 1600,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 1701,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 1702,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 1703,
+      "total": 9,
+      "certified": 9,
+      "issues": []
+    },
+    {
+      "chapter": 1801,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 1802,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 1803,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 1901,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 1902,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 1903,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 2001,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 2002,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 2003,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 1601,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 1602,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 1603,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 1504,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 1505,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 2101,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 2102,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 2103,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 1804,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ārcikaḥ",
+      "start": "āgneyaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "prathama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "dvitīya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kāṇḍam",
+      "start": "dvitīya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "tṛtīya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "tṛtīya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "caturtha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "caturtha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "pañcama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "pañcama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kāṇḍam",
+      "start": "ṣaṣṭha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "ṣaṣṭha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "kāṇḍam",
+      "start": "mahānāmnya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "dvitīya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "dvitīya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "tṛtīya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "samīcīnā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "caturtha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "caturtha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "pañcama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "pañcama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "ṣaṣṭha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "ṣaṣṭha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "ṣaṣṭha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "saptama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "saptama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "saptama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "āṣṭama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "āṣṭama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "āṣṭama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "navama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "navama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'rdhaḥ",
+      "start": "navama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "01a",
+      "end": "indrāgnī",
+      "start": "pibataṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "03a",
+      "end": "avatīmiṣam",
+      "start": "īśānaḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "03a",
+      "end": "jyotiṣā",
+      "start": "rocanaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "06a",
+      "end": "vacchiśīte",
+      "start": "nṛmṇā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 408,
+      "aku_ref": "0408c",
+      "end": "viddhī",
+      "start": "vayaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 602,
+      "aku_ref": "0602a",
+      "end": "vṛjanā",
+      "start": "tvayā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 605,
+      "aku_ref": "0605a",
+      "end": "maghonām",
+      "start": "yuktā"
+    }
+  ],
+  "blocking_issues": 0
+}

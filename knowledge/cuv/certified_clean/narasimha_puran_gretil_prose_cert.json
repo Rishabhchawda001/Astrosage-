@@ -1,0 +1,29 @@
+{
+  "file": "narasimha_puran_gretil_prose.json",
+  "title": "Narasiṃhapurāṇa",
+  "status": "certified",
+  "total_akus": 124,
+  "certified_akus": 124,
+  "issues": [],
+  "class_distribution": {
+    "mantra": 2,
+    "heading": 4,
+    "verse": 109,
+    "commentary": 3,
+    "translation": 3,
+    "prose": 1,
+    "unknown": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 124,
+      "certified": 124,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

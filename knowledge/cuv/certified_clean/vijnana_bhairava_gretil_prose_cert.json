@@ -1,0 +1,26 @@
+{
+  "file": "vijnana_bhairava_gretil_prose.json",
+  "title": "Vijñānabhairava",
+  "status": "certified",
+  "total_akus": 12,
+  "certified_akus": 12,
+  "issues": [],
+  "class_distribution": {
+    "unknown": 7,
+    "verse": 3,
+    "commentary": 1,
+    "translation": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

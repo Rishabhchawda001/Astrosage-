@@ -1,0 +1,23 @@
+{
+  "file": "sa_brahmagupta-brAhmasphuTasiddhAnta_prose.json",
+  "title": "Brāhmasphuṭasiddhānta",
+  "status": "certified",
+  "total_akus": 26,
+  "certified_akus": 26,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 26
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 26,
+      "certified": 26,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

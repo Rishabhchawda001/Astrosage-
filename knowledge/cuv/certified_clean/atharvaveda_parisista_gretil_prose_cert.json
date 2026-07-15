@@ -1,0 +1,3038 @@
+{
+  "file": "atharvaveda_parisista_gretil_prose.json",
+  "title": "Atharvavedapariśiṣṭas",
+  "status": "mostly_certified",
+  "total_akus": 3728,
+  "certified_akus": 3724,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 104,
+    "mantra": 52,
+    "verse": 2660,
+    "prose": 167,
+    "colophon": 12,
+    "translation": 104,
+    "critical_apparatus": 16,
+    "commentary": 84,
+    "heading": 525,
+    "ocr_artifact": 4
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 466,
+      "certified": 466,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 297,
+      "certified": 262,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,13.1",
+          "end": "aśadvādaśe",
+          "start": "etāny"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,14.1",
+          "end": "atrayodaśe",
+          "start": "etāny"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,15.1",
+          "end": "aśadvādaśe",
+          "start": "etāny"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,16.1",
+          "end": "aśadvādaśe",
+          "start": "etāny"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,25.4",
+          "end": "kuryāt",
+          "start": "puṇyāhī"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,27.2",
+          "end": "aśleṣāsu",
+          "start": "etāni"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,28.1",
+          "end": "āgacchaty",
+          "start": "āvikair"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,28.2",
+          "end": "viśākhayor",
+          "start": "etāni"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,28.4",
+          "end": "bhavati",
+          "start": "khalakulai"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,29.1",
+          "end": "āgacchati",
+          "start": "jyeṣṭhaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,29.4",
+          "end": "bhavati",
+          "start": "vidalasūpe"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,30.1",
+          "end": "āgacchati",
+          "start": "śākaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,30.2",
+          "end": "abhyudiyād",
+          "start": "etāni"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,32.2",
+          "end": "yaikapaśoḥ",
+          "start": "ulūcī"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,32.5",
+          "end": "rāhmaṇayor",
+          "start": "eteṣāṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,32.10",
+          "end": "tikṛtyāsya",
+          "start": "sarvāś"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,33.1",
+          "end": "parimāṇāny",
+          "start": "uttarāsv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 1,
+          "aku_ref": "AVParis_1,34.1",
+          "end": "balayaḥ",
+          "start": "śukla"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 32,
+      "certified": 32,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 32,
+      "certified": 23,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "AVParis_3,1.3",
+          "end": "rohitādīny",
+          "start": "upayuktāni"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "AVParis_3,1.5",
+          "end": "dravyāṇīty",
+          "start": "ācāryapuro"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "AVParis_3,1.7",
+          "end": "parāśaro",
+          "start": "brahmā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "AVParis_3,1.8",
+          "end": "ivāprameyo",
+          "start": "nānyakulop"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "AVParis_3,1.9",
+          "end": "ulopayukto",
+          "start": "yasyānyaku"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "AVParis_3,1.14",
+          "end": "dadyāt",
+          "start": "koṭimadhyā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "AVParis_3,1.15",
+          "end": "bhāgam",
+          "start": "yathābhūmi"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 77,
+      "certified": 64,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "AVParis_4,2.1",
+          "end": "ājakarmāṇi",
+          "start": "viśvāvasau"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "AVParis_4,2.4",
+          "end": "kārādibhiḥ",
+          "start": "suvarṇaniṣ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "AVParis_4,2.7",
+          "end": "dadyād",
+          "start": "dhenuṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "AVParis_4,2.8",
+          "end": "cārogām",
+          "start": "aparimitag"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "AVParis_4,4.9",
+          "end": "ābadhya",
+          "start": "agnir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "AVParis_4,5.3",
+          "end": "abhigamya",
+          "start": "piṣṭamayīṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "AVParis_4,5.15",
+          "end": "niṣkramya",
+          "start": "evamevam"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 27,
+      "certified": 27,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 21,
+      "certified": 16,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "AVParis_6,1.2",
+          "end": "upalipya",
+          "start": "ahatavastr"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "AVParis_6,2.1",
+          "end": "visarjayet",
+          "start": "vanaspatir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "AVParis_6,2.3",
+          "end": "bhimantrya",
+          "start": "tryāyuṣam"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "AVParis_6,2.7",
+          "end": "niṣkramya",
+          "start": "evamevam"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 14,
+      "certified": 13,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "ca7apy",
+          "from": 13,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "total": 15,
+      "certified": 15,
+      "issues": []
+    },
+    {
+      "chapter": 9,
+      "total": 22,
+      "certified": 22,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 22,
+      "certified": 6,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.2",
+          "end": "upaiti",
+          "start": "yācitāradā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.3",
+          "end": "bhavato",
+          "start": "vratopacār"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.4",
+          "end": "atopacāram",
+          "start": "yathāśakty"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.9",
+          "end": "upasthāpya",
+          "start": "girayas"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.10",
+          "end": "avasthāpya",
+          "start": "hiraṇyaraj"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.13",
+          "end": "samudrān",
+          "start": "vanaspatiḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.15",
+          "end": "bhavati",
+          "start": "nidhiṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.16",
+          "end": "skārayitvā",
+          "start": "satyaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.17",
+          "end": "vācayet",
+          "start": "saṃsthāpay"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "AVParis_10,1.19",
+          "end": "dadyād",
+          "start": "dātur"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "total": 20,
+      "certified": 9,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.3",
+          "end": "vāpayitvā",
+          "start": "saṃbhārān"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.6",
+          "end": "ninayed",
+          "start": "athāsyendr"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.8",
+          "end": "iṣecayitvā",
+          "start": "yathoktam"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.9",
+          "end": "ābadhnīyāt",
+          "start": "tulāṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.10",
+          "end": "adārohayed",
+          "start": "acyutā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.11",
+          "end": "avarohayet",
+          "start": "sūryasyāvṛ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.12",
+          "end": "dadyāt",
+          "start": "sahasradak"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 11,
+          "aku_ref": "AVParis_11,1.13",
+          "end": "grāmavaram",
+          "start": "dvijān"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 10,
+      "certified": 4,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "AVParis_12,1.1",
+          "end": "dadyāt",
+          "start": "tasya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "AVParis_12,1.3",
+          "end": "saṃśrapya",
+          "start": "pātre"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "AVParis_12,1.4",
+          "end": "tvāpihitam",
+          "start": "saguḍājyas"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "AVParis_12,1.5",
+          "end": "takusumair",
+          "start": "viṣāsahim"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "AVParis_12,1.6",
+          "end": "nivedayet",
+          "start": "tatra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 12,
+          "aku_ref": "AVParis_12,1.7",
+          "end": "ślokāḥ",
+          "start": "anena"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "total": 52,
+      "certified": 21,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,1.1",
+          "end": "āpanodanam",
+          "start": "udagayana"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,1.4",
+          "end": "mantrayate",
+          "start": "tṛtīyayā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,1.5",
+          "end": "amādadhāti",
+          "start": "śucau"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,1.6",
+          "end": "kārayitvā",
+          "start": "agneḥ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,1.9",
+          "end": "sāpidhānam",
+          "start": "sruksruvāj"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,1.11",
+          "end": "juhoti",
+          "start": "hiraṇyagar"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,2.4",
+          "end": "snāpayitvā",
+          "start": "hiraṇyakal"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,2.5",
+          "end": "āsicya",
+          "start": "hiraṇyagar"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.1",
+          "end": "praveśayet",
+          "start": "trayastriṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.2",
+          "end": "anuśāsti",
+          "start": "vācaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.3",
+          "end": "hyāyasveti",
+          "start": "tatheti"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.6",
+          "end": "prajāpatiḥ",
+          "start": "prajāpater"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.7",
+          "end": "vijñāpayet",
+          "start": "tathaiva"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.8",
+          "end": "otthāpayed",
+          "start": "utthitaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.10",
+          "end": "uddhared",
+          "start": "uddhṛtaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.11",
+          "end": "apāsyet",
+          "start": "saṃpaśyamā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,3.16",
+          "end": "atiṣṭhante",
+          "start": "hiraṇyaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,4.2",
+          "end": "āvṛtya",
+          "start": "gṛhān"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,4.5",
+          "end": "dadyāt",
+          "start": "grāmavaraṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,4.7",
+          "end": "adasyebhyo",
+          "start": "yāvad"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,4.8",
+          "end": "dadyād",
+          "start": "yathākāmaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,4.9",
+          "end": "paricaret",
+          "start": "tatra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 13,
+          "aku_ref": "AVParis_13,4.10",
+          "end": "ślokāḥ",
+          "start": "vedānāṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "total": 16,
+      "certified": 14,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 14,
+          "aku_ref": "AVParis_14,1.1",
+          "end": "vakṣye",
+          "start": "jātarūpama"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "total": 7,
+      "certified": 3,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 15,
+          "aku_ref": "AVParis_15,1.4",
+          "end": "dattvā",
+          "start": "punantu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 15,
+          "aku_ref": "AVParis_15,1.6",
+          "end": "dhihomānte",
+          "start": "varāṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "total": 21,
+      "certified": 21,
+      "issues": []
+    },
+    {
+      "chapter": 17,
+      "total": 25,
+      "certified": 25,
+      "issues": []
+    },
+    {
+      "chapter": 18,
+      "total": 34,
+      "certified": 34,
+      "issues": []
+    },
+    {
+      "chapter": 19,
+      "total": 17,
+      "certified": 12,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 19,
+          "aku_ref": "AVParis_19,1.7",
+          "end": "hārayerann",
+          "start": "adbhutaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 19,
+          "aku_ref": "AVParis_19,1.8",
+          "end": "vidyād",
+          "start": "agnir"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "total": 45,
+      "certified": 43,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 20,
+          "aku_ref": "AVParis_20,3.4",
+          "end": "kalpayitvā",
+          "start": "indraḥ"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "total": 39,
+      "certified": 39,
+      "issues": []
+    },
+    {
+      "chapter": 22,
+      "total": 48,
+      "certified": 47,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 22,
+          "aku_ref": "AVParis_22,9.2",
+          "end": "ṇudasvety",
+          "start": "ājyaṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "total": 73,
+      "certified": 69,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 23,
+          "aku_ref": "AVParis_23,11.3",
+          "end": "ṛtvijāṃ",
+          "start": "khāte"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "total": 33,
+      "certified": 33,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "total": 17,
+      "certified": 17,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "total": 34,
+      "certified": 34,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "total": 11,
+      "certified": 11,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "total": 14,
+      "certified": 14,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "total": 52,
+      "certified": 52,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "total": 32,
+      "certified": 32,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "total": 52,
+      "certified": 47,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 33,
+          "aku_ref": "AVParis_33,1.6",
+          "end": "akarot",
+          "start": "puṇye"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 33,
+          "aku_ref": "AVParis_33,1.8",
+          "end": "akarot",
+          "start": "tasya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 33,
+          "aku_ref": "AVParis_33,1.10",
+          "end": "ajayad",
+          "start": "yathā"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "total": 9,
+      "certified": 9,
+      "issues": []
+    },
+    {
+      "chapter": 35,
+      "total": 28,
+      "certified": 28,
+      "issues": []
+    },
+    {
+      "chapter": 36,
+      "total": 99,
+      "certified": 99,
+      "issues": []
+    },
+    {
+      "chapter": 37,
+      "total": 49,
+      "certified": 40,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 37,
+          "aku_ref": "AVParis_37,9.3",
+          "end": "badhnīyāt",
+          "start": "samidho"
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "total": 20,
+      "certified": 20,
+      "issues": []
+    },
+    {
+      "chapter": 39,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 40,
+      "total": 53,
+      "certified": 43,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 40,
+          "aku_ref": "AVParis_40,1.9",
+          "end": "ndhodakair",
+          "start": "gandhapuṣp"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 40,
+          "aku_ref": "AVParis_40,1.11",
+          "end": "dyupahārān",
+          "start": "dakṣiṇena"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 40,
+          "aku_ref": "AVParis_40,1.12",
+          "end": "patiṣṭhate",
+          "start": "kaṭakakeyū"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 40,
+          "aku_ref": "AVParis_40,3.5",
+          "end": "juhuyād",
+          "start": "vāyave"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 40,
+          "aku_ref": "AVParis_40,6.7",
+          "end": "karoti",
+          "start": "vratam"
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "total": 53,
+      "certified": 41,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 41,
+          "aku_ref": "AVParis_41,1.8",
+          "end": "āsīnaḥ",
+          "start": "sāvitryant"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 41,
+          "aku_ref": "AVParis_41,2.1",
+          "end": "vīrāsanī",
+          "start": "pratyutthā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 41,
+          "aku_ref": "AVParis_41,2.2",
+          "end": "patiṣṭhate",
+          "start": "tiṣṭhan"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 41,
+          "aku_ref": "AVParis_41,2.3",
+          "end": "prāṅmukha",
+          "start": "āyātu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 41,
+          "aku_ref": "AVParis_41,2.4",
+          "end": "āvāhya",
+          "start": "gāyatraṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 41,
+          "aku_ref": "AVParis_41,5.6",
+          "end": "khyāsyāmaḥ",
+          "start": "prathamam"
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "total": 23,
+      "certified": 23,
+      "issues": []
+    },
+    {
+      "chapter": 43,
+      "total": 238,
+      "certified": 235,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 43,
+          "aku_ref": "AVParis_43,3.1",
+          "end": "tṛpyatu",
+          "start": "sanandanas"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 43,
+          "aku_ref": "AVParis_43,4.29",
+          "end": "tarpayāmi",
+          "start": "mahākauṣīt"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 43,
+          "aku_ref": "AVParis_43,5.19",
+          "end": "rudrāḥ",
+          "start": "bhagas"
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "total": 47,
+      "certified": 31,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,4.4",
+          "from": 10,
+          "to": 4
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,2.6",
+          "end": "opaveśayed",
+          "start": "daive"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,2.8",
+          "end": "ayiṣyāmīti",
+          "start": "āvāhaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,3.1",
+          "end": "bhimantrya",
+          "start": "viśvebhyo"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,3.5",
+          "end": "dattvā",
+          "start": "gandhamāly"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,3.6",
+          "end": "opaharanam",
+          "start": "sarvānnapr"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,3.7",
+          "end": "tisṛbhir",
+          "start": "hutaśeṣaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,3.8",
+          "end": "dadyād",
+          "start": "aṅguṣṭham"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,4.5",
+          "end": "ariharaṇam",
+          "start": "ekoddiṣṭe"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,4.6",
+          "end": "cheṣam",
+          "start": "anujñāpyāc"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 44,
+          "aku_ref": "AVParis_44,4.7",
+          "end": "ninayet",
+          "start": "putraṃ"
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "total": 39,
+      "certified": 29,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "AVParis_45,1.13",
+          "end": "tininayati",
+          "start": "sruvaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "AVParis_45,1.15",
+          "end": "samānam",
+          "start": "srucam"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "AVParis_45,1.25",
+          "end": "prīṇāmīti",
+          "start": "barhiṣi"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "AVParis_45,1.26",
+          "end": "hāyonmṛjya",
+          "start": "pitryupavī"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "AVParis_45,2.5",
+          "end": "carusthālī",
+          "start": "srucaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "AVParis_45,2.11",
+          "end": "ratitapati",
+          "start": "dakṣiṇān"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 45,
+          "aku_ref": "AVParis_45,2.14",
+          "end": "midādhānam",
+          "start": "agnyupasth"
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "total": 98,
+      "certified": 83,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,1.6",
+          "end": "cāthorṇam",
+          "start": "śirasvrata"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,1.8",
+          "end": "vakṣyāmo",
+          "start": "yamānāṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,1.10",
+          "end": "bhuñjītā",
+          "start": "athopasamā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,2.2",
+          "end": "hyādadhyād",
+          "start": "āṅgirasān"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,2.3",
+          "end": "āṅgirasīm",
+          "start": "vedādibhir"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,2.4",
+          "end": "ktottamair",
+          "start": "atraitāny"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,5.4",
+          "end": "devasenā",
+          "start": "gandhāribh"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,6.1",
+          "end": "dvādaśadhā",
+          "start": "abhyañjana"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 46,
+          "aku_ref": "AVParis_46,6.2",
+          "end": "śarīram",
+          "start": "prati"
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "total": 36,
+      "certified": 36,
+      "issues": []
+    },
+    {
+      "chapter": 48,
+      "total": 148,
+      "certified": 142,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 48,
+          "aku_ref": "AVParis_48,147",
+          "end": "'nukalpo",
+          "start": "devatādvan"
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "total": 43,
+      "certified": 41,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 49,
+          "aku_ref": "AVParis_49,5.3",
+          "end": "upaneyo",
+          "start": "devāś"
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "total": 46,
+      "certified": 45,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 50,
+          "aku_ref": "AVParis_50,5.5",
+          "end": "ādiśet",
+          "start": "rakte"
+        }
+      ]
+    },
+    {
+      "chapter": 51,
+      "total": 26,
+      "certified": 26,
+      "issues": []
+    },
+    {
+      "chapter": 52,
+      "total": 82,
+      "certified": 82,
+      "issues": []
+    },
+    {
+      "chapter": 53,
+      "total": 31,
+      "certified": 31,
+      "issues": []
+    },
+    {
+      "chapter": 54,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 55,
+      "total": 25,
+      "certified": 25,
+      "issues": []
+    },
+    {
+      "chapter": 56,
+      "total": 10,
+      "certified": 10,
+      "issues": []
+    },
+    {
+      "chapter": 57,
+      "total": 29,
+      "certified": 29,
+      "issues": []
+    },
+    {
+      "chapter": 58,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    },
+    {
+      "chapter": 59,
+      "total": 20,
+      "certified": 20,
+      "issues": []
+    },
+    {
+      "chapter": 60,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 61,
+      "total": 28,
+      "certified": 28,
+      "issues": []
+    },
+    {
+      "chapter": 62,
+      "total": 29,
+      "certified": 29,
+      "issues": []
+    },
+    {
+      "chapter": 63,
+      "total": 45,
+      "certified": 45,
+      "issues": []
+    },
+    {
+      "chapter": 64,
+      "total": 100,
+      "certified": 100,
+      "issues": []
+    },
+    {
+      "chapter": 65,
+      "total": 32,
+      "certified": 29,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 65,
+          "aku_ref": "AVParis_65,2.4",
+          "end": "aṇḍajānām",
+          "start": "pracaraṇe"
+        }
+      ]
+    },
+    {
+      "chapter": 66,
+      "total": 15,
+      "certified": 15,
+      "issues": []
+    },
+    {
+      "chapter": 67,
+      "total": 46,
+      "certified": 46,
+      "issues": []
+    },
+    {
+      "chapter": 68,
+      "total": 167,
+      "certified": 167,
+      "issues": []
+    },
+    {
+      "chapter": 69,
+      "total": 46,
+      "certified": 46,
+      "issues": []
+    },
+    {
+      "chapter": 70,
+      "total": 74,
+      "certified": 74,
+      "issues": []
+    },
+    {
+      "chapter": 71,
+      "total": 111,
+      "certified": 111,
+      "issues": []
+    },
+    {
+      "chapter": 72,
+      "total": 43,
+      "certified": 21,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,4.7",
+          "from": 16,
+          "to": 7
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,1.2",
+          "end": "anakṣatram",
+          "start": "eteṣu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,1.4",
+          "end": "lkābhihate",
+          "start": "kacandha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,2.1",
+          "end": "janapadāṃs",
+          "start": "tathaiva"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,2.2",
+          "end": "prāsādāgre",
+          "start": "vāpīkūpa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,2.4",
+          "end": "rādurbhāve",
+          "start": "liṅgaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,2.5",
+          "end": "rājñaḥ",
+          "start": "kālolūkakṛ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,2.7",
+          "end": "prasūtāyām",
+          "start": "rājarathaś"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.2",
+          "end": "vagamaneṣu",
+          "start": "dhanuḥsaṃd"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.3",
+          "end": "hinirghāte",
+          "start": "rajovarṣam"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.4",
+          "end": "varṣati",
+          "start": "hīnagabhas"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.5",
+          "end": "padhūpanam",
+          "start": "grahavaiṣa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.6",
+          "end": "omaviyogaḥ",
+          "start": "pratisroto"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.7",
+          "end": "bhilapanam",
+          "start": "vikṛtāś"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.9",
+          "end": "anaspatiṣu",
+          "start": "bahuśastra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.10",
+          "end": "habhaṅgesu",
+          "start": "śuṣkaviroh"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 72,
+          "aku_ref": "AVParis_72,3.11",
+          "end": "thachedane",
+          "start": "yatra"
+        }
+      ]
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "ca7apy",
+      "from": 13,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,4.4",
+      "from": 10,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,4.7",
+      "from": 16,
+      "to": 7
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,13.1",
+      "end": "aśadvādaśe",
+      "start": "etāny"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,14.1",
+      "end": "atrayodaśe",
+      "start": "etāny"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,15.1",
+      "end": "aśadvādaśe",
+      "start": "etāny"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,16.1",
+      "end": "aśadvādaśe",
+      "start": "etāny"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,25.4",
+      "end": "kuryāt",
+      "start": "puṇyāhī"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,27.2",
+      "end": "aśleṣāsu",
+      "start": "etāni"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,28.1",
+      "end": "āgacchaty",
+      "start": "āvikair"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,28.2",
+      "end": "viśākhayor",
+      "start": "etāni"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,28.4",
+      "end": "bhavati",
+      "start": "khalakulai"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,29.1",
+      "end": "āgacchati",
+      "start": "jyeṣṭhaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,29.4",
+      "end": "bhavati",
+      "start": "vidalasūpe"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,30.1",
+      "end": "āgacchati",
+      "start": "śākaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,30.2",
+      "end": "abhyudiyād",
+      "start": "etāni"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,32.2",
+      "end": "yaikapaśoḥ",
+      "start": "ulūcī"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,32.5",
+      "end": "rāhmaṇayor",
+      "start": "eteṣāṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,32.10",
+      "end": "tikṛtyāsya",
+      "start": "sarvāś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,33.1",
+      "end": "parimāṇāny",
+      "start": "uttarāsv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 1,
+      "aku_ref": "AVParis_1,34.1",
+      "end": "balayaḥ",
+      "start": "śukla"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "AVParis_3,1.3",
+      "end": "rohitādīny",
+      "start": "upayuktāni"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "AVParis_3,1.5",
+      "end": "dravyāṇīty",
+      "start": "ācāryapuro"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "AVParis_3,1.7",
+      "end": "parāśaro",
+      "start": "brahmā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "AVParis_3,1.8",
+      "end": "ivāprameyo",
+      "start": "nānyakulop"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "AVParis_3,1.9",
+      "end": "ulopayukto",
+      "start": "yasyānyaku"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "AVParis_3,1.14",
+      "end": "dadyāt",
+      "start": "koṭimadhyā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "AVParis_3,1.15",
+      "end": "bhāgam",
+      "start": "yathābhūmi"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "AVParis_4,2.1",
+      "end": "ājakarmāṇi",
+      "start": "viśvāvasau"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "AVParis_4,2.4",
+      "end": "kārādibhiḥ",
+      "start": "suvarṇaniṣ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "AVParis_4,2.7",
+      "end": "dadyād",
+      "start": "dhenuṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "AVParis_4,2.8",
+      "end": "cārogām",
+      "start": "aparimitag"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "AVParis_4,4.9",
+      "end": "ābadhya",
+      "start": "agnir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "AVParis_4,5.3",
+      "end": "abhigamya",
+      "start": "piṣṭamayīṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "AVParis_4,5.15",
+      "end": "niṣkramya",
+      "start": "evamevam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "AVParis_6,1.2",
+      "end": "upalipya",
+      "start": "ahatavastr"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "AVParis_6,2.1",
+      "end": "visarjayet",
+      "start": "vanaspatir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "AVParis_6,2.3",
+      "end": "bhimantrya",
+      "start": "tryāyuṣam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "AVParis_6,2.7",
+      "end": "niṣkramya",
+      "start": "evamevam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.2",
+      "end": "upaiti",
+      "start": "yācitāradā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.3",
+      "end": "bhavato",
+      "start": "vratopacār"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.4",
+      "end": "atopacāram",
+      "start": "yathāśakty"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.9",
+      "end": "upasthāpya",
+      "start": "girayas"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.10",
+      "end": "avasthāpya",
+      "start": "hiraṇyaraj"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.13",
+      "end": "samudrān",
+      "start": "vanaspatiḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.15",
+      "end": "bhavati",
+      "start": "nidhiṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.16",
+      "end": "skārayitvā",
+      "start": "satyaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.17",
+      "end": "vācayet",
+      "start": "saṃsthāpay"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "AVParis_10,1.19",
+      "end": "dadyād",
+      "start": "dātur"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.3",
+      "end": "vāpayitvā",
+      "start": "saṃbhārān"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.6",
+      "end": "ninayed",
+      "start": "athāsyendr"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.8",
+      "end": "iṣecayitvā",
+      "start": "yathoktam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.9",
+      "end": "ābadhnīyāt",
+      "start": "tulāṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.10",
+      "end": "adārohayed",
+      "start": "acyutā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.11",
+      "end": "avarohayet",
+      "start": "sūryasyāvṛ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.12",
+      "end": "dadyāt",
+      "start": "sahasradak"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 11,
+      "aku_ref": "AVParis_11,1.13",
+      "end": "grāmavaram",
+      "start": "dvijān"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "AVParis_12,1.1",
+      "end": "dadyāt",
+      "start": "tasya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "AVParis_12,1.3",
+      "end": "saṃśrapya",
+      "start": "pātre"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "AVParis_12,1.4",
+      "end": "tvāpihitam",
+      "start": "saguḍājyas"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "AVParis_12,1.5",
+      "end": "takusumair",
+      "start": "viṣāsahim"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "AVParis_12,1.6",
+      "end": "nivedayet",
+      "start": "tatra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 12,
+      "aku_ref": "AVParis_12,1.7",
+      "end": "ślokāḥ",
+      "start": "anena"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,1.1",
+      "end": "āpanodanam",
+      "start": "udagayana"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,1.4",
+      "end": "mantrayate",
+      "start": "tṛtīyayā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,1.5",
+      "end": "amādadhāti",
+      "start": "śucau"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,1.6",
+      "end": "kārayitvā",
+      "start": "agneḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,1.9",
+      "end": "sāpidhānam",
+      "start": "sruksruvāj"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,1.11",
+      "end": "juhoti",
+      "start": "hiraṇyagar"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,2.4",
+      "end": "snāpayitvā",
+      "start": "hiraṇyakal"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,2.5",
+      "end": "āsicya",
+      "start": "hiraṇyagar"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.1",
+      "end": "praveśayet",
+      "start": "trayastriṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.2",
+      "end": "anuśāsti",
+      "start": "vācaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.3",
+      "end": "hyāyasveti",
+      "start": "tatheti"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.6",
+      "end": "prajāpatiḥ",
+      "start": "prajāpater"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.7",
+      "end": "vijñāpayet",
+      "start": "tathaiva"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.8",
+      "end": "otthāpayed",
+      "start": "utthitaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.10",
+      "end": "uddhared",
+      "start": "uddhṛtaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.11",
+      "end": "apāsyet",
+      "start": "saṃpaśyamā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,3.16",
+      "end": "atiṣṭhante",
+      "start": "hiraṇyaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,4.2",
+      "end": "āvṛtya",
+      "start": "gṛhān"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,4.5",
+      "end": "dadyāt",
+      "start": "grāmavaraṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,4.7",
+      "end": "adasyebhyo",
+      "start": "yāvad"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,4.8",
+      "end": "dadyād",
+      "start": "yathākāmaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,4.9",
+      "end": "paricaret",
+      "start": "tatra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 13,
+      "aku_ref": "AVParis_13,4.10",
+      "end": "ślokāḥ",
+      "start": "vedānāṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 14,
+      "aku_ref": "AVParis_14,1.1",
+      "end": "vakṣye",
+      "start": "jātarūpama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 15,
+      "aku_ref": "AVParis_15,1.4",
+      "end": "dattvā",
+      "start": "punantu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 15,
+      "aku_ref": "AVParis_15,1.6",
+      "end": "dhihomānte",
+      "start": "varāṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 19,
+      "aku_ref": "AVParis_19,1.7",
+      "end": "hārayerann",
+      "start": "adbhutaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 19,
+      "aku_ref": "AVParis_19,1.8",
+      "end": "vidyād",
+      "start": "agnir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 20,
+      "aku_ref": "AVParis_20,3.4",
+      "end": "kalpayitvā",
+      "start": "indraḥ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 22,
+      "aku_ref": "AVParis_22,9.2",
+      "end": "ṇudasvety",
+      "start": "ājyaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 23,
+      "aku_ref": "AVParis_23,11.3",
+      "end": "ṛtvijāṃ",
+      "start": "khāte"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 33,
+      "aku_ref": "AVParis_33,1.6",
+      "end": "akarot",
+      "start": "puṇye"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 33,
+      "aku_ref": "AVParis_33,1.8",
+      "end": "akarot",
+      "start": "tasya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 33,
+      "aku_ref": "AVParis_33,1.10",
+      "end": "ajayad",
+      "start": "yathā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 37,
+      "aku_ref": "AVParis_37,9.3",
+      "end": "badhnīyāt",
+      "start": "samidho"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 40,
+      "aku_ref": "AVParis_40,1.9",
+      "end": "ndhodakair",
+      "start": "gandhapuṣp"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 40,
+      "aku_ref": "AVParis_40,1.11",
+      "end": "dyupahārān",
+      "start": "dakṣiṇena"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 40,
+      "aku_ref": "AVParis_40,1.12",
+      "end": "patiṣṭhate",
+      "start": "kaṭakakeyū"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 40,
+      "aku_ref": "AVParis_40,3.5",
+      "end": "juhuyād",
+      "start": "vāyave"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 40,
+      "aku_ref": "AVParis_40,6.7",
+      "end": "karoti",
+      "start": "vratam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 41,
+      "aku_ref": "AVParis_41,1.8",
+      "end": "āsīnaḥ",
+      "start": "sāvitryant"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 41,
+      "aku_ref": "AVParis_41,2.1",
+      "end": "vīrāsanī",
+      "start": "pratyutthā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 41,
+      "aku_ref": "AVParis_41,2.2",
+      "end": "patiṣṭhate",
+      "start": "tiṣṭhan"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 41,
+      "aku_ref": "AVParis_41,2.3",
+      "end": "prāṅmukha",
+      "start": "āyātu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 41,
+      "aku_ref": "AVParis_41,2.4",
+      "end": "āvāhya",
+      "start": "gāyatraṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 41,
+      "aku_ref": "AVParis_41,5.6",
+      "end": "khyāsyāmaḥ",
+      "start": "prathamam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 43,
+      "aku_ref": "AVParis_43,3.1",
+      "end": "tṛpyatu",
+      "start": "sanandanas"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 43,
+      "aku_ref": "AVParis_43,4.29",
+      "end": "tarpayāmi",
+      "start": "mahākauṣīt"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 43,
+      "aku_ref": "AVParis_43,5.19",
+      "end": "rudrāḥ",
+      "start": "bhagas"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,2.6",
+      "end": "opaveśayed",
+      "start": "daive"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,2.8",
+      "end": "ayiṣyāmīti",
+      "start": "āvāhaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,3.1",
+      "end": "bhimantrya",
+      "start": "viśvebhyo"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,3.5",
+      "end": "dattvā",
+      "start": "gandhamāly"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,3.6",
+      "end": "opaharanam",
+      "start": "sarvānnapr"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,3.7",
+      "end": "tisṛbhir",
+      "start": "hutaśeṣaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,3.8",
+      "end": "dadyād",
+      "start": "aṅguṣṭham"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,4.5",
+      "end": "ariharaṇam",
+      "start": "ekoddiṣṭe"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,4.6",
+      "end": "cheṣam",
+      "start": "anujñāpyāc"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 44,
+      "aku_ref": "AVParis_44,4.7",
+      "end": "ninayet",
+      "start": "putraṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "AVParis_45,1.13",
+      "end": "tininayati",
+      "start": "sruvaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "AVParis_45,1.15",
+      "end": "samānam",
+      "start": "srucam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "AVParis_45,1.25",
+      "end": "prīṇāmīti",
+      "start": "barhiṣi"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "AVParis_45,1.26",
+      "end": "hāyonmṛjya",
+      "start": "pitryupavī"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "AVParis_45,2.5",
+      "end": "carusthālī",
+      "start": "srucaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "AVParis_45,2.11",
+      "end": "ratitapati",
+      "start": "dakṣiṇān"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 45,
+      "aku_ref": "AVParis_45,2.14",
+      "end": "midādhānam",
+      "start": "agnyupasth"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,1.6",
+      "end": "cāthorṇam",
+      "start": "śirasvrata"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,1.8",
+      "end": "vakṣyāmo",
+      "start": "yamānāṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,1.10",
+      "end": "bhuñjītā",
+      "start": "athopasamā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,2.2",
+      "end": "hyādadhyād",
+      "start": "āṅgirasān"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,2.3",
+      "end": "āṅgirasīm",
+      "start": "vedādibhir"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,2.4",
+      "end": "ktottamair",
+      "start": "atraitāny"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,5.4",
+      "end": "devasenā",
+      "start": "gandhāribh"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,6.1",
+      "end": "dvādaśadhā",
+      "start": "abhyañjana"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 46,
+      "aku_ref": "AVParis_46,6.2",
+      "end": "śarīram",
+      "start": "prati"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 48,
+      "aku_ref": "AVParis_48,147",
+      "end": "'nukalpo",
+      "start": "devatādvan"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 49,
+      "aku_ref": "AVParis_49,5.3",
+      "end": "upaneyo",
+      "start": "devāś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 50,
+      "aku_ref": "AVParis_50,5.5",
+      "end": "ādiśet",
+      "start": "rakte"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 65,
+      "aku_ref": "AVParis_65,2.4",
+      "end": "aṇḍajānām",
+      "start": "pracaraṇe"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,1.2",
+      "end": "anakṣatram",
+      "start": "eteṣu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,1.4",
+      "end": "lkābhihate",
+      "start": "kacandha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,2.1",
+      "end": "janapadāṃs",
+      "start": "tathaiva"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,2.2",
+      "end": "prāsādāgre",
+      "start": "vāpīkūpa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,2.4",
+      "end": "rādurbhāve",
+      "start": "liṅgaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,2.5",
+      "end": "rājñaḥ",
+      "start": "kālolūkakṛ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,2.7",
+      "end": "prasūtāyām",
+      "start": "rājarathaś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.2",
+      "end": "vagamaneṣu",
+      "start": "dhanuḥsaṃd"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.3",
+      "end": "hinirghāte",
+      "start": "rajovarṣam"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.4",
+      "end": "varṣati",
+      "start": "hīnagabhas"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.5",
+      "end": "padhūpanam",
+      "start": "grahavaiṣa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.6",
+      "end": "omaviyogaḥ",
+      "start": "pratisroto"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.7",
+      "end": "bhilapanam",
+      "start": "vikṛtāś"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.9",
+      "end": "anaspatiṣu",
+      "start": "bahuśastra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.10",
+      "end": "habhaṅgesu",
+      "start": "śuṣkaviroh"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 72,
+      "aku_ref": "AVParis_72,3.11",
+      "end": "thachedane",
+      "start": "yatra"
+    }
+  ],
+  "blocking_issues": 4
+}

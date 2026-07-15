@@ -1,0 +1,33 @@
+{
+  "file": "matrkabhedatantra_gretil_prose.json",
+  "title": "Mātṛkābhedatantra",
+  "status": "certified",
+  "total_akus": 26,
+  "certified_akus": 26,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 1,
+    "prose": 1,
+    "verse": 22,
+    "translation": 1,
+    "heading": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 13,
+      "total": 24,
+      "certified": 24,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

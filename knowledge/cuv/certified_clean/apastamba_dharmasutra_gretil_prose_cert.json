@@ -1,0 +1,188 @@
+{
+  "file": "apastamba_dharmasutra_gretil_prose.json",
+  "title": "Āpastambadharmasūtra",
+  "status": "mostly_certified",
+  "total_akus": 1300,
+  "certified_akus": 1296,
+  "issues": [],
+  "class_distribution": {
+    "commentary": 16,
+    "sutra": 397,
+    "heading": 699,
+    "colophon": 9,
+    "translation": 164,
+    "ocr_artifact": 5,
+    "mantra": 1,
+    "metadata": 4,
+    "critical_apparatus": 4,
+    "prose": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 1,
+      "total": 746,
+      "certified": 637,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "Ap1.9.24.4",
+          "from": 6,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 34,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 9,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 12,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 14,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 542,
+      "certified": 484,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 16,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "Ap2.3.6.17",
+          "end": "kṣeta-idaṃ",
+          "start": "bhūya"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 8,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 11,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 20,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 0,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "Ap1.9.24.4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 16,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 4,
+      "to": 2
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "Ap2.3.6.17",
+      "end": "kṣeta-idaṃ",
+      "start": "bhūya"
+    }
+  ],
+  "blocking_issues": 4
+}

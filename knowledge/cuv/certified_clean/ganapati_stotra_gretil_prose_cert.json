@@ -1,0 +1,26 @@
+{
+  "file": "ganapati_stotra_gretil_prose.json",
+  "title": "Mahāgaṇapatistotra with a commentary “by his disciple”",
+  "status": "certified",
+  "total_akus": 12,
+  "certified_akus": 12,
+  "issues": [],
+  "class_distribution": {
+    "verse": 1,
+    "commentary": 7,
+    "prose": 3,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

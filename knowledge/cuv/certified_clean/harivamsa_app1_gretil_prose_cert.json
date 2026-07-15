@@ -1,0 +1,26 @@
+{
+  "file": "harivamsa_app1_gretil_prose.json",
+  "title": "Harivaṃśa, Appendix I",
+  "status": "certified",
+  "total_akus": 18,
+  "certified_akus": 18,
+  "issues": [],
+  "class_distribution": {
+    "verse": 14,
+    "unknown": 2,
+    "translation": 1,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 18,
+      "certified": 18,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

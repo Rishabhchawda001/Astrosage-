@@ -1,0 +1,112 @@
+{
+  "file": "baudhayana_dharmasutra_gretil_prose.json",
+  "title": "Baudhāyanadharmasūtra",
+  "status": "mostly_certified",
+  "total_akus": 1478,
+  "certified_akus": 1475,
+  "issues": [],
+  "class_distribution": {
+    "prose": 1,
+    "sutra": 758,
+    "translation": 244,
+    "footnote": 4,
+    "commentary": 17,
+    "mantra": 18,
+    "critical_apparatus": 12,
+    "colophon": 2,
+    "heading": 420,
+    "metadata": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 108,
+      "certified": 108,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 494,
+      "certified": 435,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "Baudh1.4.7.2",
+          "from": 16,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.8.16.14",
+          "from": 15,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "Baudh1.9.17.2",
+          "from": 14,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 464,
+      "certified": 464,
+      "issues": []
+    },
+    {
+      "chapter": 136,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 179,
+      "certified": 179,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 232,
+      "certified": 232,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "Baudh1.4.7.2",
+      "from": 16,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.8.16.14",
+      "from": 15,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "Baudh1.9.17.2",
+      "from": 14,
+      "to": 2
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 3
+}

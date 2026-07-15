@@ -1,0 +1,31 @@
+{
+  "file": "mrigendra_agama_gretil_prose.json",
+  "title": "Mṛgendrāgama (= Mrgendratantra)",
+  "status": "certified",
+  "total_akus": 316,
+  "certified_akus": 316,
+  "issues": [],
+  "class_distribution": {
+    "critical_apparatus": 18,
+    "verse": 113,
+    "prose": 42,
+    "metadata": 123,
+    "colophon": 5,
+    "unknown": 3,
+    "commentary": 9,
+    "heading": 1,
+    "translation": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 316,
+      "certified": 316,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

@@ -1,0 +1,25 @@
+{
+  "file": "yoga_bija_gretil_prose.json",
+  "title": "Yogaśataka",
+  "status": "certified",
+  "total_akus": 3,
+  "certified_akus": 3,
+  "issues": [],
+  "class_distribution": {
+    "mantra": 1,
+    "heading": 1,
+    "prose": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

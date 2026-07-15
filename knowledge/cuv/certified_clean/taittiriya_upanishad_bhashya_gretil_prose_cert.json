@@ -1,0 +1,657 @@
+{
+  "file": "taittiriya_upanishad_bhashya_gretil_prose.json",
+  "title": "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+  "status": "mostly_certified",
+  "total_akus": 277,
+  "certified_akus": 262,
+  "issues": [],
+  "class_distribution": {
+    "commentary": 148,
+    "prose": 79,
+    "mantra": 3,
+    "unknown": 3,
+    "metadata": 15,
+    "translation": 7,
+    "colophon": 4,
+    "heading": 16,
+    "critical_apparatus": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 158,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "yajñaḥ",
+          "start": "pṛthivyant"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "aśnute",
+          "start": "atraitac"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "dvijanmanā",
+          "start": "tatra"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "tatsatyaṃ",
+          "start": "tasmād"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ākāśaḥ",
+          "start": "sarva"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "rathamajaṃ",
+          "start": "vijñānaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "saṅkrāmati",
+          "start": "asanneva"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "plutiḥ",
+          "start": "eteṣāṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "brahma",
+          "start": "kiñca"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "'nilayane",
+          "start": "bhīṣāsmādv"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "brahma",
+          "start": "bhṛgurvai"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "agrayam",
+          "start": "annaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "bhavati",
+          "start": "tannama"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "vipaścitā",
+          "start": "ahamannama"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 53,
+      "certified": 23,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "ChU_2,23.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "KaU_2,3.16",
+          "from": 165,
+          "to": 16
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "KaU_2,3.16",
+          "end": "nuprāviśat",
+          "start": "kṣetrajñaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "TaittU_2,7.1",
+          "end": "draṣṭavyaṃ",
+          "start": "ātmaivedaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "TaittU_2,8.5",
+          "end": "'nilayane",
+          "start": "asthūlaman"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "TaittU_2,7.1",
+          "end": "pavate",
+          "start": "saiṣānanda"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 5,
+      "certified": 5,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 18,
+      "certified": 5,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "MU_3,2.9",
+          "from": 39,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "BĀU_3,8.11",
+          "from": 19,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "ChU_3,12.7",
+          "from": 11,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "AitU_3,5.4",
+          "from": 7,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3,2",
+          "from": 8,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "gacchatī3",
+          "from": 26,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 11,
+      "certified": 7,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "BĀU_1,4.10",
+          "from": 11,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "MU_1,1.9",
+          "from": 10,
+          "to": 9
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 8,
+      "certified": 4,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "ŚvU_4,8",
+          "from": 30,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "BĀU_4,4.18",
+          "from": 32,
+          "to": 18
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 4,
+          "aku_ref": "BĀU_4,4.20",
+          "end": "evādvitīya",
+          "start": "brahmaived"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 3,
+      "certified": 2,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "Mbh_12,232.13",
+          "from": 104,
+          "to": 13
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "total": 8,
+      "certified": 6,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "ChU_6,3.2",
+          "from": 16,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    },
+    {
+      "chapter": 8,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 11,
+      "total": 2,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 11,
+          "aku_ref": "ŚBr_11,2.1.4",
+          "from": 11,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "ChU_2,23.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "KaU_2,3.16",
+      "from": 165,
+      "to": 16
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "MU_3,2.9",
+      "from": 39,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "BĀU_3,8.11",
+      "from": 19,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "ChU_3,12.7",
+      "from": 11,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "AitU_3,5.4",
+      "from": 7,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3,2",
+      "from": 8,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "gacchatī3",
+      "from": 26,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "BĀU_1,4.10",
+      "from": 11,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "MU_1,1.9",
+      "from": 10,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "ŚvU_4,8",
+      "from": 30,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "BĀU_4,4.18",
+      "from": 32,
+      "to": 18
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "Mbh_12,232.13",
+      "from": 104,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "ChU_6,3.2",
+      "from": 16,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 11,
+      "aku_ref": "ŚBr_11,2.1.4",
+      "from": 11,
+      "to": 4
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "yajñaḥ",
+      "start": "pṛthivyant"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "aśnute",
+      "start": "atraitac"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "dvijanmanā",
+      "start": "tatra"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "tatsatyaṃ",
+      "start": "tasmād"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ākāśaḥ",
+      "start": "sarva"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "rathamajaṃ",
+      "start": "vijñānaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "saṅkrāmati",
+      "start": "asanneva"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "plutiḥ",
+      "start": "eteṣāṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "brahma",
+      "start": "kiñca"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "'nilayane",
+      "start": "bhīṣāsmādv"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "brahma",
+      "start": "bhṛgurvai"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "agrayam",
+      "start": "annaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "bhavati",
+      "start": "tannama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "vipaścitā",
+      "start": "ahamannama"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "KaU_2,3.16",
+      "end": "nuprāviśat",
+      "start": "kṣetrajñaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "TaittU_2,7.1",
+      "end": "draṣṭavyaṃ",
+      "start": "ātmaivedaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "TaittU_2,8.5",
+      "end": "'nilayane",
+      "start": "asthūlaman"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "TaittU_2,7.1",
+      "end": "pavate",
+      "start": "saiṣānanda"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 4,
+      "aku_ref": "BĀU_4,4.20",
+      "end": "evādvitīya",
+      "start": "brahmaived"
+    }
+  ],
+  "blocking_issues": 15
+}

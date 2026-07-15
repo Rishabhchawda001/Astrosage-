@@ -1,0 +1,125 @@
+{
+  "file": "rigveda_padapatha_gretil_prose.json",
+  "title": "Ṛgvedasaṃhitā, Padapāṭha",
+  "status": "mostly_certified",
+  "total_akus": 13600,
+  "certified_akus": 13598,
+  "issues": [],
+  "class_distribution": {
+    "ocr_artifact": 3045,
+    "prose": 9022,
+    "verse": 1076,
+    "mantra": 116,
+    "commentary": 287,
+    "translation": 48,
+    "metadata": 4,
+    "unknown": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 12569,
+      "certified": 12569,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 191,
+      "certified": 191,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 43,
+      "certified": 43,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 64,
+      "certified": 8,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "āsī3t",
+          "from": 62,
+          "to": 3
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 58,
+      "certified": 58,
+      "issues": []
+    },
+    {
+      "chapter": 5,
+      "total": 87,
+      "certified": 87,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 75,
+      "certified": 75,
+      "issues": []
+    },
+    {
+      "chapter": 7,
+      "total": 104,
+      "certified": 104,
+      "issues": []
+    },
+    {
+      "chapter": 8,
+      "total": 104,
+      "certified": 13,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "RV_8,46.20",
+          "from": 46,
+          "to": 20
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "total": 114,
+      "certified": 114,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 191,
+      "certified": 191,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "āsī3t",
+      "from": 62,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "RV_8,46.20",
+      "from": 46,
+      "to": 20
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 2
+}

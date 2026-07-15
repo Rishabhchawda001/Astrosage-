@@ -1,0 +1,5750 @@
+{
+  "file": "vasistha_dharmasutra_gretil.xml",
+  "title": "Vāsiṣṭhadharmasūtra",
+  "total_chapters": 31,
+  "total_akus": 1389,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "aku_count": 52,
+      "akus": [
+        {
+          "ref": "Va.1.1",
+          "body": "atha^atas^puruṣa.niḥśreyasa.artham^dharma.jijñāsā(jñā-) //"
+        },
+        {
+          "ref": "Va.1.2",
+          "body": "jñātvā(jñā-) ca^anutiṣṭhan(anu-sthā-) dhārmikas^//"
+        },
+        {
+          "ref": "Va.1.3",
+          "body": "praśasya(pra-śaṃs-).tamas^bhavati(bhū-) loke pretya(pra-i-) ca svarga.lokam^samaśnute(sam-aś-) //"
+        },
+        {
+          "ref": "Va.1.4",
+          "body": "śruti.smṛti.vihitas(vi-dhā-)^dharmas^//"
+        },
+        {
+          "ref": "Va.1.5",
+          "body": "tad.alābhe śiṣṭa.ācāras^pramāṇam //"
+        },
+        {
+          "ref": "Va.1.6",
+          "body": "śiṣṭas^punar akāma.ātmā //"
+        },
+        {
+          "ref": "Va.1.7",
+          "body": "a.gṛhyamāṇa(grah-).kāraṇas^dharmas^//"
+        },
+        {
+          "ref": "Va.1.8",
+          "body": "ārya.āvartas^prāk^ādarśāt pratyak kālakavanāt^udak pāriyātrāt^dakṣiṇena himavatas^//"
+        },
+        {
+          "ref": "Va.1.9",
+          "body": "uttareṇa ca vindhyasya //"
+        },
+        {
+          "ref": "Va.1.10",
+          "body": "tasmin deśe ye dharmās ye ca^ācārās te sarvatra pratyetavyās(prati-i-)^//"
+        },
+        {
+          "ref": "Va.1.11",
+          "body": "na tu^anye pratilomaka.dharmāṇām //"
+        },
+        {
+          "ref": "Va.1.12",
+          "body": "gaṅgā.yamunayor antare^api^eke //"
+        },
+        {
+          "ref": "Va.1.13",
+          "body": "yāvat^vā kṛṣṇa.mṛgas^vicarati(vi-car-) tāvat^brahma.varcasam iti^anye //"
+        },
+        {
+          "ref": "Va.1.14",
+          "body": "atha^api bhāllavinas^nidāne gāthām udāharanti(ud-ā-hṛ-) //"
+        },
+        {
+          "ref": "Va.1.15",
+          "body": "paścāt sindhus^vidhāraṇī sūryasya^udayanam^puras^/"
+        },
+        {
+          "ref": "Va.1.15",
+          "body": "yāvat kṛṣṇas^abhidhāvati(abhi-dhāv-) tāvat^vai brahma.varcasam iti //"
+        },
+        {
+          "ref": "Va.1.16",
+          "body": "traividya.vṛddhās^yam^brūyur(brū-) dharmam^dharma.vidas^janās^(c)/"
+        },
+        {
+          "ref": "Va.1.16",
+          "body": "pavane pāvane ca^eva sa dharmas^na^atra saṃśayas.(c) iti //"
+        },
+        {
+          "ref": "Va.1.17",
+          "body": "deśa.dharma.jāti.dharma.kula.dharmān^śruti.abhāvāt^abravīt(brū-)^manus^//"
+        },
+        {
+          "ref": "Va.1.18",
+          "body": "sūrya.abhyuditas(abhi-ud-i-)^sūrya.abhinimruktas(< abhi-nir-muc-)^kunakhī śyāva.dantas^parivittis^parivettā^agredidhiṣūs^didhiṣūpatis^vīrahā brahma.ujjhas^iti^enasvinas^//"
+        },
+        {
+          "ref": "Va.1.19",
+          "body": "pañca mahāpātakāni^ācakṣate(ā-cakṣ-) //"
+        },
+        {
+          "ref": "Va.1.20",
+          "body": "guru.talpam^surā.pānam^bhrūṇa.hatyā brāhmaṇa.suvarṇa.apaharaṇam^patita.saṃyogas^ca //"
+        },
+        {
+          "ref": "Va.1.21",
+          "body": "brāhmeṇa vā yaunena vā //"
+        },
+        {
+          "ref": "Va.1.22",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.1.22",
+          "body": "saṃvatsareṇa patati(pat-) patitena(pat-) saha^ācaran(ā-car-) (c)/"
+        },
+        {
+          "ref": "Va.1.22",
+          "body": "yājana.adhyāpanāt^yaunāt^na tu yāna.āsanāt^dānāt.(c) iti //"
+        },
+        {
+          "ref": "Va.1.23",
+          "body": "yas^agnīn apavidhyet(apa-vyadh-)^gurum^ca yas^pratidaghnuyāt(prati-dagh-)^nāstikas^nāstika.vṛttis^somam^ca vikrīṇīyāt(vi-krī-)^iti^upapātakāni //"
+        },
+        {
+          "ref": "Va.1.24",
+          "body": "tisras^brāhmaṇasya bhāryās^varṇa.anupūrveṇa dve rājanyasya ekaikā vaiśya.śūdrayos^//"
+        },
+        {
+          "ref": "Va.1.25",
+          "body": "śūdrām api^eke mantra.varjam^tadvat //"
+        },
+        {
+          "ref": "Va.1.26",
+          "body": "tathā na kuryāt(kṛ-) //"
+        },
+        {
+          "ref": "Va.1.27",
+          "body": "atas^hi dhruvas^kula.apakarṣas^pretya(pra-i-) ca^a.svargas^//"
+        },
+        {
+          "ref": "Va.1.28",
+          "body": "ṣaṭ^vivāhās^//"
+        },
+        {
+          "ref": "Va.1.29",
+          "body": "brāhmas^daivas^ārṣas^gāndharvas^kṣātras^mānuṣas^ca^iti //"
+        },
+        {
+          "ref": "Va.1.30",
+          "body": "icchate(iṣ-)^udaka.pūrvam^yām^dadyāt(dā-) sa brāhmas^//"
+        },
+        {
+          "ref": "Va.1.31",
+          "body": "yajña.tantre vitate(vi-tan-)^ṛtvije karma kurvate(kṛ-) kanyām^dadyāt(dā-)^alaṃkṛtya(alam-kṛ-) tam^daivam iti^ācakṣate(ā-cakṣ-) //"
+        },
+        {
+          "ref": "Va.1.32",
+          "body": "go.mithunena ca^ārṣas^//"
+        },
+        {
+          "ref": "Va.1.33",
+          "body": "sa.kāmām^kāmayamānas(kam-)^sadṛśīm^yonim uhyāt(ūh-) sa gāndharvas^//"
+        },
+        {
+          "ref": "Va.1.34",
+          "body": "yām^[balena sahasā pramathya(pra-math-)] haranti(hṛ-) sa kṣātras^//"
+        },
+        {
+          "ref": "Va.1.35",
+          "body": "[paṇitvā(paṇ-) dhana.krītāṃ] sa mānuṣas^//"
+        },
+        {
+          "ref": "Va.1.36",
+          "body": "tasmāt^duhitṛmate^adhiratham^śatam^deyam iti^iha krayas^vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.1.37",
+          "body": "yā patyus^krītā satī^atha^anyais^carati(car-)^iti ha cāturmāsyeṣu //"
+        },
+        {
+          "ref": "Va.1.38",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.1.38",
+          "body": "vidyā pranaṣṭā punar abhyupaiti(abhi-upa-i-) kula.praṇāśe tu^iha sarva.nāśas^(c)/"
+        },
+        {
+          "ref": "Va.1.38",
+          "body": "kula.apadeśena hayas^api pūjyas tasmāt kulīnām^striyam udvahanti(ud-vah-).(c) iti //"
+        },
+        {
+          "ref": "Va.1.39",
+          "body": "trayas^varṇās^brāhmaṇasya nirdeśena varteran(vṛt-) //"
+        },
+        {
+          "ref": "Va.1.40",
+          "body": "brāhmaṇas^dharmān prabrūyāt(pra-brū-) //"
+        },
+        {
+          "ref": "Va.1.41",
+          "body": "rājā ca^anuśiṣyāt(anu-śās-) //"
+        },
+        {
+          "ref": "Va.1.42",
+          "body": "rājā tu dharmeṇa^anuśāsan(anu-śās-) ṣaṣṭham^dhanasya haret(hṛ-) //"
+        },
+        {
+          "ref": "Va.1.43",
+          "body": "anyatra brāhmaṇāt //"
+        },
+        {
+          "ref": "Va.1.44",
+          "body": "iṣṭāpūrtasya tu ṣaṣṭham aṃśam^bhajati(bhaj-)^iti ha //"
+        },
+        {
+          "ref": "Va.1.45",
+          "body": "brāhmaṇas^vedam āḍhyam^karoti(kṛ-) brāhmaṇo āpadas^uddharati(ud-hṛ-) tasmāt^brāhmaṇas^anādyas^/ somas^asya rājā bhavati(bhū-)^iti ha //"
+        },
+        {
+          "ref": "Va.1.46",
+          "body": "pretya(pra-i-) ca^ābhyudayikam iti ha vijñāyate(vi-jñā-) ha vijñāyate(vi-jñā-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 2,
+      "aku_count": 73,
+      "akus": [
+        {
+          "ref": "Va.2.1",
+          "body": "catvāras^varṇās^brāhmaṇa.kṣatriya.vaiśya.śūdrās^//"
+        },
+        {
+          "ref": "Va.2.2",
+          "body": "trayas^varṇās^dvijātayas^brāhmaṇa.kṣatriya.vaiśyās^//"
+        },
+        {
+          "ref": "Va.2.3",
+          "body": "teṣām"
+        },
+        {
+          "ref": "Va.2.3",
+          "body": "mātus^agre vijananam^dvitīyam^mauñji.bandhane (c)/"
+        },
+        {
+          "ref": "Va.2.3",
+          "body": "atra^asya mātā sāvitrī pitā tu^ācāryas^ucyate(vac-) (c)//"
+        },
+        {
+          "ref": "Va.2.4",
+          "body": "veda.pradānāt pitā^iti^ācāryam ācākṣate(ā-cakṣ-) //"
+        },
+        {
+          "ref": "Va.2.5",
+          "body": "tathā^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.2.5",
+          "body": "dvayam u ha vai puruṣasya retas^brāhmaṇasya^ūrdhvam^nābhes^adhastāt^avācīnam anyat tat^yat^ūrdhvam^nābhes tena ha^etat prajā jāyate(jan-) yat^brāhmaṇān upanayati(upa-nī-) yat^adhyāpayati(adhi-i-) yat^yājayati(yaj-) yat sādhukaroti(sādhu-kṛ-) / atha yat^avācīnam^nābhes tena^iha^asya^aurasī prajā jāyate(jan-) / tasmāt^śrotriyam anūcānam a.prajas^asi(as-)^iti na vadanti(vad-)^iti //"
+        },
+        {
+          "ref": "Va.2.6",
+          "body": "hārītas^api^udāharati(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.2.6",
+          "body": "na hi^asmin vidyate(vid-) karma kim.cit^ā mauñji.bandhanāt (c)/"
+        },
+        {
+          "ref": "Va.2.6",
+          "body": "vṛttyā śūdra.samas^hi^eṣa yāvat^vede na jāyate(jan-).(c) iti //"
+        },
+        {
+          "ref": "Va.2.7",
+          "body": "anyatra^udaka.karma.svadhā.pitṛ.saṃyuktebhyas^//"
+        },
+        {
+          "ref": "Va.2.8",
+          "body": "vidyā ha vai brāhmaṇam ājagāma(gam-) gopāya mām^śevadhis te^aham asmi(as-) (c)/"
+        },
+        {
+          "ref": "Va.2.8",
+          "body": "asūyakāya^an.ṛjave^a.yatāya na mām^brūyās(brū-)^vīryavatī tathā syām(as-) (c)//"
+        },
+        {
+          "ref": "Va.2.9",
+          "body": "yam eva vidyās^śucim a.pramattam^medhāvinam^brahmacaryā.upapannam (c)/"
+        },
+        {
+          "ref": "Va.2.9",
+          "body": "yas te na druhyet(druh-) katamat.cana^ahar^tasmai mām^brūyās(brū-)^nidhipāya brahman (c)//"
+        },
+        {
+          "ref": "Va.2.10",
+          "body": "yas^ātṛṇatti(ā-tṛd-)^a.vitathena karṇau^a.duḥkham^kurvan(kṛ-)^amṛtam^saṃprayacchan(sam-pra-yam-) (c)/"
+        },
+        {
+          "ref": "Va.2.10",
+          "body": "tam^manyeta(man-) pitaram^mātaram^ca tasmai na druhyet(druh-) katamaccana^ahar^(c)//"
+        },
+        {
+          "ref": "Va.2.11",
+          "body": "adhyāpitās^ye gurum^na^ādriyante(ā-dṛ-) viprās^vācā manasā karmaṇā vā (c)/"
+        },
+        {
+          "ref": "Va.2.11",
+          "body": "yathā^eva te na guros^bhojanīyās(bhuj-) tathā^eva tān na bhunakti(bhuj-) śrutam^tat (c)//"
+        },
+        {
+          "ref": "Va.2.12",
+          "body": "dahati(dah-)^agnis^yathā kakṣam^brahma pṛṣṭam(prach-) anādṛtam(ā-dṛ-) (c)/"
+        },
+        {
+          "ref": "Va.2.12",
+          "body": "na brahma tasmai prabrūyāt(pra-brū-)^śakyam^mānam akurvata(kṛ-)(c) iti //"
+        },
+        {
+          "ref": "Va.2.13",
+          "body": "ṣaṭ karmāṇi brāhmaṇasya //"
+        },
+        {
+          "ref": "Va.2.14",
+          "body": "svādhyāya.adhyayanam adhyāpanam^yajñas^yajanam^dānam^pratigrahas^ca^iti //"
+        },
+        {
+          "ref": "Va.2.15",
+          "body": "trīṇi rājanyasya //"
+        },
+        {
+          "ref": "Va.2.16",
+          "body": "adhyayanam^yajñas^dānam^ca //"
+        },
+        {
+          "ref": "Va.2.17",
+          "body": "śastreṇa ca prajā.pālanam^sva.dharmas tena jīvet(jīv-) //"
+        },
+        {
+          "ref": "Va.2.18",
+          "body": "etāni^eva vaiśyasya //"
+        },
+        {
+          "ref": "Va.2.19",
+          "body": "kṛṣis^vāṇijyam^pāśupālyam^kusīdam^ca //"
+        },
+        {
+          "ref": "Va.2.20",
+          "body": "teṣām^paricaryā śūdrasya niyatā ca vṛttis^//"
+        },
+        {
+          "ref": "Va.2.21",
+          "body": "niyata.keśa.veṣās^sarve vā mukta.keśās^śikhā.varjam //"
+        },
+        {
+          "ref": "Va.2.22",
+          "body": "a.jīvantas(jīv-)^sva.dharmeṇa^anantarām^yavīyasīm^vṛttim ātiṣṭheran(ā-sthā-) //"
+        },
+        {
+          "ref": "Va.2.23",
+          "body": "na tu kadā.cit^jyāyasīm //"
+        },
+        {
+          "ref": "Va.2.24",
+          "body": "vaiśya.jīvikām āsthāya(ā-sthā-) paṇyena jīvatas(jīv-)^aśma.lavaṇa.maṇi.śāṇa.kauśeya.kṣauma.ajināni ca //"
+        },
+        {
+          "ref": "Va.2.25",
+          "body": "tāntavam^raktam^sarvam^ca //"
+        },
+        {
+          "ref": "Va.2.26",
+          "body": "kṛta.annam^puṣpa.phala.mūlāni gandha.rasās^udakam^ca^oṣadhīnām^rasas^somas^ca śastram^viṣam^māṃsam^ca kṣīram^ca sa.vikāram ayas trapu jatu sīsam^ca //"
+        },
+        {
+          "ref": "Va.2.27",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.2.27",
+          "body": "sadyas^patati(pat-) māṃsena lākṣayā lavaṇena ca (c)/"
+        },
+        {
+          "ref": "Va.2.27",
+          "body": "tri.aheṇa śūdras^bhavati(bhū-) brāhmaṇas^kṣīra.vikrayāt.(c) iti //"
+        },
+        {
+          "ref": "Va.2.28",
+          "body": "grāma.paśūnām eka.śaphās^keśinas^ca sarve ca^āraṇyās^paśavas^vayāṃsi daṃṣṭriṇas^ca //"
+        },
+        {
+          "ref": "Va.2.29",
+          "body": "dhānyānām^tilān āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.2.30",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.2.30",
+          "body": "bhojana.abhyañjanāt^dānāt^yat^anyat kurute(kṛ-) tilais^(c)/"
+        },
+        {
+          "ref": "Va.2.30",
+          "body": "kṛmi.bhūtas^śva.viṣṭhāyām^pitṛbhis^saha majjati(majj-).(c) iti //"
+        },
+        {
+          "ref": "Va.2.31",
+          "body": "kāmam^vā svayam^kṛṣya(kṛṣ-)^utpādya(ud-pad-) tilān vikrīṇīran(vi-krī-) //"
+        },
+        {
+          "ref": "Va.2.32",
+          "body": "tasmāt^sāṇḍābhyām a.nasi.otābhyām^prāk prātar.āśāt karṣī syāt(as-) //"
+        },
+        {
+          "ref": "Va.2.33",
+          "body": "nidāghe^apas^prayacchet(pra-yam-) //"
+        },
+        {
+          "ref": "Va.2.34",
+          "body": "lāṅgalam^pavīravat.su.śeva& soma.pitsaru /"
+        },
+        {
+          "ref": "Va.2.34",
+          "body": "tad ud vapati(vap-) gām avim^prapharvyam^ca pīvarīm^prasthāvat^ratha.vāhanam iti //"
+        },
+        {
+          "ref": "2.35",
+          "body": "lāṅgalam^pavīravat^vīravat sumanuṣyavat^anaḍudvat su.śevam^kalyāṇa.nāsikam^kalyāṇī hi^asya nāsikā nāsikathā^udvapati(ud-vap-) dūre^apavidhyati(apa-vyadh-) soma.pitsaru somas^hi^asya prāpnoti(pra-āp-) tat saru tat^udvapati(ud-vap-) gām^ca^avim^ca^ajān aśvān aśvatara.kharoṣṭān^ca prapharvyam^ca pīvarīm^darśanīyām^kalyāṇīm^ca prathama.yuvatīm //]"
+        },
+        {
+          "ref": "Va.2.36",
+          "body": "katham^hi laṅgalam udvapet(ud-vap-)^anyatra dhānya.vikrayāt //"
+        },
+        {
+          "ref": "Va.2.37",
+          "body": "rasās^rasais^mahatas^hīnatas^vā vibhātavyās(vi-bhā-)^//"
+        },
+        {
+          "ref": "Va.2.38",
+          "body": "na tu^eva lavaṇam^rasais^//"
+        },
+        {
+          "ref": "Va.2.39",
+          "body": "tila.taṇḍula.pakvānam^vidyā mānuṣyās^ca vihitās^parivarttakena //{BṣPṣ parivarttakena}{F parivartakena}"
+        },
+        {
+          "ref": "Va.2.40",
+          "body": "brāhmaṇa.rājanyau vārdhuṣī na dadyātām(dā-) //"
+        },
+        {
+          "ref": "Va.2.41",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.2.41",
+          "body": "sam.argham^dhānyam uddhṛtya(ud-hṛ-) mahā.argham^yas^prayacchati(pra-yam-) (c)/"
+        },
+        {
+          "ref": "Va.2.41",
+          "body": "sa vai vārdhuṣikas^nāma brahma.vādiṣu garhitas^(c)//"
+        },
+        {
+          "ref": "Va.2.42",
+          "body": "brahma.hatyām^ca vṛddhim^ca tulayā samatolayat(sam-tul-) (c)/"
+        },
+        {
+          "ref": "Va.2.42",
+          "body": "atiṣṭhat(sthā-)^bhrūṇahā koṭyām^vārdhuṣis^samakampata(sam-kamp-)(c) iti //"
+        },
+        {
+          "ref": "Va.2.43",
+          "body": "kāmam^vā parilupta.kṛtyāya pāpīyase dadyātām(dā-) //"
+        },
+        {
+          "ref": "Va.2.44",
+          "body": "dvi.guṇam^hiraṇyam^tri.guṇam^dhānyam //"
+        },
+        {
+          "ref": "Va.2.45",
+          "body": "dhānyena^eva rasās^vyākhyātās^//"
+        },
+        {
+          "ref": "Va.2.46",
+          "body": "puṣpa.mūla.phalāni ca //"
+        },
+        {
+          "ref": "Va.2.47",
+          "body": "tulā.dhṛtam aṣṭa.guṇam //"
+        },
+        {
+          "ref": "Va.2.48",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.2.48",
+          "body": "dvikam^trikam^catuṣkam^ca pañcakam^ca śatam^smṛtam (c)/"
+        },
+        {
+          "ref": "Va.2.48",
+          "body": "māsasya vṛddhim^gṛhṇīyāt(grah-)^varṇānām anupūrvaśas^(c)//"
+        },
+        {
+          "ref": "Va.2.49",
+          "body": "rājā tu mṛta.bhāvena dravya.vṛddhim^vināśayet(vi-naś-) (c)/"
+        },
+        {
+          "ref": "Va.2.49",
+          "body": "punar^rāja.abhiṣekeṇa dravya.mūlam^ca vardhate(vṛdh-) (c)//"
+        },
+        {
+          "ref": "Va.2.50",
+          "body": "vasiṣṭha.vacana.proktām^vṛddhim^vārdhuṣike śṛṇu(śru-) (c)/"
+        },
+        {
+          "ref": "Va.2.50",
+          "body": "pañca māṣās tu viṃśatyā evam^dharmas^na hīyate(hā-).(c) iti //"
+        },
+        {
+          "ref": "Va.2.50",
+          "body": "na hīyate(hā-) iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 3,
+      "aku_count": 98,
+      "akus": [
+        {
+          "ref": "Va.3.1",
+          "body": "aśrotriyās^ananuvākyās^anagnayas^vā śūdra.sadharmāṇas^bhavanti(bhū-) //"
+        },
+        {
+          "ref": "Va.3.2",
+          "body": "mānavam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.3.2",
+          "body": "yas^anadhītya(adhi-i-) dvijas^vedam anyatra kurute(kṛ-) śramam (c)/"
+        },
+        {
+          "ref": "Va.3.2",
+          "body": "sa jīvan(jīv-)^eva śūdratvam āśu gacchati(gam-) sa.anvayas^(c)//"
+        },
+        {
+          "ref": "Va.3.3",
+          "body": "na^an.ṛk^brāhmaṇas^bhavati(bhū-) na vaṇik^na kuśīlavas^(c)/"
+        },
+        {
+          "ref": "Va.3.3",
+          "body": "na śūdra.preṣaṇam^kurvan(kṛ-) na stenas^na cikitsakas^(c)//"
+        },
+        {
+          "ref": "Va.3.4",
+          "body": "a.vratās^hi^anadhīyānās^yatra bhaikṣa.carās^dvijās^(c)/"
+        },
+        {
+          "ref": "Va.3.4",
+          "body": "tam^grāmam^daṇḍayet(daṇḍay-)^rājā cora.bhakta.pradas^hi sas^(c)//"
+        },
+        {
+          "ref": "Va.3.5",
+          "body": "avratānām amantrāṇām^jāti.mātra.upajīvinām (c)/"
+        },
+        {
+          "ref": "Va.3.5",
+          "body": "sahasraśas^sametānām^pariṣattvam^na vidyate(vid-) (c)//"
+        },
+        {
+          "ref": "Va.3.6",
+          "body": "yat^vadanti(vad-) tamas.mūḍhās^mūrkhās^dharmam ajānatas(jñā-)^(c)/"
+        },
+        {
+          "ref": "Va.3.6",
+          "body": "tat^pāpam^śatadhā bhūtvā(bhū-) tat.vaktṝn adhigacchati(adhi-gam-) (c)//"
+        },
+        {
+          "ref": "Va.3.7",
+          "body": "catvāras^vā trayas^vā^api yam^brūyur(brū-) veda.pāragās^(c)/"
+        },
+        {
+          "ref": "Va.3.7",
+          "body": "sa dharmas^iti vijñeyas(vi-jñā-)^na^itareṣām^sahasraśas^(c)//"
+        },
+        {
+          "ref": "Va.3.8",
+          "body": "śrotriyāya ca deyāni havya.kavyāni nityaśas^(c)/"
+        },
+        {
+          "ref": "Va.3.8",
+          "body": "a.śrotriyāya dattam^hi pitṝn na^eti(i-) na devatās^(c)//"
+        },
+        {
+          "ref": "Va.3.9",
+          "body": "yasya ca^eka.gṛhe mūrkhas^dūre vā^api bahu.śrutas^(c)/"
+        },
+        {
+          "ref": "Va.3.9",
+          "body": "bahu.śrutāya dātavyam(dā-)^na^asti(as-) mūrkhe vyatikramas^(c)//"
+        },
+        {
+          "ref": "Va.3.10",
+          "body": "brāhmaṇa.atikramas^na^asti(as-) vipre veda.vivarjite (c)/"
+        },
+        {
+          "ref": "Va.3.10",
+          "body": "jvalantam agnim utsṛjya(ud-sṛj-) na hi bhasmani hūyate(hu-) (c)//"
+        },
+        {
+          "ref": "Va.3.11",
+          "body": "yas^ca kāṣṭha.mayas^hastī yas^ca carma.mayas^mṛgas^(c)/"
+        },
+        {
+          "ref": "Va.3.11",
+          "body": "yas^ca vipras^anadhīyānas trayas te nāma.dhārakās^(c)//"
+        },
+        {
+          "ref": "Va.3.12",
+          "body": "vidvat.bhojyāni^avidvāṃsas^yeṣu rāṣṭreṣu bhuñjate(bhuj-) (c)/"
+        },
+        {
+          "ref": "Va.3.12",
+          "body": "tāni^an.āvṛṣṭim ṛcchanti(ṛ-) mahat^vā jāyate(jan-) bhayam(c) iti //"
+        },
+        {
+          "ref": "Va.3.13",
+          "body": "aprajñāyamānam(< pra-jñā-)^vittam^yas^adhigacchet(adhi-gam-)^rājā tat^haret(hṛ-)^adhigantre ṣaṣṭham aṃśam^pradāya(pra-dā-) //"
+        },
+        {
+          "ref": "Va.3.14",
+          "body": "brāhmaṇas^cet^adhigacchet(adhi-gam-) ṣaṭsu karmasu varttamānas(vṛt-)^na rājā haret(hṛ-) //{BṣPṣ varttamānas}{F vartamānas}"
+        },
+        {
+          "ref": "Va.3.15",
+          "body": "ātatāyinam^hatvā(han-) na^atra prāṇa.chettus^kim.cit kilviṣam āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.3.16",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.3.16",
+          "body": "agni.das^gara.das^ca^eva śastra.pāṇis^dhana.apahas^(c)/"
+        },
+        {
+          "ref": "Va.3.16",
+          "body": "kṣetra.dāra.haras^ca^eva ṣaṭ^ete ātatāyinas^(c)//"
+        },
+        {
+          "ref": "Va.3.17",
+          "body": "ātatāyinam āyāntam api veda.anta.pāragam (c)/"
+        },
+        {
+          "ref": "Va.3.17",
+          "body": "jighāṃsantam^jighāṃsīyāt(han-)^na tena brahma.hā bhavet(bhū-) (c)//"
+        },
+        {
+          "ref": "Va.3.18",
+          "body": "svādhyāyinam^kule jātam^yas^hanyāt(han-)^ātatāyinam (c)/"
+        },
+        {
+          "ref": "Va.3.18",
+          "body": "na tena bhrūṇahā sa syāt(as-)^manyus tat.manyum ṛcchati(ṛ-).(c) iti //"
+        },
+        {
+          "ref": "Va.3.19",
+          "body": "triṇāciketas^pañca.agnis tri.suparṇas^catus.medhā vājasaneyī ṣaṭ.aṅga.vid^brahma.deya.anusantānas^chandogas^jyeṣṭha.sāma.gas^mantra.brāhmaṇa.vidyas^ca dharmān adhīte(adhi-i-) yasya ca daśa.puruṣam^mātṛ.pitṛ.vaṃśas^śrotriyas^vijñāyate(vi-jñā-) vidvāṃsas^snātakās^ca^ete paṅkti.pāvanās^bhavanti(bhū-) //"
+        },
+        {
+          "ref": "Va.3.20",
+          "body": "cāturvidyam^vikalpī ca aṅga.vid dharma.pāṭhakas^(c)/"
+        },
+        {
+          "ref": "Va.3.20",
+          "body": "āśrama.sthās trayas^mukhyās^parṣat^eṣām^daśa.avarā (c)//"
+        },
+        {
+          "ref": "Va.3.21",
+          "body": "upanīya(upa-nī-) kṛtsnam^vedam adhyāpayet(adhi-i-) sa ācāryas^(c)//"
+        },
+        {
+          "ref": "Va.3.22",
+          "body": "yas tu^eka.deśam^sa upādhyāyas^//"
+        },
+        {
+          "ref": "Va.3.23",
+          "body": "yas^ca veda.aṅgāni //"
+        },
+        {
+          "ref": "Va.3.24",
+          "body": "ātma.trāṇe varṇa.saṃvarge brāhmaṇa.vaiśyau śastram ādadīyātām(ā-dā-) //"
+        },
+        {
+          "ref": "Va.3.25",
+          "body": "kṣatriyasya tu tat^nityam eva rakṣaṇa.adhikārāt //"
+        },
+        {
+          "ref": "Va.3.26",
+          "body": "prakṣālya(pra-kṣal-) pādau pāṇī ca^ā maṇi.bandhāt prāk^vā^udak^vā^āsīnas^aṅguṣṭha.mūlasya^uttara.rekhā brāhmam^tīrtham^tena tris^ācāmet(ā-cam-)^a.śabda.vat //"
+        },
+        {
+          "ref": "Va.3.27",
+          "body": "dvis^parimṛjīta(pari-mṛj-) //"
+        },
+        {
+          "ref": "Va.3.28",
+          "body": "khāni^adbhis^saṃspṛśet(sam-spṛś-) //"
+        },
+        {
+          "ref": "Va.3.29",
+          "body": "mūrdhani^apas^ninayet(ni-nī-) savye ca pāṇau //"
+        },
+        {
+          "ref": "Va.3.30",
+          "body": "vrajan(vraj-)^tiṣṭhan(sthā-)^śayānas(śī-)^praṇatas^vā na^ācāmet(ā-cam-) //"
+        },
+        {
+          "ref": "Va.3.31",
+          "body": "hṛdayaṅgamābhis^adbhis^abudbudābhis^a.phenābhis^brāhmaṇas^//"
+        },
+        {
+          "ref": "Va.3.32",
+          "body": "kaṇṭhagābhis tu kṣatriyas^//"
+        },
+        {
+          "ref": "Va.3.33",
+          "body": "vaiśyas^adbhis^prāśitābhis^//"
+        },
+        {
+          "ref": "Va.3.34",
+          "body": "strī.śūdram^spṛṣṭābhis^eva ca //"
+        },
+        {
+          "ref": "Va.3.35",
+          "body": "pradarāt^api yās^gos taparṇa.samarthās^syus(as-)^//{BṣPṣ taparṇa}{F tarpaṇa}"
+        },
+        {
+          "ref": "Va.3.36",
+          "body": "na varṇa.gandha.rasa.duṣṭābhis^yās^ca syus(as-)^aśubhāgamās^//"
+        },
+        {
+          "ref": "Va.3.37",
+          "body": "na mukhyās^vipruṣas^ucchiṣṭam^kurvanti(kṛ-)^anaṅga.spṛṣṭās^//"
+        },
+        {
+          "ref": "Va.3.38",
+          "body": "suptvā(svap-) bhuktvā(bhuj-) kṣutvā(kṣu-) pītvā(pā-) ruditvā(rud-) snātvā(snā-) ca^antas^punar^ācāmet(ā-cam-)^vāsas^ca paridhāya(pari-dhā-) //"
+        },
+        {
+          "ref": "Va.3.39",
+          "body": "oṣṭhau saṃspṛśya(sam-spṛś-) yatra^a.lomakau //"
+        },
+        {
+          "ref": "Va.3.40",
+          "body": "na śmaśru.gatas^lepas^//"
+        },
+        {
+          "ref": "Va.3.41",
+          "body": "danta.vat^danta.sakteṣu yat^ca^antar.mūkhe bhavet(bhū-)^nigiran(ni-gṝ-)^eva tat^śucis^iti //"
+        },
+        {
+          "ref": "Va.3.42",
+          "body": "parān api^ācāmayatas(ā-cam-)^pādau yās^vipruṣas^gatās^(c)/"
+        },
+        {
+          "ref": "Va.3.42",
+          "body": "tābhis^na^ucchiṣṭatām^yānti(yā-) bhūmyās tās tu samās^smṛtās^(c)//"
+        },
+        {
+          "ref": "Va.3.43",
+          "body": "caran(car-)^abhyavahāreṣu ucchiṣṭam^yadi saṃspṛśet(sam-spṛś-) (c)/"
+        },
+        {
+          "ref": "Va.3.43",
+          "body": "bhūmau nidhāya(ni-dhā-) tat^dravyām ācamya(ā-cam-) pracaret(pra-car-) punas^(c)//"
+        },
+        {
+          "ref": "Va.3.44",
+          "body": "yat^yat^mīmāṃsyam(man-)^syāt(as-)^adbhis^saṃspṛśet(sam-spṛś-) //"
+        },
+        {
+          "ref": "Va.3.45",
+          "body": "śva.hatās^ca mṛgās^vanyās^pātitam^ca khagais^phalam (c)/"
+        },
+        {
+          "ref": "Va.3.45",
+          "body": "bālais^anuparikrāntam^strībhis^ācaritam^ca yat (c)//"
+        },
+        {
+          "ref": "Va.3.46",
+          "body": "prasāritam^ca yat paṇyam^ye doṣās^strī.mukheṣu ca (c)//"
+        },
+        {
+          "ref": "Va.3.47",
+          "body": "maśakais^makṣikābhis^ca nilīnais^na^upahanyate(upa-han-) (c)/"
+        },
+        {
+          "ref": "Va.3.47",
+          "body": "kṣiti.sthās^ca^eva yās^āpas^gavām^tṛpti.karās^ca yās^(c)/"
+        },
+        {
+          "ref": "Va.3.47",
+          "body": "parisaṃkhyāya(pari-sam-khyā-) tān sarvān^śucīn āha(ah-) prajāpatis.(c) iti //"
+        },
+        {
+          "ref": "Va.3.48",
+          "body": "lepa.gandha.apakarṣaṇe śaucam amedhya.liptasya^adbhis^mṛdā ca //"
+        },
+        {
+          "ref": "Va.3.49",
+          "body": "taijasa.mṛd.maya.dārava.tāntavānām^bhasma.parimārjana.pradāhana.takṣaṇa.dhāvanāni //"
+        },
+        {
+          "ref": "Va.3.50",
+          "body": "taijasavat^upala.maṇīnām //"
+        },
+        {
+          "ref": "Va.3.51",
+          "body": "maṇivat^śaṅkha.śuktīnām //"
+        },
+        {
+          "ref": "Va.3.52",
+          "body": "dāruvat^asthnām //"
+        },
+        {
+          "ref": "Va.3.53",
+          "body": "rajju.vidala.carmaṇān^cailavat^śaucam //"
+        },
+        {
+          "ref": "Va.3.54",
+          "body": "govālais^phala.mayānām //"
+        },
+        {
+          "ref": "Va.3.55",
+          "body": "gaura.sarṣapa.kalkena kṣaumajānām //"
+        },
+        {
+          "ref": "Va.3.56",
+          "body": "bhūmes tu saṃmārjana.upalena.ullekhana.prokṣaṇa.upakarṇais^yathā.sthānam^doṣa.viśeṣāt prāyatyam upaiti(upa-i-) //{BṣPṣ upalena}{E upalepana}"
+        },
+        {
+          "ref": "Va.3.57",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.3.57",
+          "body": "khananāt^dahanāt^dharṣāt^gobhis^ākramaṇāt^api (c)/"
+        },
+        {
+          "ref": "Va.3.57",
+          "body": "caturbhis^śudhyate(śudh-) bhūmis^pañcamāt^ca^upalepanāt (c)//"
+        },
+        {
+          "ref": "Va.3.58",
+          "body": "rajasā śudhyate(śudh-) nārī nadī vegena śudhyate(śudh-) (c)/"
+        },
+        {
+          "ref": "Va.3.58",
+          "body": "bhasmanā śudhyate(śudh-) kāṃsyam^punaḥpākena mṛd.mayam (c)//"
+        },
+        {
+          "ref": "Va.3.59",
+          "body": "madyais^mūtrais^purīṣais^vā śleṣma.pūya.aśru.śoṇitais^(c)/"
+        },
+        {
+          "ref": "Va.3.59",
+          "body": "saṃspṛṣṭam^na^eva śudhyeta(śudh-) punaḥpākena mṛd.mayam (c)//"
+        },
+        {
+          "ref": "Va.3.60",
+          "body": "adbhis^gātrāṇi śudhyanti(śudh-) manas^satyena śudhyati(śudh-) (c)/"
+        },
+        {
+          "ref": "Va.3.60",
+          "body": "vidyā.tapas.bhyām^bhūta.ātmā buddhis^jñānena śudhyati(śudh-).(c) iti //"
+        },
+        {
+          "ref": "Va.3.61",
+          "body": "adbhis^eva kāñcanam^pūyate(pū-) //"
+        },
+        {
+          "ref": "Va.3.62",
+          "body": "tathā rajatam //"
+        },
+        {
+          "ref": "Va.3.63",
+          "body": "tāmram amlena śudhyati(śudh-) //"
+        },
+        {
+          "ref": "Va.3.64",
+          "body": "aṅguli.kaniṣṭhikā.mūle daivam^tīrtham //"
+        },
+        {
+          "ref": "Va.3.65",
+          "body": "aṅgulyam ṛṣīṇām //"
+        },
+        {
+          "ref": "Va.3.66",
+          "body": "aṅguli.agreṣu mānuṣam //"
+        },
+        {
+          "ref": "Va.3.67",
+          "body": "pāṇi.madhya āgneyam //"
+        },
+        {
+          "ref": "Va.3.68",
+          "body": "pradeśinī.aṅguṣṭhayos^antarā pitryam //"
+        },
+        {
+          "ref": "Va.3.69",
+          "body": "rocate(ruc-)^iti sāyam.prātar.aśanāni^abhipūjayet //"
+        },
+        {
+          "ref": "Va.3.70",
+          "body": "svaditam iti pitrye //"
+        },
+        {
+          "ref": "Va.3.71",
+          "body": "saṃpannam iti^ābhyudayikeṣu^ābhyudayikeṣu^eti //{BṣPṣ eti}{F iti}"
+        }
+      ]
+    },
+    {
+      "chapter_num": 4,
+      "aku_count": 47,
+      "akus": [
+        {
+          "ref": "Va.4.1",
+          "body": "prakṛti.viśiṣṭam^cāturvarṇyam^saṃskāra.viśeṣāt^ca //"
+        },
+        {
+          "ref": "Va.4.2",
+          "body": "brāhmaṇas^asya mukham āsīt(as-)^bāhū rājanyas(rājaniyas)^kṛtas^(c)/"
+        },
+        {
+          "ref": "Va.4.2",
+          "body": "urū tat^asya yat^vaiśyas^padbhyām^śūdro ajāyata(jan-) (c)//{BṣPṣ urū}{F ūrū}{śūdro < śūdras}"
+        },
+        {
+          "ref": "Va.4.2",
+          "body": "iti^api nigamas^bhavati(bhū-) //"
+        },
+        {
+          "ref": "Va.4.3",
+          "body": "gāyatryā brāhmaṇam asṛjata(sṛj-) triṣṭubhā rājanyam^jagatyā vaiśyam^na kena.cit^chandasā śūdram iti^a.saṃskāryas^vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.4.4",
+          "body": "sarveṣām^satyam a.krodhas^dānam ahiṃsā prajananam^ca //"
+        },
+        {
+          "ref": "Va.4.5",
+          "body": "pitṛ.devatā.atithi.pūjāyām api^eva paśum^hiṃsyāt(hiṃs-)^iti mānavam //"
+        },
+        {
+          "ref": "Va.4.6",
+          "body": "madhuparke ca yajñe ca pitṛ.daivata.karmaṇi (c)/"
+        },
+        {
+          "ref": "Va.4.6",
+          "body": "atra^eva ca paśum^hiṃsyāt(hiṃs-)^na^anyathā^iti^abravīt(brū-)^manus^(c)//"
+        },
+        {
+          "ref": "Va.4.7",
+          "body": "na^akṛtvā(kṛ-) prāṇinām^hiṃsām^māṃsam utpadyate(ud-pad-) kva.cit (c)/"
+        },
+        {
+          "ref": "Va.4.7",
+          "body": "na ca prāṇi.vadhas^svargyas tasmāt^yāge vadhas^avadhas^(c)//"
+        },
+        {
+          "ref": "Va.4.8",
+          "body": "atha^api brāhmaṇāya vā rājanyāya vā^abhyāgatāya mahā.ukṣāṇam^vā mahā.ajam^vā pacet(pac-)^evam asmai^ātithyam^kurvanti(kṛ-)^iti //"
+        },
+        {
+          "ref": "Va.4.9",
+          "body": "udaka.kriyā.śaucam^ca dvi.varṣam^prabhṛti //"
+        },
+        {
+          "ref": "Va.4.10",
+          "body": "ā danta.jananāt^iti^eke //"
+        },
+        {
+          "ref": "Va.4.11",
+          "body": "śarīram agninā saṃyojyān avekṣamāṇās(ava-īkṣ-)^apas^abhyavayanti(abhi-ava-i-) //"
+        },
+        {
+          "ref": "Va.4.12",
+          "body": "savya.itarābhyām^pāṇibhyam udaka.kriyām^kurvīran(kṛ-)^a.yugmāsu dakṣiṇā.mukhās^//{BṣPṣ pāṇibhyam}{F pāṇibhyām}"
+        },
+        {
+          "ref": "Va.4.13",
+          "body": "pitṝṇām^vai^eṣā dik^yā dakṣiṇā //"
+        },
+        {
+          "ref": "Va.4.14",
+          "body": "gṛhān vrajitvā(vraj-) prastare tri.aham an.aśnantas(aś-)^āsīran(ās-) //"
+        },
+        {
+          "ref": "Va.4.15",
+          "body": "aśaktau krīta.utpannena varteran(vṛt-) //"
+        },
+        {
+          "ref": "Va.4.16",
+          "body": "daśa.aham^śāvam āśaucam^sapiṇḍeṣu vidhīyate(vi-dhā-) //"
+        },
+        {
+          "ref": "Va.4.17",
+          "body": "sapiṇḍatvam^sa.āpta.puruṣam^vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.4.18",
+          "body": "prattānām^ca strīṇām^tri.puruṣam^vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.4.19",
+          "body": "prattānām itare kurvīran(kṛ-)^tās^ca teṣām //"
+        },
+        {
+          "ref": "Va.4.20",
+          "body": "janane^api^evam eva syāt(as-)^nipuṇām^śuddhim icchatām(iṣ-) //"
+        },
+        {
+          "ref": "Va.4.21",
+          "body": "mātā.pitros^vā //"
+        },
+        {
+          "ref": "Va.4.22",
+          "body": "tat.nimittatvāt^mātus^iti^eke //"
+        },
+        {
+          "ref": "Va.4.23",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.4.23",
+          "body": "na^aśaucam^sūtake puṃsas^saṃsargam^cet^na gacchati(gam-) (c)/"
+        },
+        {
+          "ref": "Va.4.23",
+          "body": "rajas tatra^aśuci jñeyam^tat^ca puṃṣi na vidyate(vid-).(c) iti //"
+        },
+        {
+          "ref": "Va.4.24",
+          "body": "tat^cet^antas^punar āpatet(ā-pat-)^śeṣeṇa śudhyeran(śudh-) //"
+        },
+        {
+          "ref": "Va.4.25",
+          "body": "rātri.śeṣe dvābhyām //"
+        },
+        {
+          "ref": "Va.4.26",
+          "body": "prabhāte tisṛbhis^//"
+        },
+        {
+          "ref": "Va.4.27",
+          "body": "brāhmaṇas^daśa.rātreṇa //"
+        },
+        {
+          "ref": "Va.4.28",
+          "body": "pañcadaśa.rātreṇa rājanyas^//"
+        },
+        {
+          "ref": "Va.4.29",
+          "body": "viṃśati.rātreṇa vaiśyas^//"
+        },
+        {
+          "ref": "Va.4.30",
+          "body": "śūdras^māsena śudhyati(śudh-) //"
+        },
+        {
+          "ref": "Va.4.31",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.4.31",
+          "body": "aśauce yas tu śūdrasya sūtake vā^api bhuktavān(bhuj-) (c)/"
+        },
+        {
+          "ref": "Va.4.31",
+          "body": "sa gacchet(gam-)^narakam^ghoram^tiryak.yonyām^ca jāyate(jan-) (c)//"
+        },
+        {
+          "ref": "Va.4.32",
+          "body": "anirdaśāhe para.śave niyogāt^bhuktavān(bhuj-) dvijas^(c)/"
+        },
+        {
+          "ref": "Va.4.32",
+          "body": "kṛmis^bhūtvā(bhū-) sa deha.ante tām^viṣṭhām^samupāśnute(sam-up-aś-).(c) iti //"
+        },
+        {
+          "ref": "Va.4.33",
+          "body": "dvādaśa māsān dvādaśa^ardhamāsān vā^an.aśnan(aś-) saṃhitā.adhyayanam adhīyānas(adhi-i-)^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.4.34",
+          "body": "ūna.dvi.varṣe prete(pra-i-) garbha.patane vā sapiṇḍānām^tri.rātram āśaucam //"
+        },
+        {
+          "ref": "Va.4.35",
+          "body": "sadyas^śaucam iti gautamas^//"
+        },
+        {
+          "ref": "Va.4.36",
+          "body": "deśa.antara.sthe prete(pra-i-)^ūrdhvam^daśa.ahāt^śrutvā(śru-)^eka.rātram āśaucam //"
+        },
+        {
+          "ref": "Va.4.37",
+          "body": "āhitāgnis^cet pravasan(pra-vas-) mriyeta(mṛ-) punar^saṃskāram^kṛtvā(kṛ-) śavavat.śaucam iti gautamas^//"
+        },
+        {
+          "ref": "Va.4.38",
+          "body": "yūpa.citi.śmaśāna.rajasvalā.sūtikā.aśucīn^ca spṛṣṭvā(spṛś-) sa.śiraskas^abhyupeyāt(abhi-upa-i-)^apas^iti^apas^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 5,
+      "aku_count": 14,
+      "akus": [
+        {
+          "ref": "Va.5.1",
+          "body": "a.svatantrā strī puruṣa.pradhānā //"
+        },
+        {
+          "ref": "Va.5.2",
+          "body": "an.agnikā^an.udakyā vā^amṛtam iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.5.3",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.5.3",
+          "body": "pitā rakṣati(rakṣ-) kaumāre bhartā rakṣati(rakṣ-) yauvane (c)/"
+        },
+        {
+          "ref": "Va.5.3",
+          "body": "putras^ca sthavire bhāve na strī svātantryam arhati(arh-).(c) iti //"
+        },
+        {
+          "ref": "Va.5.4",
+          "body": "tasyā bhartus^abhicāras^uktam^prāyaścittam^rahasyeṣu //"
+        },
+        {
+          "ref": "Va.5.5",
+          "body": "māsi māsi rajas^hi^āsām^duṣkṛtāni^apakarṣati(apa-kṛṣ-) //"
+        },
+        {
+          "ref": "Va.5.6",
+          "body": "tri.rātram^rajasvalā^aśucis^bhavati(bhū-) //"
+        },
+        {
+          "ref": "Va.5.7",
+          "body": "sā na^añjyāt(añj-)^na^abhyañjyāt(abhi-añj-)^na^apsu snāyāt(snā-)^adhas^śayīta(śī-) na divā svapyāt(svap-)^na^agnim^spṛśet(spṛś-)^na rañjum^sṛjet(sṛj-)^na dantān dhāvayet(dhāv-)^na māṃsam aśnīyāt(aś-)^na grahān nirīkṣeta(nir-īkṣ-) na haset(has-)^na kiṃcetad ācaret(ā-car-)^na dhāvetad akharveṇa pātreṇa pibet(pā-)^añjalinā vā pibet(pā-)^lohita.ayasena vā //{BṣPṣ kiṃcetad}{F kiṃcid}{BṣPṣ dhāvetad}{F dhāved(dhāv-)}"
+        },
+        {
+          "ref": "Va.5.8",
+          "body": "vijñāyate(vi-jñā-) hi / indras triśīrṣāṇam^tvāṣṭram^hatvā(han-) pāpma.gṛhītas^mahattama.adharma.saṃbaddhas^aham iti^evam ātmānam amanyata(man-) / tam^sarvāṇi bhūtāni^abhyakrośan(abhi-kruś-) bhrūṇahan bhrūṇahan^iti / sa striyas^upādhāvat^asyai me bhrūṇahatyāyai tṛtīyam^bhāgam^pratigṛhṇīta(prati-gṛh-)^iti / tā abravan(brū-) kim^no bhūyāt(bhū-)^iti / sas^abravīt(brū-)^varam^vṛṇīdhvam(vṛ-) iti / tās^abruvan(brū-)^ṛtau prajām^vindāmahe(vid-)^iti kāmam ā vijanitos^saṃbhavāma(sam-bhū-)^iti / tathā^iti tās^pratijagṛhus^sā^eṣā bhrūṇahatyā māsi-māsi^āvis^bhavati(bhū-) tasmāt^rajasvalāyā annam^na^aśnīyāt(aś-)^bhrūṇahatyāyā eva^eṣā rūpam^pratimucya(prati-muc-)^āste //"
+        },
+        {
+          "ref": "Va.5.9",
+          "body": "tat^āhur(ah-)^/ añjana.abhyañjanam eva^asyās^na pratigrāhyam^tat^hi striyās^annam iti / tasmāt tasyai ca tatra ca bībhatsante(bhī-) mā^iyam upāgāt(upa-ā-gā-)^iti //"
+        },
+        {
+          "ref": "Va.5.10",
+          "body": "udakyās tu^āsate(ās-) yeṣām^ye ca ke.cit^anagnayas^(c)/"
+        },
+        {
+          "ref": "Va.5.10",
+          "body": "kulam^ca^aśrotriyām yeṣām^sarve te śūdra.dharmiṇas.(c) iti //"
+        },
+        {
+          "ref": "Va.5.10",
+          "body": "sarve te śūdra.dharmiṇas^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 6,
+      "aku_count": 77,
+      "akus": [
+        {
+          "ref": "Va.6.1",
+          "body": "ācāras^paramas^dharmas^sarveṣām iti niścayas^(c)/"
+        },
+        {
+          "ref": "Va.6.1",
+          "body": "hīna.ācāra.parīta.ātmā pretya(pra-i-) ca^iha ca naśyati(naś-) (c)//"
+        },
+        {
+          "ref": "Va.6.2",
+          "body": "na^enam^tapāṃsi na brahma na^agnihotram^na dakṣiṇās^(c)/"
+        },
+        {
+          "ref": "Va.6.2",
+          "body": "hīna.ācāram itas^bhraṣṭam^tārayanti(tṛ-) katham.cana (c)//"
+        },
+        {
+          "ref": "Va.6.3",
+          "body": "ācāra.hīnam^na punanti(pū-) vedās^yadi^api^adhītās^saha ṣaḍbhis^aṅgais^(c)/"
+        },
+        {
+          "ref": "Va.6.3",
+          "body": "chandāṃsi^enam^mṛtyu.kāle tyajanti(tyaj-) nīḍam^śakuntās^iva jāta.pakṣās^(c)//"
+        },
+        {
+          "ref": "Va.6.4",
+          "body": "ācāra.hīnasya tu brāhmaṇasya vedās^ṣaṭ.aṅgās tu^akhilās^sa.yajñās^(c)/"
+        },
+        {
+          "ref": "Va.6.4",
+          "body": "kām^prītim utpādayitum(ud-pad-)^samarthās^andhasya dārās^iva darśanīyās^(c)//"
+        },
+        {
+          "ref": "Va.6.5",
+          "body": "na^enam^chandāṃsi vṛjināt tārayanti(tṛ-) māyāvinam^māyayā vartamānam(vṛt-) (c)/"
+        },
+        {
+          "ref": "Va.6.5",
+          "body": "dve^api^akṣare samyak^adhīyamāne(adhi-i-) punāti(pū-) tat^brahma yathā iṣe^abdās^(c)//"
+        },
+        {
+          "ref": "Va.6.6",
+          "body": "dus.ācāras^hi puruṣas^loke bhavati(bhū-) ninditas^(c)/"
+        },
+        {
+          "ref": "Va.6.6",
+          "body": "duḥkha.bhāgī ca satatam^vyādhitas^alpa.āyus^eva ca (c)//"
+        },
+        {
+          "ref": "Va.6.7",
+          "body": "ācārāt phalate(phal-) dharmas^ācārāt phalate(phal-) dhanam (c)/"
+        },
+        {
+          "ref": "Va.6.7",
+          "body": "ācārāt^śriyam āpnoti(āp-) ācāras^hanti(han-)^a.lakṣaṇam (c)//"
+        },
+        {
+          "ref": "Va.6.8",
+          "body": "sarva.lakṣaṇa.hīnas^api yas^sat.ācāra.vān naras^(c)/"
+        },
+        {
+          "ref": "Va.6.8",
+          "body": "śraddadhānas^anasūyas^ca śatam^varṣāṇi jīvati(jīv-) (c)//"
+        },
+        {
+          "ref": "Va.6.9",
+          "body": "āhāra.nirhāra.vihāra.yogās^su.saṃvṛtās^dharma.vidā tu kāryās^(c)/"
+        },
+        {
+          "ref": "Va.6.9",
+          "body": "vāc.buddhi.kāryāṇi tapas tathā^eva dhana.āyuṣī guptatame tu kārye (c)//"
+        },
+        {
+          "ref": "Va.6.10",
+          "body": "ubhe mūtra.purīṣe divā kuryāt(kṛ-)^udaṅ.mukhas^(c)/"
+        },
+        {
+          "ref": "Va.6.10",
+          "body": "rātrau tu dakṣiṇā kuryāt(kṛ-)^evam^hi^āyus^na riṣyati(riṣ-) (c)//"
+        },
+        {
+          "ref": "Va.6.11",
+          "body": "prati^agnim^prati sūryam^ca prati gām^prati brāhmaṇam (c)/"
+        },
+        {
+          "ref": "Va.6.11",
+          "body": "prati soma.udakam^sandhyām^prajñā naśyati(naś-) mehatas^(c)//"
+        },
+        {
+          "ref": "Va.6.12",
+          "body": "na nadyām^mehanam^kuryāt(kṛ-)^na pathi na ca bhasmani (c)/"
+        },
+        {
+          "ref": "Va.6.12",
+          "body": "na go.maye na kṛṣṭe na^upte na śādvala.upajīvya.chāyāsu //"
+        },
+        {
+          "ref": "Va.6.13",
+          "body": "chāyāyām andhakāre vā rātrau^ahani vā dvijas^(c)/"
+        },
+        {
+          "ref": "Va.6.13",
+          "body": "yathāsukha.mukhas^kuryāt(kṛ-) prāṇa.bādhābhayeṣu ca (c)//"
+        },
+        {
+          "ref": "Va.6.14",
+          "body": "uddhṛtābhis^adbhis^kāryam^kuryāt(kṛ-) //"
+        },
+        {
+          "ref": "Va.6.15",
+          "body": "snānam an.uddhṛtābhis^api //"
+        },
+        {
+          "ref": "Va.6.16",
+          "body": "āharet(ā-hṛ-)^mṛttikām^vipras^kūlāt sasikatā tu yā (c)//"
+        },
+        {
+          "ref": "Va.6.17",
+          "body": "antarjale deva.gṛhe valmīke mūṣaka.sthale (c)/"
+        },
+        {
+          "ref": "Va.6.17",
+          "body": "kṛta.śauca.avaśiṣṭās^vā na grāhyās^pañca mṛttikās^(c)//"
+        },
+        {
+          "ref": "Va.6.18",
+          "body": "ekā liṅge kare tisras^ubhayos^mṛd.dvayam^smṛtam (c)/"
+        },
+        {
+          "ref": "Va.6.18",
+          "body": "pañca^apāne daśa^ekasmin^ubhayos^sapta mṛttikās^(c)//"
+        },
+        {
+          "ref": "Va.6.19",
+          "body": "etat^śaucam^gṛhasthānām^dvi.guṇam^brahmacāriṇām (c)/"
+        },
+        {
+          "ref": "Va.6.19",
+          "body": "tri.guṇam^vānaprasthānām^yatīnām^tat^catus.guṇam(c) iti //"
+        },
+        {
+          "ref": "Va.6.20",
+          "body": "aṣṭau grāsās^munes^bhaktam^vānaprasthasya ṣoḍaśa (c)/"
+        },
+        {
+          "ref": "Va.6.20",
+          "body": "dvātriṃśat tu gṛhasthasya^a.parimitam^brahmacāriṇas^//"
+        },
+        {
+          "ref": "Va.6.21",
+          "body": "āhitāgnis^anaḍvān^ca brahmacārī ca te trayas^(c)/"
+        },
+        {
+          "ref": "Va.6.21",
+          "body": "aśnantas(aś-)^eva sidhyanti(sidh-) na^eṣām^siddhis^an.aśnatām(aś-) (c)//"
+        },
+        {
+          "ref": "Va.6.22",
+          "body": "vrateṣu niyameṣu ca.ijyā.adhyayana.dharmeṣu (c)//"
+        },
+        {
+          "ref": "Va.6.23",
+          "body": "yogas tapas^damas^dānam^satyam^śaucam^śrutam^ghṛṇā (c)/"
+        },
+        {
+          "ref": "Va.6.23",
+          "body": "vidyā vijñānam āstikyam etat^brāhmaṇa.lakṣaṇam (c)//"
+        },
+        {
+          "ref": "Va.6.24",
+          "body": "dīrgha.vairam asūyā ca.a.satyam^brāhmaṇa.dūṣaṇam (c)/"
+        },
+        {
+          "ref": "Va.6.24",
+          "body": "paiśunyam^nir.dayatvam^ca jānīyāt(jñā-)^śūdra.lakṣaṇam (c)//"
+        },
+        {
+          "ref": "Va.6.25",
+          "body": "ye śānta.dāntās^śruti.pūrṇa.karṇās^jita.indriyās^prāṇi.vadhāt^nivṛttās^(c)/"
+        },
+        {
+          "ref": "Va.6.25",
+          "body": "pratigrahe saṅkucita.agra.hastās te brāhmaṇās tārayitum(tṛ-)^samarthās^(c)//"
+        },
+        {
+          "ref": "Va.6.26",
+          "body": "kim.cit^veda.mayam^pātram^kim.cit pātram^tapas.mayam (c)/"
+        },
+        {
+          "ref": "Va.6.26",
+          "body": "pātrāṇām api tat pātram^śūdra.annam^yasya na^udare (c)//"
+        },
+        {
+          "ref": "Va.6.27",
+          "body": "śūdra.annena^udara.sthena yadi kas.cit^mṛtas^dvijas^(c)/"
+        },
+        {
+          "ref": "Va.6.27",
+          "body": "sa bhavet(bhū-)^śūkaras^grāmyas tasya vā jāyate(jan-) kule (c)//"
+        },
+        {
+          "ref": "Va.6.28",
+          "body": "śūdra.anna.rasa.puṣṭa.aṅgas^hi^adhīyānas^api nityaśas^(c)/"
+        },
+        {
+          "ref": "Va.6.28",
+          "body": "juhvan(hu-) vā^api japan(jap-) vā^api gatim ūrdhvām^na vindati(vid-) (c)//"
+        },
+        {
+          "ref": "Va.6.29",
+          "body": "śūdra.annena tu bhuktena maithunam^yas^adhigacchati(adhi-gam-) (c)/"
+        },
+        {
+          "ref": "Va.6.29",
+          "body": "yasya^annam^tasya te putrās^na ca svarga.āruhas^bhavet(bhū-) (c)//"
+        },
+        {
+          "ref": "Va.6.30",
+          "body": "svādhyāya.uttham^yonimantam^praśāntam^vaitāna.stham^pāpa.bhīrum^bahu.jñam (c)/"
+        },
+        {
+          "ref": "Va.6.30",
+          "body": "strīṣu kṣāntam^dhārmikam^go.śaraṇyam^vratais^klāntam^tādṛśam^pātram āhur(ah-)^(c)//"
+        },
+        {
+          "ref": "Va.6.31",
+          "body": "āma.pātre yathā nyastam^kṣīram^dadhi ghṛtam^madhu (c)/"
+        },
+        {
+          "ref": "Va.6.31",
+          "body": "vinaśyet(vi-naś-) pātra.daurbalyāt^na ca pātram^rasās^ca te (c)//"
+        },
+        {
+          "ref": "Va.6.32",
+          "body": "evam^gās^vā hiraṇyam^vā vastram aśvam^mahīm^tilān (c)/"
+        },
+        {
+          "ref": "Va.6.32",
+          "body": "avidvān(vid-) pratigṛhṇānas^bhasmībhavati(bhasmī-bhū-) kāṣṭhavat (c)//"
+        },
+        {
+          "ref": "Va.6.33",
+          "body": "na^aṅga.nakha.vādanam^kuryāt(kṛ-) //"
+        },
+        {
+          "ref": "Va.6.34",
+          "body": "nakhais^ca bhojana.ādau //"
+        },
+        {
+          "ref": "Va.6.35",
+          "body": "na ca^apas^añjalinā pibet(pā-) //"
+        },
+        {
+          "ref": "Va.6.36",
+          "body": "na pādena pāṇinā vā jalam abhihanyāt(abhi-han-) //"
+        },
+        {
+          "ref": "Va.6.37",
+          "body": "na jalena jalam //"
+        },
+        {
+          "ref": "Va.6.38",
+          "body": "na^iṣṭakābhis^phalam^śātayīta(śat-) //"
+        },
+        {
+          "ref": "Va.6.39",
+          "body": "na phalena phalam //"
+        },
+        {
+          "ref": "Va.6.40",
+          "body": "na kalkas^na kuhakas^bhavet(bhū-) //"
+        },
+        {
+          "ref": "Va.6.41",
+          "body": "na mleccha.bhāṣām^śikṣeta(śikṣ-) //"
+        },
+        {
+          "ref": "Va.6.42",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.6.42",
+          "body": "na pāṇi.pāda.capalas^na netra.capalas^bhavet(bhū-) (c)/"
+        },
+        {
+          "ref": "Va.6.42",
+          "body": "na ca vāc.aṅga.capalas^iti śiṣṭasya gocaras^(c)//"
+        },
+        {
+          "ref": "Va.6.43",
+          "body": "pāraṃparya.gatas^yeṣām^vedas^sa.paribṛṃhaṇas^(c)/"
+        },
+        {
+          "ref": "Va.6.43",
+          "body": "te śiṣṭās^brāhmaṇās^jñeyās^śruti.pratyakṣa.hetavas^(c)//"
+        },
+        {
+          "ref": "Va.6.44",
+          "body": "yam^na santam^na vā^asantam^na^a.śrutam^na bahu.śrutam (c)/"
+        },
+        {
+          "ref": "Va.6.44",
+          "body": "na su.vṛttam^na dur.vṛttam^veda kas.cit sa brāhmaṇas^(c)//"
+        },
+        {
+          "ref": "Va.6.44",
+          "body": "sa brāhmaṇas^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 7,
+      "aku_count": 17,
+      "akus": [
+        {
+          "ref": "Va.7.1",
+          "body": "catvāras^āśramās^//"
+        },
+        {
+          "ref": "Va.7.2",
+          "body": "brahmacāri.gṛhastha.vānaprastha.parivrājakās^//"
+        },
+        {
+          "ref": "Va.7.3",
+          "body": "teṣām^vedam adhītya(adhi-i-) vedau vedān vā^a.viśīrṇa.brahmacaryas^yam icchet(iṣ-) tam āvaset(ā-vas-) //"
+        },
+        {
+          "ref": "Va.7.4",
+          "body": "brahamacārī^ācāryam^paricaret(pari-car-)^ā śarīra.vimokṣaṇāt //"
+        },
+        {
+          "ref": "Va.7.5",
+          "body": "ācārye ca prete(pra-i-)^agnim^paricaret(pari-car-) //"
+        },
+        {
+          "ref": "Va.7.6",
+          "body": "vijñāyate(vi-jñā-) hi^agnis^ācāryas tava^iti //"
+        },
+        {
+          "ref": "Va.7.7",
+          "body": "saṃyata.vāc //"
+        },
+        {
+          "ref": "Va.7.8",
+          "body": "caturtha.ṣaṣṭha.aṣṭama.kāla.bhojī //"
+        },
+        {
+          "ref": "Va.7.9",
+          "body": "bhaikṣam ācaret(ā-car-) //"
+        },
+        {
+          "ref": "Va.7.10",
+          "body": "guru.adhīnas^//"
+        },
+        {
+          "ref": "Va.7.11",
+          "body": "jaṭilas^śikhā.jaṭas^vā //"
+        },
+        {
+          "ref": "Va.7.12",
+          "body": "gurum^gacchantam(gam-) anugacchet(anu-gam-)^āsīnas(ās-)^cet tiṣṭhet(sthā-)^śayānas(śī-)^cet^āsīnas(ās-)^upāsīta(upa-ās-) //"
+        },
+        {
+          "ref": "Va.7.13",
+          "body": "āhūta.adhyāyī //"
+        },
+        {
+          "ref": "Va.7.14",
+          "body": "sarvam^labdham^nivedya(ni-vid-) tat.anujñayā bhuñjīta(bhuj-) //"
+        },
+        {
+          "ref": "Va.7.15",
+          "body": "khaṭvā.śayana.danta.dhāvana.prakṣālana.āñjana.abhyañjana.upāna.chatra.varjī //"
+        },
+        {
+          "ref": "Va.7.16",
+          "body": "tiṣṭhet(sthā-)^ahani rātrau^āsīta(ās-) //"
+        },
+        {
+          "ref": "Va.7.17",
+          "body": "tris^ahnas^abhyupeyāt(abhi-upa-i-)^apas^iti^apas^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 8,
+      "aku_count": 25,
+      "akus": [
+        {
+          "ref": "Va.8.1",
+          "body": "gṛhasthas^vinīta.krodha.harṣas^guruṇā^anujñātas^snātvā^a.samāna.ārṣeyām a.spṛṣṭa.maithunām avara.vayasīm^sadṛśīm^bhāryām^vindeta(vid-) //"
+        },
+        {
+          "ref": "Va.8.2",
+          "body": "pañcamīm^mātṛ.bandhubhyas^saptamīm^pitṛ.bandhubhyas^//"
+        },
+        {
+          "ref": "Va.8.3",
+          "body": "vaivāhyam agnim indhīta(indh-) //"
+        },
+        {
+          "ref": "Va.8.4",
+          "body": "sāyam āgatam atithim^na^aparundhyāt(apa-rudh-) //"
+        },
+        {
+          "ref": "Va.8.5",
+          "body": "na^asya^an.aśnan(aś-) gṛhe vaset(vas-) //"
+        },
+        {
+          "ref": "Va.8.6",
+          "body": "yasya na^aśnāti(aś-) vāsa.arthī brāhmaṇas^gṛham āgatas^(c)/"
+        },
+        {
+          "ref": "Va.8.6",
+          "body": "sukṛtam^tasya yat kim.cit sarvam ādāya(ā-dā-) gacchati(gam-) (c)//"
+        },
+        {
+          "ref": "Va.8.7",
+          "body": "eka.rātram^tu nivasan(ni-vas-)^atithis^brāhmaṇas^smṛtas^(c)/"
+        },
+        {
+          "ref": "Va.8.7",
+          "body": "anityam^hi sthitas^yasmāt tasmāt^atithis^ucyate(vac-) (c)//"
+        },
+        {
+          "ref": "Va.8.8",
+          "body": "na^eka.grāmīṇa atithis^vipras^sāṅgatikas tathā (c)/{grāmīṇa < grāmīṇas.}"
+        },
+        {
+          "ref": "Va.8.8",
+          "body": "kāle prāpte akāle vā na^asya^an.aśnan(aś-) gṛhe vaset(vas-) (c)//"
+        },
+        {
+          "ref": "Va.8.9",
+          "body": "śraddhā.śīlas^a.spṛhayālus^alam agnyādheyāya na^anāhitāgnis^syāt(as-) //"
+        },
+        {
+          "ref": "Va.8.10",
+          "body": "alam^ca somāya na^a.soma.yājī //"
+        },
+        {
+          "ref": "Va.8.11",
+          "body": "yuktas^svādhyāye yajñe prajanane ca //"
+        },
+        {
+          "ref": "Va.8.12",
+          "body": "gṛheṣu^abhyāgatam^pratyutthāna.āsana.vāc.sūnṛta.anasūyābhis^mahayet(mah-) //"
+        },
+        {
+          "ref": "Va.8.13",
+          "body": "yathā.śakti ca^annena sarvāṇi bhūtāni //"
+        },
+        {
+          "ref": "Va.8.14",
+          "body": "gṛhasthas^eva yajate(yaj-) gṛhasthas tapyate(tap-) tapas^(c)/"
+        },
+        {
+          "ref": "Va.8.14",
+          "body": "caturṇām āśramāṇām^tu gṛhasthas^ca viśiṣyate(vi-śiṣ-) (c)//"
+        },
+        {
+          "ref": "Va.8.15",
+          "body": "yathā nadī.nadās^sarve samudre yānti(yā-) saṃsthitim (c)/"
+        },
+        {
+          "ref": "Va.8.15",
+          "body": "evam āśramiṇas^sarve gṛhasthe yānti(yā-) saṃsthitim (c)//"
+        },
+        {
+          "ref": "Va.8.16",
+          "body": "yathā mātaram āśritya(ā-śri-) sarve jīvanti(jīv-) jantavas^(c)/"
+        },
+        {
+          "ref": "Va.8.16",
+          "body": "evam^gṛhastham āśritya(ā-śri-) sarve jīvanti(jīv-) bhikṣukās^(c)//"
+        },
+        {
+          "ref": "Va.8.17",
+          "body": "nitya.udakī nitya.yajña.upavītī nitya.svādhyāyī patita.anna.varjī (c)/"
+        },
+        {
+          "ref": "Va.8.17",
+          "body": "ṛtau ca gacchan(gam-) vidhivat^ca juhvan(hu-) na brāhmaṇas^cyavate(cyu-) brahma.lokāt (c)//"
+        },
+        {
+          "ref": "Va.8.17",
+          "body": "brahma.lokāt^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 9,
+      "aku_count": 12,
+      "akus": [
+        {
+          "ref": "Va.9.1",
+          "body": "vānaprasthas^jaṭilas^cīra.ajina.vāsī //"
+        },
+        {
+          "ref": "Va.9.2",
+          "body": "grāmam^ca na praviśet(pra-viś-) //"
+        },
+        {
+          "ref": "Va.9.3",
+          "body": "na phāla.kṛṣṭam adhitiṣṭhet(adhi-sthā-) //"
+        },
+        {
+          "ref": "Va.9.4",
+          "body": "a.kṛṣṭam^mūla.phalam^sañcinvīta(sam-ci-) //"
+        },
+        {
+          "ref": "Va.9.5",
+          "body": "urdhva.retās^//{BṣPṣ urdhva}{F ūrdhva}"
+        },
+        {
+          "ref": "Va.9.6",
+          "body": "kṣama.āśayas^//"
+        },
+        {
+          "ref": "Va.9.7",
+          "body": "mūla.phala.bhaikṣeṇa^āśrama.āgatam atithim abhyarcayet(abhi-arc-) //"
+        },
+        {
+          "ref": "Va.9.8",
+          "body": "dadyāt(dā-)^eva na pratigṛhṇīyāt(prati-grah-) //"
+        },
+        {
+          "ref": "Va.9.9",
+          "body": "tri.pavaṇam udaka.upasparśī //"
+        },
+        {
+          "ref": "Va.9.10",
+          "body": "śrāmaṇakena^agnim ādhāya(ā-dhā-)^āhitāgnis^syāt(as-) //"
+        },
+        {
+          "ref": "Va.9.11",
+          "body": "vṛkṣa.mūla.niketanas^ūrdhvam^ṣaḍbhyas^māsebhyas^anagnis^aniketas^//"
+        },
+        {
+          "ref": "Va.9.12",
+          "body": "dadyāt(dā-)^deva.pitṛ.manuṣyebhyas^sa gacchet(gam-) svargam ānantyam iti^ānantyam //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 10,
+      "aku_count": 42,
+      "akus": [
+        {
+          "ref": "Va.10.1",
+          "body": "parivrājakas^sarva.bhūta.abhaya.dakṣiṇām^dattvā(dā-) pratiṣṭheta(prati-sthā-) //"
+        },
+        {
+          "ref": "Va.10.2",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.10.2",
+          "body": "abhayam^sarva.bhūtebhyas^dattvā(dā-) carati(car-) yas^munis^(c)/"
+        },
+        {
+          "ref": "Va.10.2",
+          "body": "tasya^api sarva.bhūtebhyas^na bhayam^jātu vidyate(vid-) (c)//"
+        },
+        {
+          "ref": "Va.10.3",
+          "body": "abhayam^sarva.bhūtebhyas^dattvā(dā-) yas tu nivarttate(ni-vṛt-) (c)/{BṣPṣ nivarttate}{F nivartate}"
+        },
+        {
+          "ref": "Va.10.3",
+          "body": "hanti(han-) jātān ajātān^ca dravyāṇi pratigṛhya(prati-grah-) ca (c)//"
+        },
+        {
+          "ref": "Va.10.4",
+          "body": "sannyaset(sam-ni-as-) sarva.karmāṇi vedam ekam^na sannyaset(sam-ni-as-) (c)/"
+        },
+        {
+          "ref": "Va.10.4",
+          "body": "veda.sannyasanāt^śūdras tasmāt^vedam^na sannyaset(sam-ni-as-) (c)//"
+        },
+        {
+          "ref": "Va.10.5",
+          "body": "eka.akṣaram^param^brahma prāṇa.āyāmās^param^tapas^(c)/"
+        },
+        {
+          "ref": "Va.10.5",
+          "body": "upavāsāt param^bhaikṣam^dayā dānāt^viśiṣyate(vi-śiṣ-).(c) iti //"
+        },
+        {
+          "ref": "Va.10.6",
+          "body": "muṇḍas^a.mamas^a.parigrahas^//"
+        },
+        {
+          "ref": "Va.10.7",
+          "body": "sapta^āgārāṇi^a.saṅkalpitāni caret(car-)^bhikṣām //"
+        },
+        {
+          "ref": "Va.10.8",
+          "body": "vi.dhūme san(as-)^a.musale //"
+        },
+        {
+          "ref": "Va.10.9",
+          "body": "eka.śāṭī.parihitas^//"
+        },
+        {
+          "ref": "Va.10.10",
+          "body": "ajinena vā go.pralūnais tṛṇais^avastṛta.śarīras^//"
+        },
+        {
+          "ref": "Va.10.11",
+          "body": "sthaṇḍila.śāyī //"
+        },
+        {
+          "ref": "Va.10.12",
+          "body": "anityām^vasatim^vaset(vas-) //"
+        },
+        {
+          "ref": "Va.10.13",
+          "body": "grāma.ante deva.gṛhe śūnya.agāre vā vṛkṣa.mūle vā //"
+        },
+        {
+          "ref": "Va.10.14",
+          "body": "manasā jñānam adhīyānas^//"
+        },
+        {
+          "ref": "Va.10.15",
+          "body": "araṇya.nityas^//"
+        },
+        {
+          "ref": "Va.10.16",
+          "body": "na grāmya.paśūnām^sandarśane vicaret(vi-car-) //"
+        },
+        {
+          "ref": "Va.10.17",
+          "body": "araṇya.nityasya jita.indriyasya sarva.indriya.prīti.nivartakasya (c)/"
+        },
+        {
+          "ref": "Va.10.17",
+          "body": "adhyātma.cintā.gata.mānasasya dhruvā hi^an.āvṛttis^upekṣakasya.(c) iti //"
+        },
+        {
+          "ref": "Va.10.18",
+          "body": "a.vyakta.liṅgas^a.vyakta.ācāras^//"
+        },
+        {
+          "ref": "Va.10.19",
+          "body": "an.unmattas^unmatta.veṣas^//"
+        },
+        {
+          "ref": "Va.10.20",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.10.20",
+          "body": "na śabda.śāstrabhiratasya mokṣas^na ca^api loka.grahaṇe ratasya (c)/{BṣPṣ śāstrabhiratasya}{F śāstra.abhiratasya}"
+        },
+        {
+          "ref": "Va.10.20",
+          "body": "na bhojana.ācchādana.tatparasya na ca^api ramya.āvasatha.priyasya (c)//"
+        },
+        {
+          "ref": "Va.10.21",
+          "body": "na ca^utpāta.nimittābhyām na nakṣatra.aṅga.vidyayā (c)/"
+        },
+        {
+          "ref": "Va.10.21",
+          "body": "na^anuśāsana.vādābhyām^bhikṣām^lipseta(labh-) karhi.cit (c)//"
+        },
+        {
+          "ref": "Va.10.22",
+          "body": "alābhe na viṣādī syāt(as-)^lābhe na^eva ca harṣayet(hṛṣ-) (c)/"
+        },
+        {
+          "ref": "Va.10.22",
+          "body": "prāṇa.yātrika.mātras^syāt(as-)^mātrā.saṅgāt^vivarjitas^//"
+        },
+        {
+          "ref": "Va.10.23",
+          "body": "na kuṭyām^na^udake saṅgas^na caile na tri.puṣkare (c)/"
+        },
+        {
+          "ref": "Va.10.23",
+          "body": "na^agāre na^āsane na^anne yasya vai mokṣa.vid tu sas.(c) iti //"
+        },
+        {
+          "ref": "Va.10.24",
+          "body": "brāhmaṇa.kule yāvat^labheta(labh-) tat^bhuñjīta(bhuj-) sāyam^prātar madhu.māṃsa.varjam //"
+        },
+        {
+          "ref": "Va.10.25",
+          "body": "na ca tṛpyet(tṛp-) //"
+        },
+        {
+          "ref": "Va.10.26",
+          "body": "grāme vā vaset(vas-) //"
+        },
+        {
+          "ref": "Va.10.27",
+          "body": "a.jihmas^a.śaḍhas(cf^śaṭha)^a.śaraṇas^a.vasaṅkusukas(cf^kasuka)^//"
+        },
+        {
+          "ref": "Va.10.28",
+          "body": "na ca^indriya.saṃsargam^kurvīta(kṛ-) kena.cit //"
+        },
+        {
+          "ref": "Va.10.29",
+          "body": "upekṣakas^sarva.bhūtānām^hiṃsā.anugraha.parihāreṇa //"
+        },
+        {
+          "ref": "Va.10.30",
+          "body": "paiśunya.matsara.abhimāna.ahaṅkāra.a.śraddhā.an.ārjava.ātma.stava.para.garhā.dambha.lobha.moha.krodha.asūyā.vivarjanam^sarva.āśramāṇam^dharmas^iṣṭas^//"
+        },
+        {
+          "ref": "Va.10.31",
+          "body": "yajña.upavītī^uda.kamaṇḍalu.hastas^śucis^brāhmaṇas^vṛṣala.anna.varjī na hīyate(hā-) brahma.lokāt^brahma.lokāt^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 11,
+      "aku_count": 103,
+      "akus": [
+        {
+          "ref": "Va.11.1",
+          "body": "ṣaṭ^argha.arhās^bhavanti(bhū-) //"
+        },
+        {
+          "ref": "Va.11.2",
+          "body": "ṛtvij^vivāhyas^rājā.pitṛvya.snātaka.mātulās^ca //"
+        },
+        {
+          "ref": "Va.11.3",
+          "body": "vaiśvadevasya siddhasya sāyam^prātar gṛhya.agnau juhuyāt(hu-) //"
+        },
+        {
+          "ref": "Va.11.4",
+          "body": "gṛha.devatābhyas^balim^haret(hṛ-) //"
+        },
+        {
+          "ref": "Va.11.5",
+          "body": "śrotriyāya^agra.bhāgam^dattvā(dā-) brahmacāriṇe vā^anantaram^pitṛbhyas^dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.11.6",
+          "body": "tatas^atithim^bhojayet(bhuj-)^śreyāṃsam^śreyāṃsam ānupūrvyeṇa //"
+        },
+        {
+          "ref": "Va.11.7",
+          "body": "sva.gṛhyāṇām^kumārī.bāla.vṛddha.taruṇa.prajātās^//"
+        },
+        {
+          "ref": "Va.11.8",
+          "body": "tatas^aparān gṛhyān //"
+        },
+        {
+          "ref": "Va.11.9",
+          "body": "śva.cāṇḍāla.patita.vāyasebhyas^bhūmau nirvapet(nir-vap-) //"
+        },
+        {
+          "ref": "Va.11.10",
+          "body": "śūdrāya^ucchiṣṭam anucchiṣṭam^vā dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.11.11",
+          "body": "śeṣam^dampatī bhuñjīyātām(bhuj-) //"
+        },
+        {
+          "ref": "Va.11.12",
+          "body": "sarva.upayogena punar.pākas^yadi nirupte(nir-vap-) vaiśvadeve^atithis^āgacchet(ā-gam-)^viśeṣeṇa^asmai^annam^kārayet(kṛ-) //"
+        },
+        {
+          "ref": "Va.11.13",
+          "body": "vijñāyate(vi-jñā-) hi / vaiśvānaras^praviśati(pra-viś-)^atithis^brāhmaṇas^gṛham^tasmāt^apas^ānayanti(ā-nī-)^annam^varṣābhyas tām^hi śāntim^janās^vidus(vid-)^iti //"
+        },
+        {
+          "ref": "Va.11.14",
+          "body": "tam^bhojayitvā(bhuj-)^upāsīta(upa-ās-) //"
+        },
+        {
+          "ref": "Va.11.15",
+          "body": "ā sīmāntam anuvrajet(anu-vraj-)^anujñānāt^vā //"
+        },
+        {
+          "ref": "Va.11.16",
+          "body": "aparapakṣe^ūrdhvam^caturthyās^pitṛbhyas^dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.11.17",
+          "body": "pūrvedyus^brāhmaṇān sannipātya(sam-ni-pat-) yatīn gṛhasthān sādhūn vā^a.pariṇata.vayasas^vikarma.sthān^śrotriyān a.śiṣyān an.antevāsinas^//"
+        },
+        {
+          "ref": "Va.11.18",
+          "body": "śiṣyān api guṇa.vatas^bhojayet(bhuj-) //"
+        },
+        {
+          "ref": "Va.11.19",
+          "body": "nagna.śukla.klība.andha.śyāva.danta.kuṣṭhi.kunakhi.varjam //"
+        },
+        {
+          "ref": "Va.11.20",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.11.20",
+          "body": "atha cet^mantravid yuktas^śārīrais^paṅkti.dūṣaṇais^(c)/"
+        },
+        {
+          "ref": "Va.11.20",
+          "body": "aduṣyam^tam^yamas^prāha(pra-ah-) paṅkti.pāvanas^eva sas^(c)//"
+        },
+        {
+          "ref": "Va.11.21",
+          "body": "śrāddhe na^udvāsanīyāni ucchiṣṭāni^ā dina.kṣayāt (c)/"
+        },
+        {
+          "ref": "Va.11.21",
+          "body": "ścyotante(ścyut-) hi sudhā.dhārās tās^pibanti(pā-)^a.kṛta.udakās^(c)//"
+        },
+        {
+          "ref": "Va.11.22",
+          "body": "ucchiṣṭam^na pramṛjyāt(pra-mṛj-) tu yāvat^na^astamitas^ravis^(c)/"
+        },
+        {
+          "ref": "Va.11.22",
+          "body": "kṣīra.dhārās tatas^yānti(yā-)^akṣayyās^sañcara.bhāginas^(c)//"
+        },
+        {
+          "ref": "Va.11.23",
+          "body": "prāk saṃskārāt pramītānām^sva.vaṃśyānām iti sthitis^(c)/"
+        },
+        {
+          "ref": "Va.11.23",
+          "body": "bhāga.dheyam^manus^prāha(pra-ah-) ucchiṣṭa.uccheṣaṇe ubhe (c)//"
+        },
+        {
+          "ref": "Va.11.24",
+          "body": "uccheṣaṇam^bhūmi.gatam^vikiram^lepana.udakam (c)/"
+        },
+        {
+          "ref": "Va.11.24",
+          "body": "annam^preteṣu visṛjet(vi-sṛj-)^a.prajānām an.āyuṣām (c)//"
+        },
+        {
+          "ref": "Va.11.25",
+          "body": "ubhayos^hastayos^muktam^pitṛbhyas^annam^niveditam (c)/"
+        },
+        {
+          "ref": "Va.11.25",
+          "body": "tat.antaram^pratīkṣante(prati-īkṣ-) hi^asurās^duṣṭa.cetasas^(c)//"
+        },
+        {
+          "ref": "Va.11.26",
+          "body": "tasmāt^a.śūnya.hastena kuryāt(kṛ-)^annam upāgatam (c)/"
+        },
+        {
+          "ref": "Va.11.26",
+          "body": "bhojanam^vā samālabhya(sam-ā-labh-) tiṣṭheta(sthā-)^uccheṣaṇe ubhe (c)//"
+        },
+        {
+          "ref": "Va.11.27",
+          "body": "dvau daive pitṛ.kṛtye trīn ekaikam ubhayatra vā (c)//"
+        },
+        {
+          "ref": "Va.11.27",
+          "body": "bhojayet(bhuj-) su.samṛddhas^api na prasajjeta(pra-sañj-) vistare (c)//"
+        },
+        {
+          "ref": "Va.11.28",
+          "body": "sat.kriyām^deśa.kālau ca śaucam^brāhmaṇa.saṃpadam (c)/"
+        },
+        {
+          "ref": "Va.11.28",
+          "body": "pañca^etān vistaras^hanti(han-) tasmāt tam^parivarjayet(pari-vṛj-) (c)//"
+        },
+        {
+          "ref": "Va.11.29",
+          "body": "api vā bhojayet(bhuj-)^ekam^brāhmaṇam^veda.pāragam (c)/"
+        },
+        {
+          "ref": "Va.11.29",
+          "body": "śruta.śīla.upasaṃpannam^sarva.a.lakṣaṇa.varjitam (c)//"
+        },
+        {
+          "ref": "Va.11.30",
+          "body": "yadi^ekam^bhojayet(bhuj-)^śrāddhe daivam^tatra katham^bhavet(bhū-) (c)/"
+        },
+        {
+          "ref": "Va.11.30",
+          "body": "annam^pātre samuddhṛtya(sam-ud-hṛ-) sarvasya prakṛtasya tu (c)//"
+        },
+        {
+          "ref": "Va.11.31",
+          "body": "devatā.āyatane kṛtvā(kṛ-) tatas^śrāddham^pravartayet(pra-vṛt-) (c)/"
+        },
+        {
+          "ref": "Va.11.31",
+          "body": "prāsyet(pra-as-)^agnau tat^annam^vā dadyāt(dā-)^vā brahmacāriṇe (c)//"
+        },
+        {
+          "ref": "Va.11.32",
+          "body": "yāvat^uṣṇam^bhavati(bhū-)^annam^yāvat^aśnanti(aś-) vāc.yatās^(c)/"
+        },
+        {
+          "ref": "Va.11.32",
+          "body": "tāvat^hi pitaras^aśnanti(aś-) yāvat^na^uktās(vac-)^havis.guṇās^(c)//"
+        },
+        {
+          "ref": "Va.11.33",
+          "body": "havis.guṇās^na vaktavyās(vac-)^pitaras^yāvat^a.tarpitās^(c)/"
+        },
+        {
+          "ref": "Va.11.33",
+          "body": "pitṛbhis tarpitais^paścāt^vaktavyam(vac-)^śobhanam^havis^(c)//"
+        },
+        {
+          "ref": "Va.11.34",
+          "body": "niyuktas tu yatis^śrāddhe daive vā māṃsam utsṛjet(ud-sṛj-) (c)/"
+        },
+        {
+          "ref": "Va.11.34",
+          "body": "yāvanti paśu.romāṇi tāvat^narakam ṛcchati(ṛ-) (c)//"
+        },
+        {
+          "ref": "Va.11.35",
+          "body": "trīṇi śrāddhe pavitrāṇi dauhitras^ku.tapas tilās^(c)/"
+        },
+        {
+          "ref": "Va.11.35",
+          "body": "trīṇi ca^atra praśaṃsānti(pra-śaṃs-) śaucam a.krodham a.tvarām (c)//"
+        },
+        {
+          "ref": "Va.11.36",
+          "body": "divasasya^aṣṭame bhāge mandībhavati(mandī-bhū-) bhāskaras^(c)/"
+        },
+        {
+          "ref": "Va.11.36",
+          "body": "sa kālas^ku.tapas^jñeyas(jñā-)^pitṝṇām^dattam akṣayam (c)//"
+        },
+        {
+          "ref": "Va.11.37",
+          "body": "śrāddham^dattvā(dā-) bhuktvā(bhuj-) ca maithunam^yas^adhigacchati(adhi-gam-) (c)/"
+        },
+        {
+          "ref": "Va.11.37",
+          "body": "bhavanti(bhū-) pitaras tasya tat.māsam^retasas^bhujas^(c)//"
+        },
+        {
+          "ref": "Va.11.38",
+          "body": "yas tatas^jāyate(jan-) garbhas^dattvā(dā-) bhuktvā(bhuj-) ca paitṛkam (c)/"
+        },
+        {
+          "ref": "Va.11.38",
+          "body": "na sa vidyām^samāpnoti(sam-āp-) kṣīṇa.āyus^ca^eva jāyate(jan-) (c)//"
+        },
+        {
+          "ref": "Va.11.39",
+          "body": "pitā pitāmahas^ca^eva tathā^eva prapitāmahas^(c)/"
+        },
+        {
+          "ref": "Va.11.39",
+          "body": "upāsate(upa-ās-) sutam^jātam^śakuntās^iva pippalam (c)//"
+        },
+        {
+          "ref": "Va.11.40",
+          "body": "madhu.māṃsais^ca śākais^ca payasā pāyasena ca (c)/"
+        },
+        {
+          "ref": "Va.11.40",
+          "body": "eṣa nas^dāsyati(dā-) śrāddham^varṣāsu ca maghāsu ca (c)//"
+        },
+        {
+          "ref": "Va.11.41",
+          "body": "santāna.varddhanam^putram udyatam(ud-yam-)^pitṛ.karmaṇi (c)/{BṣPṣ varddhanam}{E vardhanam}"
+        },
+        {
+          "ref": "Va.11.41",
+          "body": "deva.brāhmaṇa.saṃpannamabhinandanti(abhi-nand-) pūrva.jās^(c)//"
+        },
+        {
+          "ref": "Va.11.42",
+          "body": "nandanti(nand-) pitaras tasya su.kṛṣṭais^iva karṣakās^(c)/"
+        },
+        {
+          "ref": "Va.11.42",
+          "body": "yat^gayā.sthas^dadāti(dā-)^annam^pitaras tena putriṇas.(c) iti //"
+        },
+        {
+          "ref": "Va.11.43",
+          "body": "śrāvaṇī.āgrahāyiṇyos^ca^anvaṣṭakyām^ca pitṛbhyas^dadyāt(dā-) //{BṣPṣ āgrahāyiṇyos}{F āgrahāyaṇyos}"
+        },
+        {
+          "ref": "Va.11.44",
+          "body": "dravya.deśa.brāhmaṇa.sannidhāne vā^akāla.niyamas^//"
+        },
+        {
+          "ref": "Va.11.45",
+          "body": "avaśyam^brāhmaṇas^agnīn ādadhīta(ā-dhā-) //"
+        },
+        {
+          "ref": "Va.11.46",
+          "body": "darśapūrṇamāsa.āgrayaṇa.iṣṭi.cāturmāsya.paśu.somais^ca yajeta(yaj-) //"
+        },
+        {
+          "ref": "Va.11.47",
+          "body": "naiyamikam^hi^etat^ṛṇa.saṃstutam^ca //"
+        },
+        {
+          "ref": "Va.11.48",
+          "body": "vijñāyate(vi-jñā-) hi / tribhis^ṛṇais^ṛṇavān brāhmaṇas^jāyate(jan-)^iti / yajñena devebhyas^prajayā pitṛbhyas^brahmacaryeṇa ṛṣibhyas^iti^eṣa vā^anṛṇas^yajvā yas^putrī brahmacaryavān iti //"
+        },
+        {
+          "ref": "Va.11.49",
+          "body": "garbha.aṣṭameṣu brāhmaṇam upanayīta(upa-nī-) //{BṣPṣ garbha.aṣṭameṣu}{F garbhāt. aṣṭameṣu}"
+        },
+        {
+          "ref": "Va.11.50",
+          "body": "garbhāt^ekādaśeṣu rājanyam //"
+        },
+        {
+          "ref": "Va.11.51",
+          "body": "garbhāt^dvādaśeṣu vaiśyam //"
+        },
+        {
+          "ref": "Va.11.52",
+          "body": "pālāśas^vā daṇḍas^brāhmaṇasya //"
+        },
+        {
+          "ref": "Va.11.53",
+          "body": "naiyyagrodhas^kṣatriyasya vā //"
+        },
+        {
+          "ref": "Va.11.54",
+          "body": "audumbaras^vā vaiśyasya //"
+        },
+        {
+          "ref": "Va.11.55",
+          "body": "keśa.saṃmitas^brāhmaṇasya //"
+        },
+        {
+          "ref": "Va.11.56",
+          "body": "lalāṭa.saṃmitas^kṣatriyasya //"
+        },
+        {
+          "ref": "Va.11.57",
+          "body": "ghrāṇa.saṃmitas^vaiśyasya //"
+        },
+        {
+          "ref": "Va.11.58",
+          "body": "mauñjī raśanā brāhmaṇasya //"
+        },
+        {
+          "ref": "Va.11.59",
+          "body": "dhanus.jyā kṣatriyasya //"
+        },
+        {
+          "ref": "Va.11.60",
+          "body": "śaṇa.tāntavī vaiśyasya //"
+        },
+        {
+          "ref": "Va.11.61",
+          "body": "kṛṣṇa.ajinam uttarīyam^brāhmaṇasya //"
+        },
+        {
+          "ref": "Va.11.62",
+          "body": "rauravam^kṣatriyasya //"
+        },
+        {
+          "ref": "Va.11.63",
+          "body": "gavyam^basta.ajinam^vā vaiśyasya //"
+        },
+        {
+          "ref": "Va.11.64",
+          "body": "śuklam ahatam^vāsas^brāhmaṇasya //"
+        },
+        {
+          "ref": "Va.11.65",
+          "body": "māñjiṣṭham^kṣatriyasya //"
+        },
+        {
+          "ref": "Va.11.66",
+          "body": "hāridram^kauśeyam^vā vaiśyasya //"
+        },
+        {
+          "ref": "Va.11.67",
+          "body": "sarveṣām^vā tāntavam a.raktam //"
+        },
+        {
+          "ref": "Va.11.68",
+          "body": "bhavat.pūrvām^brāhmaṇas^bhikṣām^yācet(yāc-) //"
+        },
+        {
+          "ref": "Va.11.69",
+          "body": "bhavat.madhyām^rājanyas^//"
+        },
+        {
+          "ref": "Va.11.70",
+          "body": "bhavat.antyām^vaiśyas^//"
+        },
+        {
+          "ref": "Va.11.71",
+          "body": "ā ṣoḍaśāt^brāhmaṇasya na^atītas^kālas^//"
+        },
+        {
+          "ref": "Va.11.72",
+          "body": "ā dvāviṃśāt kṣatriyasya //"
+        },
+        {
+          "ref": "Va.11.73",
+          "body": "ā caturviṃśāt^vaiśyasya //"
+        },
+        {
+          "ref": "Va.11.74",
+          "body": "atas^ūrdhvam^patita.sāvitrīkās^bhavanti(bhū-) //"
+        },
+        {
+          "ref": "Va.11.75",
+          "body": "na^etān upanayet(upa-nī-)^na^adhyāpayet(adhi-i-)^na yājayet(yaj-)^na^ebhis^vivāhayeyus(vi-vah-)^//"
+        },
+        {
+          "ref": "Va.11.76",
+          "body": "patita.sāvitrīkas^uddālaka.vratam^caret(car-) //"
+        },
+        {
+          "ref": "Va.11.77",
+          "body": "dvau māsau yāvakena vartayet(vṛt-)^māsam^payasā^ardha.māsam āmikṣayā^aṣṭa.rātram^ghṛtena ṣaṭ.rātram a.yācitena tri.rātram ab.bhakṣas^ahar.rātram upavaset(upa-vas-) //"
+        },
+        {
+          "ref": "Va.11.78",
+          "body": "aśvamedha.avabhṛtham^gacchet(gam-) //"
+        },
+        {
+          "ref": "Va.11.79",
+          "body": "vrātya.stomena vā yajet(yaj-)^vā yajet(yaj-)^vā^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 12,
+      "aku_count": 54,
+      "akus": [
+        {
+          "ref": "Va.12.1",
+          "body": "atha^atas^snātaka.vratāni //"
+        },
+        {
+          "ref": "Va.12.2",
+          "body": "sa na kam.cit^yāceta(yāc-)^anyatra rāja.antevāsibhyas^//"
+        },
+        {
+          "ref": "Va.12.3",
+          "body": "kṣudhā.parītas tu kim.cit^eva yāceta(yāc-) kṛtam akṛtam^vā kṣetram^gām aja.avikam antatas^hiraṇyam^dhānyam annam^vā //"
+        },
+        {
+          "ref": "Va.12.4",
+          "body": "na tu snātakas^kṣudhā^avasīdet(ava-sad-)^iti^upadeśas^//"
+        },
+        {
+          "ref": "Va.12.5",
+          "body": "na malina.vāsasā saha saṃvaseta(sam-vas-) //"
+        },
+        {
+          "ref": "Va.12.6",
+          "body": "na rajasvalayā //"
+        },
+        {
+          "ref": "Va.12.7",
+          "body": "na^a.yogyayā //"
+        },
+        {
+          "ref": "Va.12.8",
+          "body": "na kulaṃkulas^syāt(as-) //"
+        },
+        {
+          "ref": "Va.12.9",
+          "body": "vatsa.tantrīm^vitatām^na^atikrāmet(ati-kram-) //"
+        },
+        {
+          "ref": "Va.12.10",
+          "body": "na^udyantam(ud-i-) ādityam^paśyet(paś-)^na^astam^yantam(i-) //"
+        },
+        {
+          "ref": "Va.12.11",
+          "body": "na^apsu mūtra.purīṣe kuryāt(kṛ-) //"
+        },
+        {
+          "ref": "Va.12.12",
+          "body": "na niṣṭhīvet(ni-ṣṭhiv-) //"
+        },
+        {
+          "ref": "Va.12.13",
+          "body": "pariveṣṭita.śirās^bhūmim ayajñiyais tṛṇais^antardhāya(antar-dhā-) mutra.purīṣe kuryāt(kṛ-)^udaṅ.mukhas^ca^ahani naktam^dakṣiṇā.mukhas^sandhyām āsīta(ās-)^uttaram //{BṣPṣ mutra.purīṣe}{F mūtra.purīṣe}"
+        },
+        {
+          "ref": "Va.12.14",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.12.14",
+          "body": "snātakānām^tu nityam^syāt(as-)^antarvāsas tathā^uttaram (c)/"
+        },
+        {
+          "ref": "Va.12.14",
+          "body": "yajña.upavīte dve yaṣṭis^sa.udakas^ca kamaṇḍalus^(c)//"
+        },
+        {
+          "ref": "Va.12.15",
+          "body": "apsu pāṇau ca kāṣṭhe ca kathitam^pāvake śucis^(c)/"
+        },
+        {
+          "ref": "Va.12.15",
+          "body": "tasmāt^udaka.pāṇibhyām^parimṛjyāt(pari-mṛj-) kamaṇḍalum (c)//"
+        },
+        {
+          "ref": "Va.12.16",
+          "body": "paryagni.karaṇam^hi^etat^manus^āha(ah-) prajāpatis^(c)//"
+        },
+        {
+          "ref": "Va.12.17",
+          "body": "kṛtvā(kṛ-) ca^avaśya.karmāṇi ācāmet(ā-cam-)^śauca.vittamas.(c) iti //"
+        },
+        {
+          "ref": "Va.12.18",
+          "body": "prāṅ.mukhas^annāni bhuñjīta(bhuj-) //"
+        },
+        {
+          "ref": "Va.12.19",
+          "body": "tūṣṇīm^sa.aṅguṣṭham^kṛtsna.grāsam^graseta(gras-) //"
+        },
+        {
+          "ref": "Va.12.20",
+          "body": "na ca śabdam^kuryāt(kṛ-) //"
+        },
+        {
+          "ref": "Va.12.21",
+          "body": "ṛtu.kāla.gāmī syāt(as-) parva.varjam^sva.dāreṣu //"
+        },
+        {
+          "ref": "Va.12.22",
+          "body": "a.tiryak^upeyāt(upa-i-) //"
+        },
+        {
+          "ref": "Va.12.23",
+          "body": "yas tu pāṇigṛhītāyās^āsye kurvīta(kṛ-) maithunam (c)/"
+        },
+        {
+          "ref": "Va.12.23",
+          "body": "bhavanti(bhū-) pitaras tasya tat.māsam^retasas^bhujas^(c)/"
+        },
+        {
+          "ref": "Va.12.23",
+          "body": "yā syāt(as-)^a.nitya.cāreṇa ratis^sā^a.dharma.saṃśritā (c)//"
+        },
+        {
+          "ref": "Va.12.24",
+          "body": "api ca kāṭhake vijñāyate(vi-jñā-) / api nas^śvas^vijaniṣyamāṇās(vi-jan-)^patibhis^saha śayīran(śī-)^iti strīṇām indra.dattas^varas^iti //"
+        },
+        {
+          "ref": "Va.12.25",
+          "body": "na vṛkṣam ārohet(ā-ruh-) //"
+        },
+        {
+          "ref": "Va.12.26",
+          "body": "na kūpam avarohet(ava-ruh-) //"
+        },
+        {
+          "ref": "Va.12.27",
+          "body": "na^agnim^mukhena^upadhamet(upa-dhmā-) //"
+        },
+        {
+          "ref": "Va.12.28",
+          "body": "na^agnim^brāhmaṇam^ca^antareṇa vyapeyāt(vi-apa-i-) //"
+        },
+        {
+          "ref": "Va.12.29",
+          "body": "na^agnyos^//"
+        },
+        {
+          "ref": "Va.12.30",
+          "body": "na brāhmaṇayos^anujñāpya(anu-jñā-) vā //"
+        },
+        {
+          "ref": "Va.12.31",
+          "body": "bhāryayā saha na^aśnīyāt(aś-)^a.vīryavat^a.patyam^bhavati(bhū-)^iti vājasaneyake vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.12.32",
+          "body": "na^indra.dhanus.nāmnā nirdiśet(nir-diś-) //"
+        },
+        {
+          "ref": "Va.12.33",
+          "body": "maṇi.dhanus.iti brūyāt(brū-) //"
+        },
+        {
+          "ref": "Va.12.34",
+          "body": "pālāśam āsanam^pāduke danta.dhāvanam iti varjayet(vṛj-) //"
+        },
+        {
+          "ref": "Va.12.35",
+          "body": "na^utsaṅge bhakṣayet(bhakṣ-) //"
+        },
+        {
+          "ref": "Va.12.36",
+          "body": "na^āsandyām^bhuñjīta(bhuj-) //"
+        },
+        {
+          "ref": "Va.12.37",
+          "body": "vaiṇavam^daṇḍam^dhārayet(dhṛ-) //"
+        },
+        {
+          "ref": "Va.12.38",
+          "body": "rukma.kuṇḍale ca //"
+        },
+        {
+          "ref": "Va.12.39",
+          "body": "na bahis^mālām^dhārayet(dhṛ-)^anyatra rukma.mayyā //"
+        },
+        {
+          "ref": "Va.12.40",
+          "body": "sabhās^samavāyān^ca varjayet(vṛj-) //"
+        },
+        {
+          "ref": "Va.12.41",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.12.41",
+          "body": "a.prāmāṇyam^ca vedānām ārṣāṇām^ca^eva kutsanam (c)/"
+        },
+        {
+          "ref": "Va.12.41",
+          "body": "a.vyavasthā ca sarvatra etat^nāśanam ātmanas.(c) iti //"
+        },
+        {
+          "ref": "Va.12.42",
+          "body": "na^a.vṛtas^yajñam^gacchet(gam-)^yadi vrajet(vraj-) pradakṣiṇam^punar āvrajet(ā-vraj-) //"
+        },
+        {
+          "ref": "Va.12.43",
+          "body": "adhi.vṛkṣa.sūryam adhvānam^na pratipadyeta(prati-pad-) //"
+        },
+        {
+          "ref": "Va.12.44",
+          "body": "nāvam^ca sāṃśayikīm^na^adhirohet(adhi-ruh-) //"
+        },
+        {
+          "ref": "Va.12.45",
+          "body": "bāhubhyām^na nadīm^taret(tṛ-) //"
+        },
+        {
+          "ref": "Va.12.46",
+          "body": "utthāya(ud-sthā-)^apara.rātram adhītya(adhi-i-) na punas^pratisaṃviśet(prati-sam-viś-) //"
+        },
+        {
+          "ref": "Va.12.47",
+          "body": "prājāpatye muhūrte brāhmaṇas^kān.cit^niyamān anutiṣṭhet(anu-sthā-)^anutiṣṭhet(anu-sthā-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 13,
+      "aku_count": 67,
+      "akus": [
+        {
+          "ref": "Va.13.1",
+          "body": "atha^atas^svādhyāya.upākarma śrāvaṇyām paurṇamāsyām^prauṣṭhapadyām^vā //"
+        },
+        {
+          "ref": "Va.13.2",
+          "body": "agnim upasamādhāya(upa-sam-ā-dhā-)^akṣata.dhānās^juhoti(hu-) //"
+        },
+        {
+          "ref": "Va.13.3",
+          "body": "devebhyas^ṛṣibhyas^chandobhyas^ca^iti //"
+        },
+        {
+          "ref": "Va.13.4",
+          "body": "brāhmaṇān svasti.vācya(vāc-) dadhi prāśya(pra-aś-) tatas^adhyāyān upākurvīran(upa-ā-kṛ-) //"
+        },
+        {
+          "ref": "Va.13.5",
+          "body": "ardha.pañcamān māsān ardha.ṣaṣṭhān vā //"
+        },
+        {
+          "ref": "Va.13.6",
+          "body": "atas^ūrdhvam^śuklapakṣeṣu^adhīyīta(adhi-i-) //"
+        },
+        {
+          "ref": "Va.13.7",
+          "body": "kāmam^tu veda.aṅgāni //"
+        },
+        {
+          "ref": "Va.13.8",
+          "body": "tasya^an.adhyāyās^//"
+        },
+        {
+          "ref": "Va.13.9",
+          "body": "sandhyā.stanite //"
+        },
+        {
+          "ref": "Va.13.10",
+          "body": "sandhyāsu //"
+        },
+        {
+          "ref": "Va.13.11",
+          "body": "antar.śava.divā.kīrtyeṣu nagareṣu //"
+        },
+        {
+          "ref": "Va.13.12",
+          "body": "kāmam^gomaya.paryuṣite parilikhite vā //"
+        },
+        {
+          "ref": "Va.13.13",
+          "body": "śmaśāna.ante //"
+        },
+        {
+          "ref": "Va.13.14",
+          "body": "śaya.ānasya //"
+        },
+        {
+          "ref": "Va.13.15",
+          "body": "śrāddhikasya //"
+        },
+        {
+          "ref": "Va.13.16",
+          "body": "mānavam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.13.16",
+          "body": "phalāni^apas tilān bhakṣān yat^ca^anyat^śrāddhikam^bhavet(bhū-) (c)/"
+        },
+        {
+          "ref": "Va.13.16",
+          "body": "pratigṛhya(prati-grah-)^api^an.adhyāyas^pāṇi.āsyās^brāhmaṇās^smṛtās.(c) iti //"
+        },
+        {
+          "ref": "Va.13.17",
+          "body": "dhāvatas(dhāv-)^pūti.gandha.prabhṛtau^īriṇe //"
+        },
+        {
+          "ref": "Va.13.18",
+          "body": "vṛkṣa.ārūḍhasya //"
+        },
+        {
+          "ref": "Va.13.19",
+          "body": "nāvi senāyām^ca //"
+        },
+        {
+          "ref": "Va.13.20",
+          "body": "bhuktvā(bhuj-) ca^ārdra.pāṇes^//"
+        },
+        {
+          "ref": "Va.13.21",
+          "body": "vāṇa.śabde //"
+        },
+        {
+          "ref": "Va.13.22",
+          "body": "caturdaśyām āmāvāsyāyām aṣṭamyām aṣṭakāsu //"
+        },
+        {
+          "ref": "Va.13.23",
+          "body": "prasārita.pāda.upastha.kṛta.upāśritasya ca //"
+        },
+        {
+          "ref": "Va.13.24",
+          "body": "guru.samīpe //"
+        },
+        {
+          "ref": "Va.13.25",
+          "body": "maithuna.vyapetāyām //"
+        },
+        {
+          "ref": "Va.13.26",
+          "body": "vāsasā maithuna.vyapetena^a.nirṇiktena //"
+        },
+        {
+          "ref": "Va.13.27",
+          "body": "grāma.ante //"
+        },
+        {
+          "ref": "Va.13.28",
+          "body": "charditasya //"
+        },
+        {
+          "ref": "Va.13.29",
+          "body": "mūtritasya^uccāritasya //"
+        },
+        {
+          "ref": "Va.13.30",
+          "body": "ṛc.yajuṣām^ca sāma.śabde vā //"
+        },
+        {
+          "ref": "Va.13.31",
+          "body": "ajīrṇe //"
+        },
+        {
+          "ref": "Va.13.32",
+          "body": "nirghāte //"
+        },
+        {
+          "ref": "Va.13.33",
+          "body": "bhūmi.calane //"
+        },
+        {
+          "ref": "Va.13.34",
+          "body": "candra.sūrya.uparāge //"
+        },
+        {
+          "ref": "Va.13.35",
+          "body": "diś.nāda.parvata.prapāteṣu^upala.rudhira.pāṃsu.varṣeṣu^ākālikam //"
+        },
+        {
+          "ref": "Va.13.36",
+          "body": "ulkā.vidyut.samāse tri.rātram //"
+        },
+        {
+          "ref": "Va.13.37",
+          "body": "ulkā.vidyut sajyotiṣam //"
+        },
+        {
+          "ref": "Va.13.38",
+          "body": "apa.ṛtau^ākālikam //"
+        },
+        {
+          "ref": "Va.13.39",
+          "body": "ācārye prete(pra-i-) tri.rātram //"
+        },
+        {
+          "ref": "Va.13.40",
+          "body": "ācārya.putra.śiṣya.bhāryāsu^ahar.rātram //"
+        },
+        {
+          "ref": "Va.13.41",
+          "body": "ṛtvij.śvaśura.pitṛvya.mātulān an.avara.vayasas^pratyutthāya(prati-ud-sthā-)^abhivadet(abhi-vad-) //"
+        },
+        {
+          "ref": "Va.13.42",
+          "body": "ye ca^eva pāda.grāhyās teṣām^bhāryā guros^ca //"
+        },
+        {
+          "ref": "Va.13.43",
+          "body": "mātā.pitarau ca //"
+        },
+        {
+          "ref": "Va.13.44",
+          "body": "yas^vidyāt(vid-)^abhivaditum(abhi-vad-) aham ayam^bho iti yāt //"
+        },
+        {
+          "ref": "Va.13.45",
+          "body": "yas^ca na vidyāt(vid-) //"
+        },
+        {
+          "ref": "Va.13.46",
+          "body": "pratyabhivādam āmantrite svaras^antyas^plavate(plu-) sandhi.akṣaram a.pragṛhyam āya.āva.bhāvam^ca^āpadyate(ā-pad-) yathā bho bhāv iti //"
+        },
+        {
+          "ref": "Va.13.47",
+          "body": "patitas^pitā parityājyas^mātā tu putre na patati(pat-) //"
+        },
+        {
+          "ref": "Va.13.48",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.13.48",
+          "body": "upādhyāyāt^daśa^ācāryās^ācāryāṇām^śatam^pitā (c)/"
+        },
+        {
+          "ref": "Va.13.48",
+          "body": "pitus^daśaśatam^mātā gauraveṇa^atiricyate(ati-ric-) (c)//"
+        },
+        {
+          "ref": "Va.13.49",
+          "body": "bhāryā putrās^ca śiṣyās^ca saṃsṛṣṭās^pāpa.karmabhis^(c)/"
+        },
+        {
+          "ref": "Va.13.49",
+          "body": "paribhāṣya(pari-bhāṣ-) parityājyās(pari-traj-)^patitas^yas^anyathā tyajet(tyaj-) (c)//"
+        },
+        {
+          "ref": "Va.13.50",
+          "body": "ṛtvij.ācāryau^a.yājaka.an.adhyāpakau heyau(hā-)^anyatra hānāt patati(pat-) //"
+        },
+        {
+          "ref": "Va.13.51",
+          "body": "patitena^utpannas^patitas^bhavati(bhū-)^iti^ āhur(ah-)^anyatra striyās^//"
+        },
+        {
+          "ref": "Va.13.52",
+          "body": "sā hi para.gāminī //"
+        },
+        {
+          "ref": "Va.13.53",
+          "body": "tām a.rikthām upeyāt(upa-i-) //"
+        },
+        {
+          "ref": "Va.13.54",
+          "body": "guros^gurau sannihite guruvat.vṛttis^iṣyate(iṣ-) (c)/"
+        },
+        {
+          "ref": "Va.13.54",
+          "body": "guruvat^guru.putrasya vartitavyam(vṛt-) iti śrutis^(c)//"
+        },
+        {
+          "ref": "Va.13.55",
+          "body": "śastram^viṣam^surā ca^a.pratigṛhyāṇi(prati-grah-) brāhmaṇasya //"
+        },
+        {
+          "ref": "Va.13.56",
+          "body": "vidyā.vitta.vayas.saṃbandhās^karma ca mānyam(man-) //"
+        },
+        {
+          "ref": "Va.13.57",
+          "body": "pūrvas^pūrvas^garīyān //"
+        },
+        {
+          "ref": "Va.13.58",
+          "body": "sthavira.bāla.atura.bhārika.strī.cakrīvagatām^panthās^samāgame parasmai.parasmai deyas(dā-)^//{BṣPṣ cakrīvagatām}{F cakrīvatām}"
+        },
+        {
+          "ref": "Va.13.59",
+          "body": "rāja.snātakayos^samāgame rājñā snātakāya deyas(dā-)^//"
+        },
+        {
+          "ref": "Va.13.60",
+          "body": "sarvais^eva vadhvai^ūhyamānāyai(ūh-) //"
+        },
+        {
+          "ref": "Va.13.61",
+          "body": "tṛṇa.bhūmi.agni.udaka.vāc.sūnṛta.anasūyās^satām^gṛhe na^ucchidyante(ud-chid-) kadā.cana kadā.cana^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 14,
+      "aku_count": 64,
+      "akus": [
+        {
+          "ref": "Va.14.1",
+          "body": "atha^atas^bhojya.abhojyam^ca varṇayiṣyāmas(varṇ-)^//"
+        },
+        {
+          "ref": "Va.14.2",
+          "body": "cikitsaka.mṛgayu.puṃścalī.daṇḍika.stena.abhiśasta.ṣaṇḍha.patitānām annam abhojyam //"
+        },
+        {
+          "ref": "Va.14.3",
+          "body": "kadarya.dīkṣita.baddha.ātura.somavikrayi.takṣa.rajaka.śauṇḍika.sūcaka.vārdhuṣika.carmāvakṛntānām //"
+        },
+        {
+          "ref": "Va.14.4",
+          "body": "śūdrasya ca //"
+        },
+        {
+          "ref": "Va.14.5",
+          "body": "astra.bhṛtas^ca //"
+        },
+        {
+          "ref": "Va.14.6",
+          "body": "upapates^yas^ca^upapatim^manyate(man-) //"
+        },
+        {
+          "ref": "Va.14.7",
+          "body": "yas^ca gṛhān dahet(dah-) //"
+        },
+        {
+          "ref": "Va.14.8",
+          "body": "yas^ca vadha.arhān na^upahanyāt(upa-han-) //"
+        },
+        {
+          "ref": "Va.14.9",
+          "body": "kas^bhokṣyate(bhuj-)^iti vācā^abhighuṣṭam //"
+        },
+        {
+          "ref": "Va.14.10",
+          "body": "gaṇa.annam^gaṇikā.annam^ca^iti //"
+        },
+        {
+          "ref": "Va.14.11",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.14.11",
+          "body": "na^aśnanti(aś-) śvavatas^devās^na^aśnanti(aś-) vṛṣalī.pates^(c)/"
+        },
+        {
+          "ref": "Va.14.11",
+          "body": "bhāryā.jitasya na^aśnanti(aś-) yasya ca^upapatis^gṛhe.(c) iti //"
+        },
+        {
+          "ref": "Va.14.12",
+          "body": "edha.udaka.yavasa.kuśa.lājā.abhyudyata.yānā.vasatha.śapharī.priyaṅgu.sraj.gandha.madhu.māṃsāni^iti^eteṣām^pratigṛhṇīyāt(prati-grah-) //"
+        },
+        {
+          "ref": "Va.14.13",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.14.13",
+          "body": "guru.artham^dāram ujjihīrṣan(ud-hṛ-)^arciṣyan(arc-) devatā.atithīn (c)/"
+        },
+        {
+          "ref": "Va.14.13",
+          "body": "sarvatas^pratigṛhṇīyāt(prati-grah-)^na tu tṛpyet(tṛp-) svayam^tatas.(c) iti //"
+        },
+        {
+          "ref": "Va.14.14",
+          "body": "na mṛgayos^iṣu.cāriṇas^parivarjyam annam //"
+        },
+        {
+          "ref": "Va.14.15",
+          "body": "vijñāyate(vi-jñā-) hi / agastyas^varṣa.sāhasrike satre mṛgayām^cacāra(car-) / tasya^a.saṃstara.samayās^puroḍāśās^mṛgapakṣiṇām^praśastānām //{BṣPṣ satre}{F sattre}"
+        },
+        {
+          "ref": "Va.14.16",
+          "body": "api hi^atra prājāpatyān^ślokān udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.14.16",
+          "body": "udyatām āhṛtām^bhikṣām^purastāt^apracoditām (c)/"
+        },
+        {
+          "ref": "Va.14.16",
+          "body": "bhojyām^prajāpatis^mene(man-) api duṣkṛta.kāriṇas^(c)//"
+        },
+        {
+          "ref": "Va.14.17",
+          "body": "śraddadhānasya(śrad-dhā-) bhoktavyam(bhuj-)^corasya^api viśeṣatas^(c)/"
+        },
+        {
+          "ref": "Va.14.17",
+          "body": "na tu^eva bahu.yājyasya yas^ca^upanayate(upa-nī-) bahūn (c)//"
+        },
+        {
+          "ref": "Va.14.18",
+          "body": "na tasya pitaras^aśnanti(aś-) daśa varṣāṇi pañca ca (c)/"
+        },
+        {
+          "ref": "Va.14.18",
+          "body": "na ca havyam^vahati(vah-)^agnis^yas tām abhyavamanyate(abhi-ava-man-) (c)//"
+        },
+        {
+          "ref": "Va.14.19",
+          "body": "cikitsakasya mṛgayos^śalya.hartus tu pāpinas^(c)/"
+        },
+        {
+          "ref": "Va.14.19",
+          "body": "ṣaṇḍhasya kulaṭāyās^ca udyatā^api na gṛhyate(grah-).(c) iti //"
+        },
+        {
+          "ref": "Va.14.20",
+          "body": "ucchiṣṭam a.guros^a.bhojyam //"
+        },
+        {
+          "ref": "Va.14.21",
+          "body": "svam ucchiṣṭam ucchiṣṭa.upahatam^ca //"
+        },
+        {
+          "ref": "Va.14.22",
+          "body": "yat^vasana.keśa.kīṭa.upahatam^ca //"
+        },
+        {
+          "ref": "Va.14.23",
+          "body": "kāmam^tu keśa.kīṭān uddhṛtya(ud-hṛ-)^adbhis^prokṣya(pra-ukṣ-) bhasmanā^avakīrya(ava-kṝ-) vācā praśastam upayuñjīta(upa-yuj-) //"
+        },
+        {
+          "ref": "Va.14.24",
+          "body": "api hi^atra prājāpatyān^ślokān udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.14.24",
+          "body": "trīṇi devās^pavitrāṇi brāhmaṇānām akalpayan(kḷp-) (c)/"
+        },
+        {
+          "ref": "Va.14.24",
+          "body": "a.dṛṣṭam adbhis^nirṇiktam^yat^ca vācā praśasyate(pra-śaṃs-) (c)//"
+        },
+        {
+          "ref": "Va.14.25",
+          "body": "deva.droṇyām^vivāheṣu yajñeṣu prakṛteṣu ca (c)/"
+        },
+        {
+          "ref": "Va.14.25",
+          "body": "kākais^śvabhis^ca saṃspṛṣṭam annam tat^na visarjayet(vi-sṛj-) (c)/"
+        },
+        {
+          "ref": "Va.14.26",
+          "body": "tasmāt^annam apoddhṛtya(apa-ud-hṛ-) śeṣam^saṃskāram arhati(arh-) (c)/"
+        },
+        {
+          "ref": "Va.14.26",
+          "body": "dravāṇām^plāvanena^eva ghanānām^prokṣaṇena tu (c)//"
+        },
+        {
+          "ref": "Va.14.27",
+          "body": "mārjāra.mukha.saṃspṛṣṭam^śuci eva hi tat^bhavet(bhū-) (c)//"
+        },
+        {
+          "ref": "Va.14.28",
+          "body": "annam^paryuṣitam^bhāva.duṣṭam^sahṛd.lekham^punar.siddham āma.māṃsam^pakvam^ca //"
+        },
+        {
+          "ref": "Va.14.29",
+          "body": "kāmam^tu dadhnā ghṛtena vā^abhighāritam upayuñjīta(upa-yuj-) //"
+        },
+        {
+          "ref": "Va.14.30",
+          "body": "api hi^atra prājāpatyān^ślokān udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.14.30",
+          "body": "ghṛtam^vā yadi vā tailam^vipras^na^adyāt(ad-)^nakha.ścyutam (c)/"
+        },
+        {
+          "ref": "Va.14.30",
+          "body": "yamas tat^aśuci prāha(pra-ah-) tulyam^go.māṃsa.bhakṣaṇais^(c)//"
+        },
+        {
+          "ref": "Va.14.31",
+          "body": "hasta.dattās tu ye snehās^lavaṇa.vyañjanāni ca (c)/"
+        },
+        {
+          "ref": "Va.14.31",
+          "body": "dātāram^na^upatiṣṭhanti(upa-sthā-) bhoktā bhuñjīta(bhuj-) kilbiṣam (c)//"
+        },
+        {
+          "ref": "Va.14.32",
+          "body": "pradadyāt(pra-dā-)^ na tu hastena na^āyasena kadā.cana.(c) iti //"
+        },
+        {
+          "ref": "Va.14.33",
+          "body": "laśuna.palāṇḍu.kyāku.gṛñjana.śleṣmāntaka.vṛkṣa.niryāsa.lohita.vraścana.śva.kāka.avalīḍha.śūdra.uccheṣaṇa.bhojaneṣu^atikṛcchras^//"
+        },
+        {
+          "ref": "Va.14.34",
+          "body": "sandhinī.kṣīram a.vatsā.kṣīram //"
+        },
+        {
+          "ref": "Va.14.35",
+          "body": "go.mahiṣi.ajānām anirdaśa.ahānām //"
+        },
+        {
+          "ref": "Va.14.36",
+          "body": "antar.nāvi^udakam //"
+        },
+        {
+          "ref": "Va.14.37",
+          "body": "apūpa.dhānā.karambha.saktu.vaṭaka.taila.pāyasa.śākāni śuktāni varjayet(vṛj-) //"
+        },
+        {
+          "ref": "Va.14.38",
+          "body": "anyān^ca kṣīra.yava.piṣṭa.vikārān //"
+        },
+        {
+          "ref": "Va.14.39",
+          "body": "śvāvidh.śalyaka.śaśa.kacchapa.godhās^pañca.nakhānām^bhakṣyās(bhakṣ-)^//"
+        },
+        {
+          "ref": "Va.14.40",
+          "body": "an.uṣṭrās^paśūnām anyatas.dantās^ca //"
+        },
+        {
+          "ref": "Va.14.41",
+          "body": "matsyānām^vā ceṭa.gavaya.śiśumāra.nakra.kulīrās^//"
+        },
+        {
+          "ref": "Va.14.42",
+          "body": "vikṛta.rūpās^sarpa.śīrṣās^ca //"
+        },
+        {
+          "ref": "Va.14.43",
+          "body": "gaura.gavaya.śarabhās^ca //"
+        },
+        {
+          "ref": "Va.14.44",
+          "body": "an.uddiṣṭās tathā //"
+        },
+        {
+          "ref": "Va.14.45",
+          "body": "dhenu.anaḍuhau^apanna.dantān^ca //"
+        },
+        {
+          "ref": "Va.14.46",
+          "body": "bhakṣyau(bhakṣ-) tu dhenu.anaḍuhau medhyau vājasaneyake vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.14.47",
+          "body": "khaḍge tu vivadanti(vi-vad-)^a.grāmya.śūkare ca //"
+        },
+        {
+          "ref": "Va.14.48",
+          "body": "śakunānām^ca viṣuviṣkara.jālapāda.kalaviṅka.plava.haṃsa.cakravāka.bhāsa.vāyasa.pārāvata.kurara.sāraṅga.pāṇḍu.kapota.krauñca.krakara.kaṅka.gṛdhra.śyena.baka.balāka.madgu.ṭiṭṭibha.māndhāla.naktañcara.dārvāghāṭa.cakaṭa.railātakā.hārīta.khañjarīṭa.grāmyakukkuṭa.śuka.śārika.kokila.kravyādas^grāma.cāriṇas^ca grāma.cāriṇas^ca^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 15,
+      "aku_count": 23,
+      "akus": [
+        {
+          "ref": "Va.15.1",
+          "body": "śoṇita.śukra.saṃbhavas^puruṣas^bhavati(bhū-) mātā.pitṛ.nimittakas^//"
+        },
+        {
+          "ref": "Va.15.2",
+          "body": "tasya pradāna.vikraya.tyāgeṣu mātā.pitarau prabhavatas(pra-bhū-)^//"
+        },
+        {
+          "ref": "Va.15.3",
+          "body": "na tu^ekam^putram^dadyāt(dā-) pratigṛhṇīyāt(prati-grah-)^vā //"
+        },
+        {
+          "ref": "Va.15.4",
+          "body": "sa hi santānāya pūrveṣām //"
+        },
+        {
+          "ref": "Va.15.5",
+          "body": "na strī putram^dadyāt(dā-) pratigṛhṇīyāt(prati-grah-)^vā^anyatra^anujñānāt(anu-jñā-)^bhartus^//"
+        },
+        {
+          "ref": "Va.15.6",
+          "body": "putram^pratigṛhīṣyan(prati-grah-) bandhūn āhūya(ā-hū-) rājani ca nivedya(ni-vid-) niveśanasya madhye vyāhṛtibhis^hutvā(hu-)^adūra.bāndhavam^bandhu.sannikṛṣṭam eva pratigṛhṇīyāt(prati-grah-) //"
+        },
+        {
+          "ref": "Va.15.7",
+          "body": "sandehe ca^utpanne dūre.bāndhavam^śūdram iva sthāpayet(sthā-) //"
+        },
+        {
+          "ref": "Va.15.8",
+          "body": "vijñāyate(vi-jñā-) hi^ekena bahūn^trāyate(tṛ-)^iti //"
+        },
+        {
+          "ref": "Va.15.9",
+          "body": "tasmin^cet pratigṛhīte^aurasas^putras^utpadyeta(ud-pad-) caturtha.bhāga.bhāgī syāt(as-)^dattakas^//"
+        },
+        {
+          "ref": "Va.15.10",
+          "body": "yadi na^ābhyudayikeṣu yuktas^syāt(as-) //"
+        },
+        {
+          "ref": "Va.15.11",
+          "body": "veda.viplāvakas^śūdra.yājakas^uttama.varṇa.varga.patitās teṣām^pātra.ninayanam //"
+        },
+        {
+          "ref": "Va.15.12",
+          "body": "a.pātra.saṅkarāt^a.kṛtsnam^pātram ādāya(ā-dā-) dāsas^a.savarṇā.putras^vā bandhus^a.sadṛśas^vā guṇa.hīnas^savyena pādena pravṛtta.agrān darbhān^lohitān vā^upastīrya(upa-stṝ-) pūrṇa.pātram asmai ninayet(ni-nī-) //"
+        },
+        {
+          "ref": "Va.15.13",
+          "body": "ninetāram^ca^asya prakīrṇa.keśās^jñātayas^anvālabheran(anu-ā-labh-) //"
+        },
+        {
+          "ref": "Va.15.14",
+          "body": "apasavyam^kṛtvā(kṛ-) gṛheṣu svairam āpadyeran(ā-pad-) //"
+        },
+        {
+          "ref": "Va.15.15",
+          "body": "atas^ūrdhvam^na tam^dharmayeyus(dharmay-)(cf^dharmāy-)^//"
+        },
+        {
+          "ref": "Va.15.16",
+          "body": "tat.dharmāṇas tam^dharmayantas(dharmay-)(cf^dharmāy-)^//"
+        },
+        {
+          "ref": "Va.15.17",
+          "body": "patitānām^tu carita.vratānām^pratyuddhāras^//"
+        },
+        {
+          "ref": "Va.15.18",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.15.18",
+          "body": "agre^abhyuddharatām(abhi-ud-hṛ-)^gacchet(gam-) krīḍan(krīḍ-)^iva hasan(has-)^iva (c)/"
+        },
+        {
+          "ref": "Va.15.18",
+          "body": "paścāt pātayatām(pat-)^gacchet(gam-)^śocan(śuc-)^iva rudan(rud-)^iva.(c) iti //"
+        },
+        {
+          "ref": "Va.15.19",
+          "body": "ācārya.mātṛ.pitṛ.hantāras tat.prasādāt^apayāpyāt^vā eṣā teṣām^pratyāpattis^//"
+        },
+        {
+          "ref": "Va.15.20",
+          "body": "puṇya.hradāt prasṛtāt^vā kāñcanam^pātram^māheyam^vā pūrayitvā^āpas.hi.ṣṭhābhis^enam adbhis^abhiṣiñcanti(abhi-sic-) //(cf^.9.1 obhtūrjhātana / mahṇāya ce //)"
+        },
+        {
+          "ref": "Va.15.21",
+          "body": "sarve^eva^abhiṣiktasya pratyuddhāras^putra.janmanā vyākhyātas^vyākhyātas^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 16,
+      "aku_count": 51,
+      "akus": [
+        {
+          "ref": "Va.16.1",
+          "body": "atha vyavahārās^//"
+        },
+        {
+          "ref": "Va.16.2",
+          "body": "rājā mantrī vā sadas.kāryāṇi kuryāt(kṛ-) //"
+        },
+        {
+          "ref": "Va.16.3",
+          "body": "dvayos^vivadamānayos(vi-vad-)^pakṣa.antaram^na gacchet(gam-) //"
+        },
+        {
+          "ref": "Va.16.4",
+          "body": "yathā.āsanam aparādhohī^antena^aparādhas^//"
+        },
+        {
+          "ref": "Va.16.5",
+          "body": "samas^sarveṣu bhūteṣu yathā.āsanam aparādhohī^ādya.varṇayos^vidyā.antatas^//"
+        },
+        {
+          "ref": "Va.16.6",
+          "body": "saṃpannam^ca rakṣayet(rakṣ-) //"
+        },
+        {
+          "ref": "Va.16.7",
+          "body": "rāja.bāla.dhanāni //"
+        },
+        {
+          "ref": "Va.16.8",
+          "body": "a.prāpta.vyavahārāṇām //"
+        },
+        {
+          "ref": "Va.16.9",
+          "body": "prāpta.kāle tu tat^yat //"
+        },
+        {
+          "ref": "Va.16.10",
+          "body": "likhitam^sākṣiṇas^bhuktis^pramāṇam^tri.vidham^smṛtam (c)/"
+        },
+        {
+          "ref": "Va.16.10",
+          "body": "dhana.svīkaraṇam^pūrvam^dhanī dhanam avāpnuyāt(ava-āp-).(c) iti //"
+        },
+        {
+          "ref": "Va.16.11",
+          "body": "mārga.kṣetrebhyas^visargas tathā parivarttanam //{BṣPṣ parivarttanam}{F parivartanam}"
+        },
+        {
+          "ref": "Va.16.12",
+          "body": "taruṇa.gṛheṣu^artha.antareṣu tri.pāda.mātram //"
+        },
+        {
+          "ref": "Va.16.13",
+          "body": "gṛha.kṣetra.virodhe sāmanta.pratyayas^//"
+        },
+        {
+          "ref": "Va.16.14",
+          "body": "sāmanta.virodhe lekhya.pratyayas^//"
+        },
+        {
+          "ref": "Va.16.15",
+          "body": "pratyabhilekhya.virodhe grāma.nagara.vṛddha.śreṇī.pratyayas^//"
+        },
+        {
+          "ref": "Va.16.16",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.16.16",
+          "body": "paitṛkam^krītam ādheyam anvādheyam^pratigraham (c)/"
+        },
+        {
+          "ref": "Va.16.16",
+          "body": "yajñāt^upagamas^veṇis tathā dhūma.śikhā^aṣṭamī.(c) iti //"
+        },
+        {
+          "ref": "Va.16.17",
+          "body": "tatra bhukta.anubhukta.daśa.varṣam //"
+        },
+        {
+          "ref": "Va.16.18",
+          "body": "anyathā^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.16.18",
+          "body": "ādhis^sīmā bāla.dhanas^nikṣepa.upanidhi.striyas^(c)/"
+        },
+        {
+          "ref": "Va.16.18",
+          "body": "rāja.svam^śrotriya.dravyam^na saṃbhogena hīyate(hā-) (c)//"
+        },
+        {
+          "ref": "Va.16.19",
+          "body": "prahīṇa.dravyāṇi rāja.gāmīni bhavanti(bhū-) //"
+        },
+        {
+          "ref": "Va.16.20",
+          "body": "tatas^anyathā rājā mantribhis^saha nāgarais^ca kāryāṇi kuryāt(kṛ-) //"
+        },
+        {
+          "ref": "Va.16.21",
+          "body": "vedhasas^vā rājā śreyān gṛdhra.parivāram^syāt(as-) //"
+        },
+        {
+          "ref": "Va.16.22",
+          "body": "gṛdhra.parivāram^vā rājā śreyān //"
+        },
+        {
+          "ref": "Va.16.23",
+          "body": "gṛdhra.parivāram^syāt(as-)^na gṛdhras^gṛdhra.parivāram^syāt(as-) //"
+        },
+        {
+          "ref": "Va.16.24",
+          "body": "parivārāt^hi doṣās^prādurbhavanti(prādur-bhū-) //"
+        },
+        {
+          "ref": "Va.16.25",
+          "body": "steya.hāra.vināśanam^ca //"
+        },
+        {
+          "ref": "Va.16.26",
+          "body": "tasmāt pūrvam eva parivāram^pṛcchet(prach-) //"
+        },
+        {
+          "ref": "Va.16.27",
+          "body": "atha sākṣiṇas^//"
+        },
+        {
+          "ref": "Va.16.28",
+          "body": "śrotriyas^rūpavān^śīlavān puṇyavān satyavān sākṣiṇas^//"
+        },
+        {
+          "ref": "Va.16.29",
+          "body": "sarveṣu sarve^eva vā //"
+        },
+        {
+          "ref": "Va.16.30",
+          "body": "strīṇām^sākṣiṇas^striyas^kuryāt(kṛ-)^dvijānām^sadṛśās^dvijās^śūdrāṇām^santas(as-)^śūdrās^ca^antyānām antya.yonayas^//"
+        },
+        {
+          "ref": "Va.16.31",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.16.31",
+          "body": "pratibhāvyam^vṛthā.dānam ākṣikam^saurikam^ca yat (c)/"
+        },
+        {
+          "ref": "Va.16.31",
+          "body": "daṇḍa.śulka.avaśiṣṭam^ca na putras^dātus^mahati(mah-) (c)//"
+        },
+        {
+          "ref": "Va.16.32",
+          "body": "brūhi(brū-) sākṣin yathā.tattvam^lambante(lamb-) pitaras tava (c)/"
+        },
+        {
+          "ref": "Va.16.32",
+          "body": "tava vākyam udīkṣāṇās(ud-īkṣ-)^utpatanti(ud-pat-) patanti(pat-) ca (c)//"
+        },
+        {
+          "ref": "Va.16.33",
+          "body": "nagnas^muṇḍas^kapālī ca bhikṣā.arthī kṣut.pipāsitas^(c)/"
+        },
+        {
+          "ref": "Va.16.33",
+          "body": "andhas^śatru.kule gacchet(gam-)^yas^sākṣyam anṛtam^vadet(vad-) (c)//"
+        },
+        {
+          "ref": "Va.16.34",
+          "body": "pañca kanyā.anṛte hanti(han-) daśa hanti(han-) gava.anṛte (c)/"
+        },
+        {
+          "ref": "Va.16.34",
+          "body": "śatam aśva.anṛte hanti(han-) sahasram^puruṣa.anṛte (c)//"
+        },
+        {
+          "ref": "Va.16.35",
+          "body": "vyavahāre mṛte dāre prāyaścittam^kula.striyās^(c)/"
+        },
+        {
+          "ref": "Va.16.35",
+          "body": "teṣām^pūrva.paricchedāt^chidyante(chid-)^atra^apavādibhis^(c)//"
+        },
+        {
+          "ref": "Va.16.36",
+          "body": "udvāha.kāle rati.saṃprayoge prāṇa.atyaye sarva.dhana.apahāre (c)/"
+        },
+        {
+          "ref": "Va.16.36",
+          "body": "viprasya ca^arthe hi^anṛtam^vadeyus(vad-)^pañca^anṛtāni^āhur(ah-) a.pātakāni (c)//"
+        },
+        {
+          "ref": "Va.16.37",
+          "body": "sva.jana.sva.arthe yadi vā^artha.hetos^pakṣa.āśrayeṇa^eva vadanti(vad-) kāryam (c)/"
+        },
+        {
+          "ref": "Va.16.37",
+          "body": "te śabda.vaṃśasya kulasya pūrvān svarga.sthitān^tān api pātayanti(pat-) (c)//"
+        },
+        {
+          "ref": "Va.16.37",
+          "body": "api pātayanti(pat-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 17,
+      "aku_count": 105,
+      "akus": [
+        {
+          "ref": "Va.17.1",
+          "body": "ṛṇam asmin sannayati(sam-nī-)^amṛta.tvam^ca gacchati(gam-) (c)/"
+        },
+        {
+          "ref": "Va.17.1",
+          "body": "pitā putrasya jātasya paśyet(paś-)^cet^jīvatas^mukham (c)//"
+        },
+        {
+          "ref": "Va.17.2",
+          "body": "anantās^putriṇām^lokās^na^a.putrasya lokas^asti(as-).(c) iti śrūyate(śru-) //"
+        },
+        {
+          "ref": "Va.17.3",
+          "body": "a.pajās^santu^atriṇas^iti^abhiśāpas^//(cf^ṛV.<1.021.05c> aprajāḥ santv atriṇaḥ || )"
+        },
+        {
+          "ref": "Va.17.4",
+          "body": "prajābhis^agne amṛta.tvam aśyām iti^api nigamas^bhavati(bhū-) //(cf^ṛV.<5.004.10c> jātavedo yaśo asmāsu dhehi prajābhir agne amṛtatvam aśyām ||)"
+        },
+        {
+          "ref": "Va.17.5",
+          "body": "putreṇa lokān^jayati(ji-) pautreṇa^anantyam aśnute(aś-) (c)/"
+        },
+        {
+          "ref": "Va.17.5",
+          "body": "atha putrasya pautreṇa bradhnasya^āpnoti(āp-) viṣṭapam(c) iti //"
+        },
+        {
+          "ref": "Va.17.6",
+          "body": "kṣetriṇas^putras^janayitus^putras^iti vivadante(vi-vad-) //"
+        },
+        {
+          "ref": "Va.17.7",
+          "body": "tatra^ubhayathā^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.17.8",
+          "body": "yadi^anya.goṣu vṛṣabhas^vatsānām^janayet(jan-)^śatam (c)/"
+        },
+        {
+          "ref": "Va.17.8",
+          "body": "gominām eva te vatsās^mogham^syanditam ārṣabham(c) iti //"
+        },
+        {
+          "ref": "Va.17.9",
+          "body": "apramattās^rakṣata(rakṣ-) tantum etam^mā vas^kṣetre para.bījāni vāpsus(vap-)^/ janayitus^putras^bhavati(bhū-) saṃparāye mogham^tettā kurute(kṛ-) tantum etam iti //{BṣPṣ tettā}{E vettā}"
+        },
+        {
+          "ref": "Va.17.10",
+          "body": "bahūnām eka.jātānām ekas^cet putravān naras^(c)/"
+        },
+        {
+          "ref": "Va.17.10",
+          "body": "sarve te tena putreṇa putravantas^iti śrutis^(c)//"
+        },
+        {
+          "ref": "Va.17.11",
+          "body": "bahvīnām eka.patnīnām ekā putravatī yadi (c)/"
+        },
+        {
+          "ref": "Va.17.11",
+          "body": "sarvās tās tena putreṇa putravantyas^iti śrutis^(c)//"
+        },
+        {
+          "ref": "Va.17.12",
+          "body": "dvādaśa iti^eva putrās^purāṇa.dṛṣṭās^//"
+        },
+        {
+          "ref": "Va.17.13",
+          "body": "svayam utpāditas^sva.kṣetre saṃskṛtāyām^prathamas^//"
+        },
+        {
+          "ref": "Va.17.14",
+          "body": "tat.alābhe niyuktāyām^kṣetra.jas^dvitīyas^//"
+        },
+        {
+          "ref": "Va.17.15",
+          "body": "tṛtīyas^putrikā //"
+        },
+        {
+          "ref": "Va.17.16",
+          "body": "vijñāyate(vi-jñā-)^a.bhrātṛkā puṃsas^pitṝn abhyeti(abhi-i-) pratīcīnam^gacchati(gam-) putra.tvam //"
+        },
+        {
+          "ref": "Va.17.17",
+          "body": "tatra ślokas^/"
+        },
+        {
+          "ref": "Va.17.17",
+          "body": "abhrātṛkām^pradāsyāmi(pra-dā-) tubhyam^kanyām alaṃkṛtām (c)/"
+        },
+        {
+          "ref": "Va.17.17",
+          "body": "asyām^yas^jāyate(jan-) putras^sa me putras^bhavet(bhū-)^iti (c)//"
+        },
+        {
+          "ref": "Va.17.18",
+          "body": "paunarbhavas^caturthas^//"
+        },
+        {
+          "ref": "Va.17.19",
+          "body": "yā kaumāram^bharttāram uttsṛjya(ud-sṛj-)^anyais^saha caritvā(car-) tasya^eva kuṭumbam āśrayati(ā-śri-) sā punar.bhūs^bhavati(bhū-) //{BṣPṣ bharttāram}{F bhartāram}{BṣPṣ uttsṛjya}{F utsṛjya}"
+        },
+        {
+          "ref": "Va.17.20",
+          "body": "yā ca klībam^patitam unmattam^vā bharttāram utsṛjya(ud-sṛj-)^anyam^patim^vindate(vid-) mṛte vā sā punar.bhūs^bhavati(bhū-) //{BṣPṣ bharttāram}{F bhartāram}"
+        },
+        {
+          "ref": "Va.17.21",
+          "body": "kānīnas^pañcamas^//"
+        },
+        {
+          "ref": "Va.17.22",
+          "body": "yam^pitṛ.gṛhe^asaṃskṛtā kāmāt^utpādayet(ud-pad-)^mātāmahasya putras^bhavati(bhū-)^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.17.23",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.17.23",
+          "body": "aprattā duhitā yasya putram^vindeta(vid-) tulyatas^(c)/"
+        },
+        {
+          "ref": "Va.17.23",
+          "body": "putrī mātāmahas tena dadyāt(dā-) piṇḍam^haret(hṛ-)^dhanam(c) iti //"
+        },
+        {
+          "ref": "Va.17.24",
+          "body": "gṛhe ca gūḍha.utpannas^ṣaṣṭhas^//"
+        },
+        {
+          "ref": "Va.17.25",
+          "body": "iti^ete dāyādās^bāndhavās trātāras^mahatas^bhayāt^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.17.26",
+          "body": "atha^a.dāyāda.bandhūnām^sahoḍhas^eva prathamas^//"
+        },
+        {
+          "ref": "Va.17.27",
+          "body": "yā garbhiṇī saṃskriyate(saṃs-kṛ-) sahoḍhas^putras^bhavati(bhū-) //"
+        },
+        {
+          "ref": "Va.17.28",
+          "body": "dattakas^dvitīyas^//"
+        },
+        {
+          "ref": "Va.17.29",
+          "body": "yam^mātā.pitarau dadyātām(dā-) //"
+        },
+        {
+          "ref": "Va.17.30",
+          "body": "krītas^tṛtīyas^//"
+        },
+        {
+          "ref": "Va.17.31",
+          "body": "tat^śunaḥśepena vyākhyātam //"
+        },
+        {
+          "ref": "Va.17.32",
+          "body": "hariścandras^vai rājā sas^ajīgartasya sauyavases^putram^cikrāya(kṛ-) //"
+        },
+        {
+          "ref": "Va.17.33",
+          "body": "svayam upāgatas^caturthas^//"
+        },
+        {
+          "ref": "Va.17.34",
+          "body": "tat^śunaḥśepena vyākyātam //"
+        },
+        {
+          "ref": "Va.17.35",
+          "body": "śunaḥśepas^vai yūpe niyuktas^devatās tuṣṭāva(stu-) / tasya^iha devatās^pāśam^vimumucus(vi-muc-) tam ṛtvijas^ūcus(vac-)^/ mama^eva^ayam^putras^astu(as-)^iti tān ha na saṃpede(sam-pad-) / te saṃpādayāmāsus(sam-pad-)^/ eṣas^eva yam^kāmayet(kam-) tasya putras^astu(as-)^iti / tasya ha viśvāmitras^hotā^āsīt(as-) tasya putratvam iyāya(i-) //"
+        },
+        {
+          "ref": "Va.17.36",
+          "body": "apaviddhas^pañcamas^//"
+        },
+        {
+          "ref": "Va.17.37",
+          "body": "yam^mātā.pitṛbhyām apāstam^pratigṛhṇīyāt(prati-grah-) //"
+        },
+        {
+          "ref": "Va.17.38",
+          "body": "śūdrā.putras^eva ṣaṣṭhas^bhavati(bhū-)^iti^āhur(ah-)^iti^ete^a.dāyāda.bāndhavās^//"
+        },
+        {
+          "ref": "Va.17.39",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.17.39",
+          "body": "yasya pūrveṣām^ṣaṇṇām^na kas.cit^dāyādas^syāt(as-)^ete tasya dāyam^hareran(hṛ-)^iti //"
+        },
+        {
+          "ref": "Va.17.40",
+          "body": "atha bhrātṝṇām^dāya.vibhāgas^//"
+        },
+        {
+          "ref": "Va.17.41",
+          "body": "yas^ca^an.apatyās tāsām ā putra.lābhāt //"
+        },
+        {
+          "ref": "Va.17.42",
+          "body": "dvi.aṃśam^jyeṣṭhas^haret(hṛ-) //"
+        },
+        {
+          "ref": "Va.17.43",
+          "body": "gava.aśvasya ca^anudaśamam //"
+        },
+        {
+          "ref": "Va.17.44",
+          "body": "aja.avayas^gṛham^ca kaniṣṭhasya //"
+        },
+        {
+          "ref": "Va.17.45",
+          "body": "kārṣṇāyasam^guha.upakaraṇāni ca madhyamasya //"
+        },
+        {
+          "ref": "Va.17.46",
+          "body": "mātus^pāriṇeyam^striyas^vibhajeran(vi-bhaj-) //"
+        },
+        {
+          "ref": "Va.17.47",
+          "body": "yadi brāhmaṇasya brāhmaṇī.kṣatriyā.vaiśyāsu putrās^syus(as-)^//"
+        },
+        {
+          "ref": "Va.17.48",
+          "body": "tri.aṃśam^brāhmaṇyās^putras^haret(hṛ-) //"
+        },
+        {
+          "ref": "Va.17.49",
+          "body": "dvi.aṃśam^rājanyāyās^putras^//"
+        },
+        {
+          "ref": "Va.17.50",
+          "body": "samam itare vibhajeran(vi-bhaj-) //"
+        },
+        {
+          "ref": "Va.17.51",
+          "body": "yena ca^eṣām^svayam utpāditam^syāt(as-)^dvi.aṃśam eva haret(hṛ-) //"
+        },
+        {
+          "ref": "Va.17.52",
+          "body": "an.aṃśās tu^āśrama.antara.gatās^//"
+        },
+        {
+          "ref": "Va.17.53",
+          "body": "klība.unmatta.patitās^ca //"
+        },
+        {
+          "ref": "Va.17.54",
+          "body": "bharaṇam^klība.unmattānām //"
+        },
+        {
+          "ref": "Va.17.55",
+          "body": "preta.patnī ṣaṭ.māsān vrata.cāriṇī^a.kṣāra.lavaṇam^bhuñjānā(bhuj-)^adhas^śayīta(śī-) //"
+        },
+        {
+          "ref": "Va.17.56",
+          "body": "ūrdhvam^ṣaḍbhyas^māsebhyas^snāttvā śrāddham^ca patye dattvā(dā-) vidyā.karma.guru.yoni.saṃbandhān saṃnipātya(sam-ni-pat-) pitā bhrātā vā niyogam^kārayet(kṛ-) //{BṣPṣ snāttvā}{F snātvā}"
+        },
+        {
+          "ref": "Va.17.57",
+          "body": "na sa.unmādām avaśām^vyādhitām^vā niyuñjyāt(ni-yuj-) //"
+        },
+        {
+          "ref": "Va.17.58",
+          "body": "jyāyasīm api //"
+        },
+        {
+          "ref": "Va.17.59",
+          "body": "ṣoḍaśa varṣāṇi //"
+        },
+        {
+          "ref": "Va.17.60",
+          "body": "na cet^āmayāvī syāt(as-) //"
+        },
+        {
+          "ref": "Va.17.61",
+          "body": "prajāpatye muhūrte pāṇigrāhavat^upacaret(car-)^anyatra samprahāsya(sam-pra-has-) vāc.pāruṣya.daṇḍa.pāruṣyāt^ca //"
+        },
+        {
+          "ref": "Va.17.62",
+          "body": "grāsa.ācchādana.snāna.anulepaneṣu prāk.gāminī syāt(as-) //"
+        },
+        {
+          "ref": "Va.17.63",
+          "body": "aniyuktāyām utpannas^utpādayitus^putras^bhavati(bhū-)^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.17.64",
+          "body": "syāt(as-)^cet^niyoginos^//"
+        },
+        {
+          "ref": "Va.17.65",
+          "body": "riktha.lobhāt^na^asti(as-) niyogas^//"
+        },
+        {
+          "ref": "Va.17.66",
+          "body": "prāyaścittam^vā^api^upadiśya(upa-diś-) niyuñjyāt(ni-yuj-)^iti^eke //"
+        },
+        {
+          "ref": "Va.17.67",
+          "body": "kumārī^ṛtumatī trīṇi varṣāṇi^upāsīta(upa-ās-) //"
+        },
+        {
+          "ref": "Va.17.68",
+          "body": "tribhyas^varṣebhyas^patim^vindet(vid-) tulyam //"
+        },
+        {
+          "ref": "Va.17.69",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.17.69",
+          "body": "pitus^pramādāt tu yadi^iha kanyā vayas.pramāṇam^samatītya(sam-ati-i-) dīyate(dā-) (c)/"
+        },
+        {
+          "ref": "Va.17.69",
+          "body": "sā hanti(han-) dātāram udīkṣamāṇā(ud-īkṣ-) kāla.atiriktā guru.dakṣiṇā^iva (c)//"
+        },
+        {
+          "ref": "Va.17.70",
+          "body": "prayacchet(pra-yam-)^nagnikām^kanyām ṛtu.kāla.bhayāt pitā (c)/"
+        },
+        {
+          "ref": "Va.17.70",
+          "body": "ṛtumatyām^hi tiṣṭhantyām(sthā-)^doṣas^pitaram ṛcchati(ṛ-) (c)//"
+        },
+        {
+          "ref": "Va.17.71",
+          "body": "yāvantas^kanyām ṛtavas^spṛśanti(spṛś-) tulyais^sakāmām abhiyācyamānām(abhi-yāc-) (c)/"
+        },
+        {
+          "ref": "Va.17.71",
+          "body": "bhrūṇāni tāvanti hatāni tābhyām^mātā.pitṛbhyām iti dharma.vādas^(c)//"
+        },
+        {
+          "ref": "Va.17.72",
+          "body": "adbhis^vācā ca dattāyām^mriyeta(mṛ-)^ādau varas^yadi (c)/"
+        },
+        {
+          "ref": "Va.17.72",
+          "body": "na ca mantra.upanītā syāt(as-) kumārī pitus^eva sā (c)//"
+        },
+        {
+          "ref": "Va.17.73",
+          "body": "balāt^cet prahṛtā kanyā mantrais^yadi na saṃskṛtā (c)/"
+        },
+        {
+          "ref": "Va.17.73",
+          "body": "anyasmai vidhivat^deyā yathā kanyā tathā^eva sā (c)//"
+        },
+        {
+          "ref": "Va.17.74",
+          "body": "pāṇigrāhe mṛte bālā kevalam^mantra.saṃskṛtā (c)/"
+        },
+        {
+          "ref": "Va.17.74",
+          "body": "sā cet^akṣata.yonis^syāt(as-) punas^saṃskāram arhati(arh-).(c) iti //"
+        },
+        {
+          "ref": "Va.17.75",
+          "body": "proṣita.patnī pañca varṣāṇi^upāsīta(upa-ās-) //"
+        },
+        {
+          "ref": "Va.17.76",
+          "body": "ūrdhvam^pañcabhyas^varṣebhyas^bhartṛ.sakāśam^gacchet(gam-) //"
+        },
+        {
+          "ref": "Va.17.77",
+          "body": "yadi dharma.arthābhyām^pravāsam(pra-vas-)^pratyanukāmā na syāt(as-)^yathā prete^evam^vartitavyam(vṛt-)^syāt(as-) //"
+        },
+        {
+          "ref": "Va.17.78",
+          "body": "evam^brāhmaṇī pañca prajātā^aprajātā catvāri rājanyā prajātā pañca^aprajātā trīṇi vaiśyā prajātā catvāri^aprajātā dve śūdrā prajātā trīṇi^aprajātā^ekam //"
+        },
+        {
+          "ref": "Va.17.79",
+          "body": "atas^ūrdhvam^samāna.artha.janma.piṇḍa.udaka.gotrāṇām^pūrvas^pūrvas^garīyān //"
+        },
+        {
+          "ref": "Va.17.80",
+          "body": "na tu khalu kulīne vidyamāne(vid-) paragāminī syāt(as-) //"
+        },
+        {
+          "ref": "Va.17.81",
+          "body": "yasya pūrveṣām^ṣaṇṇām^na kas.cit^dāyādas^syāt(as-) sapiṇḍās^putra.sthānīyās vā tasya dhanam^vibhajeran(vi-bhaj-) //"
+        },
+        {
+          "ref": "Va.17.82",
+          "body": "teṣām alābhe^ācārya.antevāsinau hareyātām(hṛ-) //"
+        },
+        {
+          "ref": "Va.17.83",
+          "body": "tayos^alābhe rājā haret(hṛ-) //"
+        },
+        {
+          "ref": "Va.17.84",
+          "body": "na tu brāhmaṇasya rājā haret(hṛ-) //"
+        },
+        {
+          "ref": "Va.17.85",
+          "body": "brahma.svam^tu viṣam^ghoram //"
+        },
+        {
+          "ref": "Va.17.86",
+          "body": "na viṣam^viṣam iti^āhur(ah-) brahma.svam^viṣam ucyate(vac-) (c)/"
+        },
+        {
+          "ref": "Va.17.86",
+          "body": "viṣam ekākinam^hanti(han-) brahma.svam^putra.pautrakam(c) iti //"
+        },
+        {
+          "ref": "Va.17.87",
+          "body": "traividya.sādhubhyas^saṃprayacchet(sam-pra-yam-) saṃprayacchet(sam-pra-yam-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 18,
+      "aku_count": 25,
+      "akus": [
+        {
+          "ref": "Va.18.1",
+          "body": "śūdreṇa brāhmaṇyām utpannas^cāṇḍālas^bhavati(bhū-)^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.18.2",
+          "body": "rājanyāyām^vaiṇas^//"
+        },
+        {
+          "ref": "Va.18.3",
+          "body": "vaiśyāyām antyāvasāyī //"
+        },
+        {
+          "ref": "Va.18.4",
+          "body": "vaiśyena brāhmaṇyām utpannas^rāmakas^bhavati(bhū-)^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.18.5",
+          "body": "rājanyāyām^pulkasas^//"
+        },
+        {
+          "ref": "Va.18.6",
+          "body": "rājanyena brāhmaṇyām utpannas^sūtas^bhavati(bhū-)^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.18.7a",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.18.7b",
+          "body": "channa.utpannās^ca ye ke.cit prātilomya.guṇa.āśritās^(c)/"
+        },
+        {
+          "ref": "Va.18.7c",
+          "body": "guṇa.ācāra.paribhraṃśāt karmabhis tān vijānīyus(vi-jñā-).(c) iti //"
+        },
+        {
+          "ref": "Va.18.8",
+          "body": "eka.antarā.dvi.antarā.tri.antarāsu jātās^brāhmaṇa.kṣatriya.vaiśyais^ambaṣṭha.ugra.niṣādās^bhavanti(bhū-) //"
+        },
+        {
+          "ref": "Va.18.9",
+          "body": "śūdrāṇām^pāraśavas^//"
+        },
+        {
+          "ref": "Va.18.10",
+          "body": "pāraśavas^na.iva jīvan(jīv-)^eva śavas^bhavati(bhū-)^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.18.11",
+          "body": "eke vai^etat^śmaśānam^ye śūdrās^//"
+        },
+        {
+          "ref": "Va.18.12",
+          "body": "tasmāt^śūdra.samīpe na^adhyetavyam(adhi-i-) //"
+        },
+        {
+          "ref": "Va.18.13a",
+          "body": "atha^api yama.gītān^ślokān udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.18.13b",
+          "body": "śmaśānam etat pratyakṣam^ye śūdrās^pāpa.cāriṇas^(c)/"
+        },
+        {
+          "ref": "Va.18.13c",
+          "body": "tasmāt^śūdra.samīpe tu na^adhyetavyam(adhi-i-)^kadā.cana (c)//"
+        },
+        {
+          "ref": "Va.18.14a",
+          "body": "na śūdrāya matim^dadyāt^nocchiṣṭam^na haviṣkṛtam (c)/"
+        },
+        {
+          "ref": "Va.18.14b",
+          "body": "na ca^asya^upadiśet(upa-diś-)^dharmam^na ca^asya vratam ādiśet(ā-diś-) (c)//"
+        },
+        {
+          "ref": "Va.18.15",
+          "body": "yas^ca^asya^upadiśet(upa-diś-)^dharmam^yas^ca^asya vratam ādiśet(ā-diś-) (c)/"
+        },
+        {
+          "ref": "Va.18.15",
+          "body": "sas^asaṃvṛttam^tamas^ghoram^saha tena prapadyate(pra-pad-).(c) iti //{BṣPṣ asaṃvṛttam}{F asaṃvṛtam}"
+        },
+        {
+          "ref": "Va.18.16",
+          "body": "vraṇa.dvāre kṛmis^yasya saṃbhaveta(sam-bhū-) kadā.cana (c)/"
+        },
+        {
+          "ref": "Va.18.16",
+          "body": "prājāpatyena śudhyeta(śudh-) hiraṇyam^gaus^vāsas^dakṣiṇās^iti //"
+        },
+        {
+          "ref": "Va.18.17",
+          "body": "na^agnim^citvā(ci-) rāmām upeyāt(upa-i-) //"
+        },
+        {
+          "ref": "Va.18.18",
+          "body": "kṛṣṇa.varṇā yā rāmā ramaṇāya^eva na dharmāya na dharmāya^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 19,
+      "aku_count": 58,
+      "akus": [
+        {
+          "ref": "Va.19.1",
+          "body": "sva.dharmas^rājñas^pālanam^bhūtānām^tasya^anuṣṭhānāt siddhis^//"
+        },
+        {
+          "ref": "Va.19.2",
+          "body": "bhaya.kāruṇya.hānam^jarā.maryam^vai^etat satttram āhur(ah-) vidvāṃsas(vid-)^//{BṣPṣ satttram}{F sattram}"
+        },
+        {
+          "ref": "Va.19.3",
+          "body": "tasmāt^gārhasthya.naiyamikeṣu purohitam^dadhyāt(dhā-) //"
+        },
+        {
+          "ref": "Va.19.4",
+          "body": "vijñāyate(vi-jñā-) / brahma.purohitam^rāṣṭram ṛdhnoti(ṛdh-)^iti //"
+        },
+        {
+          "ref": "Va.19.5",
+          "body": "ubhayasya pālanāt //"
+        },
+        {
+          "ref": "Va.19.6",
+          "body": "a.sāmarthyāt^ca //"
+        },
+        {
+          "ref": "Va.19.7",
+          "body": "deśa.dharma.jāti.kula.dharmān sarvān eva^etān anupraviśya(anu-pra-viś-) rājā caturas^varṇān sva.dharme sthāpayet(sthā-) //"
+        },
+        {
+          "ref": "Va.19.8",
+          "body": "teṣu^apacaratsu(apa-car-) daṇḍam^dhārayet(dhṛ-) //"
+        },
+        {
+          "ref": "Va.19.9",
+          "body": "daṇḍas tu deśa.kāla.dharma.vayas.vidyā.sthāna.viśeṣais^hiṃsā.krośayos^kalpyas(kḷp-)^//"
+        },
+        {
+          "ref": "Va.19.10",
+          "body": "āgamāt^dṛṣṭa.antāt^ca //"
+        },
+        {
+          "ref": "Va.19.11",
+          "body": "puṣpa.phala.upagān pādapān na hiṃsyāt(hiṃs-) //"
+        },
+        {
+          "ref": "Va.19.12",
+          "body": "karṣaṇa.kāraṇa.artham^ca^upahanyāt(upa-han-) //"
+        },
+        {
+          "ref": "Va.19.13",
+          "body": "gārhasthya.aṅgānām^ca māna.unmāne rakṣite syātām(as-) //"
+        },
+        {
+          "ref": "Va.19.14",
+          "body": "adhiṣṭhānāt^na nīhāras^sva.arthānām //"
+        },
+        {
+          "ref": "Va.19.15",
+          "body": "māna.mūlya.mātram^naihārikam^syāt(as-) //"
+        },
+        {
+          "ref": "Va.19.16",
+          "body": "mahāmahayos^sthānāt pathas^syāt(as-) //"
+        },
+        {
+          "ref": "Va.19.17",
+          "body": "saṃyāne daśa.vāha.vāhinī dvi.guṇa.kāriṇī syāt(as-) //"
+        },
+        {
+          "ref": "Va.19.18",
+          "body": "pratyekam^prapās^syus(as-)^//"
+        },
+        {
+          "ref": "Va.19.19",
+          "body": "puṃṣām^śata.avara.ardhyam^ca^āhavayet(ā-hvā-) //"
+        },
+        {
+          "ref": "Va.19.20",
+          "body": "avyarthās^striyas^syus(as-)^//"
+        },
+        {
+          "ref": "Va.19.21",
+          "body": "karāṣṭhīlā māṣas^śaramadhyāpas^pādas^kārṣāpaṇās^syus(as-)^//"
+        },
+        {
+          "ref": "Va.19.22",
+          "body": "nir.udakas taras^moṣyas(muṣ-)^//"
+        },
+        {
+          "ref": "Va.19.23",
+          "body": "a.karas^śrotriyas^rāja.pumān a.nātha.pravrajita.bāla.vṛddha.taruṇa.prajātās^//"
+        },
+        {
+          "ref": "Va.19.24",
+          "body": "prāk.gāmikās^kumāryas^bhṛta.patnyas^ca //"
+        },
+        {
+          "ref": "Va.19.25",
+          "body": "bāhubhyām uttaran^śata.guṇam^dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.19.26",
+          "body": "nadī.kakṣa.vana.dāha.śaila.upabhogās^niṣkarās^syus(as-)^//"
+        },
+        {
+          "ref": "Va.19.27",
+          "body": "tat.upajīvinas^vā dadyus(dā-)^//"
+        },
+        {
+          "ref": "Va.19.28",
+          "body": "pratimāsam udvāha.karam^tu^āgamayet(ā-gam-) //"
+        },
+        {
+          "ref": "Va.19.29",
+          "body": "rājani ca prete(pra-i-) dadyāt(dā-) prāsaṅgikam //"
+        },
+        {
+          "ref": "Va.19.30",
+          "body": "etena mātṛ.vṛttis^vyākhyātā //"
+        },
+        {
+          "ref": "Va.19.31",
+          "body": "rāja.mahiṣyās^pitṛvya.mātulān rājā bibhṛyāt(bhṛ-) //"
+        },
+        {
+          "ref": "Va.19.32",
+          "body": "tat.bandhūn^ca^anyān^ca //"
+        },
+        {
+          "ref": "Va.19.33",
+          "body": "rāja.patnyas^grāsa.ācchādanam^labheran(labh-) //"
+        },
+        {
+          "ref": "Va.19.34",
+          "body": "an.icchantyas(iṣ-)^vā pravrajeran(pra-vraj-) //"
+        },
+        {
+          "ref": "Va.19.35",
+          "body": "klība.unmattān rājā bibhṛyāt(bhṛ-) //"
+        },
+        {
+          "ref": "Va.19.36",
+          "body": "tat.gāmitvāt^rikthasya //"
+        },
+        {
+          "ref": "Va.19.37",
+          "body": "śulke ca^api mānavam^ślokam udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.19.37",
+          "body": "na bhinna.kārṣāpaṇam asti(as-) śulke na śilpa.vṛttas^na śiśau na dūte (c)/"
+        },
+        {
+          "ref": "Va.19.37",
+          "body": "na bhaikṣa.labdhe na hṛta.avaśeṣe na śrotriye pravrajite na yajñe.(c) iti //"
+        },
+        {
+          "ref": "Va.19.38",
+          "body": "stenas^anupraveśāt^na duṣyate(duṣ-) //"
+        },
+        {
+          "ref": "Va.19.39",
+          "body": "śastra.dhārī sahoḍhas^vraṇa.saṃpannas^vyapadiṣṭas tu^ekeṣām //"
+        },
+        {
+          "ref": "Va.19.40",
+          "body": "daṇḍya.utsarge rājā^eka.rātram upavaset(upa-vas-) //"
+        },
+        {
+          "ref": "Va.19.41",
+          "body": "tri.rātram^purohitas^//"
+        },
+        {
+          "ref": "Va.19.42",
+          "body": "kṛcchram a.daṇḍya.daṇḍane purohitas^//"
+        },
+        {
+          "ref": "Va.19.43",
+          "body": "tri.rātram^rājā //"
+        },
+        {
+          "ref": "Va.19.44",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.19.44",
+          "body": "anna.ade bhrūṇahā mārṣṭis^patyau bhāryā.apacāriṇī (c)/"
+        },
+        {
+          "ref": "Va.19.44",
+          "body": "gurau śiṣyas^ca yājyas^ca stenas^rājani kilbiṣam (c)//"
+        },
+        {
+          "ref": "Va.19.45",
+          "body": "rājabhis^dhṛta.daṇḍās tu kṛtvā(kṛ-) pāpāni mānavās^(c)/"
+        },
+        {
+          "ref": "Va.19.45",
+          "body": "nirmalās^svargam āyānti(ā-yā-) santas(as-)^sukṛtinas^yathā (c)//"
+        },
+        {
+          "ref": "Va.19.46",
+          "body": "enas^rājānam ṛcchati(ṛ-) utsṛjantam(ud-sṛj-)^sa.kilbiṣam (c)/"
+        },
+        {
+          "ref": "Va.19.46",
+          "body": "tam^cet^vā ghātayet(han-)^rājā hanti(han-) dharmeṇa duṣkṛtam(c) iti //"
+        },
+        {
+          "ref": "Va.19.47",
+          "body": "rājñām ātyayike kārye sadyas^śaucam^vidhīyate(vi-dhā-) (c)/"
+        },
+        {
+          "ref": "Va.19.47",
+          "body": "tathā na^ātyayike nityam^kālas^eva^atra kāraṇam(c) iti //"
+        },
+        {
+          "ref": "Va.19.48",
+          "body": "yama.gītam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.19.48",
+          "body": "na^adya doṣas^asti(as-) rājñām^vai vratinām^na ca satriṇām (c)/"
+        },
+        {
+          "ref": "Va.19.48",
+          "body": "aindra.sthānam upāsīnās(upa-ās-)^brahma.bhūtās^hi te sadā.(c) iti //"
+        },
+        {
+          "ref": "Va.19.48",
+          "body": "hi te sadā^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 20,
+      "aku_count": 58,
+      "akus": [
+        {
+          "ref": "Va.20.1",
+          "body": "an.abhisaṃdhi.kṛte prāyaścittam aparādhe //"
+        },
+        {
+          "ref": "Va.20.2",
+          "body": "abhisaṃdhi.kṛte^api^eke //"
+        },
+        {
+          "ref": "Va.20.3",
+          "body": "gurus^ātmavatām^śāstā śāstā rājā dur.ātmanām (c)/"
+        },
+        {
+          "ref": "Va.20.3",
+          "body": "atha pracchan(prach-)^a.pāpānām^śāstā vaivasvatas^yamas.(c) iti //"
+        },
+        {
+          "ref": "Va.20.4",
+          "body": "tatra ca sūrya.abhyuditas^san(as-)^ahas tiṣṭhet(sthā-) sāvitrīm^ca japet(jap-) //"
+        },
+        {
+          "ref": "Va.20.5",
+          "body": "evam^sūrya.abhinirmuktas^rātrau^āsīt(ās-) //"
+        },
+        {
+          "ref": "Va.20.6",
+          "body": "ku.nakhī śyāva.dantas tu kṛcchram^dvādaśa.rātram^caret(car-) //"
+        },
+        {
+          "ref": "Va.20.7",
+          "body": "parivittis^kṛcchram^dvādaśa.rātram^caritvā(car-) niviśeta(ni-viś-) tām^ca^eva^upayacchet(upa-yam-) //"
+        },
+        {
+          "ref": "Va.20.8",
+          "body": "atha parivividānas^kṛcchra.atikṛcchrau caritvā(car-) tasmai dattvā(dā-) punar niviśeta(ni-viś-) tām^ca^eva^upayacchet(upa-yam-) //"
+        },
+        {
+          "ref": "Va.20.9",
+          "body": "agredidhiṣū.patis^kṛcchram^dvādaśa.rātram^caritvā(car-) niviśeta(ni-viś-) tām^ca^upayacchet(upa-yam-) //"
+        },
+        {
+          "ref": "Va.20.10",
+          "body": "didhiṣū.patis^kṛcchra.atikṛcchrau caritvā(car-) tasmai dattvā(dā-) punar niviśet(ni-viś-) //"
+        },
+        {
+          "ref": "Va.20.11",
+          "body": "vīra.haṇam^parastāt^vakṣyāmas(vac-)^//"
+        },
+        {
+          "ref": "Va.20.12",
+          "body": "brahma.ujjhas^kṛcchram^dvādaśa.rātram^caritvā(car-) punar upayuñjīta(upa-yuj-) vedam ācāryāt //"
+        },
+        {
+          "ref": "Va.20.13",
+          "body": "guru.talpa.gas^sa.vṛṣaṇam^śiśnam uddhṛtya(ud-hṛ-)^añjalau^ādhāya(ā-dhā-) dakṣiṇā.mukhas^gacchet(gam-)^yatra^eva pratihanyāt(prati-han-) tatra tiṣṭhet(sthā-)^ā pralayam //"
+        },
+        {
+          "ref": "Va.20.14",
+          "body": "niṣkālakas^vā ghṛta.abhyaktas taptām^sūrmīm^pariṣvajet(pari-svaj-)^maraṇāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.20.15",
+          "body": "ācārya.putra.śiṣya.bhāryāsu ca^evam //"
+        },
+        {
+          "ref": "Va.20.16",
+          "body": "yoniṣu gurvīm^sakhīm^guru.sakhīm apapātram^patitām^ca gatvā(gam-) kṛcchra.abda.pādam^caret(car-) //"
+        },
+        {
+          "ref": "Va.20.17",
+          "body": "etat^eva cāṇḍāla.patita.anna.bhojaneṣu tatas^punar.upanayanam^vapana.ādīnām^tu nivṛttis^//"
+        },
+        {
+          "ref": "Va.20.18",
+          "body": "mānavam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.20.18",
+          "body": "vapanam^mekhalā daṇḍas^bhaikṣa.caryā vratāni ca (c)/"
+        },
+        {
+          "ref": "Va.20.18",
+          "body": "etāni tu nivartante(ni-vṛt-) punar.saṃskāra.karmaṇi.(c) iti //"
+        },
+        {
+          "ref": "Va.20.19",
+          "body": "matyā madya.pāne tu^asurāyās^surāyās^ca^ajñāne kṛcchra.atikṛcchrau ghṛtam^prāśya(pra-aś-) punar.saṃskāras^ca //"
+        },
+        {
+          "ref": "Va.20.20",
+          "body": "mūtra.śakṛt.śukra.abhyavahāreṣu ca^evam //"
+        },
+        {
+          "ref": "Va.20.21",
+          "body": "madya.bhāṇḍe sthitās^āpas^yadi kas.cit^dvijas^pibet(pā-) padma.udumbara.bilva.palāśānām udakam^pītvā(pā-) tri.rātreṇa^eva śudhyati(śudh-) //"
+        },
+        {
+          "ref": "Va.20.22",
+          "body": "abhyāse tu surāyās^agni.varṇām^tām^dvijas^pibet(pā-)^maraṇāt pūtas^bhavati(bhū-)^iti //"
+        },
+        {
+          "ref": "Va.20.23",
+          "body": "bhrūṇahanam^vakṣyāmas(vac-)^brāhmaṇam^hatvā(han-) bhrūṇahā bhavati(bhū-)^a.vijñātam^ca garbham //"
+        },
+        {
+          "ref": "Va.20.24",
+          "body": "a.vijñātās^hi garbhās^pumāṃsas^bhavati(bhū-) tatmāt puṃs.kṛtyās^juhvati(hu-)^iti //{BṣPṣ tatmāt}{F tasmāt}"
+        },
+        {
+          "ref": "Va.20.25",
+          "body": "bhrūṇahā^agnim upasamādhāya(upa-sam-ā-dhā-) juhuyāt(hu-)^etās^//"
+        },
+        {
+          "ref": "Va.20.26",
+          "body": "lomāni mṛtyos^juhomi(hu-) lomabhis^mṛtyum^vāsaye(vas-)^iti prathamām^/ tvacam^mṛtyos^juhomi(hu-) tvacā mṛtyum^vāsaye(vas-)^iti dvitīyām^/ lohitam^mṛtyos^juhomi(hu-) lohitena mṛtyum^vāsaye(vas-)^iti tṛtīyām^/ māṃsam^mṛtyos^juhomi(hu-) māṃsena mṛtyum^vāsaye(vas-)^iti caturthīm^/ snāvāni mṛtyos^juhomi(hu-) snāvabhis^mṛtyum^vāsaye(vas-)^iti pañcamīm^/ medas^mṛtyos^juhomi(hu-) medasā ṛtyum^vāsaye(vas-)^iti ṣaṣṭhīm^/ asthīni mṛtyos^juhomi(hu-)^asthibhis^mṛtyum^vāsaye(vas-)^iti saptamīm^/ majjānam^mṛtyos^juhomi(hu-) majjābhis^mṛtyum^vāsaye(vas-)^iti^aṣṭamīm iti //"
+        },
+        {
+          "ref": "Va.20.27",
+          "body": "rāja.arthe brāhmaṇa.arthe vā saṃgrāme^abhimukham ātmānam^ghātayet(han-) //"
+        },
+        {
+          "ref": "Va.20.28",
+          "body": "tris^ajitas^vā^aparāddhas^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) hi //"
+        },
+        {
+          "ref": "Va.20.29",
+          "body": "niruktam(nir-vac-)^hi^enas^kanīyas^bhavati(bhū-)^iti //"
+        },
+        {
+          "ref": "Va.20.30",
+          "body": "tathā^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.20.30",
+          "body": "patitam^patita^iti^uktvā(vac-) coram^cora^iti vā punas^(c)/"
+        },
+        {
+          "ref": "Va.20.30",
+          "body": "vacanāt tulya.doṣas^syāt(as-)^mithyā dvis^doṣatām^vrajet(vraj-).(c) iti //"
+        },
+        {
+          "ref": "Va.20.31",
+          "body": "evam^rājanyām^hatvā(han-)^aṣṭau varṣāṇi caret(car-) //"
+        },
+        {
+          "ref": "Va.20.32",
+          "body": "ṣaṭ^vaiṣyam //"
+        },
+        {
+          "ref": "Va.20.33",
+          "body": "trīṇi śūdram //"
+        },
+        {
+          "ref": "Va.20.34",
+          "body": "brāhmaṇīm^ca^ātreyīm^hatvā(han-) savana.gatau ca rājanya.vaiśyau //"
+        },
+        {
+          "ref": "Va.20.35",
+          "body": "ātreyīm^vakṣyāmas(vac-)^rajasvalām ṛtu.snātām ātreyīm āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.20.36",
+          "body": "atra hi^eṣyadagpatyam(?)^bhavati(bhū-)^iti //"
+        },
+        {
+          "ref": "Va.20.37",
+          "body": "anātreyīm^rājanya.hiṃsāyām //"
+        },
+        {
+          "ref": "Va.20.38",
+          "body": "rājanyām^vaiśya.hiṃsāyām //"
+        },
+        {
+          "ref": "Va.20.39",
+          "body": "vaiśyām^śūdra.hiṃsāyām //"
+        },
+        {
+          "ref": "Va.20.40",
+          "body": "śūdrām^hatvā(han-) saṃvatsaram //"
+        },
+        {
+          "ref": "Va.20.41",
+          "body": "brāhmaṇa.suvarṇa.haraṇe prakīrya(pra-kṝ-) keśān rājānam abhidhāvet(abhi-dhāv-) stenas^asmi(as-) bho śāstu(śās-) mām^bhavān iti tasmai rājā^audumbaram^śastram^dadyāt(dā-) tena^ātmānam^pramāpayet(pra-mā-)^maraṇāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //{BṣPṣ bho}{F bhos.}"
+        },
+        {
+          "ref": "Va.20.42",
+          "body": "niṣkālakas^vā ghṛta.aktas^gomaya.agninā pāda.prabhṛti^ātmānam abhidāhayet(abhi-dah-)^maraṇāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.20.43",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.20.43",
+          "body": "purā kālāt pramītānām^pāpāt^vividha.karmaṇām (c)/"
+        },
+        {
+          "ref": "Va.20.43",
+          "body": "punar āpanna.dehānām aṅgam^bhavati(bhū-) tat^śṛṇu(śru-) (c)//"
+        },
+        {
+          "ref": "Va.20.44",
+          "body": "stenas^ku.nakhī bhavati(bhū-) śvitrī bhavati(bhū-) brahma.hā (c)/"
+        },
+        {
+          "ref": "Va.20.44",
+          "body": "surā.pas^śyāva.dantas tu duścarmā guru.talpa.gas.(c) iti //"
+        },
+        {
+          "ref": "Va.20.45",
+          "body": "patita.saṃprayoge ca brāhmeṇa vā yaunena vā yās tebhyas^sakāśāt^mātrās^upalabdhās tāsām^parityāgas tais^ca na saṃvaset(sam-vas-) //"
+        },
+        {
+          "ref": "Va.20.46",
+          "body": "udīcim^diśam^gatvā(gam-)^an.aśnan(aś-) saṃhitā.adhyayanam adhīyānas(adhi-i-)^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.20.47",
+          "body": "tathā^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.20.47",
+          "body": "śarīra.paritāpena tapasā^adhyayanena ca (c)/"
+        },
+        {
+          "ref": "Va.20.47",
+          "body": "mucyate(muc-) pāpa.kṛt pāpāt^dānāt^ca^api pramucyate(pra-muc-) (c)//"
+        },
+        {
+          "ref": "Va.20.47",
+          "body": "iti vijñāyate(vi-jñā-) vijñāyate(vi-jñā)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 21,
+      "aku_count": 42,
+      "akus": [
+        {
+          "ref": "Va.21.1",
+          "body": "śūdras^cet^brāhmaṇīm abhigacchet(abhi-gam-)^vīraṇais^veṣṭayitvā(veṣṭ-) śūdram agnau prāsyet(pra-as-)^brāhmaṇyās^śirasi vapanam^kārayitvā(kṛ-) sarpiṣā samabhyajya(sam-abhi-añj-) nagnām^kṛṣṇa.kharam āropya(ā-ruh-) mahā.patham anusaṃvrājayet(anu-sam-vraj-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.21.2",
+          "body": "vaiśyas^cet^brāhmaṇīm abhigacchet(abhi-gam-)^lohita.darbhais^veṣṭayitvā(veṣṭ-) vaiśyam agnau prāsyet(pra-as-)^brāhmaṇyās^śirasi vapanam^kārayitvā(kṛ-) sarpiṣā samabhyajya(sam-abhi-añj-) nagnām^gaura.kharam āropya(ā-ruh-) mahā.patham anusaṃvrājayet(anu-sam-vraj-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.21.3",
+          "body": "rājanyas^cet^brāhmaṇīm abhigacchet(abhi-gam-)^śara.patrais^veṣṭayitvā(veṣṭ-) rājanyam agnau prāsyet(pra-as)^brāhmaṇyās^śirasi vapanam^kārayitvā(kṛ-) sarpiṣā samabhyajya(sam-abhi-añj-) nagnām^śveta.kharam āropya(ā-ruh-) mahā.patham anusaṃvrājayet(anu-sam-vraj-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.21.4",
+          "body": "evam^vaiśyas^rājanyāyām //"
+        },
+        {
+          "ref": "Va.21.5",
+          "body": "śūdras^ca rājanyā.vaiśyayos^//"
+        },
+        {
+          "ref": "Va.21.6",
+          "body": "manasā bhartus^aticāre tri.rātram^yāvakam^kṣīrodanam^vā bhuñjānā(bhuj-)^adhas^śayīta(śī-)^ūrdhvam^tri.rātrāt^apsu nimagnāyās^sāvitryā^aṣṭa.śatena śirobhis^juhuyāt(hu-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //{BṣPṣ kṣīrodanam}{F kṣīra.odanam}"
+        },
+        {
+          "ref": "Va.21.7",
+          "body": "vāc.saṃbandhe^etat^eva māsam^caritvā(car-)^ūrdhvam^māsāt^apsu nimagnāyās^sāvitryās^caturbhis^aṣṭa.śatais^śirobhis^juhuyāt(hu-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.21.8",
+          "body": "vyavāye tu saṃvatsaram^ghṛta.paṭam^dhārayet(dhṛ-)^go.maya.garte kuśa.prastare vā śayīta(śī-)^ūrdhvam^saṃvatsarāt^apsu nimagnāyās^sāvitrī.aṣṭa.śatena śirobhis^juhuyāt(hu-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.21.9",
+          "body": "vyavāye tīrtha.gamane dharmebhyas tu nivartate(ni-vṛt-) (c)//"
+        },
+        {
+          "ref": "Va.21.10",
+          "body": "catasras tu parityājyās(pari-tyaj-)^śiṣya.gā guru.gā ca yā (c)/"
+        },
+        {
+          "ref": "Va.21.10",
+          "body": "pati.ghnī ca viśeṣeṇa juṅgita.upagatā ca yā (c)//"
+        },
+        {
+          "ref": "Va.21.11",
+          "body": "yā brāhmaṇī ca surā.pī na tām^devās^patilokam^nayanti(nī-)^iha^eva sā carati(car-) kṣīṇa.puṇyā^apsu luk^bhavati(bhū-) śuktikā vā //"
+        },
+        {
+          "ref": "Va.21.12",
+          "body": "brāhmaṇa.kṣatriya.viśām^striyas^śudreṇa saṅgatās^(c)/{BṣPṣ śudreṇa}{F śūdreṇa}"
+        },
+        {
+          "ref": "Va.21.12",
+          "body": "aprajātās^viśudhyanti(vi-śudh-) prāyaścittena na^itarās^(c)//"
+        },
+        {
+          "ref": "Va.21.13",
+          "body": "pratilomam^careyus(car-) tās^kṛcchram^cāndrāyaṇa.uttaram (c)//"
+        },
+        {
+          "ref": "Va.21.14",
+          "body": "pati.vratānām^gṛha.medhinīnām^satya.vratānām^ca śuci.vratānām (c)/"
+        },
+        {
+          "ref": "Va.21.14",
+          "body": "tāsām^tu lokās^patibhis^samānās^gomāyu.lokā vyabhicāriṇīnām (c)//"
+        },
+        {
+          "ref": "Va.21.15",
+          "body": "patati(pat-)^ardham^śarīrasya yasya bhāryā surām^pibet(pā-) (c)/"
+        },
+        {
+          "ref": "Va.21.15",
+          "body": "patita.ardha.śarīrasya niṣkṛtis^na vidhīyate(vi-dhā-) (c)//"
+        },
+        {
+          "ref": "Va.21.16",
+          "body": "brāhmaṇas^cet^aprekṣā.pūrvam^brāhmaṇa.dārān abhigacchet(abhi-gam-)^a.nivṛtta.dharma.karmaṇas^kṛcchras^nivṛtta.dharma.karmaṇas^atikṛcchras^//"
+        },
+        {
+          "ref": "Va.21.17",
+          "body": "evam^rājanya.vaiśyayos^//"
+        },
+        {
+          "ref": "Va.21.18",
+          "body": "gām^cet^hanyāt(han-) tasyās^carmaṇā^ardreṇa pariveṣṭitas^ṣaṭ.māsān kṛcchram^tapta.kṛcchram^vā^ātiṣṭhet(ā-sthā-) //"
+        },
+        {
+          "ref": "Va.21.19",
+          "body": "tayos^vidhis^//"
+        },
+        {
+          "ref": "Va.21.20",
+          "body": "tri.aham^divā bhuṅke(bhuj-) naktam aśnāti(aś-) vai tri.aham api (c)/"
+        },
+        {
+          "ref": "Va.21.20",
+          "body": "tri.aham ayācita.vratas tri.aham^na bhuj^iti kṛcchras^(c)//"
+        },
+        {
+          "ref": "Va.21.21",
+          "body": "tri.aham uṣṇās^pibet(pā-)^āpas tri.aham uṣṇam^payas^pibet(pā-) (c)/"
+        },
+        {
+          "ref": "Va.21.21",
+          "body": "tri.aham uṣṇam^ghṛtam^pītvā(pā-) vāyu.bhakṣas^param^tri.aham (c)//"
+        },
+        {
+          "ref": "Va.21.21",
+          "body": "iti tapta.kṛcchras^//"
+        },
+        {
+          "ref": "Va.21.22",
+          "body": "ṛṣabha.vehatau ca dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.21.23",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.21.23",
+          "body": "trayas^eva purā rogās^īrṣyās^an.aśanam^jarā (c)/"
+        },
+        {
+          "ref": "Va.21.23",
+          "body": "pṛṣat.basta.vayam^hatvā(han-) aṣṭānavatim āharet(ā-hṛ-).(c) iti //"
+        },
+        {
+          "ref": "Va.21.24",
+          "body": "śva.mārjāra.nakula.sarpa.dardura.mūṣkān hatvā(han-) kṛcchram^dvādaśa.rātram^caret(car-) kim.cit^dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.21.25",
+          "body": "an.asthimatām^tu sattvānām^go.mātram^rāśim^hatvā(han-) kṛcchram^dvādaśa.rātram^caret(car-) kim.cit^dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.21.26",
+          "body": "asthimatām^tu^ekaikam //"
+        },
+        {
+          "ref": "Va.21.27",
+          "body": "yas^agnīn apavidhyet(apa-vyadh-) kṛcchram^dvādaśa.rātram^caritvā(car-) punar ādhānam^kārayet(kṛ-) //"
+        },
+        {
+          "ref": "Va.21.28",
+          "body": "guros^ca^alīka.nirbandhe sa.cailam^snātas^gurum^prasādayet(pra-sad-) prasādāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.21.29",
+          "body": "nāstikas^kṛcchram^dvādaśa.rātram^caritvā(car-) viramet(vi-ram-)^nāstikyāt //"
+        },
+        {
+          "ref": "Va.21.30",
+          "body": "nāstika.vṛttis tu^atikṛcchram //"
+        },
+        {
+          "ref": "Va.21.31",
+          "body": "etena soma.vikrayī vyākhyātas^//"
+        },
+        {
+          "ref": "Va.21.32",
+          "body": "vānaprasthas^dīkṣā.bhede kṛcchram^dvādaśa.rātram^caritvā(car-) mahākakṣe vardhayet(vṛdh-) //"
+        },
+        {
+          "ref": "Va.21.33",
+          "body": "bhikṣukais^vānaprasthavat soma.vṛddhi.vardhanam^sva.śāstra.saṃskāras^ca sva.śāstra.saṃskāras^ca^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 22,
+      "aku_count": 18,
+      "akus": [
+        {
+          "ref": "Va.22.1",
+          "body": "atha khalu^ayam^puruṣas^mithyā vyākaroti(vi-ā-kṛ-)^a.yājyam^vā yājayati(yaj-)^a.pratigrāhyam^vā pratigṛhṇāti(prati-grah-)^an.annam^vā^aśnāti(aś-)^an.ācaraṇīyam(ā-car-) eva^ācarati(ā-car-) //"
+        },
+        {
+          "ref": "Va.22.2",
+          "body": "tatra prāyaścittam^kuryāt(kṛ-)^na kuryāt(kṛ-)^iti mīmāṃsante(man-) //"
+        },
+        {
+          "ref": "Va.22.3",
+          "body": "na kuryāt(kṛ-)^iti^āhur(ah-)^//"
+        },
+        {
+          "ref": "Va.22.4",
+          "body": "na hi karma kṣīyate(kṣi-)^iti //"
+        },
+        {
+          "ref": "Va.22.5",
+          "body": "kuryāt(kṛ-)^iti^eva tasmāt^śruti.nidarśanāt //"
+        },
+        {
+          "ref": "Va.22.6",
+          "body": "tarati(tṛ-) sarvam^pāpmānam^tarati(tṛ-) brahma.hattyām^yas^aśvamedhena yajate(yaj-)^iti //{BṣPṣ hattyām.}{F hatyām.}"
+        },
+        {
+          "ref": "Va.22.7",
+          "body": "iti ca^abhiśastas^gosavena^agniṣṭutā yajeta(yaj-) //"
+        },
+        {
+          "ref": "Va.22.8",
+          "body": "tasya niṣkrayaṇāni japas tapas^homas^upavāsas^dānam //"
+        },
+        {
+          "ref": "Va.22.9",
+          "body": "upaniṣadas^veda.ādayas^veda.antās^sarva.chandas.sāṃhitās^madhūni^aghamarṣaṇam atharvaśiras^rudrās^puruṣasūktam^rājana(cf^rājaṇa).rauhiṇe sāmanī kūṣmāṇḍāni pāvamānyas^sāvitrī ca^iti pāvanāni //"
+        },
+        {
+          "ref": "Va.22.10",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.22.10",
+          "body": "vaiśvānarīm^vrātapatīm^pavitra.iṣṭim^tathā^eva ca (c)/"
+        },
+        {
+          "ref": "Va.22.10",
+          "body": "sakṛt^ṛtau prayuñjānas(pra-yuj-)^punāti(pū-) daśa.pūruṣam(c) iti //"
+        },
+        {
+          "ref": "Va.22.11",
+          "body": "upavāsa.nyāyena payas.vratatā phala.bhakṣatā prasṛta.yāvakas^hiraṇya.prāśanam^soma.pānam iti medhyāni //"
+        },
+        {
+          "ref": "Va.22.12",
+          "body": "sarve śilā.uccayās^sarvās^sravantyas^puṇyās^hradās tīrthāni^ṛṣi.nivāsa.goṣṭha.pariṣkandhās^iti deśās^//"
+        },
+        {
+          "ref": "Va.22.13",
+          "body": "saṃvatsaras^māsas^caturviṃśati.ahar^dvādaśa.ahar^ṣaṭ.ahar^tri.ahar^ahar.rātrās^iti kālās^//"
+        },
+        {
+          "ref": "Va.22.14",
+          "body": "etāni^eva^an.ādeśe vikalpena kriyeran(kṛ-) //"
+        },
+        {
+          "ref": "Va.22.15",
+          "body": "enaḥsu guruṣu gurūṇi laghuṣu laghūni //"
+        },
+        {
+          "ref": "Va.22.16",
+          "body": "kṛcchra.atikṛcchrau cāndrāyaṇam iti sarva.prāyaścittis^sarva.prāyaścittis^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 23,
+      "aku_count": 57,
+      "akus": [
+        {
+          "ref": "Va.23.1",
+          "body": "brahmacārī cet striyam upeyāt(upa-i-)^araṇye catuṣpathe laukike^agnau rakṣas.daivatam^gardabham^paśum ālabhet(ā-labh-) //"
+        },
+        {
+          "ref": "Va.23.2",
+          "body": "nairṛtam^vā carum^nirvapet(nir-vap-) //"
+        },
+        {
+          "ref": "Va.23.3",
+          "body": "tasya juhuyāt(hu-) kāmāya svāhā kāma.kāmāya svāhā nairṛtyai svāhā rakṣas.devatābhyas^svāhā^iti //"
+        },
+        {
+          "ref": "Va.23.4",
+          "body": "etat^eva retasas^prayatna.utsarge divā svapne vrata.antareṣu vā samāvartanāt //"
+        },
+        {
+          "ref": "Va.23.5",
+          "body": "tiryak.yoni.vyavāye śuklam ṛṣabham^dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.23.6",
+          "body": "gām^gatvā(gam-) śūdrā.avadhena doṣas^vyākhyātas^//"
+        },
+        {
+          "ref": "Va.23.7",
+          "body": "brahmacāriṇas^śava.karmaṇas^vratāt^nivṛttis^//"
+        },
+        {
+          "ref": "Va.23.8",
+          "body": "anyatra mātā.pitros^//"
+        },
+        {
+          "ref": "Va.23.9",
+          "body": "sa cet^vyādhīyīta(vi-ā-adhi-i-) kāmam^guros^ucchiṣṭam^bheṣaja.artham^sarvam^prāśnīyāt(pra-aś-) //"
+        },
+        {
+          "ref": "Va.23.10",
+          "body": "guruprayuktas^cet^mriyeta(mṛ-) trīn kṛcchān^caret(car-)^gurus^//{BṣPṣ kṛcchān}{F kṛcchrān}"
+        },
+        {
+          "ref": "Va.23.11",
+          "body": "brahmacārī cet^māṃsam aśnīyāt(aś-)^ucchiṣṭa.bhojanīyam^kṛcchram^dvādaśa.rātram^caritvā(car-) vrata.śeṣam^samāpayet(sam-āp-) //"
+        },
+        {
+          "ref": "Va.23.12",
+          "body": "śrāddha.sūtaka.bhojaneṣu ca^evam //"
+        },
+        {
+          "ref": "Va.23.13",
+          "body": "a.kāmata.upanatam^madhu vājasaneyake na duṣyati(duṣ-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.23.14",
+          "body": "yas^ātma.tyāgī^abhiśastas^bhavati(bhū-) sapiṇḍānām^preta.karma.chedas^//"
+        },
+        {
+          "ref": "Va.23.15",
+          "body": "kāṣṭha.jala.loṣṭa.pāṣāṇa.śastra.viṣa.rajjubhis^yas^ātmānam avasādayati(ava-sad-) sas^ātmahā bhavati(bhū-) //"
+        },
+        {
+          "ref": "Va.23.16",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.23.16",
+          "body": "yas^ātma.tyāginas^kuryāt(kṛ-) snehāt preta.kriyām^dvijas^(c)/"
+        },
+        {
+          "ref": "Va.23.16",
+          "body": "sa tapta(tap-).kṛcchra.sahitam^caret(car-)^cāndrāyaṇa.vratam(c) iti //"
+        },
+        {
+          "ref": "Va.23.17",
+          "body": "cāndrāyaṇam^parastāt^vakṣyāmas(vac-)^//"
+        },
+        {
+          "ref": "Va.23.18",
+          "body": "ātma.hanana.adhyavasāye tri.rātram //"
+        },
+        {
+          "ref": "Va.23.19",
+          "body": "jīvan(jīv-)^ātmatyāgī kṛchraṃ dvādaśa.rātram^caret(car-) tri.rātram^hi^upavaset(upa-vas-)^nityam^snigdhena vāsasā prāṇān ātmani ca^āyamya(ā-yam-) tris^paṭhet(paṭh-)^aghamarṣaṇam iti //{BṣPṣ kṛchraṃ}{F kṛcchraṃ}"
+        },
+        {
+          "ref": "Va.23.20",
+          "body": "api vā^etena kalpena gāyatrīm^parivartayet(pari-vṛt-) //"
+        },
+        {
+          "ref": "Va.23.21",
+          "body": "api vā^agnim upasamādhāya(upa-sam-ā-dhā-) kūṣmāṇḍais^juhuyāt(hu-)^dhṛtam //"
+        },
+        {
+          "ref": "Va.23.22",
+          "body": "yat^ca^anyat^mahāpātakebhyas^sarvam etena pūyate(pū-)^iti //"
+        },
+        {
+          "ref": "Va.23.23",
+          "body": "atha^api^ācamet(ā-cam-)^agnis^ca mā manyus(man-)^ca^iti prātarmanasā pāpam^dhyātvoṃpūrvās^satyāntā vyāhṛtīs^japet(jap-)^aghamarṣaṇam^vā paṭhet(paṭh-) //{dhyātvoṃpūrvās < dhyātvā(dhyā-). oṃpūrvās}"
+        },
+        {
+          "ref": "Va.23.24",
+          "body": "mānuṣa.asthi snigdham^spṛṣṭvā(spṛś-) tri.rātram āśaucam //"
+        },
+        {
+          "ref": "Va.23.25",
+          "body": "asnigdhe tu^ahar.rātram //"
+        },
+        {
+          "ref": "Va.23.26",
+          "body": "śava.anugamane ca^evam //"
+        },
+        {
+          "ref": "Va.23.27",
+          "body": "adhīyānānām(adhi-i-) antarā.gamane^ahar.rātram abhojanam //"
+        },
+        {
+          "ref": "Va.23.28",
+          "body": "tri.rātram abhiṣekas^vivāsas^ca^anyonyena //"
+        },
+        {
+          "ref": "Va.23.29",
+          "body": "śva.mārjāra.nakula.śīghra.gāṇām ahar.rātram //"
+        },
+        {
+          "ref": "Va.23.30",
+          "body": "śva.kukkuṭa.grāmyaśūkara.kaṅka.gṛdhra.bhāsa.pārāvata.mānuṣa.kāka.ulūka.māṃsa.adane sapta.rātram upavāsas^niṣpurīṣībhāvas^ghṛta.prāśas^punas^saṃskāras^ca //"
+        },
+        {
+          "ref": "Va.23.31",
+          "body": "brāhmaṇas tu śunā daṣṭas^nadīm^gatvā(gam-) samudra.gām (c)/"
+        },
+        {
+          "ref": "Va.23.31",
+          "body": "prāṇāyāma.śatam^kṛtvā(kṛ-) ghṛtam^prāśya(pra-aś-) tatas^śucis.(c) iti //"
+        },
+        {
+          "ref": "Va.23.33",
+          "body": "śva.cāṇḍāla.patita.upasparśane sa.cailam^snātas^sadyas^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.23.34",
+          "body": "patita.cāṇḍāla.ārāva.śravaṇe tri.rātram^vāc.yatā an.aśnantas(aś-)^āsīran(ās-) //"
+        },
+        {
+          "ref": "Va.23.35",
+          "body": "sahasra.paramam^vā tat.abhyasantas^pūtās^bhavanti(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.23.36",
+          "body": "etena^eva garhita.adhyāpaka.yājakās^vyākhyātās^dakṣiṇā.tyāgāt^ca pūtās^bhavanti(bhū-)^iti vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.23.37",
+          "body": "etena^eva^abhiśastas^vyākhyātas^//"
+        },
+        {
+          "ref": "Va.23.38",
+          "body": "bhrūṇa.hattyāyām^dvādaśa.rātram ab.bhakṣas^dvādaśa.rātram upavaset(upa-vas-) //{BṣPṣ hattyāyām.}{F hatyāyām.}"
+        },
+        {
+          "ref": "Va.23.39",
+          "body": "brāhmaṇam anṛtena^abhiśaṃsya(abhi-śaṃs-) patanīyena^upapatanīyena vā māsam ab.bhakṣas^śuddhavatīs^āvartayet(ā-vṛt-) //"
+        },
+        {
+          "ref": "Va.23.40",
+          "body": "aśvamedha.avabhṛtham^vā gacchet(gam-) //"
+        },
+        {
+          "ref": "Va.23.41",
+          "body": "etena^eva cāṇḍālīvyavāyas^vyākhyātas^//"
+        },
+        {
+          "ref": "Va.23.42",
+          "body": "atha^aparas^kṛcchra.vidhis^sādhāraṇas^vyūḍhas^//"
+        },
+        {
+          "ref": "Va.23.43",
+          "body": "ahar^prātar ahar naktamahar ekam ayācitam (c)/"
+        },
+        {
+          "ref": "Va.23.43",
+          "body": "ahar^parākam^tantraikam evam^catus.ahau parau (c)//"
+        },
+        {
+          "ref": "Va.23.43",
+          "body": "anugraha.artham^viprāṇām^manus^dharma.bhṛtām^varas^(c)/"
+        },
+        {
+          "ref": "Va.23.43",
+          "body": "bāla.vṛddha.ātureṣu^evam^śiśu.kṛcchram uvāca(vac-) ha (c)//"
+        },
+        {
+          "ref": "Va.23.44",
+          "body": "atha cāndrāyaṇa.vidhis^//"
+        },
+        {
+          "ref": "Va.23.45",
+          "body": "māsasya kṛṣṇa.pakṣa.ādau grāsān adyāt(ad-)^caturdaśa (c)/"
+        },
+        {
+          "ref": "Va.23.45",
+          "body": "grāsa.upacaya.bhojī syāt(as-) pakṣa.śeṣam^samāpayet(sam-āp-) (c)//"
+        },
+        {
+          "ref": "Va.23.45",
+          "body": "evam^hi śukla.pakṣa.ādau grāsam ekam^tu bhakṣayet(bhakṣ-) (c)/"
+        },
+        {
+          "ref": "Va.23.45",
+          "body": "grāsa.apacaya.bhojī syāt(as-) pakṣa.śeṣam^samāpayet(sam-āp-) (c)//"
+        },
+        {
+          "ref": "Va.23.46",
+          "body": "atra^eva gāyet(gai-) sāmāni api vā vyāhṛtīs^japet(jap-) (c)//"
+        },
+        {
+          "ref": "Va.23.47",
+          "body": "eṣa cāndrāyaṇas^māsas^pavitram ṛṣi.saṃstutas^(c)/"
+        },
+        {
+          "ref": "Va.23.47",
+          "body": "anādiṣṭeṣu sarveṣu prāyaścittam^vidhīyate(vi-dhā-) (c)//"
+        },
+        {
+          "ref": "Va.23.47",
+          "body": "vidhīyate(vi-dhā-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 24,
+      "aku_count": 7,
+      "akus": [
+        {
+          "ref": "Va.24.1",
+          "body": "atha^atikṛcchras^//"
+        },
+        {
+          "ref": "Va.24.2",
+          "body": "tri.aham^prātar^tathā sāyam ayācitam^parākas^iti kṛcchras^yāvat sakṛt^ādadīta(ā-dā-) tāvat^aśnīyāt(aś-) pūrvavat sas^atikṛcchras^//"
+        },
+        {
+          "ref": "Va.24.3",
+          "body": "kṛcchras^ab.bhakṣas^sa kṛchra.atikṛcchras^//{BṣPṣ kṛchra}{F kṛcchra}"
+        },
+        {
+          "ref": "Va.24.4",
+          "body": "kṛcchrāṇām^vrata.rūpāṇi //"
+        },
+        {
+          "ref": "Va.24.5",
+          "body": "śmaśru.keśān vāpayet(vap-)^bhruvas.akṣi.loma.śikhā.varjam^nakhān nikṛtya(ni-kṛt-)^eka.vāsas^anindita.bhojī [sakṛt^bhaikṣam aninditaṃ] triṣavaṇam udaka.upasparśī daṇḍī kamaṇḍalus^strī.śūdra.saṃbhāṣaṇa.varjī sthāna.āsana.śīlas^ahar^tiṣṭhet(sthā-)^rātrau^asīta(as-)^iti^āha bhagavān vasiṣṭhas^//"
+        },
+        {
+          "ref": "Va.24.6",
+          "body": "sa tat^yat^etat^dharma.śāstram^na^a.putrāya na^a.śiṣyāya na^a.saṃvatsara.uṣitāya dadyāt(dā-) //"
+        },
+        {
+          "ref": "Va.24.7",
+          "body": "sahasram^dakṣiṇās^ṛṣabha.ekādaśās^guru.prasādas^vā guru.prasādas^vā^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 25,
+      "aku_count": 26,
+      "akus": [
+        {
+          "ref": "Va.25.1",
+          "body": "avikhyāpita.doṣāṇām^pāpānām^mahatām^tathā (c)/"
+        },
+        {
+          "ref": "Va.25.1",
+          "body": "sarveṣām^ca^upapāpānām^śuddhim^vakṣyāmi(vac-)^aśeṣatas^(c)//"
+        },
+        {
+          "ref": "Va.25.2",
+          "body": "āhitāgnes^vinītasya vṛddhasya viduṣas(vid-)^api vā (c)/"
+        },
+        {
+          "ref": "Va.25.2",
+          "body": "rahasya.uktam^prāyaścittam^pūrva.uktam itare janās^(c)//"
+        },
+        {
+          "ref": "Va.25.3",
+          "body": "prāṇāyāmais^pavitrais^ca dānais^homais^japais tathā (c)/"
+        },
+        {
+          "ref": "Va.25.3",
+          "body": "nitya.yuktās^pramucyante(pra-muc-) pātakebhyas^na saṃśayas^(c)//"
+        },
+        {
+          "ref": "Va.25.4",
+          "body": "prāṇāyāmān pavitrāṇi vyāhṛtīs^praṇavam^tathā (c)/"
+        },
+        {
+          "ref": "Va.25.4",
+          "body": "pavitra.pāṇis^āsīnas(ās-)^brahma naityakam abhyaset(abhi-as-) (c)//"
+        },
+        {
+          "ref": "Va.25.5",
+          "body": "āvartayan(ā-vṛt-) sadā yuktas^prāṇāyāmān punar^punar^(c)/"
+        },
+        {
+          "ref": "Va.25.5",
+          "body": "ā loma.agrāt^nakha.agrāt^ca tapas tapyatu(tap-) uttamam (c)//"
+        },
+        {
+          "ref": "Va.25.6",
+          "body": "nirodhāt^jāyate(jan-) vāyus.vāyos^agnis^hi jāyate(jan-) (c)/"
+        },
+        {
+          "ref": "Va.25.6",
+          "body": "tāpena^āpas^atha jāyante(jan-) tatas^antas^śudhyate(śudh-) tribhis^(c)//"
+        },
+        {
+          "ref": "Va.25.7",
+          "body": "na tām^tīvreṇa tapasā na svādhyāyais^na ca^ijyayā (c)/"
+        },
+        {
+          "ref": "Va.25.7",
+          "body": "gatim^gantum^dvijās^śaktās^yogāt saṃprā vanti yām (c)//{BṣPṣ saṃprā vanti}{F saṃprāpnuvanti(sam-pra-āp-)}"
+        },
+        {
+          "ref": "Va.25.8",
+          "body": "yogāt saṃprāpyate(sam-pra-āp-) jñānam^yogas^dharmasya lakṣaṇam (c)/"
+        },
+        {
+          "ref": "Va.25.8",
+          "body": "yogas^param^tapas^nityam^tasmāt^yuktas^sadā bhavet(bhū-) (c)//"
+        },
+        {
+          "ref": "Va.25.9",
+          "body": "praṇave nitya.yuktas syāt(as-)^vyāhṛtīṣu ca saptasu (c)/"
+        },
+        {
+          "ref": "Va.25.9",
+          "body": "tri.padāyām^ca gāyatryām^na bhayam^vidyate(vid-) kva.cit (c)//"
+        },
+        {
+          "ref": "Va.25.10",
+          "body": "praṇavāt^yās tathā vedās^praṇave paryavasthitās^(c)/"
+        },
+        {
+          "ref": "Va.25.10",
+          "body": "vāc.mayam^praṇavas^sarvam^tasmāt praṇavam abhyaset(abhi-as-) (c)//"
+        },
+        {
+          "ref": "Va.25.11",
+          "body": "eka.akṣaram^param^brahma pāvanam^paramam^smṛtam (c)//"
+        },
+        {
+          "ref": "Va.25.12",
+          "body": "sarveṣām eva pāpānām^saṅkare samupasthite (c)/"
+        },
+        {
+          "ref": "Va.25.12",
+          "body": "abhyāsas^daśa.sāhasras^sāvitryās^śodhanam^mahat (c)//"
+        },
+        {
+          "ref": "Va.25.13",
+          "body": "sa.vyāhṛtim^sa.praṇavām^gāyatrīm^śirasā saha (c)/"
+        },
+        {
+          "ref": "Va.25.13",
+          "body": "tris^paṭhet(paṭh-)^āyata.prāṇas^prāṇāyāmas^sas^ucyate(vac-) (c)//"
+        },
+        {
+          "ref": "Va.25.13",
+          "body": "sas^ucyate(vac-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 26,
+      "aku_count": 39,
+      "akus": [
+        {
+          "ref": "Va.26.1",
+          "body": "prāṇāyāmān dhārayet(dhṛ-) ttrīnyas^yathāvidhi^atandritas^(c)/{BṣPṣ ttrīn}{F trīn}"
+        },
+        {
+          "ref": "Va.26.1",
+          "body": "ahar.rātra.kṛtam^pāpam^tat.kṣaṇāt^eva naśyati(naś-) (c)//"
+        },
+        {
+          "ref": "Va.26.2",
+          "body": "karmaṇā manasā vācā yat^ahnā kṛtam ainasam (c)/"
+        },
+        {
+          "ref": "Va.26.2",
+          "body": "āsīnas(ās-)^paścimām^sandhyām^prāṇāyāmais^vyapohati(vi-apa-ūh-) (c)//"
+        },
+        {
+          "ref": "Va.26.3",
+          "body": "karmaṇā manasā vācā yat^rātryā kṛtam ainasam (c)/"
+        },
+        {
+          "ref": "Va.26.3",
+          "body": "uttiṣṭhan(ud-sthā-) pūrva.sandhyām^tu prāṇāyāmais^vyapohati(vi-apa-ūh-) (c)//"
+        },
+        {
+          "ref": "Va.26.4",
+          "body": "sa.vyāhṛtikās^sa.praṇavās^prāṇāyāmās tu ṣoḍaśa (c)/"
+        },
+        {
+          "ref": "Va.26.4",
+          "body": "api bhrūṇahanam^māsātpunanti(pū-)^ahar.ahas^kṛtās^(c)//"
+        },
+        {
+          "ref": "Va.26.5",
+          "body": "japtvā(jap-) kautsam apa^iti^etadvāsiṣṭham^ca tricam^prati (c)/(cf^ṛV.<1.097.01a> apa naḥ śośucad agham agne śuśugdhy ā rayim |ṛV.<7.080.01a> prati stomebhir uṣasaṃ vasiṣṭhā gīrbhir viprāsaḥ prathamā abudhran |)"
+        },
+        {
+          "ref": "Va.26.5",
+          "body": "māhitram^śuddhavatyas^ca surāpas^api viśudhyati(vi-śudh-) (c)//"
+        },
+        {
+          "ref": "Va.26.6",
+          "body": "sakṛt^japtvā(jap-)^asyavāmīyam^śiva.saṅkalpam eva ca (c)/"
+        },
+        {
+          "ref": "Va.26.6",
+          "body": "suvarṇam apahṛtya(apa-hṛ-)^api kṣaṇāt^bhavati(bhū-) nir.malas^(c)//"
+        },
+        {
+          "ref": "Va.26.7",
+          "body": "haviṣyantīyam abhyasya(abhi-as-) na tam aṃhas^iti tricam^(c)/(cf^ṛV.<10.126.01ab> na tam aṃho na duritaṃ devāso aṣṭa martyam |)"
+        },
+        {
+          "ref": "Va.26.7",
+          "body": "sūktam^ca pauruṣam^japtvā(jap-) mucyate(muc-) guru.talpa.gas^(c)//"
+        },
+        {
+          "ref": "Va.26.8",
+          "body": "api vā^apsu nimajjānas tris^japet(jap-)^aghamarṣaṇam (c)/"
+        },
+        {
+          "ref": "Va.26.8",
+          "body": "yathā^aśvamedha.avabhṛthas tādṛśam^manus^abravīt(brū-) (c)//"
+        },
+        {
+          "ref": "Va.26.9",
+          "body": "ārabhbha.yajñāt^japa.yajñas^viśiṣṭhas^daśabhis^guṇais^(c)/{BṣPṣ ārabhbha}{F ārambha}"
+        },
+        {
+          "ref": "Va.26.9",
+          "body": "upāṃśus^syāt(as-)^śata.guṇas^sāhasras^mānasas^smṛtas^(c)//"
+        },
+        {
+          "ref": "Va.26.10",
+          "body": "ye pāka.yajñās^catvāras^vidhi.yajña.samanvitās(sam-anu-i-)^(c)/"
+        },
+        {
+          "ref": "Va.26.10",
+          "body": "sarve te japa.yajñasya kalām^na^arhanti(arh-) ṣoḍaśīm (c)//"
+        },
+        {
+          "ref": "Va.26.11",
+          "body": "jāpyena(jap-)^eva tu saṃsidhyet(sam-sidh-)^brāhmaṇas^na^atra saṃśayas^(c)/"
+        },
+        {
+          "ref": "Va.26.11",
+          "body": "kuryāt(kṛ-)^anyam^na vā kuryāt(kṛ-)^maitras^brāhmaṇas^ucyate(vac-) (c)//"
+        },
+        {
+          "ref": "Va.26.12",
+          "body": "jāpinām^hominām^ca^eva dhyāyinām^tīrtha.vāsinām (c)/"
+        },
+        {
+          "ref": "Va.26.12",
+          "body": "na parivasanti(pari-vas-) pāpāni ye ca snātās^śiras.vratais^(c)//"
+        },
+        {
+          "ref": "Va.26.13",
+          "body": "yathā^agnis^vāyunā dhūtas^haviṣā ca^eva dīpyate(dīp-) (c)/"
+        },
+        {
+          "ref": "Va.26.13",
+          "body": "evam^jāpya.paras^nityam^brāhmaṇas^saṃpradīpyate(sam-pra-dīp-) (c)//"
+        },
+        {
+          "ref": "Va.26.14",
+          "body": "sva.adhyāya.adhyāyinām^nityam^nityam^ca prayata.ātmanām (c)/"
+        },
+        {
+          "ref": "Va.26.14",
+          "body": "japatām(jap-)^juhvatām(hu-)^ca^api vinipātas^na vidyate(vid-) (c)//"
+        },
+        {
+          "ref": "Va.26.15",
+          "body": "sahasra.paramām^devīm^śata.madhyām^daśa.avarām (c)/"
+        },
+        {
+          "ref": "Va.26.15",
+          "body": "śuddhi.kāmas^prayuñjīta(pra-yuj-) sarva.pāpeṣu^api sthitas^(c)//"
+        },
+        {
+          "ref": "Va.26.16",
+          "body": "kṣatriyas^bāhu.vīryeṇa taret(tṛ-)^āpadam ātmanas^(c)/"
+        },
+        {
+          "ref": "Va.26.16",
+          "body": "dhanena vaiśya.śudrau tu japaihomais^dvija.uttamas^(c)//{BṣPṣ śudrau}{F śūdrau}{BṣPṣ japai}{F japais. }"
+        },
+        {
+          "ref": "Va.26.17",
+          "body": "yathā^aśvās^ratha.hīnās^syus(as-)^rathas^vā^aśvais^vinā yathā (c)/"
+        },
+        {
+          "ref": "Va.26.17",
+          "body": "evam^tapas tu^a.vidyasya vidyā vā^api^a.tapasvinas^(c)//"
+        },
+        {
+          "ref": "Va.26.18",
+          "body": "yathā^annam^madhu.saṃyuktam^madhu vā^annena saṃyutam (c)/"
+        },
+        {
+          "ref": "Va.26.18",
+          "body": "evam^tapas^ca vidyā ca saṃyuktam^bheṣajam^mahat (c)//"
+        },
+        {
+          "ref": "Va.26.19",
+          "body": "vidyā.tapobhyām^saṃyuktam^brāhmaṇam^japa.naityakam (c)/"
+        },
+        {
+          "ref": "Va.26.19",
+          "body": "sadā^api pāpa.karmāṇam enas^na pratiyujyate(prati-yuj-) (c)//"
+        },
+        {
+          "ref": "Va.26.19",
+          "body": "enas^na pratiyujyate(prati-yuj-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 27,
+      "aku_count": 43,
+      "akus": [
+        {
+          "ref": "Va.27.1",
+          "body": "yadi^akārya.śatam^sāgram^kṛtam^vedas^ca dhāryate(dhṛ-) (c)/"
+        },
+        {
+          "ref": "Va.27.1",
+          "body": "sarvam^tat tasya veda.agnis^dahati(dah-)^agnis^iva^indhanam (c)//"
+        },
+        {
+          "ref": "Va.27.2",
+          "body": "yathā jāta.balas^vahnis^dahati(dah-)^ārdrān api drumān (c)/"
+        },
+        {
+          "ref": "Va.27.2",
+          "body": "tathā dahati(dah-) veda.agnis^karma.jam^doṣam ātmanas^(c)//"
+        },
+        {
+          "ref": "Va.27.3",
+          "body": "hatvā(han-)^api sa imān lokān bhuñjānas(bhuj-)^api yatas tatas^(c)/"
+        },
+        {
+          "ref": "Va.27.3",
+          "body": "ṛc.vedam^dhārayan(dhṛ-) vipras^na^enas^prāpnoti(pra-āp-) kim.cana (c)//"
+        },
+        {
+          "ref": "Va.27.4",
+          "body": "na veda.balam āśritya(ā-śri-) pāpa.karma.ratis^bhavet(bhū-) (c)/"
+        },
+        {
+          "ref": "Va.27.4",
+          "body": "a.jñānāt^ca pramādāt^ca dahyate(dah-) karma na^itarat (c)//"
+        },
+        {
+          "ref": "Va.27.5",
+          "body": "tapas tapyati(tap-) yas^araṇye munis^mūla.phala.aśanas(aś-)^(c)/"
+        },
+        {
+          "ref": "Va.27.5",
+          "body": "ṛcam ekām^ca yas^adhīte(adhi-i-) tat^ca tāni ca tat samam (c)//"
+        },
+        {
+          "ref": "Va.27.6",
+          "body": "itihāsa.purāṇābhyām^vedam^samupabṛṃhayet(sam-upa-bṛh-) (c)/"
+        },
+        {
+          "ref": "Va.27.6",
+          "body": "bibheti(bhī-)^alpa.śrutāt^vedas^mām ayam^prahariṣyati(pra-hṛ-) (c)//"
+        },
+        {
+          "ref": "Va.27.7",
+          "body": "veda.abhyāsas^anvaham^śaktyā mahā.yajña.kriyā.kramas^(c)/"
+        },
+        {
+          "ref": "Va.27.7",
+          "body": "nāśayati(naś-)^āśu pāpāni mahāpātaka.jāni^api (c)//"
+        },
+        {
+          "ref": "Va.27.8",
+          "body": "veda.uditam(vad-)^svakam^karma nityam^kuryāt(kṛ-)^atandritas^(c)/"
+        },
+        {
+          "ref": "Va.27.8",
+          "body": "tat^hi kurvan(kṛ-) yathāśaktyā prāpnoti(pra-āp-) paramām^gatim (c)//"
+        },
+        {
+          "ref": "Va.27.9",
+          "body": "yājana.adhyāpanāt^yaunāt tathā^eva^asat.pratigrahāt (c)/"
+        },
+        {
+          "ref": "Va.27.9",
+          "body": "vipreṣu na bhavet(bhū-)^doṣas^jvalana.arka.samas^hi sas^(c)//"
+        },
+        {
+          "ref": "Va.27.10",
+          "body": "śaṅkā.sthāne samutpanne abhojya.bhojya.saṃjñake (c)/"
+        },
+        {
+          "ref": "Va.27.10",
+          "body": "āhāra.śuddhim^vakṣyāmi(vac-) tat^me nigadatas^śṛṇu(śru-) (c)//"
+        },
+        {
+          "ref": "Va.27.11",
+          "body": "a.kṣāra.lavaṇām^rūkṣām^pibet(pā-).brāhmīm^suvarcalām (c)/"
+        },
+        {
+          "ref": "Va.27.11",
+          "body": "tri.rātram^śaṅkha.puṣpīm^ca brāhmaṇas^payasā saha (c)//"
+        },
+        {
+          "ref": "Va.27.12",
+          "body": "palāśa.bilba.patrāṇi kuśān padmān udumbarān (c)/"
+        },
+        {
+          "ref": "Va.27.12",
+          "body": "kvāthayitvā(kvath-) pibet(pā-)^āpas tri.rātreṇa^eva śudhyati(śudh-) (c)//"
+        },
+        {
+          "ref": "Va.27.13",
+          "body": "go.mūtram^go.mayam^kṣīram^dadhi sarpis^kuśa.udakam (c)/"
+        },
+        {
+          "ref": "Va.27.13",
+          "body": "eka.rātra.upavāsas^ca śva.pākam api śodhayet(śudh-) (c)//"
+        },
+        {
+          "ref": "Va.27.14",
+          "body": "go.mūtram^go.mayam^ca^eva kṣīram^dadhi ghṛtam^tathā (c)/"
+        },
+        {
+          "ref": "Va.27.14",
+          "body": "pañca.rātram^tat.āhāras^pañca.gavyena śudhyati(śudh-) (c)//"
+        },
+        {
+          "ref": "Va.27.15",
+          "body": "yavān vidhinā^upayuñjānas(upa-yuj-)^pratyakṣeṇa^eva śudhyati(śudh-) (c)/"
+        },
+        {
+          "ref": "Va.27.15",
+          "body": "viśuddha.bhāve śuddhās^syus(as-)^aśuddhe tu sa.rāgiṇas^(c)//"
+        },
+        {
+          "ref": "Va.27.16",
+          "body": "haviṣyān prātar āśān^trīn sāyam āśān^tathā^eva ca (c)/"
+        },
+        {
+          "ref": "Va.27.16",
+          "body": "ayācitam^tathā^eva syāt(as-)^upavāsa.trayam^bhavet(bhū-) (c)//"
+        },
+        {
+          "ref": "Va.27.17",
+          "body": "atha cet tvarate(tvar-) kartum(kṛ-)^divasam^māruta.āśanas^(c)/"
+        },
+        {
+          "ref": "Va.27.17",
+          "body": "rātrau jala.āśaye vyuṣṭas^prājāpatyena tat samam (c)//"
+        },
+        {
+          "ref": "Va.27.18",
+          "body": "sāvitrī.aṣṭa.sahasram^tu japam^kṛtvā(kṛ-)^utthite ravau (c)/"
+        },
+        {
+          "ref": "Va.27.18",
+          "body": "mucyate(muc-) pātakais^sarvais^yadi na brahma.hā bhavet(bhū-) (c)//"
+        },
+        {
+          "ref": "Va.27.19",
+          "body": "yas^vai stenas^surā.pas^vā bhrūṇahā guru.talpa.gas^(c)/"
+        },
+        {
+          "ref": "Va.27.19",
+          "body": "dharma.śāstram adhītya(adhi-i-)^eva mucyate(muc-) sarva.pātakais^(c)//"
+        },
+        {
+          "ref": "Va.27.20",
+          "body": "duritānām^duriṣṭānām^pāpānām^mahatām^tathā (c)/"
+        },
+        {
+          "ref": "Va.27.20",
+          "body": "kṛcchram^cāndrāyaṇam^ca^eva sarva.pāpa.praṇāśanam (c)//"
+        },
+        {
+          "ref": "Va.27.21",
+          "body": "ekaikam^vardhayet(vṛdh-) piṇḍam^śukle kṛṣṇe ca hrāsayet(hras-) (c)/"
+        },
+        {
+          "ref": "Va.27.21",
+          "body": "amāvāsyām^na bhuñjīta(bhuj-) evam^cāndrāyaṇas^vidhis^(c)//"
+        },
+        {
+          "ref": "Va.27.21",
+          "body": "evam^cāndrāyāṇas^vidhis^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 28,
+      "aku_count": 44,
+      "akus": [
+        {
+          "ref": "Va.28.1",
+          "body": "na strī duṣyati(duṣ-) jāreṇa na vipras^veda.karmaṇā (c)/"
+        },
+        {
+          "ref": "Va.28.1",
+          "body": "na^āpas^mūtra.purīṣeṇa na^agnis^dahana.karmaṇā (c)//"
+        },
+        {
+          "ref": "Va.28.2",
+          "body": "svayam^vipratipannā vā yadi vā vipravāsitā (c)/"
+        },
+        {
+          "ref": "Va.28.2",
+          "body": "balāt kāra.upabhuktā vā cora.hasta.gatā^api vā (c)//"
+        },
+        {
+          "ref": "Va.28.3",
+          "body": "na tyājyā(tyaj-) dūṣitā nārī na^asyās tyāgas^vidhīyate(vi-dhā-) (c)/"
+        },
+        {
+          "ref": "Va.28.3",
+          "body": "puṣpa.kālam upāsīta(upa-ās-) ṛtu.kālena śudhyati(śudh-) (c)//"
+        },
+        {
+          "ref": "Va.28.4",
+          "body": "striyas^pavitram atulam^na^etās^duṣyanti(duṣ-) karhi.cit (c)/"
+        },
+        {
+          "ref": "Va.28.4",
+          "body": "māsi māsi rajas^hi^āsām^duṣkṛtāni^apakarṣati(apa-kṛṣ-) (c)//"
+        },
+        {
+          "ref": "Va.28.5",
+          "body": "pūrvam^striyas^surais^bhuktās^soma.gandharva.vahnibhis^(c)/"
+        },
+        {
+          "ref": "Va.28.5",
+          "body": "gacchanti(gam-) mānuṣān paścānaitā duṣyanti(duṣ-) dharmatas^(c)//{BṣPṣ paścānaitā}{F paścāt. na. etās.}"
+        },
+        {
+          "ref": "Va.28.6",
+          "body": "tāsām^somas^adadat(dā-)^śaucam^gandharvas^śikṣitām^giram (c)/"
+        },
+        {
+          "ref": "Va.28.6",
+          "body": "agnis^ca sarva.medhyatvam^tasmāt^niskalmaṣās^striyas^(c)//"
+        },
+        {
+          "ref": "Va.28.7",
+          "body": "trīṇi striyas^pātakāni loke dharma.vidas^vidus(vid-)^(c)/{BṣPṣ striyas}{F striyās}"
+        },
+        {
+          "ref": "Va.28.7",
+          "body": "bhartṛ.vadhas^bhrūṇa.hatyā svasya garbhasya pātanam (c)//"
+        },
+        {
+          "ref": "Va.28.8",
+          "body": "vatsas^prasravaṇe medhyas^śakunis^phala.pātane (c)/"
+        },
+        {
+          "ref": "Va.28.8",
+          "body": "striyas^ca rati.saṃsarge śvā mṛga.grahaṇe śucis^(c)//"
+        },
+        {
+          "ref": "Va.28.9",
+          "body": "aja.aśvās^mukhatas^medhyās gāvas^medhyās tu sarvatas^(c)//[Bhler seems to read: gāvo medhyāś ca pṛṣṭhataḥ, also cf. ḍevala ṝuoted in KK. śuddhi-kāṇḍa p.176:1]"
+        },
+        {
+          "ref": "Va.28.10",
+          "body": "sarva.veda.pavitrāṇi vakṣyāmi(vac-)^aham atas^param^(c)/"
+        },
+        {
+          "ref": "Va.28.10",
+          "body": "yeṣām^japais^ca homais^ca pūyante(pū-) na^atra saṃśayas^(c)//"
+        },
+        {
+          "ref": "Va.28.11",
+          "body": "aghamarṣaṇam^deva.kṛtam^śuddhavatyas taratsamās^(c)/"
+        },
+        {
+          "ref": "Va.28.11",
+          "body": "kūṣmāṇḍāni pāvamānyas^durgāsāvitris^eva ca (c)//"
+        },
+        {
+          "ref": "Va.28.12",
+          "body": "atīṣaṅgās^padastobhās^sāmāni vyāhṛtīs tathā (c)/"
+        },
+        {
+          "ref": "Va.28.12",
+          "body": "bhāruṇḍāni sāmāni ca gāyatram^raivatam^tathā (c)//"
+        },
+        {
+          "ref": "Va.28.13",
+          "body": "puruṣa.vratam^ca bhāsam^ca tathā deva.vratāni ca (c)/"
+        },
+        {
+          "ref": "Va.28.13",
+          "body": "abliṅgam^bārhaspatyam^tu vāc.sūktam^madhu.ṛcas tathā (c)//"
+        },
+        {
+          "ref": "Va.28.14",
+          "body": "śatarudriyam atharvaśiras trisuparṇam^mahāvratam (c)/"
+        },
+        {
+          "ref": "Va.28.14",
+          "body": "go.sūktam^ca^aśva.sūktam^ca śuddhāśuddhīye sāmanī (c)//"
+        },
+        {
+          "ref": "Va.28.15",
+          "body": "trīṇ ājyadohāni rathantaram^ca agnes^vratam^vāmadevyam^bṛhat^ca (c)/"
+        },
+        {
+          "ref": "Va.28.15",
+          "body": "etāni japtāni punanti(pū-) jantūnjāti.smaratvam^labhate(labh-) yadi^icchet(iṣ-) (c)//"
+        },
+        {
+          "ref": "Va.28.16",
+          "body": "agnes^apatyam^prathamam^suvarṇam^bhūs^vaiṣṇavī sūrya.sutās^ca gāvas^(c)/"
+        },
+        {
+          "ref": "Va.28.16",
+          "body": "tāsām anantam^phalam aśnuvīta(aś-) yas^kān.canam^gām^ca mahīm^ca dadyāt(dā-) (c)//"
+        },
+        {
+          "ref": "Va.28.17",
+          "body": "uparundhanti(upa-rudh-) dātāram^gaus^aśvas^kanakam^kṣitis^(c)/"
+        },
+        {
+          "ref": "Va.28.17",
+          "body": "a.śrotriyasya viprasya hastam^dṛṣṭvā(dṛṣ-) nirākṛtes^(c)//"
+        },
+        {
+          "ref": "Va.28.18",
+          "body": "vaiśākhyām^paurṇamāsyām^tu brāhmaṇān sapta pañca vā (c)/"
+        },
+        {
+          "ref": "Va.28.18",
+          "body": "tilān kṣaudreṇa saṃyuktān kṛṣṇān vā yadi vā^itarān (c)//"
+        },
+        {
+          "ref": "Va.28.19",
+          "body": "prīyatām(prī-)^dharma.rājā^iti yat^vā manasi vartate(vṛt-) (c)/"
+        },
+        {
+          "ref": "Va.28.19",
+          "body": "yāvat^jīva.kṛtam^pāpam^tat.kṣaṇāt^eva naśyati(naś-) (c)//"
+        },
+        {
+          "ref": "Va.28.20",
+          "body": "suvarṇa.nābham^kṛtvā(kṛ-) tu sa.khuram^kṛṣṇa.mārgajam (c)/"
+        },
+        {
+          "ref": "Va.28.20",
+          "body": "tilais^pracchādya(pra-chad-) yas^dadyāt(dā-) tasya puṇya.phalam^śṛṇu(śru-) (c)//"
+        },
+        {
+          "ref": "Va.28.21",
+          "body": "sa.suvarṇa.guhā tena sa.śaila.vana.kānanā (c)/"
+        },
+        {
+          "ref": "Va.28.21",
+          "body": "catus.vaktrā bhavet(bhū-)^dattā pṛthivī na^atra saṃśayas^(c)//"
+        },
+        {
+          "ref": "Va.28.22",
+          "body": "kṛṣṇa.ajine tilān kṛtvā(kṛ-) hiraṇyam^madhu.sarpiṣī (c)/"
+        },
+        {
+          "ref": "Va.28.22",
+          "body": "dadāti(dā-) yas tu viprāya sarvam^tarati(tṛ-) duṣkṛtām(c) iti //"
+        },
+        {
+          "ref": "Va.28.22",
+          "body": "sarvam^tarati(tṛ-) duṣkṛtam iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 29,
+      "aku_count": 29,
+      "akus": [
+        {
+          "ref": "Va.29.1",
+          "body": "dānena sarvān kāmān avāpnoti(ava-āp-) //"
+        },
+        {
+          "ref": "Va.29.2",
+          "body": "cira.jīvitvam^brahmacārī rūpavān //"
+        },
+        {
+          "ref": "Va.29.3",
+          "body": "ahiṃsī^upapadyate(uap-pad-) svargam //"
+        },
+        {
+          "ref": "Va.29.4",
+          "body": "agni.praveśāt^brahma.lokas^//"
+        },
+        {
+          "ref": "Va.29.5",
+          "body": "maunāt saubhāgyam //"
+        },
+        {
+          "ref": "Va.29.6",
+          "body": "nāga.adhipatis^udaka.vāsāt //"
+        },
+        {
+          "ref": "Va.29.7",
+          "body": "nirujas^kṣiṇa.koṣas^//"
+        },
+        {
+          "ref": "Va.29.8",
+          "body": "toya.das^sarva.kāma.samṛddhas^//"
+        },
+        {
+          "ref": "Va.29.9",
+          "body": "anna.pradātā su.cakṣus^smṛtimān //"
+        },
+        {
+          "ref": "Va.29.10",
+          "body": "medhāvī sarvatas^abhaya.dātā //"
+        },
+        {
+          "ref": "Va.29.11",
+          "body": "go.prayukte sarva.tīrtha.upasparśanam //"
+        },
+        {
+          "ref": "Va.29.12",
+          "body": "śayyā.āsana.dānāt^antaḥpura.adhipatyam //"
+        },
+        {
+          "ref": "Va.29.13",
+          "body": "chatra.dānāt^gṛha.lābhas^//"
+        },
+        {
+          "ref": "Va.29.14",
+          "body": "gṛha.pradas^nagaram āpnoti(āp-) //"
+        },
+        {
+          "ref": "Va.29.15",
+          "body": "upānat.pradātā yanam āsādayate(ā-sad-) //{BṣPṣ yanam}{E yānam}"
+        },
+        {
+          "ref": "Va.29.16",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.29.16",
+          "body": "yat kim.cit kurute(kṛ-) pāpam^puruṣas^vṛtti.karṣitas^(c)/"
+        },
+        {
+          "ref": "Va.29.16",
+          "body": "api go.carma.mātreṇa bhūmi.dānena śudhyati(śudh-) (c)//"
+        },
+        {
+          "ref": "Va.29.17",
+          "body": "viprāya^ācamana.artham^tu dadyāt(dā-) pūrṇa.kamaṇḍalum (c)/"
+        },
+        {
+          "ref": "Va.29.17",
+          "body": "pretya(pra-i-) tṛptim^parām^prāpya(pra-āp-) soma.pas^jāyate(jan-) punas^(c)//"
+        },
+        {
+          "ref": "Va.29.18",
+          "body": "anaḍuhām^sahasrāṇām^dattānām^dhūrya.vāhinām (c)/"
+        },
+        {
+          "ref": "Va.29.18",
+          "body": "su.pātre vidhivat.dānam^kanyā.dānena tat samam (c)//"
+        },
+        {
+          "ref": "Va.29.19",
+          "body": "trīṇi^āhur(ah-)^atidānāni gāvas^pṛthvī sarasvatī (c)/"
+        },
+        {
+          "ref": "Va.29.19",
+          "body": "atidānam^hi dānānām^vidyā.dānam^tatas^adhikam (c)//"
+        },
+        {
+          "ref": "Va.29.20",
+          "body": "ātyantika.phala.pradam^mokṣa.saṃsāra.mocanam (c)/"
+        },
+        {
+          "ref": "Va.29.20",
+          "body": "yas^an.asūyus^imam^vidvān(vid-) ācāram anuvartate(anu-vṛt-) (c)//"
+        },
+        {
+          "ref": "Va.29.21",
+          "body": "śrad.dadhānas(dhā-)^śucis^dāntas^dhārayet(dhṛ-)^śruṇuyāt(śru-)^api (c)/"
+        },
+        {
+          "ref": "Va.29.21",
+          "body": "vihāya(vi-hā-) sarva.pāpāni nāka.pṛṣṭhe mahīyate(mah-).(c) iti //"
+        },
+        {
+          "ref": "Va.29.21",
+          "body": "nāka.pṛṣṭhe mahīyate(mah-)^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 30,
+      "aku_count": 18,
+      "akus": [
+        {
+          "ref": "Va.30.1",
+          "body": "dharmam^carata(car-) mā^adharmam^satyam^vadata(vad-) mā^anṛtam (c)/"
+        },
+        {
+          "ref": "Va.30.1",
+          "body": "dīrgham^paśyata(paś-) mā hrasvam^param^paśyata(paś-) mā^aparam (c)//"
+        },
+        {
+          "ref": "Va.30.2",
+          "body": "brāhmaṇas^bhavati(bhū-)^agnis^//"
+        },
+        {
+          "ref": "Va.30.3",
+          "body": "agnis^vai brāhmaṇas^iti śrutes^//"
+        },
+        {
+          "ref": "Va.30.4",
+          "body": "tat^ca katham //"
+        },
+        {
+          "ref": "Va.30.5",
+          "body": "tatra sadas^brāhmaṇasya śarīram^vedis^saṃkalpas^yajñas^paśus^ātmā raśanā buddhis^sadas^mukham āhavanīyam^nābhyām udaras^agnis^gārhapatyas^prāṇas^adhvaryus^apānas^hotā vyānas^brahmā samānas^udgātā^ātmā^indriyāṇi yajña.pātrāṇi yas^evam^vidvān(vid-) indriyais^indriya.artham^juhoti(hu-)^iti^api ca -- kāṭhake vijñāyate(vi-jñā-) //"
+        },
+        {
+          "ref": "Va.30.6",
+          "body": "atha^api^udāharanti(ud-ā-hṛ-) /"
+        },
+        {
+          "ref": "Va.30.6",
+          "body": "pāti(pā-) trāti(tṛ-) ca dātāram ātmānam^ca^eva kilbiṣāt (c)/"
+        },
+        {
+          "ref": "Va.30.6",
+          "body": "veda.indhana.samṛddheṣu hutam^vipra.mukha.agniṣu (c)//"
+        },
+        {
+          "ref": "Va.30.7",
+          "body": "na skandate(skand-) na vyathate(vyath-) na^enam adhyāpatet(adhi-ā-pat-)^ca yat (c)/"
+        },
+        {
+          "ref": "Va.30.7",
+          "body": "variṣṭham agni.hotrāt tu brāhmaṇasya mukhe hutam (c)//"
+        },
+        {
+          "ref": "Va.30.8",
+          "body": "dhyāna.agnis^satya.upacayanam^kṣānti.āhutis^sruvam^hrīs^puroḍāśam ahiṃsā saṃtoṣo (c)/{BṣPṣ saṃtoṣo}{F saṃtoṣas.}"
+        },
+        {
+          "ref": "Va.30.8",
+          "body": "yūpas^kṛcchram^bhūtebhyas^abhaya.dākṣiṇyam iti kṛtvā(kṛ-) kratu mānasam^yāti(yā-) kṣayam^budhas^(c)//"
+        },
+        {
+          "ref": "Va.30.9",
+          "body": "jīryanti(jṝ-) jīryatas(jṝ-)^keśās^dantās^jīryanti(jṝ-) jīryatas(jṝ-)^(c)/"
+        },
+        {
+          "ref": "Va.30.9",
+          "body": "jīvana.āśā dhana.āśā ca jīryatas(jṝ-)^api na jīryati(jṝ-) (c)//"
+        },
+        {
+          "ref": "Va.30.10",
+          "body": "yā dus.tyajā dus.matibhis^yā na jīryati(jṝ-) jīryatas(jṝ-)^(c)/"
+        },
+        {
+          "ref": "Va.30.10",
+          "body": "yā^asau prāṇa.antikas^vyādhis tām^tṛṣṇām^tyajatas(tyaj-)^sukham(c) iti //"
+        },
+        {
+          "ref": "Va.30.11",
+          "body": "namas^astu(as-) mitrāvaruṇayos^urvaśī.ātmajāya śatayātave vasiṣṭhāya vasiṣṭhāya^iti //"
+        }
+      ]
+    },
+    {
+      "chapter_num": 0,
+      "aku_count": 1,
+      "akus": [
+        {
+          "ref": null,
+          "body": "End of the Text"
+        }
+      ]
+    }
+  ]
+}

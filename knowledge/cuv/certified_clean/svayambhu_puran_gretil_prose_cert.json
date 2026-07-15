@@ -1,0 +1,53 @@
+{
+  "file": "svayambhu_puran_gretil_prose.json",
+  "title": "Svayaṃbhupurāṇa",
+  "status": "certified",
+  "total_akus": 48,
+  "certified_akus": 48,
+  "issues": [],
+  "class_distribution": {
+    "heading": 1,
+    "prose": 26,
+    "mantra": 1,
+    "colophon": 9,
+    "metadata": 9,
+    "translation": 1,
+    "unknown": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 47,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "adhyāya",
+          "start": "svayambhūd"
+        }
+      ]
+    },
+    {
+      "chapter": 934,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "adhyāya",
+      "start": "svayambhūd"
+    }
+  ],
+  "blocking_issues": 0
+}

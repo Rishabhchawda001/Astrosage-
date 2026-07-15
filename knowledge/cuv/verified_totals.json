@@ -1,0 +1,606 @@
+{
+  "version": "1.0",
+  "method": "CUV (Canonical Unit Validation)",
+  "source": "GRETIL TEI XML prose extraction",
+  "certification_threshold": "mostly_certified or higher",
+  "total_scriptures": 87,
+  "total_akus": 119605,
+  "by_class": {
+    "verse": 13717,
+    "prose": 100244,
+    "mantra": 570,
+    "commentary": 2425,
+    "sutra": 2649
+  },
+  "per_scripture": {
+    "Bhairavastava": {
+      "classes": {
+        "verse": 1
+      },
+      "total": 1
+    },
+    "Kramastotra": {
+      "classes": {
+        "verse": 1
+      },
+      "total": 1
+    },
+    "Agnipurāṇa": {
+      "classes": {
+        "prose": 6299,
+        "mantra": 262,
+        "verse": 286,
+        "commentary": 25
+      },
+      "total": 6872
+    },
+    "Aitareyopaniṣad with the commentary ascribed to Śaṃkara": {
+      "classes": {
+        "prose": 205,
+        "mantra": 3,
+        "commentary": 8,
+        "verse": 30
+      },
+      "total": 246
+    },
+    "Āṅgirasasmṛti": {
+      "classes": {
+        "prose": 16
+      },
+      "total": 16
+    },
+    "Āpastambadharmasūtra": {
+      "classes": {
+        "sutra": 1281,
+        "prose": 19
+      },
+      "total": 1300
+    },
+    "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā": {
+      "classes": {
+        "prose": 2180,
+        "commentary": 100
+      },
+      "total": 2280
+    },
+    "Āśvalāyanagṛhyasūtra": {
+      "classes": {
+        "prose": 758,
+        "commentary": 2
+      },
+      "total": 760
+    },
+    "Āśvalāyanaśrautasūtra": {
+      "classes": {
+        "prose": 3019,
+        "commentary": 7
+      },
+      "total": 3026
+    },
+    "Atharvaprāyaścittāni": {
+      "classes": {
+        "verse": 69,
+        "prose": 807,
+        "commentary": 3
+      },
+      "total": 879
+    },
+    "Śira-upaniṣad (= Atharvaśira-upanisad)": {
+      "classes": {
+        "mantra": 2,
+        "prose": 40
+      },
+      "total": 42
+    },
+    "Atharvavedapariśiṣṭas": {
+      "classes": {
+        "prose": 406,
+        "verse": 3316,
+        "commentary": 1,
+        "mantra": 5
+      },
+      "total": 3728
+    },
+    "Baudhāyanadharmasūtra": {
+      "classes": {
+        "prose": 106,
+        "commentary": 4,
+        "sutra": 1368
+      },
+      "total": 1478
+    },
+    "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva": {
+      "classes": {
+        "prose": 2075,
+        "verse": 2591,
+        "commentary": 202,
+        "mantra": 1
+      },
+      "total": 4869
+    },
+    "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)": {
+      "classes": {
+        "prose": 732,
+        "commentary": 42,
+        "verse": 569,
+        "mantra": 1
+      },
+      "total": 1344
+    },
+    "Bhāgavatapurāṇa": {
+      "classes": {
+        "prose": 1706,
+        "commentary": 38,
+        "mantra": 3
+      },
+      "total": 1747
+    },
+    "Bhagavadāśayānusaraṇabhāsya": {
+      "classes": {
+        "prose": 2639,
+        "commentary": 86,
+        "mantra": 1
+      },
+      "total": 2726
+    },
+    "Brahmapurāṇa 1-246": {
+      "classes": {
+        "verse": 16
+      },
+      "total": 16
+    },
+    "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā": {
+      "classes": {
+        "commentary": 11,
+        "verse": 192,
+        "prose": 221
+      },
+      "total": 424
+    },
+    "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)": {
+      "classes": {
+        "prose": 50
+      },
+      "total": 50
+    },
+    "Mahāgaṇapatistotra with a commentary “by his disciple”": {
+      "classes": {
+        "prose": 4,
+        "verse": 8
+      },
+      "total": 12
+    },
+    "Garuḍapurāṇa": {
+      "classes": {
+        "prose": 443,
+        "commentary": 5,
+        "mantra": 35
+      },
+      "total": 483
+    },
+    "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya": {
+      "classes": {
+        "mantra": 1,
+        "prose": 329,
+        "commentary": 11
+      },
+      "total": 341
+    },
+    "Dharmasūtra": {
+      "classes": {
+        "prose": 998,
+        "commentary": 26,
+        "mantra": 3
+      },
+      "total": 1027
+    },
+    "Gopathabrāhmaṇa": {
+      "classes": {
+        "verse": 323,
+        "mantra": 14,
+        "prose": 4909,
+        "commentary": 4
+      },
+      "total": 5250
+    },
+    "Haṭhayogapradīpikā": {
+      "classes": {
+        "prose": 17
+      },
+      "total": 17
+    },
+    "Harivaṃśa, Appendix I": {
+      "classes": {
+        "verse": 13,
+        "prose": 5
+      },
+      "total": 18
+    },
+    "Harivaṃśa constituted text with star passages": {
+      "classes": {
+        "verse": 3
+      },
+      "total": 3
+    },
+    "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara": {
+      "classes": {
+        "prose": 67,
+        "mantra": 2,
+        "verse": 18,
+        "commentary": 3
+      },
+      "total": 90
+    },
+    "Śyāmalādaṇḍaka": {
+      "classes": {
+        "prose": 5,
+        "commentary": 1
+      },
+      "total": 6
+    },
+    "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha": {
+      "classes": {
+        "prose": 323,
+        "commentary": 182,
+        "verse": 75
+      },
+      "total": 580
+    },
+    "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)": {
+      "classes": {
+        "prose": 6913,
+        "commentary": 1
+      },
+      "total": 6914
+    },
+    "Kubjikamatatantra": {
+      "classes": {
+        "prose": 55,
+        "verse": 55,
+        "mantra": 1
+      },
+      "total": 111
+    },
+    "Kūrmapurāṇa": {
+      "classes": {
+        "prose": 111
+      },
+      "total": 111
+    },
+    "Mahābhāratatātparyanirṇaya": {
+      "classes": {
+        "prose": 5141,
+        "commentary": 46
+      },
+      "total": 5187
+    },
+    "Mālinīvijayottaratantra": {
+      "classes": {
+        "prose": 2517,
+        "commentary": 10,
+        "mantra": 3
+      },
+      "total": 2530
+    },
+    "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)": {
+      "classes": {
+        "commentary": 2,
+        "prose": 248
+      },
+      "total": 250
+    },
+    "Manusmṛti": {
+      "classes": {
+        "prose": 1
+      },
+      "total": 1
+    },
+    "Mārkaṇḍeyapurāṇa, 1-93": {
+      "classes": {
+        "prose": 714
+      },
+      "total": 714
+    },
+    "Mātṛkābhedatantra": {
+      "classes": {
+        "prose": 26
+      },
+      "total": 26
+    },
+    "Mṛgendrāgama (= Mrgendratantra)": {
+      "classes": {
+        "prose": 104,
+        "verse": 95,
+        "commentary": 117
+      },
+      "total": 316
+    },
+    "Nādabindūpaniṣad": {
+      "classes": {
+        "prose": 1
+      },
+      "total": 1
+    },
+    "Namaskāraikaviṃśatistotra": {
+      "classes": {
+        "prose": 2
+      },
+      "total": 2
+    },
+    "Nāradapurāṇa (or Nāradīyapurāṇa)": {
+      "classes": {
+        "prose": 253,
+        "commentary": 3,
+        "mantra": 1
+      },
+      "total": 257
+    },
+    "Nāradasmṛti": {
+      "classes": {
+        "prose": 1
+      },
+      "total": 1
+    },
+    "Narasiṃhapurāṇa": {
+      "classes": {
+        "prose": 9,
+        "mantra": 3,
+        "verse": 112
+      },
+      "total": 124
+    },
+    "Nirukta": {
+      "classes": {
+        "prose": 4916,
+        "commentary": 23
+      },
+      "total": 4939
+    },
+    "Pañcaviṃśabrāhmaṇa": {
+      "classes": {
+        "mantra": 1,
+        "prose": 3567,
+        "commentary": 2
+      },
+      "total": 3570
+    },
+    "Bhagavadgītābhāṣya": {
+      "classes": {
+        "commentary": 197,
+        "prose": 1527,
+        "verse": 2,
+        "mantra": 2
+      },
+      "total": 1728
+    },
+    "Vedārthasaṃgraha": {
+      "classes": {
+        "commentary": 42,
+        "prose": 244
+      },
+      "total": 286
+    },
+    "Revākhāṇḍa of the Vāyupurāṇa (RKV)": {
+      "classes": {
+        "prose": 262,
+        "mantra": 1,
+        "verse": 232
+      },
+      "total": 495
+    },
+    "Ṛgvedakhilāni": {
+      "classes": {
+        "prose": 23
+      },
+      "total": 23
+    },
+    "Ṛgvedasaṃhitā, Padapāṭha": {
+      "classes": {
+        "prose": 13579,
+        "commentary": 21
+      },
+      "total": 13600
+    },
+    "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)": {
+      "classes": {
+        "prose": 4735,
+        "commentary": 405
+      },
+      "total": 5140
+    },
+    "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)": {
+      "classes": {
+        "prose": 1564,
+        "commentary": 269
+      },
+      "total": 1833
+    },
+    "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya": {
+      "classes": {
+        "commentary": 179,
+        "prose": 1640
+      },
+      "total": 1819
+    },
+    "Brahmāṇḍapurāṇa": {
+      "classes": {
+        "prose": 178,
+        "commentary": 2,
+        "mantra": 1
+      },
+      "total": 181
+    },
+    "Brāhmasphuṭasiddhānta": {
+      "classes": {
+        "prose": 26
+      },
+      "total": 26
+    },
+    "Yogasūtra": {
+      "classes": {
+        "verse": 8,
+        "prose": 4,
+        "commentary": 1
+      },
+      "total": 13
+    },
+    "Yogasūtra with Bhāṣya": {
+      "classes": {
+        "prose": 1407,
+        "commentary": 105
+      },
+      "total": 1512
+    },
+    "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)": {
+      "classes": {
+        "prose": 150,
+        "commentary": 37,
+        "verse": 81
+      },
+      "total": 268
+    },
+    "Sāmavedasaṃhitā": {
+      "classes": {
+        "prose": 3789
+      },
+      "total": 3789
+    },
+    "Sarvadurgatipariśodhanatantra": {
+      "classes": {
+        "prose": 1252,
+        "mantra": 108,
+        "commentary": 11
+      },
+      "total": 1371
+    },
+    "Śāṅkhāyanaśrautasūtra": {
+      "classes": {
+        "prose": 5320,
+        "commentary": 10
+      },
+      "total": 5330
+    },
+    "Śivapurāṇa, Books 1 and 7": {
+      "classes": {
+        "prose": 6745,
+        "verse": 14,
+        "mantra": 40,
+        "commentary": 54
+      },
+      "total": 6853
+    },
+    "Śivasūtra with vārttika": {
+      "classes": {
+        "prose": 3,
+        "verse": 147
+      },
+      "total": 150
+    },
+    "Śvetāśvataropaniṣad": {
+      "classes": {
+        "mantra": 1
+      },
+      "total": 1
+    },
+    "Skandapurāṇa: Revākhaṇḍa (RKS)": {
+      "classes": {
+        "prose": 613,
+        "verse": 113,
+        "mantra": 1,
+        "commentary": 1
+      },
+      "total": 728
+    },
+    "Svayaṃbhupurāṇa": {
+      "classes": {
+        "prose": 44,
+        "mantra": 1,
+        "commentary": 3
+      },
+      "total": 48
+    },
+    "Taittirīya-Upaniṣad with Śaṃkarabhāṣya": {
+      "classes": {
+        "prose": 250,
+        "commentary": 21,
+        "mantra": 6
+      },
+      "total": 277
+    },
+    "Uḍḍāmareśvaratantra": {
+      "classes": {
+        "prose": 219,
+        "mantra": 47,
+        "commentary": 6
+      },
+      "total": 272
+    },
+    "Vaikhānasadharmasūtra": {
+      "classes": {
+        "commentary": 3,
+        "prose": 1
+      },
+      "total": 4
+    },
+    "Vāmanapurāṇa, 1-69": {
+      "classes": {
+        "prose": 151,
+        "commentary": 2,
+        "mantra": 1
+      },
+      "total": 154
+    },
+    "Vāmanapurāṇa, Saromāhātmya": {
+      "classes": {
+        "prose": 40
+      },
+      "total": 40
+    },
+    "Vāsiṣṭhadharmasūtra": {
+      "classes": {
+        "prose": 1372,
+        "commentary": 15,
+        "verse": 2
+      },
+      "total": 1389
+    },
+    "Vijñānabhairava": {
+      "classes": {
+        "prose": 10,
+        "verse": 2
+      },
+      "total": 12
+    },
+    "Vīṇāśikhatantra": {
+      "classes": {
+        "mantra": 1
+      },
+      "total": 1
+    },
+    "Viṣṇudharma": {
+      "classes": {
+        "commentary": 1
+      },
+      "total": 1
+    },
+    "Viṣṇupurāṇa": {
+      "classes": {
+        "prose": 196
+      },
+      "total": 196
+    },
+    "Viṣṇusmṛti": {
+      "classes": {
+        "verse": 4748
+      },
+      "total": 4748
+    },
+    "Yogaśataka": {
+      "classes": {
+        "mantra": 2,
+        "prose": 1
+      },
+      "total": 3
+    }
+  }
+}

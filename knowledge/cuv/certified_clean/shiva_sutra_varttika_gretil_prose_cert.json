@@ -1,0 +1,26 @@
+{
+  "file": "shiva_sutra_varttika_gretil_prose.json",
+  "title": "Śivasūtra with vārttika",
+  "status": "certified",
+  "total_akus": 150,
+  "certified_akus": 150,
+  "issues": [],
+  "class_distribution": {
+    "sutra": 1,
+    "verse": 140,
+    "commentary": 7,
+    "prose": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 150,
+      "certified": 150,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

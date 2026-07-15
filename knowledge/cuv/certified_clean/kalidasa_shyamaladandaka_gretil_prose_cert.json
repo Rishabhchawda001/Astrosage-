@@ -1,0 +1,25 @@
+{
+  "file": "kalidasa_shyamaladandaka_gretil_prose.json",
+  "title": "Śyāmalādaṇḍaka",
+  "status": "certified",
+  "total_akus": 6,
+  "certified_akus": 6,
+  "issues": [],
+  "class_distribution": {
+    "prose": 4,
+    "mantra": 1,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

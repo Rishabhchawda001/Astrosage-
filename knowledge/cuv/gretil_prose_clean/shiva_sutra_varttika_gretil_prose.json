@@ -1,0 +1,614 @@
+{
+  "file": "shiva_sutra_varttika_gretil.xml",
+  "title": "Śivasūtra with vārttika",
+  "total_chapters": 1,
+  "total_akus": 150,
+  "chapters": [
+    {
+      "chapter_num": 0,
+      "aku_count": 150,
+      "akus": [
+        {
+          "ref": null,
+          "body": "śivasūtra, prathama unmeṣa caitanyam ātmā //"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * caitanyaṃ citkriyārūpaṃ śivasya paramasya yat || SivSV_1.1:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* praśleṣāśleṣapāṭhābhyāṃ sūtram āha maheśvaraḥ || SivSV_1.1:14 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * ajñānam iti tatrādyaṃ caitanyasphārarūpiṇi || SivSV_1.2:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* kim āṇavamalātmaiva bandho 'yaṃ nety udīryate || SivSV_1.2:5 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * yonir bhedaprathāhetur māyā vargas tadutthitaḥ || SivSV_1.3:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity athaiṣāṃ malānāṃ tu bandhakatvaṃ nirūpyate || SivSV_1.3:12 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * apūrṇam anyatārūpaṃ bhinnavedyaprathātmakam || SivSV_1.4:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* paramopeyaviśrāntisatattvaḥ parameṣṭhinā || SivSV_1.4:19 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * yo 'yaṃ vimarśarūpāyāḥ prasarantyāḥ svasaṃvidaḥ || SivSV_1.5:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* vyutthānaṃ ca bhavec chāntabhedābhāsam itīryate || SivSV_1.5:8 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * yo 'yam uktaḥ svasaṃvitter udyamo bhairavātmakaḥ || SivSV_1.6:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* jāgradāditrayaṃ sūtratrayeṇa lakṣyate kramāt || SivSV_1.6:20 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * jñānaṃ bāhyākṣajaṃ jāgrat sarvasādhāraṇārthakam || SivSV_1.9:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* turyātītamayaṃ yogī proktacaitanyam āmṛśan || SivSV_1.9:21 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * jāgarāditrayaṃ proktaśakticakrānusaṃdhitaḥ || SivSV_1.10:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity antevāsihṛcchaṅkāśāntyai santīty udīryate || SivSV_1.10:13 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * yathā sātiśayānande kasyacid vismayo bhavet || SivSV_1.11:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* īrdṛgvismayavadyogabhūmikārūḍhacetasaḥ || SivSV_1.11:7 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * parabhairavatāṃ yuktyā samāpannasya śāśvatīm || SivSV_1.12:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evam īdṛkprabhāvecchāśaktiyuktasya yoginaḥ || SivSV_1.12:13 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * yad yad dṛśyam aśeṣaṃ tac charīraṃ tasya yoginaḥ || SivSV_1.13:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ukte 'py evaṃ prameye 'sminn upāyāntaram ucyate || SivSV_1.13:19 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * śuddhaṃ tattvaṃ paraṃ vastu yat tat paraśivātmakam || SivSV_1.14:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* śuddhatattvānusaṃdhānavata evāsya yoginaḥ || SivSV_1.14:5 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * vitarkaḥ proktasaṃdhānadhvastabandhasya yoginaḥ || SivSV_1.15:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* kiṃ cāsya proktavaitarkasvātmavijñānaśālinaḥ || SivSV_1.15:4 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * lokyaṃ lokayitā ceti lokaś cetyacidātmani || SivSV_1.16:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* vibhūtiyogam etasya darśayaty atha yoginaḥ || SivSV_1.16:9 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * icchā śaktir umety ādisūtroktā śaktir asya yā || SivSV_1.17:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* anyāś ca siddhayas tasya sambhavantīty udīryate || SivSV_1.17:4 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * bhūtānāṃ dehadhīprāṇaśūnyānāṃ grāhakātmanām || SivSV_1.18:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* viśvātmatāprathārūpāṃ parāṃ siddhiṃ tadāsya tu || SivSV_1.18:8 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * vaiśvātmyaprathanākāṅkṣī saṃdhatte śaktim ātmanaḥ || SivSV_1.19:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* icchati svacchacidrūpo yadā yogī tadāsya tu || SivSV_1.19:11 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * parā bhaṭṭārikā saṃvidicchāśaktipuraḥsaram || SivSV_1.20:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* unmeṣaḥ prathamaḥ samyaksvarūponmeṣalakṣaṇaḥ || SivSV_1.20:20 ||]"
+        },
+        {
+          "ref": null,
+          "body": "śivasūtra, dvitīya unmeṣa cittaṃ mantraḥ //"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * cetyate 'nena paramaṃ svātmatattvaṃ vimṛśyate || SivSV_2.1:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* asya coktasya mantrasya mananatrāṇadharmiṇaḥ || SivSV_2.1:9 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * uktamantrānusaṃdhānāvaṣṭambhodyantṛtātmakaḥ || SivSV_2.2:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* vīryaṃ vistarataḥ samyag varṇyate 'tha salakṣaṇam || SivSV_2.2:5 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * vidyeti paramādvaitasampravedanarūpiṇī || SivSV_2.3:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* bindunādādijātāyāṃ teṣāṃ tu mitayoginām || SivSV_2.3:12 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * garbho 'khyātir mahāmāyā tanmaye siddhisaṃcaye || SivSV_2.4:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* avaṣṭabhnāty asau yogī parāṃ siddhiṃ tadāśnute || SivSV_2.4:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * vidyāyāḥ prāksamākhyātarūpāyāḥ śaṃkarecchayā || SivSV_2.5:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evaṃprabhāvayor vīryāsādane mantramudrayoḥ || SivSV_2.5:8 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * samyagjñānakriyāprāṇamantramudrāyathāsthitim || SivSV_2.6:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* parameṣṭhisamāt tasmāt paramopāyato guroḥ || SivSV_2.6:12 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * mantramudrānusaṃdhānasaṃtatodyuktacetasaḥ || SivSV_2.7:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* athedṛṅmātṛkācakrasaṃbodhodbodhitātmanaḥ || SivSV_2.7:45 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * śūnyaṃ dhīḥ prāṇa ity etat sṛjyate kṣīyate 'pi ca || SivSV_2.8:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evaṃ śarīrahavyena jvaladbodhordhvarociṣaḥ || SivSV_2.8:7 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * jñānaṃ bandha iti proktaṃ yat prāk tat parayoginaḥ || SivSV_2.9:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* tadā jñānavato 'py asya samādhānāvalepataḥ || SivSV_2.9:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * vidyeti jñānavisphārarūpā yā tu puroditā || SivSV_2.10:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* iti dvitīya unmeṣaḥ śāktopāyaprakāśakaḥ || SivSV_2.10:7 ||]"
+        },
+        {
+          "ref": null,
+          "body": "śivasūtra, tṛtīya unmeṣa ātmā cittam //"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * viśeṣabhogyaśabdādivāsanāveśarūpitam || SivSV_3.1:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* asya cittasvarūpasya dehāder ātmanas tv aṇoḥ || SivSV_3.1:13 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * antaḥ sukhādisaṃvedyavyavasāyādivṛttimat || SivSV_3.2:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* tanmāyāśaktito naiṣa vimarśo 'sya yadā tadā || SivSV_3.2:11 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * antarantaḥsphurat kiṃcitkartṛtvādipradāyinām || SivSV_3.3:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ataś caitaj janyamāyāpraśamāyāsya yoginaḥ || SivSV_3.3:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * mahābhūtātmake sthūle sūkṣme puryaṣṭakātmani || SivSV_3.4:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* anyān samādhiparyantān upāyān darśayaty asau || SivSV_3.4:8 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * bhāvanīyāni yuktena sādhakeneti śiṣyate || SivSV_3.5:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* siddhiḥ sā mohavaraṇān nātmajñānād itīryate || SivSV_3.5:16 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * moho vimohinī māyā tatkṛtāvaraṇāt kila || SivSV_3.6:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* paratattvasamāveśo bhavaty eveti kathyate || SivSV_3.6:21 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * moho māyā nijākhyātis tajjayāt tatparābhavāt || SivSV_3.7:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evaṃ mohajayopāttaśuddhavidyāmahodayaḥ || SivSV_3.7:5 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * bhaktvaivaṃ sahajāṃ vidyāṃ tadekatvāvalambane || SivSV_3.8:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* īdṛśo 'yaṃ sadā svātmavimarśāveśitāśayaḥ || SivSV_3.8:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * nṛtyaty antaḥparicchannasvasvarūpāvalambanāḥ || SivSV_3.9:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* bhūmikāgrahaṇasthānaṃ raṅgam āha jagadguruḥ || SivSV_3.9:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * rajyate 'smin jagannāṭyakrīḍākautukinātmanā || SivSV_3.10:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* dehāntaraṅge raṅge 'smin nṛtyataḥ svāntarātmani || SivSV_3.10:5 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * prekṣakāṇīti saṃsāranāṭyaprākaṭyakṛd vapuḥ || SivSV_3.11:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity evaṃ prekṣakībhūtasvākṣacakrasya yoginaḥ || SivSV_3.11:3 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * dhīs tāttvikasvacidrūpavimarśakuśalā matiḥ || SivSV_3.12:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evaṃ nijasphurattātmasattvāsādanavaibhavāt || SivSV_3.12:4 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * siddhaḥ sampanna evāsya bhavet paramayoginaḥ || SivSV_3.13:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* svatantrabhāva evāsya svānandabharitātmanaḥ || SivSV_3.13:4 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * yatra svābhāvike dehe sphuṭībhūtā svatantratā || SivSV_3.14:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* na caivam apy udāsīnena bhāvyaṃ yogināpi tu || SivSV_3.14:4 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * sphurattātmā parā śaktir bījaṃ viśvasya kāraṇam || SivSV_3.15:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evaṃvidho mahāyogī paraśaktyavadhānavān || SivSV_3.15:4 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * āsyate sthīyate yasminn aikātmyeneti cāsanam || SivSV_3.16:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* prasphuracchāmbhavāvaśavaibhavaḥ sādhakottamaḥ || SivSV_3.16:12 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * svasya sambandhinī mātrā caitanyasyoktarūpiṇaḥ || SivSV_3.17:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* punarjanmādisambandho na kaścid iti kathyate || SivSV_3.17:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * vidyeti sahajā tasyā avināśaḥ sadodayaḥ || SivSV_3.18:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* tadā tanmohanāyaiva samuttiṣṭhanti śaktayaḥ || SivSV_3.18:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * kavargādiṣu tiṣṭhantyas tadadhiṣṭhātṛtāṃ gatāḥ || SivSV_3.19:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* paśūn pramāt ||"
+        },
+        {
+          "ref": null,
+          "body": "* tathā sarvāsv avasthāsu yukto bhūyād itīryate || SivSV_3.19:14 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * triṣv iti proktarūpeṣu jāgarādiṣu tailavat || SivSV_3.20:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* atropāyaṃ punaś cāha turyāmṛtaniṣecane || SivSV_3.20:16 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * prāṇāyāmādikaṃ tyaktvā sthūlopāyaṃ vikalpakam || SivSV_3.21:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* yadā bhūyaḥ prasaraṇaṃ yogino jāyate tadā || SivSV_3.21:7 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * prāṇasya prasphuracchāktasaurabhāveśasaṃskṛtaḥ || SivSV_3.22:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* āste yogī tadāmuṣya tāvan mātreṇa tuṣyataḥ || SivSV_3.22:8 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * pūrvasyām aparasyāṃ ca koṭau turyaniṣeviṇaḥ || SivSV_3.23:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* turyāvaṣṭambharasatas turyātītaṃ parāmṛśet || SivSV_3.23:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * mātrāḥ padārthāḥ rūpādyās tāsv ebhiś cakṣurādibhiḥ || SivSV_3.24:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evam udyatsamāveśaprakarṣaḥ sādhakarṣabhaḥ || SivSV_3.24:7 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * turyābhyāsaprakarṣeṇa turyātītātmakaṃ padam || SivSV_3.25:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* kalevarasthitis tasya kartavyety upadiśyate || SivSV_3.25:10 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * evaṃ pūrvoktayā nītyā śivatulyasya yoginaḥ || SivSV_3.26:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* evaṃvidhasya tasyāsya yā yā svālāparūpiṇī || SivSV_3.26:8 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * mahāmantramayaṃ naumi rūpaṃ te svacchaśītalam || SivSV_3.27:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* atha cāsyocyate caryā maryādānuvidhāyinī || SivSV_3.27:14 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * proktacaitanyarūpasya sākṣātkaraṇamātmanaḥ || SivSV_3.28:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity āha bhagavān īśo nityānugrahakārakaḥ || SivSV_3.28:12 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * avīn paśujanān pātīty avipaṃ śaktimaṇḍalam || SivSV_3.29:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity evam avipasthasya jñāhetor asya yoginaḥ || SivSV_3.29:11 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * śaktayo 'sya jagat kṛtsnaṃ śaktimāṃs tu maheśvaraḥ || SivSV_3.30:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* svaśaktipracayo viśvaṃ yāvat tatpṛṣṭhapātinau || SivSV_3.30:7 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * svaśaktipracayau proktau tāv apīty anuvartate || SivSV_3.31:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity āśaṅkānivṛttyarthaṃ sūtram āha maheśvaraḥ || SivSV_3.31:10 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * teṣāṃ sṛṣṭyādibhāvānāṃ pravṛttāv apy anāratam || SivSV_3.32:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* viśvasṛṣṭisthitidhvaṃseṣv aprakampasya yoginaḥ || SivSV_3.32:13 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * uttīrṇadehaprāṇādipramātṛtvasya dhīmataḥ || SivSV_3.33:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* yato na tatsukhādyantas tata evaiṣa sādhakaḥ || SivSV_3.33:11 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * tābhyāṃ mukto viśeṣeṇa yogīndro yat tayor yataḥ || SivSV_3.34:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* tad evāha tuśabdoktam antaraṃ candraśekharaḥ || SivSV_3.34:5 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * mohaḥ svākhyātir ajñānaṃ tena yaḥ pratisaṃhataḥ || SivSV_3.35:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* svātantryayogaḥ sahajaḥ prādurasti tadāsya tu || SivSV_3.35:6 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * bhedasya dehaprāṇādimitāhaṃkṛtijanmanaḥ || SivSV_3.36:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* na caitad apy asaṃbhāvyaṃ sraṣṭṛtvaṃ yogino yataḥ || SivSV_3.36:7 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * svataḥ svasmād anubhavāt svapnasaṃkalpanādiṣu || SivSV_3.37:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* tirohitāyāḥ svātantryaśakter uttejanaṃ prati || SivSV_3.37:8 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * tripadaṃ jāgarāsvapnasauṣuptānām anukramāt || SivSV_3.38:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* tripadādiprāṇanam ity etad uktam athāpi tu || SivSV_3.38:15 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * anuprāṇanam ity etad ādadyād iti śiṣyate || SivSV_3.39:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* apūrṇamanyatārūpād asyāṇavamalātmanaḥ || SivSV_3.39:10 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * tattvaiḥ śaktigaṇākrāntair dharaṇyantaiḥ kalādibhiḥ || SivSV_3.40:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* api tūktacarasvātmārāmataiveti kathyate || SivSV_3.40:9 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * tad ityuktacare dhāmni saṃvettṛtvasvarūpiṇi || SivSV_3.41:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity āśaṅkyottaraṃ vakti bhagavān viśvadaiśikaḥ || SivSV_3.41:9 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * tadety uktābhilāṣasya praśamāj jīvasaṃkṣaye || SivSV_3.42:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* kasmād ity api śaṅkāyām uttaraṃ vakti śaṃkaraḥ || SivSV_3.42:9 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * prāṇe pariṇatā saṃvit prāg iti proktayā diśā || SivSV_3.43:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* ity upāyopasaṃhāramukhenāha maheśvaraḥ || SivSV_3.43:20 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * netrādiromarandhrāntanāḍīnāṃ niviḍātmanām || SivSV_3.44:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* upasaṃharati śrīmān uktaṃ prakaraṇaṃ śivaḥ || SivSV_3.44:17 ||]"
+        },
+        {
+          "ref": null,
+          "body": "* [<śivasūtravārtika:> * punaś ca proktacaitanyasvarūponmīlanātmakam || SivSV_3.45:1 ||"
+        },
+        {
+          "ref": null,
+          "body": "* anugṛhṇantu nāmaitat santaḥ saṃtoṣam āgatāḥ || SivSV_3.45:19 ||]"
+        }
+      ]
+    }
+  ]
+}

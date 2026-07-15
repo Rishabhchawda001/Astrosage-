@@ -1,0 +1,355 @@
+{
+  "file": "uddamareshvara tantra_gretil_prose.json",
+  "title": "Uḍḍāmareśvaratantra",
+  "status": "certified",
+  "total_akus": 272,
+  "certified_akus": 272,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 19,
+    "mantra": 104,
+    "prose": 11,
+    "commentary": 8,
+    "verse": 116,
+    "heading": 11,
+    "unknown": 1,
+    "translation": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 7,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 8,
+      "total": 12,
+      "certified": 11,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 8,
+          "aku_ref": "UT_8.10",
+          "end": "nāgakesara",
+          "start": "śatrumitro"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 10,
+      "certified": 6,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "10",
+          "end": "etajīrakam",
+          "start": "māṣakaṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "UT_10.1",
+          "end": "grāhaya",
+          "start": "sadāraktak"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 10,
+          "aku_ref": "UT_10.2",
+          "end": "utthāpaya",
+          "start": "abhaya"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 23,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "vidāraya",
+          "start": "drāvaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "drāvaya",
+          "start": "astreṇa"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "cālaya",
+          "start": "parvatān"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "kampaya",
+          "start": "līlayā"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "nāśaya",
+          "start": "visara"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "visara",
+          "start": "kampaya"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "kampaya",
+          "start": "matha"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 2,
+          "aku_ref": "2",
+          "end": "bhañjaya",
+          "start": "sarvaduṣṭā"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 9,
+      "total": 86,
+      "certified": 83,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 9,
+          "aku_ref": "UT_9.64",
+          "end": "āgaccha",
+          "start": "mantram"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 9,
+          "aku_ref": "UT_9.84",
+          "end": "āgaccha",
+          "start": "sarvālaṃkā"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    },
+    {
+      "chapter": 12,
+      "total": 45,
+      "certified": 45,
+      "issues": []
+    },
+    {
+      "chapter": 13,
+      "total": 15,
+      "certified": 15,
+      "issues": []
+    },
+    {
+      "chapter": 14,
+      "total": 27,
+      "certified": 27,
+      "issues": []
+    },
+    {
+      "chapter": 15,
+      "total": 12,
+      "certified": 12,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 8,
+      "aku_ref": "UT_8.10",
+      "end": "nāgakesara",
+      "start": "śatrumitro"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "10",
+      "end": "etajīrakam",
+      "start": "māṣakaṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "UT_10.1",
+      "end": "grāhaya",
+      "start": "sadāraktak"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 10,
+      "aku_ref": "UT_10.2",
+      "end": "utthāpaya",
+      "start": "abhaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "vidāraya",
+      "start": "drāvaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "drāvaya",
+      "start": "astreṇa"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "cālaya",
+      "start": "parvatān"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "kampaya",
+      "start": "līlayā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "nāśaya",
+      "start": "visara"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "visara",
+      "start": "kampaya"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "kampaya",
+      "start": "matha"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 2,
+      "aku_ref": "2",
+      "end": "bhañjaya",
+      "start": "sarvaduṣṭā"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 9,
+      "aku_ref": "UT_9.64",
+      "end": "āgaccha",
+      "start": "mantram"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 9,
+      "aku_ref": "UT_9.84",
+      "end": "āgaccha",
+      "start": "sarvālaṃkā"
+    }
+  ],
+  "blocking_issues": 0
+}

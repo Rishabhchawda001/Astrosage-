@@ -1,0 +1,33 @@
+{
+  "total_scriptures": 88,
+  "total_akus": 123148,
+  "total_certified": 61396,
+  "total_issues": 9985,
+  "by_status": {
+    "certified": 36,
+    "needs_work": 39,
+    "partially_certified": 6,
+    "mostly_certified": 7
+  },
+  "by_class": {
+    "colophon": 1775,
+    "unknown": 3413,
+    "verse": 24888,
+    "metadata": 11051,
+    "heading": 7326,
+    "prose": 44523,
+    "mantra": 1160,
+    "translation": 6897,
+    "commentary": 10775,
+    "critical_apparatus": 288,
+    "index": 13,
+    "sutra": 7791,
+    "ocr_artifact": 3162,
+    "footnote": 80,
+    "publisher_material": 6
+  },
+  "issue_types": {
+    "numbering_regression": 1236,
+    "potential_mid_word_split": 8749
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "file": "bhagavata_gretil_prose.json",
+  "title": "Bhāgavatapurāṇa",
+  "status": "mostly_certified",
+  "total_akus": 1747,
+  "certified_akus": 1745,
+  "issues": [],
+  "class_distribution": {
+    "sutra": 1083,
+    "prose": 16,
+    "commentary": 92,
+    "mantra": 18,
+    "translation": 264,
+    "colophon": 3,
+    "heading": 5,
+    "publisher_material": 1,
+    "verse": 265
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1276,
+      "certified": 1276,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 5,
+      "total": 450,
+      "certified": 450,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 13,
+      "certified": 10,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "BhP_06.16.025",
+          "from": 43,
+          "to": 25
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "BhP_06.19.007",
+          "from": 25,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 6,
+      "certified": 6,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "BhP_06.16.025",
+      "from": 43,
+      "to": 25
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "BhP_06.19.007",
+      "from": 25,
+      "to": 7
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 2
+}

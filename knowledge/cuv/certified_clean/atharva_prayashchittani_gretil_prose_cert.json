@@ -1,0 +1,148 @@
+{
+  "file": "atharva_prayashchittani_gretil_prose.json",
+  "title": "Atharvaprāyaścittāni",
+  "status": "mostly_certified",
+  "total_akus": 879,
+  "certified_akus": 878,
+  "issues": [],
+  "class_distribution": {
+    "critical_apparatus": 14,
+    "verse": 665,
+    "translation": 68,
+    "footnote": 18,
+    "sutra": 40,
+    "mantra": 24,
+    "prose": 21,
+    "commentary": 11,
+    "metadata": 5,
+    "colophon": 6,
+    "heading": 4,
+    "ocr_artifact": 3
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 857,
+      "certified": 857,
+      "issues": []
+    },
+    {
+      "chapter": 1,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 10,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 7,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 5,
+      "total": 3,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 18,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 12,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 37,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 6,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 8,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 108,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 19,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 9,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 17,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 15,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 18,
+      "to": 5
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 1
+}

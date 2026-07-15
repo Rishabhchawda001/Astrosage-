@@ -1,0 +1,6975 @@
+{
+  "file": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+  "title": "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+  "status": "partially_certified",
+  "total_akus": 3543,
+  "certified_akus": 3135,
+  "issues": [],
+  "class_distribution": {
+    "prose": 1074,
+    "sutra": 683,
+    "commentary": 1350,
+    "translation": 88,
+    "metadata": 79,
+    "unknown": 28,
+    "ocr_artifact": 13,
+    "colophon": 11,
+    "mantra": 2,
+    "heading": 213,
+    "verse": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 1849,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "aparihāraḥ",
+          "start": "vedānteṣu"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "aparihāraḥ",
+          "start": "viyadādivi"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "avicāraśca",
+          "start": "dvitīye"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "anavicāraḥ",
+          "start": "athedānīma"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "tathāhi",
+          "start": "idamidānīṃ"
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "abhidhānam",
+          "start": "āsṛti"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 278,
+      "certified": 110,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.5",
+          "from": 7,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.4.10",
+          "from": 21,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.7.8",
+          "from": 22,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.7.1.5",
+          "from": 8,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.8",
+          "from": 15,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.7.6",
+          "from": 8,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.11.4,5",
+          "from": 39,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.3.3",
+          "from": 115,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.4",
+          "from": 10,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.4.6",
+          "from": 24,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.2.14",
+          "from": 20,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.2.12",
+          "from": 14,
+          "to": 12
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3.3",
+          "from": 12,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.7,6",
+          "from": 12,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.5",
+          "from": 10,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.3",
+          "from": 13,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "bra.1.3.18",
+          "from": 22,
+          "to": 18
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.2.14",
+          "from": 30,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.2",
+          "from": 14,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.22",
+          "from": 24,
+          "to": 22
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3.3,4",
+          "from": 11,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.4.7",
+          "from": 13,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "kā.1.2.4",
+          "from": 20,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.2",
+          "from": 31,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.5",
+          "from": 7,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.30.6",
+          "from": 9,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.4",
+          "from": 16,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.10",
+          "from": 28,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.18",
+          "from": 24,
+          "to": 18
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.2.2",
+          "from": 22,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.5.3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.4.10",
+          "from": 17,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3.12",
+          "from": 22,
+          "to": 12
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.5.3",
+          "from": 12,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.11.2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.11",
+          "from": 24,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3.14",
+          "from": 28,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.4",
+          "from": 14,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.6",
+          "from": 10,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.7.5",
+          "from": 6,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.2.7",
+          "from": 21,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3.2",
+          "from": 7,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.2.2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.5",
+          "from": 10,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.6",
+          "from": 11,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.10.9",
+          "from": 110,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.10",
+          "from": 11,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.5.13",
+          "from": 21,
+          "to": 13
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.5.22",
+          "from": 23,
+          "to": 22
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.5.21",
+          "from": 23,
+          "to": 21
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.5.22",
+          "from": 23,
+          "to": 22
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.10",
+          "from": 19,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.1.3",
+          "from": 11,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.2.13",
+          "from": 28,
+          "to": 13
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.4",
+          "from": 11,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.4.10",
+          "from": 40,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 1,
+          "aku_ref": "1.6.2",
+          "from": 3,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "total": 134,
+      "certified": 60,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.3.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.9.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.7.2",
+          "from": 8,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.2.9",
+          "from": 14,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.53.7",
+          "from": 9,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.12.4",
+          "from": 8,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8",
+          "from": 124,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.4.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.7",
+          "from": 23,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.1.5",
+          "from": 6,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.9.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.6",
+          "from": 8,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.6.6",
+          "from": 8,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.6.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.6.5",
+          "from": 23,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 8,
+          "aku_ref": "8.4.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 8,
+          "aku_ref": "8.5.3",
+          "end": "ttyādibhiḥ",
+          "start": "itivat"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "total": 276,
+      "certified": 96,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.11",
+          "from": 19,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.5",
+          "from": 13,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.2",
+          "from": 5,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.8",
+          "from": 19,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.3",
+          "from": 13,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.4",
+          "from": 54,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.5",
+          "from": 9,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1,2,3,4",
+          "from": 7,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.8",
+          "from": 9,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.6",
+          "from": 8,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.14",
+          "from": 15,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.8",
+          "from": 14,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.3",
+          "from": 19,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.2",
+          "from": 5,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.2",
+          "from": 8,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.5",
+          "from": 10,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.11",
+          "from": 12,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.8",
+          "from": 11,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 8,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.5",
+          "from": 210,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.4.2",
+          "from": 17,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.4",
+          "from": 36,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.12",
+          "from": 44,
+          "to": 12
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.6.2",
+          "from": 12,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.6.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.5.6,7",
+          "from": 15,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.4",
+          "from": 7,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.6",
+          "from": 16,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.10.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.6",
+          "from": 18,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.2.4",
+          "from": 14,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.11",
+          "from": 25,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.6",
+          "from": 14,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.5",
+          "from": 6,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 24,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 14,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4",
+          "from": 14,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.3",
+          "from": 20,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.2",
+          "from": 11,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.8",
+          "from": 11,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.18",
+          "from": 24,
+          "to": 18
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.14",
+          "from": 18,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 14,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.17",
+          "from": 19,
+          "to": 17
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.17",
+          "from": 19,
+          "to": 17
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.14",
+          "from": 19,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.5.19",
+          "from": 72,
+          "to": 19
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.3.6",
+          "from": 19,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.5",
+          "from": 14,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.3",
+          "from": 14,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.13.2",
+          "from": 15,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.4.6",
+          "from": 11,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.8",
+          "from": 10,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 39,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.2.11",
+          "from": 14,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2.1.2",
+          "from": 11,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 2,
+          "aku_ref": "2",
+          "from": 29,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "total": 273,
+      "certified": 92,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 6,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.4.2",
+          "from": 9,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.9.23",
+          "from": 26,
+          "to": 23
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.19",
+          "from": 23,
+          "to": 19
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3,5",
+          "from": 23,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.6",
+          "from": 28,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.2",
+          "from": 28,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.3",
+          "from": 9,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.6",
+          "from": 28,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.3",
+          "from": 6,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12.1,6",
+          "from": 8,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.11.3",
+          "from": 6,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12.5",
+          "from": 12,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.13.6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.1,2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.7.1,2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.4.2",
+          "from": 23,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.10.6",
+          "from": 22,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.8.8",
+          "from": 11,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.8",
+          "from": 9,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12.7",
+          "from": 8,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.6",
+          "from": 11,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.1.3",
+          "from": 6,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12.9.7",
+          "from": 8,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12.6",
+          "from": 8,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.19",
+          "from": 23,
+          "to": 19
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.8",
+          "from": 19,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.8.9",
+          "from": 13,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 9,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.6",
+          "from": 9,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.1.14.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.4",
+          "from": 8,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12.6",
+          "from": 23,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.9.4",
+          "from": 8,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.9.4",
+          "from": 8,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.18.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.8.8",
+          "from": 15,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.2",
+          "from": 18,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.1.8",
+          "from": 14,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.10",
+          "from": 11,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 10,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12",
+          "from": 15,
+          "to": 12
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.9",
+          "from": 13,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.11",
+          "from": 12,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.3",
+          "from": 13,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.15.3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.8",
+          "from": 13,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.1.3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.3.13",
+          "from": 26,
+          "to": 13
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.10",
+          "from": 13,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.9",
+          "from": 42,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.4.2",
+          "from": 9,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.4.25",
+          "from": 26,
+          "to": 25
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.8.8",
+          "from": 23,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.2",
+          "from": 23,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.8.8",
+          "from": 11,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.1.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.11",
+          "from": 13,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.11",
+          "from": 211,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.2.7",
+          "from": 11,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.14.2",
+          "from": 8,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3",
+          "from": 31,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 3,
+          "aku_ref": "3.12.6",
+          "from": 11,
+          "to": 6
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 3,
+          "aku_ref": "3.3.31",
+          "end": "ubhayathā",
+          "start": "brāhma"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "total": 202,
+      "certified": 63,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.8.7",
+          "from": 8,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.3,4",
+          "from": 8,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.1,3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.3.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.14.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.11",
+          "from": 19,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.6",
+          "from": 11,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.8.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.15",
+          "from": 158,
+          "to": 15
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.15",
+          "from": 18,
+          "to": 15
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.3.2",
+          "from": 15,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.3",
+          "from": 18,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.1,2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.3.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.1.2",
+          "from": 19,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.1.3.2.4",
+          "from": 13,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.9.2,3",
+          "from": 13,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.16.3",
+          "from": 16,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.3.2",
+          "from": 7,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 9,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.11.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.8",
+          "from": 11,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.1.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.4",
+          "from": 7,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 13,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.3.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.9.4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.3.2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.8.7",
+          "from": 13,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.1.6",
+          "from": 14,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "ka.6.2",
+          "from": 14,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 14,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.14.2",
+          "from": 16,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.5.4",
+          "from": 7,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "ta6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.8.21",
+          "from": 45,
+          "to": 21
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.8.7",
+          "from": 40,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.14.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.5.4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.5",
+          "from": 6,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.8.3",
+          "from": 19,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 6,
+          "aku_ref": "6.2.15",
+          "from": 16,
+          "to": 15
+        },
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 6,
+          "aku_ref": "6.3.2",
+          "end": "(ṛ.saṃ",
+          "start": "ekasminnas"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "total": 240,
+      "certified": 53,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.2.4",
+          "from": 15,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.12",
+          "from": 15,
+          "to": 12
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.7",
+          "from": 12,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.15",
+          "from": 21,
+          "to": 15
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.22",
+          "from": 32,
+          "to": 22
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.10.5",
+          "from": 22,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.8",
+          "from": 24,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 15,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.14.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.7",
+          "from": 13,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.2.3",
+          "from": 21,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 32,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.16",
+          "from": 30,
+          "to": 16
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.2.4",
+          "from": 16,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.7",
+          "from": 18,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.21",
+          "from": 22,
+          "to": 21
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.14,15",
+          "from": 35,
+          "to": 15
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.10",
+          "from": 15,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5",
+          "from": 10,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 17,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.19",
+          "from": 20,
+          "to": 19
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.6",
+          "from": 20,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.6,7",
+          "from": 425,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 16,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.15",
+          "from": 25,
+          "to": 15
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.2.4",
+          "from": 35,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.2.2",
+          "from": 11,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 5,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.5",
+          "from": 8,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.11",
+          "from": 15,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.9",
+          "from": 11,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.23",
+          "from": 30,
+          "to": 23
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.6",
+          "from": 23,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.4",
+          "from": 22,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.7",
+          "from": 12,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.21",
+          "from": 23,
+          "to": 21
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.13",
+          "from": 32,
+          "to": 13
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3",
+          "from": 13,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.2",
+          "from": 8,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 8,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.6",
+          "from": 33,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.5",
+          "from": 6,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 5,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.9",
+          "from": 10,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.12",
+          "from": 14,
+          "to": 12
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.10",
+          "from": 12,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.9",
+          "from": 10,
+          "to": 9
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.19",
+          "from": 21,
+          "to": 19
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.7",
+          "from": 19,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.16",
+          "from": 31,
+          "to": 16
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 16,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 21,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.7",
+          "from": 25,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.7",
+          "from": 37,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.14",
+          "from": 22,
+          "to": 14
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.10.5",
+          "from": 8,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.6",
+          "from": 105,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.2",
+          "from": 15,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.2",
+          "from": 15,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 22,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 22,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.22",
+          "from": 23,
+          "to": 22
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.15",
+          "from": 25,
+          "to": 15
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.6",
+          "from": 21,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.1.4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.22",
+          "from": 23,
+          "to": 22
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.7",
+          "from": 22,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 22,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "chā.4.14.3",
+          "from": 4,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.17.10",
+          "from": 22,
+          "to": 10
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.2",
+          "from": 16,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.3.4",
+          "from": 5,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 5,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.15.5",
+          "from": 6,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.2.4",
+          "from": 25,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.10.5",
+          "from": 15,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.15.5",
+          "from": 12,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.15",
+          "from": 23,
+          "to": 15
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.5.13",
+          "from": 15,
+          "to": 13
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4",
+          "from": 13,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 4,
+          "aku_ref": "4.4.6",
+          "from": 32,
+          "to": 6
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "total": 123,
+      "certified": 47,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.5.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.18.2",
+          "from": 6,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.24.3",
+          "from": 9,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.18.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 7,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.2",
+          "from": 5,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 7,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 9,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.3.3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.10.4",
+          "from": 6,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.4.2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.3.3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.10.1,3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.3.3",
+          "from": 8,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.8",
+          "from": 9,
+          "to": 8
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 8,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.9.2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.2.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.5.3,4",
+          "from": 12,
+          "to": 4
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.5.2",
+          "from": 4,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5",
+          "from": 17,
+          "to": 5
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.24.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.10.1,2",
+          "from": 108,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 5,
+          "aku_ref": "5.2",
+          "from": 5,
+          "to": 2
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "total": 59,
+      "certified": 19,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.1.3",
+          "from": 7,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.26.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.1.3",
+          "from": 16,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.26.2",
+          "from": 3,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.6",
+          "from": 7,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.26.2",
+          "from": 17,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7",
+          "from": 21,
+          "to": 7
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.26.2",
+          "from": 7,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.4.3",
+          "from": 5,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 7,
+          "aku_ref": "7.1.5",
+          "from": 7,
+          "to": 5
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "total": 7,
+      "certified": 7,
+      "issues": []
+    },
+    {
+      "chapter": 15,
+      "total": 6,
+      "certified": 4,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 15,
+          "aku_ref": "15.3",
+          "from": 20,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 15,
+          "aku_ref": "15.7",
+          "from": 15,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "total": 9,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 11,
+          "aku_ref": "11",
+          "from": 13,
+          "to": 11
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 11,
+          "aku_ref": "11.4.7",
+          "from": 11,
+          "to": 7
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "total": 10,
+      "certified": 8,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 9,
+          "aku_ref": "9.46.4",
+          "from": 9,
+          "to": 4
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "total": 21,
+      "certified": 6,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10.3.3.6",
+          "from": 41,
+          "to": 6
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10.88.3",
+          "from": 12,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10.6.6.2",
+          "from": 11,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10.2",
+          "from": 10,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10.190.3",
+          "from": 10,
+          "to": 3
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 10,
+          "aku_ref": "10",
+          "from": 37,
+          "to": 10
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "total": 6,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 12,
+          "aku_ref": "12",
+          "from": 106,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "total": 12,
+      "certified": 3,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 13,
+          "aku_ref": "13.2",
+          "from": 13,
+          "to": 2
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 13,
+          "aku_ref": "13",
+          "from": 31,
+          "to": 13
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 13,
+          "aku_ref": "13",
+          "from": 27,
+          "to": 13
+        },
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 13,
+          "aku_ref": "13.12",
+          "from": 13,
+          "to": 12
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 17,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 19,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 20,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 22,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 23,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 25,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 26,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 27,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 28,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 29,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 18,
+      "total": 3,
+      "certified": 1,
+      "issues": [
+        {
+          "type": "numbering_regression",
+          "severity": "medium",
+          "chapter": 18,
+          "aku_ref": "18",
+          "from": 61,
+          "to": 18
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 24,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    },
+    {
+      "chapter": 30,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 31,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 190,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 32,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 33,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 35,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 39,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 43,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 34,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 36,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 55,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 80,
+      "total": 3,
+      "certified": 3,
+      "issues": []
+    },
+    {
+      "chapter": 78,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.5",
+      "from": 7,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.4.10",
+      "from": 21,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.7.8",
+      "from": 22,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.7.1.5",
+      "from": 8,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.8",
+      "from": 15,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.7.6",
+      "from": 8,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.11.4,5",
+      "from": 39,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.3.3",
+      "from": 115,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.4",
+      "from": 10,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.4.6",
+      "from": 24,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.2.14",
+      "from": 20,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.2.12",
+      "from": 14,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3.3",
+      "from": 12,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.7,6",
+      "from": 12,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.5",
+      "from": 10,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.3",
+      "from": 13,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "bra.1.3.18",
+      "from": 22,
+      "to": 18
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.2.14",
+      "from": 30,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.2",
+      "from": 14,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.22",
+      "from": 24,
+      "to": 22
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3.3,4",
+      "from": 11,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.4.7",
+      "from": 13,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "kā.1.2.4",
+      "from": 20,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.2",
+      "from": 31,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.5",
+      "from": 7,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.30.6",
+      "from": 9,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.4",
+      "from": 16,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.10",
+      "from": 28,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.18",
+      "from": 24,
+      "to": 18
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.2.2",
+      "from": 22,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.5.3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.4.10",
+      "from": 17,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3.12",
+      "from": 22,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.5.3",
+      "from": 12,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.11.2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.11",
+      "from": 24,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3.14",
+      "from": 28,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.4",
+      "from": 14,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.6",
+      "from": 10,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.7.5",
+      "from": 6,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.2.7",
+      "from": 21,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3.2",
+      "from": 7,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.2.2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.5",
+      "from": 10,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.6",
+      "from": 11,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.10.9",
+      "from": 110,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.10",
+      "from": 11,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.5.13",
+      "from": 21,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.5.22",
+      "from": 23,
+      "to": 22
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.5.21",
+      "from": 23,
+      "to": 21
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.5.22",
+      "from": 23,
+      "to": 22
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.10",
+      "from": 19,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.1.3",
+      "from": 11,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.2.13",
+      "from": 28,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.4",
+      "from": 11,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.4.10",
+      "from": 40,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 1,
+      "aku_ref": "1.6.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.3.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.9.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.7.2",
+      "from": 8,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.2.9",
+      "from": 14,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.53.7",
+      "from": 9,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.12.4",
+      "from": 8,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8",
+      "from": 124,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.4.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.7",
+      "from": 23,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.1.5",
+      "from": 6,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.9.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.6",
+      "from": 8,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.6.6",
+      "from": 8,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.6.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.6.5",
+      "from": 23,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 8,
+      "aku_ref": "8.4.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.11",
+      "from": 19,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.5",
+      "from": 13,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.2",
+      "from": 5,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.8",
+      "from": 19,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.3",
+      "from": 13,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.4",
+      "from": 54,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.5",
+      "from": 9,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1,2,3,4",
+      "from": 7,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.8",
+      "from": 9,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.6",
+      "from": 8,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.14",
+      "from": 15,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.8",
+      "from": 14,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.3",
+      "from": 19,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.2",
+      "from": 5,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.2",
+      "from": 8,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.5",
+      "from": 10,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.11",
+      "from": 12,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.8",
+      "from": 11,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 8,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.5",
+      "from": 210,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.4.2",
+      "from": 17,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.4",
+      "from": 36,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.12",
+      "from": 44,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.6.2",
+      "from": 12,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.6.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.5.6,7",
+      "from": 15,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.4",
+      "from": 7,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.6",
+      "from": 16,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.10.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.6",
+      "from": 18,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.2.4",
+      "from": 14,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.11",
+      "from": 25,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.6",
+      "from": 14,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.5",
+      "from": 6,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 24,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 14,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4",
+      "from": 14,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.3",
+      "from": 20,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.2",
+      "from": 11,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.8",
+      "from": 11,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.18",
+      "from": 24,
+      "to": 18
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.14",
+      "from": 18,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 14,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.17",
+      "from": 19,
+      "to": 17
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.17",
+      "from": 19,
+      "to": 17
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.14",
+      "from": 19,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.5.19",
+      "from": 72,
+      "to": 19
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.3.6",
+      "from": 19,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.5",
+      "from": 14,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.3",
+      "from": 14,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.13.2",
+      "from": 15,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.4.6",
+      "from": 11,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.8",
+      "from": 10,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 39,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.2.11",
+      "from": 14,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2.1.2",
+      "from": 11,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 2,
+      "aku_ref": "2",
+      "from": 29,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 6,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.4.2",
+      "from": 9,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.9.23",
+      "from": 26,
+      "to": 23
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.19",
+      "from": 23,
+      "to": 19
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3,5",
+      "from": 23,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.6",
+      "from": 28,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.2",
+      "from": 28,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.3",
+      "from": 9,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.6",
+      "from": 28,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.3",
+      "from": 6,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12.1,6",
+      "from": 8,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.11.3",
+      "from": 6,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12.5",
+      "from": 12,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.13.6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.1,2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.7.1,2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.4.2",
+      "from": 23,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.10.6",
+      "from": 22,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.8.8",
+      "from": 11,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.8",
+      "from": 9,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12.7",
+      "from": 8,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.6",
+      "from": 11,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.1.3",
+      "from": 6,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12.9.7",
+      "from": 8,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12.6",
+      "from": 8,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.19",
+      "from": 23,
+      "to": 19
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.8",
+      "from": 19,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.8.9",
+      "from": 13,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 9,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.6",
+      "from": 9,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.1.14.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.4",
+      "from": 8,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12.6",
+      "from": 23,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.9.4",
+      "from": 8,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.9.4",
+      "from": 8,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.18.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.8.8",
+      "from": 15,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.2",
+      "from": 18,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.1.8",
+      "from": 14,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.10",
+      "from": 11,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 10,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12",
+      "from": 15,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.9",
+      "from": 13,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.11",
+      "from": 12,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.3",
+      "from": 13,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.15.3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.8",
+      "from": 13,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.1.3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.3.13",
+      "from": 26,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.10",
+      "from": 13,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.9",
+      "from": 42,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.4.2",
+      "from": 9,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.4.25",
+      "from": 26,
+      "to": 25
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.8.8",
+      "from": 23,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.2",
+      "from": 23,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.8.8",
+      "from": 11,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.1.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.11",
+      "from": 13,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.11",
+      "from": 211,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.2.7",
+      "from": 11,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.14.2",
+      "from": 8,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3",
+      "from": 31,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 3,
+      "aku_ref": "3.12.6",
+      "from": 11,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.8.7",
+      "from": 8,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.3,4",
+      "from": 8,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.1,3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.3.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.14.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.11",
+      "from": 19,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.6",
+      "from": 11,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.8.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.15",
+      "from": 158,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.15",
+      "from": 18,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.3.2",
+      "from": 15,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.3",
+      "from": 18,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.1,2",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.3.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.1.2",
+      "from": 19,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.1.3.2.4",
+      "from": 13,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.9.2,3",
+      "from": 13,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.16.3",
+      "from": 16,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.3.2",
+      "from": 7,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 9,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.11.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.8",
+      "from": 11,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.1.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.4",
+      "from": 7,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 13,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.3.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.9.4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.3.2",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.8.7",
+      "from": 13,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.1.6",
+      "from": 14,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "ka.6.2",
+      "from": 14,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 14,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.14.2",
+      "from": 16,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.5.4",
+      "from": 7,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "ta6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.8.21",
+      "from": 45,
+      "to": 21
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.8.7",
+      "from": 40,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.14.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.5.4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.5",
+      "from": 6,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.8.3",
+      "from": 19,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 6,
+      "aku_ref": "6.2.15",
+      "from": 16,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.2.4",
+      "from": 15,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.12",
+      "from": 15,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.7",
+      "from": 12,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.15",
+      "from": 21,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.22",
+      "from": 32,
+      "to": 22
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.10.5",
+      "from": 22,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.8",
+      "from": 24,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 15,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.14.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.7",
+      "from": 13,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.2.3",
+      "from": 21,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 32,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.16",
+      "from": 30,
+      "to": 16
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.2.4",
+      "from": 16,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.7",
+      "from": 18,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.21",
+      "from": 22,
+      "to": 21
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.14,15",
+      "from": 35,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.10",
+      "from": 15,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5",
+      "from": 10,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 17,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.19",
+      "from": 20,
+      "to": 19
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.6",
+      "from": 20,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.6,7",
+      "from": 425,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 16,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.15",
+      "from": 25,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.2.4",
+      "from": 35,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.2.2",
+      "from": 11,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 5,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.5",
+      "from": 8,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.11",
+      "from": 15,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.9",
+      "from": 11,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.23",
+      "from": 30,
+      "to": 23
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.6",
+      "from": 23,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.4",
+      "from": 22,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.7",
+      "from": 12,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.21",
+      "from": 23,
+      "to": 21
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.13",
+      "from": 32,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3",
+      "from": 13,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.2",
+      "from": 8,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 8,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.6",
+      "from": 33,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.5",
+      "from": 6,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 5,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.9",
+      "from": 10,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.12",
+      "from": 14,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.10",
+      "from": 12,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.9",
+      "from": 10,
+      "to": 9
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.19",
+      "from": 21,
+      "to": 19
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.7",
+      "from": 19,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.16",
+      "from": 31,
+      "to": 16
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 16,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 21,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.7",
+      "from": 25,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.7",
+      "from": 37,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.14",
+      "from": 22,
+      "to": 14
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.10.5",
+      "from": 8,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.6",
+      "from": 105,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.2",
+      "from": 15,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.2",
+      "from": 15,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 22,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 22,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.22",
+      "from": 23,
+      "to": 22
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.15",
+      "from": 25,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.6",
+      "from": 21,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.1.4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.22",
+      "from": 23,
+      "to": 22
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.7",
+      "from": 22,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 22,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "chā.4.14.3",
+      "from": 4,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.17.10",
+      "from": 22,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.2",
+      "from": 16,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.3.4",
+      "from": 5,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 5,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.15.5",
+      "from": 6,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.2.4",
+      "from": 25,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.10.5",
+      "from": 15,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.15.5",
+      "from": 12,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.15",
+      "from": 23,
+      "to": 15
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.5.13",
+      "from": 15,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4",
+      "from": 13,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 4,
+      "aku_ref": "4.4.6",
+      "from": 32,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.5.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.18.2",
+      "from": 6,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.24.3",
+      "from": 9,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.18.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 7,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.2",
+      "from": 5,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 7,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 9,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.3.3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.10.4",
+      "from": 6,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.4.2",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.3.3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.10.1,3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.3.3",
+      "from": 8,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.8",
+      "from": 9,
+      "to": 8
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 8,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.9.2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.2.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.5.3,4",
+      "from": 12,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.5.2",
+      "from": 4,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5",
+      "from": 17,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.24.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.10.1,2",
+      "from": 108,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 5,
+      "aku_ref": "5.2",
+      "from": 5,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.1.3",
+      "from": 7,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.26.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.1.3",
+      "from": 16,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.26.2",
+      "from": 3,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.6",
+      "from": 7,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.26.2",
+      "from": 17,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7",
+      "from": 21,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.26.2",
+      "from": 7,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.4.3",
+      "from": 5,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 7,
+      "aku_ref": "7.1.5",
+      "from": 7,
+      "to": 5
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 15,
+      "aku_ref": "15.3",
+      "from": 20,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 15,
+      "aku_ref": "15.7",
+      "from": 15,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 11,
+      "aku_ref": "11",
+      "from": 13,
+      "to": 11
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 11,
+      "aku_ref": "11.4.7",
+      "from": 11,
+      "to": 7
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 9,
+      "aku_ref": "9.46.4",
+      "from": 9,
+      "to": 4
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10.3.3.6",
+      "from": 41,
+      "to": 6
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10.88.3",
+      "from": 12,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10.6.6.2",
+      "from": 11,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10.2",
+      "from": 10,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10.190.3",
+      "from": 10,
+      "to": 3
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 10,
+      "aku_ref": "10",
+      "from": 37,
+      "to": 10
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 12,
+      "aku_ref": "12",
+      "from": 106,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 13,
+      "aku_ref": "13.2",
+      "from": 13,
+      "to": 2
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 13,
+      "aku_ref": "13",
+      "from": 31,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 13,
+      "aku_ref": "13",
+      "from": 27,
+      "to": 13
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 13,
+      "aku_ref": "13.12",
+      "from": 13,
+      "to": 12
+    },
+    {
+      "type": "numbering_regression",
+      "severity": "medium",
+      "chapter": 18,
+      "aku_ref": "18",
+      "from": 61,
+      "to": 18
+    }
+  ],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "aparihāraḥ",
+      "start": "vedānteṣu"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "aparihāraḥ",
+      "start": "viyadādivi"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "avicāraśca",
+      "start": "dvitīye"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "anavicāraḥ",
+      "start": "athedānīma"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "tathāhi",
+      "start": "idamidānīṃ"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "abhidhānam",
+      "start": "āsṛti"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 8,
+      "aku_ref": "8.5.3",
+      "end": "ttyādibhiḥ",
+      "start": "itivat"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 3,
+      "aku_ref": "3.3.31",
+      "end": "ubhayathā",
+      "start": "brāhma"
+    },
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 6,
+      "aku_ref": "6.3.2",
+      "end": "(ṛ.saṃ",
+      "start": "ekasminnas"
+    }
+  ],
+  "blocking_issues": 408
+}

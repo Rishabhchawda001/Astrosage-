@@ -1,0 +1,71 @@
+{
+  "file": "sa_pataJjali-yogasUtra-with-bhASya_prose.json",
+  "title": "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+  "status": "certified",
+  "total_akus": 268,
+  "certified_akus": 268,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 3,
+    "commentary": 132,
+    "verse": 60,
+    "prose": 46,
+    "sutra": 9,
+    "translation": 12,
+    "colophon": 6
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 257,
+      "certified": 0,
+      "issues": [
+        {
+          "type": "potential_mid_word_split",
+          "severity": "low",
+          "chapter": 0,
+          "aku_ref": null,
+          "end": "ogaśāstram",
+          "start": "athety"
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 2,
+      "total": 4,
+      "certified": 4,
+      "issues": []
+    },
+    {
+      "chapter": 3,
+      "total": 1,
+      "certified": 1,
+      "issues": []
+    },
+    {
+      "chapter": 4,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [
+    {
+      "type": "potential_mid_word_split",
+      "severity": "low",
+      "chapter": 0,
+      "aku_ref": null,
+      "end": "ogaśāstram",
+      "start": "athety"
+    }
+  ],
+  "blocking_issues": 0
+}

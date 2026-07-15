@@ -1,0 +1,27 @@
+{
+  "file": "sa_pataJjali-yogasUtra-alt_prose.json",
+  "title": "Yogasūtra",
+  "status": "certified",
+  "total_akus": 13,
+  "certified_akus": 13,
+  "issues": [],
+  "class_distribution": {
+    "verse": 7,
+    "translation": 2,
+    "sutra": 1,
+    "critical_apparatus": 1,
+    "metadata": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 13,
+      "certified": 13,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

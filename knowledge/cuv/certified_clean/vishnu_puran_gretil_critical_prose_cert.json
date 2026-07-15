@@ -1,0 +1,30 @@
+{
+  "file": "vishnu_puran_gretil_critical_prose.json",
+  "title": "Viṣṇupurāṇa",
+  "status": "certified",
+  "total_akus": 542,
+  "certified_akus": 542,
+  "issues": [],
+  "class_distribution": {
+    "heading": 5,
+    "mantra": 12,
+    "unknown": 5,
+    "verse": 461,
+    "commentary": 37,
+    "translation": 19,
+    "colophon": 1,
+    "prose": 2
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 542,
+      "certified": 542,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

@@ -1,0 +1,24 @@
+{
+  "file": "namaskaraikavimshati stotra_gretil_prose.json",
+  "title": "Namaskāraikaviṃśatistotra",
+  "status": "certified",
+  "total_akus": 2,
+  "certified_akus": 2,
+  "issues": [],
+  "class_distribution": {
+    "metadata": 1,
+    "colophon": 1
+  },
+  "chapter_stats": [
+    {
+      "chapter": 0,
+      "total": 2,
+      "certified": 2,
+      "issues": []
+    }
+  ],
+  "numbering_issues": [],
+  "unicode_issues": [],
+  "boundary_issues": [],
+  "blocking_issues": 0
+}

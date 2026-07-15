@@ -1,0 +1,1380 @@
+{
+  "total_chapters": 4253,
+  "total_akus": 160627,
+  "total_issues": 36834,
+  "chapters_with_issues": 999,
+  "issue_types": {
+    "mid_word_split": 18952,
+    "consecutive_empty": 15825,
+    "numbering_regression": 1684,
+    "multi_verse_aku": 372,
+    "split_sutra": 1
+  },
+  "severity_distribution": {
+    "high": 18952,
+    "low": 15826,
+    "medium": 2056
+  },
+  "chapters_with_high_severity": [
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 1113
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 670
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 661
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 309
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 109
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 173
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 34
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 27
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 10
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 4
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 110,
+      "high_count": 1
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 380,
+      "high_count": 1
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 165,
+      "high_count": 1
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 208,
+      "high_count": 1
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 282,
+      "high_count": 1
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 306,
+      "high_count": 1
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 330,
+      "high_count": 1
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 70
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 52
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 9,
+      "high_count": 23
+    },
+    {
+      "scripture": "agni_puran_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 12
+    },
+    {
+      "scripture": "aitareya_upanishad_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 30
+    },
+    {
+      "scripture": "angiras_smriti_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 13
+    },
+    {
+      "scripture": "apastamba_dharmasutra_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 60
+    },
+    {
+      "scripture": "apastamba_dharmasutra_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 81
+    },
+    {
+      "scripture": "apastamba_grihya_sutra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 115
+    },
+    {
+      "scripture": "apastamba_grihya_sutra_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 1
+    },
+    {
+      "scripture": "apastamba_grihya_sutra_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 2
+    },
+    {
+      "scripture": "apastamba_grihya_sutra_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 2
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 37
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 10
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 10
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 7
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 19
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 14
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 7
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 45
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 14,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 15,
+      "high_count": 5
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 19,
+      "high_count": 6
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 20,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 22,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 23,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 33,
+      "high_count": 4
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 37,
+      "high_count": 2
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 40,
+      "high_count": 11
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 41,
+      "high_count": 14
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 43,
+      "high_count": 44
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 44,
+      "high_count": 15
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 45,
+      "high_count": 11
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 46,
+      "high_count": 17
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 48,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 49,
+      "high_count": 4
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 50,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 62,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 65,
+      "high_count": 1
+    },
+    {
+      "scripture": "atharvaveda_parisista_gretil_prose.json",
+      "chapter": 72,
+      "high_count": 23
+    },
+    {
+      "scripture": "baudhayana_dharmasutra_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 866
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 47
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 9,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 45
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 11
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 4
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 10
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 5
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 19
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 10
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 1
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 18,
+      "high_count": 1
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 14,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_4comm_gretil_prose.json",
+      "chapter": 15,
+      "high_count": 9
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 94
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 4
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 14,
+      "high_count": 2
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 8
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 10
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 6
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 2
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 5
+    },
+    {
+      "scripture": "bhagavad_gita_shankara_gretil_prose.json",
+      "chapter": 15,
+      "high_count": 1
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 466
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 19
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 25
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 15
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 20
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 21
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 24
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 16,
+      "high_count": 5
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 17,
+      "high_count": 7
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 19
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 18
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 16
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 15,
+      "high_count": 7
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 18,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 19,
+      "high_count": 3
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 9,
+      "high_count": 23
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 21
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 14,
+      "high_count": 16
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 20
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 23
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 20,
+      "high_count": 1
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 21,
+      "high_count": 1
+    },
+    {
+      "scripture": "bhaskara_gita_bhashya_gretil_prose.json",
+      "chapter": 29,
+      "high_count": 1
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 86
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 1
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 1
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 16
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 1
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 1
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 3
+    },
+    {
+      "scripture": "brahma_samhita_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 1
+    },
+    {
+      "scripture": "devi_gita_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 46
+    },
+    {
+      "scripture": "garuda_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 316
+    },
+    {
+      "scripture": "garuda_puran_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 1
+    },
+    {
+      "scripture": "gautama_dharmasutra_1_3_comm_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 32
+    },
+    {
+      "scripture": "gautama_dharmasutra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 5
+    },
+    {
+      "scripture": "gautama_dharmasutra_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 1
+    },
+    {
+      "scripture": "gopatha_brahmana_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 1417
+    },
+    {
+      "scripture": "gopatha_brahmana_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 1483
+    },
+    {
+      "scripture": "ha_tha_yoga_pradipika_gretil2_prose.json",
+      "chapter": 0,
+      "high_count": 5
+    },
+    {
+      "scripture": "hatha_yoga_pradipika_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 5
+    },
+    {
+      "scripture": "isha_upanishad_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 4
+    },
+    {
+      "scripture": "kirana tantra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 121
+    },
+    {
+      "scripture": "kositaki_brahmana_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 2
+    },
+    {
+      "scripture": "kubjikamata tantra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 3
+    },
+    {
+      "scripture": "kubjikamata tantra_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 12
+    },
+    {
+      "scripture": "kubjikamata tantra_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 1
+    },
+    {
+      "scripture": "kurma_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 93
+    },
+    {
+      "scripture": "madhva_gita_bhashya_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 1
+    },
+    {
+      "scripture": "madhva_gita_bhashya_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 1
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 46
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 99
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 119
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 136
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 82
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 70
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 58
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 69
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 268
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 9,
+      "high_count": 163
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 74
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 92
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 83
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 122
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 14,
+      "high_count": 86
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 15,
+      "high_count": 93
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 16,
+      "high_count": 135
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 17,
+      "high_count": 79
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 18,
+      "high_count": 161
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 19,
+      "high_count": 112
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 20,
+      "high_count": 122
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 21,
+      "high_count": 71
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 22,
+      "high_count": 67
+    },
+    {
+      "scripture": "malinivijayottara tantra_gretil_prose.json",
+      "chapter": 23,
+      "high_count": 87
+    },
+    {
+      "scripture": "manava_grihya_sutra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 78
+    },
+    {
+      "scripture": "markandeya_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 628
+    },
+    {
+      "scripture": "mrigendra_agama_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 5
+    },
+    {
+      "scripture": "namaskaraikavimshati stotra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 1
+    },
+    {
+      "scripture": "narada_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 169
+    },
+    {
+      "scripture": "nirukta_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 255
+    },
+    {
+      "scripture": "nirukta_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 52
+    },
+    {
+      "scripture": "nirukta_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 1
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 128
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 67
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 40
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 160
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 140
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 178
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 166
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 142
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 9,
+      "high_count": 159
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 91
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 132
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 220
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 178
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 14,
+      "high_count": 159
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 15,
+      "high_count": 147
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 16,
+      "high_count": 188
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 17,
+      "high_count": 88
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 18,
+      "high_count": 168
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 19,
+      "high_count": 142
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 20,
+      "high_count": 88
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 21,
+      "high_count": 146
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 22,
+      "high_count": 107
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 23,
+      "high_count": 142
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 24,
+      "high_count": 95
+    },
+    {
+      "scripture": "pancavimsha_brahmana_gretil_prose.json",
+      "chapter": 25,
+      "high_count": 112
+    },
+    {
+      "scripture": "ramanuja_gita_bhashya_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 33
+    },
+    {
+      "scripture": "ramanuja_vedartha_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 2
+    },
+    {
+      "scripture": "revakhanda_vayu_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 16
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 0,
+      "high_count": 498
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 1,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 8,
+      "high_count": 2
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 2,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 3,
+      "high_count": 3
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 6,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 4,
+      "high_count": 3
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+      "chapter": 10,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 0,
+      "high_count": 9
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 1,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 8,
+      "high_count": 2
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 2,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 3,
+      "high_count": 3
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 6,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 4,
+      "high_count": 3
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-comm_prose.json",
+      "chapter": 10,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-subcomm2_prose.json",
+      "chapter": 0,
+      "high_count": 490
+    },
+    {
+      "scripture": "sa_bAdarAyaNa-brahmasUtra-subcomm_prose.json",
+      "chapter": 0,
+      "high_count": 487
+    },
+    {
+      "scripture": "sa_brahmANDapurANa_prose.json",
+      "chapter": 0,
+      "high_count": 103
+    },
+    {
+      "scripture": "sa_pataJjali-yogasUtra-with-bhASya-alt_prose.json",
+      "chapter": 0,
+      "high_count": 1
+    },
+    {
+      "scripture": "sa_pataJjali-yogasUtra-with-bhASya_prose.json",
+      "chapter": 0,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 34
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 103,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 2
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 302,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 401,
+      "high_count": 2
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 402,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 408,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 503,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 602,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 605,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 801,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 808,
+      "high_count": 1
+    },
+    {
+      "scripture": "samaveda_gretil_prose.json",
+      "chapter": 903,
+      "high_count": 1
+    },
+    {
+      "scripture": "sarvadurgatiparishodhana tantra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 17
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 115
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 23
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 5
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 22
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 9,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 11,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 12,
+      "high_count": 1
+    },
+    {
+      "scripture": "shiva_puran_gretil_prose.json",
+      "chapter": 13,
+      "high_count": 1
+    },
+    {
+      "scripture": "skanda_puran_revakhanda_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 112
+    },
+    {
+      "scripture": "svayambhu_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 11
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 33
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 36
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 2
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 3,
+      "high_count": 7
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 1,
+      "high_count": 4
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 4,
+      "high_count": 3
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 6,
+      "high_count": 3
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 7,
+      "high_count": 4
+    },
+    {
+      "scripture": "taittiriya_upanishad_bhashya_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 1
+    },
+    {
+      "scripture": "uddamareshvara tantra_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 1
+    },
+    {
+      "scripture": "uddamareshvara tantra_gretil_prose.json",
+      "chapter": 8,
+      "high_count": 1
+    },
+    {
+      "scripture": "uddamareshvara tantra_gretil_prose.json",
+      "chapter": 5,
+      "high_count": 1
+    },
+    {
+      "scripture": "uddamareshvara tantra_gretil_prose.json",
+      "chapter": 10,
+      "high_count": 3
+    },
+    {
+      "scripture": "uddamareshvara tantra_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 14
+    },
+    {
+      "scripture": "uddamareshvara tantra_gretil_prose.json",
+      "chapter": 9,
+      "high_count": 4
+    },
+    {
+      "scripture": "uddamareshvara tantra_gretil_prose.json",
+      "chapter": 14,
+      "high_count": 2
+    },
+    {
+      "scripture": "vamana_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 66
+    },
+    {
+      "scripture": "vamana_puran_saromahatmya_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 25
+    },
+    {
+      "scripture": "vasistha_dharmasutra_gretil_prose.json",
+      "chapter": 2,
+      "high_count": 1
+    },
+    {
+      "scripture": "vishnu_puran_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 131
+    },
+    {
+      "scripture": "yoga_sutra_bhasya_gretil_prose.json",
+      "chapter": 0,
+      "high_count": 1
+    }
+  ]
+}
