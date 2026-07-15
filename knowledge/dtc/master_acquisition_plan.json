@@ -1,0 +1,76 @@
+{
+  "title": "Hindu Scripture Corpus Acquisition Plan",
+  "generated": "2026-07-15",
+  "corpus_on_disk": 107,
+  "missing_count": 27,
+  "priority_order": [
+    "Vedas",
+    "Major_Upanishads",
+    "Itihasas",
+    "Major_Puranas",
+    "Smritis",
+    "Sutras",
+    "Agamas",
+    "Philosophy",
+    "Stotras"
+  ],
+  "missing": {
+    "Vedas": [
+      "yajurveda_krishna",
+      "yajurveda_shukla"
+    ],
+    "Major_Upanishads": [
+      "chandogya_upanishad",
+      "brihadaranyaka_upanishad",
+      "kena_upanishad",
+      "katha_upanishad",
+      "prashna_upanishad",
+      "mundaka_upanishad",
+      "mandukya_upanishad",
+      "maitri_upanishad",
+      "kaushitaki_upanishad",
+      "mahanarayana_upanishad"
+    ],
+    "Itihasas": [
+      "mahabharata"
+    ],
+    "Major_Puranas": [
+      "bhagavata_puran",
+      "devi_bhagavata_puran"
+    ],
+    "Smritis": [
+      "parashara_smriti",
+      "vyasa_smriti",
+      "agni_puran_smriti_section"
+    ],
+    "Sutras": [
+      "sankhayana_grihya_sutra"
+    ],
+    "Agamas": [
+      "kirana_tantra",
+      "kubjikamata_tantra",
+      "malinivijayottara_tantra",
+      "todala_tantra",
+      "uddamareshvara_tantra",
+      "vinaashikha_tantra"
+    ],
+    "Philosophy": [
+      "vedanta_sutras"
+    ],
+    "Stotras": [
+      "shiva_mahimna_stava"
+    ]
+  },
+  "sources": [
+    "GRETIL (primary)",
+    "Archive.org",
+    "SARIT",
+    "Muktabodha",
+    "SanskritDocuments",
+    "BORI",
+    "Anandashram",
+    "Chowkhamba",
+    "Gita Press"
+  ],
+  "method": "Search each source by scripture name + alternate spellings + editor. Download native Unicode or TEI XML first; OCR last. Collapse derivatives. Build witness families."
+}

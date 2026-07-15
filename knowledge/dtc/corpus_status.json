@@ -1,0 +1,201 @@
+{
+  "generated": "2026-07-15",
+  "summary": {
+    "gretil_iast_clean": 95,
+    "cuv_certified": 88,
+    "total_tracked_files": 5205,
+    "github_commits_this_session": 6,
+    "gretil_accessible": false,
+    "archive_org_accessible": true
+  },
+  "corpus_on_disk": {
+    "Vedas": {
+      "rigveda": {
+        "status": "VERIFIED (2 independent bases, 0 lexical variants)",
+        "witnesses": [
+          "Aufrecht GRETIL TEI",
+          "Lubotsky VedaWeb",
+          "Padapatha GRETIL"
+        ]
+      },
+      "samaveda": {
+        "status": "GRETIL IAST available (reference/sample only)",
+        "witnesses": [
+          "GRETIL kauthuma sakha"
+        ]
+      },
+      "yajurveda_krishna": {
+        "status": "MISSING - GRETIL blocked, OCR garbled",
+        "witnesses": []
+      },
+      "yajurveda_shukla": {
+        "status": "MISSING - GRETIL blocked, OCR garbled",
+        "witnesses": []
+      },
+      "atharvaveda": {
+        "status": "GRETIL Parisishta available",
+        "witnesses": [
+          "GRETIL Parisishta",
+          "Archive.org OCR (partial)"
+        ]
+      }
+    },
+    "Upanishads": {
+      "on_disk_gretil": [
+        "aitareya",
+        "atharvashiras",
+        "isha",
+        "nadabindi",
+        "shira",
+        "shiva",
+        "shivasankalpa",
+        "shvetashvatara",
+        "taittiriya_bhashya"
+      ],
+      "on_disk_ocr": [
+        "chandogya (Giri, partial)",
+        "mandukya (garbled)",
+        "kena (garbled)",
+        "katha (garbled)",
+        "brihadaranyaka (garbled)",
+        "mundaka (garbled)",
+        "prashna (missing)"
+      ],
+      "missing": [
+        "kena_clean",
+        "katha_clean",
+        "prashna_clean",
+        "mundaka_clean",
+        "mandukya_clean",
+        "brihadaranyaka_clean",
+        "chandogya_clean",
+        "maitri",
+        "mahanarayana",
+        "kaushitaki"
+      ]
+    },
+    "Itihasas": {
+      "ramayana": {
+        "status": "GRETIL available"
+      },
+      "mahabharata": {
+        "status": "English translation on disk; Sanskrit TEXT MISSING (GRETIL blocked)"
+      },
+      "harivamsa": {
+        "status": "GRETIL available"
+      }
+    },
+    "Puranas": {
+      "on_disk": [
+        "agni",
+        "brahma",
+        "bhagavata",
+        "garuda",
+        "kurma",
+        "linga",
+        "markandeya",
+        "matsya",
+        "narada",
+        "narasimha",
+        "shiva",
+        "skanda_revakhanda",
+        "svayambhu",
+        "vamana",
+        "vishnu"
+      ],
+      "missing": [
+        "devi_bhagavata",
+        "brahmanda",
+        "vayu",
+        "kalika"
+      ]
+    },
+    "Smritis": {
+      "on_disk": [
+        "manusmriti",
+        "yajnavalkya_smriti",
+        "vishnu_smriti",
+        "narada_smriti",
+        "angiras_smriti",
+        "brihaspati_smriti",
+        "katyayana_smriti",
+        "yama_smriti"
+      ],
+      "missing": [
+        "parashara_smriti",
+        "vyasa_smriti"
+      ]
+    },
+    "Sutras": {
+      "on_disk": [
+        "apastamba_dharmasutra",
+        "baudhayana_dharmasutra",
+        "gautama_dharmasutra",
+        "ashvalayana_grihya_sutra",
+        "manava_grihya_sutra",
+        "ashvalayana_shrauta_sutra",
+        "shankhayana_shrauta_sutra",
+        "pancavimsha_brahmana",
+        "gopatha_brahmana",
+        "kositaki_brahmana"
+      ],
+      "missing": [
+        "sankhayana_grihya_sutra",
+        "vaikhanasa_grihya_sutra",
+        "vedanta_sutras"
+      ]
+    },
+    "Agamas_Tantras": {
+      "on_disk": [
+        "devi_kalottara",
+        "kirana",
+        "kubjikamata",
+        "malinivijayottara",
+        "mrigendra",
+        "satvata",
+        "svacchandatantra",
+        "todala",
+        "uddamareshvara",
+        "vinaashikha",
+        "vijJAnabhairava"
+      ],
+      "missing": []
+    },
+    "Philosophy": {
+      "on_disk": [
+        "yoga_sutra",
+        "yoga_sutra_bhasya",
+        "hatha_yoga_pradipika",
+        "nirukta"
+      ],
+      "missing": [
+        "vedanta_sutras",
+        "nyaya_sutras",
+        "vaisheshika_sutras"
+      ]
+    },
+    "Stotras": {
+      "on_disk": [
+        "shiva_mahimna_stava",
+        "ganapati_stotra",
+        "vijnana_bhairava",
+        "vamana_puran_saromahatmya"
+      ],
+      "missing": []
+    }
+  },
+  "acquisition_blockers": [
+    "GRETIL completely inaccessible (404 on all URLs including files known to exist)",
+    "Archive.org Sanskrit OCR editions are garbled beyond recovery for most texts",
+    "BORI/Muktabodha/SARIT require institutional access or different API",
+    "Clean Max Muller RV edition OCR is garbled"
+  ],
+  "next_actions": [
+    "Process 95 existing GRETIL IAST texts through the DTC pipeline",
+    "Retry GRETIL when accessible (might be temporary)",
+    "Search Archive.org for Mahabharata Sanskrit critical edition",
+    "Search Archive.org for Brihadaranyaka/Chandogya standalone editions",
+    "Build witness census for all 95 available GRETIL texts",
+    "Extend Rigveda/Gita verification to remaining Vedic texts"
+  ]
+}
