@@ -1,0 +1,25 @@
+{
+  "scripture": "Harivaṃśa constituted text with star passages",
+  "xml_file": "harivamsa_gretil.xml",
+  "aku_file": "harivamsa_app1_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "harivamsa_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_harivamsa_bori_ia_ia",
+      "name": "harivamsa_bori_ia_ia_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_harivamsa_nag_publis",
+      "name": "harivamsa_nag_publishers_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

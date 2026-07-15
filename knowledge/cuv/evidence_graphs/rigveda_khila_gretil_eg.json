@@ -1,0 +1,15 @@
+{
+  "scripture": "Ṛgvedakhilāni",
+  "xml_file": "rigveda_khila_gretil.xml",
+  "aku_file": "rigveda_khila_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "rigveda_khila_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

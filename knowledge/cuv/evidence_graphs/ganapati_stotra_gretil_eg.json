@@ -1,0 +1,15 @@
+{
+  "scripture": "Mahāgaṇapatistotra with a commentary “by his disciple”",
+  "xml_file": "ganapati_stotra_gretil.xml",
+  "aku_file": "ganapati_stotra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "ganapati_stotra_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

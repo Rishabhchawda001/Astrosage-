@@ -1,0 +1,25 @@
+{
+  "scripture": "Sātvatatantra",
+  "xml_file": "satvatatantra_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "satvatatantra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_satvata_tantra_dli_d",
+      "name": "satvata_tantra_dli_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_satvata_tantra_ia_dj",
+      "name": "satvata_tantra_ia_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

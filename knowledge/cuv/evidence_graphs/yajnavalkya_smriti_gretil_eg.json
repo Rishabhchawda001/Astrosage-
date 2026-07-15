@@ -1,0 +1,25 @@
+{
+  "scripture": "Yājñavalkyasmṛti",
+  "xml_file": "yajnavalkya_smriti_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "yajnavalkya_smriti_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_yajnavalkya_smriti_b",
+      "name": "yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_yajnavalkya_smriti_m",
+      "name": "yajnavalkya_smriti_mitakshara_ia_ia_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

@@ -1,0 +1,20 @@
+{
+  "scripture": "Vaikhānasadharmasūtra",
+  "xml_file": "vaikhanasa_dharmasutra_gretil.xml",
+  "aku_file": "vaikhanasa_dharmasutra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "vaikhanasa_dharmasutra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_vaikhanasa_dharmasut",
+      "name": "vaikhanasa_dharmasutra_2010_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 2,
+  "critical_edition": 0,
+  "manuscript": 0
+}

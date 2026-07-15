@@ -1,0 +1,15 @@
+{
+  "scripture": "Ṛgvedasaṃhitā, Padapāṭha",
+  "xml_file": "rigveda_padapatha_gretil.xml",
+  "aku_file": "rigveda_padapatha_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "rigveda_padapatha_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

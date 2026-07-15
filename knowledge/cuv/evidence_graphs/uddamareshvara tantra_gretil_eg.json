@@ -1,0 +1,25 @@
+{
+  "scripture": "Uḍḍāmareśvaratantra",
+  "xml_file": "uddamareshvara tantra_gretil.xml",
+  "aku_file": "uddamareshvara tantra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "uddamareshvara tantra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_uddamareshvara_tantr",
+      "name": "uddamareshvara_tantra_ksts_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_uddamareshvara_tantr",
+      "name": "uddamareshvara_tantra_zadoo_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

@@ -1,0 +1,30 @@
+{
+  "scripture": "Mārkaṇḍeyapurāṇa, 1-93",
+  "xml_file": "markandeya_puran_gretil.xml",
+  "aku_file": "markandeya_puran_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "markandeya_puran_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_markandeya_puran_hin",
+      "name": "markandeya_puran_hindi_translation.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_markandeya_puran_san",
+      "name": "markandeya_puran_sanskrit.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_markandeya_purana_hi",
+      "name": "markandeya_purana_hindi_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 4,
+  "critical_edition": 0,
+  "manuscript": 0
+}

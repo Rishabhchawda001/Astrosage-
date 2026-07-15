@@ -1,0 +1,15 @@
+{
+  "scripture": "Liṅgapurāṇa, 1-108",
+  "xml_file": "linga_puran_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "linga_puran_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

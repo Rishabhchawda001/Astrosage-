@@ -1,0 +1,15 @@
+{
+  "scripture": "Gauragaovindārcanasmaraṇapaddhati",
+  "xml_file": "sa_dhyAnacandragosvAmin-gauragaovindArcanasmaraNapaddhati.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_dhyAnacandragosvAmin-gauragaovindArcanasmaraNapaddhati.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

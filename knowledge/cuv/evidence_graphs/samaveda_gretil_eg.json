@@ -1,0 +1,25 @@
+{
+  "scripture": "Sāmavedasaṃhitā",
+  "xml_file": "samaveda_gretil.xml",
+  "aku_file": "samaveda_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "samaveda_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_samaveda_jayadev.txt",
+      "name": "samaveda_jayadev.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_samaveda_samhita.txt",
+      "name": "samaveda_samhita.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

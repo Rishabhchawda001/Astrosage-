@@ -1,0 +1,15 @@
+{
+  "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+  "xml_file": "bhagavad_gita_shankara_gretil.xml",
+  "aku_file": "bhagavad_gita_4comm_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "bhagavad_gita_shankara_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

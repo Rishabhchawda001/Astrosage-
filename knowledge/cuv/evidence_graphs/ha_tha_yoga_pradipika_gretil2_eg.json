@@ -1,0 +1,15 @@
+{
+  "scripture": "Haṭhayogapradīpikā",
+  "xml_file": "ha_tha_yoga_pradipika_gretil2.xml",
+  "aku_file": "ha_tha_yoga_pradipika_gretil2_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "ha_tha_yoga_pradipika_gretil2.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

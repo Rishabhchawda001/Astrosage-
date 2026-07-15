@@ -1,0 +1,15 @@
+{
+  "scripture": "Kramastotra",
+  "xml_file": "abhinavagupta_krama_stotra_gretil.xml",
+  "aku_file": "abhinavagupta_bhairava_stava_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "abhinavagupta_krama_stotra_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

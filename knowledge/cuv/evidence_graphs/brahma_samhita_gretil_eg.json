@@ -1,0 +1,15 @@
+{
+  "scripture": "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+  "xml_file": "brahma_samhita_gretil.xml",
+  "aku_file": "brahma_samhita_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "brahma_samhita_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

@@ -1,0 +1,45 @@
+{
+  "scripture": "Rāmāyaṇa",
+  "xml_file": "ramayana_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "ramayana_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_kalyan_ramayan_ank.t",
+      "name": "kalyan_ramayan_ank.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_ramayana_baroda_crit",
+      "name": "ramayana_baroda_critical_vol1.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_ramayana_critical_20",
+      "name": "ramayana_critical_2022.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_ramayana_part2_gita_",
+      "name": "ramayana_part2_gita_press.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_ramayana_sanskrit_dp",
+      "name": "ramayana_sanskrit_dpsharma.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_ramayanamahabhar0000",
+      "name": "ramayanamahabhar0000valm.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 7,
+  "critical_edition": 0,
+  "manuscript": 0
+}

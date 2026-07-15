@@ -1,0 +1,15 @@
+{
+  "scripture": "Brahmasūtra text extracted from Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+  "xml_file": "sa_bAdarAyaNa-brahmasUtra-alt.xml",
+  "aku_file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_bAdarAyaNa-brahmasUtra-alt.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

@@ -1,0 +1,20 @@
+{
+  "scripture": "Mālinīvijayottaratantra",
+  "xml_file": "malinivijayottara tantra_gretil.xml",
+  "aku_file": "malinivijayottara tantra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "malinivijayottara tantra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_malinivijayottara_ta",
+      "name": "malinivijayottara_tantra_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 2,
+  "critical_edition": 0,
+  "manuscript": 0
+}

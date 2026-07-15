@@ -1,0 +1,25 @@
+{
+  "scripture": "Āśvalāyanagṛhyasūtra",
+  "xml_file": "ashvalayana_grihya_sutra_gretil.xml",
+  "aku_file": "ashvalayana_grihya_sutra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "ashvalayana_grihya_sutra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_ashvalayana_grihya_s",
+      "name": "ashvalayana_grihya_sutra_1869_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_ashvalayana_shrauta_",
+      "name": "ashvalayana_shrauta_sutra_1934_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

@@ -1,0 +1,15 @@
+{
+  "scripture": "Brāhmasphuṭasiddhānta",
+  "xml_file": "sa_brahmagupta-brAhmasphuTasiddhAnta.xml",
+  "aku_file": "sa_brahmagupta-brAhmasphuTasiddhAnta_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_brahmagupta-brAhmasphuTasiddhAnta.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

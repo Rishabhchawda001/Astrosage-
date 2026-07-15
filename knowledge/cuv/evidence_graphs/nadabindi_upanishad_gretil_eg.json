@@ -1,0 +1,15 @@
+{
+  "scripture": "Nādabindūpaniṣad",
+  "xml_file": "nadabindi_upanishad_gretil.xml",
+  "aku_file": "nadabindi_upanishad_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "nadabindi_upanishad_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

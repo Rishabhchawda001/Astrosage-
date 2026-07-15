@@ -1,0 +1,15 @@
+{
+  "scripture": "Matsyapurāṇa, 1-176",
+  "xml_file": "sa_matsyapurANa1-176.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_matsyapurANa1-176.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

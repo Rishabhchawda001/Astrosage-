@@ -1,0 +1,15 @@
+{
+  "scripture": "Mārkaṇḍeyapurāṇa, 1-93",
+  "xml_file": "sa_mArkaNDeyapurANa1-93.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_mArkaNDeyapurANa1-93.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

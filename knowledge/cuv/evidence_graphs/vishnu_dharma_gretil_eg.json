@@ -1,0 +1,15 @@
+{
+  "scripture": "Viṣṇudharma",
+  "xml_file": "vishnu_dharma_gretil.xml",
+  "aku_file": "vishnu_dharma_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "vishnu_dharma_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

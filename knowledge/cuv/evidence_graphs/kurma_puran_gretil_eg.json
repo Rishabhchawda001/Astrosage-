@@ -1,0 +1,15 @@
+{
+  "scripture": "Kūrmapurāṇa",
+  "xml_file": "kurma_puran_gretil.xml",
+  "aku_file": "kurma_puran_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "kurma_puran_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

@@ -1,0 +1,20 @@
+{
+  "scripture": "Baudhāyanadharmasūtra",
+  "xml_file": "baudhayana_dharmasutra_gretil.xml",
+  "aku_file": "baudhayana_dharmasutra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "baudhayana_dharmasutra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_baudhayana_dharmasut",
+      "name": "baudhayana_dharmasutra_dli_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 2,
+  "critical_edition": 0,
+  "manuscript": 0
+}

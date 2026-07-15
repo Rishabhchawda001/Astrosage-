@@ -1,0 +1,15 @@
+{
+  "scripture": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+  "xml_file": "skanda_puran_revakhanda_gretil.xml",
+  "aku_file": "skanda_puran_revakhanda_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "skanda_puran_revakhanda_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

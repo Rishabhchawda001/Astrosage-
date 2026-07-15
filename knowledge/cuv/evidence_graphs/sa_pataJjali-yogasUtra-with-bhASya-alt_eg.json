@@ -1,0 +1,15 @@
+{
+  "scripture": "Yogasūtra with Bhāṣya",
+  "xml_file": "sa_pataJjali-yogasUtra-with-bhASya-alt.xml",
+  "aku_file": "sa_pataJjali-yogasUtra-alt_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_pataJjali-yogasUtra-with-bhASya-alt.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

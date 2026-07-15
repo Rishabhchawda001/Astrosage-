@@ -1,0 +1,15 @@
+{
+  "scripture": "Stotraratna",
+  "xml_file": "yamuna stotraratna_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "yamuna stotraratna_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

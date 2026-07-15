@@ -1,0 +1,40 @@
+{
+  "scripture": "Atharvavedapariśiṣṭas",
+  "xml_file": "atharvaveda_parisista_gretil.xml",
+  "aku_file": "atharvaveda_parisista_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "atharvaveda_parisista_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_atharvaveda_jayadev_",
+      "name": "atharvaveda_jayadev_part1.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_atharvaveda_samhita_",
+      "name": "atharvaveda_samhita_sanskrit.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_atharvaveda_samhita_",
+      "name": "atharvaveda_samhita_sayana_ia.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_atharvaveda_vol1_say",
+      "name": "atharvaveda_vol1_sayana.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_gopatha_brahmana_ath",
+      "name": "gopatha_brahmana_atharvaveda_dli_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 6,
+  "critical_edition": 0,
+  "manuscript": 0
+}

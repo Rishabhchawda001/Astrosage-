@@ -1,0 +1,25 @@
+{
+  "scripture": "Bṛhaspatismṛti (vyavahārakaṇḍa)",
+  "xml_file": "brihaspati_smriti_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "brihaspati_smriti_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_brihaspati_smriti_19",
+      "name": "brihaspati_smriti_1941_ia_ia_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_brihaspatisutrao00br",
+      "name": "brihaspatisutrao00brharich.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

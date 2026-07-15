@@ -1,0 +1,15 @@
+{
+  "scripture": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+  "xml_file": "bhagavad_gita_4comm_gretil.xml",
+  "aku_file": "bhagavad_gita_4comm_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "bhagavad_gita_4comm_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

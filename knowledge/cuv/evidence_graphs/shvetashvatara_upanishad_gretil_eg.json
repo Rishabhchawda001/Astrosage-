@@ -1,0 +1,35 @@
+{
+  "scripture": "Śvetāśvataropaniṣad",
+  "xml_file": "shvetashvatara_upanishad_gretil.xml",
+  "aku_file": "shvetashvatara_upanishad_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "shvetashvatara_upanishad_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_mandukya_taittiriya_",
+      "name": "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_shvetashvatara_raman",
+      "name": "shvetashvatara_ramanuja_kannada_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_shvetashvatara_taila",
+      "name": "shvetashvatara_tailang_2001_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_shvetashvatara_upani",
+      "name": "shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 5,
+  "critical_edition": 0,
+  "manuscript": 0
+}

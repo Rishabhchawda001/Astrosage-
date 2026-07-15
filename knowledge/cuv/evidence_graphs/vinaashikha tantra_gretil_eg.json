@@ -1,0 +1,15 @@
+{
+  "scripture": "Vīṇāśikhatantra",
+  "xml_file": "vinaashikha tantra_gretil.xml",
+  "aku_file": "vinaashikha tantra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "vinaashikha tantra_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

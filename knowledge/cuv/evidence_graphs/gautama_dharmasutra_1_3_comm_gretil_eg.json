@@ -1,0 +1,15 @@
+{
+  "scripture": "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+  "xml_file": "gautama_dharmasutra_1_3_comm_gretil.xml",
+  "aku_file": "gautama_dharmasutra_1_3_comm_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "gautama_dharmasutra_1_3_comm_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

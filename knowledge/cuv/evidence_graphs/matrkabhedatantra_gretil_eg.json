@@ -1,0 +1,15 @@
+{
+  "scripture": "Mātṛkābhedatantra",
+  "xml_file": "matrkabhedatantra_gretil.xml",
+  "aku_file": "matrkabhedatantra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "matrkabhedatantra_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

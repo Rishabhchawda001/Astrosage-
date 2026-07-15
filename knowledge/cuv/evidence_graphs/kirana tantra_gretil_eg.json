@@ -1,0 +1,15 @@
+{
+  "scripture": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+  "xml_file": "kirana tantra_gretil.xml",
+  "aku_file": "kirana tantra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "kirana tantra_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

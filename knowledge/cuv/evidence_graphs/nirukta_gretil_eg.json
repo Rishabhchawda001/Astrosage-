@@ -1,0 +1,30 @@
+{
+  "scripture": "Nirukta",
+  "xml_file": "nirukta_gretil.xml",
+  "aku_file": "nirukta_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "nirukta_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_nirukta_khemraj_1916",
+      "name": "nirukta_khemraj_1916_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_nirukta_satyavrata_1",
+      "name": "nirukta_satyavrata_1912_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_nirukta_skandasvamin",
+      "name": "nirukta_skandasvamin_mahesvara_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 4,
+  "critical_edition": 0,
+  "manuscript": 0
+}

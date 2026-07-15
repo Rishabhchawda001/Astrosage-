@@ -1,0 +1,30 @@
+{
+  "scripture": "Manusmṛti",
+  "xml_file": "manusmriti_gretil.xml",
+  "aku_file": "manusmriti_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "manusmriti_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_manusmriti_6_comment",
+      "name": "manusmriti_6_commentaries_ia_ia_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_manusmriti_critical_",
+      "name": "manusmriti_critical_ia_ia.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_manusmriti_kulluka_i",
+      "name": "manusmriti_kulluka_ia_ia_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 4,
+  "critical_edition": 0,
+  "manuscript": 0
+}

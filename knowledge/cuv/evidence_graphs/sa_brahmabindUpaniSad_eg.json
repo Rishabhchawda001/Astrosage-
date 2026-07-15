@@ -1,0 +1,15 @@
+{
+  "scripture": "Brahmabindūpaniṣad",
+  "xml_file": "sa_brahmabindUpaniSad.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_brahmabindUpaniSad.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

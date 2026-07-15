@@ -1,0 +1,15 @@
+{
+  "scripture": "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+  "xml_file": "kositaki_brahmana_gretil.xml",
+  "aku_file": "kositaki_brahmana_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "kositaki_brahmana_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

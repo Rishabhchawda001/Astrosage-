@@ -1,0 +1,25 @@
+{
+  "scripture": "Śāṅkhāyanaśrautasūtra",
+  "xml_file": "shankhayana_shrauta_sutra_gretil.xml",
+  "aku_file": "shankhayana_shrauta_sutra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "shankhayana_shrauta_sutra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_shankhayana_shrauta_",
+      "name": "shankhayana_shrauta_sutra_uvvata_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_shankhayana_shrauta_",
+      "name": "shankhayana_shrauta_sutra_vol32_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

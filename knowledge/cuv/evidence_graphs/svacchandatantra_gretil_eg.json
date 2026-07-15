@@ -1,0 +1,20 @@
+{
+  "scripture": "Svacchandatantra [or Svacchandabhairavatantra]",
+  "xml_file": "svacchandatantra_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "svacchandatantra_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_svacchandatantra_kse",
+      "name": "svacchandatantra_ksemaraja_ia_ia_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 2,
+  "critical_edition": 0,
+  "manuscript": 0
+}

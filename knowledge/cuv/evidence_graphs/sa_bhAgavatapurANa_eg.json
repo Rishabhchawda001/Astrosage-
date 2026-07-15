@@ -1,0 +1,15 @@
+{
+  "scripture": "Bhāgavatapurāṇa",
+  "xml_file": "sa_bhAgavatapurANa.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "sa_bhAgavatapurANa.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

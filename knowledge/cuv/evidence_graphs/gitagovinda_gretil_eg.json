@@ -1,0 +1,20 @@
+{
+  "scripture": "Gītagovinda",
+  "xml_file": "gitagovinda_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "gitagovinda_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_gitagovinda_vanamali",
+      "name": "gitagovinda_vanamali_ia_ia_djvu.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 2,
+  "critical_edition": 0,
+  "manuscript": 0
+}

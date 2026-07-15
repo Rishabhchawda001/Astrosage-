@@ -1,0 +1,25 @@
+{
+  "scripture": "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+  "xml_file": "taittiriya_upanishad_bhashya_gretil.xml",
+  "aku_file": "taittiriya_upanishad_bhashya_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "taittiriya_upanishad_bhashya_gretil.xml",
+      "authority": 90
+    },
+    {
+      "id": "txt_mandukya_taittiriya_",
+      "name": "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+      "authority": 60
+    },
+    {
+      "id": "txt_taittiriya_upanishad",
+      "name": "taittiriya_upanishad_ia.txt",
+      "authority": 60
+    }
+  ],
+  "total_witnesses": 3,
+  "critical_edition": 0,
+  "manuscript": 0
+}

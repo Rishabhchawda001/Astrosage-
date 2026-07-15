@@ -1,0 +1,15 @@
+{
+  "scripture": "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+  "xml_file": "apastamba_grihya_sutra_gretil.xml",
+  "aku_file": "apastamba_grihya_sutra_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "apastamba_grihya_sutra_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

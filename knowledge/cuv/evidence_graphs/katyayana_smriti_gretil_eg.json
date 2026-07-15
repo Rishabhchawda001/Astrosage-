@@ -1,0 +1,15 @@
+{
+  "scripture": "Kātyāyanasmṛti",
+  "xml_file": "katyayana_smriti_gretil.xml",
+  "aku_file": null,
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "katyayana_smriti_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}

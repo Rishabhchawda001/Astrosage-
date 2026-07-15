@@ -1,0 +1,15 @@
+{
+  "scripture": "Viṣṇusmṛti",
+  "xml_file": "vishnu_smriti_gretil.xml",
+  "aku_file": "vishnu_smriti_gretil_prose.json",
+  "witnesses": [
+    {
+      "id": "gretil_xml",
+      "name": "vishnu_smriti_gretil.xml",
+      "authority": 90
+    }
+  ],
+  "total_witnesses": 1,
+  "critical_edition": 0,
+  "manuscript": 0
+}
