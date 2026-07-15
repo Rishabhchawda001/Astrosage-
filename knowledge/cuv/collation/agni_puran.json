@@ -1,0 +1,87 @@
+{
+  "witness_count": 5,
+  "witnesses": [
+    {
+      "filename": "agni_puran_gita_press.txt",
+      "publisher": "gita_press",
+      "script": "devanagari",
+      "char_count": 2621983,
+      "verse_count": 30100,
+      "fingerprint": -4613726081409308618
+    },
+    {
+      "filename": "agni_puran_chowkhamba.txt",
+      "publisher": "chowkhamba",
+      "script": "devanagari",
+      "char_count": 3007359,
+      "verse_count": 42756,
+      "fingerprint": 8239693338998125705
+    },
+    {
+      "filename": "agni_puran_anand_ashram.txt",
+      "publisher": "anandashram",
+      "script": "devanagari",
+      "char_count": 1374591,
+      "verse_count": 27621,
+      "fingerprint": 5144915447243298568
+    },
+    {
+      "filename": "agni_puran_gitapress_old.txt",
+      "publisher": "gita_press",
+      "script": "devanagari",
+      "char_count": 2670332,
+      "verse_count": 30423,
+      "fingerprint": 1282988282177671102
+    },
+    {
+      "filename": "agni_puran_gita_press_new.txt",
+      "publisher": "gita_press",
+      "script": "roman",
+      "char_count": 1850757,
+      "verse_count": 391,
+      "fingerprint": 5217768570288533419
+    }
+  ],
+  "agreement_matrix": {
+    "gita_press:chowkhamba": {
+      "agreements": 0,
+      "total": 30100,
+      "rate": 0.0
+    },
+    "gita_press:anandashram": {
+      "agreements": 0,
+      "total": 27621,
+      "rate": 0.0
+    },
+    "gita_press:gita_press": {
+      "agreements": 0,
+      "total": 391,
+      "rate": 0.0
+    },
+    "chowkhamba:anandashram": {
+      "agreements": 0,
+      "total": 27621,
+      "rate": 0.0
+    },
+    "chowkhamba:gita_press": {
+      "agreements": 0,
+      "total": 391,
+      "rate": 0.0
+    },
+    "anandashram:gita_press": {
+      "agreements": 0,
+      "total": 391,
+      "rate": 0.0
+    }
+  },
+  "collation": {
+    "total_aligned": 30423,
+    "verse_counts": [
+      30100,
+      42756,
+      27621,
+      30423,
+      391
+    ]
+  }
+}
