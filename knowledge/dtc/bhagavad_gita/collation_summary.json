@@ -1,0 +1,25 @@
+{
+  "scripture": "Bhagavadgita",
+  "total_canonical_verses": 691,
+  "expected": 700,
+  "completeness": 98.7,
+  "missing_verses": [
+    "BG_11.027",
+    "BG_11.036",
+    "BG_11.040",
+    "BG_11.050",
+    "BG_18.011",
+    "BG_18.013",
+    "BG_18.037",
+    "BG_18.052",
+    "BG_18.053",
+    "BG_18.068"
+  ],
+  "multi_witness_verses": 542,
+  "single_witness_verses": 152,
+  "sources": [
+    "GRETIL 4-commentary edition",
+    "GRETIL Shankara edition"
+  ],
+  "collation_status": "complete"
+}
