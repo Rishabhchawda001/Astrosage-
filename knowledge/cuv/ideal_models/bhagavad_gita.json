@@ -1,0 +1,122 @@
+{
+  "scripture": "Bhagavad Gita",
+  "ideal_witnesses": [
+    {
+      "category": "Critical Edition",
+      "witnesses": [
+        {
+          "name": "BORI Critical Edition",
+          "publisher": "BORI",
+          "status": "missing",
+          "priority": 1
+        },
+        {
+          "name": "Edgerton Critical Edition",
+          "publisher": "Harvard",
+          "status": "missing",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "category": "Scholarly Digital",
+      "witnesses": [
+        {
+          "name": "GRETIL 4-commentary",
+          "status": "acquired",
+          "priority": 3
+        },
+        {
+          "name": "GRETIL Shankara",
+          "status": "acquired",
+          "priority": 4
+        }
+      ]
+    },
+    {
+      "category": "Publisher Editions",
+      "witnesses": [
+        {
+          "name": "Gita Press",
+          "status": "acquired_ocr",
+          "priority": 5
+        },
+        {
+          "name": "Chowkhamba",
+          "status": "missing",
+          "priority": 6
+        },
+        {
+          "name": "Motilal",
+          "status": "missing",
+          "priority": 7
+        },
+        {
+          "name": "Nirnaya Sagar",
+          "status": "missing",
+          "priority": 8
+        }
+      ]
+    },
+    {
+      "category": "Commentaries",
+      "witnesses": [
+        {
+          "name": "Shankara",
+          "status": "acquired_xml"
+        },
+        {
+          "name": "Ramanuja",
+          "status": "acquired_xml"
+        },
+        {
+          "name": "Madhva",
+          "status": "acquired_xml"
+        },
+        {
+          "name": "Bhaskara",
+          "status": "acquired_xml"
+        },
+        {
+          "name": "Shridhara",
+          "status": "missing"
+        },
+        {
+          "name": "Madhusudana",
+          "status": "missing"
+        },
+        {
+          "name": "Vishvanatha",
+          "status": "missing"
+        },
+        {
+          "name": "Baladeva",
+          "status": "missing"
+        }
+      ]
+    },
+    {
+      "category": "Manuscripts",
+      "witnesses": [
+        {
+          "name": "Kashmir",
+          "status": "missing"
+        },
+        {
+          "name": "South Indian",
+          "status": "missing"
+        },
+        {
+          "name": "Nepalese",
+          "status": "missing"
+        }
+      ]
+    }
+  ],
+  "gap_analysis": {
+    "total_ideal": 22,
+    "acquired": 6,
+    "missing": 16,
+    "coverage": 27.3
+  }
+}
