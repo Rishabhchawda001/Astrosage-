@@ -42,43 +42,15 @@
       {
         "file": "agni_puran_anand_ashram.txt",
         "source": "Anandashram",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3580187,
         "authority": "Medium"
       },
       {
         "file": "agni_puran_chowkhamba.txt",
         "source": "Chowkhamba",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 7612575,
-        "authority": "Medium"
-      },
-      {
-        "file": "agni_puran_english_motilal.txt",
-        "source": "Motilal Banarsidass",
-        "type": "Text File (OCR/Digital)",
-        "size": 2614972,
-        "authority": "Low"
-      },
-      {
-        "file": "agni_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 6679116,
-        "authority": "Medium"
-      },
-      {
-        "file": "agni_puran_gita_press_new.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 2893476,
-        "authority": "Medium"
-      },
-      {
-        "file": "agni_puran_gitapress_old.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 6799538,
         "authority": "Medium"
       },
       {
@@ -86,6 +58,34 @@
         "source": "Chowkhamba",
         "type": "Text File",
         "size": 7612575,
+        "authority": "Medium"
+      },
+      {
+        "file": "agni_puran_english_motilal.txt",
+        "source": "Motilal Banarsidass",
+        "type": "Text File",
+        "size": 2614972,
+        "authority": "Low"
+      },
+      {
+        "file": "agni_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 6679116,
+        "authority": "Medium"
+      },
+      {
+        "file": "agni_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 2893476,
+        "authority": "Medium"
+      },
+      {
+        "file": "agni_puran_gitapress_old.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 6799538,
         "authority": "Medium"
       },
       {
@@ -218,7 +218,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "siras upanishad": {
+  "śira-upaniṣad (": {
     "tei_xml": [
       {
         "file": "atharvashiras_upanishad_gretil_structure.json",
@@ -268,7 +268,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "bhagavad gita": {
+  "bhagavadgītā-": {
     "tei_xml": [
       {
         "file": "bhagavad_gita_4comm_gretil_structure.json",
@@ -277,7 +277,13 @@
         "chapters": 664,
         "verses": 1185,
         "authority": "High"
-      },
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "bhagavad gita": {
+    "tei_xml": [
       {
         "file": "bhagavad_gita_shankara_gretil_structure.json",
         "source": "GRETIL",
@@ -313,105 +319,105 @@
       {
         "file": "bhagavat_chaukhamba_gudhartha_vol1.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 5469581,
         "authority": "Low"
       },
       {
         "file": "bhagavat_chaukhamba_gudhartha_vol2.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 4649143,
         "authority": "Low"
       },
       {
         "file": "bhagavat_gita_press_sanskrit_hindi.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6801917,
         "authority": "Medium"
       },
       {
         "file": "bhagavat_gitapress_complete.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 13000671,
         "authority": "Medium"
       },
       {
         "file": "bhagavat_purana_hindi_full.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 9273505,
         "authority": "Low"
       },
       {
         "file": "bhagavat_searchable.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 2571249,
         "authority": "Low"
       },
       {
         "file": "bhagavat_vol1_gita_press.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6648787,
         "authority": "Medium"
       },
       {
         "file": "bhagavat_vol2_sanskrit_hindi.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6559049,
         "authority": "Low"
       },
       {
         "file": "bhagwat_puran_part1_khemraj.txt",
         "source": "Khemraj",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6612594,
         "authority": "Low"
       },
       {
         "file": "bhagwat_puran_part2_khemraj.txt",
         "source": "Khemraj",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6558545,
         "authority": "Low"
       },
       {
         "file": "devi_bhagwat_gita_press.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 12085032,
         "authority": "Medium"
       },
       {
         "file": "devi_bhagwat_gitapress_2.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6241673,
         "authority": "Medium"
       },
       {
         "file": "devi_bhagwat_ia_ia.txt",
         "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6000980,
         "authority": "Low"
       },
       {
         "file": "devi_bhagwat_nilkanthi.txt",
         "source": "Nilkanthi",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6964978,
         "authority": "Low"
       },
       {
         "file": "devi_bhagwat_prasang_gita_press.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 132705,
         "authority": "Medium"
       },
@@ -454,44 +460,16 @@
       {
         "file": "brahma_puran_anandashram.txt",
         "source": "Anandashram",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 5068158,
         "authority": "Medium"
       },
       {
         "file": "brahma_puran_anandashram_series.txt",
         "source": "Anandashram",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 5068158,
         "authority": "Medium"
-      },
-      {
-        "file": "brahma_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 3034115,
-        "authority": "Medium"
-      },
-      {
-        "file": "brahma_puran_gita_press_new.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 1091484,
-        "authority": "Medium"
-      },
-      {
-        "file": "brahma_puran_part2.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 3955933,
-        "authority": "Low"
-      },
-      {
-        "file": "brahma_purana_part1_djvu.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 4079692,
-        "authority": "Low"
       },
       {
         "file": "brahma_puran_chowkhamba_ia_ia_djvu.txt",
@@ -499,11 +477,39 @@
         "type": "Text File",
         "size": 4081637,
         "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 3034115,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 1091484,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_part2.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 3955933,
+        "authority": "Low"
+      },
+      {
+        "file": "brahma_purana_part1_djvu.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 4079692,
+        "authority": "Low"
       }
     ],
     "metadata": {}
   },
-  "brahma samhita": {
+  "brahmasaṃhitā 5": {
     "tei_xml": [
       {
         "file": "brahma_samhita_gretil_structure.json",
@@ -528,10 +534,18 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "brihaspatisutrao00brharich.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 242583,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
-  "devi gita": {
+  "devīgītā (": {
     "tei_xml": [
       {
         "file": "devi_gita_gretil_structure.json",
@@ -588,56 +602,56 @@
       {
         "file": "garuda_puran.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 4593049,
         "authority": "Low"
       },
       {
         "file": "garuda_puran_1887.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 335048,
         "authority": "Low"
       },
       {
         "file": "garuda_puran_1990.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 2363082,
         "authority": "Low"
       },
       {
         "file": "garuda_puran_bhashya.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 780967,
         "authority": "Low"
       },
       {
         "file": "garuda_puran_gita_press.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 1625986,
         "authority": "Medium"
       },
       {
         "file": "garuda_puran_hindi.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 4423584,
         "authority": "Low"
       },
       {
         "file": "garuda_purana_djvu.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 2276851,
         "authority": "Low"
       }
     ],
     "metadata": {}
   },
-  "gautama dharmasutra": {
+  "dharmasūtra,": {
     "tei_xml": [
       {
         "file": "gautama_dharmasutra_1_3_comm_gretil_structure.json",
@@ -646,7 +660,13 @@
         "chapters": 3,
         "verses": 318,
         "authority": "High"
-      },
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "dharmasūtra": {
+    "tei_xml": [
       {
         "file": "gautama_dharmasutra_gretil_structure.json",
         "source": "GRETIL",
@@ -717,7 +737,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "harivamsha": {
+  "harivaṃśa,": {
     "tei_xml": [
       {
         "file": "harivamsa_app1_gretil_structure.json",
@@ -726,7 +746,13 @@
         "chapters": 1,
         "verses": 2092,
         "authority": "High"
-      },
+      }
+    ],
+    "text_files": [],
+    "metadata": {}
+  },
+  "harivamsha": {
+    "tei_xml": [
       {
         "file": "harivamsa_gretil_structure.json",
         "source": "GRETIL",
@@ -740,43 +766,8 @@
       {
         "file": "2015.325684.Shri-Harivansh_djvu.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 4260895,
-        "authority": "Low"
-      },
-      {
-        "file": "harivamsha_bori.txt",
-        "source": "BORI",
-        "type": "Text File (OCR/Digital)",
-        "size": 6010337,
-        "authority": "Medium"
-      },
-      {
-        "file": "harivamsha_sanskrit_supplement.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 10662516,
-        "authority": "Low"
-      },
-      {
-        "file": "harivansh_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 11009621,
-        "authority": "Medium"
-      },
-      {
-        "file": "harivansh_puran_gita_press_new.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 11009621,
-        "authority": "Medium"
-      },
-      {
-        "file": "harivansh_puran_original.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 11120180,
         "authority": "Low"
       },
       {
@@ -785,6 +776,41 @@
         "type": "Text File",
         "size": 6010337,
         "authority": "High"
+      },
+      {
+        "file": "harivamsha_bori.txt",
+        "source": "BORI",
+        "type": "Text File",
+        "size": 6010337,
+        "authority": "High"
+      },
+      {
+        "file": "harivamsha_sanskrit_supplement.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 10662516,
+        "authority": "Low"
+      },
+      {
+        "file": "harivansh_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 11009621,
+        "authority": "Medium"
+      },
+      {
+        "file": "harivansh_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 11009621,
+        "authority": "Medium"
+      },
+      {
+        "file": "harivansh_puran_original.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 11120180,
+        "authority": "Low"
       }
     ],
     "metadata": {}
@@ -831,7 +857,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "kirana tantra": {
+  "kiraṇatantra,": {
     "tei_xml": [
       {
         "file": "kirana tantra_gretil_structure.json",
@@ -888,28 +914,28 @@
       {
         "file": "kurma_puran.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3810922,
         "authority": "Low"
       },
       {
         "file": "kurma_puran_critical.txt",
         "source": "Critical Edition",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 7988004,
-        "authority": "Low"
+        "authority": "High"
       },
       {
         "file": "kurma_puran_dli.txt",
         "source": "Digital Library of India",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 1874439,
         "authority": "Low"
       },
       {
         "file": "kurma_puran_gita_press_new.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 1275301,
         "authority": "Medium"
       }
@@ -931,21 +957,21 @@
       {
         "file": "linga_puran.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 6337527,
         "authority": "Low"
       },
       {
         "file": "linga_puran_1890.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 2211437,
         "authority": "Low"
       },
       {
         "file": "linga_puran_commentary.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 4212691,
         "authority": "Low"
       }
@@ -1009,7 +1035,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "manava grihya sutra": {
+  "mānavagṛhyasūtra (": {
     "tei_xml": [
       {
         "file": "manava_grihya_sutra_gretil_structure.json",
@@ -1034,7 +1060,15 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "manusmriti_critical_ia_ia.txt",
+        "source": "Critical Edition",
+        "type": "Text File",
+        "size": 3094777,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "markandeya purana": {
@@ -1052,21 +1086,21 @@
       {
         "file": "markandeya_puran_hindi_translation.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3245277,
         "authority": "Low"
       },
       {
         "file": "markandeya_puran_sanskrit.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 1842581,
         "authority": "Low"
       },
       {
         "file": "markandeya_purana_hindi_djvu.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3245277,
         "authority": "Low"
       }
@@ -1102,28 +1136,28 @@
       {
         "file": "matsya_puran.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 8604999,
         "authority": "Low"
       },
       {
         "file": "matsya_puran_gitapress_hindi.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 8364305,
         "authority": "Medium"
       },
       {
         "file": "matsya_puran_joshi_ia_ia.txt",
-        "source": "Critical Edition",
+        "source": "Internet Archive",
         "type": "Text File",
         "size": 1623208,
-        "authority": "Medium"
+        "authority": "Low"
       }
     ],
     "metadata": {}
   },
-  "mrigendra agama": {
+  "mṛgendrāgama (": {
     "tei_xml": [
       {
         "file": "mrigendra_agama_gretil_structure.json",
@@ -1134,15 +1168,7 @@
         "authority": "High"
       }
     ],
-    "text_files": [
-      {
-        "file": "mrigendra_agama_vritti_ia_ia_djvu.txt",
-        "source": "Internet Archive",
-        "type": "Text File",
-        "size": 1019827,
-        "authority": "Low"
-      }
-    ],
+    "text_files": [],
     "metadata": {}
   },
   "nadabindi upanishad": {
@@ -1187,7 +1213,7 @@
     "text_files": [
       {
         "file": "narada_purana_brihad_ia_ia.txt",
-        "source": "Brihad Edition",
+        "source": "Internet Archive",
         "type": "Text File",
         "size": 6431252,
         "authority": "Low"
@@ -1259,7 +1285,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "bhagavad gita bhashya": {
+  "ramanuja gita bhashya": {
     "tei_xml": [
       {
         "file": "ramanuja_gita_bhashya_gretil_structure.json",
@@ -1302,35 +1328,35 @@
       {
         "file": "ramayana_baroda_critical_vol1.txt",
         "source": "Critical Edition",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3891378,
-        "authority": "Low"
+        "authority": "High"
       },
       {
         "file": "ramayana_critical_2022.txt",
         "source": "Critical Edition",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3318519,
-        "authority": "Low"
+        "authority": "High"
       },
       {
         "file": "ramayana_part2_gita_press.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 8072331,
         "authority": "Medium"
       },
       {
         "file": "ramayana_sanskrit_dpsharma.txt",
-        "source": "DP Sharma",
-        "type": "Text File (OCR/Digital)",
+        "source": "Krishna Das Academy",
+        "type": "Text File",
         "size": 1950960,
-        "authority": "Low"
+        "authority": "Medium"
       },
       {
         "file": "ramayanamahabhar0000valm.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 896806,
         "authority": "Low"
       }
@@ -1351,7 +1377,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "rigveda samhita": {
+  "rigveda": {
     "tei_xml": [
       {
         "file": "rigveda_aufrecht_gretil_structure.json",
@@ -1362,10 +1388,60 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "rigveda_bhashyam.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 379372,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_hindi.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 5781110,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_jayadev_part1.txt",
+        "source": "Jayadev",
+        "type": "Text File",
+        "size": 2474344,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_samhita_ramtek_djvu.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 1330816,
+        "authority": "Low"
+      },
+      {
+        "file": "rigveda_sayana_bhashya_ia_ia_djvu.txt",
+        "source": "Sayana Bhashya",
+        "type": "Text File",
+        "size": 2262202,
+        "authority": "High"
+      },
+      {
+        "file": "rigveda_sayanacharya_djvu.txt",
+        "source": "Sayana Bhashya",
+        "type": "Text File",
+        "size": 7065865,
+        "authority": "High"
+      },
+      {
+        "file": "rigvedasanhitc01wils.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 865154,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
-  "rigveda khila": {
+  "ṛgvedakhilāni": {
     "tei_xml": [
       {
         "file": "rigveda_khila_gretil_structure.json",
@@ -1379,7 +1455,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "rigveda padapatha": {
+  "ṛgvedasaṃhitā,": {
     "tei_xml": [
       {
         "file": "rigveda_padapatha_gretil_structure.json",
@@ -1407,7 +1483,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "brahma sutra commentary": {
+  "brahmasūtra2": {
     "tei_xml": [
       {
         "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_structure.json",
@@ -1458,18 +1534,18 @@
     ],
     "text_files": [
       {
-        "file": "brahma_sutra_shankara_bhashya.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 2155693,
-        "authority": "Low"
-      },
-      {
         "file": "brahma_sutra_madhva_ia_ia_djvu.txt",
         "source": "Madhva Tradition",
         "type": "Text File",
         "size": 2003054,
         "authority": "High"
+      },
+      {
+        "file": "brahma_sutra_shankara_bhashya.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 2155693,
+        "authority": "Low"
       }
     ],
     "metadata": {}
@@ -1485,15 +1561,7 @@
         "authority": "High"
       }
     ],
-    "text_files": [
-      {
-        "file": "brahmanda_puran_ia_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File",
-        "size": 3794235,
-        "authority": "Low"
-      }
-    ],
+    "text_files": [],
     "metadata": {}
   },
   "brahmabindi upanishad": {
@@ -1579,7 +1647,7 @@
       {
         "file": "yoga_sutra_darshan.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 539807,
         "authority": "Low"
       }
@@ -1601,14 +1669,14 @@
       {
         "file": "samaveda_jayadev.txt",
         "source": "Jayadev",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3008265,
         "authority": "Low"
       },
       {
         "file": "samaveda_samhita.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 2762687,
         "authority": "Low"
       }
@@ -1671,7 +1739,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "shiva purana": {
+  "śivapurāṇa,": {
     "tei_xml": [
       {
         "file": "shiva_puran_gretil_structure.json",
@@ -1682,25 +1750,10 @@
         "authority": "High"
       }
     ],
-    "text_files": [
-      {
-        "file": "shiv_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 5178110,
-        "authority": "Medium"
-      },
-      {
-        "file": "shiv_puran_khand2_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 7661722,
-        "authority": "Medium"
-      }
-    ],
+    "text_files": [],
     "metadata": {}
   },
-  "śivasūtra": {
+  "shivasutra": {
     "tei_xml": [
       {
         "file": "shiva_sutra_varttika_gretil_structure.json",
@@ -1756,7 +1809,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "skanda purana": {
+  "skandapurāṇa:": {
     "tei_xml": [
       {
         "file": "skanda_puran_revakhanda_gretil_structure.json",
@@ -1767,46 +1820,10 @@
         "authority": "High"
       }
     ],
-    "text_files": [
-      {
-        "file": "skand_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 10588900,
-        "authority": "Medium"
-      },
-      {
-        "file": "skand_puran_gita_press_new.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 10502414,
-        "authority": "Medium"
-      },
-      {
-        "file": "skanda_puran_full.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 10382979,
-        "authority": "Low"
-      },
-      {
-        "file": "skanda_puran_ia_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 297364,
-        "authority": "Low"
-      },
-      {
-        "file": "skanda_puran_venkateshwar_1867_ia_ia_djvu.txt",
-        "source": "Venkateshwar Steam Press",
-        "type": "Text File",
-        "size": 8527716,
-        "authority": "Medium"
-      }
-    ],
+    "text_files": [],
     "metadata": {}
   },
-  "svacchandatantra [or svacchandabhairavatantra]": {
+  "svacchandatantra": {
     "tei_xml": [
       {
         "file": "svacchandatantra_gretil_structure.json",
@@ -1817,7 +1834,15 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "svacchandatantra_ksemaraja_ia_ia_djvu.txt",
+        "source": "Ksemaraja Commentary",
+        "type": "Text File",
+        "size": 1041281,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
   "svayambhu purana": {
@@ -1834,7 +1859,7 @@
     "text_files": [],
     "metadata": {}
   },
-  "taittiriya upanishad": {
+  "taittirīya-upaniṣad": {
     "tei_xml": [
       {
         "file": "taittiriya_upanishad_bhashya_gretil_structure.json",
@@ -1899,7 +1924,42 @@
         "chapters": 69,
         "verses": 4477,
         "authority": "High"
+      }
+    ],
+    "text_files": [
+      {
+        "file": "vaman_puran_dli.txt",
+        "source": "Digital Library of India",
+        "type": "Text File",
+        "size": 1859964,
+        "authority": "Low"
       },
+      {
+        "file": "vaman_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 3631214,
+        "authority": "Medium"
+      },
+      {
+        "file": "vaman_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 3631214,
+        "authority": "Medium"
+      },
+      {
+        "file": "vaman_puran_hindi.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 1421046,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "vāmanapurāṇa,": {
+    "tei_xml": [
       {
         "file": "vamana_puran_saromahatmya_gretil_structure.json",
         "source": "GRETIL",
@@ -1909,36 +1969,7 @@
         "authority": "High"
       }
     ],
-    "text_files": [
-      {
-        "file": "vaman_puran_dli.txt",
-        "source": "Digital Library of India",
-        "type": "Text File (OCR/Digital)",
-        "size": 1859964,
-        "authority": "Low"
-      },
-      {
-        "file": "vaman_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 3631214,
-        "authority": "Medium"
-      },
-      {
-        "file": "vaman_puran_gita_press_new.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 3631214,
-        "authority": "Medium"
-      },
-      {
-        "file": "vaman_puran_hindi.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 1421046,
-        "authority": "Low"
-      }
-    ],
+    "text_files": [],
     "metadata": {}
   },
   "vasistha dharmasutra": {
@@ -2036,35 +2067,35 @@
       {
         "file": "vishnu_puran.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 4176797,
         "authority": "Low"
       },
       {
         "file": "vishnu_puran_gita_press_2.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3599547,
         "authority": "Medium"
       },
       {
         "file": "vishnu_puran_gita_press_new.txt",
         "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 1374016,
         "authority": "Medium"
       },
       {
         "file": "vishnu_puran_hindi_new.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 4189152,
         "authority": "Low"
       },
       {
         "file": "vishnu_puran_sanskrit_english.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 1935950,
         "authority": "Low"
       }
@@ -2147,64 +2178,8 @@
       {
         "file": "Upanishads_110.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 2027327,
-        "authority": "Low"
-      },
-      {
-        "file": "brhadaranyaka_upanishad_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 2385583,
-        "authority": "Low"
-      },
-      {
-        "file": "kena_upanishad_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 43363,
-        "authority": "Low"
-      },
-      {
-        "file": "mandukya_upanishad_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 1196683,
-        "authority": "Low"
-      },
-      {
-        "file": "mundaka_upanishad_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 32697,
-        "authority": "Low"
-      },
-      {
-        "file": "taittiriya_upanishad_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 1191022,
-        "authority": "Low"
-      },
-      {
-        "file": "chandogya_upanishad_giri_ia_ia_djvu.txt",
-        "source": "Ananda Giri",
-        "type": "Text File",
-        "size": 2451460,
-        "authority": "Low"
-      },
-      {
-        "file": "kena_upanishad_nimbarka_ia_ia_djvu.txt",
-        "source": "Nimbarka School",
-        "type": "Text File",
-        "size": 2306794,
-        "authority": "Low"
-      },
-      {
-        "file": "shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
-        "source": "Internet Archive",
-        "type": "Text File",
-        "size": 931494,
         "authority": "Low"
       },
       {
@@ -2215,11 +2190,67 @@
         "authority": "Low"
       },
       {
+        "file": "brhadaranyaka_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 2385583,
+        "authority": "Low"
+      },
+      {
+        "file": "chandogya_upanishad_giri_ia_ia_djvu.txt",
+        "source": "Ananda Giri",
+        "type": "Text File",
+        "size": 2451460,
+        "authority": "Low"
+      },
+      {
         "file": "eight_upanishads_vaishnava_ia_ia_djvu.txt",
         "source": "Vaishnava Tradition",
         "type": "Text File",
         "size": 1495223,
         "authority": "Medium"
+      },
+      {
+        "file": "kena_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 43363,
+        "authority": "Low"
+      },
+      {
+        "file": "kena_upanishad_nimbarka_ia_ia_djvu.txt",
+        "source": "Nimbarka School",
+        "type": "Text File",
+        "size": 2306794,
+        "authority": "Medium"
+      },
+      {
+        "file": "mandukya_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 1196683,
+        "authority": "Low"
+      },
+      {
+        "file": "mundaka_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 32697,
+        "authority": "Low"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 931494,
+        "authority": "Low"
+      },
+      {
+        "file": "taittiriya_upanishad_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 1191022,
+        "authority": "Low"
       }
     ],
     "metadata": {}
@@ -2230,329 +2261,35 @@
       {
         "file": "atharvaveda_jayadev_part1.txt",
         "source": "Jayadev",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 2113053,
         "authority": "Low"
       },
       {
         "file": "atharvaveda_samhita_sanskrit.txt",
         "source": "Other",
-        "type": "Text File (OCR/Digital)",
+        "type": "Text File",
         "size": 3081784,
         "authority": "Low"
       },
       {
         "file": "atharvaveda_samhita_sayana_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
+        "source": "Sayana Bhashya",
+        "type": "Text File",
         "size": 2941883,
-        "authority": "Low"
+        "authority": "High"
       },
       {
         "file": "atharvaveda_vol1_sayana.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 3369803,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "bhavishya purana": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "bhavishya_puran.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 4728614,
-        "authority": "Low"
-      },
-      {
-        "file": "bhavishya_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 4709487,
-        "authority": "Medium"
-      }
-    ],
-    "metadata": {}
-  },
-  "brahma vaivarta purana": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "brahma_vaivarta_dli.txt",
-        "source": "Digital Library of India",
-        "type": "Text File (OCR/Digital)",
-        "size": 1870353,
-        "authority": "Low"
-      },
-      {
-        "file": "brahma_vaivarta_puran.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 6033236,
-        "authority": "Low"
-      },
-      {
-        "file": "brahma_vaivarta_puran_english.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 3713002,
-        "authority": "Low"
-      },
-      {
-        "file": "brahma_vaivarta_puran_gita_press.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 5966482,
-        "authority": "Medium"
-      },
-      {
-        "file": "brahma_vaivarta_puran_gitapress_hindi.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 3374608,
-        "authority": "Medium"
-      },
-      {
-        "file": "brahma_vaivarta_puran_ia_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 6033067,
-        "authority": "Low"
-      },
-      {
-        "file": "brahma_vaivarta_puran_sanskrit_dli.txt",
-        "source": "Digital Library of India",
-        "type": "Text File (OCR/Digital)",
-        "size": 137508,
-        "authority": "Low"
-      },
-      {
-        "file": "brahma_vaivarta_puran_sanskrit_full.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 1739314,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "padma purana": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "padma_puran.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 7943401,
-        "authority": "Low"
-      },
-      {
-        "file": "padma_puran_gita_press_2025.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 9047588,
-        "authority": "Medium"
-      },
-      {
-        "file": "padma_puran_gita_press_new.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 8378446,
-        "authority": "Medium"
-      },
-      {
-        "file": "padma_puran_part1.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 6919298,
-        "authority": "Low"
-      },
-      {
-        "file": "padma_purana_part1_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 6937303,
-        "authority": "Low"
-      },
-      {
-        "file": "padma_purana_part3_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File (OCR/Digital)",
-        "size": 2528340,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "rigveda": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "rigveda_bhashyam.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 379372,
-        "authority": "Low"
-      },
-      {
-        "file": "rigveda_hindi.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 5781110,
-        "authority": "Low"
-      },
-      {
-        "file": "rigveda_jayadev_part1.txt",
-        "source": "Jayadev",
-        "type": "Text File (OCR/Digital)",
-        "size": 2474344,
-        "authority": "Low"
-      },
-      {
-        "file": "rigveda_samhita_ramtek_djvu.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 1330816,
-        "authority": "Low"
-      },
-      {
-        "file": "rigveda_sayanacharya_djvu.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 7065865,
-        "authority": "Low"
-      },
-      {
-        "file": "rigvedasanhitc01wils.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 865154,
-        "authority": "Low"
-      },
-      {
-        "file": "rigveda_sayana_bhashya_ia_ia_djvu.txt",
         "source": "Sayana Bhashya",
         "type": "Text File",
-        "size": 2262202,
-        "authority": "Low"
+        "size": 3369803,
+        "authority": "High"
       }
     ],
     "metadata": {}
   },
-  "varaha purana": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "varaha_puran.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 2906025,
-        "authority": "Low"
-      },
-      {
-        "file": "varaha_puran_2.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 6698392,
-        "authority": "Low"
-      },
-      {
-        "file": "varaha_puran_gita_press_new.txt",
-        "source": "Gita Press",
-        "type": "Text File (OCR/Digital)",
-        "size": 1079820,
-        "authority": "Medium"
-      },
-      {
-        "file": "varaha_puran_sanskrit.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 2743882,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "yajurveda": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "yajurveda_gujarati_djvu.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 3595221,
-        "authority": "Low"
-      },
-      {
-        "file": "yajurveda_jayadev.txt",
-        "source": "Jayadev",
-        "type": "Text File (OCR/Digital)",
-        "size": 2894662,
-        "authority": "Low"
-      },
-      {
-        "file": "yajurveda_madhyandina_ia_ia.txt",
-        "source": "Internet Archive",
-        "type": "Text File",
-        "size": 7049617,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "yogavasishtha": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "yogavasishtha_full_djvu.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 17764150,
-        "authority": "Low"
-      },
-      {
-        "file": "yogavasishtha_hindi_part2.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 3912964,
-        "authority": "Low"
-      },
-      {
-        "file": "yogavasishtha_hindi_part3.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 3531755,
-        "authority": "Low"
-      },
-      {
-        "file": "yogavasishtha_hindi_part4.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 5672028,
-        "authority": "Low"
-      },
-      {
-        "file": "yogavasishtha_marathi.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 4682550,
-        "authority": "Low"
-      },
-      {
-        "file": "yogavasishtha_sanskrit_tatparyaprakasha_v2.txt",
-        "source": "Other",
-        "type": "Text File (OCR/Digital)",
-        "size": 8538203,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "veda rahasya": {
+  "vedarahasya": {
     "tei_xml": [],
     "text_files": [
       {
@@ -2565,101 +2302,63 @@
     ],
     "metadata": {}
   },
-  "vachanamrut": {
+  "brahma vaivarta purana": {
     "tei_xml": [],
     "text_files": [
       {
-        "file": "vachanamrut_gokulnathaji.txt",
-        "source": "Other",
+        "file": "brahma_vaivarta_dli.txt",
+        "source": "Digital Library of India",
         "type": "Text File",
-        "size": 240164,
+        "size": 1870353,
         "authority": "Low"
       },
       {
-        "file": "vachanamrut_gujarati_djvu.txt",
+        "file": "brahma_vaivarta_puran.txt",
         "source": "Other",
         "type": "Text File",
-        "size": 288413,
+        "size": 6033236,
         "authority": "Low"
       },
       {
-        "file": "vachanamrut_shiksha_patri.txt",
+        "file": "brahma_vaivarta_puran_english.txt",
         "source": "Other",
         "type": "Text File",
-        "size": 127887,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "vidur niti": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "vidur_niti_chaukhambha_1997_djvu.txt",
-        "source": "Other",
-        "type": "Text File",
-        "size": 1393122,
+        "size": 3713002,
         "authority": "Low"
       },
       {
-        "file": "vidur_niti_english_1955_djvu.txt",
-        "source": "Other",
-        "type": "Text File",
-        "size": 496897,
-        "authority": "Low"
-      },
-      {
-        "file": "vidur_niti_gitapress_djvu.txt",
+        "file": "brahma_vaivarta_puran_gita_press.txt",
         "source": "Gita Press",
         "type": "Text File",
-        "size": 175494,
+        "size": 5966482,
         "authority": "Medium"
-      }
-    ],
-    "metadata": {}
-  },
-  "mundaka upanishad": {
-    "tei_xml": [],
-    "text_files": [
+      },
       {
-        "file": "mundaka_mandukya_bhashya_ia_ia_djvu.txt",
+        "file": "brahma_vaivarta_puran_gitapress_hindi.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 3374608,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_vaivarta_puran_ia_ia.txt",
         "source": "Internet Archive",
         "type": "Text File",
-        "size": 472367,
+        "size": 6033067,
         "authority": "Low"
       },
       {
-        "file": "mundaka_shankara_ia_ia_djvu.txt",
-        "source": "Internet Archive",
+        "file": "brahma_vaivarta_puran_sanskrit_dli.txt",
+        "source": "Digital Library of India",
         "type": "Text File",
-        "size": 534604,
+        "size": 137508,
         "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "svacchandatantra": {
-    "tei_xml": [],
-    "text_files": [
+      },
       {
-        "file": "svacchandatantra_ksemaraja_ia_ia_djvu.txt",
-        "source": "Ksemaraja Commentary",
+        "file": "brahma_vaivarta_puran_sanskrit_full.txt",
+        "source": "Other",
         "type": "Text File",
-        "size": 1041281,
-        "authority": "Low"
-      }
-    ],
-    "metadata": {}
-  },
-  "vayu purana": {
-    "tei_xml": [],
-    "text_files": [
-      {
-        "file": "vayu_purana_part1_ia_ia_djvu.txt",
-        "source": "Internet Archive",
-        "type": "Text File",
-        "size": 3087518,
+        "size": 1739314,
         "authority": "Low"
       }
     ],
@@ -2694,6 +2393,270 @@
         "type": "Text File",
         "size": 363311,
         "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "mrigendra agama": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "mrigendra_agama_vritti_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 1019827,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "mundaka upanishad": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "mundaka_mandukya_bhashya_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 472367,
+        "authority": "Low"
+      },
+      {
+        "file": "mundaka_shankara_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 534604,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "padma purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "padma_puran.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 7943401,
+        "authority": "Low"
+      },
+      {
+        "file": "padma_puran_gita_press_2025.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 9047588,
+        "authority": "Medium"
+      },
+      {
+        "file": "padma_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 8378446,
+        "authority": "Medium"
+      },
+      {
+        "file": "padma_puran_part1.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 6919298,
+        "authority": "Low"
+      },
+      {
+        "file": "padma_purana_part1_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 6937303,
+        "authority": "Low"
+      },
+      {
+        "file": "padma_purana_part3_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 2528340,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "shiva purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "shiv_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 5178110,
+        "authority": "Medium"
+      },
+      {
+        "file": "shiv_puran_khand2_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 7661722,
+        "authority": "Medium"
+      }
+    ],
+    "metadata": {}
+  },
+  "skanda purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "skand_puran_gita_press.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 10588900,
+        "authority": "Medium"
+      },
+      {
+        "file": "skand_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 10502414,
+        "authority": "Medium"
+      },
+      {
+        "file": "skanda_puran_full.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 10382979,
+        "authority": "Low"
+      },
+      {
+        "file": "skanda_puran_ia_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 297364,
+        "authority": "Low"
+      },
+      {
+        "file": "skanda_puran_venkateshwar_1867_ia_ia_djvu.txt",
+        "source": "Venkateshwar Steam Press",
+        "type": "Text File",
+        "size": 8527716,
+        "authority": "High"
+      }
+    ],
+    "metadata": {}
+  },
+  "varaha purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "varaha_puran.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 2906025,
+        "authority": "Low"
+      },
+      {
+        "file": "varaha_puran_2.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 6698392,
+        "authority": "Low"
+      },
+      {
+        "file": "varaha_puran_gita_press_new.txt",
+        "source": "Gita Press",
+        "type": "Text File",
+        "size": 1079820,
+        "authority": "Medium"
+      },
+      {
+        "file": "varaha_puran_sanskrit.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 2743882,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "vayu purana": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "vayu_purana_part1_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 3087518,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "yajurveda": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "yajurveda_gujarati_djvu.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 3595221,
+        "authority": "Low"
+      },
+      {
+        "file": "yajurveda_jayadev.txt",
+        "source": "Jayadev",
+        "type": "Text File",
+        "size": 2894662,
+        "authority": "Low"
+      },
+      {
+        "file": "yajurveda_madhyandina_ia_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 7049617,
+        "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "yogavasishtha": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "yogavasishtha_full_djvu.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 17764150,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_hindi_part2.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 3912964,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_hindi_part3.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 3531755,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_hindi_part4.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 5672028,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_marathi.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 4682550,
+        "authority": "Low"
+      },
+      {
+        "file": "yogavasishtha_sanskrit_tatparyaprakasha_v2.txt",
+        "source": "Other",
+        "type": "Text File",
+        "size": 8538203,
+        "authority": "Low"
       }
     ],
     "metadata": {}
