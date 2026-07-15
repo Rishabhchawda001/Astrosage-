@@ -1,0 +1,1521 @@
+{
+  "file": "sa_brahmagupta-brAhmasphuTasiddhAnta.xml",
+  "xml_id": "sa_brahmagupta-brAhmasphuTasiddhAnta",
+  "title": "Brāhmasphuṭasiddhānta",
+  "total_chapters": 1,
+  "total_verses": 214,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 214,
+      "verse_groups": [
+        {
+          "lines": [
+            "parikarma-%viṃśatim yas saṅkalita-ādyām pṛthak vijānāti/",
+            "%aṣṭau ca vyavahārān chāyā-antān bhavati gaṇakas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viparīta-cheda-guṇās rāśyos cheda-aṃśakās sama-chedās/",
+            "saṅkalite aṃśās yojyās vyavakalite aṃśa-antaram kāryam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rūpāṇi cheda-guṇāni aṃśa-yutāni %dvayos bahūnām vā/",
+            "pratyutpannas bhavati cheda-vadhena uddhṛtas aṃśa-vadhas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "parivartya bhāga-hāra-cheda-aṃśau cheda-saṃguṇa-chedas/",
+            "aṃśas aṃśa-guṇas bhājyasya bhāga-hāras savarṇitayos//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saṃvarṇita--aṃśa-vargas cheda-kṛti-vibhājitas bhavati vargas/",
+            "saṃvarṇita-aṃśa-mūlam cheda-padena uddhṛtam mūlam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sthāpyas antya-ghanas antya-kṛtis %tri-guṇa-uttara-saṅguṇā ca tad-%prathamāt/",
+            "uttara-kṛtis antya-guṇā %tri-guṇā ca uttara-ghanas ca ghanas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chedas ghanāt %dvitīyāt ghana-mūla-kṛtis %tri-saṅguṇā āpta-kṛtis/",
+            "śodhyā %tri-pūrva-guṇitā %prathamāt ghanatas ghanas mūlam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sadṛśa-cheda-aṃśa-yutis cheda-vibhaktā phalam %prathama-jātau/",
+            "aṃśais aṃśās guṇitās chedais chedās %dvitīyāyām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ūrdhva-aṃśās cheda-guṇās %tṛtīya-jātau %dvayos %prathama-parayos/",
+            "chedais chedās guṇitās sva-aṃśa-yuta-ūnais upari-ga-aṃśās//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "trairāśike pramāṇam phalam iccā ādi-antayos sadṛśa-rāśī/",
+            "icchā phalena guṇitā pramāṇa-bhaktā phalam bhavati//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vyasta-trairāśika-phalam icchā-bhaktas pramāṇa-phala-ghātas/",
+            "trairāśika-ādiṣu phalam viṣameṣu %ekādaśa-anteṣu//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "phala-saṅkramaṇam ubhaya-tas bahu-rāśi-vadhas alpa-vadha-hṛtas jñeyam/",
+            "sakaleṣu evam bhinneṣu ubhaya-tas cheda-saṅkramaṇam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prāk mūlya-vyatyāsas bhāṇḍapratibhāṇḍake anyat ukta-samam/",
+            "parikarmāṇi %aṣṭānām vyavahārāṇām abhihitāni//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kāla-guṇitam pramāṇam phala-bhaktam vi-%eka-guṇa-hatam kālas/",
+            "sva-phala-yuta-#rūpa-bhaktam mūla-phala-aikyam bhavati mūlam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kāla-pramāṇa-ghātas para-kāla-hṛtas dvidhā ādya-miśra-vadhāt/",
+            "anya-%ardha-kṛti-yutāt padam anya-%ardha-ūnam pramāṇa-phalam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prakṣepa-yoga-hṛtayā labdhyā prakṣepakās guṇās lābhās/",
+            "ūna-adhika-uttarās tad-yuta-ūnayā sva-phalam ūna-yutam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "padam %eka-hīnam uttara-guṇitam saṃyuktam ādinā antya-dhanam/",
+            "ādi-yuta-antya-dhana-%ardham madhya-dhanam pada-guṇam gaṇitam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uttara-hīna-%dvi-guṇa-ādi-śeṣa-vargam dhana-uttara-%aṣṭa-vadhe/",
+            "prakṣipya padam śeṣa-ūnam %dvi-guṇa-uttara-hṛtam gacchas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%eka-uttaram %eka-ādyam yadi iṣṭa-gacchasya bhavati saṅkalitam/",
+            "tat %dvi-yuta-gaccha-guṇitam %tri-hṛtam saṅkalita-saṅkalitam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%dvi-guṇa-pada-sa-%eka-guṇitam tat %tri-hṛtam bhavati varga-saṅkalitam/",
+            "ghana-saṅkalitam tad-kṛtis eṣām sama-golakais citayas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sthūla-phalam %tri-%catur-bhuja-bāhu-pratibāhu-yoga-#dala-ghātas/",
+            "bhuja-yoga-%ardha-%catuṣṭaya-bhuja-ūna-ghātāt padam sūkṣmam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhuja-kṛti-antara-bhū-hṛta-hīna-yutā bhūs %dvi-bhājitā āvādhe/",
+            "sva-āvādhā-varga-ūnāt bhuja-vargāt mūlam avalambas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aviṣama-%catur-asra-bhuja--pratibhuja-vadhayos yutes padam karṇas/",
+            "karṇa-kṛtis bhū-mukha-yuti-#dala-varga-ūnā padam lambas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karṇa-kṛtes koṭi-kṛtim viśodhya mūlam bhujas bhujasya kṛtim/",
+            "prohya padam koṭis koṭi-bāhu-kṛti-yuti-padam karṇas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karṇa-yutau ūrdhva-adhara-khaṇḍe karṇa-avalamba-yoge vā/",
+            "sva-āvādhe sva-yuti-hṛte dvidhā pṛthak karṇa-lamba-guṇe//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aviṣama-pārśva-bhuja-guṇas karṇas %dvi-guṇa-avalambaka-vibhaktas/",
+            "hṛdayam viṣamasya bhuja-pratibhuja-kṛti-yoga-mūla-%ardham//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%tri-bhujasya vadhas bhujayos %dvi-guṇita-lamba-uddhṛtas hṛdaya-rajjus/",
+            "sā %dvi-guṇā %tri-%catur-bhuja-koṇa-spṛk vṛtta-viṣkambhas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karṇa-āśrita-bhuja-ghāta-aikyam ubhayathā anyonya-bhājitam guṇayet/",
+            "yogena bhuja-pratibhuja-vadhayos karṇau pade viṣame//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣama-%catur-asra-madhye viṣama-%tri-bhuja-%dvayam prakalpya pṛthak/",
+            "karṇa-%dvayena pūrva-vat āvādhe lambakau ca pṛthak//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "viṣama-bhuja-antar-%tri-bhuje prakalpya karṇau bhujau tad-āvādhe/",
+            "pṛthak ūrdhva-adhara-khaṇḍe karṇa-yutau karṇayos adhare//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%tri-bhje bhujau tu bhūmis tad-lambas lambaka-adharam khaṇḍam/",
+            "ūrdhvam avalamba-khaṇḍam lambaka-yoga-%ardham adhara-ūnam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karṇa-avalambaka-yutau khaṇḍe karṇa-avalambakayos adhare/",
+            "anupātena tad-ūne ūrdhve sūcyām sa-pāṭāyām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṛti-yutis asadṛśa-rāśyos bāhus ghātas %dvi-saṅguṇas lambas/",
+            "kṛti-antaram asadṛśayos %dvi-guṇam %dvi-sama-%tri-bhuja-bhūmis//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-%dvayena bhaktas dvidhā iṣṭa-vargas phala-iṣṭa-yoga-%ardhe/",
+            "viṣama-%tri-bhujasya bhujau iṣṭa-ūna-phala-%ardha-yogas bhūs//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭasya bhujasya kṛtis bhaktā ūnā iṣṭena tad-#dalam koṭis/",
+            "āyata-%catur-asrasya kṣetrasya iṣṭa-adhikā karṇas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "āyata-karṇas bāhū bhuja-kṛtis iṣṭena bhājitā iṣṭa-ūnā/",
+            "%dvi-hṛtā koṭi-adhikā bhūs mukham ūnā %dvi-sama-%catur-asre//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karṇa-kṛtis %tri-sama-hbujās %trayas %caturthas viśodhya koṭi-kṛtim/",
+            "bāhu-kṛtes %tri-guṇāyās yadi adhikas bhūs mukham hīnas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jātya-%dvaya-koṭi-bhujās para-karṇa-guṇās bhujās %catur-viṣame/",
+            "adhikas bhūs mukha-hīnas bāhu-%dvitayam bhujau anyau//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-guṇa-kāra-guṇitas giri-ucchrāyas pura-antaram anaṣṭam/",
+            "%dvi-yuta-guṇa-kāra-bhājitam utpātas anyasya sama-gatyos//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vyāsa-vyāsa-%ardha-kṛtī paridhi-phale vyāvahārike %tri-guṇe/",
+            "tad-vargābhyām %daśabhis saṅguṇitābhyām pade sūkṣme//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vṛtte śara-ūna-guṇitāt vyāsāt %catur-āhatāt padam jīvā/",
+            "jyā-vargas %catur-āhata-śara-bhaktas śara-yutas vyāsas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jyā-vyāsa-kṛti-viśeṣāt mūla-vyāsa-antara-%ardham iṣus alpas/",
+            "vyāsau grāsa-ūna-guṇau grāsa-ūna-aikya-uddhṛtau bāṇau//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-śara-%dvaya-bhakte jyā-%ardha-kṛtī śara-yute phale vyāsau/",
+            "śarayos phalayos aikyam grāsas grāsa-ūnam aikyam tat//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṣetra-phalam vedha-guṇam sama-khāta-phalam hṛtam %tribhis sūcyās/",
+            "mukha-tala-tulya-bhuja-aikyāni %eka-agra-hṛtāni sama-rajjus//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mukha-tala-yuti-#dala-gaṇitam vedha-guṇam vyāvahārikam gaṇitam/",
+            "mukha-tala-gaṇita-aikya-%ardham vedha-guṇam syāt gaṇitam autram//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "autra-gaṇitāt viśodhya vyavahāra-phalam bhajet %tribhis śeṣam/",
+            "labdham vyavahāra-phale prakṣipya bhavati phalam sūkṣmam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ākṛti-phalam auccya-āhatam agra-tala-aikya-%ardham auccya-dairghya-guṇam/",
+            "ghana-gaṇitam iṣṭakā-ghana-phalena hṛtam iṣṭakā-gaṇitam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vistāra-āyāma-aṅgula-ghātas mārga-āhatas %dvi-#veda-hṛtas/",
+            "kiṣku-aṅgulāni labdham tat %ṣaṇṇavatis bhavati karma//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śākā-ādiṣu śālmalyām %śata-%dvayam bījake %śatam %viṃśam/",
+            "śāla-sarala-ādiṣu %śatam atha avi-dāruṣu %catuḥṣaṣṭis/"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%navamas śūkiṣu %daśamas sthūleṣu %ekādaśas bhavati aṇuṣu/",
+            "paridhes vedhas paridhes %ṣaṣ-aṃśa-varga-āhatas gaṇitam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%dvi-%catur-sa-%tri-aṃśa-guṇas bhitti-antar-vāhya-koṇa-gas paridhis/",
+            "prāk-vat kṛtvā gaṇitam tad-gaṇitam sva-guṇa-kāra-hṛtam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chāyā-nara-sa-%eka-hṛtam dyu-#dalam prāk-aparayos dyu-gata-śeṣam/",
+            "dina-gata-śeṣa-aṃśa-hṛtam dyu-#dalam chāyā-nara-vi-%ekam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/",
+            "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chāyā-agra-antara-guṇitā chāyā chāyā-antareṇa bhaktā bhūs/",
+            "bhūs śaṅku-guṇā chāyā-vibhājitā dīpa-śikhayā auccyam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇa-kāra-khaṇḍa-tulyas guṇyas go-mūtrikā-kṛtas guṇitas/",
+            "sahitas pratyutpannas guṇa-kāraka-bheda-tulyas vā//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇyas rāśis guṇa-kāra-rāśinā iṣṭa-adhika-ūnakena guṇas/",
+            "guṇya-iṣṭa-vadha-ūna-yutas guṇake abhyadhika-ūnake kāryas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chedena iṣṭa-yuta-ūnena āptam bhājyāt anaṣṭam iṣṭa-guṇam/",
+            "prakṛti-stha-cheda-hṛtam labdhyā yuta-hīnakam anaṣṭam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇyas cheda-phala-vadhas guṇaka-hṛtas guṇya-bhājitas guṇakas/",
+            "cheda-uddhṛtas phalam guṇya-guṇa-vadhas phala-hṛtas chedas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇya-guṇa-kārayos cheda-labdhayos yadi %dvayos %dvayos nāśas/",
+            "teṣām dṛśyau vyastau kṛtvā tad-sthānayos ca iṣṭau//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇyam guṇa-kāram vā guṇayet chedena bhāga-hārasya/",
+            "guṇya-guṇa-kāra-rāśyos cheda-guṇas bhāga-hāras ca//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "acchedasya chedam #rūpam kṛtvā anyat ukta-vat sarvam/",
+            "apavartyau cheda-guṇau tulyena iṣṭena guṇyau vā//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sva-vikala-%ṣaṣṭi-aṃśa-guṇas sakalas %triṃśa-uddhṛtas vikala-vargas/",
+            "prakṣepyas sakala-kṛtau varga-ghanau %dvi-%tri-tulya-vadhau//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rāśes ūnam %dvi-guṇam bahutara-guṇam ūna-kṛti-yutam vargas/",
+            "rāśes iṣṭa-yuta-ūnāt vadhas kṛtis vā iṣṭa-kṛti-yuktas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-alpa-rāśi-vargau yukta-ūnau itara-vikala-vargābhyām/",
+            "%dvi-guṇa-itara-rāśibhyām bhaktau tena adhika-ūnābhyām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sthāna-antareṣu labdham yena samam phala-yuta-ūnaka-chedas/",
+            "dalitas kṛti-yoga-antara-padam itaras vā phala-yuta-ūnas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dik-mātram etat anyat jyā-utpattau kuṭṭake ca kathayiṣye/",
+            "saṅkalita-ādiṣu āryās %ṣaṭṣaṣṭis %dvādaśas adhyāyas//",
+            "iti śrī-brāhma-sphuṭa-siddhānte %dvādaśas adhyāyas//12//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "prāyeṇa yatas praśnās kuṭṭākārāt ṛte na śakyante/",
+            "jñātum vakṣyāmi tatas kuṭṭākāram saha praśnais//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kuṭṭaka-#kha-ṛṇa-dhana-avyakta-madhya-haraṇa-%eka-varṇa-bhāvitakais/",
+            "ācāryas tantra-vidām jñātais varga-prakṛtyā ca//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhika-agra-bhāga-hārāt ūna-agra-cheda-bhājitāt śeṣam/",
+            "yat tat paraspara-hṛtam labdham adhas adhas pṛthak sthāpyam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śeṣam tathā iṣṭa-guṇitam yathā agrayos antareṇa saṃyuktam/",
+            "śudhyati guṇakas sthāpyas labdham ca antyāt upāntya-guṇas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sva-ūrdhvas antya-yutas agra-antas hīna-agra-cheda-bhājitas śeṣam/",
+            "adhika-agra-cheda-hatam adhika-agra-yutam bhavati agram//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "cheda-vadhasya %dvi-yugam cheda-vadhas yuga-gatam %dvayos agram/",
+            "kuṭṭākāreṇa evam %tri-ādi-graha-yuga-gata-ānayanam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bha-gaṇa-ādi-śeṣam agram cheda-hṛtam #kham ca dina-ja-śeṣa-hṛtam/",
+            "anayos agram bha-gaṇa-ādi-dina-ja-śeṣa-uddhṛtam dyu-gaṇas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dina-ja-bha-gaṇa-ādi-śeṣam yena guṇam maṇḍala-ādi śeṣakayos/",
+            "sa-dṛśa-cheda-uddhṛtayos tad-ghātam ahar-gaṇa-ādyam atas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hṛtayos parasparam yat cheṣam guṇa-kāra-bhāga-hārakayos/",
+            "tena hṛtau nis-chedau tau eva parasparam hṛtayos//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "labdham adhas adhas sthāpyam tathā iṣṭa-guṇa-kāra-saṅguṇam śeṣam/",
+            "śudhyati yathā %eka-hīnam guṇakas sthāpyas phalam ca antyāt//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "agra-antam upāntyena sva-ūrdhvas guṇitas antya-saṃyutas bhaktam/",
+            "nis-śeṣa-bhāga-hāreṇa evam sthira-kuṭṭakas śeṣam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-bha-gaṇa-ādi-śeṣāt sva-kuṭṭaka-guṇāt sva-bhāga-hāra-guṇāt/",
+            "śeṣam dyu-gaṇas gata-nis-apavarta-guṇa-bhāga-hāra-yutas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evam sameṣu viṣameṣu ṛṇam dhanam dhanam ṛṇam yat uktam tat/",
+            "ṛṇa-dhanayos vyastatvam guṇya-prakṣepayos kāryam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇakas chedas chedas guṇakas dhanam ṛṇam ṛṇam dhanam kāryam/",
+            "vargam padam padam kṛtis antyāt viparītam ādyam tat//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas jānāti yuga-ādi graha-yuga-yātais pṛthak pṛthak kathitais/",
+            "%dvi-%tri-%catur-prabhṛtīnām kuṭṭākāram sas jānāti//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bha-gaṇa-ādyam iṣṭa-śeṣam kadā indu-divase raves guru-dine vā/",
+            "jña-dine rāśīn kathayati kuṭṭākāram sas jānāti//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jña-dine yat aṃśa-śeṣam vikalā-śeṣam kadā tat indu-dine/",
+            "bhānos atha vā śaśinas yas kathayati kuṭṭaka-jñas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tithi-māna-dineṣu iṣṭās ye arka-ādyās te punar kadā teṣu/",
+            "iṣṭa-graha-vāreṣu yas kathayati kuṭṭaka-jñas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-bha-gaṇa-ādi-śeṣāt dyu-gaṇas tat kuṭṭakena saṃyuktas/",
+            "tad-cheda-dinais tāvat dina-vāras yāvat iṣṭas syāt//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yas rāśi-ādīn dṛṣṭvā madhyasya iṣṭasya katahyati dyu-gaṇam/",
+            "%dvi-ādi-graha-saṃyogāt graha-antarāt vā sas kuṭṭa-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nis-cheda-bhāga-hārāt rāśi-ādi-kalā-ādinā hatāt bhaktāt/",
+            "bha-gaṇa-kalābhis labdham maṇḍala-śeṣam dina-gaṇas asmāt//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evam rāśi-aṃśa-kalā-vikalā-śeṣāt ahar-gaṇas prāk-vat/",
+            "naṣṭa-stheṣu iṣṭān tān kṛtvā bhaktvā ukta-vat śeṣam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rāśi-aṃśa-kalā-vikalā-śeṣāt kathitāt abhīṣṭatas naṣṭān/",
+            "yas sādhayati uparitanān sa-madhyamān kuṭṭaka-jñas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yena guṇas śeṣa-yutas chedas śudhyati hṛtas sva-guṇakena/",
+            "tad-bhuktam śeṣam phalam evam śeṣāt graha-dyu-gaṇau//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jānāti yas yuga-gatam kathitāt adhimāsa-śeṣakāt iṣṭāt/",
+            "avama-avaśeṣatas vā tad-yogāt vā sas kuṭṭa-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭeṣu māna-divaseṣu adhimāsa-nyūna-rātra-śeṣe vā/",
+            "bhūyas te yas kathayati pṛthak pṛthak vā sas kuṭṭa-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṃśaka-śeṣāt %tri-ūnāt %sapta-hṛtāt mūlam ūnam %aṣṭābhis/",
+            "%navabhis guṇam sa-#rūpam kadā %śatam budha-dine savitus//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%tri-ūna-adhimāsa-śeṣāt mūlam %dvi-adhikam vibhājitam %ṣaḍbhis/",
+            "%dvi-ūnam vargitam adhikam %navabhis %navatis kadā bhavati//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avama-avaśeṣa-vargas vi-%ekas %viṃśati-vibhājitas %dvi-adhikas/",
+            "%aṣṭa-guṇas %daśa-bhaktas %dvi-yutas %aṣṭādaśa kadā bhavati//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhanayos dhanam ṛṇam ṛṇayos dhana-ṛṇayos antaram sama-aikyam #kham/",
+            "ṛṇam aikyam ca dhanam ṛṇa-dhana-#śūnyayos #śūnyayos #śūnyam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ūnam adhikāt viśodhyam dhanam dhanāt ṛṇam ṛṇāt adhikam ūnāt/",
+            "vyastam tad-antaram syāt ṛṇam dhanam dhanam ṛṇam bhavati//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "#śūnya-vihīnam ṛṇam ṛṇam dhanam dhanam bhavati #śūnyam #ākāśam/",
+            "śodhyam yadā dhanam ṛṇāt ṛṇam dhanāt vā tadā kṣepyam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛṇam ṛṇa-dhanayos ghātas dhanam ṛṇayos dhana-vadhas dhanam bhavati/",
+            "#śūnya-ṛṇayos #kha-dhanayos #kha-#śūnyayos vā vadhas #śūnyam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dhana-bhaktam dhanam ṛṇa-hṛtam ṛṇam dhanam bhavati #kham #kha-bhaktam #kham/",
+            "bhaktam ṛṇena dhanam ṛṇam dhanena hṛtam ṛṇam ṛṇam bhavati//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "#kha-uddhṛtam ṛṇam dhanam vā tad-chedam #kham ṛṇa-dhana-vibhaktam vā/",
+            "ṛṇa-dhanayos vargas svam #kham #khasya padam kṛtis yat tat//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yogas antara-yuta-hīnas %dvi-hṛtas saṅkramaṇam antara-vibhaktam vā/",
+            "varga-antaram antara-yuta-hīnam %dvi-hṛtam viṣama-karma//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "karaṇī lambas tad-kṛtis iṣṭa-hṛtā iṣṭa-ūna-saṃyutā alpā bhūs/",
+            "adhikas %dvi-hṛtas bāhus saṃkṣepyas yad-vadhas vargas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-uddhṛta-karaṇī-pada-yuti-kṛtis iṣṭa-guṇitā antara-kṛtis vā/",
+            "guṇyas tiryak adhas adhas guṇaka-samas tad-guṇas sahitas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sva-iṣṭa-ṛṇa-cheda-guṇau bhājya-chedau pṛthak yujau asakṛt/",
+            "cheda-%eka-gata-hṛtas vā bhājyas vargas sama-%dvi-vadhas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-karaṇī-ūnāyās rūpa-kṛtes pada-yuta-ūna-rūpa-%ardhe/",
+            "%prathamam rūpāṇi anyat tatas dvitīyam karaṇī asakṛt//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avyakta-varga-ghana-varga-varga-%pañca-gata-%ṣaṣ-gata-ādīnām/",
+            "tulyānām saṅkalita-vyavakalite pṛthak atulyānām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sadṛśa-%dvi-vadhas vargas %tri-ādi-vadhas tad-gatas anya-jāti-vadhas/",
+            "anyonya-varṇa-ghātas bhāvitakas pūrva-vat śeṣam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avyakta-antara-bhaktam vyastam rūpa-antaram same avyaktas/",
+            "varga-avyaktās śodhyās yasmāt rūpāṇi tad-adhastāt//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "varga-%catur-guṇitānām rūpāṇām madhya-varga-sahitānām/",
+            "mūlam nadhyena ūnam varga-%dvi-guṇa-uddhṛtam madhyas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "varga-āhata-rūpāṇām avyakta-%ardha-kṛti-saṃyutānām yat/",
+            "padam avyakta-%ardha-ūnam tat varga-vibhaktam avyaktas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sa-%ekāt aṃśaka-śeṣāt %dvādaśa-bhāgas %catur-guṇas %aṣṭa-yutas/",
+            "sa-%eka-aṃśa-śeṣa-tulyas yadā tadā ahar-gaṇam kathaya//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%dvi-ūnam adhika-māsa-śeṣam %tri-hṛtam %sapta-adhikam %dvi-saṅguṇitam/",
+            "adhimāsa-śeṣa-tulyam yadā tadā yuga-gatam kathaya//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vi-%ekam avama-avaśeṣam %ṣaṣ-uddhṛtam %tri-yutam avama-śeṣasya/",
+            "%pañca-vibhaktasya samam yadā tadā yuga-gatam kathaya//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "maṇḍala-śeṣāt %dvi-ūnāt mūlam vi-%ekam %daśa-āhatam %dvi-yutam/",
+            "maṇḍala-śeṣam vi-%ekam bhānos jña-dine kadā bhavati//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhimāsa-śeṣa-#pādāt %tri-ūnāt vargas adhimāsa-śeṣa-samas/",
+            "avama-avaśeṣatas vā avama-śeṣa-samas kadā bhavati//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ādyāt varṇāt anyān varṇān prohya ādya-mānam āḍya-hṛtam/",
+            "sadṛśa-chedau asakṛt %dvau vyastau kuṭṭakas bahuṣu//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gata-bhagaṇa-yutāt dyu-gaṇāt tad-śeṣa-yutāt tad-aikya-saṃyuktāt/",
+            "tad-yogāt dyu-gaṇam vā yas kathayati kuṭṭaka-jñas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gata-bhagaṇa-ūnāt dyu-gaṇāt tad-śeṣa-ūnāt tad-aikya-hīnāt vā/",
+            "tad-vivarāt dyu-gaṇam vā yas kathayati kuṭṭaka-jñas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rāśi-ādyais tad-śeṣais ca evam bhukta-adhimāsa-dina-hīnais/",
+            "tad-śeṣais ca yuga-gatam yas kathayati kuṭṭaka-jñas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṃśaka-śeṣeṇa yutāt liptā-śeṣāt tad-antarāt atha vā/",
+            "bhānos jña-dine dyu-gaṇam yas kathayati kuṭṭaka-jñas sas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṃśaka-śeṣam %tri-yutam liptā-śeṣam kadā raves jña-dine/",
+            "%ṣaṭ %sapta %aṣṭau %nava vā kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "aṃśa-samam aṃśa-śeṣam kalā-samam vā kalā-śeṣam/",
+            "divasa-karasya iṣṭa-dine kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avama-avaśeṣam avamais adhimāsaka-śeṣam adhimāsais/",
+            "iṣṭa-yuta-ūnam tulyam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nis-cheda-bhāga-hāras bhānos %saptati-guṇas aṃśa-śeṣa-ūnas/",
+            "śudhyati %ayuta-vibhaktas kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhāvitaka-rūpa-guṇanā sa-avyakta-vadhā iṣṭa-bhājitā iṣṭa-āptyos/",
+            "alpe adhikas adhike alpas kṣepyas bhāvita-hṛtau vyastam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhānos rāśi-aṃśa-vadhāt %tri-%catur-guṇitān viśodhya rāśi-aṃśān/",
+            "%navatim dṛṣṭvā sūryam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhāvitake yad-ghātas vinaṣṭa-varṇena tad-pramāṇāni/",
+            "kṛtvā iṣṭāni tad-āhata-varṇa-aikyam bhavati rūpāṇi//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "varṇa-pramāṇa-bhāvita-ghātas bhavati iṣṭa-varṇa-saṅkhyā evam/",
+            "sidhyati vinā api bhāvita-sama-karaṇāt kim kṛtam tat atas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mūlam dvidhā iṣṭa-vargāt guṇaka-guṇāt iṣṭa-yuta-vihīnāt ca/",
+            "ādya-vadhas guṇaka-guṇas saha antya-ghātena kṛtam antyam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vajra-vadha-aikyam %prathamam prakṣepas kṣepa-vadha-tulyas/",
+            "prakṣepa-śodhaka-hṛte mūle prakṣepake #rūpe//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "#rūpa-prakṣepa-pade pṛthak iṣṭa-kṣepya-śodhya-mūlābhyām/",
+            "kṛtvā antya-ādya-pade ye prakṣepe śodhane vā iṣṭe//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%catur-adhike antya-pada-kṛtis %tri-ūnā dalitā antya-pada-guṇā antya-padam/",
+            "antya-pada-kṛtis vi-%ekā %dvi-hṛtā ādya-pada-āhatā ādya-padam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%catur-ūne antya-pada-kṛtī %tri-%eka-yute vadha-#dalam pṛthak vi-%ekam/",
+            "vi-%eka-āḍya-āhatam antyam pada-vadha-guṇam ādyam āntya-padam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "varge guṇake kṣepas kena cit uddhṛta-yuta-ūnitas dalitas/",
+            "%prathamas antya-mūlam anyas guṇa-kāra-pada-uddhṛtas %prathamas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "varga-chinne guṇake %prathamam tad-mūla-bhājitam bhavati/",
+            "varga-chinne kṣepe tad-pada-guṇite tadā mūle//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guṇaka-yutis %aṣṭa-guṇitā guṇaka-antara-varga-bhājitā rāśis/",
+            "guṇakau %tri-guṇau vyasta-adhikau hṛtau antareṇa pade//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vargas anya-kṛti-yuta-ūnas tad-saṃyoga-antara-%ardha-kṛti-bhaktas/",
+            "tad-guṇitau yuti-viyutau vargau ghāte ca #rūpa-yute//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yais ūnas yais ca yutas rūpais vargas tad-aikyam iṣṭa-hṛtam/",
+            "iṣṭa-ūnam tad-#dala-kṛtis ūnā abhyadhikā bhavati rāśis//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yābhyām kṛtis adhika-ūnas tad-antaram hṛta-yuta-ūnam iṣṭena/",
+            "tad-#dala-kṛtis adhika-ūnā adhikayos adhika-ūnayos rāśis//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rāśi-kalā-śeṣa-kṛtim %dvinavati-guṇitām %tryaśīti-guṇitām vā/",
+            "sa-%ekā jña-dine vargam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sūrya-viliptā-śeṣam %pañcabhis ūna-āhatam tathā %daśabhis/",
+            "varge bṛhaspati-dine kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bha-gaṇa-ādi-śeṣa-vargam %tribhis guṇam saṃyutam %śatais %navabhis/",
+            "kṛtim %aṣṭa-%śata-ūnam vā kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bha-gaṇa-ādi-śeṣa-vargam %catur-guṇam %pañcaṣaṣṭi-saṃyuktam/",
+            "%ṣaṣṭi-ūnam vā vargam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-bhagaṇa-ādi-śeṣam %dvinavati-ūnam %tryaśīti-saṃguṇitam/",
+            "#rūpeṇa yutam vargam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "adhimāsa-śeṣa-vargam %trayodaśa-guṇam %tribhis %śatais yuktam/",
+            "%tri-ghana-ūnam vā vargam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indu-viliptā-śeṣam %saptadaśa-guṇam %trayodaśa-guṇam ca api/",
+            "pṛthak %eka-yutam vargam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "avama-avaśeṣa-vargam %dvādaśa-guṇitam %śatena saṃyuktam/",
+            "%tribhis ūnam vā vargam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jña-dine arka-kalā-śeṣam guru-dina-vikalā-avaśeṣa-yukta-ūnam/",
+            "vargam vadham ca sa-%ekam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vikalā-śeṣam sahitam %trinavatyā %saptaṣaṣṭi-hīnam ca/",
+            "bhānos jña-dine vargam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jña-dine arka-kalā-śeṣam %dvādaśabhis saṃyutam %triṣaṣṭyā ca/",
+            "%ṣaṣṭyā %aṣṭabhis ca ūnam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "indu-viliptā-śeṣāt ravi-liptā-śeṣam aṃśa-śeṣam vā/",
+            "atha vā madhyamam iṣṭam kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jīva-viliptā-śeṣāt ku-jam indum bhauma-liptikā-śeṣāt/",
+            "ravim indu-bhāga-śeṣāt kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-graha-iṣṭa-śeṣāt dyu-gaṇas gata-nis-apavarta-saṃguṇitais/",
+            "cheda-dinais adhikas asmāt anya-graha-śeṣam iṣṭas vā//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nis-cheda-bhāga-hārau grahayos viparītau grahayos dyu-gaṇāt/",
+            "yasmāt tad-nis-chedena uddhṛtayos labdha-saṃguṇitau//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nis-cheda-bhāga-hārau viparītau tad-yutāt punar tasmāt/",
+            "śeṣe dyu-gaṇāt evam %tri-ādīnām prāk-vat iṣṭa-dine//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dyu-gaṇam avama-avaśeṣāt ravi-candrau madhyamau sphuṭau atha vā/",
+            "evam tithim graham vā kurvan ā vatsarāt gaṇakas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%eka-dinam avama-śeṣam yad-guṇam %eka-ravi-candra-bha-gaṇa-ūnam/",
+            "śudhyati bhū-dina-bhaktam vi-%ekam cāndrais tad-uktis iyam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "#iṣu-#śara-#kṛta-%aṣṭa-3digbhis 108455 saṅguṇitāt avama-śeṣakāt bhaktāt/",
+            "#rūpa-%aṣṭa-#veda-#rasa-#śūnya-#śara-#guṇais 3506481 dina-gaṇas śeṣam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "#jina-#rasa-#go-#abdhi-#rada-3249624-guṇāt #śaśi-#vasu-#kṛta-#rasa-#kha-#bhūta-#rāma-3506481-hṛtāt/",
+            "iṣṭa-avama-śeṣāt yat śeṣam ravi-bha-gaṇa-śeṣam tat//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "#go-#aga-#indu-#kha-#īśa-110179-guṇitāt bhaktāt #nakha-#pakṣa-#yama-#rasa-#iṣu-#guṇais 3562220/",
+            "śeṣam avama-avaśeṣāt tithayas avama-śeṣakāt vikalam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "bhāga-kalā-vikalā-aikyam dṛṣṭvā vikalā-antaram ca ke śeṣe/",
+            "aikyam dvidhā antara-adhika-hīnam ca %dvi-bhājitam śeṣe//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tad-varga-antaram ādye tad-antaram ca anatara-uddhṛta-yuta-ūnam/",
+            "varga-antaram vibhaktam %dvābhyām śeṣe tatas dyu-gaṇas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "[kṛti-saṃyogāt %dvi-guṇāt yuti-vargam prohya śeṣa-mūlam yat/",
+            "tena yuta-ūnas yogas dalitas śeṣe pṛthak abhīṣṭe// Cb.99]"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śeṣa-vadhāt %dvi-kṛti-guṇāt śeṣa-antara-varga-saṃyutāt mūlam/",
+            "śeṣa-antara-ūna-yuktam dalitam śeṣe pṛthak abhīṣṭe//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "hṛdi-ghātram amī praśnās praśnān anyān %sahasra-śas kuryāt/",
+            "anyais dattān praśnān uktyā evam sādhayet karaṇais//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jana-saṃsadi daiva-vidām tejas nāśayati bhānus iva bhānām/",
+            "kuṭṭākāra-praśnais pathitais api kim punar %śata-śas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "prati-sūtram amī praśnās pathitās sa-uddeśakeṣu sūtreṣu/",
+            "āryā-%tri-adhika-%śatena ca kuṭṭas ca %aṣṭādaśas adhyāyas//",
+            "iti śrī-brāhmasphuṭasiddhānte kuṭṭaka-adhyāyas %aṣṭādaśas//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "dṛṣṭvā dina-%ardha-ghaṭikā yas arka-jñas akṣa-aṃśakān vijānāti/",
+            "udaya-antara-ghaṭikābhis jñātāt jñeyam sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "asta-antara-ghaṭikābhis yas jñātāt jñeyam ānayati tastmāt/",
+            "madhya-gatim yuga-bha-gaṇān ānayati tatas sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ānayati yas tamas-ravi-śaśa-aṅka-mānāni dīpaka-śikha-auccyāt/",
+            "śaṅku-tala-antara-bhūmi-jñāne chāyām sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-gṛha-auccya-jñas yas tad-antara-jñas nirīkṣyate tu jale/",
+            "gṛha-bhitti-agram darśayati darpaṇe vā sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chāyā-%dvitīya-bhā-agra-antara-vijñānena vetti dīpa-aucyam/",
+            "śaṅku-chāyā-jñas vā bhūmes chāyām sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dṛṣṭvā gṛha-tala-antara-jālabhos dṛṣṭvā agram gṛhasya bhūmi-jñas/",
+            "vetti gṛha-auccyam dṛṣṭvā taila-stham vā sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vīkṣya gṛha-agram salile prasārya salilam punar sva-bhū-jñāne/",
+            "ānayati jalāt bhūmim gṛhasya vā auccyam sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñātais chāyā-puruṣais vijñāte toya-kuḍyayos vivare/",
+            "kuḍye arka-tejasas yas vetti ārūḍhim sas tantra-jñas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "iṣṭa-divasa-%ardha-ghaṭikā ghaṭikā-%pañcadaśa-antara-prāṇās/",
+            "tad-divasa-cara-prāṇās tais akṣam sādhayet prāk-vat//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñāta-jñeya-grahayos udaya-antara-nāḍikābhis adhika-ūnas/",
+            "udayais jñātas jñātāt jñeyas prāk-aparayos jñeyas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñātas sa-bha-%ardhas udayais asta-antara-nāḍikābhis adhika-ūnas/",
+            "jñātāt pūrva-aparayos jñeyas bha-%ardha-ūnake jñeyas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñātam kṛtvā madhyam bhūyas anya-dine tad-antaram bhuktis/",
+            "trairāśikena bhuktyā kalpa-graha-maṇḍala-ānayanam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sthiti-%ardhāt viparītam tamas-pramāṇam sphuṭam grahaṇe/",
+            "māna-udayāt ravi-indvos ghaṭikā-avayavena bha-udaya-tas//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/",
+            "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaṅku-antareṇa guṇitā chāyā chāyā-antareṇa bhaktā bhūs /",
+            "sa-chāyā śaṅku-guṇā dīpa-auccyam chāyayā bhaktā//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jñātvā śaṅku-chāyām anupātāt sādhayet samucchrāyān/",
+            "gṛha-caitya-taru-nagānām auccyam vijñāya vā chāyām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yuta-dṛṣṭi-gṛha-auccya-hṛtā hi antara-bhūmis dṛk-auccya-saṅguṇitā//",
+            "phala-bhūs nyaste toye prati-rūpa-agram gṛhasya narāt//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "gṛha-puruṣa-antara-salile vīkṣya gṛha-agram dṛk-auccya-saṅguṇitam/",
+            "gṛha-toya-antaram auccyam gṛhasya nṛ-jala-antareṇa hṛtam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%prathama-%dvitīya-nṛ-jala-antara-antareṇa uddhṛtā jala-apasṛtis/",
+            "dṛṣṭi-auccya-guṇā ucchrāyas toyāt nṛ-jala-antara-guṇā bhūs//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "chāyā-puruṣa-chinnam jala-kuḍya-antaram avāptam ārūḍhis/",
+            "adhyāyas %viṃśati-āryāṇām %ekonaviṃśas ayam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ṛgvargaḥ paryāyaḥ samūhayogāvayukṣu yugmeṣu/",
+            "soyāḥ prāgvatprāptādāścatuṣkakāḥ śeṣayuktyontyaḥ//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ekādiyutavihīnāvādyantau tadviparyayau yāvat/",
+            "vargādiṣu viṣamayujāṃ kramotkramādvardhayetpādān//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ekaikena dvyādvyāḥ soppappadhikeṣu tatpratiṣṭheṣu/",
+            "vargādirabhīṣṭāntaḥ prastāro bhavati yavamadhyaḥ//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "sūnontyo dvipadāgraṃ tripadādyānāmadhaḥ pṛthak saṃkhyā/",
+            "tacchodhyo vyekaḥ pṛthagntādrūpamūrdhvayutam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yāvat pādāvyekāgacchādvarṇeṣvathaikavṛddheṣu/",
+            "rūpādyutaghāte vargādyānāṃ parā saṃkhyā//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "rūpādhikapādārdheviṣameṣūrdhvaḥ sameṣu pādārdhe/",
+            "ardhādviguṇāvyekāṃyulānyadhastasya sarveṣām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mādhyais tathārdhahīnaiḥ kramapādair vyastatulyapādādyaḥ/",
+            "viṣameravyekaṃ madhye prohyādyānyataḥ kuryāt//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "saikakramatulyādyair nyāso'bhyadhiko viśodhitaś cādhaḥ/",
+            "saṃkhyaikyaṃ tādṛk yādṛk prathamas trirahito naṣṭe//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mādhyaiḥ kṛtaiś ca dalitaiḥ samasaṃkhyāyāṃ kramotkramāt kṣeppam/",
+            "viṣamāyāṃ vyekāyāṃ dalam kramād uttkramāt saikam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "samasaṃkhyāyāṃ sopānakramotkramābhyāṃ tathaiva viṣamābhyām/",
+            "kalpyā pacite dṛṣṭe prathamaḥ śeṣākṣarāṇyante//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "samadalasamaviṣamāṇāṃ saṃkhyāpādārdhasarvakalpavadhaḥ/",
+            "svādyavadho'nyaiḥ pādaiḥ svaparasya prāgvadhaḥ saikaiḥ//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ādyādanantaro'dhaḥ kalppo'nyatulyamādyaḥ prāk/",
+            "nyāso vargo'nyonaḥ prastāro'rdhasamaviṣamāṇām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "naṣṭentyāt svādhasthonakalpaghāto'rdhatulyaviṣamāṇām/",
+            "vyekaḥ pṛthak svavargoddhṛtaḥ phalaṃ tulyakalyānām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "uddiṣṭe kalpahṛte'tītaiḥ prathamaḥ phale sarūpe 'nyaḥ/",
+            "asakṛdvargāṃśayute saike vārdhasamaviṣamāṇām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kapeṣu pṛthak gurulaghusaṃkhyaikādibhājitā prāgvat/",
+            "viṣameṣvādyalaghūno laghubhir meruḥ samādīnām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "ekadvitayoḥ parato dvisaṃguṇo'nantarādvirūpo'dhaḥ/",
+            "vargadharādyonodalasamaviṣamāṇāṃ dhvajo laghubhiḥ//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "laghusaṃkhyā padadalitā parato'dho'dhaś ca śudhyati hṛtā yaiḥ/",
+            "dviguṇāntaiḥ śuddhair vargaparair mandaro laghubhiḥ//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "kṛtvādho'dhaḥ kalpyānyekādyekottarānadhasteṣām/",
+            "svāt parato'nyaikyam adhaḥ prastārād uktavad ihādyaiḥ//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "guruṣaṣṭyekānighaṭīdviguṇānyekāṃgulāni saṃkhyā syāt/",
+            "drāviṃśatir āryāṇāṃ chandaścityuttaro'dhyāyaḥ//",
+            "iti śrī-brāhmasphuṭa-siddhānte chandaścityuttarādhyāyo viṃśatitamaḥ//"
+          ],
+          "line_count": 3
+        },
+        {
+          "lines": [
+            "rāśi-%aṣṭa-aṃśeṣu aṅkān pada-sandhibhyas krama-utkramāt kṛtvā/",
+            "badhnīyāt sūtrāṇi %dvayos %dvayos jyās tad-%ardhāni//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jyā-%ardhāni jyā-%ardhānām jyā-khaṇḍāni antarāṇi/",
+            "vyastāni antyāt atha vā iṣus utkrama-jyā dhanus tābhyām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "%eka-%dvi-%tri-guṇāyās vyāsa-%ardha-kṛtes pṛthak %caturthebhyas/",
+            "mūlāni %aṣṭa-%dvādaśa-%ṣoḍaśa-khaṇḍāni atas anyāni//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tulya-krama-utkrama-jyā-sama-khaṇḍaka-varga-yuti-%catur-bhāgam/",
+            "prohya anaṣṭam vyāsa-%ardha-vargatas tad-pade %prathamam//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tad-#dala-khaṇḍāni tad-ūna-#jina-samāni %dvitīyam utpattau/",
+            "#kṛta-#yamala-%eka-#diś-#īśa-#iṣu-%sapta-#rasa-#guṇa-%nava-ādīnām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "evam jīvā-khaṇḍāni alpāni bahūni vā ādya-khaṇḍāni/",
+            "jyā-%ardhāni vṛtta-paridhes %ṣaṣṭha-%caturtha-%tri-bhāgānām//"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "utkrama-sama-khaṇḍa-guṇāt vyāsāt atha vā %caturtha-bhāgāt yat/",
+            "kṛtvā ukta-khaṇḍakāni jyā-%ardha-ānayanam na laghu asmāt//"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "[atha gaṇita-adhyāyas]",
+        "[parikarma-viṃśatis]",
+        "[miśraka-vyavahāras]"
+      ]
+    }
+  ]
+}

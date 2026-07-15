@@ -2308,5 +2308,195 @@
     "best_edition": "Shrimad Valmiki Ramayana (Hindi Edition) - Valmiki.md",
     "status": "INSUFFICIENT",
     "created": "2026-07-14T20:10:07.381745+00:00"
+  },
+  "Agni Purana": {
+    "editions": {
+      "gretil_agni_puran_gretil.xml": {
+        "title": "Agnipurāṇa",
+        "chapters": 389,
+        "verses": 22823,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 389,
+    "total_verses": 22823
+  },
+  "Bhagavata Purana": {
+    "editions": {
+      "gretil_bhagavata_gretil.xml": {
+        "title": "Bhāgavatapurāṇa",
+        "chapters": 326,
+        "verses": 12836,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 326,
+    "total_verses": 12836
+  },
+  "Brahma Purana": {
+    "editions": {
+      "gretil_brahma_puran_gretil.xml": {
+        "title": "Brahmapurāṇa 1-246",
+        "chapters": 1,
+        "verses": 13900,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 1,
+    "total_verses": 13900
+  },
+  "Garuda Purana": {
+    "editions": {
+      "gretil_garuda_puran_gretil.xml": {
+        "title": "Garuḍapurāṇa",
+        "chapters": 314,
+        "verses": 11873,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 314,
+    "total_verses": 11873
+  },
+  "Kurma Purana": {
+    "editions": {
+      "gretil_kurma_puran_gretil.xml": {
+        "title": "Kūrmapurāṇa",
+        "chapters": 94,
+        "verses": 5816,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 94,
+    "total_verses": 5816
+  },
+  "Linga Purana": {
+    "editions": {
+      "gretil_linga_puran_gretil.xml": {
+        "title": "Liṅgapurāṇa, 1-108",
+        "chapters": 108,
+        "verses": 6831,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 108,
+    "total_verses": 6831
+  },
+  "Matsya Purana": {
+    "editions": {
+      "gretil_matsya_puran_gretil.xml": {
+        "title": "Matsyapurāṇa, 1-176",
+        "chapters": 176,
+        "verses": 8553,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 176,
+    "total_verses": 8553
+  },
+  "Naradiya Purana": {
+    "editions": {
+      "gretil_narada_puran_gretil.xml": {
+        "title": "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "chapters": 165,
+        "verses": 15554,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 165,
+    "total_verses": 15554
+  },
+  "Valmiki Ramayana": {
+    "editions": {
+      "gretil_ramayana_gretil.xml": {
+        "title": "Rāmāyaṇa",
+        "chapters": 7,
+        "verses": 18761,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 7,
+    "total_verses": 18761
+  },
+  "Brahma Sutra": {
+    "editions": {
+      "gretil_sa_bAdarAyaNa-brahmasUtra.xml": {
+        "title": "Brahmasūtra",
+        "chapters": 1,
+        "verses": 545,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 1,
+    "total_verses": 545
+  },
+  "Brahmanda Purana": {
+    "editions": {
+      "gretil_sa_brahmANDapurANa.xml": {
+        "title": "Brahmāṇḍapurāṇa",
+        "chapters": 154,
+        "verses": 13746,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 154,
+    "total_verses": 13746
+  },
+  "Vamana Purana": {
+    "editions": {
+      "gretil_vamana_puran_gretil.xml": {
+        "title": "Vāmanapurāṇa, 1-69",
+        "chapters": 69,
+        "verses": 4477,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 69,
+    "total_verses": 4477
+  },
+  "Vishnu Purana": {
+    "editions": {
+      "gretil_vishnu_puran_gretil.xml": {
+        "title": "Viṣṇupurāṇa",
+        "chapters": 126,
+        "verses": 6339,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      },
+      "gretil_vishnu_puran_gretil_critical.xml": {
+        "title": "Viṣṇupurāṇa",
+        "chapters": 120,
+        "verses": 5834,
+        "source": "GRETIL",
+        "quality": "TEI_XML_scholarly",
+        "witness_type": "native_digital"
+      }
+    },
+    "total_chapters": 126,
+    "total_verses": 6339
   }
 }

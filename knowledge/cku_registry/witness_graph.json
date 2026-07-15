@@ -37,6 +37,14 @@
           "file": "श्री_मद्भागवत_महापुराण_प्रथम_खण्ड.md",
           "quality": "MEDIUM",
           "structure": "POOR"
+        },
+        {
+          "file": "bhagavata_gretil.xml",
+          "quality": "high",
+          "structure": "326 chapters, 12836 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
         }
       ],
       "search_queries": [
@@ -74,6 +82,14 @@
           "file": "ramayana_sanskrit_dpsharma.md",
           "quality": "HIGH",
           "structure": "POOR"
+        },
+        {
+          "file": "ramayana_gretil.xml",
+          "quality": "high",
+          "structure": "7 chapters, 18761 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
         }
       ],
       "search_queries": [
@@ -181,6 +197,22 @@
           "file": "Vishnu Puran (Gita Press).md",
           "quality": "MEDIUM",
           "structure": "POOR"
+        },
+        {
+          "file": "vishnu_puran_gretil.xml",
+          "quality": "high",
+          "structure": "126 chapters, 6339 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        },
+        {
+          "file": "vishnu_puran_gretil_critical.xml",
+          "quality": "high",
+          "structure": "120 chapters, 5834 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
         }
       ],
       "search_queries": [
@@ -210,6 +242,14 @@
           "file": "Brahma Puran Part 1 (Archive.org).md",
           "quality": "MEDIUM",
           "structure": "POOR"
+        },
+        {
+          "file": "brahma_puran_gretil.xml",
+          "quality": "high",
+          "structure": "1 chapters, 13900 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
         }
       ],
       "search_queries": [
@@ -217,6 +257,141 @@
         "ब्रह्म पुराण संस्कृत मूल",
         "Brahma Purana Chaukhamba edition"
       ]
+    },
+    "Agni Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "agni_puran_gretil.xml",
+          "quality": "high",
+          "structure": "389 chapters, 22823 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Garuda Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "garuda_puran_gretil.xml",
+          "quality": "high",
+          "structure": "314 chapters, 11873 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Kurma Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "kurma_puran_gretil.xml",
+          "quality": "high",
+          "structure": "94 chapters, 5816 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Linga Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "linga_puran_gretil.xml",
+          "quality": "high",
+          "structure": "108 chapters, 6831 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Matsya Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "matsya_puran_gretil.xml",
+          "quality": "high",
+          "structure": "176 chapters, 8553 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Naradiya Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "narada_puran_gretil.xml",
+          "quality": "high",
+          "structure": "165 chapters, 15554 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Brahma Sutra": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "sa_bAdarAyaNa-brahmasUtra.xml",
+          "quality": "high",
+          "structure": "1 chapters, 545 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Brahmanda Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "sa_brahmANDapurANa.xml",
+          "quality": "high",
+          "structure": "154 chapters, 13746 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
+    },
+    "Vamana Purana": {
+      "gap": "",
+      "ideal_witness": [],
+      "current_witnesses": [
+        {
+          "file": "vamana_puran_gretil.xml",
+          "quality": "high",
+          "structure": "69 chapters, 4477 verses (GRETIL TEI XML)",
+          "source": "GRETIL",
+          "witness_type": "native_digital",
+          "script": "IAST"
+        }
+      ],
+      "search_queries": []
     }
   }
 }

@@ -1,0 +1,134 @@
+[
+  {
+    "file": "agni_puran_gretil.xml",
+    "title": "Agnipurāṇa",
+    "chapters": 389,
+    "verses": 22823
+  },
+  {
+    "file": "bhagavata_gretil.xml",
+    "title": "Bhāgavatapurāṇa",
+    "chapters": 326,
+    "verses": 12836
+  },
+  {
+    "file": "bhagavata_gretil_tei.xml",
+    "title": "Bhāgavatapurāṇa",
+    "chapters": 326,
+    "verses": 12836
+  },
+  {
+    "file": "brahma_puran_gretil.xml",
+    "title": "Brahmapurāṇa 1-246",
+    "chapters": 1,
+    "verses": 13900
+  },
+  {
+    "file": "garuda_puran_gretil.xml",
+    "title": "Garuḍapurāṇa",
+    "chapters": 314,
+    "verses": 11873
+  },
+  {
+    "file": "kurma_puran_gretil.xml",
+    "title": "Kūrmapurāṇa",
+    "chapters": 94,
+    "verses": 5816
+  },
+  {
+    "file": "linga_puran_gretil.xml",
+    "title": "Liṅgapurāṇa, 1-108",
+    "chapters": 108,
+    "verses": 6831
+  },
+  {
+    "file": "matsya_puran_gretil.xml",
+    "title": "Matsyapurāṇa, 1-176",
+    "chapters": 176,
+    "verses": 8553
+  },
+  {
+    "file": "narada_puran_gretil.xml",
+    "title": "Nāradapurāṇa (or Nāradīyapurāṇa)",
+    "chapters": 165,
+    "verses": 15554
+  },
+  {
+    "file": "ramayana_gretil.xml",
+    "title": "Rāmāyaṇa",
+    "chapters": 7,
+    "verses": 18761
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra-alt.xml",
+    "title": "Brahmasūtra text extracted from Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+    "chapters": 4,
+    "verses": 555
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2.xml",
+    "title": "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+    "chapters": 687,
+    "verses": 1137
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra-comm.xml",
+    "title": "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+    "chapters": 547,
+    "verses": 775
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra-subcomm.xml",
+    "title": "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+    "chapters": 553,
+    "verses": 978
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2.xml",
+    "title": "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+    "chapters": 540,
+    "verses": 916
+  },
+  {
+    "file": "sa_bAdarAyaNa-brahmasUtra.xml",
+    "title": "Brahmasūtra",
+    "chapters": 1,
+    "verses": 545
+  },
+  {
+    "file": "sa_brahmANDapurANa.xml",
+    "title": "Brahmāṇḍapurāṇa",
+    "chapters": 154,
+    "verses": 13746
+  },
+  {
+    "file": "sa_brahmabindUpaniSad.xml",
+    "title": "Brahmabindūpaniṣad",
+    "chapters": 1,
+    "verses": 22
+  },
+  {
+    "file": "sa_brahmagupta-brAhmasphuTasiddhAnta.xml",
+    "title": "Brāhmasphuṭasiddhānta",
+    "chapters": 1,
+    "verses": 214
+  },
+  {
+    "file": "vamana_puran_gretil.xml",
+    "title": "Vāmanapurāṇa, 1-69",
+    "chapters": 69,
+    "verses": 4477
+  },
+  {
+    "file": "vishnu_puran_gretil.xml",
+    "title": "Viṣṇupurāṇa",
+    "chapters": 126,
+    "verses": 6339
+  },
+  {
+    "file": "vishnu_puran_gretil_critical.xml",
+    "title": "Viṣṇupurāṇa",
+    "chapters": 120,
+    "verses": 5834
+  }
+]
