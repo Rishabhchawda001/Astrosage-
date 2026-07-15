@@ -1134,7 +1134,15 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "mrigendra_agama_vritti_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 1019827,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
   "nadabindi upanishad": {
@@ -1455,6 +1463,13 @@
         "type": "Text File (OCR/Digital)",
         "size": 2155693,
         "authority": "Low"
+      },
+      {
+        "file": "brahma_sutra_madhva_ia_ia_djvu.txt",
+        "source": "Madhva Tradition",
+        "type": "Text File",
+        "size": 2003054,
+        "authority": "High"
       }
     ],
     "metadata": {}
@@ -1973,7 +1988,15 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "vinashikha_tantra_goudriaan_ia_ia_djvu.txt",
+        "source": "Scholarly Edition",
+        "type": "Text File",
+        "size": 438920,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
   "vishnu dharma": {
@@ -2183,6 +2206,20 @@
         "type": "Text File",
         "size": 931494,
         "authority": "Low"
+      },
+      {
+        "file": "aitareya_upanishad_gp_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 347606,
+        "authority": "Low"
+      },
+      {
+        "file": "eight_upanishads_vaishnava_ia_ia_djvu.txt",
+        "source": "Vaishnava Tradition",
+        "type": "Text File",
+        "size": 1495223,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -2591,6 +2628,13 @@
         "type": "Text File",
         "size": 472367,
         "authority": "Low"
+      },
+      {
+        "file": "mundaka_shankara_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 534604,
+        "authority": "Low"
       }
     ],
     "metadata": {}
@@ -2617,6 +2661,39 @@
         "type": "Text File",
         "size": 3087518,
         "authority": "Low"
+      }
+    ],
+    "metadata": {}
+  },
+  "brihadaranyaka upanishad": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "brihadaranyaka_bhashya_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 5294661,
+        "authority": "Low"
+      },
+      {
+        "file": "brihadaranyaka_mitakshara_ia_ia_djvu.txt",
+        "source": "Mitakshara Tradition",
+        "type": "Text File",
+        "size": 1220696,
+        "authority": "High"
+      }
+    ],
+    "metadata": {}
+  },
+  "mandukya upanishad": {
+    "tei_xml": [],
+    "text_files": [
+      {
+        "file": "mandukya_gaudapada_ia_ia_djvu.txt",
+        "source": "Gaudapada Tradition",
+        "type": "Text File",
+        "size": 363311,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
