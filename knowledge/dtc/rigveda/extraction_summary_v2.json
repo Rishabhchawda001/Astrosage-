@@ -1,0 +1,17 @@
+{
+  "scripture": "Ṛgveda-Saṃhitā",
+  "samhita_verses": 10552,
+  "khila_verses": 556,
+  "total": 11108,
+  "sources": [
+    "aufrecht_gretil",
+    "vedaweb_lubotsky",
+    "vedaweb_vnh"
+  ],
+  "multi_witness": 10552,
+  "single_witness": 556,
+  "aufrecht_vs_vnh_identical": 0,
+  "aufrecht_vs_vnh_different": 10551,
+  "aufrecht_vs_lubotsky_identical": 0,
+  "aufrecht_vs_lubotsky_different": 10552
+}
