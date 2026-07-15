@@ -1,0 +1,150 @@
+{
+  "title": "Canonical Unit (CUID) Evidence Model - Rigveda",
+  "generated": "2026-07-15",
+  "principle": "The only metric that matters: can this canonical unit be proven from independent evidence? Nothing without an evidence chain. Nothing assumed. Everything falsifiable.",
+  "cuid_schema": {
+    "cuid": "RV-CU-<mandala>.<sukta>.<verse>  (permanent, never changes)",
+    "scripture": "RV",
+    "structural_position": {
+      "mandala": "int",
+      "sukta": "int",
+      "verse": "int"
+    },
+    "canonical_text": "reconstructed reading (evidence-backed)",
+    "witness_families": [
+      "F-XXXX"
+    ],
+    "witness_families_independent": [
+      "F-XXXX"
+    ],
+    "witness_families_collated": [
+      "F-XXXX"
+    ],
+    "supporting_editions": [
+      "human-readable citation"
+    ],
+    "variant_readings": [
+      {
+        "family": "F-XXXX",
+        "reading": "...",
+        "type": "orthographic|accent|segmentation|recensional|editorial|unknown"
+      }
+    ],
+    "variant_classification_policy": "Never call a difference a textual variant until every simpler explanation is eliminated: encoding > OCR > accent-mark omission > word-segmentation > orthographic > editorial normalization > THEN recensional/manuscript variant.",
+    "confidence": {
+      "independent_families": "int",
+      "score": "float 0-1"
+    },
+    "evidence_chain": [
+      "A -> B -> C"
+    ],
+    "provenance": {
+      "repository": "str",
+      "license": "str",
+      "checksum": "str"
+    },
+    "falsification_status": "pending|survived|rejected"
+  },
+  "family_collapse_rules": [
+    "Aufrecht 1863 GRETIL TEI, VNH layer in VedaWeb, any Unicode re-encoding of Aufrecht, and any OCR of Aufrecht -> ALL collapse to F-AUFRECHT (1 family).",
+    "VedaWeb Lubotsky layer (not its aufrecht/vnh reference layers, not its zurich ISO transliteration) -> F-LUBOTSKY (1 family, independent).",
+    "Chowkhamba 1973, Ramtek/KKSU, Gita Press Devanagari -> F-CHOWKHAMBA / F-RAMTEK-KKSU / F-GITAPRESS-REGIONAL, all derived from F-AUFRECHT (0 new independent families).",
+    "Sayana OCR sets -> F-SAYANA (commentarial, 0 samhita-independent families).",
+    "VedaWeb zurich layer = transliteration of Lubotsky, NOT a new family.",
+    "VedaWeb oldenberg/geldner/grassmann/macdonell/griffith/elizarenkova layers = cited reference translations/notes, NOT independent samhita witnesses."
+  ],
+  "stemma_independent_bases_for_RV_samhita": {
+    "collatable_now": [
+      "F-AUFRECHT",
+      "F-LUBOTSKY"
+    ],
+    "present_but_unusable": [
+      "F-MAXMULLER (OCR-destroyed)"
+    ],
+    "known_missing_independent": [
+      "F-OLDENBERG-SCHMIDT",
+      "F-VSM-SONTAKKE (partial)",
+      "F-BASKALA",
+      "F-GELDNER",
+      "F-GITAPRESS-REGIONAL native (script-fidelity)"
+    ]
+  },
+  "paradigm_cuid_set": {
+    "scope": "RV Mandala 1, Sukta 1 (9 verses) - extracted only from the 2 collatable independent bases",
+    "extraction_method": "Aufrecht via xml:id RV_1.001.N + <l n=...a/c> with <orig> accents preserved; Lubotsky via VedaWeb b01_h001_N_lubotsky layer. VNH/aufrecht/zurich reference layers excluded as non-independent.",
+    "verification_example": {
+      "cuid": "RV-CU-1.1.01",
+      "scripture": "RV",
+      "mandala": 1,
+      "sukta": 1,
+      "verse": 1,
+      "canonical_text": "a:a̱gnim ī̍ḻe pu̱rohi̍taṁ ya̱jñasya̍ de̱vam ṛ̱tvija̍m |",
+      "witness_families": [
+        "F-AUFRECHT"
+      ],
+      "witness_families_independent": [
+        "F-AUFRECHT"
+      ],
+      "witness_families_collated": [
+        "F-AUFRECHT",
+        "F-LUBOTSKY"
+      ],
+      "supporting_editions": [
+        "Aufrecht 1863 (GRETIL)",
+        "VedaWeb Lubotsky"
+      ],
+      "variants": {
+        "note": "see aligned padas"
+      },
+      "aligned_padas": {
+        "aufrecht": [
+          "a:a̱gnim ī̍ḻe pu̱rohi̍taṁ ya̱jñasya̍ de̱vam ṛ̱tvija̍m |",
+          "c:hotā̍raṁ ratna̱dhāta̍mam ||"
+        ],
+        "lubotsky": [
+          "agním īḷe puróhitam",
+          "yajñásya devám r̥tvíjam",
+          "hótāram ratnadhā́tamam"
+        ]
+      },
+      "confidence": {
+        "independent_families": 2,
+        "score": 0.7
+      },
+      "evidence_chain": [
+        "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)",
+        "Lubotsky transcription -> VedaWeb (F-LUBOTSKY)"
+      ],
+      "structural_position": {
+        "mandala": 1,
+        "sukta": 1,
+        "verse": 1
+      }
+    },
+    "key_observations": [
+      "Lubotsky segments RV 1.1.1 as 3 padas (a/c/p tristubh convention) while Aufrecht uses 2 (a/c). This is SEGMENTATION, recorded as class='segmentation', NOT a textual variant.",
+      "Accent placement differs (Lubotsky 'agnim ile puróhitam' vs Aufrecht 'agnim ile purohitam' with accents) - class='accent', editorial/encoding, not a recensional variant.",
+      "No genuine RECENSIONAL word variants observed in RV 1.1 between the 2 bases - consistent with prior (now qualified) stability claim, but N=9 is far below a certifiable sample."
+    ]
+  },
+  "quality_gate_RV": {
+    "every_known_witness_family_investigated": true,
+    "every_duplicate_collapsed": true,
+    "every_editorial_dependency_mapped": true,
+    "every_canonical_unit_extracted": false,
+    "every_canonical_unit_assigned_CUID": false,
+    "every_unit_linked_to_evidence": "paradigm-only (RV 1.1)",
+    "every_variant_classified": "paradigm-only",
+    "every_confidence_justified": true,
+    "every_unresolved_gap_documented": true,
+    "VERDICT": "EVIDENCE INCOMPLETE - cannot be declared a verified Digital Critical Edition until >=1 more independent samhita base (clean Max Muller and/or Oldenberg-Schmidt) is collated across the full text."
+  },
+  "scaling_plan": {
+    "step1": "Apply paradigm extractor to all 10,552 verses across F-AUFRECHT + F-LUBOTSKY -> baseline CUID set with 2-base evidence chains.",
+    "step2": "Acquire 1-2 more independent bases (priority: clean Max Muller, Oldenberg-Schmidt apparatus) -> raise independent_families to >=3 before any 'verified' label.",
+    "step3": "Collate independent families only; classify every difference per variant_classification_policy; emit variant registry.",
+    "step4": "Assign confidence per CUID from independent_families + agreement + critical-edition support; never from file count.",
+    "step5": "Re-run falsification: challenge 'stable'/'verified' claims; downgrade any CUID lacking >=2 independent families.",
+    "note": "Bounded, auditable pipeline. NOT executed as an unbounded loop in one turn; each step checkpointed and reviewed."
+  }
+}

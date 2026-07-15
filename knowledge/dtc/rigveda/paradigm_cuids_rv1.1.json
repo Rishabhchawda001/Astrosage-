@@ -1,0 +1,387 @@
+[
+ {
+  "cuid": "RV-CU-1.1.01",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 1,
+  "canonical_text": "a:a̱gnim ī̍ḻe pu̱rohi̍taṁ ya̱jñasya̍ de̱vam ṛ̱tvija̍m |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT",
+   "F-LUBOTSKY"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)",
+   "VedaWeb Lubotsky"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:a̱gnim ī̍ḻe pu̱rohi̍taṁ ya̱jñasya̍ de̱vam ṛ̱tvija̍m |",
+    "c:hotā̍raṁ ratna̱dhāta̍mam ||"
+   ],
+   "lubotsky": [
+    "agním īḷe puróhitam",
+    "yajñásya devám r̥tvíjam",
+    "hótāram ratnadhā́tamam"
+   ]
+  },
+  "confidence": {
+   "independent_families": 2,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)",
+   "Lubotsky transcription -> VedaWeb (F-LUBOTSKY)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 1
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.02",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 2,
+  "canonical_text": "a:a̱gniḥ pūrve̍bhi̱r ṛṣi̍bhi̱r īḍyo̱ nūta̍nair u̱ta |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:a̱gniḥ pūrve̍bhi̱r ṛṣi̍bhi̱r īḍyo̱ nūta̍nair u̱ta |",
+    "c:sa de̱vām̐ eha va̍kṣati ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 2
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.03",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 3,
+  "canonical_text": "a:a̱gninā̍ ra̱yim a̍śnava̱t poṣa̍m e̱va di̱ve-di̍ve |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:a̱gninā̍ ra̱yim a̍śnava̱t poṣa̍m e̱va di̱ve-di̍ve |",
+    "c:ya̱śasa̍ṁ vī̱rava̍ttamam ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 3
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.04",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 4,
+  "canonical_text": "a:agne̱ yaṁ ya̱jñam a̍dhva̱raṁ vi̱śvata̍ḥ pari̱bhūr asi̍ |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:agne̱ yaṁ ya̱jñam a̍dhva̱raṁ vi̱śvata̍ḥ pari̱bhūr asi̍ |",
+    "c:sa id de̱veṣu̍ gacchati ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 4
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.05",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 5,
+  "canonical_text": "a:a̱gnir hotā̍ ka̱vikra̍tuḥ sa̱tyaś ci̱traśra̍vastamaḥ |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:a̱gnir hotā̍ ka̱vikra̍tuḥ sa̱tyaś ci̱traśra̍vastamaḥ |",
+    "c:de̱vo de̱vebhi̱r ā ga̍mat ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 5
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.06",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 6,
+  "canonical_text": "a:yad a̱ṅga dā̱śuṣe̱ tvam agne̍ bha̱draṁ ka̍ri̱ṣyasi̍ |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:yad a̱ṅga dā̱śuṣe̱ tvam agne̍ bha̱draṁ ka̍ri̱ṣyasi̍ |",
+    "c:tavet tat sa̱tyam a̍ṅgiraḥ ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 6
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.07",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 7,
+  "canonical_text": "a:upa̍ tvāgne di̱ve-di̍ve̱ doṣā̍vastar dhi̱yā va̱yam |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:upa̍ tvāgne di̱ve-di̍ve̱ doṣā̍vastar dhi̱yā va̱yam |",
+    "c:namo̱ bhara̍nta̱ ema̍si ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 7
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.08",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 8,
+  "canonical_text": "a:rāja̍ntam adhva̱rāṇā̍ṁ go̱pām ṛ̱tasya̱ dīdi̍vim |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:rāja̍ntam adhva̱rāṇā̍ṁ go̱pām ṛ̱tasya̱ dīdi̍vim |",
+    "c:vardha̍māna̱ṁ sve dame̍ ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 8
+  }
+ },
+ {
+  "cuid": "RV-CU-1.1.09",
+  "scripture": "RV",
+  "mandala": 1,
+  "sukta": 1,
+  "verse": 9,
+  "canonical_text": "a:sa na̍ḥ pi̱teva̍ sū̱nave 'gne̍ sūpāya̱no bha̍va |",
+  "witness_families": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_independent": [
+   "F-AUFRECHT"
+  ],
+  "witness_families_collated": [
+   "F-AUFRECHT"
+  ],
+  "supporting_editions": [
+   "Aufrecht 1863 (GRETIL)"
+  ],
+  "variants": {
+   "note": "see aligned padas"
+  },
+  "aligned_padas": {
+   "aufrecht": [
+    "a:sa na̍ḥ pi̱teva̍ sū̱nave 'gne̍ sūpāya̱no bha̍va |",
+    "c:saca̍svā naḥ sva̱staye̍ ||"
+   ],
+   "lubotsky": null
+  },
+  "confidence": {
+   "independent_families": 1,
+   "score": 0.7
+  },
+  "evidence_chain": [
+   "Aufrecht 1863 -> GRETIL TEI (F-AUFRECHT)"
+  ],
+  "structural_position": {
+   "mandala": 1,
+   "sukta": 1,
+   "verse": 9
+  }
+ }
+]

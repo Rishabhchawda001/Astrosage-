@@ -1,0 +1,590 @@
+{
+  "scripture_id": "RV",
+  "canonical_name": "Rgveda-Samhita",
+  "generated": "2026-07-15",
+  "method_note": "Unit of evidence = WITNESS FAMILY, not file. Derived/edition-reprint/OCR-of-same-base witnesses are collapsed into their parent family. Local files characterized from disk; lineage beyond disk drawn from established Rigveda textual scholarship and explicitly flagged 'scholarship-based' where not locally verified.",
+  "principle": "Two members of the same family never count as independent evidence. Only distinct editorial bases / recensions / manuscript traditions count.",
+  "families": [
+    {
+      "family_id": "F-AUFRECHT",
+      "name": "Aufrecht family",
+      "type": "independent_editorial_base",
+      "representatives": [
+        "RV-W01 (GRETIL TEI)",
+        "VNH layer in RV-W02 (VedaWeb)",
+        "most Unicode re-encodings of Aufrecht"
+      ],
+      "parent_family": null,
+      "derived_from": "Aufrecht 1863 printed edition (Leipzig; 1st ed. 1861 Bonn)",
+      "editorial_basis": "Metrically-restored critical/diplomatic text with Vedic accents; became the standard base for modern RVs",
+      "recension": "Śākala",
+      "independent": true,
+      "collapsible_members_on_disk": [
+        "rigveda_aufrecht_gretil.xml",
+        "VNH layer in vedaweb"
+      ],
+      "authority": 0.95,
+      "reliability": 0.92,
+      "completeness": 0.98,
+      "locally_collatable": true,
+      "notes": "VNH (Van Nooten & Holland) and the GRETIL TEI are digitizations of Aufrecht 1863 — NOT separate witnesses."
+    },
+    {
+      "family_id": "F-LUBOTSKY",
+      "name": "Lubotsky family (VedaWeb)",
+      "type": "independent_editorial_base",
+      "representatives": [
+        "RV-W02 Lubotsky layer (VedaWeb TEI, Zenodo 4601264)"
+      ],
+      "parent_family": null,
+      "derived_from": "Lubotsky's independent diplomatic transcription from manuscripts / earlier editions",
+      "editorial_basis": "Independently re-transcribed; differs from Aufrecht in accentuation/segmentation choices",
+      "recension": "Śākala",
+      "independent": true,
+      "collapsible_members_on_disk": [
+        "Lubotsky layer in vedaweb"
+      ],
+      "authority": 0.9,
+      "reliability": 0.9,
+      "completeness": 0.98,
+      "locally_collatable": true,
+      "notes": "GENUINELY independent of Aufrecht. The only true independent base on disk besides Aufrecht."
+    },
+    {
+      "family_id": "F-MAXMULLER",
+      "name": "Max Müller family",
+      "type": "independent_editorial_base",
+      "representatives": [
+        "RV-W05 (Archive.org OCR, currently garbled)"
+      ],
+      "parent_family": null,
+      "derived_from": "Max Müller 1849/1856 edition with Sāyaṇa (London)",
+      "editorial_basis": "Independent 19th-c. edition; predates Aufrecht, sometimes divergent readings",
+      "recension": "Śākala",
+      "independent": true,
+      "collapsible_members_on_disk": [
+        "rigveda_maxmuller_djvu.txt"
+      ],
+      "authority": 0.8,
+      "reliability": 0.1,
+      "completeness": 0.3,
+      "locally_collatable": false,
+      "notes": "Independent 3rd base but OCR on disk is destructively garbled; must be re-acquired clean to count."
+    },
+    {
+      "family_id": "F-OLDENBERG-SCHMIDT",
+      "name": "Oldenberg & Schmidt critical-notes family",
+      "type": "independent_critical_apparatus",
+      "representatives": [
+        "NOT on disk"
+      ],
+      "parent_family": null,
+      "derived_from": "Oldenberg & Schmidt, 'Rig-Veda: Textkritische und exegetische Noten' (Berlin 1909-13), with Sāyaṇa",
+      "editorial_basis": "Major independent critical apparatus; documents variants and conjectures",
+      "recension": "Śākala",
+      "independent": true,
+      "collapsible_members_on_disk": [],
+      "authority": 0.92,
+      "reliability": 0.9,
+      "completeness": 0.9,
+      "locally_collatable": false,
+      "notes": "Scholarship-based entry; not yet acquired. Highest-priority missing independent family."
+    },
+    {
+      "family_id": "F-VSM-SONTAKKE",
+      "name": "Vaidika Saṃśodhana Maṇḍala (Sontakke) family",
+      "type": "independent_critical_edition",
+      "representatives": [
+        "RV-W07 Part 4 only (Mandas 6-8)"
+      ],
+      "parent_family": null,
+      "derived_from": "VSM critical edition with Sāyaṇa (Poona, 5 parts)",
+      "editorial_basis": "Separate critical-edition lineage with Sāyaṇa bhāṣya",
+      "recension": "Śākala",
+      "independent": true,
+      "collapsible_members_on_disk": [
+        "rigveda_sontakke_part4_djvu.txt"
+      ],
+      "authority": 0.85,
+      "reliability": 0.5,
+      "completeness": 0.3,
+      "locally_collatable": false,
+      "notes": "Only Part 4 present; rest (Mandas 1-5, 9-10) missing. Independent editorial tradition worth completing."
+    },
+    {
+      "family_id": "F-CHOWKHAMBA",
+      "name": "Chowkhamba publisher family",
+      "type": "derivative_publisher_reprint",
+      "representatives": [
+        "RV-W06 Chowkhamba 1973 (Uma Shankar Sharma)"
+      ],
+      "parent_family": "F-AUFRECHT",
+      "derived_from": "Aufrecht/Sāyaṇa print lineage (publisher reprint)",
+      "editorial_basis": "Publisher reprint, Devanagari; no independent recension",
+      "recension": "Śākala",
+      "independent": false,
+      "collapsible_members_on_disk": [
+        "rigveda_chowkhamba_1973_djvu.txt"
+      ],
+      "authority": 0.6,
+      "reliability": 0.35,
+      "completeness": 0.9,
+      "locally_collatable": false,
+      "notes": "Derivative of Aufrecht. Does NOT add an independent family."
+    },
+    {
+      "family_id": "F-RAMTEK-KKSU",
+      "name": "Ramtek / KKSU publisher family",
+      "type": "derivative_publisher_reprint",
+      "representatives": [
+        "RV-W09 Ramtek/KKSU"
+      ],
+      "parent_family": "F-AUFRECHT",
+      "derived_from": "Aufrecht/Sāyaṇa Devanagari reprint lineage",
+      "editorial_basis": "Regional Devanagari publisher edition",
+      "recension": "Śākala",
+      "independent": false,
+      "collapsible_members_on_disk": [
+        "rigveda_samhita_ramtek_djvu.txt"
+      ],
+      "authority": 0.55,
+      "reliability": 0.45,
+      "completeness": 0.7,
+      "locally_collatable": false,
+      "notes": "Derivative. Script-fidelity check only."
+    },
+    {
+      "family_id": "F-GITAPRESS-REGIONAL",
+      "name": "Gita Press / regional Devanagari family",
+      "type": "derivative_publisher_reprint",
+      "representatives": [
+        "referenced in dossier; not a separate clean file on disk"
+      ],
+      "parent_family": "F-AUFRECHT",
+      "derived_from": "Aufrecht/Sāyaṇa Devanagari reprint lineage",
+      "editorial_basis": "Popular Devanagari edition",
+      "recension": "Śākala",
+      "independent": false,
+      "collapsible_members_on_disk": [],
+      "authority": 0.55,
+      "reliability": 0.4,
+      "completeness": 0.8,
+      "locally_collatable": false,
+      "notes": "Derivative of Aufrecht. No native-Unicode representative on disk."
+    },
+    {
+      "family_id": "F-SAYANA",
+      "name": "Sāyaṇa commentary tradition",
+      "type": "commentarial_tradition",
+      "representatives": [
+        "RV-W08 (3 OCR sets of Sāyaṇa bhāṣya)"
+      ],
+      "parent_family": null,
+      "derived_from": "Sāyaṇa (13th c.) bhāṣya; multiple print lineages (VSM, Chowkhamba, Bombay)",
+      "editorial_basis": "Commentary, not a saṃhitā base; authoritative for meaning and occasionally readings",
+      "recension": "Śākala",
+      "independent": false,
+      "collapsible_members_on_disk": [
+        "rigveda_sayanacharya_djvu.txt",
+        "rigveda_sayana_bhashya_ia_ia_djvu.txt",
+        "rigveda_bhashyam.txt"
+      ],
+      "authority": 0.9,
+      "reliability": 0.4,
+      "completeness": 0.6,
+      "locally_collatable": false,
+      "notes": "Commentarial family; not a primary textual witness. No clean native-Unicode Sāyaṇa on disk."
+    },
+    {
+      "family_id": "F-PADAPATHA",
+      "name": "Padapāṭha tradition",
+      "type": "separate_textual_tradition",
+      "representatives": [
+        "RV-W03 (GRETIL TEI)"
+      ],
+      "parent_family": null,
+      "derived_from": "Śākala padapāṭha (word-divided oral tradition)",
+      "editorial_basis": "Separate textual tradition (pada vs saṃhitā); validates sandhi/word boundaries",
+      "recension": "Śākala padapāṭha",
+      "independent": true,
+      "collapsible_members_on_disk": [
+        "rigveda_padapatha_gretil.xml"
+      ],
+      "authority": 0.85,
+      "reliability": 0.85,
+      "completeness": 0.8,
+      "locally_collatable": true,
+      "notes": "Independent tradition used as a cross-check, not as a saṃhitā base."
+    },
+    {
+      "family_id": "F-KHILA",
+      "name": "Khila tradition",
+      "type": "separate_textual_tradition",
+      "representatives": [
+        "RV-W04 (GRETIL/Tokunaga)"
+      ],
+      "parent_family": null,
+      "derived_from": "Ṛgvedakhilāni (Vālakhilya + scattered khilas)",
+      "editorial_basis": "Supplemental hymns; outside the 1028-sūkta Śākala core",
+      "recension": "Śākala (khila appendix)",
+      "independent": true,
+      "collapsible_members_on_disk": [
+        "rigveda_khila_gretil.xml"
+      ],
+      "authority": 0.8,
+      "reliability": 0.8,
+      "completeness": 0.7,
+      "locally_collatable": true,
+      "notes": "Separate. Not counted toward the core 10,552-verse text."
+    },
+    {
+      "family_id": "F-BASKALA",
+      "name": "Bāṣkala recension",
+      "type": "independent_recension",
+      "representatives": [
+        "NOT on disk"
+      ],
+      "parent_family": null,
+      "derived_from": "Bāṣkala recension (only Bāṣkala-padapāṭha + Bāṣkalopaniṣad survive)",
+      "editorial_basis": "Second of the four attested RV recensions",
+      "recension": "Bāṣkala",
+      "independent": true,
+      "collapsible_members_on_disk": [],
+      "authority": 0.8,
+      "reliability": 0.9,
+      "completeness": 0.5,
+      "locally_collatable": false,
+      "notes": "Scholarship-based entry; missing. Would add a genuinely different recension."
+    },
+    {
+      "family_id": "F-EARLY-COMMENTARY",
+      "name": "Early commentary tradition (Skandasvāmin / Udgītha / Veṅkaṭamādhava)",
+      "type": "commentarial_tradition",
+      "representatives": [
+        "NOT on disk"
+      ],
+      "parent_family": null,
+      "derived_from": "Pre-Sāyaṇa commentaries (Skandasvāmin, Udgītha on RV 1-2; Veṅkaṭamādhava)",
+      "editorial_basis": "Earlier interpretive traditions, sometimes preserving different readings",
+      "recension": "Śākala",
+      "independent": false,
+      "collapsible_members_on_disk": [],
+      "authority": 0.85,
+      "reliability": 0.9,
+      "completeness": 0.6,
+      "locally_collatable": false,
+      "notes": "Scholarship-based; missing. Distinct from Sāyaṇa family."
+    },
+    {
+      "family_id": "F-GELDNER",
+      "name": "Geldner family",
+      "type": "independent_translation_with_notes",
+      "representatives": [
+        "NOT on disk"
+      ],
+      "parent_family": null,
+      "derived_from": "Geldner, 'Der Rig-Veda' (Harvard Oriental Series, 1951), with notes",
+      "editorial_basis": "Independent scholarly translation & notes; documents readings/conjectures",
+      "recension": "Śākala",
+      "independent": true,
+      "collapsible_members_on_disk": [],
+      "authority": 0.85,
+      "reliability": 0.9,
+      "completeness": 0.9,
+      "locally_collatable": false,
+      "notes": "Scholarship-based; missing. Adds an independent scholarly reading."
+    },
+    {
+      "family_id": "F-TRANSLATION",
+      "name": "Translation family (Wilson / Hindi / Gujarati)",
+      "type": "translation_secondary",
+      "representatives": [
+        "RV-W10 (Wilson English, Hindi, Gujarati)"
+      ],
+      "parent_family": null,
+      "derived_from": "Translations of Aufrecht/Sāyaṇa-based text",
+      "editorial_basis": "Translations; semantic validation only",
+      "recension": "Śākala",
+      "independent": false,
+      "collapsible_members_on_disk": [
+        "rigvedasanhitc01wils.txt",
+        "rigveda_hindi.txt",
+        "rigveda-gujarati-mandal1.txt",
+        "rigveda_english.txt"
+      ],
+      "authority": 0.5,
+      "reliability": 0.4,
+      "completeness": 0.6,
+      "locally_collatable": false,
+      "notes": "Secondary; not collation-grade for the Sanskrit text."
+    }
+  ],
+  "local_files_mapped": [
+    {
+      "file": "rigveda_aufrecht_gretil.xml",
+      "family": "F-AUFRECHT",
+      "collapses_with": [
+        "VNH layer"
+      ]
+    },
+    {
+      "file": "vedaweb/.../rv_book_*.tei",
+      "family": "F-AUFRECHT (VNH) + F-LUBOTSKY",
+      "note": "single file contains BOTH families: VNH collapses to Aufrecht, Lubotsky stays independent"
+    },
+    {
+      "file": "rigveda_padapatha_gretil.xml",
+      "family": "F-PADAPATHA"
+    },
+    {
+      "file": "rigveda_khila_gretil.xml",
+      "family": "F-KHILA"
+    },
+    {
+      "file": "rigveda_maxmuller_djvu.txt",
+      "family": "F-MAXMULLER",
+      "collapsible": "unusable"
+    },
+    {
+      "file": "rigveda_chowkhamba_1973_djvu.txt",
+      "family": "F-CHOWKHAMBA → F-AUFRECHT"
+    },
+    {
+      "file": "rigveda_sontakke_part4_djvu.txt",
+      "family": "F-VSM-SONTAKKE"
+    },
+    {
+      "file": "rigveda_sayanacharya_djvu.txt",
+      "family": "F-SAYANA"
+    },
+    {
+      "file": "rigveda_sayana_bhashya_ia_ia_djvu.txt",
+      "family": "F-SAYANA"
+    },
+    {
+      "file": "rigveda_bhashyam.txt",
+      "family": "F-SAYANA"
+    },
+    {
+      "file": "rigveda_samhita_ramtek_djvu.txt",
+      "family": "F-RAMTEK-KKSU → F-AUFRECHT"
+    },
+    {
+      "file": "rigvedasanhitc01wils.txt",
+      "family": "F-TRANSLATION"
+    },
+    {
+      "file": "rigveda_hindi.txt",
+      "family": "F-TRANSLATION"
+    },
+    {
+      "file": "rigveda-gujarati-mandal1.txt",
+      "family": "F-TRANSLATION"
+    },
+    {
+      "file": "rigveda_english.txt",
+      "family": "F-TRANSLATION"
+    },
+    {
+      "file": "rigveda_api.json",
+      "family": "F-AUFRECHT (sample subset)",
+      "note": "179-verse sample, no independent value"
+    }
+  ],
+  "stemma_edges": [
+    {
+      "from": "Aufrecht 1863",
+      "to": "F-AUFRECHT",
+      "relation": "base"
+    },
+    {
+      "from": "F-AUFRECHT",
+      "to": "F-CHOWKHAMBA",
+      "relation": "derivative_reprint"
+    },
+    {
+      "from": "F-AUFRECHT",
+      "to": "F-RAMTEK-KKSU",
+      "relation": "derivative_reprint"
+    },
+    {
+      "from": "F-AUFRECHT",
+      "to": "F-GITAPRESS-REGIONAL",
+      "relation": "derivative_reprint"
+    },
+    {
+      "from": "VNH digitization",
+      "to": "F-AUFRECHT",
+      "relation": "digitization_of"
+    },
+    {
+      "from": "GRETIL TEI",
+      "to": "F-AUFRECHT",
+      "relation": "digitization_of"
+    },
+    {
+      "from": "Lubotsky transcription",
+      "to": "F-LUBOTSKY",
+      "relation": "base"
+    },
+    {
+      "from": "Max Müller 1849/56",
+      "to": "F-MAXMULLER",
+      "relation": "base"
+    },
+    {
+      "from": "Oldenberg & Schmidt 1909-13",
+      "to": "F-OLDENBERG-SCHMIDT",
+      "relation": "base"
+    },
+    {
+      "from": "VSM Poona",
+      "to": "F-VSM-SONTAKKE",
+      "relation": "base"
+    },
+    {
+      "from": "Sāyaṇa 13th c.",
+      "to": "F-SAYANA",
+      "relation": "base"
+    },
+    {
+      "from": "Skandasvāmin/Udgītha",
+      "to": "F-EARLY-COMMENTARY",
+      "relation": "base"
+    },
+    {
+      "from": "Geldner 1951",
+      "to": "F-GELDNER",
+      "relation": "base"
+    },
+    {
+      "from": "Śākala padapāṭha",
+      "to": "F-PADAPATHA",
+      "relation": "base"
+    },
+    {
+      "from": "Ṛgvedakhilāni",
+      "to": "F-KHILA",
+      "relation": "base"
+    },
+    {
+      "from": "Bāṣkala recension",
+      "to": "F-BASKALA",
+      "relation": "base"
+    }
+  ],
+  "recalibrated_evidence": {
+    "raw_files_on_disk": 16,
+    "distinct_witness_families": 15,
+    "independent_families": 9,
+    "independent_families_collatable_now": 4,
+    "independent_families_present_but_unusable": 1,
+    "independent_families_missing_or_partial": 5,
+    "derivative_reprint_families": 3,
+    "commentarial_families": 2,
+    "separate_tradition_families": 2,
+    "translation_families": 1,
+    "evidence_density_before_correction": "misstated as 3 independent witnesses (counted VNH separately)",
+    "evidence_density_corrected": "2 collatable independent SAṂHITĀ bases (Aufrecht, Lubotsky); Max Müller (3rd independent base) present but OCR-destroyed; Padapāṭha & Khila are separate independent traditions",
+    "canonical_confidence_corrected": "MODERATE — based on only 2 collatable independent saṃhitā bases; prior 'high/stable' claim is UNPROVEN until Oldenberg-Schmidt + clean Max Müller are collated"
+  },
+  "falsification_updates": [
+    {
+      "prior_claim": "'three independent witnesses' (Aufrecht, VedaWeb, VNH)",
+      "status": "REJECTED",
+      "reason": "VNH is a digitization of Aufrecht; only Aufrecht + Lubotsky are independent bases"
+    },
+    {
+      "prior_claim": "'text is remarkably stable; differences are editorial not genuine variants'",
+      "status": "UNPROVEN / PRELIMINARY",
+      "reason": "Only 2 independent bases compared; Max Müller (3rd base) excluded as OCR-unusable. Need Oldenberg-Schmidt apparatus + clean Max Müller to confirm."
+    },
+    {
+      "prior_claim": "'10,552 verses verified'",
+      "status": "NEEDS REQUALIFICATION",
+      "reason": "Verified only against Aufrecht+Lubotsky (2 bases). 'Verified' should mean 'across independent families'; current basis is thin."
+    }
+  ],
+  "gap_analysis_by_family": [
+    {
+      "family": "F-OLDENBERG-SCHMIDT",
+      "gap": "missing independent critical apparatus",
+      "priority": "high",
+      "improves": "variant evidence, falsification of stability claim"
+    },
+    {
+      "family": "F-MAXMULLER",
+      "gap": "OCR-destroyed; needs clean re-acquisition",
+      "priority": "high",
+      "improves": "adds 3rd independent base"
+    },
+    {
+      "family": "F-VSM-SONTAKKE",
+      "gap": "Parts 1-3,5 missing",
+      "priority": "medium",
+      "improves": "completes independent critical edition"
+    },
+    {
+      "family": "F-SAYANA",
+      "gap": "no clean native-Unicode complete text",
+      "priority": "high",
+      "improves": "authoritative commentary alignment"
+    },
+    {
+      "family": "F-BASKALA",
+      "gap": "second recension absent",
+      "priority": "medium",
+      "improves": "recensional diversity"
+    },
+    {
+      "family": "F-EARLY-COMMENTARY",
+      "gap": "Skandasvāmin etc. absent",
+      "priority": "medium",
+      "improves": "early commentarial tradition"
+    },
+    {
+      "family": "F-GELDNER",
+      "gap": "absent",
+      "priority": "low",
+      "improves": "independent scholarly reading"
+    },
+    {
+      "family": "F-GITAPRESS-REGIONAL / native Devanagari",
+      "gap": "no native-Unicode Devanagari saṃhitā",
+      "priority": "medium",
+      "improves": "script-fidelity independent of transliteration"
+    }
+  ],
+  "acquisition_queue_by_family": [
+    {
+      "target_family": "F-OLDENBERG-SCHMIDT",
+      "search_by": "editor=Oldenberg+Schmidt, title='Rig-Veda textkritische Noten'",
+      "priority": "high"
+    },
+    {
+      "target_family": "F-MAXMULLER",
+      "search_by": "editor=Max Müller, 1849/1856; clean scan or native text",
+      "priority": "high"
+    },
+    {
+      "target_family": "F-SAYANA",
+      "search_by": "commentary=Sāyaṇa, repository=Muktabodha/SARIT native Unicode",
+      "priority": "high"
+    },
+    {
+      "target_family": "F-VSM-SONTAKKE",
+      "search_by": "publisher=Vaidika Saṃśodhana Maṇḍala, all 5 parts",
+      "priority": "medium"
+    },
+    {
+      "target_family": "F-BASKALA",
+      "search_by": "recension=Bāṣkala, Bāṣkala-padapāṭha",
+      "priority": "medium"
+    },
+    {
+      "target_family": "F-GITAPRESS-REGIONAL",
+      "search_by": "native Unicode Devanagari saṃhitā (GRETIL Unicode / publisher)",
+      "priority": "medium"
+    }
+  ]
+}

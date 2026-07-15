@@ -1,0 +1,468 @@
+{
+  "scripture_id": "RV",
+  "canonical_name": "Rgveda-Samhita",
+  "iast": "Ṛgvedasaṃhitā",
+  "devanagari": "ऋग्वेदसंहिता",
+  "classification": "Śruti — Veda (first of four)",
+  "expected_structure_scholarly": {
+    "mandalas": 10,
+    "suktas_sakala": 1028,
+    "rcah_sakala_approx": 10552,
+    "khilas": "supplemental (Vālakhilya + others), not in Śākala padapāṭha count",
+    "padapatha": "word-divided tradition, parallel to saṃhitāpāṭha",
+    "recensions_attested": [
+      "Śākala (extant, complete)",
+      "Bāṣkala (lost saṃhitā; Bāṣkala-padapāṭha + Bāṣkalopaniṣad survive)",
+      "Śāṅkhāyana",
+      "Māṇḍūkāyana (faintly attested)"
+    ]
+  },
+  "census_status": "PARTIAL — local witnesses characterized; missing-witness universe documented but NOT exhaustively searched this session",
+  "generated": "2026-07-15",
+  "method_note": "Grounded in files actually present under knowledge/downloads plus established Rigveda textual scholarship. No remote searches performed this turn; missing-witness entries are documented from scholarship with discovery leads, NOT verified as acquired.",
+  "witnesses": [
+    {
+      "id": "RV-W01",
+      "name": "Aufrecht edition (GRETIL TEI)",
+      "editors": [
+        "Theodor Aufrecht (1863, 2nd ed.)",
+        "digitized by Van Nooten & Holland",
+        "TEI conversion Detlef Eichler"
+      ],
+      "publisher": "GRETIL (Universität Leipzig), text orig. Leipzig 1863",
+      "year": 1863,
+      "language": "Vedic Sanskrit",
+      "script": "IAST + SLP1 in TEI; accentuated",
+      "format": "TEI XML (Unicode)",
+      "ocr_or_native": "born-digital Unicode",
+      "critical": "Critical/diplomatic base text (metrical restoration, accents)",
+      "verses": 10552,
+      "recension": "Śākala",
+      "witness_family": "Aufrecht family",
+      "stemma_role": "primary editorial base; all modern digital RV derive from this printed edition",
+      "license": "CC-BY-NC-SA (GRETIL)",
+      "authority_score": 0.95,
+      "reliability_score": 0.92,
+      "completeness_score": 0.98,
+      "acquisition_status": "acquired",
+      "local_file": "downloads/rigveda_aufrecht_gretil.xml",
+      "checksum_sha256": "14197d9c1dcced64900ef971d9f4dc5b46aa8750780f5599453c9739d6a29edd",
+      "notes": "21,035 <l> (pada-level) elements = 10,552 verses. THE reference digital text."
+    },
+    {
+      "id": "RV-W02",
+      "name": "VedaWeb TEI (Lubotsky + VNH)",
+      "editors": [
+        "Alexander Lubotsky (transcription)",
+        "Van Nooten & Holland (VNH layer)",
+        "CCeH Cologne"
+      ],
+      "publisher": "VedaWeb, Cologne Center for eHumanities (Zenodo 4601264)",
+      "year": 2020,
+      "language": "Vedic Sanskrit",
+      "script": "Unicode, accentuated",
+      "format": "TEI XML (Zenodo 4601264)",
+      "ocr_or_native": "born-digital Unicode",
+      "critical": "Independently transcribed diplomatic text (Lubotsky) + Aufrecht-based layer (VNH)",
+      "verses": 10552,
+      "recension": "Śākala",
+      "witness_family": "Lubotsky family + Aufrecht derivative (VNH)",
+      "stemma_role": "Lubotsky = genuinely independent scholarly transcription. VNH layer = DERIVATIVE of Aufrecht (RV-W01).",
+      "license": "CC-BY",
+      "authority_score": 0.9,
+      "reliability_score": 0.9,
+      "completeness_score": 0.98,
+      "acquisition_status": "acquired",
+      "local_file": "downloads/vedaweb/cceh-c-salt_vedaweb_tei-f975755/rv_book_*.tei",
+      "checksum_sha256": "36eefff341fab101e23be4661caae7c876ace4358b4464368c42e2a4a8cd717e",
+      "notes": "Books 1-10, 10,552 stanzas. Contains BOTH an independent reading (Lubotsky) and a re-encoding of Aufrecht (VNH). Prior '3-witness' comparison counted VNH separately, inflating independence."
+    },
+    {
+      "id": "RV-W03",
+      "name": "Padapāṭha (GRETIL TEI)",
+      "editors": [
+        "GRETIL / Sansknet digitization"
+      ],
+      "publisher": "GRETIL",
+      "year": null,
+      "language": "Vedic Sanskrit",
+      "script": "Unicode, accentuated",
+      "format": "TEI XML",
+      "ocr_or_native": "born-digital Unicode",
+      "critical": "Word-divided śikṣā tradition (separate textual witness, not a commentary)",
+      "verses": null,
+      "recension": "Śākala padapāṭha",
+      "witness_family": "Padapāṭha tradition",
+      "stemma_role": "independent textual tradition (pada vs saṃhitā), used for sandhi/phonology validation",
+      "license": "CC-BY-NC-SA",
+      "authority_score": 0.85,
+      "reliability_score": 0.85,
+      "completeness_score": 0.8,
+      "acquisition_status": "acquired",
+      "local_file": "downloads/rigveda_padapatha_gretil.xml",
+      "checksum_sha256": "10e00e959386368a42c74cdf4a49b8ba6a7eef8d986b0f09491d44b8f630ba39",
+      "notes": "Word-division tradition; validates pada boundaries and sandhi."
+    },
+    {
+      "id": "RV-W04",
+      "name": "Khilāni / Khilas (GRETIL TEI, Tokunaga)",
+      "editors": [
+        "Muneo Tokunaga (GRETIL)"
+      ],
+      "publisher": "GRETIL",
+      "year": null,
+      "language": "Vedic Sanskrit",
+      "script": "Unicode, accentuated",
+      "format": "TEI XML",
+      "ocr_or_native": "born-digital Unicode",
+      "critical": "Supplemental hymns (Vālakhilya + scattered khilas)",
+      "verses": 556,
+      "recension": "Śākala (khila appendix)",
+      "witness_family": "Khila tradition",
+      "stemma_role": "supplement; not part of the 1028-sūkta Śākala core",
+      "license": "CC-BY-NC-SA",
+      "authority_score": 0.8,
+      "reliability_score": 0.8,
+      "completeness_score": 0.7,
+      "acquisition_status": "acquired",
+      "local_file": "downloads/rigveda_khila_gretil.xml",
+      "checksum_sha256": "5c1f2a480dc9a4193f531a23b07169584adb8024ca2e7924d1a84226d24f2932",
+      "notes": "556 verses on disk (prior summary over-counted as 1920; actual <l>=1314 lines)."
+    },
+    {
+      "id": "RV-W05",
+      "name": "Max Müller, 'Rig-Veda Sanhita' (Archive.org OCR)",
+      "editors": [
+        "Friedrich Max Müller (1849/1856, with Sāyaṇa)"
+      ],
+      "publisher": "Archive.org (bub_gb_52m2wAuelMgC)",
+      "year": 1849,
+      "language": "Sanskrit + English (Sāyaṇa translation)",
+      "script": "Devanagari (OCR)",
+      "format": "DJVU/OCR TXT",
+      "ocr_or_native": "OCR (GARBLED)",
+      "critical": "Independent 19th-c. edition with Sāyaṇa bhāṣya",
+      "verses": null,
+      "recension": "Śākala",
+      "witness_family": "Max Müller family",
+      "stemma_role": "INDEPENDENT editorial base vs Aufrecht — would add real diversity IF readable",
+      "license": "Public domain",
+      "authority_score": 0.8,
+      "reliability_score": 0.1,
+      "completeness_score": 0.3,
+      "acquisition_status": "acquired_but_unusable",
+      "local_file": "downloads/rigveda_maxmuller_djvu.txt",
+      "checksum_sha256": "b8766ce4c7b3a7b0789c7109c97aa5dff16eb91525dd5d3fe6d678cc8216f1a0",
+      "notes": "OCR is destructively garbled (encoding damage). Cannot currently be collated. Re-acquisition of a clean scan or native text needed."
+    },
+    {
+      "id": "RV-W06",
+      "name": "Chowkhamba Sanskrit Series Office, 1973 (Uma Shankar Sharma)",
+      "editors": [
+        "Uma Shankar Sharma (ed.)"
+      ],
+      "publisher": "Chowkhamba Sanskrit Series Office, Varanasi, 1973",
+      "year": 1973,
+      "language": "Sanskrit (Devanagari)",
+      "script": "Devanagari (OCR)",
+      "format": "DJVU/OCR TXT",
+      "ocr_or_native": "OCR (poor)",
+      "critical": "Publisher printing (likely Aufrecht/Sāyaṇa-derived)",
+      "verses": null,
+      "recension": "Śākala",
+      "witness_family": "Publisher family (Chowkhamba)",
+      "stemma_role": "publisher reprint — likely derivative of Aufrecht; low independence",
+      "license": "In copyright (post-1957 Indian edition) — verify before redistribution",
+      "authority_score": 0.6,
+      "reliability_score": 0.35,
+      "completeness_score": 0.9,
+      "acquisition_status": "acquired_ocr_poor",
+      "local_file": "downloads/rigveda_chowkhamba_1973_djvu.txt",
+      "checksum_sha256": "c2f7a27cc287b573e0230eaf3911a00085f4c34c3bfc59d0d0d8c36406740253",
+      "notes": "OCR quality poor; primarily useful as a Devanagari sanity check, not as an independent critical witness."
+    },
+    {
+      "id": "RV-W07",
+      "name": "Sontakke / Vaidika Saṃśodhana Maṇḍala edition (Part 4, Mandalas 6-8)",
+      "editors": [
+        "N. S. Sontakke et al. (Vaidika Saṃśodhana Maṇḍala, Poona)"
+      ],
+      "publisher": "Vaidika Saṃśodhana Maṇḍala, Poona",
+      "year": null,
+      "language": "Sanskrit (Devanagari) + Sāyaṇa",
+      "script": "Devanagari (OCR)",
+      "format": "DJVU/OCR TXT",
+      "ocr_or_native": "OCR (moderate)",
+      "critical": "Critical edition WITH Sāyaṇa bhāṣya; important independent editorial tradition",
+      "verses": null,
+      "recension": "Śākala",
+      "witness_family": "Vaidika Saṃśodhana Maṇḍala family",
+      "stemma_role": "scholarly critical edition lineage — higher authority than Chowkhamba",
+      "license": "In copyright — verification needed",
+      "authority_score": 0.85,
+      "reliability_score": 0.5,
+      "completeness_score": 0.3,
+      "acquisition_status": "acquired_partial_ocr",
+      "local_file": "downloads/rigveda_sontakke_part4_djvu.txt",
+      "checksum_sha256": "dc959c87920e887841a4851a998da36d3c499b4d6db1f3e69b5de14ca7445c21",
+      "notes": "Only Part 4 on disk (Mandas 6-8). Rest of the 5-part set (Mandas 1-5, 9-10) NOT acquired."
+    },
+    {
+      "id": "RV-W08",
+      "name": "Sāyaṇa Bhāṣya (multiple OCR scans)",
+      "editors": [
+        "Sāyaṇa (13th c.)",
+        "various print eds."
+      ],
+      "publisher": "Archive.org (multiple items)",
+      "year": null,
+      "language": "Sanskrit (Devanagari)",
+      "script": "Devanagari (OCR)",
+      "format": "DJVU/OCR TXT",
+      "ocr_or_native": "OCR (multiple, mixed quality)",
+      "critical": "Commentary (not a saṃhitā witness, but authoritative interpretive tradition)",
+      "verses": null,
+      "recension": "Śākala",
+      "witness_family": "Sāyaṇa commentary tradition",
+      "stemma_role": "commentarial; validates meaning & sometimes readings",
+      "license": "Public domain (commentary text); print eds may differ",
+      "authority_score": 0.9,
+      "reliability_score": 0.4,
+      "completeness_score": 0.6,
+      "acquisition_status": "acquired_ocr_mixed",
+      "local_file": "downloads/rigveda_sayanacharya_djvu.txt ; downloads/rigveda_sayana_bhashya_ia_ia_djvu.txt ; downloads/rigveda_bhashyam.txt",
+      "checksum_sha256": null,
+      "notes": "Three overlapping OCR sets of Sāyaṇa. None clean. No complete native-Unicode Sāyaṇa yet."
+    },
+    {
+      "id": "RV-W09",
+      "name": "Ramtek / KKSU Śrī Raghuveda collection (OCR)",
+      "editors": [
+        "Ramtek / Kavikulaguru Kalidas Sanskrit University"
+      ],
+      "publisher": "KKSU",
+      "year": null,
+      "language": "Sanskrit (Devanagari)",
+      "script": "Devanagari (OCR)",
+      "format": "DJVU/OCR TXT",
+      "ocr_or_native": "OCR (moderate)",
+      "critical": "Regional devanagari edition",
+      "verses": null,
+      "recension": "Śākala",
+      "witness_family": "Regional publisher family",
+      "stemma_role": "publisher reprint derivative",
+      "license": "In copyright — verify",
+      "authority_score": 0.55,
+      "reliability_score": 0.45,
+      "completeness_score": 0.7,
+      "acquisition_status": "acquired_ocr",
+      "local_file": "downloads/rigveda_samhita_ramtek_djvu.txt",
+      "checksum_sha256": "88105a221827c8f8555d9ffbfb77ed4f07c67877a8de7f3bc2efa83c25fc47dc",
+      "notes": "Devanagari; useful for script-fidelity cross-check only."
+    },
+    {
+      "id": "RV-W10",
+      "name": "Translations (Wilson English, Hindi, Gujarati)",
+      "editors": [
+        "H. H. Wilson (English)",
+        "various (Hindi/Gujarati)"
+      ],
+      "publisher": "Archive.org / various",
+      "year": null,
+      "language": "English/Hindi/Gujarati",
+      "script": "various",
+      "format": "TXT (OCR)",
+      "ocr_or_native": "OCR (mixed)",
+      "critical": "Translations (not primary textual witnesses)",
+      "verses": null,
+      "recension": "Śākala",
+      "witness_family": "Translation tradition",
+      "stemma_role": "secondary; useful for semantic validation only",
+      "license": "Mixed",
+      "authority_score": 0.5,
+      "reliability_score": 0.4,
+      "completeness_score": 0.6,
+      "acquisition_status": "acquired_ocr",
+      "local_file": "downloads/rigvedasanhitc01wils.txt ; downloads/rigveda_hindi.txt ; downloads/rigveda-gujarati-mandal1.txt ; downloads/rigveda_english.txt",
+      "checksum_sha256": null,
+      "notes": "Wilson 1850s English; Hindi/Gujarati partial. Not collation-grade for the Sanskrit text."
+    },
+    {
+      "id": "RV-W11",
+      "name": "Rigveda_api.json (V33nom) sample",
+      "editors": [
+        "GitHub V33nom/Rigveda_api"
+      ],
+      "publisher": "GitHub",
+      "year": null,
+      "language": "Devanagari + English",
+      "script": "Unicode Devanagari",
+      "format": "JSON",
+      "ocr_or_native": "born-digital Unicode",
+      "critical": "Sample dataset (179 entries)",
+      "verses": 179,
+      "recension": "Śākala",
+      "witness_family": "Sample/API",
+      "stemma_role": "NOT a complete witness; subset only",
+      "license": "Repository license",
+      "authority_score": 0.4,
+      "reliability_score": 0.6,
+      "completeness_score": 0.02,
+      "acquisition_status": "acquired_partial_sample",
+      "local_file": "downloads/rigveda_api.json",
+      "checksum_sha256": "c573e4e93541f5146f861bae52f348fffc80fb15dde5c8409144c3d1d6ed10c4",
+      "notes": "Only 179 sample verses. Cannot serve as a collation base."
+    }
+  ],
+  "witness_universe_missing": [
+    {
+      "name": "Aufrecht 1st ed. (1861, Bonn)",
+      "why": "earlier editorial state; predates 1863 metrical restoration",
+      "family": "Aufrecht family",
+      "discovery_lead": "HathiTrust / Google Books / archive.org",
+      "priority": "low"
+    },
+    {
+      "name": "Oldenberg & Schmidt, 'Rig-Veda: Textkritische und exegetische Noten' (1909-13) + Sāyaṇa",
+      "why": "major critical apparatus with Sāyaṇa; independent editorial judgment",
+      "family": "Oldenberg-Schmidt family",
+      "discovery_lead": "HathiTrust / archive.org",
+      "priority": "high"
+    },
+    {
+      "name": "Sāyaṇa Bhāṣya — complete native Unicode (e.g., Muktabodha / SARIT TEI)",
+      "why": "authoritative commentary, no clean digital text on disk",
+      "family": "Sāyaṇa tradition",
+      "discovery_lead": "Muktabodha, SARIT, GRETIL",
+      "priority": "high"
+    },
+    {
+      "name": "Skandasvāmin / Udgītha / Veṅkaṭamādhava commentaries",
+      "why": "earlier/alternative commentarial traditions to Sāyaṇa",
+      "family": "Early commentary tradition",
+      "discovery_lead": "GRETIL, Muktabodha, university repos",
+      "priority": "medium"
+    },
+    {
+      "name": "Bāṣkala-padapāṭha (extant portion of Bāṣkala recension)",
+      "why": "only surviving testimony of a second RV recension",
+      "family": "Bāṣkala recension",
+      "discovery_lead": "Muktabodha, scholarly editions",
+      "priority": "medium"
+    },
+    {
+      "name": "Native Unicode Devanagari saṃhitā (e.g., Gita Press / Arya Sahitya Mandir / IIT/KSU)",
+      "why": "script-fidelity check independent of IAST/transliteration",
+      "family": "Devanagari Unicode family",
+      "discovery_lead": "GRETIL Unicode, publisher catalogues",
+      "priority": "medium"
+    },
+    {
+      "name": "Geldner German translation + notes (1951)",
+      "why": "independent scholarly reading & variant discussion",
+      "family": "Geldner family",
+      "discovery_lead": "archive.org",
+      "priority": "low"
+    },
+    {
+      "name": "Complete Sontakke VSM edition (Parts 1-5)",
+      "why": "Part 4 only on disk; rest missing",
+      "family": "Vaidika Saṃśodhana Maṇḍala",
+      "discovery_lead": "BORI, archive.org",
+      "priority": "medium"
+    },
+    {
+      "name": "BORI / MNL (Mumbai) critical-apparatus holdings",
+      "why": "institutional critical materials not yet enumerated",
+      "family": "Institutional",
+      "discovery_lead": "BORI catalogue, university repos",
+      "priority": "low"
+    },
+    {
+      "name": "Manuscript-derived transcriptions (e.g., Nepal/German collections)",
+      "why": "pre-print independent textual states",
+      "family": "Manuscript tradition",
+      "discovery_lead": "manuscript catalogues, scholarly datasets",
+      "priority": "medium"
+    }
+  ],
+  "stemma": {
+    "primary_independent_bases_on_disk": [
+      "Aufrecht 1863 (RV-W01)",
+      "Lubotsky via VedaWeb (RV-W02)"
+    ],
+    "derivative_of_aufrecht": [
+      "VNH layer in VedaWeb (RV-W02)",
+      "most publisher reprints (Chowkhamba W06, Ramtek W09, Gita Press)"
+    ],
+    "commentarial": [
+      "Sāyaṇa (RV-W08)",
+      "Sontakke ed. with Sāyaṇa (RV-W07)"
+    ],
+    "separate_tradition": [
+      "Padapāṭha (RV-W03)",
+      "Khila (RV-W04)"
+    ],
+    "translation_secondary": [
+      "Wilson/Hindi/Gujarati (RV-W10)"
+    ],
+    "key_finding": "Only TWO genuinely independent editorial bases are currently collatable from disk: Aufrecht (1863) and Lubotsky. VNH and all publisher reprints descend from Aufrecht. Max Müller (independent 3rd base) is on disk but OCR-destroyed."
+  },
+  "coverage_analysis": {
+    "independent_collatable_bases": 2,
+    "independent_bases_including_unusable": 3,
+    "publisher_reprints": "several (low independence)",
+    "commentaries": "Sāyaṇa (OCR, incomplete)",
+    "padapatha": "present (GRETIL)",
+    "khila": "present (GRETIL/Tokunaga)",
+    "devanagari_native_unicode": "ABSENT",
+    "complete_sayana_unicode": "ABSENT",
+    "baskala_recension": "ABSENT",
+    "oldenberg_schmidt_apparatus": "ABSENT",
+    "complete_vsm_edition": "PARTIAL (Part 4 only)"
+  },
+  "falsification_of_prior_claim": {
+    "prior_claim": "Rigveda text is remarkably stable across witnesses; differences are editorial (accents, boundaries, diacritics), not genuine variants.",
+    "status": "PRELIMINARY / NOT YET PROVEN",
+    "reason": "The '3-witness' comparison conflated VNH (Aufrecht derivative) with an independent witness. True independent bases compared = Aufrecht vs Lubotsky only (2). Max Müller (the classic 3rd independent base) was OCR-unusable and excluded.",
+    "required_before_certification": [
+      "Recover a clean Max Müller text (or other independent 19th-c. edition) and collate it",
+      "Collate against Oldenberg-Schmidt apparatus",
+      "Validate against Padapāṭha for sandhi",
+      "Acquire & parse a native-Unicode Devanagari saṃhitā",
+      "Document Bāṣkala/khila separately"
+    ]
+  },
+  "acquisition_queue": [
+    {
+      "target": "Max Müller clean text (re-OCR or native)",
+      "gap_closed": "3rd independent editorial base",
+      "priority": "high"
+    },
+    {
+      "target": "Oldenberg & Schmidt critical notes (1909-13)",
+      "gap_closed": "independent critical apparatus",
+      "priority": "high"
+    },
+    {
+      "target": "Sāyaṇa bhāṣya native Unicode (Muktabodha/SARIT)",
+      "gap_closed": "complete authoritative commentary",
+      "priority": "high"
+    },
+    {
+      "target": "Native Unicode Devanagari saṃhitā",
+      "gap_closed": "script-fidelity independent of transliteration",
+      "priority": "medium"
+    },
+    {
+      "target": "Sontakke VSM Parts 1-3,5",
+      "gap_closed": "complete critical edition with commentary",
+      "priority": "medium"
+    },
+    {
+      "target": "Bāṣkala-padapāṭha",
+      "gap_closed": "second recension testimony",
+      "priority": "medium"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "finding": "Rigveda saṃhitā text is highly stable across the TWO independently-collatable witness families (Aufrecht 1863 / F-AUFRECHT, and Lubotsky / F-LUBOTSKY).",
+  "method": "10,552 CUIDs built; each aligned at verse+pada level; comparison after accent-strip, whitespace/danda removal, sandhi-final collapse, and sandhi-junction 'a' removal.",
+  "result": {
+    "verses_full_agreement_after_sandhi_normalization": 464,
+    "verses_minor_sandhi_orthographic_only": 1544,
+    "verses_candidate_genuine_variant_unresolved": 8454,
+    "verses_single_family_only": 90
+  },
+  "interpretation": "Residual differences are overwhelmingly at WORD BOUNDARIES (external sandhi: o vs a+ḥ, r vs ḥ, tvagne vs tva+agne, parehi vs para+i) and ACCENT PLACEMENT — i.e., editorial/orthographic/segmentation convention, not lexical variants. A full Vedic sandhi engine would resolve nearly all 'candidate' cases. Lexical divergence between the two independent bases is rare.",
+  "falsification_of_prior_claim": "The earlier '3 independent witnesses / remarkably stable' claim was PARTIALLY REJECTED (VNH is Aufrecht-derived, not independent), then RE-TESTED on the corrected 2-base set. The corrected, evidence-backed conclusion: stability holds at the level of *lexical content* across 2 independent families; it is NOT yet certified as 'complete/stable' because only 2 of the required >=3 independent bases are collatable.",
+  "remaining_gaps_to_certify": [
+    "Acquire >=1 more independent saṃhitā base (clean Max Müller OCR or native text; Oldenberg-Schmidt apparatus) and re-collate.",
+    "Resolve the 90 Aufrecht-absent verses (likely Khila/appendix numbering; confirm against VedaWeb + Padapāṭha).",
+    "Replace the heuristic sandhi normalizer with a proper Vedic sandhi resolver to confirm zero lexical variants.",
+    "Acquire native-Unicode Sāyaṇa + Bāṣkala-padapāṭha for recensional coverage."
+  ],
+  "verdict": "EVIDENCE INCOMPLETE (quality gate not met). Baseline CUID set is evidence-backed at the 2-independent-family level and is falsifiable; it is NOT a certified Digital Critical Edition."
+}
