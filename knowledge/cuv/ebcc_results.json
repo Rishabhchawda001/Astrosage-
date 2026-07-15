@@ -1,0 +1,3986 @@
+{
+  "total_scriptures": 76,
+  "total_xml_units": 354973,
+  "total_verified": 60418,
+  "overall_coverage": 17.0,
+  "results": [
+    {
+      "status": "needs_review",
+      "title": "Bhairavastava",
+      "editors": [
+        "Marino Faliero",
+        "Marino Faliero",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 21,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 4.8,
+      "xml_unmatched_count": 20,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "vyāptacarācarabhāvaviśeṣaṃ cinmayam ekam anantam anādim |"
+        },
+        {
+          "ref": null,
+          "text": "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande ||"
+        },
+        {
+          "ref": null,
+          "text": "tvanmayam etad aśeṣam idānīṃ bhāti mama tvadanugrahaśaktyā |"
+        },
+        {
+          "ref": null,
+          "text": "tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam ||"
+        },
+        {
+          "ref": null,
+          "text": "svātmani viśvagaye tvayi nāthe tena na saṃsṛtibhītikathāsti |"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "abhinavagupta_bhairava_stava_gretil.xml",
+      "aku_file": "abhinavagupta_bhairava_stava_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Kramastotra",
+      "editors": [
+        "Marino Faliero",
+        "Marino Faliero",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 61,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 1.6,
+      "xml_unmatched_count": 60,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "ayaṃ duḥkhavrātavrataparigame pāraṇavidhir mahāsaukhyāsāraprasaraṇarase durdinam"
+        },
+        {
+          "ref": null,
+          "text": "yad anyanyakkṛtyā viṣamaviśikhaploṣaṇaguror vibhoḥ stotre śaśvat pratiphalati ce"
+        },
+        {
+          "ref": null,
+          "text": "vimṛśya svātmānaṃ vimṛśati punaḥ stutyacaritaṃ tathā stotā stotre prakaṭayati bh"
+        },
+        {
+          "ref": null,
+          "text": "vimṛṣṭaś ca svātmā nikhilaviṣayajñānasamaye taditthaṃ tvatstotre 'ham iha satata"
+        },
+        {
+          "ref": null,
+          "text": "anāmṛṣṭaḥ svātmā na hi bhavati bhāvapramitibhāj anāmṛṣṭaḥ svātmety api hi na vin"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "abhinavagupta_krama_stotra_gretil.xml",
+      "aku_file": "abhinavagupta_krama_stotra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Agnipurāṇa",
+      "editors": [
+        "Jun Takashima",
+        "Jun Takashima",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Rajendralal Mitra, Calcutta: Asiatic Society of Bengal 1870-1879, 3 vols. (Bibliotheca Indica, 65,1-3)",
+      "xml_units": 29118,
+      "aku_units": 6872,
+      "exact_matches": 3120,
+      "substring_matches": 2970,
+      "verified": 6090,
+      "coverage": 20.9,
+      "xml_unmatched_count": 23028,
+      "aku_unmatched_count": 782,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "sūta tvaṃ pūjito 'smābhiḥ sārātsāraṃ vadasva naḥ /AP_1.003ab/"
+        },
+        {
+          "ref": null,
+          "text": "sārātsāro hi bhagavān viṣṇuḥ sargādikṛdvibhuḥ /AP_1.004ab/"
+        },
+        {
+          "ref": null,
+          "text": "brahmāhamasmi taṃ jñātvā sarvajñatvaṃ prajāyate //AP_1.004cd/"
+        },
+        {
+          "ref": null,
+          "text": "dve vidye veditavye hi iti cātharvaṇī śrutiḥ //AP_1.005cd/"
+        },
+        {
+          "ref": null,
+          "text": "ahaṃ śukaś ca pailādyā gatvā vadarikāśramam /AP_1.006ab/"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1",
+          "text": "purāṇapraśnaḥ"
+        },
+        {
+          "ref": "1",
+          "text": "kathitamiti kha, ṅa, cihnitapustakadvayapāṭhaḥ :p"
+        },
+        {
+          "ref": "1",
+          "text": "svargamārgeṇa vai gata iti kha, cihnitapustakapāṭhaḥ :p"
+        },
+        {
+          "ref": "1",
+          "text": "viṣṇunābhyabjādaja iti kha, cihnitapustakapāṭhaḥ :p"
+        },
+        {
+          "ref": "1",
+          "text": "rajakañca prajalpantamiti kha, cihnitapustakapāṭhaḥ :p"
+        }
+      ],
+      "xml_file": "agni_puran_gretil.xml",
+      "aku_file": "agni_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 276,
+      "aku_units": 246,
+      "exact_matches": 93,
+      "substring_matches": 90,
+      "verified": 183,
+      "coverage": 66.3,
+      "xml_unmatched_count": 93,
+      "aku_unmatched_count": 63,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "AitUpBh_1,1.1"
+        },
+        {
+          "ref": null,
+          "text": "AitUpBh_1,1.2"
+        },
+        {
+          "ref": null,
+          "text": "AitUpBh_1,1.3"
+        },
+        {
+          "ref": null,
+          "text": "evamīkṣitvā so 'dbhya evaṃ appradhānebhya eva pañcabhūtebhyo yebhyo 'mbhaḥprabhṛ"
+        },
+        {
+          "ref": null,
+          "text": "puruṣaṃ puruṣākāraṃ śiraḥpāṇyādimantaṃ samuddhṛtya adbhyaḥ samupādāya mṛtpiṇḍami"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "tyāge 'pi prayojanābhāvasya tulyatvamiti cet\"nākṛteneha kaścana\"(gītā_3_/_28) it"
+        },
+        {
+          "ref": null,
+          "text": "na, atrātmāvabodhamātrasya vivakṣitatvātsarvo 'yamarthavāda ityadoṣaḥ / māyāviva"
+        },
+        {
+          "ref": "kaivalya.2",
+          "text": "iti ca kaivalyaśrutiḥ / \"jñātvā naiṣkarmyamācaret\"iti ca smṛteḥ / \"brahmāśramapa"
+        },
+        {
+          "ref": "2",
+          "text": "ityādiśruteḥ tapa ādi vidyotpattisādhanaṃ gurūpāsanādi ca karma avidyātmakatvāda"
+        },
+        {
+          "ref": "2",
+          "text": "ityādi ca /"
+        }
+      ],
+      "xml_file": "aitareya_upanishad_gretil.xml",
+      "aku_file": "aitareya_upanishad_gretil_prose.json"
+    },
+    {
+      "status": "error",
+      "error": "no XML units",
+      "title": "Āṅgirasasmṛti",
+      "xml_file": "angiras_smriti_gretil.xml",
+      "aku_file": "angiras_smriti_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Āpastambadharmasūtra",
+      "editors": [
+        "Y.Ikari",
+        "Y.Ikari",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Bühler's edition (Bombay Sanskrit Seires Nos.LIV and L), 3rd ed. 1932. Variant reading is in the parenthesis after the end of each suutra, according to Kashi Sanskrit Seires No.93 (K) edited by A.Chinnaswami, Benares 1932.",
+      "xml_units": 62,
+      "aku_units": 1300,
+      "exact_matches": 6,
+      "substring_matches": 56,
+      "verified": 62,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 1238,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "Ap1.1.1.6",
+          "text": "aśūdrāṇām aduṣṭakarmaṇām upāyanaṃ veda.adhyayanam agnyādheyaṃ phalavanti ca karm"
+        },
+        {
+          "ref": "Ap1.1.1.7",
+          "text": "śuśrūṣā śūdrasya-itareṣāṃ varṇānām /"
+        },
+        {
+          "ref": "Ap1.1.1.8",
+          "text": "pūrvasmin pūrvasmin varṇe niḥśreyasam bhūyaḥ /"
+        },
+        {
+          "ref": "Ap1.1.1.9",
+          "text": "upanayanaṃ vidyā.arthasya śrutitaḥ saṃskāraḥ /"
+        },
+        {
+          "ref": "Ap1.1.1.10",
+          "text": "sarvebhyo vedebhyaḥ sāvitrī-[anūcyata[anu\\vac] iti hi brāhmaṇam /"
+        }
+      ],
+      "xml_file": "apastamba_dharmasutra_gretil.xml",
+      "aku_file": "apastamba_dharmasutra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 3503,
+      "aku_units": 2280,
+      "exact_matches": 1259,
+      "substring_matches": 382,
+      "verified": 1641,
+      "coverage": 46.8,
+      "xml_unmatched_count": 1862,
+      "aku_unmatched_count": 639,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "atha karmāṇyācārādyāni gṛhyante // ĀpGs_1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "namo rudrāya yadgṛhyamāpastambena nirmitam /"
+        },
+        {
+          "ref": null,
+          "text": "kriyate haradattena tasya vṛttiranākulā //"
+        },
+        {
+          "ref": null,
+          "text": "śrautopadeśānantaraṃ smārtopadeśaṃ kariṣyāmīti vadan tadapekṣāmasya darśayati /"
+        },
+        {
+          "ref": null,
+          "text": "tatra yāḥ paribhāṣāḥ\"sa trayāṇāṃ varmānāṃ'(āpa.pari1-2) \"mantrāntaiḥ karmādīn sa"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "atha anantaram / ācārāt-āṅ ityupasargasya avicchedo vyāptirabhipretor'thaḥ / cār"
+        },
+        {
+          "ref": null,
+          "text": "ĀpGs-Anā_1.2: udagayanādividhānaṃ dakṣiṇāyanādipratiṣedhārtham / samuñcayaścodag"
+        },
+        {
+          "ref": null,
+          "text": "atha sūtraṃ vyākhyāyate / agnimiddhvāindhītetyarthaḥ / yadyapyarthaprāptamagneri"
+        },
+        {
+          "ref": null,
+          "text": "ĀpGs-Tāt_1.16: agneruttarato 'dūreṇa darbhān saṃstūṇāti / ete ca prāgagrāḥ, baud"
+        },
+        {
+          "ref": null,
+          "text": "pātrāṇidarvyādīni / dvandvaṃ,dve dve / nyañci adhobilāni / prayunakti sādayati /"
+        }
+      ],
+      "xml_file": "apastamba_grihya_sutra_gretil.xml",
+      "aku_file": "apastamba_grihya_sutra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Āśvalāyanagṛhyasūtra",
+      "editors": [
+        "Muneo Tokunaga",
+        "Muneo Tokunaga",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "A.F. Stenzler, Abhandlungen für die Kunde des Morgenlandes, 3,4 (1864)",
+      "xml_units": 760,
+      "aku_units": 760,
+      "exact_matches": 760,
+      "substring_matches": 0,
+      "verified": 760,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [],
+      "xml_file": "ashvalayana_grihya_sutra_gretil.xml",
+      "aku_file": "ashvalayana_grihya_sutra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Āśvalāyanaśrautasūtra",
+      "editors": [
+        "Muneo Tokunaga",
+        "Muneo Tokunaga",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Ramanarayana Vidyaratna, Calcutta [1864-] 1874 (Bibliotheca Indica; 49)",
+      "xml_units": 2995,
+      "aku_units": 3026,
+      "exact_matches": 2918,
+      "substring_matches": 31,
+      "verified": 2949,
+      "coverage": 98.5,
+      "xml_unmatched_count": 46,
+      "aku_unmatched_count": 77,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "paurṇamāsena.iṣṭi.paśu.somā.upadiṣṭāḥ./ (general rules)"
+        },
+        {
+          "ref": null,
+          "text": "tair.amāvāsyāyām.paurṇamāsyām.vā.yajeta./ (general rules)"
+        },
+        {
+          "ref": null,
+          "text": "rājanyaś.ca.agnihotram.juhuyāt./ (general rules)"
+        },
+        {
+          "ref": null,
+          "text": "tapasvine.brāhmaṇāya.itaram.kālam.bhaktam.upaharet./ (general rules)"
+        },
+        {
+          "ref": null,
+          "text": "ṛta.satya.śīlaḥ.somasut.sadā.juhuyāt./ (general rules)"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "paurṇamāsena.iṣṭi.paśu.somā.upadiṣṭāḥ./ (general_rules)"
+        },
+        {
+          "ref": null,
+          "text": "tair.amāvāsyāyām.paurṇamāsyām.vā.yajeta./ (general_rules)"
+        },
+        {
+          "ref": null,
+          "text": "rājanyaś.ca.agnihotram.juhuyāt./ (general_rules)"
+        },
+        {
+          "ref": null,
+          "text": "tapasvine.brāhmaṇāya.itaram.kālam.bhaktam.upaharet./ (general_rules)"
+        },
+        {
+          "ref": null,
+          "text": "ṛta.satya.śīlaḥ.somasut.sadā.juhuyāt./ (general_rules)"
+        }
+      ],
+      "xml_file": "ashvalayana_shrauta_sutra_gretil.xml",
+      "aku_file": "ashvalayana_shrauta_sutra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Atharvaprāyaścittāni",
+      "editors": [
+        "Arlo Griffiths",
+        "Reinhold Grünendahl",
+        "Arlo Griffiths",
+        "Reinhold Grünendahl",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Atharvaprāyaścittāni, Text mit Anmerkungen von Prof. Julius von Negelein, University of Koenigsberg, Germany. Published in JAOS 33 [1913], 71-144 (text); 217-253 (indices and corrigenda); 34 [1914], 229-277 (preface and introduction).",
+      "xml_units": 857,
+      "aku_units": 879,
+      "exact_matches": 783,
+      "substring_matches": 64,
+      "verified": 847,
+      "coverage": 98.8,
+      "xml_unmatched_count": 10,
+      "aku_unmatched_count": 32,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "(AVPr_1.3:74/17-18) (atha ūrdhvaṃ prasiddham agnihotram) |"
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_1.5:77/18-20) aṃtarikṣe turīyaṃ | divi turīyam | (apsu turīyam | apsv ity "
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_3.1:94/21) atithi (rudro | varuṇaḥ) sadātithye |"
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_3.9:100/7-8) (na samāpnuyur) |"
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_3.10:101/12-19) sūryaṃ te cakṣur gacchatu vāto ātmānaṃ prāṇo dyāṃ pṛṣṭham "
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "(AVPr_1.3:74/17-18) (atha_ūrdhvaṃ_prasiddham_agnihotram) |"
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_1.5:77/18-20) aṃtarikṣe turīyaṃ | divi turīyam | (apsu_turīyam_|_apsv_ity_"
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_3.1:94/21) atithi (rudro_|_varuṇaḥ) sadātithye |"
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_3.9:100/7-8) (na_samāpnuyur) |"
+        },
+        {
+          "ref": null,
+          "text": "(AVPr_3.10:101/12-19) sūryaṃ te cakṣur gacchatu vāto ātmānaṃ prāṇo dyāṃ pṛṣṭham "
+        }
+      ],
+      "xml_file": "atharva_prayashchittani_gretil.xml",
+      "aku_file": "atharva_prayashchittani_gretil_prose.json"
+    },
+    {
+      "status": "mostly_verified",
+      "title": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+      "editors": [
+        "Oliver Hellwig",
+        "Oliver Hellwig",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. Calcutta: Ganesha Press, 1872 (Bibliotheca Indica ; 76)",
+      "xml_units": 48,
+      "aku_units": 42,
+      "exact_matches": 42,
+      "substring_matches": 0,
+      "verified": 42,
+      "coverage": 87.5,
+      "xml_unmatched_count": 6,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "bālāgramātraṃ hṛdayasya madhye viśvaṃ devaṃ jātarūpaṃ vareṇyam /"
+        },
+        {
+          "ref": null,
+          "text": "tam ātmasthaṃ ye tu paśyanti dhīrās teṣāṃ śāntir bhavati netareṣām //"
+        },
+        {
+          "ref": null,
+          "text": "yasmin krodhaṃ yāṃ ca tṛṣṇāṃ kṣamāṃ cākṣamāṃ hitvā hetujālasya mūlam /"
+        },
+        {
+          "ref": null,
+          "text": "buddhyā saṃcitaṃ sthāpayitvā tu rudre rudram ekatvam āhuḥ //"
+        },
+        {
+          "ref": null,
+          "text": "na tasmāt pūrvaṃ na paraṃ tad asti na bhūtaṃ nota bhavyaṃ yad āsīt /"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "atharvashiras_upanishad_gretil.xml",
+      "aku_file": "atharvashiras_upanishad_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Atharvavedapariśiṣṭas",
+      "editors": [
+        "Yuri Ishii",
+        "Yuri Ishii",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "George Melville Bolling and Julius von Negelein: \"The Pariśiṣṭas of the Atharvaveda\", Vol. 1, parts 1 and 2 (all published), Leipzig : Harrassowitz 1909-1910.",
+      "xml_units": 3336,
+      "aku_units": 3728,
+      "exact_matches": 3095,
+      "substring_matches": 190,
+      "verified": 3285,
+      "coverage": 98.5,
+      "xml_unmatched_count": 51,
+      "aku_unmatched_count": 443,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "etāny evāsmai nakṣatrāṇi śriyaṃ bhūtiṃ puṣṭiṃ prajāṃ paśūn annam annādyaṃ samind"
+        },
+        {
+          "ref": null,
+          "text": "atha yaṃ kāmayaty etāny evāsmai nakṣatrāṇi śriyaṃ bhūtiṃ puṣṭiṃ prajāṃ paśūn ann"
+        },
+        {
+          "ref": null,
+          "text": "prāñcam idhmam upasamādhāya [[parisamuhya paryukṣya]] paristīrya barhī rasān bar"
+        },
+        {
+          "ref": null,
+          "text": "na taṃ yakṣmā aitu deva iti guggulukuṣṭhadhūpaṃ dadyād"
+        },
+        {
+          "ref": null,
+          "text": "rakṣoghnair mantraiḥ sarṣapān abhimantrya"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "AVParis_0,0.0",
+          "text": "śrīgaṇeśāya namaḥ || oṃ namo 'tharvātmane vāmadevāya śivāya || śrīsarasvatyai na"
+        },
+        {
+          "ref": "AVParis_1,7.5",
+          "text": "-cyutakeśaṃ vāhanaṃ jayārthaṃ kumāryo anaḍvān sahate atra ye | vijñāyate devasṛṣ"
+        },
+        {
+          "ref": "AVParis_1,7.10",
+          "text": "kāmbojāḥ kālamṛṣāś ca krandā ucchuṣmāṇaḥ śvānaś cāvadhūmamarkaṭāś ca pūrvāṣāḍhā "
+        },
+        {
+          "ref": "AVParis_1,8.4",
+          "text": "kurūn śraviṣṭhās tathā śivās tathāhur nakṣatrabhāge niniyoja dhānāḥ || tathā hi "
+        },
+        {
+          "ref": "AVParis_1,8.5",
+          "text": "aṅgādayo janapadā guhāśayā apsu ca ye kṣipanti śatabhiṣaji bheṣajasya bhejire ta"
+        }
+      ],
+      "xml_file": "atharvaveda_parisista_gretil.xml",
+      "aku_file": "atharvaveda_parisista_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Baudhāyanadharmasūtra",
+      "editors": [
+        "Masato Fujii & Mieko Kajihara",
+        "Masato Fujii & Mieko Kajihara",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "[H] E. Hultzsch (ed.): Das Baudhayana-Dharmasutra. Zweite, verbesserte Auflage. [Abhandlungen fur die Kunde des Morgenlandes, 16] Leipzig 1922. [K] Umesa Chandra Pandeya (ed.): The Baudhayana-Dharmasutra with the 'Vivarana' Commentary by Sri Govinda Svami and Critical Notes by M. M. A. Chinnaswami Sastri. [The Kashi Sanskrit Series, 104] Varanasi 1972.",
+      "xml_units": 1240,
+      "aku_units": 1478,
+      "exact_matches": 1013,
+      "substring_matches": 222,
+      "verified": 1235,
+      "coverage": 99.6,
+      "xml_unmatched_count": 5,
+      "aku_unmatched_count": 243,
+      "xml_unmatched_samples": [
+        {
+          "ref": "Baudh1.6.13.3-1",
+          "text": "tad eśā^(abhivadati / [om.] Baudh1.6.13.3-2ab/ śucī vo havyā marutaḥ śucīnāṃ śuc"
+        },
+        {
+          "ref": "Baudh2.4.7.3-1",
+          "text": "atha^apy (udāharanti / Baudh2.4.7.3-2ab/ apovagāhanaṃ (apas.avagāhanaṃ) snānaṃ v"
+        },
+        {
+          "ref": "Baudh2.6.11.30-1",
+          "text": "tad eṣā^(abhyanūcyate / Baudh2.6.11.30-2ab/ eṣa nityo mahimā brāhmaṇasya na karm"
+        },
+        {
+          "ref": "Baudh2.6.11.33",
+          "text": "prajābhir agne amṛtatvam (aśyām / jāyamāno vai brāhmaṇastribhir ṛṇavā jāyate bra"
+        },
+        {
+          "ref": "Baudh2.10.17.14",
+          "text": "oṃ bhūḥ sāvitrīṃ (praviśāmi tat savitur vareṇyam / oṃbhuvaḥ sāvitrīṃ (praviśāmi "
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "tad eśā^(abhivadati_/_[om.]_Baudh1.6.13.3-2ab/_śucī_vo_havyā_marutaḥ_śucīnāṃ_śuc"
+        },
+        {
+          "ref": null,
+          "text": "atha^apy (udāharanti_/_Baudh2.4.7.3-2ab/_apovagāhanaṃ_(apas.avagāhanaṃ) snānaṃ v"
+        },
+        {
+          "ref": null,
+          "text": "tad eṣā^(abhyanūcyate_/_Baudh2.6.11.30-2ab/_eṣa_nityo_mahimā_brāhmaṇasya_na_karm"
+        },
+        {
+          "ref": "Baudh1.1.1.6cd",
+          "text": "śiṣṭās tad.anumāna.jñāḥ śruti.pratyakṣa.hetavaḥ // iti //[cf. Va 6.43; ṃ"
+        },
+        {
+          "ref": "Baudh1.1.1.7",
+          "text": "tad.abhāve daśa.avarā pariṣat //"
+        }
+      ],
+      "xml_file": "baudhayana_dharmasutra_gretil.xml",
+      "aku_file": "baudhayana_dharmasutra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "editors": [
+        "Gaudiya Grantha Mandira",
+        "Gaudiya Grantha Mandira",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 6720,
+      "aku_units": 4869,
+      "exact_matches": 3127,
+      "substring_matches": 1183,
+      "verified": 4310,
+      "coverage": 64.1,
+      "xml_unmatched_count": 2410,
+      "aku_unmatched_count": 559,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "dhṛtarāṣṭra uvāca"
+        },
+        {
+          "ref": null,
+          "text": "dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ |"
+        },
+        {
+          "ref": null,
+          "text": "māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||1||"
+        },
+        {
+          "ref": null,
+          "text": "śeṣāśeṣa-mukha-vyākhyā-cāturyaṃ tv eka-vaktrataḥ |"
+        },
+        {
+          "ref": null,
+          "text": "dadhānam adbhutaṃ vande paramānanda-mādhavam ||"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1.32",
+          "text": "atraihika-phala-virāgaḥ | api trailokya-rājyasya [Gītā"
+        },
+        {
+          "ref": "1.35",
+          "text": "hetor ity atra pāralaukika-phala-virāgaḥ | narake niyataṃ vāsa [Gītā"
+        },
+        {
+          "ref": "1.44",
+          "text": "ity atra sthūla-dehātirikta ātmā, kiṃ no rājyena [Gītā"
+        },
+        {
+          "ref": "1.32",
+          "text": "iti vyākhyāta-vartmanā śamaḥ | kiṃ bhogair [Gītā"
+        },
+        {
+          "ref": "1.32",
+          "text": "iti damaḥ | yadyapy ete na paśyanti [Gītā"
+        }
+      ],
+      "xml_file": "bhagavad_gita_4comm_gretil.xml",
+      "aku_file": "bhagavad_gita_4comm_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "editors": [
+        "Gaudiya Grantha Mandira",
+        "Gaudiya Grantha Mandira",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 3105,
+      "aku_units": 1344,
+      "exact_matches": 995,
+      "substring_matches": 173,
+      "verified": 1168,
+      "coverage": 37.6,
+      "xml_unmatched_count": 1937,
+      "aku_unmatched_count": 176,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "=============================="
+        },
+        {
+          "ref": null,
+          "text": "nārāyaṇaḥ paro 'vyaktād aṇḍam avyakta-sambhavam |"
+        },
+        {
+          "ref": null,
+          "text": "aṇḍasyāntas tv ime lokāḥ sapta-dvīpā ca medinī ||"
+        },
+        {
+          "ref": null,
+          "text": "dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ |"
+        },
+        {
+          "ref": null,
+          "text": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā |"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1.4.17",
+          "text": "iti avidyā-kāmavata eva sarvāṇi karmāṇi śrautādīni darśitāni | tebhyo vyutthāya,"
+        },
+        {
+          "ref": "1.7.4",
+          "text": "iti śruter yajña īśvaraḥ | tad-arthaṃ yat kriyate tat yajñārthaṃ karma | tasmāt "
+        },
+        {
+          "ref": "1.4.10",
+          "text": "iti śruteḥ | teṣāṃ hi bhinna-devatāyājināṃ phalākāṅkṣiṇāṃ kṣipraṃ śīghraṃ hi yas"
+        },
+        {
+          "ref": "1.7.4",
+          "text": "iti śruteḥ | sa hi viṣṇur aham eva | atrāsmin dehe yo yajñas tasyāham adhiyajñaḥ"
+        },
+        {
+          "ref": "1.2.4",
+          "text": "tathā tayor vidyāvidyā-viṣayayoḥ phala-bhedo 'pi viruddho nirdiṣṭaḥ - śreyaś ca "
+        }
+      ],
+      "xml_file": "bhagavad_gita_shankara_gretil.xml",
+      "aku_file": "bhagavad_gita_shankara_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Bhāgavatapurāṇa",
+      "editors": [
+        "Ulrich Stiehl",
+        "Ulrich Stiehl",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 25834,
+      "aku_units": 1747,
+      "exact_matches": 2,
+      "substring_matches": 1274,
+      "verified": 1276,
+      "coverage": 4.9,
+      "xml_unmatched_count": 24558,
+      "aku_unmatched_count": 471,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "janmādyasya yato 'nvayāditarataścārtheṣvabhijñaḥ svarāṭ $ tene brahma hṛdā ya ād"
+        },
+        {
+          "ref": null,
+          "text": "tejovārimṛdāṃ yathā vinimayo yatra trisargo 'mṛṣā % dhāmnā svena sadā nirastakuh"
+        },
+        {
+          "ref": null,
+          "text": "dharmaḥ projjhitakaitavo 'tra paramo nirmatsarāṇāṃ satāṃ $ vedyaṃ vāstavam atra "
+        },
+        {
+          "ref": null,
+          "text": "dharmaḥ projjhitakaitavo 'tra paramo nirmatsarāṇāṃ satāṃ $ vedyaṃ vāstavam atra "
+        },
+        {
+          "ref": null,
+          "text": "śrīmadbhāgavate mahāmunikṛte kiṃ vā parairīśvaraḥ % sadyo hṛdyavarudhyate 'tra k"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "BhP_01.02.013",
+          "text": "// //"
+        },
+        {
+          "ref": "BhP_04.29.054",
+          "text": "//_*"
+        },
+        {
+          "ref": "BhP_05.01.005",
+          "text": "//_* yarhi vāva ha rājan sa rāja-putraḥ priyavrataḥ parama-bhāgavato nāradasya c"
+        },
+        {
+          "ref": "BhP_05.01.006",
+          "text": "//_* atha ha bhagavān ādi-deva etasya guṇa-visargasya paribṛṃhaṇānudhyāna-vyavas"
+        },
+        {
+          "ref": "BhP_05.01.007",
+          "text": "//_* sa tatra tatra gagana-tala uḍu-patir iva vimānāvalibhir anupatham amara-par"
+        }
+      ],
+      "xml_file": "bhagavata_gretil.xml",
+      "aku_file": "bhagavata_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Bhagavadāśayānusaraṇabhāsya",
+      "editors": [
+        "Takahiro Kato",
+        "Takahiro Kato",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "D. Subhadropadhyaya, Varanasi, 1965 (Sarasvati Bhavana Granthamala, 94)",
+      "xml_units": 2227,
+      "aku_units": 2726,
+      "exact_matches": 587,
+      "substring_matches": 1030,
+      "verified": 1617,
+      "coverage": 72.6,
+      "xml_unmatched_count": 610,
+      "aku_unmatched_count": 1109,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "taponiyamam āsthāya3 kṛtam etan maharṣiṇā /"
+        },
+        {
+          "ref": null,
+          "text": "tasmān niyamasaṃyuktair adhyeyaṃ4 brāhmaṇair idam /"
+        },
+        {
+          "ref": null,
+          "text": "kṛṣṇaproktam imāṃ5 puṇyāṃ bhāratīm uttamāṃ6 kathām /"
+        },
+        {
+          "ref": null,
+          "text": "śrāvayiṣyanti ye7 viprā ye ca śroṣyanti mānavāḥ //"
+        },
+        {
+          "ref": null,
+          "text": "sarvas taratu durgāṇi13 sarvo bhadrāṇi paśyatu14 /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "hi yasmād evambhūtena bhīṣmeṇābhirakṣitam asmākaṃ balaṃ pāṇḍavānāṃ parābhave par"
+        },
+        {
+          "ref": null,
+          "text": "madhye rathasthāpanād yuyutsāsaṃśayo 'numīyate14 pārthasya / taṃ ca prakaṭayiṣya"
+        },
+        {
+          "ref": null,
+          "text": "hi yataḥ kāraṇāt1 / yasmād (iha_loke_deśe) gurūn bhīṣmādīn prati yuddhavarjanena"
+        },
+        {
+          "ref": null,
+          "text": "(aśocyān_aśocanīyān_bhīṣmādīn) anuśocitavān"
+        },
+        {
+          "ref": null,
+          "text": "śītoṣṇādikṛtaiḥ15 sukhaduḥkhaiḥ saṃyogā(t_tada)nuparama iti / tac"
+        }
+      ],
+      "xml_file": "bhaskara_gita_bhashya_gretil.xml",
+      "aku_file": "bhaskara_gita_bhashya_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Brahmapurāṇa 1-246",
+      "editors": [
+        "Peter Schreiner",
+        "Renate Söhnen-Thieme",
+        "Peter Schreiner",
+        "Renate Söhnen-Thieme",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 27916,
+      "aku_units": 16,
+      "exact_matches": 16,
+      "substring_matches": 0,
+      "verified": 16,
+      "coverage": 0.1,
+      "xml_unmatched_count": 27900,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "yasmāt sarvam idaṃ prapañcaracitaṃ māyājagaj jāyate yasmiṃs tiṣṭhati yāti cāntas"
+        },
+        {
+          "ref": null,
+          "text": "yaṃ dhyātvā munayaḥ prapañcarahitaṃ vindanti mokṣaṃ dhruvaṃ taṃ vande puruṣottam"
+        },
+        {
+          "ref": null,
+          "text": "yaṃ dhyāyanti budhāḥ samādhisamaye śuddhaṃ viyatsaṃnibham nityānandamayaṃ prasan"
+        },
+        {
+          "ref": null,
+          "text": "vyaktāvyaktaparaṃ prapañcarahitaṃ dhyānaikagamyaṃ vibhum taṃ saṃsāravināśahetum "
+        },
+        {
+          "ref": null,
+          "text": "supuṇye naimiṣāraṇye pavitre sumanohare"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "brahma_puran_gretil.xml",
+      "aku_file": "brahma_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+      "editors": [
+        "n.n.",
+        "n.n.",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Haridas Shastri's edition, 1981",
+      "xml_units": 477,
+      "aku_units": 424,
+      "exact_matches": 137,
+      "substring_matches": 180,
+      "verified": 317,
+      "coverage": 66.5,
+      "xml_unmatched_count": 160,
+      "aku_unmatched_count": 107,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "sanātana-samo yasya jyāyān śrīmān sanātanaḥ |"
+        },
+        {
+          "ref": null,
+          "text": "śrī-vallabho'nujaḥ so'sau śrī-rūpo jīva-sad-gatiḥ ||"
+        },
+        {
+          "ref": null,
+          "text": "śrī-kṛṣṇa-rūpa-mahimā mama citte mahīyatām |"
+        },
+        {
+          "ref": null,
+          "text": "yasya prasādād vyākartum icchāmi brahma-saṃhitām ||"
+        },
+        {
+          "ref": null,
+          "text": "duryojanāpi yuktārthā suvicārād ṛṣi-smṛtiḥ |"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "5.56",
+          "text": "iti | tāpanyāṃ ca -kṛṣṇo vai paramaṃ daivatam [GTU"
+        },
+        {
+          "ref": "1.3.28",
+          "text": "iti tad eva prathamam āha īśvara iti | atra kṛṣṇa ity eva viśeṣya tan-nāmaiva | "
+        },
+        {
+          "ref": "1.12.57",
+          "text": "iti viṣṇu-purāṇāt |"
+        },
+        {
+          "ref": "1.19",
+          "text": "iti | yasmād eva tādṛg-īśvaraḥ, tasmāt paramaḥ | sarvotkṛṣṭā mā lakṣmī-rūpāḥ śak"
+        },
+        {
+          "ref": "1.3",
+          "text": "iti | yasmād eva tādṛk paramas tasmād ādiś ca | tad uktaṃ śrī-daśame -"
+        }
+      ],
+      "xml_file": "brahma_samhita_gretil.xml",
+      "aku_file": "brahma_samhita_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
+      "editors": [
+        "Ursula Honegger",
+        "Ursula Honegger",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 1063,
+      "aku_units": 50,
+      "exact_matches": 49,
+      "substring_matches": 1,
+      "verified": 50,
+      "coverage": 4.7,
+      "xml_unmatched_count": 1013,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "dharādharādhīśa maulāvāvirāsītparaṃ mahaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "yaduktaṃ bhavatā pūrvaṃ vistarāttadvadasva me // Dg_1.1 = DbhP_7,31.1 //"
+        },
+        {
+          "ref": null,
+          "text": "ko virajyeta matimānpibañchaktikathāmṛtam /"
+        },
+        {
+          "ref": null,
+          "text": "sudhāṃ tu pibatāṃ mṛtyuḥ sa naitacchṛṇvato bhavet // Dg_1.2 = DbhP_7,31.2 //"
+        },
+        {
+          "ref": null,
+          "text": "dhanyo 'si kṛtakṛtyo 'si śikṣito 'si mahātmabhiḥ /"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "devi_gita_gretil.xml",
+      "aku_file": "devi_gita_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Mahāgaṇapatistotra with a commentary “by his disciple”",
+      "editors": [
+        "Dhaval Patel",
+        "Dhaval Patel",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Pdt. Durgaprasad and Kasinath Pandurang Parab, Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 1-6.",
+      "xml_units": 73,
+      "aku_units": 12,
+      "exact_matches": 6,
+      "substring_matches": 6,
+      "verified": 12,
+      "coverage": 16.4,
+      "xml_unmatched_count": 61,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "yogaṃ yogavidāṃ vidhūtavividhavyāsaṅgaśuddhāśayaprādurbhūtasudhārasaprasṛmaradhy"
+        },
+        {
+          "ref": null,
+          "text": "ānandaplavamānabodhamadhurāmodacchaṭāmeduraṃ taṃ bhūmānamupāsmahe pariṇataṃ dant"
+        },
+        {
+          "ref": null,
+          "text": "tāraśrīparaśaktikāmavasudhārūpānugāṃ yaṃ vidustasmai stātpraṇatirgaṇādhipataye y"
+        },
+        {
+          "ref": null,
+          "text": "āmantrya prathamaṃ vareti varadetyārtena sarvaṃ janaṃ svāminme vaśamānayeti sata"
+        },
+        {
+          "ref": null,
+          "text": "kallolāñcalacumbitāmbudatatāvikṣudravāmbhonidhau dvīpe ratnamaye suradrumavanāmo"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "ganapati_stotra_gretil.xml",
+      "aku_file": "ganapati_stotra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Garuḍapurāṇa",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Bombay : Venkatesvara Steam Press (or a reprint thereof)",
+      "xml_units": 25365,
+      "aku_units": 483,
+      "exact_matches": 330,
+      "substring_matches": 131,
+      "verified": 461,
+      "coverage": 1.8,
+      "xml_unmatched_count": 24904,
+      "aku_unmatched_count": 22,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "oṃ nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam /"
+        },
+        {
+          "ref": null,
+          "text": "devīṃ sarasvatīṃ caiva tato jayamudīrayet // GarP_Mang.1 //"
+        },
+        {
+          "ref": null,
+          "text": "oṃ ajamajaramanantaṃ jñānarūpaṃ mahāntaṃ śivamamalamanādiṃ bhūtadehādihīnam /"
+        },
+        {
+          "ref": null,
+          "text": "sakalakaraṇahīnaṃ sarvabhūtasthitaṃ taṃ harimamalamamāyaṃ sarvagaṃ vanda ekam //"
+        },
+        {
+          "ref": null,
+          "text": "namasyāmi hariṃ rudraṃ brahmāṇaṃ ca gaṇādhipam /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "(iti_śivādipūjā_samāptā) /"
+        },
+        {
+          "ref": null,
+          "text": "iti śrīgāruḍe mahāpurāṇe pūrvakhaṇḍe prathamāṃśākhye ācārakāṇḍe gayāmāhātmyaṃ nā"
+        },
+        {
+          "ref": null,
+          "text": "(iti_vijayasaptamīvratam) /"
+        },
+        {
+          "ref": null,
+          "text": "(iti_kṛṣṇāṣṭamīvratam) /"
+        },
+        {
+          "ref": "58",
+          "text": "//) vinatāyāstu putrau dvau vikhyātau garuḍāruṇau / surasāyāḥ sahasraṃ tu sarpāṇ"
+        }
+      ],
+      "xml_file": "garuda_puran_gretil.xml",
+      "aku_file": "garuda_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 902,
+      "aku_units": 341,
+      "exact_matches": 295,
+      "substring_matches": 46,
+      "verified": 341,
+      "coverage": 37.8,
+      "xml_unmatched_count": 561,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "praṇipatyādidevāya vāsudevāya bhaktitaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "gautamīyacchalenedaṃ sarvasmṛtinibandhanam //"
+        },
+        {
+          "ref": null,
+          "text": "aṅgāni vedāścatvāro mīmāṃsā nyāyavistaraḥ /"
+        },
+        {
+          "ref": null,
+          "text": "purāṇaṃ dharmaśāstraṃ ca vidyā hyetāścaturdaśa //"
+        },
+        {
+          "ref": null,
+          "text": "vedo dharmamūlam // Gaut_1.1 //"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "gautama_dharmasutra_1_3_comm_gretil.xml",
+      "aku_file": "gautama_dharmasutra_1_3_comm_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Dharmasūtra",
+      "editors": [
+        "Nobuyuki Watase",
+        "Nobuyuki Watase",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Ganesa Sastrin Gokhale, Pune 1910, (Anandasrama Sanskrit Series, 61); with variants from: The Institutes of Gautama, ed.by A.F. Stenzler, London 1876.",
+      "xml_units": 1023,
+      "aku_units": 1027,
+      "exact_matches": 1021,
+      "substring_matches": 2,
+      "verified": 1023,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 4,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "RV_1,189.2",
+          "text": "mahāvyāhṛtibhirjuhuyāt kūṣmāṇḍaiś cājyam |"
+        },
+        {
+          "ref": "RV_1,91.17",
+          "text": "saṃ te payāṃsi"
+        },
+        {
+          "ref": "RV_1,91.18",
+          "text": "navonava"
+        },
+        {
+          "ref": "RV_10,85.19",
+          "text": "iti caitābhis tarpaṇam ājyahomo haviṣaś cānumantraṇamupasthānaṃ candramasaḥ |"
+        }
+      ],
+      "xml_file": "gautama_dharmasutra_gretil.xml",
+      "aku_file": "gautama_dharmasutra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Gopathabrāhmaṇa",
+      "editors": [
+        "Arlo Griffiths",
+        "Arlo Griffiths",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Dieuke Gaastra: Das Gopatha Brāhmaṇa, Leiden : Brill 1919.",
+      "xml_units": 318,
+      "aku_units": 5250,
+      "exact_matches": 1,
+      "substring_matches": 313,
+      "verified": 314,
+      "coverage": 98.7,
+      "xml_unmatched_count": 4,
+      "aku_unmatched_count": 4936,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "(GBr_1,2.12a) tad yathā ha vā idaṃ yajamānaś ca yājayitāraś ca divaṃ brūyuḥ pṛth"
+        },
+        {
+          "ref": null,
+          "text": "(GBr_1,2.12b) atha nu katham iti"
+        },
+        {
+          "ref": null,
+          "text": "(GBr_1,2.12c) hotety eva hotāraṃ brūyād vāg iti vācaṃ brahmeti brahma deva iti d"
+        },
+        {
+          "ref": null,
+          "text": "(GBr_1,4.11a) sa vā eṣa saṃvastaro 'dhidaivaṃ cādhyātmaṃ ca pratiṣṭhitaḥ"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "GBr_1,1.1b",
+          "text": "tadaikṣata"
+        },
+        {
+          "ref": "GBr_1,1.1b",
+          "text": "mahad vai yakṣam yad ekam evāsmi"
+        },
+        {
+          "ref": "GBr_1,1.1d",
+          "text": "hantāhaṃ mad eva manmātraṃ dvitīyaṃ devaṃ nirmimā iti"
+        },
+        {
+          "ref": "GBr_1,1.1f",
+          "text": "tad abhyaśrāmyad abhyatapat samatapat"
+        },
+        {
+          "ref": "GBr_1,1.1g",
+          "text": "tasya śrāntasya taptasya saṃtaptasya lalāṭe sneho yad ārdram ājāyata"
+        }
+      ],
+      "xml_file": "gopatha_brahmana_gretil.xml",
+      "aku_file": "gopatha_brahmana_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Harivaṃśa, Appendix I",
+      "editors": [
+        "Atul Agarwala",
+        "J. Wayne Bass",
+        "Julie Bélanger",
+        "Peter Bisschop",
+        "Horst Brinkhaus",
+        "John Brockington",
+        "Eva De Clercq",
+        "André Couture",
+        "James Fitzgerald",
+        "Arlo Griffiths",
+        "N. Hanemann",
+        "Petteri Koskikallio",
+        "Kreshimir Krnic",
+        "Anne Mossner",
+        "Luther Obrock",
+        "François Painchaud",
+        "Utz Podzeit",
+        "Peter Schreiner",
+        "Sandra Smets",
+        "Renate Söhnen-Thieme",
+        "Christophe Vielle",
+        "Andreas Viethsen",
+        "Atul Agarwala",
+        "J. Wayne Bass",
+        "Julie Bélanger",
+        "Peter Bisschop",
+        "Horst Brinkhaus",
+        "John Brockington",
+        "Eva De Clercq",
+        "André Couture",
+        "James Fitzgerald",
+        "Arlo Griffiths",
+        "N. Hanemann",
+        "Petteri Koskikallio",
+        "Kreshimir Krnic",
+        "Anne Mossner",
+        "Luther Obrock",
+        "François Painchaud",
+        "Utz Podzeit",
+        "Peter Schreiner",
+        "Sandra Smets",
+        "Renate Söhnen-Thieme",
+        "Christophe Vielle",
+        "Andreas Viethsen",
+        "Peter Scharf",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Parashuram Lakshman Vaidya, Poona : Bhandarkar Oriental Research Institute 1969 (For details see the separate introduction on the Zürich server.)",
+      "xml_units": 23486,
+      "aku_units": 18,
+      "exact_matches": 14,
+      "substring_matches": 0,
+      "verified": 14,
+      "coverage": 0.1,
+      "xml_unmatched_count": 23472,
+      "aku_unmatched_count": 4,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "prathame merusāvarṇe pravakṣyāmi munīñ śṛṇu //"
+        },
+        {
+          "ref": null,
+          "text": "meghātithis tu paulastyo vasuḥ kāśyapa eva ca /"
+        },
+        {
+          "ref": null,
+          "text": "jyotiṣmān bhārgavaś caiva dyutimān aṅgirās tathā //"
+        },
+        {
+          "ref": null,
+          "text": "savanaś caiva vāsiṣṭha ātreyo havyavāhanaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "paulahaḥ sapta ity ete ṛṣayo rohite 'ntare //"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "(atha_prārthanā) /"
+        },
+        {
+          "ref": null,
+          "text": "(iti_prārthanā) /"
+        },
+        {
+          "ref": null,
+          "text": "(sa_yāti_paramaṃ_padam) |"
+        },
+        {
+          "ref": null,
+          "text": "(kīrtayan_nāvasīdati) |"
+        }
+      ],
+      "xml_file": "harivamsa_app1_gretil.xml",
+      "aku_file": "harivamsa_app1_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Harivaṃśa constituted text with star passages",
+      "editors": [
+        "Atul Agarwala",
+        "J. Wayne Bass",
+        "Julie Bélanger",
+        "Peter Bisschop",
+        "Horst Brinkhaus",
+        "John Brockington",
+        "Eva De Clercq",
+        "André Couture",
+        "James Fitzgerald",
+        "Arlo Griffiths",
+        "N. Hanemann",
+        "Petteri Koskikallio",
+        "Kreshimir Krnic",
+        "Anne Mossner",
+        "Luther Obrock",
+        "François Painchaud",
+        "Utz Podzeit",
+        "Peter Schreiner",
+        "Sandra Smets",
+        "Renate Söhnen-Thieme",
+        "Christophe Vielle",
+        "Andreas Viethsen",
+        "Atul Agarwala",
+        "J. Wayne Bass",
+        "Julie Bélanger",
+        "Peter Bisschop",
+        "Horst Brinkhaus",
+        "John Brockington",
+        "Eva De Clercq",
+        "André Couture",
+        "James Fitzgerald",
+        "Arlo Griffiths",
+        "N. Hanemann",
+        "Petteri Koskikallio",
+        "Kreshimir Krnic",
+        "Anne Mossner",
+        "Luther Obrock",
+        "François Painchaud",
+        "Utz Podzeit",
+        "Peter Schreiner",
+        "Sandra Smets",
+        "Renate Söhnen-Thieme",
+        "Christophe Vielle",
+        "Andreas Viethsen",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Parashuram Lakshman Vaidya, Poona : Bhandarkar Oriental Research Institute 1969 (For details see the separate introduction on the Zürich server.)",
+      "xml_units": 17144,
+      "aku_units": 3,
+      "exact_matches": 3,
+      "substring_matches": 0,
+      "verified": 3,
+      "coverage": 0.0,
+      "xml_unmatched_count": 17141,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam"
+        },
+        {
+          "ref": null,
+          "text": "devīṃ sarasvatīṃ caiva tato jayam udīrayet //"
+        },
+        {
+          "ref": "*HV_1.0*1:1",
+          "text": "jayati parāśarasūnuḥ satyavatīhṛdayanandano vyāsaḥ |"
+        },
+        {
+          "ref": "*HV_1.0*1:2",
+          "text": "yasyāsyakamalagalitaṃ vāṅmayam amṛtaṃ jagat pibati |"
+        },
+        {
+          "ref": "*HV_1.0*2:1",
+          "text": "pitāmahādyaṃ pravadanti ṣaṣṭhaṃ maharṣim akṣayyavibhūtiyuktam |"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "harivamsa_gretil.xml",
+      "aku_file": "harivamsa_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Haṭhayogapradīpikā",
+      "editors": [
+        "n.n.",
+        "n.n.",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 891,
+      "aku_units": 17,
+      "exact_matches": 8,
+      "substring_matches": 8,
+      "verified": 16,
+      "coverage": 1.8,
+      "xml_unmatched_count": 875,
+      "aku_unmatched_count": 1,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "śrī-ādi-nāthāya namo'stu tasmai"
+        },
+        {
+          "ref": null,
+          "text": "yenopadiṣṭā haṭha-yoga-vidyā /"
+        },
+        {
+          "ref": null,
+          "text": "vibhrājate pronnata-rāja-yogam"
+        },
+        {
+          "ref": null,
+          "text": "āroḍhum icchor adhirohiṇīva // HYP_1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "praṇamya śrī-guruṃ nāthaṃ svātmārāmeṇa yoginā /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1",
+          "text": "prathamopadeśaḥ"
+        }
+      ],
+      "xml_file": "hatha_yoga_pradipika_gretil.xml",
+      "aku_file": "hatha_yoga_pradipika_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 112,
+      "aku_units": 90,
+      "exact_matches": 49,
+      "substring_matches": 27,
+      "verified": 76,
+      "coverage": 67.9,
+      "xml_unmatched_count": 36,
+      "aku_unmatched_count": 14,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate /"
+        },
+        {
+          "ref": null,
+          "text": "pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate //"
+        },
+        {
+          "ref": null,
+          "text": "kasmāt? kasyasviddhanamityākṣepārtho na kasyaciddhanamasti yadgṛdhyeta /"
+        },
+        {
+          "ref": null,
+          "text": "ātmaivedaṃ sarvamitīśvarabhāvanayā sarvaṃ tyaktamata ātmana evedaṃ sarvamātmaiva"
+        },
+        {
+          "ref": null,
+          "text": "\"dvāvimāvatha panthānau yatra vedāḥ pratiṣṭhitāḥ /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1",
+          "text": "ityādi śrutibhyaḥ / sarvā hi kāryakaraṇādivikriyā nityacaitanyātmasvarūpe sarvās"
+        },
+        {
+          "ref": "1",
+          "text": "iti śruteḥ asya sarvasya jagato nāma rūpakriyātmakasya tadu api sarvasya asya bā"
+        },
+        {
+          "ref": "4",
+          "text": "iti śruteḥ /"
+        },
+        {
+          "ref": "13",
+          "text": "iti ca śāsanānnirantaraṃ ca //IsUpBh_5//"
+        },
+        {
+          "ref": "11",
+          "text": "ityādiśruteḥ / maniṣī manasa īṣitā sarvajña īśvara ityarthaḥ / paribhūḥ sarveṣāṃ"
+        }
+      ],
+      "xml_file": "isha_upanishad_gretil.xml",
+      "aku_file": "isha_upanishad_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Śyāmalādaṇḍaka",
+      "editors": [
+        "Dhaval Patel",
+        "Dhaval Patel",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Pdt. Durgaprasad and Kasinath Pandurang Parab, Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 8-11.",
+      "xml_units": 16,
+      "aku_units": 6,
+      "exact_matches": 2,
+      "substring_matches": 4,
+      "verified": 6,
+      "coverage": 37.5,
+      "xml_unmatched_count": 10,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "māṇikyavīṇāmupalāpayantīṃ madālasāṃ mañjulavāgvilāsām /"
+        },
+        {
+          "ref": null,
+          "text": "māhendranīlopalakomalāṅgīṃ mātaṅgakanyāṃ satataṃ smarāmi //"
+        },
+        {
+          "ref": null,
+          "text": "jaya mātaṅgatanaye jaya nīlotpaladyute /"
+        },
+        {
+          "ref": null,
+          "text": "jaya saṃgītarasike jaya līlāśukapriye //"
+        },
+        {
+          "ref": null,
+          "text": "vikasitanavakiṃśukātāmradivyāṃśukacchannacārūruśobhāparābhūtasindūraśoṇāyamānend"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "kalidasa_shyamaladandaka_gretil.xml",
+      "aku_file": "kalidasa_shyamaladandaka_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+      "editors": [
+        "Dominic Goodall",
+        "Dominic Goodall",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Dominic Goodall: Bhaṭṭa Rāmakaṇṭha's Commentary on the Kiraṇatantra, Vol. I, chapters 1--6 critical edition and annotated translation. Pondicherry : Institut Francais de Pondichery / Ecole francaise d'Extreme-Orient, 1998. (Publications du departement d'indologie, 86.1)",
+      "xml_units": 935,
+      "aku_units": 580,
+      "exact_matches": 580,
+      "substring_matches": 0,
+      "verified": 580,
+      "coverage": 62.0,
+      "xml_unmatched_count": 355,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "taṃ natvā vimalaṃ śivārkakiraṇe śāstre pare racyate saṅkṣepādvivṛtiḥ padeṣu gami"
+        },
+        {
+          "ref": null,
+          "text": "prokto vistarataḥ padārthaviṣayo yuktyāgamairnirṇayaḥ prāyo 'nyatra mayā kṛtānta"
+        },
+        {
+          "ref": null,
+          "text": "kailāsaśikharāsīnaṃ somaṃ somārdhaśekharam"
+        },
+        {
+          "ref": null,
+          "text": "haraṃ dṛṣṭvābravīttārkṣyaḥ stutipūrvamidaṃ vacaḥ //"
+        },
+        {
+          "ref": null,
+          "text": "jayāndhakapṛthuskandha bandhabhedavicakṣaṇa"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "kirana tantra_gretil.xml",
+      "aku_file": "kirana tantra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+      "editors": [
+        "Muneo Tokunaga",
+        "Muneo Tokunaga",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "E. R. Sreekrishna Sarma (Wiesbaden 1968; VOHD, Suppl. 9,1)",
+      "xml_units": 6914,
+      "aku_units": 6914,
+      "exact_matches": 6913,
+      "substring_matches": 0,
+      "verified": 6913,
+      "coverage": 100.0,
+      "xml_unmatched_count": 1,
+      "aku_unmatched_count": 1,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "atha.yan.madhyameṣu.paryāyeṣu.madhyameṣu.padeṣu.ninartayanti / (sodaśin & atirat"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "atha.yan.madhyameṣu.paryāyeṣu.madhyameṣu.padeṣu.ninartayanti / (sodaśin_&_atirat"
+        }
+      ],
+      "xml_file": "kositaki_brahmana_gretil.xml",
+      "aku_file": "kositaki_brahmana_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Kubjikamatatantra",
+      "editors": [
+        "Somadeva Vasudeva",
+        "Somadeva Vasudeva",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "T. Goudriaan and J. A. Schoterman: The Kubjikamatatantra : Kulalikamnaya version. Leiden : Brill 1988 (Orientalia Rheno-traiectina ; 30)",
+      "xml_units": 5977,
+      "aku_units": 111,
+      "exact_matches": 59,
+      "substring_matches": 10,
+      "verified": 69,
+      "coverage": 1.2,
+      "xml_unmatched_count": 5908,
+      "aku_unmatched_count": 42,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "saṃvartāmaṇḍalānte kramapadanihitānandaśaktiḥ subhīmā saṃsṛjyādyaṃ catuṣkam akul"
+        },
+        {
+          "ref": null,
+          "text": "catvāraḥ pañcako 'nyaḥ punar api caturas tattvato maṇḍaledaṃ saṃsṛṣṭaṃ yena tasm"
+        },
+        {
+          "ref": null,
+          "text": "santānapuramadhyagam anekākārarūpiṇam //"
+        },
+        {
+          "ref": null,
+          "text": "tryasraṃ vai triprakāraṃ tu triśaktitriguṇojjvalam"
+        },
+        {
+          "ref": null,
+          "text": "candrasūryakṛtālokaṃ vahnidedīpyavarcasam //"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "10",
+          "text": "sadyātmikānugraheśārcitā krūrasaṅge mahāsenasambhoginī"
+        },
+        {
+          "ref": "11",
+          "text": "ṣoḍaśāntāmṛtā bindusandohaniṣyandadehaplutāśeṣasamyakparānanda-"
+        },
+        {
+          "ref": "12",
+          "text": "nirvāṇasaukhyaprade bhairavī bhairavodyānakrīḍānuṣakte"
+        },
+        {
+          "ref": "13",
+          "text": "parā mālinī rudramālārcite rudraśaktiḥ khagī siddhayogeśvarī"
+        },
+        {
+          "ref": "14",
+          "text": "siddhamātā vibhuḥ śabdarāśīti yonyārṇavī vāgviśuddhāsi vāgeśvarī"
+        }
+      ],
+      "xml_file": "kubjikamata tantra_gretil.xml",
+      "aku_file": "kubjikamata tantra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Kūrmapurāṇa",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 12503,
+      "aku_units": 111,
+      "exact_matches": 103,
+      "substring_matches": 8,
+      "verified": 111,
+      "coverage": 0.9,
+      "xml_unmatched_count": 12392,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "namaskṛtvāprameyāya viṣṇave kūrmarūpiṇe /"
+        },
+        {
+          "ref": null,
+          "text": "purāṇaṃ saṃpravakṣyāmi yaduktaṃ viśvayoninā // KūrmP_1,1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "satrānte sūtamanaghaṃ naimiṣīyā maharṣayaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "purāṇasaṃhitāṃ puṇyāṃ papracchū romaharṣaṇam // KūrmP_1,1.2 //"
+        },
+        {
+          "ref": null,
+          "text": "tvayā sūta mahābuddhe bhagavān brahmavittamaḥ /"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "kurma_puran_gretil.xml",
+      "aku_file": "kurma_puran_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Mahābhāratatātparyanirṇaya",
+      "editors": [
+        "Dvaita.net",
+        "Dvaita.net",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 1,
+      "aku_units": 5187,
+      "exact_matches": 0,
+      "substring_matches": 1,
+      "verified": 1,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 5186,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1.1",
+          "text": "| āsīdudāraguṇavāridhiraprameyo nārāyaṇaḥ paratamaḥ paramāt sa ekaḥ | saṃ śāntas"
+        },
+        {
+          "ref": "1.2",
+          "text": "| tasyodarasthajagataḥ sadamandasāndrasvānandatuṣṭavapuṣo'pi ramāramasya | bhūty"
+        },
+        {
+          "ref": "1.3",
+          "text": "| dṛṣṭvā sa cetanagaṇān jaṭhare śayānānānandamātravapuṣaḥ sṛtivipramuktān | dhyā"
+        },
+        {
+          "ref": "1.4",
+          "text": "| srakṣye hi cetanagaṇān sukhaduḥkhamadhyasamprāptaye tanubhṛt āṃ vihṛtiṃ mamecc"
+        },
+        {
+          "ref": "1.5",
+          "text": "| itthaṃ vicintya paramaḥ sa tu vāsudevanāmā babhūva nijamuktipadapradātā | tasy"
+        }
+      ],
+      "xml_file": "madhva_gita_bhashya_gretil.xml",
+      "aku_file": "madhva_gita_bhashya_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Mālinīvijayottaratantra",
+      "editors": [
+        "Somadeva Vasudeva",
+        "Somadeva Vasudeva",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Adhikaras 1-4, 7, 11-17: critical edition by Somadeva Vasudeva, Wolfson College, Oxford, July 2000 (critical apparatus not included) (also publ. Pondichery c2004, Collection indologie, 97); Adhikaras 5, 6, 8-10, 18-23: ed. by Madhusudan Kaul Shastri, Bombay 1922 (Kashmir series of texts and studies ; 37)",
+      "xml_units": 69,
+      "aku_units": 2530,
+      "exact_matches": 46,
+      "substring_matches": 23,
+      "verified": 69,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 2461,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1.1cd",
+          "text": "parameśamukhodbhūtajñānacandramarīcayaḥ"
+        },
+        {
+          "ref": "1.2ab",
+          "text": "jagadarṇavamagnānāṃ tārakaṃ tārakāntakam"
+        },
+        {
+          "ref": "1.2cd",
+          "text": "sanatkumārasanakasanātanasanandanāḥ"
+        },
+        {
+          "ref": "1.3ab",
+          "text": "nāradāgastyasaṃvartavasiṣṭhādyā maharṣayaḥ"
+        },
+        {
+          "ref": "1.3cd",
+          "text": "jijñāsavaḥ paraṃ tattvaṃ śivaśaktyunmukhīkṛtāḥ"
+        }
+      ],
+      "xml_file": "malinivijayottara tantra_gretil.xml",
+      "aku_file": "malinivijayottara tantra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Ramakrishna Harshaji Sastri: Mānavagṛhyasūtra of the Mitrāyaṇīya Śākhā, Baroda : Central Library 1926 (Gaekwad's Oriental Series, 35)",
+      "xml_units": 1014,
+      "aku_units": 250,
+      "exact_matches": 247,
+      "substring_matches": 3,
+      "verified": 250,
+      "coverage": 24.7,
+      "xml_unmatched_count": 764,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "atha mānavagṛhyasūtraprārambhaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "oṃ upanayanaprabhṛti vratacārī syāt // ManGS_1,1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "mārgavāsāḥ saṃhatakeśo bhākṣācāryavṛttiḥ saśalkadaṇḍaḥ sapta /"
+        },
+        {
+          "ref": null,
+          "text": "muñjāṃ mekhalāṃ dhārayedācāryasyāpratikūlaḥ sarvakārī // ManGS_1,1.2 //"
+        },
+        {
+          "ref": null,
+          "text": "yadenamupeyāt tadasmai dadyād bahūnāṃ yena saṃyuktaḥ // ManGS_1,1.3 //"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "manava_grihya_sutra_gretil.xml",
+      "aku_file": "manava_grihya_sutra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Manusmṛti",
+      "editors": [
+        "Michio Yano",
+        "Yasuke Ikari",
+        "Michio Yano",
+        "Yasuke Ikari",
+        "Michio Yano",
+        "Yasuke Ikari",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Manusmṛti with the commentary of Kullūka Bhaṭṭa, based on",
+      "xml_units": 5375,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 0.0,
+      "xml_unmatched_count": 5374,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "manum ekāgram āsīnam abhigamya maharṣayaḥ"
+        },
+        {
+          "ref": null,
+          "text": "pratipūjya yathānyāyam idaṃ vacanam abruvan //"
+        },
+        {
+          "ref": null,
+          "text": "bhagavan sarvavarṇānāṃ yathāvad anupūrvaśaḥ"
+        },
+        {
+          "ref": null,
+          "text": "antaraprabhavānāṃ ca dharmān no vaktum arhasi //"
+        },
+        {
+          "ref": null,
+          "text": "tvam eko hy asya sarvasya vidhānasya svayaṃbhuvaḥ"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "manusmriti_gretil.xml",
+      "aku_file": "manusmriti_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Mārkaṇḍeyapurāṇa, 1-93",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 9960,
+      "aku_units": 714,
+      "exact_matches": 656,
+      "substring_matches": 55,
+      "verified": 711,
+      "coverage": 7.1,
+      "xml_unmatched_count": 9249,
+      "aku_unmatched_count": 3,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "pāyāt sa vaḥ sakalakalmaṣabhedadakṣaḥ"
+        },
+        {
+          "ref": null,
+          "text": "kṣīrodakukṣiphaṇibhoganiviṣṭamūrtiḥ /"
+        },
+        {
+          "ref": null,
+          "text": "śvāsāvadhūtasalilotkaṇikākarālaḥ"
+        },
+        {
+          "ref": null,
+          "text": "sindhuḥ pranṛtyamiva yasya karoti saṅgāt // MarkP_Mang.2 //"
+        },
+        {
+          "ref": null,
+          "text": "nārāyaṇaṃ samaskṛtya naraṃ caiva narottamam /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "(dvitīyo_bhāgaḥ_)"
+        },
+        {
+          "ref": "48",
+          "text": "yadi me śakyate vāṇī vaktumīdṛk sudurvacaḥ / evamuktvā tato bhāryāṃ gatvā nāgara"
+        },
+        {
+          "ref": "56.13",
+          "text": "śītodañca sarastasmāt plāvayantī mahānadī / sucakṣuḥ parvataṃ prāptā tataśca tri"
+        }
+      ],
+      "xml_file": "markandeya_puran_gretil.xml",
+      "aku_file": "markandeya_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Mātṛkābhedatantra",
+      "editors": [
+        "Oliver Hellwig",
+        "Oliver Hellwig",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 1144,
+      "aku_units": 26,
+      "exact_matches": 1,
+      "substring_matches": 3,
+      "verified": 4,
+      "coverage": 0.3,
+      "xml_unmatched_count": 1140,
+      "aku_unmatched_count": 22,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "Mātṛkābhedatantra, prathamaḥ paṭalaḥ"
+        },
+        {
+          "ref": null,
+          "text": "kailāsaśikhare ramye nānāratnopaśobhite /"
+        },
+        {
+          "ref": null,
+          "text": "papraccha parayā bhaktyā bhairavaṃ parameśvaram // MBhT_1.1"
+        },
+        {
+          "ref": null,
+          "text": "tripurāpūjanaṃ nātha svarṇaratnair viśeṣataḥ /"
+        },
+        {
+          "ref": null,
+          "text": "kalikāle svarṇarūpyaṃ guptabhāvaṃ tathā maṇim // MBhT_1.2"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "MBhT_13.2",
+          "text": "tārāyāś ca japen mantrī mahāśaṅkhākhyamālayā / mahāśaṅkhākhyamālāyāṃ sarvāṃ vidy"
+        },
+        {
+          "ref": "MBhT_13.3",
+          "text": "akasmād vai mahāsiddhir mahāśaṅkhākhyamālayā / tathaiva sakalā vidyā mahāśaṅkhe "
+        },
+        {
+          "ref": "MBhT_13.4",
+          "text": "sphāṭikī sarvadevasya pravālaiḥ sakalāṃ japet / svarṇaraupyasamudbhūtāṃ sarvadev"
+        },
+        {
+          "ref": "MBhT_13.5",
+          "text": "kālikāyāś ca sundaryā rudrākṣaiḥ prajapet sadā / bhairavyāḥ prajapen mantrī śaṅk"
+        },
+        {
+          "ref": "MBhT_13.6",
+          "text": "śmaśāne dhusturair mālā japed dhūmāvatīvidhau / iti te kathitaṃ kānte mahāmālāvi"
+        }
+      ],
+      "xml_file": "matrkabhedatantra_gretil.xml",
+      "aku_file": "matrkabhedatantra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Mṛgendrāgama (= Mrgendratantra)",
+      "editors": [
+        "Dominic Goodall",
+        "Dominic Goodall",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Madhusudan Kaul Shastri, Bombay (Srinagar) : Nirnayasagara Press, 1930. (Kashmir Series of Texts and Studies 50) and N.R. Bhatt: Mṛgendrāgama (Kriyāpāda et Caryāpāda), avec le commentaire de Bhaṭṭa-Nārāyaṇakaṇṭha. Pondicherry : Institut Français d'Indologie, 1962. (Publications de l'Institut Français d'Indologie, 23)",
+      "xml_units": 1621,
+      "aku_units": 316,
+      "exact_matches": 316,
+      "substring_matches": 0,
+      "verified": 316,
+      "coverage": 19.5,
+      "xml_unmatched_count": 1305,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "parameśaṃ namaskṛtya bharadvājamṛṣiṃ tataḥ"
+        },
+        {
+          "ref": null,
+          "text": "harādindrakramāyātaṃ jñānaṃ śṛṇuta suvratāḥ //"
+        },
+        {
+          "ref": null,
+          "text": "nārāyaṇāśrame puṇye bharadvājādayo dvijāḥ"
+        },
+        {
+          "ref": null,
+          "text": "tepuḥ śivaṃ pratiṣṭhāpya tadekāhitamānasāḥ //"
+        },
+        {
+          "ref": null,
+          "text": "atha tānbhāvitānmatvā kadācittridaśādhipaḥ"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "mrigendra_agama_gretil.xml",
+      "aku_file": "mrigendra_agama_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Nādabindūpaniṣad",
+      "editors": [
+        "Oliver Hellwig",
+        "Oliver Hellwig",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. - Calcutta : Ganesha Press, 1872 (Bibliotheca Indica ; 76)",
+      "xml_units": 42,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 2.4,
+      "xml_unmatched_count": 41,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "oṃ"
+        },
+        {
+          "ref": null,
+          "text": "akāro dakṣiṇaḥ pakṣa ukāras tūttaraḥ smṛtaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "makāras tasya pucchaṃ vā ardhamātrā śiras tathā // NbiUp_1 //"
+        },
+        {
+          "ref": null,
+          "text": "pādau rajas tamas tasya śarīraṃ sattvam ucyate /"
+        },
+        {
+          "ref": null,
+          "text": "dharmaś ca dakṣiṇaṃ cakṣur adharmaś cottaraṃ smṛtam // NbiUp_2 //"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "nadabindi_upanishad_gretil.xml",
+      "aku_file": "nadabindi_upanishad_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Namaskāraikaviṃśatistotra",
+      "editors": [
+        "Klaus Wille",
+        "Klaus Wille",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse Tāra,",
+      "xml_units": 56,
+      "aku_units": 2,
+      "exact_matches": 2,
+      "substring_matches": 0,
+      "verified": 2,
+      "coverage": 3.6,
+      "xml_unmatched_count": 54,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "namas tāre ture vīre kṣaṇadyutinibhekṣaṇe /"
+        },
+        {
+          "ref": null,
+          "text": "trailokyanāthavaktrābjavikasatkesarodbhave // Nevs_1"
+        },
+        {
+          "ref": null,
+          "text": "namas śāntasaraccandrasaṃpūrṇapaṭalānane /"
+        },
+        {
+          "ref": null,
+          "text": "tāre sahasravikalpaprahasatkiraṇojjvale // Nevs_2"
+        },
+        {
+          "ref": null,
+          "text": "namaḥ kanakanīlābjapāṇipadmavibhūṣite /"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "namaskaraikavimshati stotra_gretil.xml",
+      "aku_file": "namaskaraikavimshati stotra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Nāradapurāṇa (or Nāradīyapurāṇa)",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 31744,
+      "aku_units": 257,
+      "exact_matches": 197,
+      "substring_matches": 51,
+      "verified": 248,
+      "coverage": 0.8,
+      "xml_unmatched_count": 31496,
+      "aku_unmatched_count": 9,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "ṛṣaya ūcuḥ"
+        },
+        {
+          "ref": null,
+          "text": "kathaṃ sanatkumārastu nāradāya mahātmane /"
+        },
+        {
+          "ref": null,
+          "text": "proktavānsakalāndharmānkathaṃ tau militāvubhau // NarP_1,2.1 //"
+        },
+        {
+          "ref": null,
+          "text": "kasminsthāne sthitau sūta tāvubhau brahmavādinau /"
+        },
+        {
+          "ref": null,
+          "text": "harigītasamudgāne cakratustadvadasva naḥ // NarP_1,2.2 //"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "NarP_1,12.7",
+          "text": "nāmaikā da vedavikrayiṇaścāpi smṛtivikrayiṇastathā / dharmavikrayiṇo vipra datta"
+        },
+        {
+          "ref": "NarP_1,21.18",
+          "text": "dvija / ekādaśyāṃ nirāhāro bhavetpūrvamiva dvija / dvādaśyāṃ pañcagavyaṃ ca prāś"
+        },
+        {
+          "ref": "NarP_1,30.17",
+          "text": "/ dviguṇaṃ kṣatriyasyoktaṃ triguṇaṃ tu viśaḥ smṛtam / brāhmaṇaṃ hṝnti yaḥ śūdras"
+        },
+        {
+          "ref": "NarP_1,48.63",
+          "text": "bhūpādajaṅghākaṭyūrujaṭharādiṣu saṃsthitā / śibikeyaṃ yadā skandhe tadā bhāraḥ s"
+        },
+        {
+          "ref": "NarP_1,52.16",
+          "text": "na kartṛkarmaṇoḥ ṣaṣṭī niṣṭādipratipādikā / etā vai dvividhā jñeyāḥ subādiṣu vib"
+        }
+      ],
+      "xml_file": "narada_puran_gretil.xml",
+      "aku_file": "narada_puran_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Nāradasmṛti",
+      "editors": [
+        "Yasuke Ikari",
+        "Yasuke Ikari",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 1,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [],
+      "xml_file": "narada_smriti_gretil.xml",
+      "aku_file": "narada_smriti_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Narasiṃhapurāṇa",
+      "editors": [
+        "Peter Schreiner",
+        "Peter Schreiner",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Siddheswar Jena: The Narasiṃha Purāṇam. Delhi: Nag Publ. 1987.",
+      "xml_units": 6918,
+      "aku_units": 124,
+      "exact_matches": 119,
+      "substring_matches": 0,
+      "verified": 119,
+      "coverage": 1.7,
+      "xml_unmatched_count": 6799,
+      "aku_unmatched_count": 5,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam"
+        },
+        {
+          "ref": null,
+          "text": "devīṃ sarasvatīṃ caiva tato jayam udīrayet //"
+        },
+        {
+          "ref": null,
+          "text": "taptahāṭakakeśānta jvalatpāvakalocana"
+        },
+        {
+          "ref": null,
+          "text": "vajrādhikanakhasparśa divyasiṃha namo 'stu te //"
+        },
+        {
+          "ref": null,
+          "text": "pāntu vo narasiṃhasya nakhalāṅgūlakoṭayaḥ"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "bharatasya nandāyām ajamīḍhaḥ | ajamīḍhasya sudevyāṃ pṛśniḥ | pṛśner ugrasenāyāṃ"
+        },
+        {
+          "ref": null,
+          "text": "pañcamo nāma raivato manuḥ | ḥtasyāntare 'mitā niratā vaikuṇṭhāḥ sumedhasa ity e"
+        },
+        {
+          "ref": null,
+          "text": "daśamo brahmasāvarṇir manur bhavitā | ḥviruddhādayas tatra devāḥ | ḥteṣāṃ śāntir"
+        },
+        {
+          "ref": null,
+          "text": "aṃśumato bhagīrathaḥ | ḥyena mahatā tapasā purā divo gaṅgā aśeṣakalmaṣanāśinī ca"
+        },
+        {
+          "ref": null,
+          "text": "ṛṣabhād bharato bharatena cirakālaṃ dharmeṇa pālitatvād idaṃ bhārataṃ varṣam abh"
+        }
+      ],
+      "xml_file": "narasimha_puran_gretil.xml",
+      "aku_file": "narasimha_puran_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Nirukta",
+      "editors": [
+        "Munoe Tokunaga (and partly M. Kobayashi)",
+        "Munoe Tokunaga (and partly M. Kobayashi)",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Lakshman Sarup",
+      "xml_units": 448,
+      "aku_units": 4939,
+      "exact_matches": 0,
+      "substring_matches": 448,
+      "verified": 448,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 4491,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1,1",
+          "text": "tam.imam.samāmnāyam.nighaṇṭava.ity.ācakṣate"
+        },
+        {
+          "ref": "1,1",
+          "text": "nighaṇṭavaḥ.kasmān.nigamā.ime.bhavanti"
+        },
+        {
+          "ref": "1,1",
+          "text": "chandobhyaḥ.samāhṛtya.samāhṛtya.(samāhatya.ṛ).samāmnātāḥ"
+        },
+        {
+          "ref": "1,1",
+          "text": "te.nigantava.eva.santo.nigamanān.nighaṇṭava.ucyanta.ity.aupamanyavaḥ"
+        },
+        {
+          "ref": "1,1",
+          "text": "api.vā.hananād.eva.syuḥ.samāhatā.bhavanti"
+        }
+      ],
+      "xml_file": "nirukta_gretil.xml",
+      "aku_file": "nirukta_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Pañcaviṃśabrāhmaṇa",
+      "editors": [
+        "Martin Kümmel",
+        "Arlo Griffiths",
+        "Masato Kobayashi",
+        "Martin Kümmel",
+        "Arlo Griffiths",
+        "Masato Kobayashi",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 331,
+      "aku_units": 3570,
+      "exact_matches": 0,
+      "substring_matches": 331,
+      "verified": 331,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 3239,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "PB_1.1.2",
+          "text": "devo devam etu somaḥ somam etv ṛtasya pathā"
+        },
+        {
+          "ref": "PB_1.1.3",
+          "text": "vihāya dauṣkṛtyam"
+        },
+        {
+          "ref": "PB_1.1.4",
+          "text": "badvā nāmasi sṛtiḥ somasaraṇī somaṃ gameyam"
+        },
+        {
+          "ref": "PB_1.1.5",
+          "text": "pitaro bhūḥ pitaro bhūḥ pitaro bhūḥ"
+        },
+        {
+          "ref": "PB_1.1.6",
+          "text": "nṛmaṇa ūrdhvabharasaṃ tvordhvabharā dṛśeyam"
+        }
+      ],
+      "xml_file": "pancavimsha_brahmana_gretil.xml",
+      "aku_file": "pancavimsha_brahmana_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Bhagavadgītābhāṣya",
+      "editors": [
+        "Sadanori Ishitobi",
+        "Sadanori Ishitobi",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 2254,
+      "aku_units": 1728,
+      "exact_matches": 857,
+      "substring_matches": 7,
+      "verified": 864,
+      "coverage": 38.3,
+      "xml_unmatched_count": 1390,
+      "aku_unmatched_count": 864,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "yatpadāmbhoruhadhyānavidhvastāśeṣakalmaṣaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "vastutām upayāto 'haṃ yāmuneyaṃ namāmi tam //"
+        },
+        {
+          "ref": null,
+          "text": "dharmakṣetre kurukṣetre samavetā yuyutsavaḥ |"
+        },
+        {
+          "ref": null,
+          "text": "māmakāḥ pāṇḍavāś caiva kim akurvata sañjaya ||"
+        },
+        {
+          "ref": null,
+          "text": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā |"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "śriyaḥ patiḥ, nikhila-heya-pratyanīka-kalyāṇa-ekatānaḥ, sva-itara-samasta-vastu-"
+        },
+        {
+          "ref": null,
+          "text": "evaṃ jñātva āpi sarva-ātmana āndho dhṛtarāṣṭraḥ suyodhana-vijaya-bubhutsayā sañj"
+        },
+        {
+          "ref": null,
+          "text": "duryodhanaḥ svayam eva bhīma-abhirakṣitaṃ pāṇḍavānāṃ balam, ātmīyaṃ ca bhīṣma-ab"
+        },
+        {
+          "ref": null,
+          "text": "tasya viṣādam ālakṣya bhīṣmas tasya harṣaṃ janayituṃ siṃha-nādaṃ śaṅkha-dhmānaṃ "
+        },
+        {
+          "ref": null,
+          "text": "trailokyaṃ kampayantau śrīmat-pāñcajanya-deva-dattau divyau śaṅkhau pradadhmatuḥ"
+        }
+      ],
+      "xml_file": "ramanuja_gita_bhashya_gretil.xml",
+      "aku_file": "ramanuja_gita_bhashya_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Vedārthasaṃgraha",
+      "editors": [
+        "Sadanori Ishitobi",
+        "Sadanori Ishitobi",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 146,
+      "aku_units": 286,
+      "exact_matches": 141,
+      "substring_matches": 1,
+      "verified": 142,
+      "coverage": 97.3,
+      "xml_unmatched_count": 4,
+      "aku_unmatched_count": 144,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "aśeṣacidacidvastuviśeṣiṇe śeṣaśāyine /"
+        },
+        {
+          "ref": null,
+          "text": "nirmalānantakalyāṇanidhaye viṣṇave namaḥ //"
+        },
+        {
+          "ref": null,
+          "text": "paraṃ brahmaivājñaṃ bhramaparigataṃ saṃsarati tatparopādhyālīḍhaṃ vivaśamaśubhas"
+        },
+        {
+          "ref": null,
+          "text": "śrutinyāyāpetaṃ jagati vitataṃ mohanam idaṃ tamo yenāpāstaṃ sa hi vijayate yāmun"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "aśeṣa-jagad-dhita-anuśāsana-śruti-nikara-śirasi samadhigato 'yam arthaḥ jīva-par"
+        },
+        {
+          "ref": null,
+          "text": "asya jīva-ātmano 'nādy-avidyā-saṃcita-puṇya-pāpa-rūpa-karma-pravāha-hetuka-brahm"
+        },
+        {
+          "ref": null,
+          "text": "jīva-ātmanaḥ sva-rūpaṃ deva-manuṣya-ādi-prakṛti-pariṇāma-viśeṣa-rūpa-nānā-vidha-"
+        },
+        {
+          "ref": null,
+          "text": "evaṃ-vidha-cid-acid-ātmaka-prapañcasya udbhava-sthiti-pralaya-saṃsāra-nirvartana"
+        },
+        {
+          "ref": null,
+          "text": "tasya vaibhava-pratipādana-parāṇām eṣāṃ sāmānādhikaraṇya-ādīnāṃ vivaraṇe pravṛtt"
+        }
+      ],
+      "xml_file": "ramanuja_vedartha_gretil.xml",
+      "aku_file": "ramanuja_vedartha_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Revākhāṇḍa of the Vāyupurāṇa (RKV)",
+      "editors": [
+        "Jürgen Neuss",
+        "Jürgen Neuss",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Śrīkṛṣṇadās, Kṣemrāj (ed.): Śrīskandamahāpurāṇam. Veṅkateśvara Steam Press, Bombay: 1910 and its reprint: Siṃha, Nāgaśaraṇa (ed.): Śrīskandamahāpurāṇam. pañcama bhāga: śrī āvantyakhaṇḍam. Nag Publishers, Delhi: 1986.",
+      "xml_units": 16910,
+      "aku_units": 495,
+      "exact_matches": 241,
+      "substring_matches": 252,
+      "verified": 493,
+      "coverage": 2.9,
+      "xml_unmatched_count": 16417,
+      "aku_unmatched_count": 2,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "ubhayataṭapuṇyatīrthā prakṣālitasakalalalokaduritaughā /"
+        },
+        {
+          "ref": null,
+          "text": "devamunimanujavandyā haratu sadā narmadā duritam // RKV_1.3 //"
+        },
+        {
+          "ref": null,
+          "text": "nāśayatu duritamakhilaṃ bhūtaṃ bhavyaṃ bhavacca bhuvi bhavinām /"
+        },
+        {
+          "ref": null,
+          "text": "sakalapavitri tava sudhā puṇyajalā narmadā bhavati // RKV_1.4 //"
+        },
+        {
+          "ref": null,
+          "text": "taṭapulinaṃ śivadevā yasyā yatayo 'pi kāmayante vā /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1",
+          "text": "śrīgaṇeśāya namaḥ //"
+        },
+        {
+          "ref": "2",
+          "text": "sūta uvāca //"
+        }
+      ],
+      "xml_file": "revakhanda_vayu_puran_gretil.xml",
+      "aku_file": "revakhanda_vayu_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Ṛgvedakhilāni",
+      "editors": [
+        "Muneo Tokunaga",
+        "Muneo Tokunaga",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "J. Scheftelowitz: Die Apokryphen des Rgveda (Khilani). Breslau 1906 (Indische Forschungen 1)",
+      "xml_units": 1337,
+      "aku_units": 23,
+      "exact_matches": 19,
+      "substring_matches": 4,
+      "verified": 23,
+      "coverage": 1.7,
+      "xml_unmatched_count": 1314,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "samaikṣiṣya.ūrdhva.mahasa.ādityena.sahiyasā./"
+        },
+        {
+          "ref": null,
+          "text": "aham.yaśasvinām.yaśo.viśvā.rūpāṇy.ādade./"
+        },
+        {
+          "ref": null,
+          "text": "udyann.adya.vi.no.bhaja.pitā.putrebhyo.yathā./"
+        },
+        {
+          "ref": null,
+          "text": "dīrgha.āyutvasya.heśiṣe.tasya.no.dhehi.sūrya./"
+        },
+        {
+          "ref": null,
+          "text": "udyantam.tvā.mitramaha.ārohantam.vicakṣaṇa./"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "rigveda_khila_gretil.xml",
+      "aku_file": "rigveda_khila_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Ṛgvedasaṃhitā, Padapāṭha",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 12569,
+      "aku_units": 13600,
+      "exact_matches": 2018,
+      "substring_matches": 10551,
+      "verified": 12569,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 1031,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "RV_1,1",
+          "text": "agnim | īḷe | puraḥ-hitam | yajñasya | devam | ṛtvijam | hotāram | ratna-dhātama"
+        },
+        {
+          "ref": "RV_1,2",
+          "text": "vāyo iti | ā | yāhi | darśata | ime | somāḥ | araṃ-kṛtāḥ | teṣām | pāhi | śrudhi"
+        },
+        {
+          "ref": "RV_1,3",
+          "text": "aśvinā | yajvarīḥ | iṣaḥ | dravatpāṇī itidravat-pāṇī | śubhaḥ | patī iti | puru-"
+        },
+        {
+          "ref": "RV_1,4",
+          "text": "surūpa-kṛtnum | ūtaye | sudughām-iva | go--duhe | juhūmasi | dyavi-dyavi //"
+        },
+        {
+          "ref": "RV_1,5",
+          "text": "ā | tu | ā | ita | ni | sīdata | indram | abhi | pra | gāyata | sakhāyaḥ | stoma"
+        }
+      ],
+      "xml_file": "rigveda_padapatha_gretil.xml",
+      "aku_file": "rigveda_padapatha_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Sāmavedasaṃhitā",
+      "editors": [
+        "Anshuman Pandey",
+        "Anshuman Pandey",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 469,
+      "aku_units": 3789,
+      "exact_matches": 8,
+      "substring_matches": 461,
+      "verified": 469,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 3320,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "0001a",
+          "text": "vidā maghavan vidā gātumanuśaṃsiṣo diśaḥ ."
+        },
+        {
+          "ref": "0001c",
+          "text": "śikṣā śacīnāṃ pate pūrvīṇāṃ purūvaso .."
+        },
+        {
+          "ref": "01c",
+          "text": "abhi devāṃ iyakṣate .."
+        },
+        {
+          "ref": "01a",
+          "text": "davidyutatyā rucā pariṣṭobhantyā kṛpā ."
+        },
+        {
+          "ref": "01c",
+          "text": "somāḥ śukrā gavāśiraḥ .."
+        }
+      ],
+      "xml_file": "samaveda_gretil.xml",
+      "aku_file": "samaveda_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Sarvadurgatipariśodhanatantra",
+      "editors": [
+        "Klaus Wille",
+        "Klaus Wille",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Tadeusz Skorupski: The Sarvadurgatiparisodhana Tantra, Elimination of All Destinies, Sanskrit and Tibetan Texts with Introduction, English Translation and Notes. Delhi 1983.",
+      "xml_units": 1424,
+      "aku_units": 1371,
+      "exact_matches": 1333,
+      "substring_matches": 21,
+      "verified": 1354,
+      "coverage": 95.1,
+      "xml_unmatched_count": 70,
+      "aku_unmatched_count": 17,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "sarvalaukikalokottarasaṃpattisamanvāgatāś ca bhavantu /"
+        },
+        {
+          "ref": null,
+          "text": "sahaiva sukhena sahaiva saumanasyena buddhā bhavantu narottamā iti /"
+        },
+        {
+          "ref": null,
+          "text": "anena cāhaṃ kuśalakarmaṇā bhaveya buddho //"
+        },
+        {
+          "ref": null,
+          "text": "anuttarāyāṃ samyaksaṃbodhau pariṇāmāya saṃvaraṃ gṛhṇīyāt /"
+        },
+        {
+          "ref": null,
+          "text": "utpādayāmi paramaṃ bodhicittam anuttaram //"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "sarvamudrābandhakṣamo bhavet / Sdp"
+        },
+        {
+          "ref": null,
+          "text": "amṛtaprabhasya / Sdp"
+        },
+        {
+          "ref": null,
+          "text": "maṇḍalarājāgrī nāmasamādhiḥ / Sdp"
+        },
+        {
+          "ref": null,
+          "text": "vajrayakṣamantreṇa vighnān utsārya maṇḍaleṣu praveśayet / Sdp"
+        },
+        {
+          "ref": null,
+          "text": "vāmahastas tathaiva parivartitaḥ sarvakarmikamudrā / añjaler ūrdhvakṣepād dhūpam"
+        }
+      ],
+      "xml_file": "sarvadurgatiparishodhana tantra_gretil.xml",
+      "aku_file": "sarvadurgatiparishodhana tantra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Śāṅkhāyanaśrautasūtra",
+      "editors": [
+        "Muneo Tokunaga",
+        "Muneo Tokunaga",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Alfred Hillebrandt Calcutta 1885-1899 (Bibliotheca Indica, 99)",
+      "xml_units": 459,
+      "aku_units": 5330,
+      "exact_matches": 0,
+      "substring_matches": 459,
+      "verified": 459,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 4871,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "ŚŚS_1.1.2",
+          "text": "sa.trayāṇām.varṇānām /"
+        },
+        {
+          "ref": "ŚŚS_1.1.3",
+          "text": "brāhmaṇa.kṣatriyayor.vaiśyasya.ca /"
+        },
+        {
+          "ref": "ŚŚS_1.1.4",
+          "text": "asamyujya.vidhīyamānam.sādhāraṇam /"
+        },
+        {
+          "ref": "ŚŚS_1.1.5",
+          "text": "samyogād.vyavatiṣṭhate /"
+        },
+        {
+          "ref": "ŚŚS_1.1.6",
+          "text": "yajña.upavītī.deva.karmāṇi.karoti /"
+        }
+      ],
+      "xml_file": "shankhayana_shrauta_sutra_gretil.xml",
+      "aku_file": "shankhayana_shrauta_sutra_gretil_prose.json"
+    },
+    {
+      "status": "mostly_verified",
+      "title": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+      "editors": [
+        "Oliver Hellwig",
+        "Oliver Hellwig",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. Calcutta: Ganesha Press, 1872 (Bibliotheca Indica ; 76)",
+      "xml_units": 48,
+      "aku_units": 42,
+      "exact_matches": 42,
+      "substring_matches": 0,
+      "verified": 42,
+      "coverage": 87.5,
+      "xml_unmatched_count": 6,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "bālāgramātraṃ hṛdayasya madhye viśvaṃ devaṃ jātarūpaṃ vareṇyam /"
+        },
+        {
+          "ref": null,
+          "text": "tam ātmasthaṃ ye tu paśyanti dhīrās teṣāṃ śāntir bhavati netareṣām //"
+        },
+        {
+          "ref": null,
+          "text": "yasmin krodhaṃ yāṃ ca tṛṣṇāṃ kṣamāṃ cākṣamāṃ hitvā hetujālasya mūlam /"
+        },
+        {
+          "ref": null,
+          "text": "buddhyā saṃcitaṃ sthāpayitvā tu rudre rudram ekatvam āhuḥ //"
+        },
+        {
+          "ref": null,
+          "text": "na tasmāt pūrvaṃ na paraṃ tad asti na bhūtaṃ nota bhavyaṃ yad āsīt /"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "shira_upanishad_gretil.xml",
+      "aku_file": "shira_upanishad_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Śivapurāṇa, Books 1 and 7",
+      "editors": [
+        "Jun Takashima",
+        "Jun Takashima",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Venkatesvara Steam Press, Bombay (c. 1920)",
+      "xml_units": 5190,
+      "aku_units": 6853,
+      "exact_matches": 102,
+      "substring_matches": 195,
+      "verified": 297,
+      "coverage": 5.7,
+      "xml_unmatched_count": 4893,
+      "aku_unmatched_count": 6556,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "ādyantamaṃgalamajātasamānabhāvamāryaṃ tamīśamajarāmaramātmadevam // ŚivP_1,Mang_"
+        },
+        {
+          "ref": null,
+          "text": "pañcānanaṃ prabalapañcavinodaśīlaṃ saṃbhāvaye manasiśaṃkaramambikeśam // ŚivP_1,"
+        },
+        {
+          "ref": null,
+          "text": "tatovaiśyairdhāyapratidivasabhāvaśyakamahotathākṛṣṇaṃśūdraiḥśrutigaditamārgoyama"
+        },
+        {
+          "ref": null,
+          "text": "varṇīvanīgṛhayatīrniyamenadadhyādetadrahasyaparamonahijātutiṣṭhet // ŚivP_1,25.4"
+        },
+        {
+          "ref": null,
+          "text": "rudrākṣadhāraṇamidaṃsukṛtaiścalabhyaṃtyaktvedametadakhilānnarakānprayāṃti // Śiv"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "1",
+          "text": "vyāsa uvāca dharmakṣetre mahākṣetre gaṃgākālindisaṃgame //"
+        },
+        {
+          "ref": "ŚivP_1,1.1ab",
+          "text": "prayāge parame puṇye brahmalokasya vartmani //"
+        },
+        {
+          "ref": "ŚivP_1,1.1cd",
+          "text": "munayaḥ śaṃsitātmanassatyavrataparāyaṇāḥ //"
+        },
+        {
+          "ref": "ŚivP_1,1.2ab",
+          "text": "mahaujaso mahābhāgā mahāsatraṃ vitenire //"
+        },
+        {
+          "ref": "ŚivP_1,1.2cd",
+          "text": "tatra satraṃ samākarṇya vyāsaśiṣyo mahāmuniḥ //"
+        }
+      ],
+      "xml_file": "shiva_puran_gretil.xml",
+      "aku_file": "shiva_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Śivasūtra with vārttika",
+      "editors": [
+        "Oliver Hellwig",
+        "Oliver Hellwig",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Madhusudan Kaul Shastri, Srinagar: Kashmir Pratap Steam Press, 1925",
+      "xml_units": 833,
+      "aku_units": 150,
+      "exact_matches": 147,
+      "substring_matches": 3,
+      "verified": 150,
+      "coverage": 18.0,
+      "xml_unmatched_count": 683,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "* svātantryam etad evātmā tato 'sau paramaḥ śivaḥ || SivSV_1.1:2 ||"
+        },
+        {
+          "ref": null,
+          "text": "* athavā ko 'yam ātmeti praṣṭ bodhayituṃ śiśūn || SivSV_1.1:3 ||"
+        },
+        {
+          "ref": null,
+          "text": "* nātmā deho na ca prāṇo na manaḥ khaṃ na śūnyabhūḥ || SivSV_1.1:4 ||"
+        },
+        {
+          "ref": null,
+          "text": "* kiṃtu caitanyam evātmety ādiṣṭaṃ parameṣṭhinā || SivSV_1.1:5 ||"
+        },
+        {
+          "ref": null,
+          "text": "* atha caitanyam evaitad ātmā svābhāvikaṃ vapuḥ || SivSV_1.1:6 ||"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "shiva_sutra_varttika_gretil.xml",
+      "aku_file": "shiva_sutra_varttika_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Śvetāśvataropaniṣad",
+      "editors": [
+        "S. H.",
+        "S. H.",
+        "John Manetta",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "the electronic text available from Sanskrit Documents (https://sanskritdocuments.org)",
+      "xml_units": 227,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 0.4,
+      "xml_unmatched_count": 226,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "kiṃkāraṇaṃ brahma kutaḥ sma jātā jīvāmaḥ kena kva ca saṃpratiṣṭhāḥ"
+        },
+        {
+          "ref": null,
+          "text": "adhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthām //"
+        },
+        {
+          "ref": null,
+          "text": "kālaḥ svabhāvo niyatir yadṛcchā bhūtāni yoniḥ puruṣeti cintyam"
+        },
+        {
+          "ref": null,
+          "text": "saṃyoga eṣāṃ na tv ātmabhāvād ātmā hy anīśaḥ sukhaduḥkhahetoḥ //"
+        },
+        {
+          "ref": null,
+          "text": "te dhyānayogānugatā apaśyan devātmaśaktiṃ svaguṇair nigūḍhām"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "shvetashvatara_upanishad_gretil.xml",
+      "aku_file": "shvetashvatara_upanishad_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+      "editors": [
+        "Jürgen Neuss",
+        "Jürgen Neuss",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Giri, Oṅkārānanda (ed.) - atha bṛhat śrīnarmadāpurāṇam revākhaṇḍam (parivardhita tṛtīya saṃskaraṇa). Jñānasatra Prakāśana Nyāsa, Hośaṅgābāda: 1994.",
+      "xml_units": 13978,
+      "aku_units": 728,
+      "exact_matches": 355,
+      "substring_matches": 370,
+      "verified": 725,
+      "coverage": 5.2,
+      "xml_unmatched_count": 13253,
+      "aku_unmatched_count": 3,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "majjanamātaṅgagaṇḍacyutamadamadirāmodamattālijālam /"
+        },
+        {
+          "ref": null,
+          "text": "snānaiḥ siddhāṅganānāṃ kucayugavigalatkuṅkumāsaṅgapiṅgam // RKS_1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "sāyaṃ prātarmunīnāṃ kuśakusumacayācchannatīrasthanīram /"
+        },
+        {
+          "ref": null,
+          "text": "pāyādvo narmadāmbhaḥ karikarabhakarākrāntarahastaraṅgam // RKS_1.2 //"
+        },
+        {
+          "ref": null,
+          "text": "himavacchikhare ramye siddhagandharvasevite /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "RKS_39.36",
+          "text": "// [Gap in Original] uktāni ca niṣiddhāni dharmādharmavicāraṇe / lokoktaṃ vihita"
+        },
+        {
+          "ref": "RKS_54.23",
+          "text": "// [steht so dort] godānaṃ hemadānaṃ ca tiladānaṃ tathaiva ca / annadānaṃ payodā"
+        },
+        {
+          "ref": "78",
+          "text": "atha aṣṭasaptatitamo 'dhyāyaḥ"
+        }
+      ],
+      "xml_file": "skanda_puran_revakhanda_gretil.xml",
+      "aku_file": "skanda_puran_revakhanda_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Svayaṃbhupurāṇa",
+      "editors": [
+        "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Min Bahadu Shakyar & Shanta Harsa Bajracharya (trans.). Svayambhu Purāṇa. Nepal: Nagarjuna Institute of Exact Methods, 2001.",
+      "xml_units": 3530,
+      "aku_units": 48,
+      "exact_matches": 46,
+      "substring_matches": 1,
+      "verified": 47,
+      "coverage": 1.3,
+      "xml_unmatched_count": 3483,
+      "aku_unmatched_count": 1,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "śrīmatā yena saddharmastrailoke saṃprakāśitaḥ /"
+        },
+        {
+          "ref": null,
+          "text": "śrīghanaṃ taṃ mahābuddhaṃ vandeka'haṃ śaraṇāśritaḥ // SvayambhuP_1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "natvā trijagadīśānaṃ dharmadhātujinālayaṃ /"
+        },
+        {
+          "ref": null,
+          "text": "tatsvayambhūsamuddeśaṃ vakṣāmi śṛṇutādarāt // SvayambhuP_1.2 //"
+        },
+        {
+          "ref": null,
+          "text": "śraddhayā yaḥ śṛṇotīmāṃ svayambhūtpattisatkathāṃ /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "934",
+          "text": "śrāvaṇa śukla // samāptam //"
+        }
+      ],
+      "xml_file": "svayambhu_puran_gretil.xml",
+      "aku_file": "svayambhu_puran_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+      "editors": [
+        "Ivan Andrijanić",
+        "Ivan Andrijanić",
+        "Maximilian Mehner"
+      ],
+      "source": "Ten Principal Upaniṣads with Śaṅkarabhāṣya, Works of Śaṅkarācārya in original Sanskrit, vol. 1, Delhi: Motilal Banarsidass (first edition 1964, reprint 2007)",
+      "xml_units": 81,
+      "aku_units": 277,
+      "exact_matches": 48,
+      "substring_matches": 33,
+      "verified": 81,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 196,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "nityāny adhigatāni karmāṇy upāttaduritakṣayārthāni, kāmyāni ca phalārthināṃ pūrv"
+        },
+        {
+          "ref": null,
+          "text": "yac coktataṃ niratiśayaprīteḥ svargaśabdavācyāyāḥ karmanimittatvāt karmārabhya e"
+        },
+        {
+          "ref": null,
+          "text": "upaniṣad iti vidyocyate / tatsevināṃ garbhajanmajarādiniśātanāt tadavasādanād vā"
+        },
+        {
+          "ref": null,
+          "text": "śaṃ sukhaṃ prāṇavṛtter ahnaś cābhimānī devatātmā mitro no 'smākaṃ bhavatu / tath"
+        },
+        {
+          "ref": null,
+          "text": "arthajñānapradhānatvād upaniṣado granthapāṭhe yatnoparamo mā bhūd iti śīkṣādhyāy"
+        }
+      ],
+      "xml_file": "taittiriya_upanishad_bhashya_gretil.xml",
+      "aku_file": "taittiriya_upanishad_bhashya_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Uḍḍāmareśvaratantra",
+      "editors": [
+        "Oliver Hellwig",
+        "Oliver Hellwig",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "J.D. Zadoo Srinagar: The Normal Press, 1947",
+      "xml_units": 397,
+      "aku_units": 272,
+      "exact_matches": 1,
+      "substring_matches": 12,
+      "verified": 13,
+      "coverage": 3.3,
+      "xml_unmatched_count": 384,
+      "aku_unmatched_count": 259,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "Uḍḍāmareśvaratantra, Prathamaḥ paṭalaḥ"
+        },
+        {
+          "ref": null,
+          "text": "uḍḍīśena samākīrṇā yogivṛndasamākulā /"
+        },
+        {
+          "ref": null,
+          "text": "praṇamya śirasā devī gaurī pṛcchati śaṃkaram // UT_1.1"
+        },
+        {
+          "ref": null,
+          "text": "īśvara śrotum icchāmi lokanātha jagatprabho /"
+        },
+        {
+          "ref": null,
+          "text": "prasādaṃ kuru deveśa brūhi dharmārthasādhakam // UT_1.2"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "Uḍḍāmareśvaratantra, ṣaṣṭhaḥ paṭalaḥ kṛṣṇacchāgaromakṛṣṇamārjāraromakṛṣṇakākarom"
+        },
+        {
+          "ref": null,
+          "text": "mānuṣāṇāṃ viśeṣeṇa vaśyakarmaṇi yojitā / ekapattrī tu svāṅgamalasaṃyuktā striyaṃ"
+        },
+        {
+          "ref": null,
+          "text": "Uḍḍāmareśvaratantra, Aṣṭamaḥ paṭalaḥ athānyat sampravakṣyāmi nārīṇāṃ garbhadhāra"
+        },
+        {
+          "ref": null,
+          "text": "pattrahaste tāṃ pralipya sarpo dhriyate dhṛtamātre sarpo na naśyati naiva kṣatān"
+        },
+        {
+          "ref": null,
+          "text": "Uḍḍāmareśvaratantra, Daśamaḥ paṭalaḥ tatra ceṭakasādhanam / atha ceṭakā likhyant"
+        }
+      ],
+      "xml_file": "uddamareshvara tantra_gretil.xml",
+      "aku_file": "uddamareshvara tantra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Vaikhānasadharmasūtra",
+      "editors": [
+        "Hiromichi Hikita",
+        "Yuuko Matsuda",
+        "Yasuke Ikari",
+        "Hiromichi Hikita",
+        "Yuuko Matsuda",
+        "Yasuke Ikari",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "W. Caland, Vaikhanasasmartasutram, the domestic rules of the Vaikhanasa school belonging to the Black Yajurveda, Calcutta 1927",
+      "xml_units": 3,
+      "aku_units": 4,
+      "exact_matches": 2,
+      "substring_matches": 1,
+      "verified": 3,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 1,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "p.216",
+          "text": "śrīphalaiḥ śaṅkha.śukti.gośṛṅgāṇi sarṣapaiḥ sa.vāribhirmṛtmayāni punar dāhena gṛ"
+        }
+      ],
+      "xml_file": "vaikhanasa_dharmasutra_gretil.xml",
+      "aku_file": "vaikhanasa_dharmasutra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Vāmanapurāṇa, 1-69",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "A.S. Gupta, Varanasi : All India Kashiraj Trust 1967",
+      "xml_units": 9507,
+      "aku_units": 154,
+      "exact_matches": 75,
+      "substring_matches": 60,
+      "verified": 135,
+      "coverage": 1.4,
+      "xml_unmatched_count": 9372,
+      "aku_unmatched_count": 19,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "trailokyarājyamākṣipya balerindrāya yo dadau /"
+        },
+        {
+          "ref": null,
+          "text": "śrīdharāya namastasmai chadmavāmanarūpiṇe // VamP_1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "pulastyamuṣimāsīnamāśrame vāgvidāṃ varam /"
+        },
+        {
+          "ref": null,
+          "text": "nāradaḥ paripapraccha purāṇaṃ vāmanāśrayam // VamP_1.2 //"
+        },
+        {
+          "ref": null,
+          "text": "kathaṃ bhagavatā brahman viṣṇunā prabhaviṣṇunā /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "5.34",
+          "text": "pitryarkṣaṃ bhagadaivatyamuttarāṃś ca kesarī / sūryakṣetraṃ vibhorbrahman hṛdaya"
+        },
+        {
+          "ref": "5",
+          "text": "dhruvadhvaja satyadhvaja khaṅgadhvaja tāladhvaja vaikuṇṭhaṃ puruṣottama vareṇya "
+        },
+        {
+          "ref": "10",
+          "text": "kamalagarbha kamalāyatākṣa śrīpate viṣṇumūla mūlādhivāsa dharmādhivāsa dharmavās"
+        },
+        {
+          "ref": "20",
+          "text": "rasātmaka paramātman sanātana muñjakeśa harikeśa guḍākeśa keśava nīla sūkṣma sth"
+        },
+        {
+          "ref": "25",
+          "text": "kuśeśaya adhokṣaja govinda janārdana madhusūdana vāmana namaste / sahasraśīrṣo '"
+        }
+      ],
+      "xml_file": "vamana_puran_gretil.xml",
+      "aku_file": "vamana_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Vāmanapurāṇa, Saromāhātmya",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "A.S. Gupta, Varanasi : All India Kashiraj Trust 1967",
+      "xml_units": 2520,
+      "aku_units": 40,
+      "exact_matches": 29,
+      "substring_matches": 6,
+      "verified": 35,
+      "coverage": 1.4,
+      "xml_unmatched_count": 2485,
+      "aku_unmatched_count": 5,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "devadeva uvāca"
+        },
+        {
+          "ref": null,
+          "text": "sarasvatīdṛṣadvatyorantare kurujāṅgale /"
+        },
+        {
+          "ref": null,
+          "text": "sunipravaramāsīnaṃ purāṇaṃ lomaharṣaṇam /"
+        },
+        {
+          "ref": null,
+          "text": "aṣṭacchanta dvijavarāḥ prabhāvaṃ sarasastadā // VamPSm_1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "pramāṇaṃ saraso brūhi tīrthānāṃ ca viśeṣataḥ /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "10",
+          "text": "gabhastinābha śatakratunābha candraratha sūryatejaḥ samudravāsaḥ ajaḥ sahasraśir"
+        },
+        {
+          "ref": "15",
+          "text": "vaṣaṭkāraṃ tvāmāhuragrayaṃ makheṣu prāśitāraṃ sahasradhāraṃ ca bhuśca bhuvaśca s"
+        },
+        {
+          "ref": "20",
+          "text": "ijyo 'si sumedho 'si samidhastvameva matir gatir dātā tvamasi / mokṣo 'si yogo '"
+        },
+        {
+          "ref": "25",
+          "text": "puruṣottama ādidedeva suvikrama prabhākara śaṃbho svayaṃbho bhūtādiḥ mahābhūto '"
+        },
+        {
+          "ref": "30",
+          "text": "caturbhiśca caturbhiśca dvābhyāṃ pañjabhireva ca / hūyate ca punardvābhyāṃ tubhy"
+        }
+      ],
+      "xml_file": "vamana_puran_saromahatmya_gretil.xml",
+      "aku_file": "vamana_puran_saromahatmya_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Vāsiṣṭhadharmasūtra",
+      "editors": [
+        "M. Fushimi",
+        "M. Fushimi",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Vasisthadharmasastra, Bombay Sanskrit and Prakrit Series 23",
+      "xml_units": 1384,
+      "aku_units": 1389,
+      "exact_matches": 1,
+      "substring_matches": 1383,
+      "verified": 1384,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 5,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [
+        {
+          "ref": "Va.2.36",
+          "text": "katham^hi laṅgalam udvapet(ud-vap-)^anyatra dhānya.vikrayāt //"
+        },
+        {
+          "ref": "Va.10.20",
+          "text": "na bhojana.ācchādana.tatparasya na ca^api ramya.āvasatha.priyasya (c)//"
+        },
+        {
+          "ref": "Va.16.16",
+          "text": "yajñāt^upagamas^veṇis tathā dhūma.śikhā^aṣṭamī.(c) iti //"
+        },
+        {
+          "ref": "Va.26.8",
+          "text": "yathā^aśvamedha.avabhṛthas tādṛśam^manus^abravīt(brū-) (c)//"
+        },
+        {
+          "ref": "Va.26.14",
+          "text": "japatām(jap-)^juhvatām(hu-)^ca^api vinipātas^na vidyate(vid-) (c)//"
+        }
+      ],
+      "xml_file": "vasistha_dharmasutra_gretil.xml",
+      "aku_file": "vasistha_dharmasutra_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Vijñānabhairava",
+      "editors": [
+        "Marino Faliero",
+        "Marino Faliero",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 333,
+      "aku_units": 12,
+      "exact_matches": 12,
+      "substring_matches": 0,
+      "verified": 12,
+      "coverage": 3.6,
+      "xml_unmatched_count": 321,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "śrutaṃ deva mayā sarvaṃ rudrayāmalasambhavam |"
+        },
+        {
+          "ref": null,
+          "text": "trikabhedam aśeṣeṇa sārāt sāravibhāgaśaḥ || 1 ||"
+        },
+        {
+          "ref": null,
+          "text": "adyāpi na nivṛtto me saṃśayaḥ parameśvara |"
+        },
+        {
+          "ref": null,
+          "text": "kiṃ rūpaṃ tattvato deva śabdarāśikalāmayam || 2 ||"
+        },
+        {
+          "ref": null,
+          "text": "kiṃ vā navātmabhedena bhairave bhairavākṛtau |"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "vijJAnabhairava_gretil.xml",
+      "aku_file": "vijJAnabhairava_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Vijñānabhairava",
+      "editors": [
+        "Marino Faliero",
+        "Marino Faliero",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 333,
+      "aku_units": 12,
+      "exact_matches": 12,
+      "substring_matches": 0,
+      "verified": 12,
+      "coverage": 3.6,
+      "xml_unmatched_count": 321,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "śrutaṃ deva mayā sarvaṃ rudrayāmalasambhavam |"
+        },
+        {
+          "ref": null,
+          "text": "trikabhedam aśeṣeṇa sārāt sāravibhāgaśaḥ || 1 ||"
+        },
+        {
+          "ref": null,
+          "text": "adyāpi na nivṛtto me saṃśayaḥ parameśvara |"
+        },
+        {
+          "ref": null,
+          "text": "kiṃ rūpaṃ tattvato deva śabdarāśikalāmayam || 2 ||"
+        },
+        {
+          "ref": null,
+          "text": "kiṃ vā navātmabhedena bhairave bhairavākṛtau |"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "vijnana_bhairava_gretil.xml",
+      "aku_file": "vijnana_bhairava_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Vīṇāśikhatantra",
+      "editors": [
+        "Somadeva Vasudeva",
+        "Somadeva Vasudeva",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "T. Goudriaan, Delhi 1985.",
+      "xml_units": 792,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 0.1,
+      "xml_unmatched_count": 791,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "kailāsaśikhare ramye nānāratnopaśobhite"
+        },
+        {
+          "ref": null,
+          "text": "nānādrumalatākīrṇe siddhacāraṇasevite //"
+        },
+        {
+          "ref": null,
+          "text": "tatra devaḥ suraśreṣṭhaḥ krīḍate umayā saha"
+        },
+        {
+          "ref": null,
+          "text": "stūyamāno mahāsiddhair mahākālādibhir gaṇaiḥ //"
+        },
+        {
+          "ref": null,
+          "text": "ṛṣibhiś ca mahābhāgair bhṛgvādyaiḥ surasattamaiḥ"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "vinaashikha tantra_gretil.xml",
+      "aku_file": "vinaashikha tantra_gretil_prose.json"
+    },
+    {
+      "status": "verified",
+      "title": "Viṣṇudharma",
+      "editors": [
+        "Reinhold Grünendahl",
+        "Reinhold Grünendahl",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "R. Grünendahl: Visnudharmah - Precepts for the worship of Visnu. Wiesbaden : Harrassowitz, 3 vols., 1983-1989",
+      "xml_units": 1,
+      "aku_units": 1,
+      "exact_matches": 1,
+      "substring_matches": 0,
+      "verified": 1,
+      "coverage": 100.0,
+      "xml_unmatched_count": 0,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [],
+      "aku_unmatched_samples": [],
+      "xml_file": "vishnu_dharma_gretil.xml",
+      "aku_file": "vishnu_dharma_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Viṣṇupurāṇa",
+      "editors": [
+        "members of the Sansknet Project",
+        "members of the Sansknet Project",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Bombay : Venkatesvara Steam Press 1910",
+      "xml_units": 12244,
+      "aku_units": 196,
+      "exact_matches": 13,
+      "substring_matches": 174,
+      "verified": 187,
+      "coverage": 1.5,
+      "xml_unmatched_count": 12057,
+      "aku_unmatched_count": 9,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam /"
+        },
+        {
+          "ref": null,
+          "text": "devīṃ sarasvatīvyāsaṃ tato jayamudīrayet // ViP_1,1.0 //"
+        },
+        {
+          "ref": null,
+          "text": "oṃ parāśaraṃ munivaraṃ kṛtapaurvāhnikakriyam /"
+        },
+        {
+          "ref": null,
+          "text": "maitreyaḥ paripapraccha praṇipatyābhivādya ca // ViP_1,1.1 //"
+        },
+        {
+          "ref": null,
+          "text": "tvatto hi vedādhyayanam adhītam akhilaṃ guro /"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "ViP_4,2.69",
+          "text": "//tatra cāntarjale saṃmado nāmātibabahu prajotimātrapramāṇo mīnādhipatirāsīt //"
+        },
+        {
+          "ref": "ViP_4,3.37",
+          "text": "//utpannabuddhiś ca mātaramabravīt //"
+        },
+        {
+          "ref": "ViP_4,4.47",
+          "text": "//asāvapi hiraṇyapātre māṃsamādāya vasiṣṭhāgamanapratīkṣako 'bhavat //"
+        },
+        {
+          "ref": "ViP_4,6.17",
+          "text": "//evaṃ devāsurāhavasaṃkṣobhakṣubdhadṛdayamaśeṣameva jagadbrahmaṇaṃ śaraṇaṃ jagām"
+        },
+        {
+          "ref": "ViP_4,11.21",
+          "text": "//jayadhvajāttālajaṅghaḥ putrobhavat //"
+        }
+      ],
+      "xml_file": "vishnu_puran_gretil.xml",
+      "aku_file": "vishnu_puran_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Viṣṇusmṛti",
+      "editors": [
+        "I. Shima",
+        "I. Shima",
+        "T. Hayashi",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "",
+      "xml_units": 3334,
+      "aku_units": 4748,
+      "exact_matches": 2366,
+      "substring_matches": 2,
+      "verified": 2368,
+      "coverage": 71.0,
+      "xml_unmatched_count": 966,
+      "aku_unmatched_count": 2380,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "brahmarātryāṃ vyatītāyāṃ prabuddhe padmasaṃbhave"
+        },
+        {
+          "ref": null,
+          "text": "viṣṇuḥ sisṛkṣur bhūtāni jñātvā bhūmiṃ jalānugām //"
+        },
+        {
+          "ref": null,
+          "text": "jalakrīḍāruci śubhaṃ kalpādhiṣu yathā purā"
+        },
+        {
+          "ref": null,
+          "text": "vārāham āsthito rūpam ujjahāra vasuṃdharām //"
+        },
+        {
+          "ref": null,
+          "text": "vedapādo yūpadaṃṣṭraḥ kratudantaś citīmukhaḥ"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "om | brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca iti varṇāś catvāraḥ ||"
+        },
+        {
+          "ref": null,
+          "text": "teṣām ādyā dvi-jātayas trayaḥ ||"
+        },
+        {
+          "ref": null,
+          "text": "teṣāṃ niṣeka-ādyaḥ śmaśāna-anto mantra-vat kriyā-samūhaḥ ||"
+        },
+        {
+          "ref": null,
+          "text": "teṣāṃ ca dharmāḥ ||"
+        },
+        {
+          "ref": null,
+          "text": "brāhmaṇasya adhyāpanam ||"
+        }
+      ],
+      "xml_file": "vishnu_smriti_gretil.xml",
+      "aku_file": "vishnu_smriti_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Yogaśataka",
+      "editors": [
+        "Klaus Wille",
+        "Klaus Wille",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Heinz Helmuth Michael Schmidt: Das Yogaśata : Ein Zeugnis altindischer Medizin, Sanskrit und Tibetisch, Bonn 1978 (Diss.).",
+      "xml_units": 260,
+      "aku_units": 3,
+      "exact_matches": 2,
+      "substring_matches": 1,
+      "verified": 3,
+      "coverage": 1.2,
+      "xml_unmatched_count": 257,
+      "aku_unmatched_count": 0,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "kṛtsnasya tantrasya gṛhītadhāmnaś cikitsitād viprasṛtasya dūram /"
+        },
+        {
+          "ref": null,
+          "text": "vidagdhavaidyapratipūjitasya kariṣyate yogaśatasya bandhaḥ // Yś_1 //"
+        },
+        {
+          "ref": null,
+          "text": "parīkṣya hetvāmayalakṣaṇāni cikitsitajñena cikitsikena /"
+        },
+        {
+          "ref": null,
+          "text": "nirāmadehasya hi bhaiṣajāni bhavanti yuktāny amṛtopamāni // Yś_2 //"
+        },
+        {
+          "ref": null,
+          "text": "chinnodbhavāmbudharadhanvayavāsaviśvair duḥsparśaparpaṭakameghakirātatiktaiḥ /"
+        }
+      ],
+      "aku_unmatched_samples": [],
+      "xml_file": "yoga_bija_gretil.xml",
+      "aku_file": "yoga_bija_gretil_prose.json"
+    },
+    {
+      "status": "needs_review",
+      "title": "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "editors": [
+        "Philipp A. Maas",
+        "Philipp A. Maas",
+        "Reinhold Grünendahl",
+        "Maximilian Mehner"
+      ],
+      "source": "Kāśinātha Śāstrī Āgāśe: Vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni Pātañjalayogasūtrāṇi, tathā bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni pātañjalayogasūtrāṇi. sūtrapāṭhasūtravarṇānukramasūcībhyāṃ ca sanāthīkṛtāni ... Pune : Ānandāśramamudraṇālaye 1904 (Ānandāśrama Sanskrit Series, 47).",
+      "xml_units": 408,
+      "aku_units": 268,
+      "exact_matches": 9,
+      "substring_matches": 248,
+      "verified": 257,
+      "coverage": 63.0,
+      "xml_unmatched_count": 151,
+      "aku_unmatched_count": 11,
+      "xml_unmatched_samples": [
+        {
+          "ref": null,
+          "text": "yas tyaktvā rūpam ādyaṃ prabhavati jagato 'nekadhānugrahāya prakṣīṇakleśarāśir v"
+        },
+        {
+          "ref": null,
+          "text": "sarvajñānaprasūtir bhujagaparikaraḥ prītaye yasya nityaṃ devo 'hīśaḥ sa vo 'vyāt"
+        },
+        {
+          "ref": null,
+          "text": "atha yogānuśāsanam || YS_1.1 ||"
+        },
+        {
+          "ref": null,
+          "text": "pramāṇaviparyayavikalpanidrāsmṛtayaḥ || YS_1.6 ||"
+        },
+        {
+          "ref": null,
+          "text": "1.6"
+        }
+      ],
+      "aku_unmatched_samples": [
+        {
+          "ref": "YS_1.30",
+          "text": "|| navāntarāyāś cittasya vikṣepāḥ. sahaite cittavṛttibhir bhavanti. eteṣām abhāv"
+        },
+        {
+          "ref": "YS_1.33",
+          "text": "|| tatra sarvaprāṇiṣu sukhasaṃbhogāpanneṣu maitrīṃ bhāvayet. duḥkhiteṣu karuṇām."
+        },
+        {
+          "ref": "YS_1.41",
+          "text": "|| kṣīṇavṛtter iti pratyastamitapratyayasyety arthaḥ. abhijātasyeva maṇer iti dṛ"
+        },
+        {
+          "ref": "YS_1.51",
+          "text": "|| sa na kevalaṃ samādhiprajñāvirodhī prajñākṛtānām api saṃskārāṇāṃ pratibandhī "
+        },
+        {
+          "ref": "YS_2.15",
+          "text": "|| sarvasyāyaṃ rāgānuviddhaś cetanācetanasādhanādhīnaḥ sukhānubhava iti tatrāsti"
+        }
+      ],
+      "xml_file": "yoga_sutra_bhasya_gretil.xml",
+      "aku_file": "yoga_sutra_bhasya_gretil_prose.json"
+    }
+  ]
+}
