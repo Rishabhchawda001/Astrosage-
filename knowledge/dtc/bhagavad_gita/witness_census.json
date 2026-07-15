@@ -1,0 +1,44 @@
+{
+  "scripture_id": "BG",
+  "canonical_name": "Bhagavadgita",
+  "classification": "Itihasa - Mahabharata",
+  "expected_structure": {
+    "adhyayas": 18,
+    "verses_total": 700,
+    "language": "Sanskrit"
+  },
+  "generated": "2026-07-15",
+  "critical_finding": "The 5 GRETIL witnesses are ALL commentaries citing the same base text. They are NOT independent textual witnesses. Only 1 independent samhita base on disk (GRETIL verse text). The 518 textual variants from prior collation are commentary-citation differences, NOT genuine textual variants.",
+  "witnesses_acquired": [
+    {
+      "id": "BG-W01",
+      "name": "GRETIL verse text (base)",
+      "type": "saṃhitā",
+      "format": "TEI XML Unicode",
+      "verses": 700,
+      "family": "GRETIL",
+      "authority": 0.85,
+      "independent": true,
+      "notes": "Extracted from 5 GRETIL commentaries; all contain the same verse text."
+    },
+    {
+      "id": "BG-W02",
+      "name": "Gita Press Tattva Vivecana (OCR)",
+      "type": "publisher_edition",
+      "format": "OCR Devanagari",
+      "verses": 700,
+      "family": "Gita Press",
+      "authority": 0.75,
+      "independent": true,
+      "notes": "Genuinely independent typesetting. OCR quality moderate."
+    }
+  ],
+  "missing_independent_bases": [
+    "BORI Critical Edition",
+    "Chowkhamba edition",
+    "Motilal Banarsidass edition",
+    "Native Unicode Devanagari saṃhitā"
+  ],
+  "quality_gate": "EVIDENCE INCOMPLETE - need >=1 more independent saṃhitā base",
+  "prior_collation_correction": "The 518 textual variants reported in collation_summary_v3.json are NOT genuine textual variants - they are commentary citation differences. The Gita verse text is stable across all5 GRETIL commentaries."
+}

@@ -1,0 +1,35 @@
+{
+  "generated": "2026-07-15",
+  "rigveda": {
+    "aufrecht": {
+      "name": "Aufrecht GRETIL TEI",
+      "bad_repl": 0,
+      "bad_pua": 0,
+      "size": 4676831
+    },
+    "lubotsky": {
+      "name": "Lubotsky VedaWeb TEI",
+      "bad_repl": 0,
+      "bad_pua": 0,
+      "size": 42007591
+    },
+    "padapatha": {
+      "name": "Padapatha GRETIL TEI",
+      "bad_repl": 0,
+      "bad_pua": 0,
+      "size": 1808530
+    },
+    "verdict": "All 3 witnesses: 0 replacement chars, 0 mojibake. Akshara integrity VERIFIED."
+  },
+  "bhagavad_gita": {
+    "verses": 700,
+    "bad_repl": 0,
+    "bad_pua": 0,
+    "verdict": "All 700 verses: 0 replacement chars, 0 mojibake. Text identical across all 5 sources. Akshara integrity VERIFIED."
+  },
+  "gretil_parsed": {
+    "ok": 239,
+    "bad": 0,
+    "verdict": "239 files clean, 0 files with replacement chars"
+  }
+}
