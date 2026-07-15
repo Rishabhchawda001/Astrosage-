@@ -1067,6 +1067,20 @@
         "type": "Text File",
         "size": 3094777,
         "authority": "High"
+      },
+      {
+        "file": "manusmriti_6_commentaries_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 11816781,
+        "authority": "Low"
+      },
+      {
+        "file": "manusmriti_kulluka_ia_ia_djvu.txt",
+        "source": "Independent Commentary",
+        "type": "Text File",
+        "size": 2752296,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
@@ -1561,7 +1575,29 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "brahmanda_puran_ia_ia.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 3794235,
+        "authority": "Low"
+      },
+      {
+        "file": "brahmanda_puran_khemraj_ia_ia_djvu.txt",
+        "source": "Khemraj",
+        "type": "Text File",
+        "size": 3444487,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahmanda_puran_shastri_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 4281224,
+        "authority": "Low"
+      }
+    ],
     "metadata": {}
   },
   "brahmabindi upanishad": {
@@ -2127,7 +2163,22 @@
         "authority": "High"
       }
     ],
-    "text_files": [],
+    "text_files": [
+      {
+        "file": "yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+        "source": "Bombay Edition",
+        "type": "Text File",
+        "size": 2847523,
+        "authority": "High"
+      },
+      {
+        "file": "yajnavalkya_smriti_mitakshara_ia_ia_djvu.txt",
+        "source": "Mitakshara Tradition",
+        "type": "Text File",
+        "size": 3136013,
+        "authority": "High"
+      }
+    ],
     "metadata": {}
   },
   "yama smriti": {
@@ -2494,6 +2545,20 @@
         "type": "Text File",
         "size": 7661722,
         "authority": "Medium"
+      },
+      {
+        "file": "shiva_puran_malayalam_ia_ia_djvu.txt",
+        "source": "Malayalam Edition",
+        "type": "Text File",
+        "size": 30057,
+        "authority": "Medium"
+      },
+      {
+        "file": "shiva_purana_prathamakhanda_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 7856465,
+        "authority": "Low"
       }
     ],
     "metadata": {}
@@ -2535,6 +2600,27 @@
         "type": "Text File",
         "size": 8527716,
         "authority": "High"
+      },
+      {
+        "file": "skanda_puran_5to7_ramtek_ia_ia_djvu.txt",
+        "source": "Kalidas Sanskrit University",
+        "type": "Text File",
+        "size": 12179288,
+        "authority": "Medium"
+      },
+      {
+        "file": "skanda_puran_gp_ia_ia_djvu.txt",
+        "source": "Internet Archive",
+        "type": "Text File",
+        "size": 10502414,
+        "authority": "Low"
+      },
+      {
+        "file": "skanda_puran_kedar_khemraj_ia_ia_djvu.txt",
+        "source": "Khemraj",
+        "type": "Text File",
+        "size": 2298089,
+        "authority": "Medium"
       }
     ],
     "metadata": {}
