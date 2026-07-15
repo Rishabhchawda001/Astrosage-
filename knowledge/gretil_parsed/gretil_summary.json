@@ -1,5 +1,17 @@
 [
   {
+    "file": "abhinavagupta_bhairava_stava_gretil_structure.json",
+    "title": "Bhairavastava",
+    "chapters": 1,
+    "verses": 10
+  },
+  {
+    "file": "abhinavagupta_krama_stotra_gretil_structure.json",
+    "title": "Kramastotra",
+    "chapters": 1,
+    "verses": 30
+  },
+  {
     "file": "agni_puran_gretil_structure.json",
     "title": "Agnipurāṇa",
     "chapters": 389,
@@ -10,6 +22,12 @@
     "title": "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
     "chapters": 26,
     "verses": 26
+  },
+  {
+    "file": "angiras_smriti_gretil_structure.json",
+    "title": "Āṅgirasasmṛti",
+    "chapters": 13,
+    "verses": 1277
   },
   {
     "file": "apastamba_dharmasutra_gretil_structure.json",
@@ -42,6 +60,12 @@
     "verses": 298
   },
   {
+    "file": "atharva_prayashchittani_gretil_structure.json",
+    "title": "Atharvaprāyaścittāni",
+    "chapters": 130,
+    "verses": 0
+  },
+  {
     "file": "atharvashiras_upanishad_gretil_structure.json",
     "title": "Śira-upaniṣad (= Atharvaśira-upanisad)",
     "chapters": 1,
@@ -64,6 +88,12 @@
     "title": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
     "chapters": 664,
     "verses": 1185
+  },
+  {
+    "file": "bhagavad_gita_shankara_gretil_structure.json",
+    "title": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "chapters": 52,
+    "verses": 693
   },
   {
     "file": "bhagavata_gretil_structure.json",
@@ -96,10 +126,22 @@
     "verses": 72
   },
   {
+    "file": "brihaspati_smriti_gretil_structure.json",
+    "title": "Bṛhaspatismṛti (vyavahārakaṇḍa)",
+    "chapters": 1,
+    "verses": 1272
+  },
+  {
     "file": "devi_gita_gretil_structure.json",
     "title": "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
     "chapters": 10,
     "verses": 509
+  },
+  {
+    "file": "devi_kalottara_agama_gretil_structure.json",
+    "title": "Devīkālottarāgama",
+    "chapters": 1,
+    "verses": 84
   },
   {
     "file": "ganapati_stotra_gretil_structure.json",
@@ -138,6 +180,12 @@
     "verses": 2
   },
   {
+    "file": "ha_tha_yoga_pradipika_gretil2_structure.json",
+    "title": "Haṭhayogapradīpikā",
+    "chapters": 1,
+    "verses": 388
+  },
+  {
     "file": "harivamsa_app1_gretil_structure.json",
     "title": "Harivaṃśa, Appendix I",
     "chapters": 1,
@@ -166,6 +214,12 @@
     "title": "Śyāmalādaṇḍaka",
     "chapters": 1,
     "verses": 4
+  },
+  {
+    "file": "katyayana_smriti_gretil_structure.json",
+    "title": "Kātyāyanasmṛti",
+    "chapters": 1,
+    "verses": 976
   },
   {
     "file": "kirana tantra_gretil_structure.json",
@@ -246,6 +300,12 @@
     "verses": 8553
   },
   {
+    "file": "mrigendra_agama_gretil_structure.json",
+    "title": "Mṛgendrāgama (= Mrgendratantra)",
+    "chapters": 3,
+    "verses": 685
+  },
+  {
     "file": "nadabindi_upanishad_gretil_structure.json",
     "title": "Nādabindūpaniṣad",
     "chapters": 1,
@@ -262,6 +322,12 @@
     "title": "Nāradapurāṇa (or Nāradīyapurāṇa)",
     "chapters": 165,
     "verses": 15554
+  },
+  {
+    "file": "narada_smriti_gretil_structure.json",
+    "title": "Nāradasmṛti",
+    "chapters": 22,
+    "verses": 929
   },
   {
     "file": "narasimha_puran_gretil_structure.json",
@@ -298,6 +364,12 @@
     "title": "Rāmāyaṇa",
     "chapters": 7,
     "verses": 18761
+  },
+  {
+    "file": "revakhanda_vayu_puran_gretil_structure.json",
+    "title": "Revākhāṇḍa of the Vāyupurāṇa (RKV)",
+    "chapters": 1,
+    "verses": 7754
   },
   {
     "file": "rigveda_aufrecht_gretil_structure.json",
@@ -370,6 +442,30 @@
     "title": "Brāhmasphuṭasiddhānta",
     "chapters": 1,
     "verses": 214
+  },
+  {
+    "file": "sa_pataJjali-yogasUtra-alt_structure.json",
+    "title": "Yogasūtra",
+    "chapters": 2,
+    "verses": 181
+  },
+  {
+    "file": "sa_pataJjali-yogasUtra-with-bhASya-alt_structure.json",
+    "title": "Yogasūtra with Bhāṣya",
+    "chapters": 9,
+    "verses": 0
+  },
+  {
+    "file": "sa_pataJjali-yogasUtra-with-bhASya_structure.json",
+    "title": "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+    "chapters": 1,
+    "verses": 135
+  },
+  {
+    "file": "sa_pataJjali-yogasUtra_structure.json",
+    "title": "Yogasūtra",
+    "chapters": 1,
+    "verses": 195
   },
   {
     "file": "samaveda_gretil_structure.json",
@@ -454,6 +550,12 @@
     "title": "Svayaṃbhupurāṇa",
     "chapters": 4,
     "verses": 1753
+  },
+  {
+    "file": "taittiriya_upanishad_bhashya_gretil_structure.json",
+    "title": "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+    "chapters": 1,
+    "verses": 0
   },
   {
     "file": "todala tantra_gretil_structure.json",

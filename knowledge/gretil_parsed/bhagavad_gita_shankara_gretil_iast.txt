@@ -1,0 +1,2468 @@
+
+=== Chapter 16 ===
+
+BhG 1
+atha arjuna-viṣāda-yogo nāma
+prathamo 'dhyāyaḥ |
+==============================
+oṃ
+nārāyaṇaḥ paro 'vyaktād aṇḍam avyakta-sambhavam |
+aṇḍasyāntas tv ime lokāḥ sapta-dvīpā ca medinī ||
+
+dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ |
+māmakāḥ pāṇḍavāś caiva kim akurvata saṃjaya ||BhG_1.1||
+
+saṃjaya uvāca
+dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā |
+ācāryam upasaṃgamya rājā vacanam abravīt ||BhG_1.2||
+
+paśyaitāṃ pāṇḍu-putrāṇām ācārya mahatīṃ camūm |
+vyūḍhāṃ drupada-putreṇa tava śiṣyeṇa dhīmatā ||BhG_1.3||
+
+atra śūrā maheṣvāsā bhīmārjuna-samā yudhi |
+yuyudhāno virāṭaś ca drupadaś ca mahārathaḥ ||BhG_1.4||
+
+dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān |
+purujit kuntibhojaś ca śaibyaś ca nara-puṃgavaḥ ||BhG_1.5||
+
+yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān |
+saubhadro draupadeyāś ca sarva eva mahā-rathāḥ ||BhG_1.6||
+
+asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama |
+nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te ||BhG_1.7||
+
+bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiṃjayaḥ |
+aśvatthāmā vikarṇaś ca saumadattir jayadrathaḥ ||BhG_1.8||
+
+anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ |
+nānā-śastra-praharaṇāḥ sarve yuddha-viśāradāḥ ||BhG_1.9||
+
+aparyāptaṃ tad asmākaṃ balaṃ bhīṣmābhirakṣitam |
+paryāptaṃ tv idam eteṣāṃ balaṃ bhīmābhirakṣitam ||BhG_1.10||
+
+ayaneṣu ca sarveṣu yathā-bhāgam avasthitāḥ |
+bhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi ||BhG_1.11||
+
+tasya saṃjanayan harṣaṃ kuru-vṛddhaḥ pitāmahaḥ |
+siṃha-nādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān ||BhG_1.12||
+
+tataḥ śaṅkhāś ca bheryaś ca paṇavānaka-gomukhāḥ |
+sahasaivābhyahanyanta sa śabdas tumulo 'bhavat ||BhG_1.13||
+
+tataḥ śvetair hayair yukte mahati syandane sthitau |
+mādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ ||BhG_1.14||
+
+pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanaṃjayaḥ |
+pauṇḍraṃ dadhmau mahā-śaṅkhaṃ bhīma-karmā vṛkodaraḥ ||BhG_1.15||
+
+ananta-vijayaṃ rājā kuntī-putro yudhiṣṭhiraḥ |
+nakulaḥ sahadevaś ca sughoṣa-maṇipuṣpakau ||BhG_1.16||
+
+kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahā-rathaḥ |
+dhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ ||BhG_1.17||
+
+drupado draupadeyāś ca sarvaśaḥ pṛthivī-pate |
+saubhadraś ca mahābāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak ||BhG_1.18||
+
+sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat |
+nabhaś ca pṛthivīṃ caiva tumulo vyanunādayan ||BhG_1.19||
+
+atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapi-dhvajaḥ |
+pravṛtte śastra-saṃpāte dhanur udyamya pāṇḍavaḥ ||BhG_1.20||
+
+hṛṣīkeśaṃ tadā vākyam idam āha mahī-pate |
+senayor ubhayor madhye rathaṃ sthāpaya me 'cyuta ||BhG_1.21||
+
+yāvad etān nirīkṣe 'haṃ yoddhu-kāmān avasthitān |
+kair mayā saha yoddhavyam asmin raṇa-samudyame ||BhG_1.22||
+
+yotsyamānān avekṣe 'haṃ ya ete 'tra samāgatāḥ |
+dhārtarāṣṭrasya durbuddher yuddhe priya-cikīrṣavaḥ ||BhG_1.23||
+
+evam ukto hṛṣīkeśo guḍākeśena bhārata |
+senayor ubhayor madhye sthāpayitvā rathottamam ||BhG_1.24||
+
+bhīṣma-droṇa-pramukhataḥ sarveṣāṃ ca mahīkṣitām |
+uvāca pārtha paśyaitān samavetān kurūn iti ||BhG_1.25||
+
+tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān |
+ācāryān mātulān bhrātṝn putrān pautrān sakhīṃs tathā ||BhG_1.26||
+
+śvaśurān suhṛdaś caiva senayor ubhayor api |
+tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān ||BhG_1.27||
+
+kṛpayā parayāviṣṭo viṣīdann idam abravīt |
+dṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam ||BhG_1.28||
+
+sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati |
+vepathuś ca śarīre me romaharṣaś ca jāyate ||BhG_1.29||
+
+gāṇḍīvaṃ sraṃsate hastāt tvak caiva paridahyate |
+na ca śaknomy avasthātuṃ bhramatīva ca me manaḥ ||BhG_1.30||
+
+nimittāni ca paśyāmi viparītāni keśava |
+na ca śreyo 'nupaśyāmi hatvā svajanam āhave ||BhG_1.31||
+
+na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca |
+kiṃ no rājyena govinda kiṃ bhogair jīvitena vā ||BhG_1.32||
+
+yeṣām arthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca |
+ta ime 'vasthitā yuddhe prāṇāṃs tyaktvā dhanāni ca ||BhG_1.33||
+
+ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ |
+mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ saṃbandhinas tathā ||BhG_1.34||
+
+etān na hantum icchāmi ghnato 'pi madhusūdana |
+api trailokya-rājyasya hetoḥ kiṃ nu mahī-kṛte ||BhG_1.35||
+
+nihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana |
+pāpam evāśrayed asmān hatvaitān ātatāyinaḥ ||BhG_1.36||
+
+tasmān nārhā vayaṃ hantuṃ dhārtarāṣṭrān sva-bāndhavān |
+svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||BhG_1.37||
+
+yady apy ete na paśyanti lobhopahata-cetasaḥ |
+kula-kṣaya-kṛtaṃ doṣaṃ mitra-drohe ca pātakam ||BhG_1.38||
+
+kathaṃ na jñeyam asmābhiḥ pāpād asmān nivartitum |
+kula-kṣaya-kṛtaṃ doṣaṃ prapaśyadbhir janārdana ||BhG_1.39||
+
+kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ |
+dharme naṣṭe kulaṃ kṛtsnam adharmo 'bhibhavaty uta ||BhG_1.40||
+
+adharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ |
+strīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṃkaraḥ ||BhG_1.41||
+
+saṃkaro narakāyaiva kula-ghnānāṃ kulasya ca |
+patanti pitaro hy eṣāṃ lupta-piṇḍodaka-kriyāḥ ||BhG_1.42||
+
+doṣair etaiḥ kula-ghnānāṃ varṇa-saṃkara-kārakaiḥ |
+utsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ ||BhG_1.43||
+
+utsanna-kula-dharmāṇāṃ manuṣyāṇāṃ janārdana |
+narake niyataṃ vāso bhavatīty anuśuśruma ||BhG_1.44||
+
+aho bata mahat pāpaṃ kartuṃ vyavasitā vayam |
+yad rājya-sukha-lobhena hantuṃ svajanam udyatāḥ ||BhG_1.45||
+
+yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ |
+dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet ||BhG_1.46||
+
+evam uktvārjunaḥ saṃkhye rathopastha upāviśat |
+visṛjya saśaraṃ cāpaṃ śoka-saṃvigna-mānasaḥ ||BhG_1.47||
+
+
+=== Chapter 4 ===
+
+BhG 2
+dvitīyo 'dhyāyaḥ
+atra ca dṛṣṭvā tu pāṇḍavānīkam ity ārabhya yāvat na yotsya iti govindam uktvā tūṣṇīṃ babhūva ha ity etad-antaḥ prāṇināṃ śoka-mohādi-saṃsāra-bīja-bhūta-doṣodbhava-kāraṇa-pradarśanārthatvena vyākhyeyo granthaḥ | tathā hi -- arjunena rājya-guru-putra-mitra-suhṛt-svajana-saṃbandhi-bāndhaveṣu aham eteṣām mamaite ity evaṃ bhrānti-pratyaya-nimitta-sneha-vicchedādi-nimittau ātmanaḥ śoka-mohau pradarśitau | kathaṃ bhīṣmam ahaṃ saṃkhye ity ādinā | śoka-mohābhyāṃ hy abhibhūta-viveka-vijñānaḥ svata eva kṣatra-dharme yuddhe pravṛtto 'pi tasmād yuddhād upararāma | para-dharmaṃ ca bhikṣā-jīvanādikaṃ kartuṃ pravavṛte | tathā ca sarva-prāṇināṃ śoka-mohādi-doṣāviṣṭa-cetasāṃ svabhāvata eva svadharma-parityāgaḥ pratiṣiddha-sevā ca syāt | sva-dharme pravṛttānām
+api teṣāṃ vāṅ-manaḥ-kāyādīnāṃ pravṛttiḥ phalābhisaṃdhi-pūrvikaiva sāhaṃkārā ca bhavati | tatraivaṃ sati dharmādharmopacayād iṣṭāniṣṭa-janma-sukha-duḥkhādi-prāpti-lakṣaṇaḥ saṃsāro 'nuparato bhavati | ity ataḥ saṃsāra-bīja-bhūtau śoka-mohau | tayoś ca sarva-karma-saṃnyāsa-pūrvakād ātma-jñānāt nānyato nivṛttir iti tad-upadidikṣuḥ sarva-lokānugrahārtham arjunaṃ nimittīkṛtya āha bhagavān vāsudevaḥ--- aśocyān ityādi |
+saṃjaya uvāca
+taṃ tathā kṛpayāviṣṭam aśrupūrṇākulekṣaṇam |
+viṣīdantam idaṃ vākyam uvāca madhusūdanaḥ ||BhG_2.1||
+
+kutas tvā kaśmalam idaṃ viṣame samupasthitam |
+anārya-juṣṭam asvargyam akīrti-karam arjuna ||BhG_2.2||
+
+klaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate |
+kṣudraṃ hṛdaya-daurbalyaṃ tyaktvottiṣṭha paraṃtapa ||BhG_2.3||
+
+kathaṃ bhīṣmam ahaṃ saṃkhye droṇaṃ ca madhusūdana |
+iṣubhiḥ pratiyotsyāmi pūjārhāv arisūdana ||BhG_2.4||
+
+gurūn ahatvā hi mahānubhāvāñ
+śreyo bhoktuṃ bhaikṣyam apīha loke |
+hatvārtha-kāmāṃs tu gurūn ihaiva
+bhuñjīya bhogān rudhira-pradigdhān ||BhG_2.5||
+
+na caitad vidmaḥ kataran no garīyo
+yad vā jayema yadi vā no jayeyuḥ |
+yān eva hatvā na jijīviṣāmas
+te 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ ||BhG_2.6||
+
+kārpaṇya-doṣopahata-svabhāvaḥ
+pṛcchāmi tvāṃ dharma-saṃmūḍha-cetāḥ |
+yac chreyaḥ syān niścitaṃ brūhi tan me
+śiṣyas te 'haṃ śādhi māṃ tvāṃ prapannam ||BhG_2.7||
+
+na hi prapaśyāmi mamāpanudyād
+yac chokam ucchoṣaṇam indriyāṇām |
+avāpya bhūmāv asapatnam ṛddhaṃ
+rājyaṃ surāṇām api cādhipatyam ||BhG_2.8||
+
+saṃjaya uvāca
+evam uktvā hṛṣīkeśaṃ guḍākeśaḥ parantapaḥ |
+na yotsya iti govindam uktvā tūṣṇīṃ babhūva ha ||BhG_2.9||
+
+tam uvāca hṛṣīkeśaḥ prahasann iva bhārata |
+senayor ubhayor madhye viṣīdantam idaṃ vacaḥ ||BhG_2.10||
+
+śrī-bhagavān uvāca
+aśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase |
+gatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ ||BhG_2.11||
+
+
+=== Chapter 5 ===
+
+na śocyā aśocyāḥ bhīṣma-droṇādayaḥ | sad-vṛttatvāt paramārtha-svarūpeṇa ca nityatvāt, tān aśocyān anvaśoco 'nuśocitavān asi te mriyante man-nimittam, ahaṃ tair vinābhūtaḥ kiṃ kariṣyāmi rājya-sukhādinā iti | tvaṃ prajñā-vādān prajñāvatāṃ buddhimatāṃ vādāṃś ca vacanāni ca bhāṣase | tad etat mauḍhyaṃ pāṇḍityaṃ ca viruddham ātmani darśayasi unmatta iva ity abhiprāyaḥ | yasmāt gatāsūn gata-prāṇān mṛtān, agatāsūn agata-prāṇān jīvataś ca
+nānuśocanti paṇḍitāḥ ātmajñāḥ | paṇḍā ātma-viṣayā buddhir yeṣāṃ te hi paṇḍitāḥ, pāṇḍityaṃ nirvidya [BAU 3.5.1] iti śruteḥ | paramārthatas tu tān nityān aśocyān anuśocasi, ato mūḍho 'si ity abhiprāyaḥ ||BhGS_2.11||
+==============================
+kutas te aśocyāḥ ? yato nityāḥ | katham ?
+na tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ |
+na caiva na bhaviṣyāmaḥ sarve vayam ataḥ param ||BhG_2.12||
+
+dehino 'smin yathā dehe kaumāraṃ yauvanaṃ jarā |
+tathā dehāntara-prāptir dhīras tatra na muhyati ||BhG_2.13||
+
+mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkhadāḥ |
+āgamāpāyino 'nityās tāṃs titikṣasva bhārata ||BhG_2.14||
+
+yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha |
+sama-duḥkha-sukhaṃ dhīraṃ so 'mṛtatvāya kalpate ||BhG_2.15||
+
+yaṃ hi puruṣaṃ same duḥkha-sukhe yasya taṃ sama-duḥkha-sukhaṃ sukha-duḥkha-prāptau harṣa-viṣāda-rahitaṃ dhīraṃ dhīmantaṃ na vyathayanti na cālayanti nityātma-darśanāt ete yathoktāḥ śītoṣṇādayaḥ, sa nityātma-svarūpa-darśa-niṣṭho dvandva-sahiṣṇuḥ amṛtatvāya amṛta-bhāvāya mokṣāyety arthaḥ kalpate samartho bhavati ||BhGS_2.15||
+
+nāsato vidyate bhāvo nābhāvo vidyate sataḥ |
+ubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ ||BhG_2.16||
+
+avināśi tu tad viddhi yena sarvam idaṃ tatam |
+vināśam avyayasyāsya na kaścit kartum arhati ||BhG_2.17||
+
+antavanta ime dehā nityasyoktāḥ śarīriṇaḥ |
+anāśino 'prameyasya tasmād yudhyasva bhārata ||BhG_2.18||
+
+
+=== Chapter 4 ===
+
+nanu āgamena ātmā paricchidyate, pratyakṣādinā ca pūrvam | na | ātmanaḥ svataḥsiddhatvāt | sirā hi ātmani pramātari pramitsoḥ pramāṇānveṣaṇā bhavati | na hi pūrvam itthamaham iti ātmānamapramāya pa cāt prameyaparicchādāya pravartate | na hi ātmā nāma kasyacit aprasiddho bhavati | śāstraṃ tu antyaṃ pramāṇam atad-dharmādhyāropaṇa-mātra-nivartakatvena pramāṇatvam ātmanaḥ pratipadyate, na hy ajñātārthajñāpakatvena | tathā ca śrutiḥ --- yat sākṣād aparokṣād brahma ya ātmā sarvāntaraḥ [BAU 3.4.1] iti | yasmād evaṃ nityo 'vikriyaś cātmā tasmād yudhyasva, yuddhād uparamaṃ mā kārṣīḥ ity arthaḥ |
+na hy atra yuddha-kartavyatā vidhīyate, yuddhe pravṛtta eva hi asau śoka-moha-pratibaddhaḥ tūṣṇīm āste | ataḥ tasya pratibandhāpanayana-mātraṃ bhagavatā kriyate | tasmād yudhyasva iti anuvāda-mātram, na vidhiḥ ||BhGS_2.18||
+==============================
+ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam |
+ubhau tau na vijānīto nāyaṃ hanti na hanyate ||BhG_2.19||
+
+na jāyate mriyate vā kadācin
+nāyaṃ bhūtvā bhavitā vā na bhūyaḥ |
+ajo nityaḥ śāśvato 'yaṃ purāṇo
+na hanyate hanyamāne śarīre ||BhG_2.20||
+
+vedāvināśinaṃ nityaṃ ya enam ajam avyayam |
+kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam ||BhG_2.21||
+
+vāsāṃsi jīrṇāni yathā vihāya
+navāni gṛhṇāti naro 'parāṇi |
+tathā śarīrāṇi vihāya jīrṇāni
+anyāni saṃyāti navāni dehī ||BhG_2.22||
+
+vāsāṃsi vastrāṇi jīrṇāni durbalatāṃ gatāni yathā loke vihāya parityajya navāni abhinavāni gṛhṇāti upādatte naraḥ puruṣo 'parāṇi anyāni, tathā tadvad eva śarīrāṇi vihāya jīrṇāni anyāni saṃyāti saṃgacchati navāni dehī ātmā puruṣavat avikriya evety arthaḥ ||BhGS_2.22||
+
+nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ |
+na cainaṃ kledayanty āpo na śoṣayati mārutaḥ ||BhG_2.23||
+
+acchedyo 'yam adāhyo 'yam akledyo 'śoṣya eva ca |
+nityaḥ sarva-gataḥ sthāṇur acalo 'yaṃ sanātanaḥ ||BhG_2.24||
+
+avyakto 'yam acintyo 'yam avikāryo 'yam ucyate |
+tasmād evaṃ viditvainaṃ nānuśocitum arhasi ||BhG_2.25||
+
+atha cainaṃ nityajātaṃ nityaṃ vā manyase mṛtam |
+tathāpi tvaṃ mahābāho naivaṃ śocitum arhasi ||BhG_2.26||
+
+jātasya hi dhruvo mṛtyur dhruvaṃ janma mṛtasya ca |
+tasmād aparihārye 'rthe na tvaṃ śocitum arhasi ||BhG_2.27||
+
+avyaktādīni bhūtāni vyakta-madhyāni bhārata |
+avyakta-nidhanāny eva tatra kā paridevanā ||BhG_2.28||
+
+tatra kā paridevanā ko vā pralāpo 'dṛṣṭa-dṛṣṭa-pranaṣṭa-bhrānti-bhūteṣu bhūteṣv ity arthaḥ ||BhGS_2.28||
+
+āścaryavat paśyati kaścid enam
+āścaryavad vadati tathaiva cānyaḥ |
+āścaryavac cainam anyaḥ śṛṇoti
+śrutvāpy enaṃ veda na caiva kaścit ||BhG_2.29||
+
+dehī nityam avadhyo 'yaṃ dehe sarvasya bhārata |
+tasmāt sarvāṇi bhūtāni na tvaṃ śocitum arhasi ||BhG_2.30||
+
+sva-dharmam api cāvekṣya na vikampitum arhasi |
+dharmyād dhi yuddhāc chreyo 'nyat kṣatriyasya na vidyate ||BhG_2.31||
+
+yadṛcchayā copapannaṃ svarga-dvāram apāvṛtam |
+sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam ||BhG_2.32||
+
+yadṛcchayā ca aprārthitatayā upapannam āgataṃ svarga-dvāram apāvṛtam udghāṭitaṃ ya etad īdṛśaṃ yuddhaṃ labhante kṣatriyāḥ he pārtha, kiṃ na sukhinas te ? ||BhGS_2.32||
+
+atha cet tvam imaṃ dharmyaṃ saṃgrāmaṃ na kariṣyasi |
+tataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi ||BhG_2.33||
+
+atha cet tvam imaṃ dharmyaṃ dharmād anapetaṃ vihitaṃ saṃgrāmaṃ yuddhaṃ na kariṣyasi cet, tataḥ tad-akaraṇāt svadharmaṃ kīrtiṃ ca mahā-devādi-samāgama-nimittāṃ hitvā kevalaṃ pāpam avāpsyasi ||BhGS_2.33||
+
+akīrtiṃ cāpi bhūtāni kathayiṣyanti te 'vyayām |
+saṃbhāvitasya cākīrtir maraṇād atiricyate ||BhG_2.34||
+
+bhayād raṇād uparataṃ maṃsyante tvāṃ mahārathāḥ |
+yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam ||BhG_2.35||
+
+avācya-vādāṃś ca bahūn vadiṣyanti tavāhitāḥ |
+nindantas tava sāmarthyaṃ tato duḥkhataraṃ nu kim ||BhG_2.36||
+
+hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm |
+tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ ||BhG_2.37||
+
+sukha-duḥkhe same kṛtvā lābhālābhau jayājayau |
+tato yuddhāya yujyasva naivaṃ pāpam avāpsyasi ||BhG_2.38||
+
+eṣā te 'bhihitā sāṃkhye buddhir yoge tv imāṃ śṛṇu |
+buddhyā yukto yayā pārtha karmabandhaṃ prahāsyasi ||BhG_2.39||
+
+nehābhikrama-nāśo 'sti pratyavāyo na vidyate |
+svalpam apy asya dharmasya trāyate mahato bhayāt ||BhG_2.40||
+
+vyavasāyātmikā buddhir ekeha kuru-nandana |
+bahu-śākhā hy anantāś ca buddhayo 'vyavasāyinām ||BhG_2.41||
+
+yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ |
+veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ ||BhG_2.42||
+
+kāmātmānaḥ svarga-parā janma-karma-phala-pradām |
+kriyā-viśeṣa-bahulāṃ bhogaiśvarya-gatiṃ prati ||BhG_2.43||
+
+bhogaiśvarya-prasaktānāṃ tayāpahṛta-cetasām |
+vyavasāyātmikā buddhiḥ samādhau na vidhīyate ||BhG_2.44||
+
+traiguṇya-viṣayā vedā nistraiguṇyo bhavārjuna |
+nirdvandvo nitya-sattva-stho niryoga-kṣema ātmavān ||BhG_2.45||
+
+yāvān artha udapāne sarvataḥ saṃplutodake |
+tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ ||BhG_2.46||
+
+
+=== Chapter 1 ===
+
+yathā loke kūpa-taḍāgādy-anekasmin udapāne paricchinnodake yāvān yāvat-parimāṇaḥ snāna-pānādir arthaḥ phalaṃ prayojanaṃ sa sarvo 'rthaḥ sarvataḥ saṃplutodake 'pi yo 'rthaḥ tāvān eva saṃpadyate, tatra antarbhavatīty arthaḥ | evaṃ tāvān tāvat-parimāṇa eva saṃpadyate sarveṣu vedeṣu vedokteṣu karmasu yo 'rthaḥ yat karma-phalaṃ so 'rthaḥ brāhmaṇasya saṃnyāsinaḥ paramārtha-tattvaṃ vijānataḥ yo 'rthaḥ yat vijñāna-phalaṃ sarvataḥ saṃplutodaka-sthānīyaṃ tasmin tāvān eva saṃpadyate tatraivāntarbhavatīty arthaḥ | yathā kṛtāya vijitāyādhareyāḥ saṃyanty evam enaṃ sarvaṃ tad abhisameti yat kiṃcit prajāḥ sādhu kurvanti yas tad veda yat sa veda [ChāU 4.1.2] iti śruteḥ | sarvaṃ karmākhilam iti ca vakṣyati | tasmāt prāk jñāna-niṣṭhādhikāra-prāpteḥ karmaṇy adhikṛtena
+==============================
+tava ca -
+karmaṇy evādhikāras te mā phaleṣu kadācana |
+mā karma-phala-hetur bhūr mā te saṅgo 'stv akarmaṇi ||BhG_2.47||
+
+yogasthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanaṃjaya |
+siddhy-asiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||BhG_2.48||
+
+dūreṇa hy avaraṃ karma buddhi-yogād dhanaṃjaya |
+buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ ||BhG_2.49||
+
+
+=== Chapter 8 ===
+
+dūreṇa ativiprakarṣeṇa atyantam eva hy avaram adhamaṃ nikṛṣṭaṃ karma phalārthinā kriyamāṇaṃ buddhi-yogāt samatva-buddhi-yuktāt karmaṇaḥ, janma-maraṇādi-hetutvāt | he dhanaṃjaya, yata evaṃ tataḥ yoga-viṣayāyāṃ buddhau tat-paripāka-jāyāṃ vā sāṃkhya-buddhau śaraṇam āśrayam abhaya-prāpti-kāraṇam anviccha prārthayasva, paramārtha-jñāna-śaraṇo bhavety arthaḥ | yato 'varaṃ karma kurvāṇāḥ kṛpaṇāḥ dīnāḥ phala-hetavaḥ phala-tṛṣṇā-prayuktāḥ santaḥ, yo vā etad akṣaraṃ gārgy aviditvāsmāl lokāt praiti sa kṛpaṇaḥ [BAU 3.8.10] iti śruteḥ ||BhGS_2.49||
+==============================
+samatva-buddhi-yuktaḥ san svadharmam anutiṣṭhan yat phalaṃ prāpnoti tac chṛṇu --
+buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte |
+tasmād yogāya yujyasva yogaḥ karmasu kauśalam ||BhG_2.50||
+
+yasmāt -
+karmajaṃ buddhi-yuktā hi phalaṃ tyaktvā manīṣiṇaḥ |
+janma-bandha-vinirmuktāḥ padaṃ gacchanty anāmayam ||BhG_2.51||
+
+yadā te moha-kalilaṃ buddhir vyatitariṣyati |
+tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||BhG_2.52||
+
+śruti-vipratipannā te yadā sthāsyati niścalā |
+samādhāv acalā buddhis tadā yogam avāpsyasyi ||BhG_2.53||
+
+arjuna uvāca
+sthita-prajñasya kā bhāṣā samādhi-sthasya keśava |
+sthita-dhīḥ kiṃ prabhāṣeta kim āsīta vrajeta kim ||BhG_2.54||
+
+duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ |
+vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate ||BhG_2.56||
+
+yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham |
+nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||BhG_2.57||
+
+yadā saṃharate cāyaṃ kūrmo 'ṅgānīva sarvaśaḥ |
+indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||BhG_2.58||
+
+viṣayā vinivartante nirāhārasya dehinaḥ |
+rasa-varjaṃ raso 'py asya paraṃ dṛṣṭvā nivartate ||BhG_2.59||
+
+yatato hy api kaunteya puruṣasya vipaścitaḥ |
+indriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||BhG_2.60||
+
+tāni sarvāṇi saṃyamya yukta āsīta mat-paraḥ |
+vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||BhG_2.61||
+
+dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate |
+saṅgāt saṃjāyate kāmaḥ kāmāt krodho 'bhijāyate ||BhG_2.62||
+
+krodhād bhavati saṃmohaḥ saṃmohāt smṛti-vibhramaḥ |
+smṛti-bhraṃśād buddhi-nāśo buddhi-nāśāt praṇaśyati ||BhG_2.63||
+
+rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran |
+ātma-vaśyair vidheyātmā prasādam adhigacchati ||BhG_2.64||
+
+prasāde sarva-duḥkhānāṃ hānir asyopajāyate |
+prasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate ||BhG_2.65||
+
+nāsti buddhirayuktasya na cāyuktasya bhāvanā |
+na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham ||BhG_2.66||
+
+indriyāṇāṃ hi caratāṃ yan mano 'nuvidhīyate |
+tad asya harati prajñāṃ vāyur nāvam ivāmbhasi ||BhG_2.67||
+
+tasmād yasya mahābāho nigṛhītāni sarvaśaḥ |
+indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||BhG_2.68||
+
+indriyāṇāṃ pravṛttau doṣa upapādito yasmāt tasmāt yasya yateḥ he mahābāho, nigṛhītāni sarvaśaḥ sarva-prakāraiḥ mānasādi-bhedaiḥ indriyāṇi indriyārthebhyaḥ śabdādibhyas tasya prajñā pratiṣṭhitā ||BhGS_2.68||
+
+yā niśā sarva-bhūtānāṃ tasyāṃ jāgarti saṃyamī |
+yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ||BhG_2.69||
+
+āpūryamāṇam acala-pratiṣṭhaṃ
+samudram āpaḥ praviśanti yadvat |
+tadvat kāmā yaṃ praviśanti sarve
+sa śāntim āpnoti na kāma-kāmī ||BhG_2.70||
+
+āpūryamāṇam adbhir acala-pratiṣṭham acalatayā pratiṣṭhā avasthitiḥ yasya tam acala-pratiṣṭhaṃ samudram āpaḥ sarvato gatāḥ praviśanti svātmastham avikriyam eva santaṃ yadvat, tadvat kāmāḥ viṣaya-saṃnidhāv api sarvataḥ icchā-viśeṣāḥ yaṃ puruṣam --- samudram iva āpaḥ -- avikurvantaḥ praviśanti sarve ātmany eva pralīyante na svātma-vaśaṃ kurvanti, sa śāntir mokṣam āpnoti, netaraḥ kāma-kāmī, kāmyanta iti kāmāḥ viṣayāḥ tān kāmayituṃ śīlaṃ yasya saḥ kāma-kāmī, naiva prāpnotīty arthaḥ ||BhGS_2.70||
+
+vihāya kāmān yaḥ sarvān pumāṃś carati niḥspṛhaḥ |
+nirmamo nirahaṃkāraḥ sa śāntim adhigacchati ||BhG_2.71||
+
+eṣā brāhmī sthitiḥ pārtha naināṃ prāpya vimuhyati |
+sthitvāsyām anta-kāle 'pi brahma-nirvāṇam ṛcchati ||BhG_2.72||
+
+
+=== Chapter 5 ===
+
+BhG 3
+tṛtīyo 'dhyāyaḥ śaṅkara-bhāṣyam
+śāstrasya pravṛtti-nivṛtti-viṣaya-bhūte dve buddhī bhagavatā nirdiṣṭe, sāṅkhye buddhir yoge buddhir iti ca | tatra prajahāti yadā kāmān ity ārabhya ā adhyāya-parisamāpteḥ sāṅkhya-buddhy-āśritānāṃ saṃnyāsaṃ kartavyam uktvā teṣāṃ tan-niṣṭhatayaiva ca kṛtārthatā uktā eṣā brāhmī sthitiḥ iti | arjunāya ca karmaṇy evādhikāras te, mā saṅgo 'stv akarmaṇi iti karma eva kartavyam uktavān yoga-buddhim āśritya, na tata eva śreyaḥ-prāptim uktavān | tad etad ālakṣya paryākulībhūta-buddhir arjuna uvāca - kathaṃ bhaktāya śreyo 'rthine yat sākṣāt śreyaḥ-sādhanaṃ sāṅkhya-buddhi-niṣṭhāṃ śrāvayitvā māṃ karmaṇi dṛṣṭānekānartha-yukte pāramparyeṇāpi anaikāntika-śreyaḥ-prāpti-phale niyuñjyād iti yuktaḥ paryākulībhāvo 'rjunasya | tad-anurūpa-praśnaḥ jyāyasī
+cet ity ādiḥ | praśnāpākaraṇa-vākyaṃ ca bhagavatā uktaṃ yathokta-vibhāga-viṣaye śāstre |
+tyaja dharmam adharmaṃ ca ubhe satyānṛte tyaja |
+ubhe satyānṛte tyaktvā yena tyajasi tat tyaja ||
+
+
+=== Chapter 2 ===
+
+ihāpi sarva-karmāṇi manasā saṃnyasya ity ādi | mokṣasya cākāryatvān mumukṣoḥ karmānarthakyam | nityāni pratyavāya-parihārārtham anuṣṭheyāni iti cet, na | asaṃnyāsi-viṣayatvāt pratyavāya-prāpteḥ | na hi agnikāryādy-akaraṇāt saṃnyāsinaḥ pratyavāyaḥ kalpayituṃ śakyo yathā brahmacāriṇām asaṃnyāsinām api karmiṇām | na tavan nityānāṃ karmaṇām abhāvād eva bhāva-rūpasya pratyavāyasya utpattiḥ kalpayituṃ śakyā katham asataḥ sajjāyate [ChāU 6.2.2] iti asataḥ sajjanmāsambhava-śruteḥ |
+yadi vihitākaraṇād asambhāvyam api pratyavāyaṃ brūyād vedas tadā anartha-karo vedaḥ apramāṇam ity uktaṃ syāt | vihitasya karaṇākaraṇayoḥ duḥkha-mātra-phalatvāt | tathā ca kārakaṃ śāstraṃ na jñāpakam iti anupapannārthaṃ kalpitaṃ syāt | na caitad iṣṭam | tasmān na saṃnyāsināṃ karmāṇi ato jñāna-karmaṇoḥ samuccayānupapattiḥ | jyāyasī cet karmaṇas te matā buddhir iti | arjunasya praśnānupapatteś ca |
+yadi hi bhagavatā dvitīye adhyāye jñānaṃ karma ca samuccayena tvayānuṣṭheyam ity uktaṃ syāt tato 'rjunasya praśno 'nupapanno jyāyasī cet karmaṇas te matā buddhir janārdana iti | arjunāya ced buddhi-karmaṇī tvayānuṣṭheye iti ukte yā karmaṇo jyāyasī buddhiḥ sā apy uktā eveti tat kiṃ karmaṇi ghore māṃ niyojayasi keśava iti praśno na kathaṃcana upapadyate |
+arjuna uvāca
+jyāyasī cet karmaṇas te matā buddhir janārdana |
+tat kiṃ karmaṇi ghore māṃ niyojayasi keśava ||BhG_3.1||
+
+vyāmiśreṇeva vākyena buddhiṃ mohayasīva me |
+tad ekaṃ vada niścitya yena śreyo 'ham āpnuyām ||BhG_3.2||
+
+śrī-bhagavān uvāca
+loke 'smin dvividhā niṣṭhā purā proktā mayānagha |
+jñāna-yogena sāṃkhyānāṃ karma-yogena yoginām ||BhG_3.3||
+
+na karmaṇām anārambhān naiṣkarmyaṃ puruṣo 'śnute |
+na ca saṃnyasanād eva siddhiṃ samadhigacchati ||BhG_3.4 ||
+
+
+=== Chapter 4 ===
+
+anārambhād ananuṣṭhānāt naiṣkarmyaṃ niṣkarma-bhāvaṃ karma-śūnyatāṃ jñāna-yogena niṣṭhāṃ niṣkriyātma-svarūpeṇaivāvasthānam iti yāvat | puruṣo nāśnute na prāpnotīty arthaḥ |
+karmaṇām anārambhān naiṣkarmyaṃ nāśnuta iti vacanāt tad-viparyayāt teṣām ārambhān naiṣkarmyam aśnuta iti gamyate | kasmāt punaḥ kāraṇāt karmaṇām anārambhān naiṣkarmyaṃ nāśnute iti ? ucyate, karmārambhasyaiva naiṣkarmyopāyatvāt | na hy upāyam antareṇa upeya-prāptir asti | karma-yogopāyatvaṃ ca naiṣkarmya-lakṣaṇasya jñāna-yogasya, śrutau iha ca pratipādanāt | śrutau tāvat prakṛtasyātma-lokasya vedyasya vedanopāyatvena tam etaṃ vedānuvacanena brāhmaṇā vividiṣanti yajñena [BAU 4.4.22] ity ādinā karma-yogasya jñāna-yogopāyatvaṃ pratipāditam | ihāpi ca - saṃnyāsas tu mahābāho duḥkham āptum ayogataḥ [kraītā 5.6], yoginaḥ karma kurvanti saṅgaṃ tyaktvātmaśuddhaye [kraītā 5.11], yajño dānaṃ tapaś caiva pāvanāni manīṣiṇām [kraītā 18.5] ity ādi pratipādayiṣyati
+|
+nanu cābhayaṃ sarva-bhūtebhyo dattvā naiṣkarmyam ācaret ity ādau kartavya-karma-saṃnyāsād api naiṣkarmya-prāptiṃ darśayati | loke ca karmaṇām anārambhān naiṣkarmyam iti prasiddhataram | ataś ca naiṣkarmyārthinaḥ kiṃ karmārambheṇa ? iti prāptam | ata āha- na ca saṃnyasanād eveti | nāpi saṃnyasanād eva kevalāt karma-parityāga-mātrād eva jñāna-rahitāt siddhiṃ naiṣkarmya-lakṣaṇāṃ jñāna-yogena niṣṭhāṃ samadhigacchati na prāpnoti ||BhGS_3.4||
+==============================
+na hi kaścit kṣaṇam api jātu tiṣṭhaty akarmakṛt |
+kāryate hy avaśaḥ karma sarvaḥ prakṛtijair guṇaiḥ ||BhG_3.5||
+
+karmendriyāṇi saṃyamya ya āste manasā smaran |
+indriyārthān vimūḍhātmā mithyācāraḥ sa ucyate ||BhG_3.6||
+
+karmendriyāṇi hastādīni saṃyamya saṃhṛtya ya āste tiṣṭhati manasā smaran cintayan indriyārthān viṣayān vimūḍhātmā vimūḍhāntaḥ-araṇo mithyācāro mṛṣācāraḥ pāpācāraḥ sa ucyate ||BhGS_3.6||
+
+yas tv indriyāṇi manasā niyamyārabhate 'rjuna |
+karmendriyaiḥ karma-yogam asaktaḥ sa viśiṣyate ||BhG_3.7||
+
+niyataṃ kuru karma tvaṃ karma jyāyo hy akarmaṇaḥ |
+śarīrayātrāpi ca te na prasidhyed akarmaṇaḥ ||BhG_3.8||
+
+yajñārthāt karmaṇo 'nyatra loko 'yaṃ karma-bandhanaḥ |
+tad arthaṃ karma kaunteya muktasaṅgaḥ samācara ||BhG_3.9||
+
+
+=== Chapter 7 ===
+
+yajño vai viṣṇuḥ [TaittS 1.7.4] iti śruter yajña īśvaraḥ | tad-arthaṃ yat kriyate tat yajñārthaṃ karma | tasmāt karmaṇo 'nyatrānyena karmaṇā loko 'yam adhikṛtaḥ karma-kṛt karma-bandhanaḥ [Taitt.Bhā. 3.1.6] karma bandhanaṃ yasya so 'yaṃ karma-bandhano lokaḥ, na tu yajñārthāt | atas tad-arthaṃ yajñārthaṃ karma kaunteya, mukta-saṅgaḥ karma-phala-saṅga-varjitaḥ san samācāra nirvartaya ||BhGS_3.9||
+==============================
+itaś cādhikṛtena karma kartavyam -
+saha-yajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ |
+anena prasaviṣyadhvam eṣa vo 'stv iṣṭa-kāma-dhuk ||BhG_3.10||
+
+devān bhāvayatānena te devā bhāvayantu vaḥ |
+parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha ||BhG_3.11||
+
+iṣṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ |
+tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ ||BhG_3.12||
+
+yajña-śiṣṭāśinaḥ santo mucyante sarva-kilbiṣaiḥ |
+bhuñjate te tv aghaṃ pāpā ye pacanty ātma-kāraṇāt ||BhG_3.13||
+
+annād bhavanti bhūtāni parjanyād anna-saṃbhavaḥ |
+yajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ ||BhG_3.14||
+
+karma brahmodbhavaṃ viddhi brahmākṣara-samudbhavam |
+tasmāt sarva-gataṃ brahma nityaṃ yajñe pratiṣṭhitam ||BhG_3.15||
+
+evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ |
+aghāyur indriyārāmo moghaṃ pārtha sa jīvati ||BhG_3.16||
+
+evaṃ sthite kim evaṃ pravartitaṃ caktraṃ sarveṇānuvartanīyam ? āho svit pūrvokta-karma-yogānuṣṭhānopāya-prāpyām anātma-vidā jñāna-yogenaiva niṣṭhām ātma-vidbhiḥ sāṃkhyair anuṣṭheyām aprāptenaiva ? ity evam artham arjunasya praśnam āśaṅkaya svayam eva vā śāstrārthasya viveka-pratipatty-artham etaṃ vai tam ātmānaṃ viditvā nivṛtta-mithyā-jñānāḥ santo brāhmaṇā mithyā-jñānavadbhyo 'vaśyaṃ kartavyebhyaḥ putraiṣaṇādibhyo vyutthāyātha bhikṣā-caryaṃ śarīra-sthiti-mātra-prayuktaṃ caranti | na teṣām ātma-jñāna-niṣṭhā-vyatirekeṇānyat kāryam asti [BAU 3.5.1] ity evaṃ śruty-artham iha gītā-śāstre pratipipādayiṣitam āviṣkurvann āha bhagavān -
+
+yas tv ātma-ratir eva syād ātma-tṛptaś ca mānavaḥ |
+ātmany eva ca saṃtuṣṭas tasya kāryaṃ na vidyate ||BhG_3.17||
+
+naiva tasya kṛtenārtho nākṛteneha kaścana |
+na cāsya sarva-bhūteṣu kaścid artha-vyapāśrayaḥ ||BhG_3.18||
+
+tasmād asaktaḥ satataṃ kāryaṃ karma samācara |
+asakto hy ācaran karma param āpnoti pūruṣaḥ ||BhG_3.19||
+
+karmaṇaiva hi saṃsiddhim āsthitā janakādayaḥ |
+loka-saṃgraham evāpi saṃpaśyan kartum arhasi ||BhG_3.20||
+
+yad yad ācarati śreṣṭhas tat tad evetaro janaḥ |
+sa yat pramāṇaṃ kurute lokas tad anuvartate ||BhG_3.21||
+
+na me pārthāsti kartavyaṃ triṣu lokeṣu kiṃcana |
+nānavāptam avāptavyaṃ vartaiva ca karmaṇi ||BhG_3.22||
+
+yadi hy ahaṃ na varteyaṃ jātu karmaṇy atandritaḥ |
+mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||BhG_3.23||
+
+utsīdeyur ime lokā na kuryāṃ karma ced aham |
+saṃkarasya ca kartā syām upahanyām imāḥ prajāḥ ||BhG_3.24||
+
+saktāḥ karmaṇy avidvāṃso yathā kurvanti bhārata |
+kuryād vidvāṃs tathāsaktaś cikīrṣur loka-saṃgraham ||BhG_3.25||
+
+na buddhi-bhedaṃ janayed ajñānāṃ karma-saṅginām |
+joṣayet sarva-karmāṇi vidvān yuktaḥ samācaran ||BhG_3.26||
+
+prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ |
+ahaṃkāra-vimūḍhātmā kartāham iti manyate ||BhG_3.27||
+
+tattvavit tu mahābāho guṇa-karma-vibhāgayoḥ |
+guṇā guṇeṣu vartanta iti matvā na sajjate ||BhG_3.28||
+
+prakṛter guṇa-saṃmūḍhāḥ sajjante guṇa-karmasu |
+tān akṛtsna-vido mandān kṛtsnavin na vicālayet ||BhG_3.29||
+
+mayi sarvāṇi karmāṇi saṃnyasyādhyātma-cetasā |
+nirāśīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ ||BhG_3.30||
+
+ye me matam idaṃ nityam anutiṣṭhanti mānavāḥ |
+śraddhāvanto 'nasūyanto mucyante te 'pi karmabhiḥ ||BhG_3.31||
+
+ye me madīyam idaṃ mataṃ nityam anutiṣṭhanti anuvartante mānavā manuṣyāḥ śraddhāvantaḥ śraddadhānā anasūyanto 'sūyāṃ ca mayi parama-gurau vāsudeve 'kurvanto, mucyante te 'py evaṃbhūtāḥ karmabhir dharmādharmākhyaiḥ ||BhGS_3.31||
+
+ye tv etad abhyasūyanto nānutiṣṭhanti me matam |
+sarva-jñāna-vimūḍhāṃs tān viddhi naṣṭān acetasaḥ ||BhG_3.32||
+
+sadṛśaṃ ceṣṭate svasyāḥ prakṛter jñānavān api |
+prakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati ||BhG_3.33||
+
+indriyasyendriyasyārthe rāga-dveṣau vyavasthitau |
+tayor na vaśam āgacchet tau hy asya paripanthinau ||BhG_3.34||
+
+śreyān sva-dharmo viguṇaḥ para-dharmāt svanuṣṭhitāt |
+sva-dharme nidhanaṃ śreyaḥ para-dharmo bhayāvahaḥ ||BhG_3.35||
+
+atha kena prayukto 'yaṃ pāpaṃ carati pūruṣaḥ |
+anicchann api vārṣṇeya balād iva niyojitaḥ ||BhG_3.36||
+
+atha kena hetu-bhūtena prayuktaḥ san rājñeva bhṛtyo 'yaṃ pāpaṃ karma carati ācarati pūruṣaḥ puruṣaḥ svayam anicchann api he vārṣṇeya vṛṣṇi-kula-prasūta ! balād iva niyojito rājñevety ukto dṛṣṭāntaḥ ||BhGS_3.36||
+
+kāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ |
+mahāśano mahā-pāpmā viddhy enam iha vairiṇam ||BhG_3.37||
+
+aiśvaryasya samagrasya dharmasya yaśasaḥ śriyaḥ |
+vairāgyasyātha mokṣasya ṣaṇṇāṃ bhaga itīṅganā || [ViP 6.5.74]
+
+utpattiṃ pralayaṃ caiva bhūtānām āgatiṃ gatim |
+vetti vidyām avidyāṃ ca sa vācyo bhagavān iti || [ViP 6.5.78]
+
+dhūmenāvriyate vahnir yathādarśo malena ca |
+yatholbenāvṛto garbhas tathā tenedam āvṛtam ||BhG_3.38||
+
+dhūmena sahajenāvriyate vahniḥ prakāśātmako 'prakāśātmakena, yathā vā ādarśo malena ca, yatholbena ca jarāyuṇā garbha-veṣṭanena cāvṛta ācchādito garbhas tathā tenedam āvṛtam ||BhGS_3.38||
+
+āvṛtaṃ jñānam etena jñānino nitya-vairiṇā |
+kāma-rūpeṇa kaunteya duṣpūreṇānalena ca ||BhG_3.39||
+
+indriyāṇi mano buddhir asyādhiṣṭhānam ucyate |
+etair vimohayaty eṣa jñānam āvṛtya dehinam ||BhG_3.40||
+
+tasmāt tvam indriyāṇy ādau niyamya bharatarṣabha |
+pāpmānaṃ prajahi hy enaṃ jñāna-vijñāna-nāśanam ||BhG_3.41||
+
+indriyāṇi parāṇy āhur indriyebhyaḥ paraṃ manaḥ |
+manasas tu parā buddhir yo buddheḥ paratas tu saḥ ||BhG_3.42||
+
+evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānam ātmanā |
+jahi śatruṃ mahābāho kāma-rūpaṃ durāsadam ||BhG_3.43||
+
+
+=== Chapter 4 ===
+
+BhG 4
+atha caturtho 'dhyāyaḥ
+(śaṅkara-bhāṣyaḥ)
+yo 'yaṃ yogo 'dhyāya-dvayenokto jñāna-niṣṭhā-lakṣaṇaḥ sa sannyāsaḥ karma-yogopāyaḥ | yasmin vedārthaḥ parisamāptaḥ pravṛtti-lakṣaṇo nivṛtti-lakṣaṇaś ca gītāsu ca sarvāsv ayam eva yogo vivakṣito bhagavatā | ataeva parisamāptaḥ pravṛttiṃ vedārthaṃ manvānas taṃ vaṃśa-kathanena stauti śrī-bhagavān |
+śrī-bhagavān uvāca
+imaṃ vivasvate yogaṃ proktavān aham avyayam |
+vivasvān manave prāha manur ikṣvākave 'bravīt ||BhG_4.1||
+
+evaṃ paramparā-prāptam imaṃ rājarṣayo viduḥ |
+sa kāleneha mahatā yogo naṣṭaḥ parantapa ||BhG_4.2||
+
+sa evāyaṃ mayā te 'dya yogaḥ proktaḥ purātanaḥ |
+bhakto 'si me sakhā ceti rahasyaṃ hy etad uttamam ||BhG_4.3||
+
+aparaṃ bhavato janma paraṃ janma vivasvataḥ |
+katham etad vijānīyāṃ tvam ādau proktavān iti ||BhG_4.4||
+
+bahūni me vyatītāni janmāni tava cārjuna |
+tāny ahaṃ veda sarvāṇi na tvaṃ vettha parantapa ||BhG_4.5||
+
+ajo 'pi sann avyayātmā bhūtānām īśvaro 'pi san |
+prakṛtiṃ svām adhiṣṭhāya saṃbhavāmy ātma-māyayā ||BhG_4.6||
+
+yadā yadā hi dharmasya glānir bhavati bhārata |
+abhyutthānam adharmasya tadātmānaṃ sṛjāmy aham ||BhG_4.7||
+
+paritrāṇāya sādhūnāṃ vināśāya ca duṣkṛtām |
+dharma-saṃsthāpanārthāya saṃbhavāmi yuge yuge ||BhG_4.8||
+
+janma karma ca me divyam evaṃ yo vetti tattvataḥ |
+tyaktvā dehaṃ punar janma naiti mām eti so 'rjuna ||BhG_4.9||
+
+taj-janma māyā-rūpaṃ, karma ca sādhu-paritrāṇādi, me mama divyam aprākṛtam aiśvaram evaṃ yathoktaṃ yo vetti tattvatas tattvena yathāvat tyaktvā deham imaṃ punar janma punar utpattiṃ naiti na prāpnoti, mām ety āgacchati, sa mucyate he 'rjuna ||BhGS_4.9||
+
+vīta-rāga-bhaya-krodhā man-mayā mām upāśritāḥ |
+bahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ ||BhG_4.10||
+
+ye yathā māṃ prapadyante tāṃs tathaiva bhajāmy aham |
+mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||BhG_4.11||
+
+kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ |
+kṣipraṃ hi mānuṣe loke siddhir bhavati karmajā ||BhG_4.12||
+
+cātur-varṇyaṃ mayā sṛṣṭaṃ guṇa-karma-vibhāgaśaḥ |
+tasya kartāram api māṃ viddhy akartāram avyayam ||BhG_4.13||
+
+na māṃ karmāṇi limpanti na me karma-phale spṛhā |
+iti māṃ yo 'bhijānāti karmabhir na sa badhyate ||BhG_4.14||
+
+evaṃ jñātvā kṛtaṃ karma pūrvair api mumukṣubhiḥ |
+kuru karmaiva tasmāt tvaṃ pūrvaiḥ pūrvataraṃ kṛtam ||BhG_4.15||
+
+kiṃ karma kim akarmeti kavayo 'py atra mohitāḥ |
+tat te karma pravakṣyāmi yaj jñātvā mokṣyase 'śubhāt ||BhG_4.16||
+
+karmaṇo hy api boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ |
+akarmaṇaś ca boddhavyaṃ gahanā karmaṇo gatiḥ ||BhG_4.17||
+
+karmaṇy akarma yaḥ paśyed akarmaṇi ca karma yaḥ |
+sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsna-karma-kṛt ||BhG_4.18||
+
+
+=== Chapter 2 ===
+
+na ca mithyā-jñānaṃ boddhavyaṃ bhavati tat-pratyupasthāpitaṃ vā vastv-ābhāsam | nāpi nityānām akaraṇād abhāvāt prayavāya-bhāvotpattiḥ | nāsato vidyate bhāvo [Gītā 2.16] iti vacanāt | tat-katham asataḥ saj jāyate [ChāU 6.2.2] iti ca darśitam | asataḥ saj-janma-pratiṣedhād asataḥ sad-utpattiṃ bruvatā 'sad eva sad bhavet | sac cāsad bhaved ity uktaṃ syāt | tac cāyuktaṃ, sarva-pramāṇa-virodhāt | na ca niṣphalaṃ vidadhyāt karma śāstraṃ duḥkha-svarūpatvāt | duḥkhasya ca buddhi-pūrvakatayā kāryatvānupapatteḥ | tad-akaraṇe ca naraka-pātābhyupagame 'narthāyaiva | ubhayathāpi karaṇe 'karaṇe ca śāstraṃ niṣphalaṃ kalpitaṃ syāt | svābhyupagama-virodhaś ca nityaṃ niṣphalaṃ karmety abhyupagamya mokṣa-phalāyeti bruvataḥ | tasmād yathā-śruta evārthaḥ karmaṇy akarma ya ity ādeḥ | tathā ca vyākhyāto
+==============================
+tad etat karmaṇy akarmādi-darśanaṃ stūyate -
+yasya sarve samārambhāḥ kāma-saṃkalpa-varjitāḥ |
+jñānāgni-dagdha-karmāṇaṃ tam āhuḥ paṇḍitaṃ budhāḥ ||BhG_4.19||
+
+tyaktvā karma-phalāsaṅgaṃ nitya-tṛpto nirāśrayaḥ |
+karmaṇy abhipravṛtto 'pi naiva kiṃcit karoti saḥ ||BhG_4.20||
+
+nirāśīr yata-cittātmā tyakta-sarva-parigrahaḥ |
+śārīraṃ kevalaṃ karma kurvan nāpnoti kilbiṣam ||BhG_4.21||
+
+
+=== Chapter 46 ===
+
+tyakta-sarva-parigrahasya yater annādeḥ śarīra-sthiti-hetorḥ parigrahasyābhāvād yācanādinā śarīra-sthitau kartavyatāyāṃ prāptāyāṃ ayācitam asaṃk ptam upapannaṃ yadṛcchayā [Mbh 14.46.19; Baudhayana-dharma-sūtra 21.8.12] ity ādinā vacanenānujñātaṃ yateḥ śarīra-sthiti-hetor annādeḥ prāpti-dvāram āviṣkurvann āha -
+yadṛcchā-lābha-santuṣṭaḥ prārthitopanato lābho yadṛcchā-lābhaḥ, tena santuṣṭaḥ saṃjātālaṃ-pratyayaḥ | dvandvātīto dvandvaiḥ śītoṣṇādibhir hanyamāno 'py aviṣaṇṇa-citto dvandvātīta ucyate | vimatsaro vigata-matsaro nirvaira-buddhiḥ | samas tulyo yadṛcchā-lābhasya siddhāv asiddhau ca, ya evambhūto yatir annādeḥ śarīra-sthiti-hetor lābhālābhayoḥ samo harṣa-viṣāda-varjitaḥ, karmādāv akarmādi-darśī, yathā-bhūtātma-darśana-niṣṭhaḥ san śarīra-sthiti-mātra-prayojane bhikṣāṭanādi-karmaṇi śarīrādi-nirvartye naiva kiṃcit karomīti [Gītā 5.8] guṇā guṇeṣu vartanta [Gītā 3.28] ity evaṃ sadā samparicakṣāṇa ātmanaḥ kartṛtvābhāvaṃ paśyann eva kiṃcid bhikṣāṭanādikaṃ karma karoti | loka-vyavahāra-sāmānya-darśanena tu laukikair āropita-kartṛtve
+bhikṣāṭanādau karmaṇi kartā bhavati | svānubhavena tu śāstra-pramāṇādi-janitenākartraiva | sa evaṃ parādhyāropita-kartṛtvaṃ śarīra-sthiti-mātra-prayojanaṃ bhikṣāṭanādikaṃ karma kṛtvāpi na nibadhyate, bandha-hetoḥ karmaṇaḥ sahetukasya jñānāgninā dagdhatvād ity uktānuvāda evaiṣaḥ ||BhGS_4.22||
+==============================
+yadṛcchā-lābha-santuṣṭo dvandvātīto vimatsaraḥ |
+samaḥ siddhāv asiddhau ca kṛtvāpi na nibadhyate ||BhG_4.22||
+
+gata-saṅgasya muktasya jñānāvasthita-cetasaḥ |
+yajñāyācarataḥ karma samagraṃ pravilīyate ||BhG_4.23||
+
+brahmārpaṇaṃ brahma havir brahmāgnau brahmaṇā hutam |
+brahmaiva tena gantavyaṃ brahma-karma-samādhinā ||BhG_4.24||
+
+daivam evāpare yajñaṃ yoginaḥ paryupāsate |
+brahmāgnāv apare yajñaṃ yajñenaivopajuhvati ||BhG_4.25||
+
+
+=== Chapter 9 ===
+
+daivam eva devā ijyante yena yajñenāsau daivo yajñas tam evāpare yajñaṃ yoginaḥ karmiṇaḥ paryupāsate, kurvantīty arthaḥ | brahmāgnau satyaṃ jñānam anantaṃ brahma [TaittU 2.1] vijñānam ānandaṃ brahma [BAU 3.9.28], yat sākṣād aparokṣād brahma ya ātmā sarvāntaraḥ [BAU 3.4.1], ity ādi vacanoktam aśanāyāpipāsādi-sarva-saṃsāra-dharma-varjitaṃ neti neti [BAU 4.4.22] iti nirastāśeṣa-viśeṣaṃ brahma-śabdenocyate | brahma ca tad-agniś ca sa homādhikaraṇatva-vivakṣayā brahmāgnis tasmin brahmāgnāv apare 'nye brahma-vido yajñaṃ yajña-śabda-vācya ātmā ātma-nāmasu yajña-śabdasya pāṭhāt [Nirukti 14.11] tam ātmānaṃ yajñaṃ paramārthataḥ param eva brahma santaṃ buddhyādy-upādhi-saṃyuktam adhyasta-sarvopādhi-dharmakam āhuti-rūpaṃ yajṇinaivātmanaivokta-lakṣaṇopajuhvati prakṣipanti,
+sopādhikasyātmano nirupādhikena para-brahma-svarūpeṇaiva yad darśanaṃ, sa tasmin homas taṃ kurvanti, brahmātmaikatva-darśana-niṣṭhāḥ sannyāsina ity arthaḥ | so 'yaṃ samyag-darśana-lakṣaṇo yajño daiva-yajñādiṣu yajñeṣūpakṣipyante brahmārpaṇam ity ād-ślokaiḥ prastutaḥ śreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa [Gītā 4.33] ity ādinā stuty-artham ||BhGS_4.25||
+==============================
+śrotrādīnīndriyāṇy anye yoginaḥ saṃyamāgniṣu pratīndriyaṃ saṃyamo bhidyata iti bahu-vacanam | saṃyamā evāgnayas teṣu juhvati | indriya-saṃyamam eva kurvantīty arthaḥ | śabdādīn viṣayān anya indriyāgniṣu juhvati, indriyāṇy evāgnayas teṣv indriyāgniṣu juhvati śrotrādibhir aviruddha-viṣaya-grahaṇaṃ homaṃ manyante ||BhGS_4.26||
+śrotrādīnīndriyāṇy anye saṃyamāgniṣu juhvati |
+śabdādīn viṣayān anya indriyāgniṣu juhvati ||BhG_4.26||
+
+kiṃ ca -
+sarvāṇīndriya-karmāṇi prāṇa-karmāṇi cāpare |
+ātma-saṃyama-yogāgnau juhvati jñāna-dīpite ||BhG_4.27||
+
+dravya-yajñās tapo-yajñā yoga-yajñās tathāpare |
+svādhyāya-jñāna-yajñāś ca yatayaḥ saṃśita-vratāḥ ||BhG_4.28||
+
+kiṃ ca -
+apāne juhvati prāṇaṃ prāṇe 'pānaṃ tathāpare |
+prāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ ||BhG_4.29||
+
+apare niyatāhārāḥ prāṇān prāṇeṣu juhvati |
+sarve 'py ete yajña-vido yajña-kṣapita-kalmaṣāḥ ||BhG_4.30||
+
+yajña-śiṣṭāmṛta-bhujo yānti brahma sanātanam |
+nāyaṃ loko 'sty ayajñasya kuto 'nyaḥ kurusattama ||BhG_4.31||
+
+evaṃ bahu-vidhā yajñā vitatā brahmaṇo mukhe |
+karmajān viddhi tān sarvān evaṃ jñātvā vimokṣyase ||BhG_4.32||
+
+śreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa |
+sarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate ||BhG_4.33||
+
+
+=== Chapter 1 ===
+
+śreyān dravya-mayāt dravya-sādhana-sādhyād yajñāj jñāna-yajño he paraṃtapa | dravya-mayo hi yajñaḥ phalasyārambhakaḥ, jñāna-yajño na phalārambhakaḥ, ataḥ śreyān praśasyataraḥ | katham ? yataḥ sarvaṃ karma samastam akhilam apratibaddhaṃ pārtha jñāne mokṣa-sādhane sarvataḥ saṃplutodaka-sthānīye parisamāpyate antarbhavatīty arthaḥ | yathā kṛtāya vijitāyādhareyāḥ saṃyanty evam enaṃ sarvaṃ tad abhisameti yat kiṃcit prajāḥ sādhu kurvanti yas tad veda yat sa veda [ChāU 4.1.4] iti śruteḥ ||BhGS_4.33||
+==============================
+tad etad viśiṣṭāṃ jñānaṃ tarhi kena prāpyata ity ucyate ---
+tad viddhi praṇipātena paripraśnena sevayā |
+upadekṣyanti te jñānaṃ jñāninas tattva-darśinaḥ ||BhG_4.34||
+
+yaj jñātvā na punar moham evaṃ yāsyasi pāṇḍava |
+yena bhūtāny aśeṣeṇa drakṣyasy ātmany atho mayi ||BhG_4.35||
+
+api ced asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛttamaḥ |
+sarvaṃ jñāna-plavenaiva vṛjinaṃ santariṣyasi ||BhG_4.36||
+
+yathaidhāṃsi samiddho 'gnir bhasmasāt kurute 'rjuna |
+jñānāgniḥ sarva-karmāṇi bhasmasāt kurute tathā ||BhG_4.37||
+
+
+=== Chapter 14 ===
+
+yathaidhāṃsi kāṣṭhāni samiddhaḥ samyag iddho dīpto 'gnir bhasmasāt bhasmībhāvaṃ kurute he arjuna, jñānam eva agnir jñānāgniḥ sarva-karmāṇi bhasmasāt kurute tathā nirbījīkarotīty arthaḥ | na hi sākṣād eva jñānāgniḥ karmāṇīndhanavat bhasmīkartuṃ śaknoti | tasmāt samyag darśanaṃ sarva-karmaṇāṃ nirbījatve kāraṇam ity abhiprāyaḥ | sāmarthyād yena karmaṇā arīram ārabdhaṃ tat pravṛtta-phalatvād upabhogenaiva kṣīyate | tasya tāvad eva ciraṃ yāvan na vimokṣye 'tha sampatsye [ChāU 6.14.1] ato yāny apravṛtta-phalāni jñānotpatteḥ prāk kṛtāni jñāna-sahabhāvīni cātītāneka-janma-kṛtāni ca tāny eva sarvāṇi bhasmasāt kurute ||BhGS_4.37||
+==============================
+yataḥ evam ataḥ---
+na hi jñānena sadṛśaṃ pavitram iha vidyate |
+tat svayaṃ yoga-saṃsiddhaḥ kālenātmani vindati ||BhG_4.38||
+
+śraddhāvāṃl labhate jñānaṃ tat-paraḥ saṃyatendriyaḥ |
+jñānaṃ labdhvā parāṃ śāntim acireṇādhigacchati ||BhG_4.39||
+
+ajñaś cāśraddadhānaś ca saṃśayātmā vinaśyati |
+nāyaṃ loko 'sti na paro na sukhaṃ saṃśayātmanaḥ ||BhG_4.40||
+
+yoga-saṃnyasta-karmāṇaṃ jñāna-saṃchinna-saṃśayam |
+ātmavantaṃ na karmāṇi nibadhnanti dhanañjaya ||BhG_4.41||
+
+tasmād ajñāna-saṃbhūtaṃ hṛt-sthaṃ jñānāsinātmanaḥ |
+chittvainaṃ saṃśayaṃ yogam ātiṣṭhottiṣṭha bhārata ||BhG_4.42||
+
+
+=== Chapter 3 ===
+
+BhG 5
+atha pañcamo 'dhyāyaḥ
+(śaṅkara-bhāṣya)
+arjuna uvāca -
+saṃnyāsaṃ karmaṇāṃ kṛṣṇa punar yogaṃ ca śaṃsasi |
+yac chreya etayor ekaṃ tan me brūhi suniścitam ||BhG_5.1||
+
+saṃnyāsaḥ karma-yogaś ca niḥśreyasa-karāv ubhau |
+tayos tu karma-saṃnyāsāt karma-yogo viśiṣyate ||BhG_5.2||
+
+jñeyaḥ sa nitya-saṃnyāsī yo na dveṣṭi na kāṅkṣati |
+nirdvandvo hi mahā-bāho sukhaṃ bandhāt pramucyate ||BhG_5.3||
+
+sāṃkhya-yogau pṛthag bālāḥ pravadanti na paṇḍitāḥ |
+ekam apy āsthitaḥ samyag ubhayor vindate phalam ||BhG_5.4||
+
+yat sāṃkhyaiḥ prāpyate sthānaṃ tad yogair api gamyate |
+ekaṃ sāṃkhyaṃ ca yogaṃ ca yaḥ paśyati sa paśyati ||BhG_5.5||
+
+saṃnyāsas tu mahābāho duḥkham āptum ayogataḥ |
+yoga-yukto munir brahma nacireṇādhigacchati ||BhG_5.6||
+
+yoga-yukto viśuddhātmā vijitātmā jitendriyaḥ |
+sarva-bhūtātma-bhūtātmā kurvann api na lipyate ||BhG_5.7||
+
+naiva kiṃ cit karomīti yukto manyeta tattva-vit |
+paśyañ śṛṇvan spṛśañ jighrann aśnan gacchan svapañ śvasan ||BhG_5.8||
+
+pralapan visṛjan gṛhṇann unmiṣan nimiṣann api |
+indriyāṇīndriyārtheṣu vartanta iti dhārayan ||BhG_5.9||
+
+brahmaṇy ādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ |
+lipyate na sa pāpena padma-patram ivāmbhasā ||BhG_5.10||
+
+kāyena manasā buddhyā kevalair indriyair api |
+yoginaḥ karma kurvanti saṅgaṃ tyaktvātma-śuddhaye ||BhG_5.11||
+
+yuktaḥ karma-phalaṃ tyaktvā śāntim āpnoti naiṣṭhikīm |
+ayuktaḥ kāma-kāreṇa phale sakto nibadhyate ||BhG_5.12||
+
+sarva-karmāṇi manasā saṃnyasyāste sukhaṃ vaśī |
+nava-dvāre pure dehī naiva kurvan na kārayan ||BhG_5.13||
+
+na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ |
+na karma-phala-saṃyogaṃ svabhāvas tu pravartate ||BhG_5.14||
+
+nādatte kasya cit pāpaṃ na caiva sukṛtaṃ vibhuḥ |
+ajñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ ||BhG_5.15||
+
+jñānena tu tad ajñānaṃ yeṣāṃ nāśitam ātmanaḥ |
+teṣām ādityavaj jñānaṃ prakāśayati tatparam ||BhG_5.16||
+
+jñānena tu yena ajñānena āvṛtāḥ muhyanti jantavas tat ajñānaṃ yeṣāṃ jantūnāṃ viveka-jñānena ātma-viṣayeṇa nāśitam ātmano bhavati, teṣāṃ jantūnām ādityavat yathādityaḥ samastaṃ rūpa-jātam avabhāsayati tadvat jñānaṃ jñeyaṃ vastu sarvaṃ prakāśayati tat paraṃ paramārtha-tattvam ||BhGS_5.16||
+
+tad-buddhayas tad-ātmānas tan-niṣṭhās tat-parāyaṇāḥ |
+gacchanty apunar-āvṛttiṃ jñāna-nirdhūta-kalmaṣāḥ ||BhG_5.17||
+
+vidyā-vinaya-saṃpanne brāhmaṇe gavi hastini |
+śuni caiva śvapāke ca paṇḍitāḥ sama-darśinaḥ ||BhG_5.18||
+
+
+=== Chapter 8 ===
+
+nanv abhojyānnās te doṣavantaḥ, samāsamābhyāṃ viṣama-same pūjātaḥ [Gautama-dharma-sūtra 2.8.20] iti smṛteḥ | na te doṣavantaḥ | katham ? -
+ihaiva jīvadbhireva taiḥ samadarśibhiḥ paṇḍitair jito vaīkṛtaḥ sargo janma, yeṣāṃ sāmye sarva-bhūteṣu brahmaṇi samabhāve sthitaṃ ni calībhūtaṃ mano 'ntaḥkaraṇam | nirdoṣaṃ yadyapi doṣavatsu vapākādiṣu mūḍhais taddoṣair doṣavat iva vibhāvyate, tathāpi taddoṣair aspṛṣṭām iti nirdoṣaṃ doṣavarjitaṃ hi yasmāt | nāpi svaguṇabhedabhinnam, nirguṇatvāt caitanyasya | vakṣyati ca bhagavān icchādīnāṃ kṣetradharmatvam, anāditvānnirguṇatvāt iti ca | nāpy antyā viśeṣāḥ ātmano bhedakāḥ santi, pratiśarīraṃ teṣāṃ sattve pramāṇānupapatteḥ | ataḥ samaṃ brahma ekaṃ ca | tasmāt brahmaṇi eva te sthitāḥ | tasmāt na doṣagandhamātramapi tān spṛati, dehādisaṃghātātma-darśanābhimānābhāvāt teṣām | dehādisaṃghātātma-darśanābhimānavadviṣayaṃ
+tu tat sūtram samāsamābhyāṃ viṣamasame pūjātaḥ iti, pūjāviṣayatvena viśeṣaṇāt | dṛśyate hi brahmavit ṣaḍāṅgavit caturvedavit iti pūjādānādau guṇaviśeṣasaṃbandhaḥ kāraṇam | brahma tu sarvaguṇadoṣasaṃbandhavarjitamityatar brahmaṇi te sthitāḥ iti yuktam | karmaviṣayaṃ ca samāsamābhyām ity ādi | idaṃ tu sarva-karma-saṃnyāsaviṣayaṃ prastutam, sarva-karmāṇi manasā ityārabhya ādhyāyaparisamāpteḥ ||BhGS_5.19||
+- o)O(o -
+ihaiva tair jitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ |
+nirdoṣaṃ hi samaṃ brahma tasmād brahmaṇi te sthitāḥ ||BhG_5.19||
+
+na prahṛṣyet priyaṃ prāpya nodvijet prāpya cāpriyam |
+sthira-buddhir asaṃmūḍho brahmavid brahmaṇi sthitaḥ ||BhG_5.20||
+
+bāhya-sparśeṣv asaktātmā vindaty ātmani yat sukham |
+sa brahma-yoga-yuktātmā sukham akṣayam aśnute ||BhG_5.21||
+
+ye hi saṃsparśajā bhogā duḥkha-yonaya eva te |
+ādy-anta-vantaḥ kaunteya na teṣu ramate budhaḥ ||BhG_5.22||
+
+śaknotīhaiva yaḥ soḍhuṃ prāk śarīra-vimokṣaṇāt |
+kāma-krodhodbhavaṃ vegaṃ sa yuktaḥ sa sukhī naraḥ ||BhG_5.23||
+
+yo 'ntaḥ-sukho 'ntarārāmas tathāntar-jyotir eva yaḥ |
+sa yogī brahma-nirvāṇaṃ brahma-bhūto 'dhigacchati ||BhG_5.24||
+
+labhante brahma-nirvāṇam ṛṣayaḥ kṣīṇa-kalmaṣāḥ |
+chinna-dvaidhā yatātmānaḥ sarva-bhūta-hite ratāḥ ||BhG_5.25||
+
+labhante brahma-nirvāṇaṃ mokṣam ṛṣayaḥ samyag-darśinaḥ saṃnyāsinaḥ kṣīṇa-kalmaṣāḥ kṣīṇa-pāpā nirdoṣāś chinna-dvaidhāḥ chinna-saṃśayā yatātmānaḥ saṃyatendriyāḥ sarva-bhūta-hite ratāḥ sarveṣāṃ bhūtānāṃ hite ānukūlye ratā ahiṃsakā ity arthaḥ ||BhGS_5.25||
+
+kāma-krodha-viyuktānāṃ yatīnāṃ yata-cetasām |
+abhito brahma-nirvāṇaṃ vartate viditātmanām ||BhG_5.26||
+
+kāma-krodha-viyuktānāṃ kāmaś ca krodhaś ca kāma-krodhau tābhyāṃ viyuktānāṃ yatīnāṃ saṃnyāsināṃ yata-cetasāṃ saṃyatāntaḥ-karaṇānām abhita ubhayato jīvatāṃ mṛtānāṃ ca brahma-nirvāṇaṃ mokṣo vartate viditātmanāṃ vidito jñāta ātmā yeṣāṃ te viditātmanāṃ teṣāṃ viditātmanāṃ samyag-darśinām ity arthaḥ ||BhGS_5.26||
+
+sparśān kṛtvā bahir bāhyāṃś cakṣuś caivāntare bhruvoḥ |
+prāṇāpānau samau kṛtvā nāsābhyantara-cāriṇau ||BhG_5.27||
+
+yatendriya-mano-buddhir munir mokṣa-parāyaṇaḥ |
+vigatecchā-bhaya-krodho yaḥ sadā mukta eva saḥ ||BhG_5.28||
+
+bhoktāraṃ yajña-tapasāṃ sarva-loka-maheśvaram |
+suhṛdaṃ sarva-bhūtānāṃ jñātvā māṃ śāntim ṛcchati ||BhG_5.29||
+
+
+=== Chapter 175 ===
+
+BhG 6
+atha ṣaṣṭho 'dhyāyaḥ
+(śaṅkarācārya-bhāṣyaḥ)
+anāśritaḥ karma-phalaṃ kāryaṃ karma karoti yaḥ |
+sa saṃnyāsī ca yogī ca na niragnir na cākriyaḥ ||BhG_6.1||
+
+yaṃ saṃnyāsam iti prāhur yogaṃ taṃ viddhi pāṇḍava |
+na hy asaṃnyasta-saṃkalpo yogī bhavati kaścana ||BhG_6.2||
+
+ārurukṣor muner yogaṃ karma kāraṇam ucyate |
+yogārūḍhasya tasyaiva śamaḥ kāraṇam ucyate ||BhG_6.3||
+
+yadā hi nendriyārtheṣu na karmasv anuṣajjate |
+sarva-saṃkalpa-saṃnyāsī yogārūḍhas tadocyate ||BhG_6.4||
+
+
+=== Chapter 4 ===
+
+sarva-kāma-parityāge ca sarva-karma-saṃnyāsaḥ siddho bhavati | sa yathā-kāmo bhavati tat-kratur bhavati yat kratur bhavati tat karma kurute [BAU 4.4.5] ity ādi śrutibhyaḥ | yad yad dhi kurute jantus tat tat kāmasya ceṣṭitam [Manu 2.4] ity ādi-smṛtibhyaś ca | nyāyāc ca - na hi sarva-saṃkalpa-saṃnyāse kaścit spanditum api śaktaḥ | tasmāt sarva-saṃkalpa-saṃnyāsīti vacanāt sarvān kāmān sarvāṇi karmāṇi ca tyājayati bhagavān ||BhGS_6.4||
+==============================
+yadaivaṃ yogārūḍhaḥ, tadā tena ātmā udbhṛto bhavati saṃsārād anartha-jātāt | ataḥ -
+uddhared ātmanātmānaṃ nātmānam avasādayet |
+ātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ ||BhG_6.5||
+
+bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ |
+anātmanas tu śatrutve vartetātmaiva śatruvat ||BhG_6.6||
+
+jitātmanaḥ praśāntasya paramātmā samāhitaḥ |
+śītoṣṇa-sukha-duḥkheṣu tathā mānāpamānayoḥ ||BhG_6.7||
+
+jñāna-vijñāna-tṛptātmā kūṭastho vijitendriyaḥ |
+yukta ity ucyate yogī sama-loṣṭāśma-kāñcanaḥ ||BhG_6.8||
+
+suhṛn-mitrāry-udāsīna-madhya-stha-dveṣya-bandhuṣu |
+sādhuṣv api ca pāpeṣu sama-buddhir viśiṣyate ||BhG_6.9||
+
+yogī yuñjīta satatam ātmānaṃ rahasi sthitaḥ |
+ekākī yata-cittātmā nirāśīr aparigrahaḥ ||BhG_6.10||
+
+śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ |
+nātyucchritaṃ nātinīcaṃ cailājina-kuśottaram ||BhG_6.11||
+
+tatraikāgraṃ manaḥ kṛtvā yata-cittendriya-kriyaḥ |
+upaviśyāsane yuñjyād yogam ātma-viśuddhaye ||BhG_6.12||
+
+samaṃ kāya-śiro-grīvaṃ dhārayann acalaṃ sthiraḥ |
+saṃprekṣya nāsikāgraṃ svaṃ diśaś cānavalokayan ||BhG_6.13||
+
+praśāntātmā vigata-bhīr brahmacāri-vrate sthitaḥ |
+manaḥ saṃyamya mac-citto yukta āsīta mat-paraḥ ||BhG_6.14||
+
+yuñjann evaṃ sadātmānaṃ yogī niyata-mānasaḥ |
+śāntiṃ nirvāṇa-paramāṃ mat-saṃsthām adhigacchati ||BhG_6.15||
+
+yujan samādhānāṃ kurvann evaṃ yathoktena vidhānena sadātmanāṃ sarvadā yogī niyata-mānaso niyataṃ saṃyataṃ mānasaṃ mano yasya so 'yaṃ niyata-mānasaḥ, śāntim uparatiṃ nirvāṇa-paramāṃ nirvāṇaṃ mokṣas tat paramā niṣṭhā yasyāḥ śānteḥ sā nirvāṇa-paramā tāṃ nirvāṇa-paramām. mat-saṃsthāṃ mad-adhīnām adhigacchati prāpnoti ||BhGS_6.15||
+
+nātyaśnatas tu yogo 'sti na caikāntam anaśnataḥ |
+naś cātisvapna-śīlasya jāgrato naiva cārjuna ||BhG_6.16||
+
+
+=== Chapter 2 ===
+
+nātyaśnata ātma-saṃmitam anna-parimāṇam atītyāśnato 'tyaśnato na yogo 'sti | na caikāntam anaśnato yogo 'sti | yad u ha vā ātma-saṃmitam annaṃ tad avati tan na hinasti yad bhūyo hinasti tad yat kanīyo 'nnaṃ na tad avati [ŚatapathaB 9.2.1.2] iti śruteḥ | tasmāt yogī na ātma-saṃmitād annād adhikaṃ nyūnaṃ vāśnīyāt | athavā, yogino yoga-śāstre paripaṭhitād anna-parimāṇād atimātram aśnato yogo nāsti | uktaṃ hi -
+ardhaṃ sa-vyañjanānnasya tṛtīyam udakasya ca |
+vāyoḥ saṃcaraṇārthaṃ tu caturtham avaśeṣayet || ity ādi parimāṇam |
+tathā - na cātisvapna-śīlasya yogo bhavati naiva cātimātraṃ jāgrato bhavati cārjuna ||
+yuktāhāra-vihārasya yukta-ceṣṭasya karmasu |
+yukta-svapnāvabodhasya yogo bhavati duḥkhahā ||BhG_6.17||
+
+yadā viniyataṃ cittam ātmany evāvatiṣṭhate |
+niḥspṛhaḥ sarva-kāmebhyo yukta ity ucyate tadā ||BhG_6.18||
+
+yathā dīpo nivāta-stho neṅgate sopamā smṛtā |
+yogino yata-cittasya yuñjato yogam ātmanaḥ ||BhG_6.19||
+
+yathā dīpaḥ pradīpo nivāta-stho nivāte vāta-varjite deśe sthito neṅgate na calati, sopamā upamīyate 'nayety upamā yogajñaiś citta-pracāra-darśibhiḥ smṛtā cintitā yogino yata-cittasya saṃyatāntaḥ-karaṇasya yuñjato yogam anutiṣṭhata ātmanaḥ samādhim anutiṣṭhata ity arthaḥ ||BhGS_6.19||
+
+yatroparamate cittaṃ niruddhaṃ yoga-sevayā |
+yatra caivātmanātmānaṃ paśyann ātmani tuṣyati ||BhG_6.20||
+
+yatra yasmin kāle uparamate cittam uparatiṃ gacchati niruddhaṃ sarvato nivārita-pracāraṃ yoga-sevayā yogānuṣṭhānena, yatra caiva yasmiṃś ca kāla ātmanā samādhi-pariśuddhenāntaḥ-karaṇenātmānaṃ paraṃ caitanyaṃ jyotiḥ-svarūpaṃ paśyann upalabhamānaḥ sva evātmani tuṣyati tuṣṭiṃ bhajate ||BhGS_6.20||
+
+sukham ātyantikaṃ yat tad buddhi-grāhyam atīndriyam |
+vetti yatra na caivāyaṃ sthitaś calati tattvataḥ ||BhG_6.21||
+
+sukham ātyantikam atyantam eva bhavatīty ātyantikam anantam ity arthaḥ, yat tat buddhi-grāhyaṃ buddhyaiva indriya-nirapekṣayā gṛhyate iti buddhi-grāhyam atīndriyam indriya-gocarātītam aviṣaya-janitam ity arthaḥ, vetti tad īdṛśaṃ sukham anubhavati yatra yasmin kāle, na caivāyaṃ vidvān ātma-svarūpe sthitas tasmān naiva calati tattvatas tattva-svarūpān na pracyavata ity arthaḥ ||BhGS_6.21||
+
+yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ |
+yasmin sthito na duḥkhena guruṇāpi vicālyate ||BhG_6.22||
+
+taṃ vidyād duḥkha-saṃyoga-viyogaṃ yoga-saṃjñitam |
+sa niścayena yoktavyo yogo 'nirviṇṇa-cetasā ||BhG_6.23||
+
+saṃkalpa-prabhavān kāmāṃs tyaktvā sarvān aśeṣataḥ |
+manasaivendriya-grāmaṃ viniyamya samantataḥ ||BhG_6.24||
+
+śanaiḥ śanair uparamed buddhyā dhṛti-gṛhītayā |
+ātmasaṃsthaṃ manaḥ kṛtvā na kiṃcid api cintayet ||BhG_6.25||
+
+yato yato niścarati mana cañcalam asthiram |
+tatas tato niyamyaitad ātmany eva vaśaṃ nayet ||BhG_6.26||
+
+praśānta-manasaṃ hy enaṃ yoginaṃ sukham uttamam |
+upaiti śānta-rajasaṃ brahma-bhūtam akalmaṣam ||BhG_6.27||
+
+praśāntamanasaṃ prakarṣeṇa śāntaṃ mano yasya saḥ praśāntamanās taṃ praśāntamanasaṃ hi enaṃ yoginaṃ sukham uttamaṃ nitiśayam upaiti upagacchati śānta-rajasaṃ prakṣīṇa-mohādi-kleśa-rajasam ity arthaḥ, brahma-bhūtaṃ jīvanmuktam brahmaiva sarvam ity evaṃ niścayavantaṃ brahma-bhūtam akalmaṣaṃ dharmādharmādi-varjitam ||BhGS_6.27||
+
+yuñjann evaṃ sadātmānaṃ yogī vigata-kalmaṣaḥ |
+sukhena brahma-saṃsparśam atyantaṃ sukham aśnute ||BhG_6.28||
+
+yuñjann evaṃ yathoktena krameṇa yogī yogāntarāya-varjitaḥ sadā sarvadātmānaṃ vigata-kalmaṣo vigata-pāpaḥ, sukhenānāyāsena brahma-saṃsparśaṃ brahmaṇā pareṇa saṃsparśo yasya tat brahma-saṃsparrśaṃ sukham atyantam antam atītya vartata ity atyantam utkṛṣṭaṃ niratiśayam aśnute vyāpnoti ||BhGS_6.28||
+
+sarva-bhūta-stham ātmānaṃ sarva-bhūtāni cātmani |
+īkṣate yoga-yuktātmā sarvatra sama-darśanaḥ ||BhG_6.29||
+
+sarva-bhūta-sthaṃ sarveṣu bhūteṣu sthitaṃ svam ātmānaṃ sarva-bhūtāni ca ātmani brahmādīni stamba-paryantāni ca sarva-bhūtāni ātmany ekatāṃ gatāni īkṣate paśyati yoga-yuktātmā samāhitāntaḥ-karaṇaḥ sarvatra sama-darśanaḥ sarveṣu brahmādi-sthāvarānteṣu viṣameṣu sarva-bhūteṣu samaṃ nirviśeṣaṃ brahmātmaikatva-viṣayaṃ darśanaṃ jñānaṃ yasya sa sarvatra sama-darśanaḥ ||BhGS_6.29||
+
+yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati |
+tasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati ||BhG_6.30||
+
+sarva-bhūta-sthitaṃ yo māṃ bhajaty ekatvam āsthitaḥ |
+sarvathā vartamāno 'pi sa yogī mayi vartate ||BhG_6.31||
+
+sarvathā sarva-prakāraiḥ vartamāno 'pi samyag-darśī yogī mayi vaiṣṇave parame pade vartate, nityam ukta eva saḥ, na mokṣaṃ prati kenacit pratibadhyate ity arthaḥ ||BhGS_6.31||
+
+ātmaupamyena sarvatra samaṃ paśyati yo 'rjuna |
+sukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||BhG_6.32||
+
+yo 'yaṃ yogas tvayā proktaḥ sāmyena madhusūdana |
+etasyāhaṃ na paśyāmi cañcalatvāt sthitiṃ sthirām ||BhG_6.33||
+
+cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham |
+tasyāhaṃ nigrahaṃ manye vāyor iva suduṣkaram ||BhG_6.34||
+
+asaṃśayaṃ mahābāho mano durṇigrahaṃ calam |
+abhyāsena tu kaunteya vairāgyeṇaś ca gṛhyate ||BhG_6.35||
+
+asaṃyatātmanā yogo duṣprāpeti me matiḥ |
+vaśyātmanā tu yatatā śakyo 'vāptum upāyataḥ ||BhG_6.36||
+
+ayatiḥ śraddhayopeto yogāc calita-mānasaḥ |
+aprāpya yoga-saṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati ||BhG_6.37||
+
+ayatir aprayatnavān yoga-mārge śraddhayāstikya-buddhyā copeto yogād anta-kāle ca calitaṃ mānasaṃ mano yasya sa calita-mānaso bhraṣṭa-smṛtiḥ so 'prāpya yoga-saṃsiddhiṃ yoga-phalaṃ samyag-darśanaṃ kāṃ gatiṃ he kṛṣṇa gacchati ||BhGS_6.37||
+
+kaccin nobhaya-vibhraṣṭaś chinnābhram iva naśyati |
+apratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi ||BhG_6.38||
+
+kaścit kiṃ na ubhaya-vibhraṣṭaḥ karma-mārgāt yoga-mārgāc ca vibhraṣṭaḥ san chinnābhram iva naśyati, kiṃ vā na naśyaty apratiṣṭho nirāśrayo he mahābāho vimūḍhaḥ san brahmaṇaḥ pathi brahma-prāpti-mārge ||BhGS_6.38||
+
+etan me saṃśayaṃ kṛṣṇaś chettum arhasy aśeṣataḥ |
+tvad-anyaḥ saṃśayasyāsya chettā na hy upapadyate ||BhG_6.39||
+
+pārtha naiveha nāmutra vināśas tasya vidyate |
+na hi kalyāṇa-kṛt kaścid durgatiṃ tāta gacchati ||BhG_6.40||
+
+prāpya puṇya-kṛtāṃ lokān uṣitvā śāśvatīḥ samāḥ |
+śucīnāṃ śrīmatāṃ gehe yoga-bhraṣṭo 'bhijāyate ||BhG_6.41||
+
+yoga-mārge pravṛttaḥ saṃnyāsī sāmarthyāt prāpya gatvā puṇya-kṛtām aśvamedhādi-yājināṃ lokān, tatra coṣitvā vāsam anubhūya śāśvatīr nityāḥ samāḥ saṃvatsarān, tad-bhoga-kṣaye śucīnāṃ yathokta-kāriṇāṃ śrīmatāṃ vibhūti-matāṃ gehe gṛhe yoga-bhraṣṭaḥ abhijāyate ||BhGS_6.41||
+
+atha vā yoginām eva kule bhavati dhīmatām |
+etad dhi durlabhataraṃ loke janma yad īdṛśam ||BhG_6.42||
+
+tatra taṃ buddhi-saṃyogaṃ labhate paurvadehikam |
+yatate ca tato bhūyaḥ saṃsiddhau kurunandana ||BhG_6.43||
+
+pūrvābhyāsena tenaiva hriyate hy avaśo 'pi saḥ |
+jijñāsur api yogasya śabda-brahmātivartate ||BhG_6.44||
+
+prayatnād yatamānas tu yogī saṃśuddha-kilbiṣaḥ |
+aneka-janma-saṃsiddhas tato yāti parāṃ gatim ||BhG_6.45||
+
+tapasvibhyo 'dhiko yogī jñānibhyo 'pi mato 'dhikaḥ |
+karmibhyaś cādhiko yogī tasmād yogī bhavārjuna ||BhG_6.46||
+
+yoginām api sarveṣāṃ mad-gatenāntarātmanā |
+śraddhāvān bhajate yo māṃ sa me yuktatamo mataḥ ||BhG_6.47||
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛta śrīmad-bhagavad-gītā-bhāṣye
+ṣaṣṭo 'dhyāyaḥ ||6||
+
+
+=== Chapter 3 ===
+
+BhG 7
+atha jñāna-vijñāna-yogākhyaḥ saptamo 'dhyāyaḥ
+(śaṅkara-bhāṣyaḥ)
+mayy āsaktamanāḥ pārtha yogaṃ yuñjan madāśrayaḥ |
+asaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tac chṛṇu ||BhG_7.1||
+
+jñānaṃ te 'haṃ sa-vijñānam idaṃ vakṣyāmy aśeṣataḥ |
+yaj jñātvā neha bhūyo 'nyaj jñātavyam avaśiṣyate ||BhG_7.2||
+
+manuṣyāṇāṃ sahasreṣu kaś cid yatati siddhaye |
+yatatām api siddhānāṃ kaś cin māṃ vetti tattvataḥ ||BhG_7.3||
+
+bhūmir āpo 'nalo vāyuḥ khaṃ mano buddhir eva ca |
+ahaṃkāra itīyaṃ me bhinnā prakṛtir aṣṭadhā ||BhG_7.4||
+
+apareyam itas tv anyāṃ prakṛtiṃ viddhi me parām |
+jīva-bhūtāṃ mahābāho yayedaṃ dhāryate jagat ||BhG_7.5||
+
+etad-yonīni bhūtāni sarvāṇīty upadhāraya |
+ahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayas tathā ||BhG_7.6||
+
+mattaḥ parataraṃ nānyat kiṃcid asti dhanaṃjaya |
+mayi sarvam idaṃ protaṃ sūtre maṇigaṇā iva ||BhG_7.7||
+
+raso 'ham apsu kaunteya prabhāsmi śaśi-sūryayoḥ |
+praṇavaḥ sarva-vedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||BhG_7.8||
+
+gandhaḥ pṛthivyāṃ ca tejaś cāsmi vibhāvasau |
+jīvanaṃ sarva-bhūteṣu tapaś cāsmi tapasviṣu ||BhG_7.9||
+
+bījaṃ māṃ sarva-bhūtānāṃ viddhi pārtha sanātanam |
+buddhir buddhimatām asmi tejas tejasvinām aham ||BhG_7.10||
+
+balaṃ balavatāṃ cāhaṃ kāma-rāga-vivarjitam |
+dharmāviruddho bhūteṣu kāmo 'smi bharatarṣabha ||BhG_7.11||
+
+ye caiva sāttvikā bhāvā rājasās tāmasāś ca ye |
+matta eveti tān viddhi na tv ahaṃ teṣu te mayi ||BhG_7.12||
+
+tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṃ jagat |
+mohitaṃ nābhijānāti mām ebhyaḥ param avyayam ||BhG_7.13||
+
+daivī hy eṣā guṇa-mayī mama māyā duratyayā |
+mām eva ye prapadyante māyām etāṃ taranti te ||BhG_7.14||
+
+na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ |
+māyayāpahṛta-jñānā āsuraṃ bhāvam āśritāḥ ||BhG_7.15||
+
+catur-vidhā bhajante māṃ janāḥ sukṛtino 'rjuna |
+ārto jijñāsur arthārthī jñānī ca bharatarṣabha ||BhG_7.16||
+
+teṣāṃ jñānī nitya-yukta eka-bhaktir viśiṣyate |
+priyo hi jñānino 'tyartham ahaṃ sa ca mama priyaḥ ||BhG_7.17||
+
+udārāḥ sarva evaite jñānī tv ātmaiva me matam |
+āsthitaḥ sa hi yuktātmā mām evānuttamāṃ gatim ||BhG_7.18||
+
+bahūnāṃ janmanām ante jñānavān māṃ prapadyate |
+vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ ||BhG_7.19||
+
+kāmais tais tair hṛta-jñānāḥ prapadyante 'nya-devatāḥ |
+taṃ taṃ niyamam āsthāya prakṛtyā niyatāḥ svayā ||BhG_7.20||
+
+yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitum icchati |
+tasya tasyācalāṃ śraddhāṃ tām eva vidadhāmy aham ||BhG_7.21||
+
+yo yaḥ kāmī yāṃ yāṃ devatā-tanuṃ śraddhayā saṃyukto bhaktaś ca sann arcituṃ pūjayitum icchati, tasya tasya kāmino 'calāṃ sthirāṃ śraddhāṃ tām eva vidadhāmi sthirīkaromi ||BhGS_7.21||
+
+sa tayā śraddhayā yuktas tasyā rādhanam īhate |
+labhate ca tataḥ kāmān mayaiva vihitān hi tān ||BhG_7.22||
+
+antavat tu phalaṃ teṣāṃ tad bhavaty alpa-medhasām |
+devān deva-yajo yānti mad-bhaktā yānti mām api ||BhG_7.23||
+
+kiṃ-nimittaṃ mām eva na prapadyanta ity ucyate -
+avyaktaṃ vyaktim āpannaṃ manyante mām abuddhayaḥ |
+paraṃ bhāvam ajānanto mamāvyayam anuttamam ||BhG_7.24||
+
+avyaktam aprakāśaṃ vyaktim āpannaṃ prakāśaṃ gatam idānīṃ manyante māṃ nitya-prasiddham īśvaram api santam abuddhayo 'vivekinaḥ paraṃ bhāvaṃ param ātma-svarūpam ajānanto 'vivekinaḥ mamāvyayaṃ vyaya-rahitam anuttamaṃ niratiśayaṃ madīyaṃ bhāvam ajānanto manyanta ity arthaḥ ||BhGS_7.24||
+
+nāhaṃ prakāśaḥ sarvasya yoga-māyā-samāvṛtaḥ |
+mūḍho 'yaṃ nābhijānāti loko mām ajam avyayam ||BhG_7.25||
+
+vedāhaṃ samatītāni vartamānāni cārjuna |
+bhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana ||BhG_7.26||
+
+icchā-dveṣa-samutthena dvandva-mohena bhārata |
+sarva-bhūtāni saṃmohaṃ sarge yānti parantapa ||BhG_7.27||
+
+yeṣāṃ tv anta-gataṃ pāpaṃ janānāṃ puṇya-karmaṇām |
+te dvandva-moha-nirmuktā bhajante māṃ dṛḍha-vratāḥ ||BhG_7.28||
+
+jarā-maraṇa-mokṣāya mām āśritya yatanti ye |
+te brahma tad viduḥ kṛtsnam adhyātmaṃ karma cākhilam ||BhG_7.29||
+
+sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ |
+prayāṇa-kāle 'pi ca māṃ te vidur yukta-cetasaḥ ||BhG_7.30||
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye
+saptamo 'dhyāyaḥ ||
+
+
+=== Chapter 8 ===
+
+BhG 8
+atha brahmākṣara-nirdeśo nāma
+aṣṭamo 'dhyāyaḥ
+(śrīmac-chaṅkarācārya-bhagavat-pāda-viracita-bhāṣyaḥ)
+kiṃ tad brahma kim adhyātmaṃ kiṃ karma puruṣottama |
+adhibhūtaṃ ca kiṃ proktam adhidaivaṃ kim ucyate ||BhG_8.1||
+
+adhiyajñaḥ kathaṃ ko 'tra dehe 'smin madhusūdana |
+prayāṇa-kāle ca kathaṃ jñeyo 'si niyatātmabhiḥ ||BhG_8.2||
+
+akṣaraṃ brahma paramaṃ svabhāvo 'dhyātmam ucyate |
+bhūtabhāvodbhava-karo visargaḥ karma-saṃjñitaḥ ||BhG_8.3||
+
+adhibhūtaṃ kṣaro bhāvaḥ puruṣaś cādhidaivatam |
+adhiyajño 'ham evātra dehe deha-bhṛtāṃ vara ||BhG_8.4||
+
+
+=== Chapter 7 ===
+
+adhibhūtaṃ prāṇi-jātam adhikṛtya bhavatīti | ko 'sau ? kṣaraḥ kṣaratīti kṣaro vināśī, bhāvo yat kiṃcit janimat vastv ity arthaḥ | puruṣaḥ pūrṇam anena sarvam iti, puri śayanāt vā, puruṣaḥ ādityāntargato hiraṇyagarbhaḥ, sarva-prāṇi-karaṇānām anugrāhakaḥ, so 'dhidaivatam | adhiyajñaḥ sarva-yajñābhimāninī viṣṇv-ākhyā devatā, yajño vai viṣṇuḥ [TaittS 1.7.4] iti śruteḥ | sa hi viṣṇur aham eva | atrāsmin dehe yo yajñas tasyāham adhiyajñaḥ | yajño hi deha-nirvartyatvena deha-samavāyīti dehādhikaraṇo bhavati, deha-bhṛtāṃ vara ! ||BhGS_8.4||
+==============================
+anta-kāle maraṇa-kāle ca mām eva parameśvaraṃ viṣṇuṃ smaran muktvā parityajya kalevaraṃ śarīraṃ yaḥ prayāti gacchati | sa mad-bhāvaṃ vaiṣṇavaṃ tattvaṃ yāti | nāsti na vidyate 'trāsminn arthe saṃśayaḥ - yāti vā na veti ||
+anta-kāle ca mām eva smaran muktvā kalevaram |
+yaḥ prayāti sa mad-bhāvaṃ yāti nāsty atra saṃśayaḥ ||BhG_8.5||
+
+yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram |
+taṃ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ ||BhG_8.6||
+
+yaṃ yaṃ vāpi yaṃ yaṃ bhāvaṃ devatā-viśeṣaṃ smaran cintayan tyajati parityajaty ante 'nta-kāle prāṇa-viyoga-kāle kalevaraṃ śarīraṃ taṃ tam eva smṛtaṃ bhāvam eva eti nānyaṃ kaunteya, sadā sarvadā tad-bhāva-bhāvitas tasmin bhāvas tad-bhāvaḥ sa bhāvitaḥ smaryamāṇatayābhyasto yena sa tad-bhāva-bhāvitaḥ san ||BhGS_8.6||
+
+tasmāt sarveṣu kāleṣu mām anusmara yudhya ca |
+mayy arpita-mano-buddhir mām evaiṣyasy asaṃśayaḥ ||BhG_8.7||
+
+abhyāsa-yoga-yuktena cetasā nānya-gāminā |
+paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||BhG_8.8||
+
+kaviṃ purāṇam anuśāsitāram
+aṇor aṇīyāṃsam anusmared yaḥ |
+sarvasya dhātāram acintya-rūpam
+āditya-varṇaṃ tamasaḥ parastāt ||BhG_8.9||
+
+kaviṃ krānta-darśinaṃ sarva-jñaṃ purāṇaṃ cirantanam anuśāsitāraṃ sarvasya jagataḥ praśāsitāram aṇoḥ sūkṣmād apy aṇīyāṃsaṃ sūkṣmataram anusmared anucintayed yaḥ kaścit, sarvasya karma-phala-jātasya dhātāraṃ vidhātāraṃ vicitratayā prāṇibhyo vibhaktāram, acintya-rūpaṃ nāsya rūpaṃ niyataṃ vidyamānam api kenacit cintayituṃ śakyata ity acintya-rūpas tam, āditya-varṇam ādityasyeva nitya-caitanya-prakāśo varṇo yasya tam āditya-varṇam, tamasaḥ parastāt, ajñāna-lakṣaṇān mohāndhakārāt paraṃ tam anucintayad yātīti pūrveṇa saṃbandhaḥ ||BhGS_8.9||
+
+prayāṇa-kāle manasācalena
+bhaktyā yukto yoga-balena caiva |
+bhruvor madhye prāṇam āveśya samyak
+sa taṃ paraṃ puruṣam upaiti divyam ||BhG_8.10||
+
+yad akṣaraṃ veda-vido vadanti
+viśanti yad yatayo vīta-rāgāḥ |
+yad icchanto brahmacaryaṃ caranti
+tat te padaṃ saṃgraheṇa pravakṣye ||BhG_8.11||
+
+
+=== Chapter 8 ===
+
+yad akṣaraṃ na kṣaratīty akṣaram avināśi vedavido vedārthajñāḥ vadanti | tad vā etad akṣaraṃ gārgi brāhmaṇā abhivadanti [BAU 3.8.8] iti śruteḥ | sarva-viśeṣa-nivartakatvenābhivadanty asthūlam aṇv ity ādi | kiṃ ca - viśanti praviśanti samyag-darśana-prāptau satyāṃ yad yatayo yatana-śīlāḥ saṃnyāsino vīta-rāgāḥ vīto vigataḥ rāgo yebhyas te vīta-rāgāḥ | yac cākṣaram icchanto jñātum iti vākya-śeṣaḥ brahmacaryaṃ gurau caranti ācaranti, tat te padaṃ tad akṣarākhyaṃ padaṃ padanīyaṃ te tava saṃgraheṇa, saṃgrahaḥ saṃkṣepas tena, saṃkṣepeṇa pravakṣye kathayiṣyāmi ||BhGS_8.11||
+==============================
+
+=== Chapter 2 ===
+
+sa yo ha vai tad bhagavan manuṣyeṣu prāyaṇāntam oṃkāram abhidhyāyīta | katamaṃ vāva sa tena lokaṃ jayatīti | tasmai sa hovāca - etad vai satya-kāma paraṃ cāparaṃ ca brahma yad oṃkāraḥ [PraśnaU 5.1-2] ity upakramya, yaḥ punar etaṃ trimātreṇa om ity etenaivākṣareṇa paraṃ puruṣam abhidhyāyīta sa sāmabhir unnīyate brahma-lokam [PraśnaU 5.5] ity ādinā vacanena, anyatra dharmād anyatrādharmād [KaṭhU 1.2.14] iti copakramya
+sarve vedā yat padam āmananti
+tapāṃsi sarvāṇi ca yad vadanti |
+yad icchanto brahmacaryaṃ caranti
+tat te padaṃ saṃgraheṇa bravīmy om ity etad [KaṭhU 1.2.15]
+ity ādibhiś ca vacanaiḥ parasya brahmaṇo vācaka-rūpeṇa, pratimāvat pratīka-rūpeṇa vā, para-brahma-pratipatti-sādhanatvena manda-madhyama-buddhīnāṃ vivakṣitasya oṃkārasyopāsanaṃ kālāntare mukti-phalam uktaṃ yat, tad evehāpi kaviṃ purāṇam anuśāsitāram [Gītā 8.9] yad akṣaraṃ veda-vido vadanti [Gītā 8.11] iti copanyastasya parasya brahmaṇaḥ pūrvokta-rūpeṇa pratipatty-upāya-bhūtasya oṃkārasya kālāntara-mukti-phalam upāsanaṃ yogadhāraṇā-sahitaṃ vaktavyam | prasaktānuprasaktaṃ ca yat kiṃcid ity evam artha uttare grantha ārabhyate -
+sarva-dvārāṇi saṃyamya mano hṛdi nirudhya ca |
+mūrdhny ādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām ||BhG_8.12||
+
+sarva-dvārāṇi sarvāṇi ca tāni dvārāṇi ca sarva-dvārāṇy upalabdhau, tāni sarvāṇi saṃyasya saṃyamanaṃ kṛtvā mano hṛdi hṛdaya-puṇḍārīke nirūdhya nirodhaṃ kṛtvā niṣpracāram āpādya, tatra vaśīkṛtena manasā hṛdayād ūrdhva-gāminyā nāḍyordhvam ārūhya mūrdhny ādhāya ātmanaḥ prāṇam āsthitaḥ pṛvṛtto yoga-dhāraṇāṃ dhārayitum ||BhGS_8.12||
+
+om ity ekākṣaraṃ brahma vyāharan mām anusmaran |
+yaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim ||BhG_8.13||
+
+om iti ekākṣaraṃ brahma brahmaṇo 'bhidhāna-bhūtam oṃkāraṃ vyāharan ucārayan, tad-artha-bhūtaṃ mām īśvaram anusmaran anucintayan yaḥ prayāti mriyate, sa tyajan parityajan dehaṃ śarīram - tyajan deham iti prayāṇa-viśeṣaṇārtham deha-tyāgena prayāṇam ātmanaḥ, na svarūpa-nāśenety arthaḥ - sa evaṃ yāti gacchati paramāṃ prakṛṣṭāṃ gatim ||BhGS_8.13||
+
+ananya-cetāḥ satataṃ yo māṃ smarati nityaśaḥ |
+tasyāhaṃ sulabhaḥ pārtha nitya-yuktasya yoginaḥ ||BhG_8.14||
+
+mām upetya punar-janma duḥkhālayam aśāśvatam |
+nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||BhG_8.15||
+
+ā brahma-bhuvanāl lokāḥ punar-āvartino 'rjuna |
+mām upetya tu kaunteya punar-janma na vidyate ||BhG_8.16||
+
+sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ |
+rātriṃ yuga-sahasrāntāṃ te 'ho-rātra-vido janāḥ ||BhG_8.17||
+
+avyaktād vyaktayaḥ sarvāḥ prabhavanty ahar-āgame |
+rātry-āgame pralīyante tatraivāvyakta-saṃjñake ||BhG_8.18||
+
+bhūta-grāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate |
+rātry-āgame 'vaśaḥ pārtha prabhavaty ahar-āgame ||BhG_8.19||
+
+paras tasmāt tu bhāvo 'nyo 'vyakto 'vyaktāt sanātanaḥ |
+yaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati ||BhG_8.20||
+
+avyakto 'kṣara ity uktas tam āhuḥ paramāṃ gatim |
+yaṃ prāpya na nivartante tad dhāma paramaṃ mama ||BhG_8.21||
+
+puruṣaḥ sa paraḥ pārtha bhaktyā labhyas tv ananyayā |
+yasyāntaḥ-sthāni bhūtāni yena sarvam idaṃ tatam ||BhG_8.22||
+
+yatra kāle tv anāvṛttim āvṛttiṃ caiva yoginaḥ |
+prayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||BhG_8.23||
+
+agnir jyotir ahaḥ śuklaḥ ṣaṇ-māsā uttarāyaṇam |
+tatra prayātā gacchanti brahma brahma-vido janāḥ ||BhG_8.24||
+
+
+=== Chapter 3 ===
+
+agniḥ kālābhimāninī devatā | tathā jyotir api devataiva kālābhimāninī | athavā, agni-jyotiṣī yathā śrute eva devate | bhūyasā tu nirdeśo yatra kāle taṃ kālam iti āmra-vanavat | tathāhar devatāhar-abhimāninī | śuklaḥ śukla-pakṣa-devatā | ṣaṇ-māsā uttarāyaṇam, tatrāpi devataiva mārga-bhūtā [BAU 4.3.4] iti sthito 'nyatrāyaṃ nyāyaḥ | tatra tasmin mārge prayātā mṛtā gacchanti brahma brahma-vido brahmopāsakā brahmopāsana-parā janāḥ | krameṇeti vākya-śeṣaḥ | na hi sadyo-mukti-bhājāṃ samyag darśana-niṣṭhānāṃ gatir āgatir vā kvacid asti | na tasya prāṇā utkrāmanti [BAU 4.4.6] iti śruteḥ | brahmasaṃlīnaprāṇaiva te brahmamayā brahma-bhūtaiva te |
+==============================
+dhūmo rātrir dhūmābhimāninī rātry-abhimāninī ca devatā | tathā kṛṣṇaḥ kṛṣṇa-pakṣa-devatā | ṣaṇ-māsā dakṣiṇāyanam iti ca pūrvavat devataiva | tatra candramasi bhavaṃ cāndramasaṃ jyotiḥ phalam iṣṭādi-kārī yogī karmī prāpya bhuktvā tat-kṣayād iha punar nivartate ||BhGS_8.25||
+dhūmo rātris tathā kṛṣṇaḥ ṣaṇ-māsā dakṣiṇāyanam |
+tatra cāndramasaṃ jyotir yogī prāpya nivartate ||BhG_8.25||
+
+śukla-kṛṣṇe gatī hy ete jagataḥ śāśvate mate |
+ekayā yāty anāvṛttim anyayāvartate punaḥ ||BhG_8.26||
+
+naite sṛtī pārtha jānan yogī muhyati kaścana |
+tasmāt sarveṣu kāleṣu yoga-yukto bhavārjuna ||BhG_8.27||
+
+vedeṣu yajñeṣu tapaḥsu caiva
+dāneṣu yat puṇya-phalaṃ pradiṣṭam |
+atyeti tat sarvam idaṃ viditvā
+yogī paraṃ sthānam upaiti cādyam ||BhG_8.28||
+
+
+=== Chapter 25 ===
+
+BhG 9
+atha rāja-vidyā-rāja-guhya-yogo nāma
+navamo 'dhyāyaḥ
+(śāṅkara-bhāṣyaḥ)
+idaṃ tu te guhyatamaṃ pravakṣyāmy anasūyave |
+jñānaṃ vijñāna-sahitaṃ yaj jñātvā mokṣyase 'śubhāt ||BhG_9.1||
+
+rāja-vidyā rāja-guhyaṃ pavitram idam uttamam |
+pratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartum avyayam ||BhG_9.2||
+
+aśraddadhānāḥ puruṣā dharmasyāsya paraṃtapa |
+aprāpya māṃ nivartante mṛtyu-saṃsāra-vartmani ||BhG_9.3||
+
+mayā tatam idaṃ sarvaṃ jagad avyakta-mūrtinā |
+mat-sthāni sarva-bhūtāni na cāhaṃ teṣv avasthitaḥ ||BhG_9.4||
+
+na ca mat-sthāni bhūtāni paśya me yogam aiśvaram |
+bhūta-bhṛn na ca bhūta-stho mamātmā bhūta-bhāvanaḥ ||BhG_9.5||
+
+
+=== Chapter 9 ===
+
+na ca mat-sthāni bhūtāni brahmādīni | paśya me yogaṃ yuktiṃ ghaṭānaṃ me mama aiśvaram īśvarasyemam aiśvaram, yogam ātmano yāthātmyam ity arthaḥ | tathā ca śrutir asaṃsargitvād asaṅgatāṃ darśayati - asaṅgo na hi sajjate [BAU 3.9.26] iti | idaṃ cāścaryam anyat paśya - bhūta-bhṛd asaṅgo 'pi san bhūtāni bibharti | na ca bhūta-sthaḥ | yathoktena nyāyena darśitatvāt bhūta-sthatvānupapatteḥ | kathaṃ punar ucyate 'sau mamātmeti ? vibhajya dehādi-saṅghātaṃ tasminn ahaṃkāram adhyāropya loka-buddhim anusaran vyapadiśati mamātmeti, na punar ātmana ātmānya iti lokavad ajānan | tathā bhūta-bhāvano bhūtāni bhāvayaty utpādayati vardhayatīti vā bhūta-bhāvanaḥ ||BhGS_9.5||
+==============================
+yathoktena śloka-dvayenoktam arthaṃ dṛṣṭantenopapādayann āha -
+yathākāśa-sthito nityaṃ vāyuḥ sarvatra-go mahān |
+tathā sarvāṇi bhūtāni mat-sthānīty upadhāraya ||BhG_9.6||
+
+yathā loke ākāśa-sthita ākāśe sthito nityaṃ sadā vāyuḥ sarvatra gacchatīti sarvatra-go mahān parimāṇataḥ, tathā ākāśavat sarva-gate mayy asaṃśleṣeṇaiva sthitānīty evam upadhāraya vijānīhi ||BhGS_9.6||
+
+sarva-bhūtāni kaunteya prakṛtiṃ yānti māmikām |
+kalpa-kṣaye punas tāni kalpādau visṛjāmy aham ||BhG_9.7||
+
+prakṛtiṃ svām avaṣṭabhya visṛjāmi punaḥ punaḥ |
+bhūta-grāmam imaṃ kṛtsnam avaśaṃ prakṛter vaśāt ||BhG_9.8||
+
+na ca māṃ tāni karmāṇi nibadhnanti dhanaṃjaya |
+udāsīnavad āsīnam asaktaṃ teṣu karmasu ||BhG_9.9||
+
+mayādhyakṣeṇa prakṛtiḥ sūyate sa-carācaram |
+hetunānena kaunteya jagad viparivartate ||BhG_9.10||
+
+
+=== Chapter 7 ===
+
+hetunā nimittenānenādhyakṣatvena kaunteya jagat sa-carācaraṃ vyaktāvyaktātmakaṃ viparivartate sarvāvasthāsu | dṛśi-karmatvāpatti-nimittā hi jagataḥ sarvā pravṛttiḥ - aham idaṃ bhokṣye, paśyāmīdam, śṛṇomīdam, sukham anubhavāmi, duḥkham anubhavāmi, tad-artham idaṃ kariṣye, idaṃ jñāsyāmi, ity ādyāvagati-niṣṭhāvagaty-avasānaiva | yo asyādhyakṣaḥ parame vyoman [Ṛk 8.7.17.7, TaittB 2.8.9] ity ādayaś ca mantrā etam arthaṃ darśayanti | tataś caikasya devasya sarvādhyakṣa-bhūta-caitanya-mātrasya paramārthataḥ sarva-bhogānabhisaṃbandhino 'nyasya cetanāntarasyābhāve bhoktur anyasyābhāvāt | kiṃ-nimitteyaṃ sṛṣṭir ity atra praśna-prativacane 'nupapanne, ko addhā veda ka iha pravocat | kuta ājātā kuta iyaṃ visṛṣṭiḥ [Ṛk 8.7.17.8] ity ādi-mantra-varṇebhyaḥ | darśitaṃ ca bhagavatā -
+ ajñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ [Gītā 5.15] iti ||BhGS_9.10||
+==============================
+evaṃ māṃ nitya-śuddha-buddham ukta-svabhāvaṃ sarvajñaṃ sarva-jantūnām ātmānam api santam -
+avajānanti māṃ mūḍhā mānuṣīṃ tanum āśritam |
+paraṃ bhāvam ajānanto mama bhūta-maheśvaram ||BhG_9.11||
+
+moghāśā mogha-karmāṇo mogha-jñānā vicetasaḥ |
+rākṣasīm āsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ ||BhG_9.12||
+
+mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ |
+bhajanty ananya-manaso jñātvā bhūtādim avyayam ||BhG_9.13||
+
+mahātamānas tv akṣudra-cittāḥ mām īśvaraṃ pārtha daivīṃ devānāṃ prakṛtiṃ śama-dama-dayā-śraddhādi-lakṣaṇām āśritāḥ santo bhajanti sevante 'nanya-manaso 'nanya-cittā jñātvā bhūtādiṃ bhūtānāṃ viyad-ādīnāṃ prāṇināṃ cādiṃ kāraṇam avyayam ||BhGS_9.13||
+
+satataṃ kīrtayanto māṃ yatantaś ca dṛḍha-vratāḥ |
+namasyantaś ca māṃ bhaktyā nitya-yuktā upāsate ||BhG_9.14||
+
+satataṃ sarvadā bhagavantaṃ brahma-svarūpaṃ māṃ kīrtayantaḥ, yatantaś ca indriyopasaṃhāra-śama-dama-dayāhiṃsādi-lakṣaṇair dharmaiḥ prayatantaś ca, dṛḍha-vratā dṛḍhaṃ sthiram acālyaṃ vrataṃ yeṣāṃ te dṛḍha-vratā namasyantaś ca māṃ hṛdayeśayam ātmānaṃ bhaktyā nitya-yuktāḥ santa upāsate sevante ||BhGS_9.14||
+
+jñāna-yajñena cāpy anye yajanto mām upāsate |
+ekatvena pṛthaktvena bahudhā viśvato-mukham ||BhG_9.15||
+
+ahaṃ kratur ahaṃ yajñaḥ svadhāham aham auṣadham |
+mantro 'ham aham evājyam aham agnir ahaṃ hutam ||BhG_9.16||
+
+pitāham asya jagato mātā dhātā pitāmahaḥ |
+vedyaṃ pavitram oṃkāra ṛk sāma yajur eva ca ||BhG_9.17||
+
+pitā janayitāham asya jagataḥ, mātā janayitrī, dhātā karma-phalasya prāṇibhyo vidhātā, pitāmahaḥ pituḥ pitā, vedyaṃ veditavyam, pavitraṃ pāvanam oṃkāraḥ, ṛk sāma yajue eva ca ||BhGS_9.17||
+
+gatir bhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt |
+prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījam avyayam ||BhG_9.18||
+
+tapāmy aham ahaṃ varṣaṃ nigṛhṇāmy utsṛjāmi ca |
+amṛtaṃ caiva mṛtyuś ca sad asac cāham arjuna ||BhG_9.19||
+
+traividyā māṃ somapāḥ pūta-pāpā
+yajñair iṣṭvā svar-gatiṃ prārthayante |
+te puṇyam āsādya surendra-lokam
+aśnanti divyān divi deva-bhogān ||BhG_9.20||
+
+te taṃ bhuktvā svarga-lokaṃ viśālaṃ
+kṣīṇe puṇye martya-lokaṃ viśanti |
+evaṃ trayī-dharmam anuprapannā
+gatāgataṃ kāma-kāmā labhante ||BhG_9.21||
+
+ananyāś cintayanto māṃ ye janāḥ paryupāsate |
+teṣāṃ nityābhiyuktānāṃ yoga-kṣemaṃ vahāmy aham ||BhG_9.22||
+
+ananyā apṛthag-bhūtāḥ paraṃ devaṃ nārāyaṇam ātmatvena gatāḥ santaś cintayanto māṃ ye janāḥ saṃnyāsinaḥ paryupāsate, teṣāṃ paramārtha-darśināṃ nityābhiyuktānāṃ satatābhiyogināṃ yoga-kṣemaṃ yogo 'prāptasya prāpaṇaṃ kṣemas tad-rakṣaṇaṃ tad-ubhayaṃ vahāmi prāpayāmy aham | jñānī tv ātmaiva me matam [Gītā 7.18] sa ca mama priyaḥ [Gītā 7.17] yasmād tasmāt te mamātma-bhūtāḥ priyāś ceti |
+
+ye 'py anya-devatā-bhaktā yajante śraddhayānvitāḥ |
+te 'pi mām eva kaunteya yajanty avidhi-pūrvakam ||BhG_9.23||
+
+ye 'py anya-devatā-bhaktā anyāsu devatāsu bhaktā anya-devatā-bhaktāḥ santo yajante pūjayanti śraddhayā āstikya-buddhyānvitā anugatāḥ, te 'pi mām eva kaunteya yajanty avidhi-pūrvakam avidhir ajñānaṃ tat-pūrvakaṃ yajanta ity arthaḥ ||BhGS_9.23||
+
+ahaṃ hi sarva-yajñānāṃ bhoktā ca prabhur eva ca |
+na tu mām abhijānanti tattvenātaś cyavanti te ||BhG_9.24||
+
+yānti deva-vratā devān pitṝn yānti pitṛ-vratāḥ |
+bhūtāni yānti bhūtejyā yānti mad-yājino 'pi mām ||BhG_9.25||
+
+patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati |
+tad ahaṃ bhakty-upahṛtam aśnāmi prayatātmanaḥ ||BhG_9.26||
+
+patraṃ puṣpaṃ phalaṃ toyam udakaṃ yaḥ me mahyaṃ bhaktyā prayacchati, tat ahaṃ patrādi bhaktyā upahṛtaṃ bhakti-pūrvakaṃ prāpitaṃ bhakty-upahṛtam aśnāmi gṛhṇāmi prayatātmanaḥ śuddha-buddheḥ ||BhGS_9.26||
+
+yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat |
+yat tapasyasi kaunteya tat kuruṣva mad-arpaṇam ||BhG_9.27||
+
+yat karoṣi svataḥ prāptam, yad aśnāsi, yac ca juhoṣi havanaṃ nirvartayasi śrautaṃ smārtaṃ vā, yad dadāsi prayacchasi brāhmaṇādibhyo hiraṇyānnājyādi, yat tapasyasi tapaś carasi kaunteya, tat kuruṣva mad-arpaṇaṃ mat-samarpaṇam ||BhGS_9.27||
+
+śubhāśubha-phalair evaṃ mokṣyase karma-bandhanaiḥ |
+saṃnyāsa-yoga-yuktātmā vimukto mām upaiṣyasi ||BhG_9.28||
+
+samo 'haṃ sarva-bhūteṣu na me dveṣyo 'sti na priyaḥ |
+ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham ||BhG_9.29||
+
+api cet sudurācāro bhajate mām ananya-bhāk |
+sādhur eva sa mantavyaḥ samyag vyavasito hi saḥ ||BhG_9.30||
+
+kṣipraṃ bhavati dharmātmā śaśvac-chāntiṃ nigacchati |
+kaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||BhG_9.31||
+
+māṃ hi pārtha vyapāśritya ye 'pi syuḥ pāpa-yonayaḥ |
+striyo vaiśyās tathā śūdrās te 'pi yānti parāṃ gatim ||BhG_9.32||
+
+kiṃ punar brāhmaṇāḥ puṇyā bhaktā rājarṣayas tathā |
+anityam asukhaṃ lokam imaṃ prāpya bhajasva mām ||BhG_9.33||
+
+man-manā bhava mad-bhakto mad-yājī māṃ namaskuru |
+mām evaiṣyasi yuktvaivam ātmānaṃ mat-parāyaṇaḥ ||BhG_9.34||
+
+
+=== Chapter 4 ===
+
+BhG 10
+atha vibhūti-yogo nāma daśamo 'dhyāyaḥ
+(bhagavat-pāda-śrīmac-chaṅkarācārya-kṛta-bhāṣyam)
+bhūya eva mahā-bāho śṛṇu me paramaṃ vacaḥ |
+yat te 'haṃ prīyamāṇāya vakṣyāmi hita-kāmyayā ||BhG_10.1||
+
+bhūya eva bhūyaḥ punar he mahābāho sṛṇu me madīyaṃ paramaṃ prakṛṣṭaṃ niratiśaya-vastunaḥ prakāśakaṃ vaco vākyaṃ yat paramaṃ te tubhyaṃ prīyamāṇāya - mad-vacanāt prīyase tvam atīvāmṛtam iva piban, tataḥ - vakṣyāmi hita-kāmyayā hitecchayā ||BhGS_10.1||
+
+na me viduḥ suragaṇāḥ prabhavaṃ na maharṣayaḥ |
+aham ādir hi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||BhG_10.2||
+
+yo mām ajam anādiṃ ca vetti loka-maheśvaram |
+asaṃmūḍhaḥ sa martyeṣu sarva-pāpaiḥ pramucyate ||BhG_10.3||
+
+buddhir jñānam asaṃmohaḥ kṣamā satyaṃ damaḥ śamaḥ |
+sukhaṃ duḥkhaṃ bhavo 'bhāvo bhayaṃ cābhayam eva ca ||BhG_10.4||
+
+ahiṃsā samatā tuṣṭis tapo dānaṃ yaśo 'yaśaḥ |
+bhavanti bhāvā bhūtānāṃ matta eva pṛthag-vidhāḥ ||BhG_10.5||
+
+maharṣayaḥ sapta pūrve catvāro manavas tathā |
+mad-bhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||BhG_10.6||
+
+etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ |
+so 'vikampena yogena yujyate nātra saṃśayaḥ ||BhG_10.7||
+
+ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate |
+iti matvā bhajante māṃ budhā bhāva-samanvitāḥ ||BhG_10.8||
+
+mac-cittā mad-gata-prāṇā bodhayantaḥ parasparam |
+kathayantaś ca māṃ nityaṃ tuṣyanti ca ramanti ca ||BhG_10.9||
+
+teṣāṃ satata-yuktānāṃ bhajatāṃ prīti-pūrvakam |
+dadāmi buddhi-yogaṃ taṃ yena mām upayānti te ||BhG_10.10||
+
+teṣām evānukampārtham aham ajñāna-jaṃ tamaḥ |
+nāśayāmy ātma-bhāva-stho jñāna-dīpena bhāsvatā ||BhG_10.11||
+
+teṣām eva kathaṃ nu nāma śreyaḥ syāt ity anukampārthaṃ dayā-hetor aham ajñāna-jam avivekato jātaṃ mithyā-pratyaya-lakṣaṇaṃ mohāndhakāraṃ tamo nāśayāmi, ātma-bhāva-stha ātmano bhāvo 'ntaḥ-karaṇāśayas tasminn eva sthitaḥ san jñāna-dīpena viveka-pratyaya-rūpeṇa bhakti-prasāda-snehābhiṣiktena mad-bhāvanābhiniveśa-vāteritena brahmacaryādi-sādhana-saṃskāra-vat-prajñāvartinā viraktāntaḥ-karaṇādhāreṇa viṣaya-vyāvṛtta-citta-rāga-dveṣākaluṣita-nivātāpavaraka-sthena nitya-pravṛttaikāgrya-dhyāna-janita-samyag-darśana-bhāsvatā jñāna-dīpenety arthaḥ ||BhGS_10.11||
+
+paraṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān |
+puruṣaṃ śāśvataṃ divyam ādi-devam ajaṃ vibhum ||BhG_10.12||
+
+āhus tvām ṛṣayaḥ sarve devarṣir nāradas tathā |
+asito devalo vyāsaḥ svayaṃ caiva bravīṣi me ||BhG_10.13||
+
+sarvam etad ṛtaṃ manye yan māṃ vadasi keśava |
+na hi te bhagavan vyaktiṃ vidur devā na dānavāḥ ||BhG_10.14||
+
+svayam evātmanātmānaṃ vettha tvaṃ puruṣottama |
+bhūta-bhāvana bhūteśa deva-deva jagatpate ||BhG_10.15||
+
+vaktum arhasy aśeṣeṇa divyā hy ātma-vibhūtayaḥ |
+yābhir vibhūtibhir lokān imāṃs tvaṃ vyāpya tiṣṭhasi ||BhG_10.16||
+
+kathaṃ vidyām ahaṃ yogiṃs tvāṃ sadā paricintayan |
+keṣu keṣu ca bhāveṣu cintyo 'si bhagavan mayā ||BhG_10.17||
+
+vistareṇātmano yogaṃ vibhūtiṃ ca janārdana |
+bhūyaḥ kathaya tṛptir hi śṛṇvato nāsti me 'mṛtam ||BhG_10.18||
+
+hanta te kathayiṣyāmi divyā hy ātma-vibhūtayaḥ |
+prādhānyataḥ kuru-śreṣṭha nāsty anto vistarasya me ||BhG_10.19||
+
+aham ātmā guḍākeśa sarva-bhūtāśaya-sthitaḥ |
+aham ādiś ca madhyaṃ ca bhūtānām anta eva ca ||BhG_10.20||
+
+ādityānām ahaṃ viṣṇur jyotiṣāṃ ravir aṃśumān |
+marīcir marutām asmi nakṣatrāṇām ahaṃ śaśī ||BhG_10.21||
+
+vedānāṃ sāma-vedo 'smi devānām asmi vāsavaḥ |
+indriyāṇāṃ manaś cāsmi bhūtānām asmi cetanā ||BhG_10.22||
+
+rudrāṇāṃ śaṃkaraś cāsmi vitteśo yakṣa-rakṣasām |
+vasūnāṃ pāvakaścāsmi meruḥ śikhariṇām aham ||BhG_10.23||
+
+purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim |
+senānīnām ahaṃ skandaḥ sarasām asmi sāgaraḥ ||BhG_10.24||
+
+maharṣīṇāṃ bhṛgur ahaṃ girām asmy ekam akṣaram |
+yajñānāṃ japa-yajño 'smi sthāvarāṇāṃ himālayaḥ ||BhG_10.25||
+
+aśvatthaḥ sarva-vṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ |
+gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||BhG_10.26||
+
+uccaiḥśravasam aśvānāṃ viddhi mām amṛtodbhavam |
+airāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam ||BhG_10.27||
+
+āyudhānām ahaṃ vajraṃ dhenūnām asmi kāma-dhuk |
+prajanaś cāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ ||BhG_10.28||
+
+anantaś cāsmi nāgānāṃ varuṇo yādasām aham |
+pitṝṇām aryamā cāsmi yamaḥ saṃyamatām aham ||BhG_10.29||
+
+prahlādaś cāsmi daityānāṃ kālaḥ kalayatām aham |
+mṛgāṇāṃ ca mṛgendro 'haṃ vainateyaś ca pakṣiṇām ||BhG_10.30||
+
+pavanaḥ pavatām asmi rāmaḥ śastra-bhṛtām aham |
+jhaṣāṇāṃ makaraś cāsmi srotasām asmi jāhnavī ||BhG_10.31||
+
+sargāṇām ādir antaś ca madhyaṃ caivāham arjuna |
+adhyātma-vidyā vidyānāṃ vādaḥ pravadatām aham ||BhG_10.32||
+
+akṣarāṇām akāro 'smi dvandvaḥ sāmāsikasya ca |
+aham evākṣayaḥ kālo dhātāhaṃ viśvato-mukhaḥ ||BhG_10.33||
+
+mṛtyuḥ sarva-haraś cāham udbhavaś ca bhaviṣyatām |
+kīrtiḥ śrīr vāk ca nārīṇāṃ smṛtir medhā dhṛtiḥ kṣamā ||BhG_10.34||
+
+bṛhat-sāma tathā sāmnāṃ gāyatrī chandasām aham |
+māsānāṃ mārgaśīrṣo 'ham ṛtūnāṃ kusumākaraḥ ||BhG_10.35||
+
+dyūtaṃ chalayatām asmi tejas tejasvinām aham |
+jayo 'smi vyavasāyo 'smi sattvaṃ sattvavatām aham ||BhG_10.36||
+
+vṛṣṇīnāṃ vāsudevo 'smi pāṇḍavānāṃ dhanaṃjayaḥ |
+munīnām apy ahaṃ vyāsaḥ kavīnām uśanā kaviḥ ||BhG_10.37||
+
+daṇḍo damayatām asmi nītir asmi jigīṣatām |
+maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatām aham ||BhG_10.38||
+
+yac cāpi sarva-bhūtānāṃ bījaṃ tad aham arjuna |
+na tad asti vinā yat syān mayā bhūtaṃ carācaram ||BhG_10.39||
+
+nānto 'sti mama divyānāṃ vibhūtīnāṃ parantapa |
+eṣa tūddeśataḥ prokto vibhūter vistaro mayā ||BhG_10.40||
+
+yad yad vibhūtimat sattvaṃ śrīmad ūrjitam eva vā |
+tat tad evāvagaccha tvaṃ mama tejo 'ṃśa-saṃbhavam ||BhG_10.41||
+
+atha vā bahunaitena kiṃ jñātena tavārjuna |
+viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat ||BhG_10.42||
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrīgovandibhagavatpūjyapāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye
+daśamo 'dhyāyaḥ ||
+
+
+=== Chapter 5 ===
+
+BhG 11
+athaikādaśo 'dhyāyaḥ
+viśva-rūpa-darśana-yogaḥ
+(śrī-śaṅkarācārya-bhagavat-pāda-kṛta-bhāṣyam)
+bhagavato vibhūtaya uktāḥ | tatra ca viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat [Gītā 10.42] iti bhagavatābhihitaṃ śrutvā yat jagad-ātma-rūpam, ādyam aiśvaraṃ tat sākṣāt-kartum icchann arjuna uvāca -
+
+mad-anugrahāya paramaṃ guhyam adhyātma-saṃjñitam |
+yat tvayoktaṃ vacas tena moho 'yaṃ vigato mama ||BhG_11.1||
+
+bhavāpyayau hi bhūtānāṃ śrutau vistaraśo mayā |
+tvattaḥ kamala-patrākṣa māhātmyam api cāvyayam ||BhG_11.2||
+
+evam etad yathāttha tvam ātmānaṃ parameśvara |
+draṣṭum icchāmi te rūpam aiśvaraṃ puruṣottama ||BhG_11.3||
+
+manyase yadi tac chakyaṃ mayā draṣṭum iti prabho |
+yogeśvara tato me tvaṃ darśayātmānam avyayam ||BhG_11.4||
+
+manyase cintayasi yadi mayārjunena tac chakyaṃ draṣṭum iti prabho ! svāmin ! yogeśvara yogino yogās teṣām īśvaro yogeśvaraḥ, he yogeśvara ! yasmād aham atīvārthī draṣṭum, tatas tasmān me mad-arthaṃ tvam ātmānam avyayam ||BhGS_11.4||
+
+paśya me pārtha rūpāṇi śataśo 'tha sahasraśaḥ |
+nānā-vidhāni divyāni nānā-varṇākṛtīni ca ||BhG_11.5||
+
+paśyādityān vasūn rudrān aśvinau marutas tathā |
+bahūny adṛṣṭa-pūrvāṇi paśyāścaryāṇi bhārata ||BhG_11.6||
+
+ihaikasthaṃ jagat kṛtsnaṃ paśyādya sa-carācaram |
+mama dehe guḍākeśa yac cānyad draṣṭum icchasi ||BhG_11.7||
+
+kiṃ tu -
+na tu māṃ śakyase draṣṭum anenaiva sva-cakṣuṣā |
+divyaṃ dadāmi te cakṣuḥ paśya me yogam aiśvaram ||BhG_11.8||
+
+evam uktvā tato rājan mahā-yogeśvaro hariḥ |
+darśayām āsa pārthāya paramaṃ rūpam aiśvaram ||BhG_11.9||
+
+evaṃ yathokta-prakāreṇoktvā tato 'nantaraṃ rājan dhṛtarāṣṭra ! mahā-yogeśvaro mahāṃś cāsau yogeśvaraś mahā-yogeśvaro harir nārāyaṇo darśayāmāsa darśitavān pārthāya pṛthā-sutāya paramaṃ rūpaṃ viśva-rūpam aiśvaram ||BhGS_11.9||
+
+aneka-vaktra-nayanam anekādbhuta-darśanam |
+aneka-divyābharaṇaṃ divyānekodyatāyudham ||BhG_11.10||
+
+divya-mālyāmbara-dharaṃ divya-gandhānulepanam |
+sarvāścarya-mayaṃ devam anantaṃ viśvato-mukham ||BhG_11.11||
+
+divi sūrya-sahasrasya bhaved yugapad utthitā |
+yadi bhāḥ sadṛśī sā syād bhāsas tasya mahātmanaḥ ||BhG_11.12||
+
+kiṃ ca -
+tatraikasthaṃ jagat kṛtsnaṃ pravibhaktam anekadhā |
+apaśyad deva-devasya śarīre pāṇḍavas tadā ||BhG_11.13||
+
+tatra tasmin viśva-rūpa ekasmin sthitam eka-sthaṃ jagat kṛtsnaṃ pravibhaktam anekadhā deva-pitṛ-manuṣyādi-bhedair apaśyad dṛṣṭavān deva-devasya hareḥ śarīre pāṇḍāvo 'rjunas tadā ||BhGS_11.13||
+
+tataḥ sa vismayāviṣṭo hṛṣṭa-romā dhanaṃjayaḥ |
+praṇamya śirasā devaṃ kṛtāñjalir abhāṣata ||BhG_11.14||
+
+paśyāmi devāṃs tava deva dehe
+sarvāṃs tathā bhūta-viśeṣa-saṃghān |
+brahmāṇam īśaṃ kamalāsana-stham
+ṛṣīṃś ca sarvān uragāṃś ca divyān ||BhG_11.15||
+
+aneka-bāhūdara-vaktra-netraṃ
+paśyāmi tvā sarvato 'nanta-rūpam |
+nāntaṃ na madhyaṃ na punas tavādiṃ
+paśyāmi viśveśvara viśva-rūpa ||BhG_11.16||
+
+kirīṭiānaṃ kirīṭāṃ nāma śirobhūṣaṇaviśeṣas tat yasyāsti saḥ kirīṭī taṃ kirīṭiānam, tathā gadinaṃ gadāsya vidyate iti gadī taṃ gadinam, tathā cakriṇaṃ caktram asyāstīti cakrī taṃ cakriṇaṃ ca, tejo-rāśiṃ tejaḥpujaṃ sarvatodīptimantaṃ sarvatodīptir asyāstīti sarvatodīptimān, taṃ sarvatodīptimantaṃ paśyāmi tvāṃ durnirīkṣyaṃ samantāt samantataḥ sarvatra dīptānalārkadyutim analaś cārkaś cānalārkau dīptau analārkau dīptānalārkau tayoḥ dīptānalārkayoḥ dyutiriva dyutis tejo yasya tava sa tvaṃ dīptānalārkadyutis taṃ tvāṃ dīptānalārkadyatim aprameyaṃ na prameyam aśakyaparicchedam ity etat ||BhGS_11.17||
+
+tvam akṣaraṃ paramaṃ veditavyaṃ
+tvam asya viśvasya paraṃ nidhānam |
+tvam avyayaḥ śāśvata-dharma-goptā
+sanātanas tvaṃ puruṣo mato me ||BhG_11.18||
+
+dyāv-āpṛthivyor idam antaraṃ hi
+vyāptaṃ tvayaikena diśaś ca sarvāḥ |
+dṛṣṭvādbhutaṃ rūpam idaṃ tavograṃ
+loka-trayaṃ pravyathitaṃ mahātman ||BhG_11.20||
+
+rudrādityāḥ vasavo ye ca sādhyāḥ rudrādayo gaṇāḥ viśve-devā aśvinau ca devau marutaś ca ūṣmapā ca pitaraḥ, gandharvayakṣāsurasiddhasaṃghāḥ gandharṣaḥ hāhāhūhūprabhṛtayo yakṣāḥ kuberaprabhṛtayo 'surāḥ virocanaprabhṛtayaḥ siddhāḥ kapilādayas teṣāṃ saṃghāḥ gandharvayakṣāsurasiddhasaṃghāḥ, te vīkṣante paśyanti tvāṃ vismitāḥ vismayamāpannāḥ santas te eva sarve ||BhGS_11.22||
+
+amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ
+sarve sahaivāvanipāla-saṃghaiḥ |
+bhīṣmo droṇaḥ sūta-putras tathāsau
+sahāsmadīyair api yodha-mukhyaiḥ ||BhG_11.26||
+
+amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ duryodhana-prabhṛtayaḥ - tvaramāṇāḥ viśantīti vyavahitena saṃbandhaḥ - sarve sahaiva sahitāḥ avani-pāla-saṃghair avaniṃ pṛthvīṃ pālayantīty avani-pālās teṣāṃ saṃghaiḥ, kiṃ ca bhīṣmo droṇaḥ sūta-putraḥ karṇas tathāsau sahāsmadīyair api dhṛṣṭadyumna-prabhṛtibhir yodha-mukhyair yodhānāṃ mukhyaiḥ pradhānaiḥ saha ||BhGS_11.26||
+
+yathā nadīnāṃ bahavo 'mbu-vegāḥ
+samudram evābhimukhā dravanti |
+tathā tavāmī nara-loka-vīrā
+viśanti vaktrāṇy abhivijvalanti ||BhG_11.28||
+
+yathā pradīptaṃ jvalanaṃ pataṅgā
+viśanti nāśāya samṛddha-vegāḥ |
+tathaiva nāśāya viśanti lokās
+tavāpi vaktrāṇi samṛddha-vegāḥ ||BhG_11.29||
+
+lelihyase grasamānaḥ samantāl
+lokān samagrān vadanair jvaladbhiḥ |
+tejobhir āpūrya jagat samagraṃ
+bhāsas tavogrāḥ pratapanti viṣṇo ||BhG_11.30||
+
+ākhyāhi me ko bhavān ugra-rūpo
+namo 'stu te deva-vara prasīda |
+vijñātum icchāmi bhavantam ādyaṃ
+na hi prajānāmi tava pravṛttim ||BhG_11.31||
+
+droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca
+karṇaṃ tathānyān api yodha-vīrān |
+mayā hatāṃs tvaṃ jahi mā vyathiṣṭhā
+yudhyasva jetāsi raṇe sapatnān ||BhG_11.34||
+
+etac chrutvā vacanaṃ keśavasya
+kṛtāñjalir vepamānaḥ kirīṭī |
+namaskṛtvā bhūya evāha kṛṣṇaṃ
+sa-gadgadaṃ bhīta-bhītaḥ praṇamya ||BhG_11.35||
+
+kasmāc ca te na nameran mahātman
+garīyase brahmaṇo 'py ādi-kartre |
+ananta deveśa jagan-nivāsa
+tvam akṣaraṃ sad asat tat-paraṃ yat ||BhG_11.37||
+
+sakheti matvā prasabhaṃ yad uktaṃ
+he kṛṣṇa he yādava he sakheti |
+ajānatā mahimānaṃ tavedaṃ
+mayā pramādāt praṇayena vāpi ||BhG_11.41||
+
+yac cāvahāsārtham asatkṛto 'si
+vihāra-śayyāsana-bhojaneṣu |
+eko 'tha vāpy acyuta tat-samakṣaṃ
+tat kṣāmaye tvām aham aprameyam ||BhG_11.42||
+
+pitāsi lokasya carācarasya
+tvam asya pūjyaś ca gurur garīyān |
+na tvat-samo 'sty abhyadhikaḥ kuto 'nyo
+loka-traye 'py apratima-prabhāva ||BhG_11.43||
+
+tasmāt praṇamya praṇidhāya kāyaṃ
+prasādaye tvām aham īśam īḍyam |
+piteva putrasya sakheva sakhyuḥ
+priyaḥ priyāyārhasi deva soḍhum ||BhG_11.44||
+
+adṛṣṭa-pūrvaṃ hṛṣito 'smi dṛṣṭvā
+bhayena ca pravyathitaṃ mano me |
+tad eva me darśaya deva rūpaṃ
+prasīda deveśa jagan-nivāsa ||BhG_11.45||
+
+kirīṭinaṃ gadinaṃ cakra-hastam
+icchāmi tvāṃ draṣṭum ahaṃ tathaiva |
+tenaiva rūpeṇa catur-bhujena
+sahasra-bāho bhava viśva-mūrte ||BhG_11.46||
+
+mayā prasannena tavārjunedaṃ
+rūpaṃ paraṃ darśitam ātma-yogāt |
+tejo-mayaṃ viśvam anantam
+ādyaṃ yan me tvad-anyena na dṛṣṭa-pūrvam ||BhG_11.47||
+
+na veda yajñādhyayanair na dānair
+na ca kriyābhir na tapobhir ugraiḥ |
+evaṃ-rūpaḥ śakya ahaṃ nṛ-loke
+draṣṭuṃ tvad-anyena kuru-pravīra ||BhG_11.48||
+
+na veda-yajñādhyayanaiś caturṇām api vedānām adhyayanair yathāvat yajñādhyayanaiś ca - vedādhyayanair eva yajñādhyayanasya siddhatvāt pṛthak yajñādhyayana-grahaṇaṃ yajña-vijñānopalakṣaṇārtham - tathā na dānais tulā-puruṣādibhiḥ, na ca kriyābhir agnihotrādibhiḥ śrautādibhiḥ, nāpi tapobhir ugraiś cāndrāyaṇādibhir ugrair ghoraiḥ, evaṃ-rūpo yathā-darśitaṃ viśva-rūpaṃ yasya so 'ham evaṃ-rūpo na śakyo 'haṃ nṛ-loke manuṣya-loke draṣṭuṃ tvad-anyena tvatto 'nyena kura-pravīra ||BhGS_11.48||
+
+mā te vyathā mā ca vimūḍha-bhāvo
+dṛṣṭvā rūpaṃ ghoram īdṛṅ mamedam |
+vyapeta-bhīḥ prīta-manāḥ punas tvaṃ
+tad eva me rūpam idaṃ prapaśya ||BhG_11.49||
+
+arjuna uvāca -
+dṛṣṭvedaṃ mānuṣaṃ rūpaṃ tava saumyaṃ janārdana |
+idānīm asmi saṃvṛttaḥ sa-cetāḥ prakṛtiṃ gataḥ ||BhG_11.51||
+
+sudurdarśam idaṃ rūpaṃ dṛṣṭavān asi yan mama |
+devā apy asya rūpasya nityaṃ darśana-kāṅkṣiṇaḥ ||BhG_11.52||
+
+nāhaṃ vedair na tapasā na dānena na cejyayā |
+śakya evaṃ-vidho draṣṭuṃ dṛṣṭavān asi māṃ yathā ||BhG_11.53||
+
+nāhaṃ vedaiḥ ṛg-yajuḥ-sāmātharva-vedaiś caturbhir api, na tapasā ugreṇa cāndrāyaṇādinā, na dānena go-bhū-hiraṇyādinā, na cejyayā yajñena pūjayā vā śakyaḥ evaṃ-vidho yathā-darśita-prakāro draṣṭuṃ dṛṣṭavān asi māṃ yathā tvam ||BhGS_11.53||
+
+bhaktyā tv ananyayā śakya aham evaṃ-vidho 'rjuna |
+jñātuṃ draṣṭuṃ ca tattvena praveṣṭuṃ ca parantapa ||BhG_11.54||
+
+mat-karma-kṛn mat-paramo mad-bhaktaḥ saṅga-varjitaḥ |
+nirvairaḥ sarva-bhūteṣu yaḥ sa mām eti pāṇḍava ||BhG_11.55||
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye
+ekādaśo 'dhyāyaḥ ||11||
+
+
+=== Chapter 6 ===
+
+BhG 12
+atha bhakti-yogo nāma dvādaśo 'dhyāyaḥ
+(śrī-śaṅkarācārya-bhagavat-pāda-kṛta-bhāṣyam)
+evaṃ satata-yuktā ye bhaktās tvāṃ paryupāsate |
+ye cāpy akṣaram avyaktaṃ teṣāṃ ke yoga-vittamāḥ ||BhG_12.1||
+
+mayy āveśya mano ye māṃ nitya-yuktā upāsate |
+śraddhayā parayopetās te me yuktatamā matāḥ ||BhG_12.2||
+
+ye tv akṣaram anirdeśyam avyaktaṃ paryupāsate |
+sarvatra-gam acintyaṃ ca kūṭastham acalaṃ dhruvam ||BhG_12.3||
+
+saṃniyamyendriya-grāmaṃ sarvatra sama-buddhayaḥ |
+te prāpnuvanti mām eva sarva-bhūta-hite ratāḥ ||BhG_12.4||
+
+kiṃ tu -
+kleśo 'dhikataras teṣām avyaktāsakta-cetasām |
+avyaktā hi gatir duḥkhaṃ dehavadbhir avāpyate ||BhG_12.5||
+
+ye tu sarvāṇi karmāṇi mayi saṃnyasya mat-parāḥ |
+ananyenaiva yogena māṃ dhyāyanta upāsate ||BhG_12.6||
+
+teṣām ahaṃ samuddhartā mṛtyu-saṃsāra-sāgarāt |
+bhavāmi nacirāt pārtha mayy āveśita-cetasām ||BhG_12.7||
+
+mayy eva mana ādhatsva mayi buddhiṃ niveśaya |
+nivasiṣyasi mayy eva ata ūrdhvaṃ na saṃśayaḥ ||BhG_12.8||
+
+atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram |
+abhyāsa-yogena tato mām icchāptuṃ dhanañjaya ||BhG_12.9||
+
+abhyāse 'py asamartho 'si mat-karma-paramo bhava |
+mad-artham api karmāṇi kurvan siddhim avāpsyasi ||BhG_12.10||
+
+athaitad apy aśakto 'si kartuṃ mad-yogam āśritaḥ |
+sarva-karma-phala-tyāgaṃ tataḥ kuru yatātmavān ||BhG_12.11||
+
+atha punar etad api yad uktaṃ mat-karma-paramatvam, tat kartum aśakto 'si, mad-yogam, āśrito mayi kriyamāṇāni karmāṇi saṃnyasya yat karaṇaṃ teṣām anuṣṭhānaṃ sa mad-yogaḥ, tam āśritaḥ san, sarva-karma-phala-tyāgaṃ sarveṣāṃ karmaṇāṃ phala-saṃnyāsaṃ sarva-karma-phala-tyāgaṃ tato 'nantaraṃ kuru yatātmavān saṃyata-cittaḥ san ity arthaḥ ||BhGS_12.11||
+
+śreyo hi jñānam abhyāsāj jñānād dhyānaṃ viśiṣyate |
+dhyānāt karma-phala-tyāgas tyāgāc chāntir anantaram ||BhG_12.12||
+
+adveṣṭā sarva-bhūtānāṃ maitraḥ karuṇa eva ca |
+nirmamo nirahaṃkāraḥ sama-duḥkha-sukhaḥ kṣamī ||BhG_12.13||
+
+saṃtuṣṭaḥ satataṃ yogī yatātmā dṛḍha-niścayaḥ |
+mayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ ||BhG_12.14||
+
+yasmān nodvijate loko lokān nodvijate ca yaḥ |
+harṣāmarṣa-bhayodvegair mukto yaḥ sa ca me priyaḥ ||BhG_12.15||
+
+anapekṣaḥ śucir dakṣa udāsīno gata-vyathaḥ |
+sarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ ||BhG_12.16||
+
+kiṃ ca -
+yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati |
+śubhāśubha-parityāgī bhaktimān yaḥ sa me priyaḥ ||BhG_12.17||
+
+yo na hṛṣyatīṣṭa-prāptau, na dveṣṭy aniṣṭa-prāptau, na śocati priya-viyoge, na cāprāptaṃ kāṅkṣati, śubhāśubhe karmaṇī parityaktuṃ śīlam asyeti śubhāśubha-parityāgī bhaktimān yaḥ sa me priyaḥ ||BhGS_12.17||
+
+samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ |
+śītoṣṇa-sukha-duḥkheṣu samaḥ saṅga-vivarjitaḥ ||BhG_12.18||
+
+kiṃ ca -
+tulya-nindā-stutir maunī saṃtuṣṭo yena kenacit |
+aniketaḥ sthira-matir bhaktimān me priyo naraḥ ||BhG_12.19||
+
+ye tu dharmyāmṛtam idaṃ yathoktaṃ paryupāsate |
+śraddadhānā mat-paramā bhaktās te 'tīva me priyāḥ ||BhG_12.20||
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye
+dvādaśo 'dhyāyaḥ ||
+
+
+=== Chapter 2 ===
+
+BhG 13
+[*NOTE: Numbering of this adhyaya out of tune with standard editions
+and probably defective; "13.33" missing!]
+atha kṣetra-kṣetrajña-yogo nāma
+trayodaśo 'dhyāyaḥ
+idaṃ śarīraṃ kaunteya kṣetram ity abhidhīyate |
+etad yo vetti taṃ prāhuḥ kṣetrajña iti tad-vidaḥ ||BhG_13.1||
+
+kṣetrajñaṃ cāpi māṃ viddhi sarva-kṣetreṣu bhārata |
+kṣetra-kṣetrajñayor jñānaṃ yat taj jñānaṃ mataṃ mama ||BhG_13.2||
+
+tat kṣetraṃ yac ca yādṛk ca yad-vikāri yataś ca yat |
+sa ca yo yat-prabhāvaś ca tat samāsena me śṛṇu ||BhG_13.3||
+
+ṛṣibhir bahudhā gītaṃ chandobhir vividhaiḥ pṛthak |
+brahma-sūtra-padaiś caiva hetumadbhir viniścitaiḥ ||BhG_13.4||
+
+mahā-bhūtāny ahaṃkāro buddhir avyaktam eva ca |
+indriyāṇi daśaikaṃ ca pañca cendriya-gocarāḥ ||BhG_13.5||
+
+icchā dveṣaḥ sukhaṃ duḥkhaṃ saṃghātaś cetanā dhṛtiḥ |
+etat kṣetraṃ samāsena sa-vikāram udāhṛtam ||BhG_13.6||
+
+amānitvam adambhitvam ahiṃsā kṣāntir ārjavam |
+ācāryopāsanaṃ śaucaṃ sthairyam ātma-vinigrahaḥ ||BhG_13.7||
+
+kiṃ ca -
+indriyārtheṣu vairāgyam anahaṃkāra eva ca |
+janma-mṛtyu-jarā-vyādhi-duḥkha-doṣānudarśanam ||BhG_13.8||
+
+kiṃ ca -
+asaktir anabhiṣvaṅgaḥ putra-dāra-gṛhādiṣu |
+nityaṃ ca sama-cittatvam iṣṭāniṣṭopapattiṣu ||BhG_13.9||
+
+kiṃ ca -
+mayi cānanya-yogena bhaktir avyabhicāriṇī |
+vivikta-deśa-sevitvam aratir jana-saṃsadi ||BhG_13.10||
+
+kiṃ ca -
+adhyātma-jñāna-nityatvaṃ tattva-jñānārtha-darśanam |
+etaj jñānam iti proktam ajñānaṃ yad ato 'nyathā ||BhG_13.11||
+
+jñeyaṃ yat tat pravakṣyāmi yaj jñātvāmṛtam aśnute |
+anādimat paraṃ brahma na sat tan nāsad ucyate ||BhG_13.12||
+
+
+=== Chapter 3 ===
+
+nanu mahatā parikara-bandhena kaṇṭha-raveṇodghuṣya jñeyaṃ pravakṣyāmīti, ananurūpam uktaṃ na sat tan nāsad ucyata iti | na, anurūpam evoktam | katham ? sarvāsu hy upaniṣatsu jñeyaṃ brahma neti neti [BAU 2.3.6] asthūlam anaṇu [BAU 3.8.8] ity ādi-viśeṣa-pratiṣedhenaiva nirdiśyate, nedaṃ tad iti vāco 'gocatvāt ||
+nanu na tad asti, yad vastv asti-śabdena nocyate | athāsti-śabdena nocyate, nāsti taj jñeyam | vipratiṣiddhaṃ ca - jñeyaṃ tad asti-śabdena nocyate iti ca | na tāvan nāsti, nāsti-buddhy-aviṣayatvāt ||
+nanu sarvā buddhayo 'sti-nāsti-buddhy-anugatā eva | tatraivaṃ sati jñeyam apy asti-buddhy-anugata-pratyaya-viṣayaṃ vā syāt, nāsti-buddhy-anugata-pratyaya-viṣayaṃ vā syāt | na, atīndriyatvenobhaya-buddhy-anugata-pratyayāviṣayatvāt | yad dhīndriya-gamyaṃ vastu ghaṭādikam, tad asti-buddhy-anugata-pratyaya-viṣayaṃ vā syāt, nāsti-buddhy-anugata-pratyaya-viṣayaṃ vā syāt | idaṃ tu jñeyam atīndriyatvena śabdaika-pramāṇa-gamyatvān na ghaṭādivad ubhaya-buddhy-anugata-pratyaya-viṣayam ity ato na sat tan nāsad ity ucyate ||
+
+=== Chapter 1 ===
+
+yat tūktam - viruddham ucyate, jñeyaṃ tan na sat tan nāsad ucyata iti | na viruddham, anyad eva tad-viditād atho aviditād adhi [KenaU 1.3] iti śruteḥ | śrutir api viruddhārthā iti cet - yathā yajñāya śālām ārabhya yajñam ko hi tad veda yady amuṣmin loke 'sti vā na veti [TaittS 6.1.1] ity evam iti cet, na | viditāviditābhyām anyatva-śruter avaśya-vijñeyārtha-pratipādana-paratvāt yady amuṣmin ity ādi tu vidhi-śeṣo 'rtha-vādaḥ | upapatteś ca sad-asad-ādi-śabdair brahma nocyata iti |
+sarvo hi śabdo 'rtha-prakāśanāya prayuktaḥ śrūyamāṇaś ca śrotṛbhir jāti-kriyā-guṇa-saṃbandha-dvāreṇa saṃketa-grahaṇa-sa-vyapekṣārthaṃ pratyāyayati | nānyathā, adṛṣṭatvāt | tad yathā - gaur aśva iti vā jātitaḥ, pacati paṭhatīti vā kriyātaḥ, śuklaḥ kṛṣṇa iti vā guṇataḥ, dhanī gomān iti vā saṃbandhataḥ | na tu brahma jātimat, ato na sad-ādi-śabda-vācyam | nāpi guṇavat, yena guṇa-śabdenocyeta, nirguṇatvāt | nāpi kriyā-śabda-vācyaṃ niṣkriyatvān niṣkalaṃ niṣkriyaṃ śāntam [ŚvetU 6.19] iti śruteḥ | na ca saṃbandhī, ekatvāt | advayatvād aviṣayatvād ātmatvāc ca na kenacit, śabdenocyata iti yuktam | yato vāco nivartante [TaittU 2.9] ity ādi-śrutibhiś ca ||BhGS_13.12||
+==============================
+sarvataḥ pāṇi-pādaṃ tat sarvato 'kṣi-śiro-mukham |
+sarvataḥ śrutimal loke sarvam āvṛtya tiṣṭhati ||BhG_13.13||
+
+sarvendriya-guṇābhāsaṃ sarvendriya-vivarjitam |
+asaktaṃ sarva-bhṛc caiva nirguṇaṃ guṇa-bhoktṛ ca ||BhG_13.14||
+
+
+=== Chapter 3 ===
+
+sarvendriya-guṇābhāsaṃ sarvāṇi ca tānīndriyāṇi śrotrādīni buddhīndriya-karmendriyākhyāni, antaḥ-karaṇe ca buddhi-manasī, jñeyopādhitvasya tulyatvāt, sarvendriya-grahaṇena gṛhyante | api ca, antaḥ-karaṇopādhi-dvāreṇaiva śrotrādīnām api upādhitvam ity ato 'ntaḥ-karaṇa-bahiṣkaraṇopādhi-bhūtaiḥ sarvendriya-guṇair adhyavasāya-saṃkalpa-śravaṇa-vacanādibhir avabhāsate iti sarvendriya-guṇābhāsaṃ sarvendriya-vyāpārair vyāpṛtam iva taj jñeyam ity arthaḥ | dhyāyatīva lelāyatīva [BAU 4.3.7] iti śruteḥ |
+kasmāt punaḥ kāraṇān na vyāpṛtam eveti gṛhyata ity ataḥ āha - sarvendriya-vivarjitam, sarva-karaṇa-rahitam ity arthaḥ | ato na karaṇa-vyāpāraiḥ vyāpṛtaṃ taj jñeyam | yas tv ayaṃ mantraḥ - apāṇi-pādo javano grahītā paśyaty acakṣuḥ sa sṛṇoty akarṇaḥ [ŚvetU 3.19] ity ādiḥ | sa sarvendriyopādhi-guṇānuguṇya-bhajana-śaktimat taj jñeyam ity evaṃ pradarśanārthaḥ, na tu sākṣād eva javanādi-kriyāvattva-pradarśanārthaḥ | andho maṇim avindad [TaittĀ 1.11] ity ādi-mantrārthavat tasya mantrasyārthaḥ | yasmāt sarva-karaṇa-varjitaṃ jñeyam, tasmād asaktaṃ sarva-saṃśleṣavarjitam | yadyapy evam, tathāpi sarva-bhṛc caiva | sad-āspadaṃ hi sarvaṃ sarvatra sad-buddhy-anugamāt | na hi mṛgatṛṣṇikādayo 'pi nirāspadā bhavanti | ataḥ sarva-bhṛt sarvaṃ bibhartīti | syād idaṃ cānyaj jñeyasya sattvādhigama-dvāram -
+==============================
+kiṃ ca -
+bahir antaś ca bhūtānām acaraṃ caram eva ca |
+sūkṣmatvāt tad avijñeyaṃ dūra-sthaṃ cāntike ca tat ||BhG_13.15||
+
+
+=== Chapter 25 ===
+
+yady acaraṃ caram eva ca syāt vyavahāra-viṣayaṃ sarvaṃ jñeyam, kim-artham idam iti sarvair na vijñeyam ? ity ucyate - satyaṃ sarvābhāsaṃ tat | tathāpi vyomavat sūkṣmam | ataḥ sūkṣmatvāt svena rūpeṇa taj jñeyam apy avijñeyam aviduṣām | viduṣāṃ tu, ātmaivedaṃ sarvam [BAU 7.25.2] brahmaivedaṃ sarvam [BAU 2.5.1] ity ādi-pramāṇato nityaṃ vijñātam | avijñātatayā dūra-sthaṃ varṣa-sahasra-koṭyāpy aviduṣām aprāpyatvāt | antike ca tat, ātmatvād viduṣām ||BhGS_13.15||
+==============================
+avibhaktaṃ ca pratidehaṃ vyomavat tad ekam | bhūteṣu sarva-prāṇiṣu vibhaktam iva ca sthitaṃ deheṣv eva vibhāvyamānatvāt | bhūta-bhartṛ ca bhūtāni bibharti taj jñeyaṃ bhūta-bhartṛ ca sthiti-kāle | pralaya-kāle grasiṣṇu grasana-śīlam | utpatti-kāle prabhaviṣṇu ca prabhavana-śīlaṃ yathā rajjvādiḥ sarpāder mithyā-kalpitasya ||BhGS_13.16||
+kiṃ ca -
+avibhaktaṃ ca bhūteṣu vibhaktam iva ca sthitam |
+bhūta-bhartṛ ca taj jñeyaṃ grasiṣṇu prabhaviṣṇu ca ||BhG_13.16||
+
+jyotiṣām api taj jyotis tamasaḥ param ucyate |
+jñānaṃ jñeyaṃ jñāna-gamyaṃ hṛdi sarvasya viṣṭhitam ||BhG_13.17||
+
+
+=== Chapter 12 ===
+
+jyotiṣām ādity-ādīnām api taj jñeyaṃ jyotiḥ | ātma-caitanya-jyotiṣeddhāni hy ādity-ādīni jyotīṃṣi dīpyante, yena sūryas tapati tejaseddhaḥ [TaittBr 3.12.9], tasya bhāsā sarvam idaṃ vibhāti [ŚvetU 6.14] īty ādi-śrutibhyaḥ | smṛte ca ihaiva - yad āditya-gataṃ tejaḥ [Gītā 15.12] ity ādeḥ | tamaso 'jñānāt param aspṛṣṭam ucyate | jñānāder duḥsaṃpādana-buddhyā prāptāvasādasyottambhanārtham āha - jñānam amānitvādi | jñeyam jñeyaṃ yat tat pravakṣyāmīty [Gītā 13.13] ādinoktam | jñāna-gamyam jñeyam eva jñātaṃ saj jñāna-phalam iti jñāna-gamyam ucyate | jñāyamānaṃ tu jñeyam | tad etat trayam api hṛdi buddhau sarvasya prāṇi-jātasya viṣṭhitaṃ viśeṣeṇa sthitam | tatraiva hi trayaṃ vibhāvyate ||BhGS_13.17||
+==============================
+yathoktārthopasaṃhārārtho 'yaṃ śloka ārabhyate -
+iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ |
+mad-bhakta etad vijñāya mad-bhāvāyopapadyate ||BhG_13.18||
+
+prakṛtiṃ puruṣaṃ caiva viddhy anādī ubhāv api |
+vikārāṃś ca guṇāṃś caiva viddhi prakṛti-saṃbhavān ||BhG_13.19||
+
+kārya-karaṇa-kartṛtve hetuḥ prakṛtir ucyate |
+puruṣaḥ sukha-duḥkhānāṃ bhoktṛtve hetur ucyate ||BhG_13.20||
+
+puruṣaḥ prakṛti-stho hi bhuṅkte prakṛtijān guṇān |
+kāraṇaṃ guṇa-saṅgo 'sya sad-asad-yoni-janmasu ||BhG_13.21||
+
+
+=== Chapter 4 ===
+
+puruṣo bhoktā prakṛti-sthaḥ | prakṛtāv avidyā-lakṣaṇāyāṃ kārya-karaṇa-rūpeṇa pariṇatāyāṃ sthitaḥ prakṛti-sthaḥ | prakṛtim ātmatvena gataḥ ity etat | hi yasmāt | tasmād bhuṅkte upalabhata ity arthaḥ | prakṛtijān prakṛtito jātān sukha-duḥkha-mohākārābhivyaktān guṇān sukhī, duḥkhī, mūḍhaḥ, paṇḍito 'ham ity evam | satyām apy avidyāyāṃ sukha-duḥkha-moheṣu guṇeṣu bhujyamāneṣu yaḥ saṅga ātma-bhāvaḥ saṃsārasya sa pradhānaṃ kāraṇaṃ yasya puruṣasya janmanaḥ | sa yathā-kāmo bhavati tat kratur bhavati [BAU 4.4.5] ity ādi śruteḥ | tad etad āha - kāraṇaṃ hetur guṇa-saṅgo guṇeṣu saṅgo 'sya puruṣasya bhoktuḥ sad-asad-yoni-janmasu | satyaś cāsatyaś ca yonayaḥ sad-asad-yonayas tāsu sad-asad-yonuṣu janmāni sad-asad-yoni-janmāni, teṣu sad-asad-yoni-janmaṣu
+viṣaya-bhūteṣu kāraṇaṃ guṇa-saṅgaḥ | athavā, sad-asad-yoni-janmasu asya saṃsārasya kāraṇaṃ guṇa-saṅga iti saṃsāra-pada-madhyāhāryam | sad-yonayo devādi-yonayaḥ | asad-yonayaḥ paśvādi-yonayaḥ | sāmarthyāt sad-asad-yonayaḥ manuṣya-yonayo 'py aviruddhāḥ draṣṭāvyāḥ ||
+etad uktaṃ bhavati - prakṛti-sthatvākhyāvidyā guṇeṣu ca saṅgaḥ kāmaḥ saṃsārasya kāraṇam iti | tac ca parivarjanāya ucyate | asya ca nivṛtti-kāraṇaṃ jñāna-vairāgye sa-saṃnyāse gītā-śāstre prasiddham | tac ca jñānaṃ purastād upanyastaṃ kṣetra-kṣetrajña-viṣayam yaj jñātvāmṛtam aśnute [Gītā 12.13] iti | uktaṃ cānyāpohenātad-dharmādhyāropeṇa ca ||BhGS_13.21||
+==============================
+upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ |
+paramātmeti cāpy ukto dehe 'smin puruṣaḥ paraḥ ||BhG_13.22||
+
+ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha |
+sarvathā vartamāno 'pi na sa bhūyo 'bhijāyate ||BhG_13.23||
+
+
+=== Chapter 2 ===
+
+nanu, yady api jñānotpatty-anantaraṃ punar-janmābhāva uktaḥ, tathāpi prāg jñānotpatteḥ kṛtānāṃ karmaṇām uttara-kāla-bhāvināṃ ca yāni cātikrāntāneka-janma-kṛtāni teṣāṃ ca phalam adattvā nāśo na yukta iti | syus trīṇi janmāni kṛta-vipraṇāśo hi na yukta iti, yathā phale pravṛttānām ārabdha-janmanāṃ karmaṇām | na ca karmaṇāṃ viśeṣo 'vagamyate | tasmāt tri-prakārāṇy api karmāṇi trīṇi janmāny ārabheran | saṃhatāni vā sarvāṇy ekaṃ janmārabheran | anyathā kṛta-vināśe sati sarvatrānāśvāsa-prasaṅgaḥ, śāstrānarthakyaṃ ca syāt | ity ataḥ idam ayuktam uktam na sa bhūyo 'bhijāyate iti | na | kṣīyante cāsya karmāṇi [MuṇḍU 2.2.8], brahma veda brahmaiva bhavati [MuṇḍU 3.2.9], tasya tāvad eva ciram [ChāU 6.14.2], iṣīkā-tūlavat sarvāṇi karmāṇi pradūyante [ChāU
+5.24.3] ity ādi-śruti-śatebhya ukto viduṣaḥ sarva-karma-dāhaḥ |
+ihāpi cokto yathaidhāṃsi [Gītā 4.37] ity ādinā sarva-karma-dāhaḥ | vakṣyati copapatteś ca | avidyā-kāma-kleśa-bīja-nimittāni hi karmāṇi janmāntarāṅkuram ārabhante | ihāpi ca sāhaṃkārābhisaṃdhīni karmāṇi phalārambhakāṇi, netarāṇīti tatra tatra bhagavatoktam |
+
+=== Chapter 200 ===
+
+bījāny agny-upadagdhāni na rohanti yathā punaḥ |
+jñāna-dagdhais tathā kleśair nātmā saṃpadyate punaḥ [Mbh 3.200.10] iti ca |
+astu tāvaj jñānotpatty-uttara-kāla-kṛtānāṃ karmaṇāṃ jñānena dāhaḥ, jñāna-saha-bhāvitvāt | na tv iha janmani jñānotpatteḥ prāk kṛtānāṃ karmaṇām atīta-janma-kṛtānāṃ ca dāho yuktaḥ | na | sarva-karmāṇīti viśeṣaṇāt | jñānottara-kāla-bhāvinām eva sarva-karmaṇām iti cet, na | saṃkoce kāraṇānupapatteḥ | yat tūktam yathā vartamāna-janmārambhakāṇi karmāṇi na kṣīyante phala-dānāya pravṛttāny eva saty api jñāne, tathānārabdha-phalānām api karmaṇāṃ kṣayo na yukta iti, tad asat | katham ? teṣāṃ mukteṣuvat pravṛtta-phalatvāt | yathā pūrvaṃ lakṣya-vedhāya mukta iṣuḥ dhanuṣo lakṣya-vedhottara-kālam api ārabdha-vega-kṣayāt patanenaiva nivartate, evaṃ śarīrārambhakaṃ karma śarīra-sthiti-prayojane nivṛtte 'pi, ā saṃskāra-vega-kṣayāt pūrvavat vartata
+eva | yathā sa eva iṣuḥ pravṛtti-nimittānārabdha-vegas tv amukto dhanuṣi prayukto 'pi upasaṃhriyate, tathānārabdha-phalāni karmāṇi svāśraya-sthāny eva jñānena nirbījī-kriyanta iti | patite 'smin vidvac-charīre na sa bhūyo 'bhijāyate iti yuktam evoktam iti siddham ||BhGS_13.23||
+==============================
+atrātma-darśane upāya-vikalpā ime dhyānādaya ucyante -
+dhyānenātmani paśyanti kecid ātmānam ātmanā |
+anye sāṃkhyena yogena karma-yogena cāpare ||BhG_13.24||
+
+
+=== Chapter 6 ===
+
+dhyānena | dhyānaṃ nāma śabdādibhyo viṣayebhyaḥ śrotrādīni karaṇāni manasy upasaṃhṛtya, manaś ca pratyak-cetanayitari, ekāgratayā yac cintanaṃ tad dhyānam | tathā, dhyāyatīva bakaḥ, dhyāyatīva pṛthivī, dhyāyantīva parvatāḥ [ChāU 7.6.1] iti upamopādānāt | taila-dhārāvat saṃtato 'vicchinna-pratyayo dhyānam | tena dhyānena ātmani buddhau paśyanty ātmānaṃ pratyak-cetanam ātmanā svenaiva pratyak-cetanena dhyāna-saṃskṛtenāntaḥ-karaṇena kecid yoginaḥ | anye sāṃkhyena yogena | sāṃkhyaṃ nāma ime sattva-rajas-tamāṃsi guṇā mayā dṛśyā ahaṃ tebhyo 'nyas tad-vyāpāra-sākṣi-bhūto nityo guṇa-vilakṣaṇa ātmeti cintanam eṣa sāṃkhyo yogaḥ | tena paśyanti ātmānam ātmanety anuvartate | karma-yogena | karmaiva yogaḥ | īśvarārpaṇa-buddhyānuṣṭhīyamānaṃ ghaṭana-rūpaṃ
+yogārthatvād yoga ucyate guṇataḥ | tena sattva-śuddhi-jñānotpatti-dvāreṇa cāpare ||BhGS_13.24||
+==============================
+anye tv eṣu vikalpeṣu anyatamenāpy evaṃ yathoktam ātmānam ajānanto 'nyebhyaḥ ācāryebhyaḥ śrutvā "idam eva cintayata" ity uktā upāsate śraddadhānāḥ santaś cintayanti | te 'pi cātitaranty eva atikrāmanty eva mṛtyum mṛtyu-yuktaṃ saṃsāram ity etat | śruti-parāyaṇāḥ śrutiḥ śravaṇaṃ param ayanaṃ gamanaṃ mokṣa-mārga-pravṛttau paraṃ sādhanaṃ yeṣāṃ te śruti-parāyaṇāḥ | kevala-paropadeśa-pramāṇāḥ svayaṃ viveka-rahitā ity abhiprāyaḥ | kim u vaktavyam pramāṇaṃ prati svatantrā vivekino mṛtyum atitarantīty abhiprāyaḥ ||BhGS_13.25||
+anye tv evam ajānantaḥ śrutvānyebhya upāsate |
+te 'pi cātitaranty eva mṛtyuṃ śruti-parāyaṇāḥ ||BhG_13.25||
+
+yāvat saṃjāyate kiṃcit sattvaṃ sthāvara-jaṅgamam |
+kṣetra-kṣetrajña-saṃyogāt tad viddhi bharatarṣabha ||BhG_13.26||
+
+samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram |
+vinaśyatsv avinaśyantaṃ yaḥ paśyati sa paśyati ||BhG_13.27||
+
+samaṃ paśyan hi sarvatra samavasthitam īśvaram |
+na hinasty ātmanātmānaṃ tato yāti parāṃ gatim ||BhG_13.28||
+
+
+=== Chapter 2 ===
+
+nanu naiva kaścit prāṇī svayaṃ svam ātmānaṃ hinasti | katham ucyate 'prāptam na hinastīti ? yathā na pṛthivyām nāntarikṣe na divy agniś cetavyaḥ [TaittS 5.2.7.1] ity ādi | naiṣa doṣaḥ, ajñānām ātma-tiraskaraṇopapatteḥ | sarvo hy ajño 'tyanta-prasiddhaṃ sākṣād aparokṣād ātmānaṃ tiraskṛtyānātmānam ātmatvena parigṛhya, tam api dharmādharmau kṛtvopāttam ātmānaṃ hatvānyam ātmānam upādatte navaṃ, taṃ caivaṃ hatvānyam | evaṃ tam api hatvānyam ity evam upāttam upāttam ātmānaṃ hantīty ātmahā sarvo 'jñaḥ | yas tu paramārthātmāsāv api sarvadāvidyayā hata iva vidyamāna-phalābhāvād iti sarve ātma-hana evāvidvāṃsaḥ | yas tv itaro yathoktātma-darśī, sa ubhayathāpi ātmanātmānaṃ na hinasti na hanti | tato yāti parāṃ gatim yathoktaṃ phalaṃ tasya bhavatīty arthaḥ ||BhGS_13.28||
+==============================
+sarva-bhūta-stham īśvaraṃ samaṃ paśyan na hinasty ātmanātmānam [Gītā 13.28] ity uktam | tad anupapannaṃ sva-guṇa-karma-vailakṣaṇya-bheda-bhinneṣv ātmasu, ity etad āśaṅkyāha -
+prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ |
+yaḥ paśyati tathātmānam akartāraṃ sa paśyati ||BhG_13.29||
+
+yadā bhūta-pṛthag-bhāvam ekastham anupaśyati |
+tata eva ca vistāraṃ brahma saṃpadyate tadā ||BhG_13.30||
+
+
+=== Chapter 25 ===
+
+yadā yasmin kāle bhūta-pṛthag-bhāvaṃ bhūtānāṃ pṛthag-bhāvaṃ pṛthaktvam ekasminn ātmani sthitaṃ eka-stham anupaśyati śāstrācāryopadeśam anu ātmānaṃ pratyakṣatvena paśyaty ātmaivedaṃ sarvam [ChāU 7.25.2] iti | tata eva ca tasmād eva ca vistāraṃ utpattiṃ vikāsam ātmataḥ prāṇa ātmata āśā ātmataḥ smara ātmata ākāśa ātmatas teja ātmata āpa ātmata āvirbhāva-tirobhāvāv ātmato 'nnam [ChāU 7.26.1] ity evam ādi-prakārair vistāraṃ yadā paśyati brahma saṃpadyate bhavati tadā tasmin kāla ity arthaḥ ||BhGS_13.30||
+==============================
+ekasyātmānaḥ sarva-dehātmatve tad-doṣa-saṃbandhe prāpte, idam ucyate -
+anāditvān nirguṇatvāt paramātmāyam avyayaḥ |
+śarīra-stho 'pi kaunteya na karoti na lipyate ||BhG_13.31||
+
+yathā sarva-gataṃ saukṣmyād ākāśaṃ nopalipyate |
+sarvatrāvasthito dehe tathātmā nopalipyate ||BhG_13.32||
+
+yathā sarva-gataṃ vyāpy api sat saukṣmyāt sūkṣma-bhāvād ākāśaṃ khaṃ nopalipyate na saṃbadhyate, sarvatrāvasthito dehe tathātmā nopalipyate ||BhGS_13.32||
+
+yathā prakāśayaty ekaḥ kṛtsnaṃ lokam imaṃ raviḥ |
+kṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata ||BhG_13.34||
+
+kṣetra-kṣetrajñayor evam antaraṃ jñāna-cakṣuṣā |
+bhūta-prakṛti-mokṣaṃ ca ye vidur yānti te param ||BhG_13.35||
+
+kṣetra-kṣetrajñayor yathā-vyākhyātayor evaṃ yathā-pradarśita-prakāreṇāntaram itaretara-vailakṣaṇya-viśeṣaṃ jñāna-cakṣuṣā śāstrācārya-prasādopadeśa-janitam ātma-pratyayikaṃ jñānaṃ cakṣuḥ, tena jñāna-cakṣuṣā, bhūta-prakṛti-mokṣaṃ ca, bhūtānāṃ prakṛtir avidyā-lakṣaṇāvyaktākhyā, tasyā bhūta-prakṛter mokṣaṇam abhāva-gamanaṃ ca ye vidur vijānanti, yānti gacchanti te paraṃ paramātma-tattvaṃ brahma, na punar dehaṃ ādadate ity arthaḥ ||BhGS_13.35||
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye
+kṣetra-kṣetrajña-yogo nāma trayodaśo 'dhyāyaḥ ||
+
+
+=== Chapter 26 ===
+
+BhG 14
+atha guṇa-traya-vibhāga-yogo nāma
+caturdaśo 'dhyāyaḥ
+(śrīmac-chaṃkara-bhagavat-pāda-viracitam śrīmad-bhagavad-gītā-bhāṣyam)
+sarvam utpadyamānaṃ kṣetra-kṣetrajña-saṃyogād utpadyata ity uktam | tat kathamiti, tat-pradarśanārtham paraṃ bhūya ity ādir adhyāya ārabhyate | athavā, īśvara-paratantrayoḥ kṣetra-kṣetrajñayoḥ jagat-kāraṇatvaṃ na tu sāṃkhyānām iva svatantrayor ity evam artham | prakṛti-sthatvaṃ guṇeṣu ca saṅgaḥ saṃsāra-kāraṇam ity uktam | kasmin guṇe kathaṃ saṅgaḥ ? ke vā guṇāḥ ? kathaṃ vā te badhnantīti ? guṇebhyaś ca mokṣaṇaṃ kathaṃ syāt ? muktasya ca lakṣaṇaṃ vaktavyam, ity evam arthaṃ ca bhagavān uvāca -
+paraṃ jñānam iti vyavahitena saṃbandhaḥ | bhūyaḥ punaḥ pūrveṣu sarveṣv adhyāyeṣu asakṛd uktam api pravakṣyāmi | tac ca paraṃ para-vastu-viṣayatvāt | kiṃ tat ? jñānaṃ sarveṣāṃ jñānānām uttamam, uttama-phalatvāt | jñānānām iti nāmānitvādīnām | kiṃ tarhi ? yajñādi-jñeya-vastu-viṣayāṇām iti | tāni na mokṣāya, idaṃ tu mokṣāyeti parottama-śabdābhyāṃ stauti śrotṛ-buddhi-rucy-utpādanārtham | yaj jñātvā yaj jñānaṃ jñātvā prāpya munayaḥ saṃnyāsino manana-śīlāḥ sarve parāṃ siddhiṃ mokṣākhyām ito 'smāt deha-bandhanāt ūrdhvaṃ gatāḥ prāptāḥ ||BhGS_14.1||
+paraṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānam uttamam |
+yaj jñātvā munayaḥ sarve parāṃ siddhim ito gatāḥ ||BhG_14.1||
+
+idaṃ jñānam upāśritya mama sādharmyam āgatāḥ |
+sarge 'pi nopajāyante pralaye na vyathanti ca ||BhG_14.2||
+
+mama yonir mahad brahma tasmin garbhaṃ dadhāmy aham |
+saṃbhavaḥ sarva-bhūtānāṃ tato bhavati bhārata ||BhG_14.3||
+
+sarva-yoniṣu kaunteya mūrtayaḥ saṃbhavanti yāḥ |
+tāsāṃ brahma mahad yonir ahaṃ bīja-pradaḥ pitā ||BhG_14.4||
+
+deva-pitṛ-manuṣya-paśu-mṛgādi-sarva-yoniṣu kaunteya, mūrtayo deha-saṃsthāna-lakṣaṇā mūrcchitāṅgāvayavā mūrtayaḥ saṃbhavanti yāḥ, tāsāṃ mūrtīnāṃ brahma mahat sarvāvasthaṃ yoniḥ kāraṇam aham īśvaro bīja-prado garbhādhānasya kartā pitā ||BhGS_14.4||
+
+sattvaṃ rajas tama iti guṇāḥ prakṛti-saṃbhavāḥ |
+nibadhnanti mahā-bāho dehe dehinam avyayam ||BhG_14.5||
+
+tatra sattvaṃ nirmalatvāt prakāśakam anāmayam |
+sukha-saṅgena badhnāti jñāna-saṅgena cānagha ||BhG_14.6||
+
+rajo rāgātmakaṃ viddhi tṛṣṇāsaṅga-samudbhavam |
+tan nibadhnāti kaunteya karma-saṅgena dehinam ||BhG_14.7||
+
+tamas tv ajñāna-jaṃ viddhi mohanaṃ sarva-dehinām |
+pramādālasya-nidrābhis tan nibadhnāti bhārata ||BhG_14.8||
+
+sattvaṃ sukhe saṃjayati rajaḥ karmaṇi bhārata |
+jñānam āvṛtya tu tamaḥ pramāde saṃjayaty uta ||BhG_14.9||
+
+rajas tamaś cābhibhūya sattvaṃ bhavati bhārata |
+rajaḥ sattvaṃ tamaś caiva tamaḥ sattvaṃ rajas tathā ||BhG_14.10||
+
+sarva-dvāreṣu dehe 'smin prakāśa upajāyate |
+jñānaṃ yadā tadā vidyād vivṛddhaṃ sattvam ity uta ||BhG_14.11||
+
+lobhaḥ pravṛttir ārambhaḥ karmaṇām aśamaḥ spṛhā |
+rajasy etāni jāyante vivṛddhe bharatarṣabha ||BhG_14.12||
+
+aprakāśo 'pravṛttiś ca pramādo moha eva ca |
+tamasy etāni jāyante vivṛddhe kuru-nandana ||BhG_14.13||
+
+yadā sattve pravṛddhe tu pralayaṃ yāti deha-bhṛt |
+tadottama-vidāṃ lokān amalān pratipadyate ||BhG_14.14||
+
+rajasi pralayaṃ gatvā karma-saṅgiṣu jāyate |
+tathā pralīnas tamasi mūḍha-yoniṣu jāyate ||BhG_14.15||
+
+karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam |
+rajasas tu phalaṃ duḥkham ajñānaṃ tamasaḥ phalam ||BhG_14.16||
+
+sattvāt saṃjāyate jñānaṃ rajaso lobha eva ca |
+pramāda-mohau tamaso bhavato 'jñānam eva ca ||BhG_14.17||
+
+sattvāl labdhātmakāt saṃjāyate samutpadyate jñānam, rajaso lobha eva ca, pramāda-mohau ca ubhau tamaso bhavataḥ, ajñānam eva ca bhavati ||BhGS_14.17||
+
+ūrdhvaṃ gacchanti sattva-sthā madhye tiṣṭhanti rājasāḥ |
+jaghanya-guṇa-vṛtta-sthā adho gacchanti tāmasāḥ ||BhG_14.18||
+
+nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati |
+guṇebhyaś ca paraṃ vetti mad-bhāvaṃ so 'dhigacchati ||BhG_14.19||
+
+nānyaṃ kārya-karaṇa-viṣayākāra-pariṇatebhyo guṇebhyaḥ kartāram anyaṃ yadā draṣṭā vidvān san nānupaśyati, guṇā eva sarvāvasthāḥ sarva-karmaṇāṃ kartāra ity evaṃ paśyati, guṇebhyaś ca paraṃ guṇa-vyāpāra-sākṣi-bhūtaṃ vetti, mad-bhāvaṃ mama bhāvaṃ sa draṣṭādhigacchati ||BhGS_14.19||
+
+guṇān etān atītya trīn dehī deha-samudbhavān |
+janma-mṛtyu-jarā-duḥkhair vimukto 'mṛtam aśnute ||BhG_14.20||
+
+kair liṅgais trīn guṇān etān atīto bhavati prabho |
+kim-ācāraḥ kathaṃ caitāṃs trīn guṇān ativartate ||BhG_14.21||
+
+prakāśaṃ ca pravṛttiṃ ca moham eva ca pāṇḍava |
+na dveṣṭi saṃpravṛttāni na nivṛttāni kāṅkṣati ||BhG_14.22||
+
+udāsīnavad āsīno guṇair yo na vicālyate |
+guṇā vartanta ity eva yo 'vatiṣṭhati neṅgate ||BhG_14.23||
+
+sama-duḥkha-sukhaḥ svasthaḥ sama-loṣṭāśma-kāñcanaḥ |
+tulya-priyāpriyo dhīras tulya-nindātma-saṃstutiḥ ||BhG_14.24||
+
+sama-duḥkha-sukhaḥ same duḥkha-sukhe yasya saḥ sama-duḥkha-sukhaḥ, svasthaḥ sve ātmani sthitaḥ prasannaḥ sama-loṣṭāśma-kāñcanaḥ loṣṭaṃ cāśmā ca kāñcanaṃ ca loṣṭāśmakāñcanāni samāni yasya saḥ samaloṣṭāśmakāñcanaḥ, tulyapriyāpriyaḥ priyaṃ cāpriyaṃ ca priyāpriye tulye same yasya so 'yaṃ tulyapriyāpriyaḥ, dhīro dhīmān, tulyanindātmasaṃstutiḥ nindā ca ātmasaṃstuti ca nindātmasaṃstutī, tulye nindātmasaṃstutī yasya yateḥ sa tulyanindātmasaṃstutiḥ ||BhGS_14.24||
+
+mānāpamānayos tulyas tulyo mitrāri-pakṣayoḥ |
+sarvārambha-parityāgī guṇātītaḥ sa ucyate ||BhG_14.25||
+
+māṃ ca yo 'vyabhicāreṇa bhakti-yogena sevate |
+sa guṇān samatītyaitān brahma-bhūyāya kalpate ||BhG_14.26||
+
+brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya ca |
+śāśvatasya ca dharmasya sukhasyaikāntikasya ca ||BhG_14.27||
+
+
+=== Chapter 3 ===
+
+BhG 15
+atha puruṣottama-yogo nāma
+pañcadaśo 'dhyāyaḥ
+(śrīmac-chaṃkara-bhagavat-pāda-viracitam śrīmad-bhagavad-gītā-bhāṣyam)
+śrī-bhagavān uvāca
+ūrdhva-mūlam adhaḥ-śākham aśvatthaṃ prāhur avyayam |
+chandāṃsi yasya parṇāni yas taṃ veda sa veda-vit ||BhG_15.1||
+
+avyakta-mūla-prabhavas tasyaivānugrahotthitaḥ |
+buddhi-skandha-mayaś caiva indriyāntara-koṭaraḥ ||
+
+mahā-bhūta-viśākhaś ca viṣayaiḥ patravāṃs tathā |
+dharmādharma-supuṣpaś ca sukha-duḥkha-phalodayaḥ ||
+
+ājīvyaḥ sarva-bhūtānāṃ brahma-vṛkṣaḥ sanātanaḥ |
+etad brahma-vanaṃ cāsya brahmācarati sākṣivat ||
+
+adhaś cordhvaṃ prasṛtās tasya śākhā
+guṇa-pravṛddhā viṣaya-pravālāḥ |
+adhaś ca mūlāny anusaṃtatāni
+karmānubandhīni manuṣya-loke ||BhG_15.2||
+
+na rūpam asyeha tathopalabhyate
+nānto na cādir na ca saṃpratiṣṭhā |
+aśvattham enaṃ su-virūḍha-mūlam
+asaṅga-śastreṇa dṛḍhena chittvā ||BhG_15.3||
+
+tataḥ padaṃ tat parimārgitavyaṃ
+yasmin gatā na nivartanti bhūyaḥ |
+tam eva cādyaṃ puruṣaṃ prapadye
+yataḥ pravṛttiḥ prasṛtā purāṇī ||BhG_15.4||
+
+nirmāna-mohā jita-saṅga-doṣā
+adhyātma-nityā vinivṛtta-kāmāḥ |
+dvandvair vimuktāḥ sukha-duḥkha-saṃjñair
+gacchanty amūḍhāḥ padam avyayaṃ tat ||BhG_15.5||
+
+na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ |
+yad gatvā na nivartante tad dhāma paramaṃ mama ||BhG_15.6||
+
+
+=== Chapter 2 ===
+
+nanu sarvā hi gatir āgaty-antāḥ | saṃyogāḥ viprayogāntāḥ [Mbh 11.2.3] iti hi prasiddham | katham ucyate tat dhāma gatānāṃ nāsti nivṛttiḥ ? iti | sṛṇu tatra kāraṇam -
+mamaiva param ātmano nārāyaṇasya, aṃśo bhāgo 'vayava eka-deśa ity anarthāntaraṃ jīva-loke jīvānāṃ loke saṃsāre jīva-bhūtaḥ kartā bhokteti prasiddhaḥ sanātanaś cirantanaḥ | yathā jala-sūryakaḥ sūryāṃśo jala-nimittāpāye sūryam eva gatvā na nivartate ca tenaivātmanā gacchati, evam eva | yathā ghaṭādy-upādhi-paricchinno ghaṭādy-ākāśa ākāśāṃśaḥ san ghaṭādi-nimittāpāye ākāśaṃ prāpya na nivartate | ata upapannam uktam yad gatvā na nivartante iti |
+nanu niravayavasya paramātmanaḥ kuto 'vayava eka-deśo 'ṃśaḥ iti ? sāvayavatve ca vināśa-prasaṅgo 'vayava-vibhāgāt | naiṣa doṣaḥ, avidyā-kṛtopādhi-paricchinna eka-deśo 'ṃśa iva kalpito yataḥ | darśitaś cāyam arthaḥ kṣetrādhyāye vistaraśaḥ | sa ca jīvo mad-aṃśatvena kalpitaḥ kathaṃ saṃsaraty utkrāmati ca ? ity ucyate - manaḥ-ṣaṣṭhānīndriyāṇi śrotrādīni prakṛti-sthāni sva-sthāne karṇa-śaṣkuly-ādau prakṛtau sthitāni karṣati ākarṣati ||BhGS_15.7||
+mamaivāṃśo jīva-loke jīva-bhūtaḥ sanātanaḥ |
+manaḥ-ṣaṣṭhānīndriyāṇi prakṛti-sthāni karṣati ||BhG_15.7||
+
+śarīraṃ yad avāpnoti yac cāpy utkrāmatīśvaraḥ |
+gṛhītvaitāni saṃyāti vāyur gandhān ivāśayāt ||BhG_15.8||
+
+śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇam eva ca |
+adhiṣṭhāya manaś cāyaṃ viṣayān upasevate ||BhG_15.9||
+
+śrotraṃ cakṣuḥ sparśanaṃ ca tvag-indriyaṃ rasanaṃ ghrāṇam eva ca manaś ca ṣaṣṭhaṃ pratyekam indriyeṇa saha, adhiṣṭhāya deha-stho viṣayān śabdādīn upasevate ||BhGS_15.9||
+
+utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam |
+vimūḍhā nānupaśyanti paśyanti jñāna-cakṣuṣaḥ ||BhG_15.10||
+
+yatanto yoginaś cainaṃ paśyanty ātmany avasthitam |
+yatanto 'py akṛtātmāno nainaṃ paśyanty acetasaḥ ||BhG_15.11||
+
+yad āditya-gataṃ tejo jagad bhāsayate 'khilam |
+yac candramasi yac cāgnau tat tejo viddhi māmakam ||BhG_15.12||
+
+kiṃ ca -
+gām āviśya ca bhūtāni dhārayāmy aham ojasā |
+puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ ||BhG_15.13||
+
+
+=== Chapter 1 ===
+
+gāṃ pṛthivīm āviśya praviśya dhārayāmi bhūtāni jagad aham ojasā balena | yad balaṃ kāma-rāga-vivarjitam aiśvaraṃ rūpaṃ jagad-vidhāraṇāya pṛthivyām praviṣṭaṃ yena pṛthivī gurvī nādhaḥ patati na vidīryate ca | tathā ca mantra-varṇaḥ - yena dyaur ugrā pṛthivī ca dṛḍhā [TaittS 4.1.8] iti, sa dādhāra pṛthivīm [Ṛk 8.7.3.1] ity ādiś ca | ato gām āviśya ca bhūtāni carācarāṇi dhārayāmīti yuktam uktam | kiṃ ca, pṛthivyāṃ jātā oṣadhīḥ sarvāḥ vrīhi-yavādyāḥ puṣṇāmi puṣṭi-matīḥ rasa-svādumatī ca karomi somo bhūtvā rasātmakaḥ somaḥ san rasātmakaḥ rasa-svabhāvaḥ | sarva-rasānām ākaraḥ somaḥ | sa hi sarva-rasātmakaḥ sarvāḥ oṣadhīḥ svātma-rasān anupraveśayan puṣṇāti ||BhGS_15.13||
+==============================
+kiṃ ca -
+ahaṃ vaiśvānaro bhūtvā prāṇināṃ deham āśritaḥ |
+prāṇāpāna-samāyuktaḥ pacāmy annaṃ catur-vidham ||BhG_15.14||
+
+
+=== Chapter 9 ===
+
+aham eva vai vaiśvānara udara-stho 'gnir bhūtvā - ayam agnir vaiśvānaro yo 'yam antaḥ puruṣe yenedam annaṃ pacyate yad idam adyate [BAU 5.9.1] ity ādi-śruteḥ | vaiśvānaraḥ san prāṇināṃ prāṇavatāṃ deham āśritaḥ praviṣṭaḥ prāṇāpāna-samāyuktaḥ prāṇāpānābhyāṃ samāyuktaḥ saṃyuktaḥ pacāmi paṅkti karomy annam aśanaṃ caturvidhaṃ catuṣprakāraṃ bhojyaṃ bhakṣyaṃ coṣyaṃ lehyaṃ ca | bhoktā vai vānaro 'gniḥ | agner bhojyam annaṃ somaḥ | tad etad ubhayam agnīṣomau sarvam iti paśyato 'nna-doṣa-lepo na bhavati ||BhGS_15.14||
+==============================
+kiṃ ca -
+sarvasya cāhaṃ hṛdi saṃniviṣṭo
+mattaḥ smṛtir jñānam apohanaṃ ca |
+vedaiś ca sarvair aham eva vedyo
+vedānta-kṛd veda-vid eva cāham ||BhG_15.15||
+
+dvāv imau puruṣau loke kṣaraś cākṣara eva ca |
+kṣaraḥ sarvāṇi bhūtāni kūṭastho 'kṣara ucyate ||BhG_15.16||
+
+uttamaḥ puruṣas tv anyaḥ paramātmety udāhṛtaḥ |
+yo loka-trayam āviśya bibharty avyaya īśvaraḥ ||BhG_15.17||
+
+yasmāt kṣaram atīto 'ham akṣarād api cottamaḥ |
+ato 'smi loke vede ca prathitaḥ puruṣottamaḥ ||BhG_15.18||
+
+yo mām evam asaṃmūḍho jānāti puruṣottamam |
+sa sarva-vid bhajati māṃ sarva-bhāvena bhārata ||BhG_15.19||
+
+yo mām īśvaraṃ yathokta-viśeṣaṇam evaṃ yathoktena prakāreṇa asaṃmūḍhaḥ saṃmoha-varjitaḥ san jānāty ayam aham asmīti puruṣottamaṃ, sa sarva-vit sarvātmanā sarvaṃ vettīti sarvajñaḥ sarva-bhūta-sthaṃ bhajati māṃ sarva-bhāvena sarvātmatayā he bhārata ||BhGS_15.19||
+
+iti guhyatamaṃ śāstram idam uktaṃ mayānagha |
+etad buddhvā buddhimān syāt kṛta-kṛtyaś ca bhārata ||BhG_15.20||
+
+etad dhi janma-sāmagryaṃ brāhmaṇasya viśeṣataḥ |
+prāpyaitat kṛta-kṛtyo hi dvijo bhavati nānyathā || [Manu 12.93]
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye
+pañcadaśo 'dhyāyaḥ ||
+
+
+=== Chapter 3 ===
+
+BhG 16
+atha daivāsura-sampad-vibhāga-yogo nāma
+ṣoḍaśo 'dhyāyaḥ
+(śrī-śaṅkarācārya-bhagavat-pāda-kṛta-bhāṣyam)
+abhayaṃ sattva-saṃśuddhir jñāna-yoga-vyavasthitiḥ |
+dānaṃ damaś ca yajñaś ca svādhyāyas tapa ārjavam ||BhG_16.1||
+
+ahiṃsā satyam akrodhas tyāgaḥ śāntir apaiśunam |
+dayā bhūteṣv aloluptvaṃ mārdavaṃ hrīr acāpalam ||BhG_16.2||
+
+tejaḥ kṣamā dhṛtiḥ śaucam adroho nātimānitā |
+bhavanti saṃpadaṃ daivīm abhijātasya bhārata ||BhG_16.3||
+
+dambho darpo 'timānaś ca krodhaḥ pāruṣyam eva ca |
+ajñānaṃ cābhijātasya pārtha saṃpadam āsurīm ||BhG_16.4||
+
+daivī saṃpad vimokṣāya nibandhāyāsurī matā |
+mā śucaḥ saṃpadaṃ daivīm abhijāto 'si pāṇḍava ||BhG_16.5||
+
+dvau bhūta-sargau loke 'smin daiva āsura eva ca |
+daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||BhG_16.6||
+
+pravṛttiṃ ca nivṛttiṃ ca janā na vidur āsurāḥ |
+na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate ||BhG_16.7||
+
+kiṃ ca -
+asatyam apratiṣṭhaṃ te jagad āhur anīśvaram |
+aparaspara-saṃbhūtaṃ kim anyat kāma-haitukam ||BhG_16.8||
+
+etāṃ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpa-buddhayaḥ |
+prabhavanty ugra-karmāṇaḥ kṣayāya jagato 'hitāḥ ||BhG_16.9||
+
+kāmam āśritya duṣpūraṃ dambha-māna-madānvitāḥ |
+mohād gṛhītvāsad-grāhān pravartante 'śucivratāḥ ||BhG_16.10||
+
+kāmam icchā-viśeṣam āśritya avaṣṭabhya duṣpūram aśakya-pūraṇaṃ dambha-māna-madānvitā dambhaś ca mānaś ca madaś ca dambha-māna-madās tair anvitāḥ dambha-māna-madānvitā mohād avivekato gṛhītvā upādāya asad-grāhān aśubha-niścayān pravartante loke aśuci-vratāḥ aśucīni vratāni yeṣāṃ te 'śuci-vratāḥ ||BhGS_16.10||
+
+kiṃ ca -
+cintām aparimeyāṃ ca pralayāntām upāśritāḥ |
+kāmopabhoga-paramā etāvad iti niścitāḥ ||BhG_16.11||
+
+āśā-pāśa-śatair baddhāḥ kāma-krodha-parāyaṇāḥ |
+īhante kāma-bhogārtham anyāyenārtha-saṃcayān ||BhG_16.12||
+
+idam adya mayā labdham idaṃ prāpsye manoratham |
+idam astīdam api me bhaviṣyati punar dhanam ||BhG_16.13||
+
+asau mayā hataḥ śatrur haniṣye cāparān api |
+īśvaro 'ham ahaṃ bhogī siddho 'haṃ balavān sukhī ||BhG_16.14||
+
+āḍhyo 'bhijanavān asmi ko 'nyo 'sti sadṛśo mayā |
+yakṣye dāsyāmi modiṣya ity ajñāna-vimohitāḥ ||BhG_16.15||
+
+aneka-citta-vibhrāntā moha-jāla-samāvṛtāḥ |
+prasaktāḥ kāma-bhogeṣu patanti narake 'śucau ||BhG_16.16||
+
+ātma-saṃbhāvitāḥ stabdhā dhana-māna-madānvitāḥ |
+yajante nāma-yajñais te dambhenāvidhi-pūrvakam ||BhG_16.17||
+
+==============================
+ahaṃkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ |
+mām ātma-para-deheṣu pradviṣanto 'bhyasūyakāḥ ||BhG_16.18||
+
+tān ahaṃ dviṣataḥ krūrān saṃsāreṣu narādhamān |
+kṣipāmy ajasram aśubhān āsurīṣv eva yoniṣu ||BhG_16.19||
+
+tān ahaṃ sanmārgapratipakṣabhūtān sādhudveṣiṇo dviṣataś ca māṃ krūrān saṃsāreṣu evānekanarakasaṃsaraṇamārgeṣu narādhamān adharmadoṣavattvāt kṣipāmi prakṣipāmy ajasraṃ saṃtatam aśubhān aśubhakarmakāriṇaḥ āsurīṣveva krūra-karma-prāyāsu vyāghraṆsahādiyoniṣu kṣipāmītyanena saṃbandhaḥ ||BhGS_16.19||
+
+āsurīṃ yonim āpannā mūḍhā janmani janmani |
+mām aprāpyaiva kaunteya tato yānty adhamāṃ gatim ||BhG_16.20||
+
+tri-vidhaṃ narakasyedaṃ dvāraṃ nāśanam ātmanaḥ |
+kāmaḥ krodhas tathā lobhas tasmād etat trayaṃ tyajet ||BhG_16.21||
+
+etair vimuktaḥ kaunteya tamo-dvārais tribhir naraḥ |
+ācaraty ātmanaḥ śreyas tato yāti parāṃ gatim ||BhG_16.22||
+
+yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ |
+na sa siddhim avāpnoti na sukhaṃ na parāṃ gatim ||BhG_16.23||
+
+yaḥ śāstra-vidhiṃ śāstraṃ vedas tasya vidhiṃ kartavyākartavya-jñāna-kāraṇaṃ vidhi-pratiṣedhākhyam utsṛjya tyaktvā vartate kāma-kārataḥ kāma-prayuktaḥ san, na sa siddhiṃ puruṣārtha-yogyatām avāpnoti, nāpy asmin loke sukhaṃ nāpi parāṃ prakṛṣṭāṃ gatiṃ svargaṃ mokṣaṃ vā ||BhGS_16.23||
+
+tasmāc chāstraṃ pramāṇaṃ te kāryākārya-vyavasthitau |
+jñātvā śāstra-vidhānoktaṃ karma kartum ihārhasi ||BhG_16.24||
+
+iti śrīmat-paramahaṃsa-parivrājakācāryasya śrī-govinda-bhagavat-pūjya-pāda-
+śiṣyasya śrīmac-chaṃkara-bhagavataḥ kṛtau śrīmad-bhagavad-gītā-bhāṣye
+ṣoḍāśo 'dhyāyaḥ ||
+
+
+=== Chapter 4 ===
+
+BhG 17
+atha śraddhā-traya-vibhāga-yogaḥ
+saptadaśo 'dhyāyaḥ
+tasmāc chāstraṃ pramāṇaṃ ta [Gītā 16.24] iti bhagavad-vākyāl labdha-praśna-bījo 'rjuna uvāca -
+ye śāstra-vidhim utsṛjya yajante śraddhayānvitāḥ |
+teṣāṃ niṣṭhā tu kā kṛṣṇa sattvam āho rajas tamaḥ ||BhG_17.1||
+
+tri-vidhā bhavati śraddhā dehināṃ sā svabhāva-jā |
+sāttvikī rājasī caiva tāmasī ceti tāṃ śṛṇu ||BhG_17.2||
+
+sattvānurūpā sarvasya śraddhā bhavati bhārata |
+śraddhā-mayo 'yaṃ puruṣo yo yac-chraddhaḥ sa eva saḥ ||BhG_17.3||
+
+yajante sāttvikā devān yakṣa-rakṣāṃsi rājasāḥ |
+pretān bhūta-gaṇāṃś cānye yajante tāmasā janāḥ ||BhG_17.4||
+
+yajante pūjayanti sāttvikāḥ sattva-niṣṭhā devān, yakṣa-rakṣāṃsi rājasāḥ, pretān bhūta-gaṇāṃś ca sapta-mātṛkādīṃś cānye yajante tāmasāḥ janāḥ ||BhGS_17.4||
+
+aśāstra-vihitaṃ ghoraṃ tapyante ye tapo janāḥ |
+dambhāhaṃkāra-saṃyuktāḥ kāma-rāga-balānvitāḥ ||BhG_17.5||
+
+karśayantaḥ śarīra-sthaṃ bhūta-grāmam acetasaḥ |
+māṃ caivāntaḥ-śarīra-sthaṃ tān viddhy āsura-niścayān ||BhG_17.6||
+
+āhāras tv api sarvasya trividho bhavati priyaḥ |
+yajñas tapas tathā dānaṃ teṣāṃ bhedam imaṃ śṛṇu ||BhG_17.7||
+
+āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ |
+rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ ||BhG_17.8||
+
+kaṭv-amla-lavaṇātyuṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ |
+āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ ||BhG_17.9||
+
+yāta-yāmaṃ gata-rasaṃ pūti paryuṣitaṃ ca yat |
+ucchiṣṭam api cāmedhyaṃ bhojanaṃ tāmasa-priyam ||BhG_17.10||
+
+aphalākāṅkṣibhir yajño vidhi-dṛṣṭo ya ijyate |
+yaṣṭavyam eveti manaḥ samādhāya sa sāttvikaḥ ||BhG_17.11||
+
+aphalākāṅkṣibhir aphalārthibhir yajño vidhi-dṛṣṭaḥ śāstra-codanādṛṣṭau yo yajña ijyate nirvartyate, yaṣṭavyam eveti yajña-svarūpa-nirvartanam eva kāryam iti manaḥ samādhāya, nānena puruṣārtho mama kartavya ity evaṃ niścitya, sa sāttviko yajña ucyate ||BhGS_17.11||
+
+abhisaṃdhāya tu phalaṃ dambhārtham api caiva yat |
+ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam ||BhG_17.12||
+
+abhisandhāya tu uddiśya phalaṃ dambhārtham api caiva yad ijyate bharata-śreṣṭha taṃ yajñaṃ viddhi rājasam ||BhGS_17.12||
+
+vidhi-hīnam asṛṣṭānnaṃ mantra-hīnam adakṣiṇam |
+śraddhā-virahitaṃ yajñaṃ tāmasaṃ paricakṣate ||BhG_17.13||
+
+deva-dvija-guru-prājña-pūjanaṃ śaucam ārjavam |
+brahmacaryam ahiṃsā ca śārīraṃ tapa ucyate ||BhG_17.14||
+
+anudvega-karaṃ vākyaṃ satyaṃ priya-hitaṃ ca yat |
+svādhyāyābhyasanaṃ caiva vāṅ-mayaṃ tapa ucyate ||BhG_17.15||
+
+manaḥ-prasādaḥ saumyatvaṃ maunam ātma-vinigrahaḥ |
+bhāva-saṃśuddhir ity etat tapo mānasam ucyate ||BhG_17.16||
+
+śraddhayā parayā taptaṃ tapas tat trividhaṃ naraiḥ |
+aphalākāṅkṣibhir yuktaiḥ sāttvikaṃ paricakṣate ||BhG_17.17||
+
+śraddhayā āstikya-buddhyā parayā prakṛṣṭayā taptam anuṣṭhitaṃ tapas tat prakṛtaṃ tri-vidhaṃ tri-prakāraṃ try-adhiṣṭhānaṃ narair anuṣṭhātṛbhir aphalākāṅkṣibhiḥ phalākāṅkṣā-rahitair yuktaiḥ samāhitair yad īdṛśaṃ tapaḥ, tat sāttvikaṃ sattva-nirvṛttaṃ paricakṣate kathayanti śiṣṭāḥ ||BhGS_17.17||
+
+satkāra-māna-pūjārthaṃ tapo dambhena caiva yat |
+kriyate tad iha proktaṃ rājasaṃ calam adhruvam ||BhG_17.18||
+
+mūḍha-grāheṇātmano yat pīḍayā kriyate tapaḥ |
+parasyotsādanārthaṃ vā tat tāmasam udāhṛtam ||BhG_17.19||
+
+mūḍha-grāheṇa aviveka-niścayena ātmanaḥ pīḍayā yat kriyate tapaḥ parasya utsādanārthaṃ vināśārthaṃ vā, tat tāmasaṃ tapa udāhṛtam ||BhGS_17.19||
+
+dātavyam iti yad dānaṃ dīyate 'nupakāriṇe |
+deśe kāle ca pātre ca tad dānaṃ sāttvikaṃ smṛtam ||BhG_17.20||
+
+yat tu pratyupakārārthaṃ phalam uddiśya vā punaḥ |
+dīyate ca parikliṣṭaṃ tad dānaṃ rājasaṃ smṛtam ||BhG_17.21||
+
+adeśa-kāle yad dānam apātrebhyaś ca dīyate |
+asatkṛtam avajñātaṃ tat tāmasam udāhṛtam ||BhG_17.22||
+
+oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ |
+brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā ||BhG_17.23||
+
+tasmād om ity udāhṛtya yajña-dāna-tapaḥ-kriyāḥ |
+pravartante vidhānoktāḥ satataṃ brahma-vādinām ||BhG_17.24||
+
+tasmāt om ity udāhṛtya uccārya yajña-dāna-tapaḥ-kriyā yajñādi-svarūpāḥ kriyāḥ pravartante vidhānoktāḥ śāstra-coditāḥ satataṃ sarvadā brahma-vādināṃ brahma-vadana-śīlānām ||BhGS_17.24||
+
+tad ity anabhisaṃdhāya phalaṃ yajña-tapaḥ-kriyāḥ |
+dāna-kriyāś ca vividhāḥ kriyante mokṣa-kāṅkṣibhiḥ ||BhG_17.25||
+
+sad-bhāve sādhu-bhāve ca sad ity etat prayujyate |
+praśaste karmaṇi tathā sac-chabdaḥ pārtha yujyate ||BhG_17.26||
+
+yajñe tapasi dāne ca sthitiḥ sad iti cocyate |
+karma caiva tad-arthīyaṃ sad ity evābhidhīyate ||BhG_17.27||
+
+aśraddhayā hutaṃ dattaṃ tapas taptaṃ kṛtaṃ ca yat |
+asad ity ucyate pārtha na ca tat pretya no iha ||BhG_17.28||

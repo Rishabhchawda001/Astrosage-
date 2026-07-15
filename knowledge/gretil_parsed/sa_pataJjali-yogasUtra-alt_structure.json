@@ -1,0 +1,1117 @@
+{
+  "file": "sa_pataJjali-yogasUtra-alt.xml",
+  "xml_id": "sa_pataJjali-yogasUtra-alt",
+  "title": "Yogasūtra",
+  "total_chapters": 2,
+  "total_verses": 181,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 181,
+      "verse_groups": [
+        {
+          "lines": [
+            "prathamaḥ samādhi-pādaḥ |",
+            "atha yogānuśāsanam ||1.1||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "yogaś citta-vṛtti-nirodhaḥ ||1.2||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadā draṣṭuḥ sva-rūpe '-vasthānam ||1.3||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vṛtti-sārūpyam itaratra ||1.4||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vṛttayaḥ pañcatayyaḥ kliṣṭā akliṣṭāḥ [ ] ||1.5||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pramāṇa-viparyaya-vikalpa-nidrā-smṛtayaḥ ||1.6||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratyakṣānumānāgamāḥ pramāṇāni ||1.7||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viparyayo mithyā-jñānam atad-rūpa-pratiṣṭham ||1.8||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śabda-jñānānupātī vastu-śūnyo vikalpāḥ ||1.9||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "abhāva-pratyayālambanā vṛttir nidrā ||1.10||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anubhūta-viṣayāsaṃpramoṣaḥ smṛtiḥ ||1.11||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "abhyāsa-vairāgyābhyāṃ tan-nirodhaḥ ||1.12||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tat-paraṃ puruṣa-khyāter guṇa-vaitṛṣṇyam ||1.16||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vitarka-vicārānandāsmitā-rūpānugamāt saṃprajñātaḥ ||1.17||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "virāma-pratyayābhyāsa-pūrvaḥ saṃskāra-śeṣo '-nyaḥ ||1.18||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhava-pratyayo videha-prakṛti-layānām ||1.19||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śraddhā-vīrya-smṛti-samādhi-prajñā-pūrvaka itareṣām ||1.20||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tīvra-saṃvegānām āsannaḥ ||1.21||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "mṛdu-madhyādhimātratvāt tato '-pi viśeṣaḥ ||1.22||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "īśvara-praṇidhānād vā ||1.23||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kleśa-karma-vipākāśayair aparāmṛṣṭaḥ puruṣa-viśeṣa īśvaraḥ ||1.24||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra niratiśayaṃ sarvajña-bījam ||1.25||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pūrveṣām [ ] api guruḥ kālenānavacchedāt ||1.26||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya vācakaḥ praṇavaḥ ||1.27||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "taj-japas tadartha-bhāvanam ||1.28||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ pratyak-cetanādhigamo '-py antarāyābhāvaś ca ||1.29||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vyādhi-styāna-saṃśaya-pramādālasyāvirati-bhrānti-darśanālabdha-bhuumikatvānavasthitatvāni citta-vikṣepās. te '-ntarāyāḥ ||1.30||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "duḥkha-daurmanasyāṅgamejayatva-śvāsa-praśvāsā vikṣepa-sahabhuvaḥ ||1.31||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tat-pratiṣedhārtham eka-tattvābhyāsaḥ ||1.32||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "maitrī-karuṇā-muditopekṣaṇāṃsukha-duḥkha-puṇyāpuṇya-viṣayāṇāṃ bhāvanātaś citta-prasādanam ||1.33||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pracchardana-vidhāraṇābhyāṃ vā prāṇasya ||1.34||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viṣayavatī vā pravṛttir utpannā manasaḥ sthiti-nibandhanī ||1.35||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśokā vā jyotiṣmatī ||1.36||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vīta-rāga-viṣayaṃ vā cittam ||1.37||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svapna-nidrā-jñānālambanaṃ vā ||1.38||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yathābhimata-dhyānād vā ||1.39||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "paramāṇu-parama-mahattvānto '-sya vaśīkāraḥ ||1.40||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṣīṇa-vṛtter, abhijātasyeva maṇer, grahītṛ-grahaṇa-grāhyeṣutatstha-tadañjanatā-samāpattiḥ ||1.41||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra śabdārtha-jñāna-vikalpaiḥ saṃkīrṇā savitarkā samāpattiḥ ||1.42||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "smṛti-pariśuddhau sva-rūpa-śūnyevārtha-mātra-nirbhāsā [ ]nirvitarkā ||1.43||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etayaiva savicārā nirvicārā ca sūkṣma-viṣayā vyākhyātā ||1.44||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sūkṣma-viṣayatvaṃ cāliṅga-paryavasānam ||1.45||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rtaṃbharā tatra prajñā ||1.48||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrutānumāna-prajñābhyām anya-viṣayā [ ] viśeṣārthatvāt ||1.49||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tajjaḥ saṃskāro '-nya-saṃskāra-pratibandhī ||1.50||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasyāpi nirodhe sarva-nirodhān nirbījaḥ samādhiḥ [ ] ||1.51||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samādhi-bhāvanārthaḥ kleśa-tanūkaraṇārthaś ca ||2.2||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avidyāsmitā-rāga-dveṣābhiniveśāḥ kleśāḥ [ ] ||2.3||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "avidyā kṣetram uttareṣāṃ prasupta-tanu-vicchinnodārāṇām ||2.4||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "anityāśuci-duḥkhānātmasu nitya-śuci-sukhātma-khyātir avidyā ||2.5||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dṛg-darśana-śaktyor ekātmatevāsmitā ||2.6||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sva-rasa-vāhī viduṣo '-pi tathā-rūḍho '-bhiniveśaḥ ||2.9||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te pratiprasava-heyāḥ sūkṣmāḥ ||2.10||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhyāna-heyās tad-vṛttayaḥ ||2.11||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kleśa-mūlaḥ karmāśayo dṛṣṭādṛṣṭa-janma-vedanīyaḥ ||2.12||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sati mūle tad-vipāko jātyāyur-bhogāḥ ||2.13||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te hlāda-paritāpa-phalāḥ puṇyāpuṇya-hetutvāt ||2.14||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pariṇāma-tāpa-saṃskāra-duḥkhair guṇa-vṛtti-virodhāc ca duḥkhameva sarvaṃ vivekinaḥ ||2.15||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "heyaṃ duḥkham anāgatam ||2.16||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "draṣṭṛ-dṛśyayoḥ saṃyogo heya-hetuḥ ||2.17||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prakāśa-kriyā-sthiti-śīlaṃ bhūtendriyātmakaṃ bhogāpavargārthaṃdṛśyam ||2.18||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśeṣāviśeṣa-liṅga-mātrā-liṅgāni [ ] guṇa-parvāṇi [ ] ||2.19||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "draṣṭā dṛśi-mātraḥ śuddho '-pi pratyayānupaśyaḥ ||2.20||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadartha eva dṛśyasyātmā ||2.21||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṛtārthaṃ prati naṣṭam apy anaṣṭaṃ tad, anya-sādhāraṇatvāt ||2.22||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sva-svāmi-śaktyoḥ sva-rūpopalabdhi-hetuḥ saṃyogaḥ ||2.23||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya hetur avidyā ||2.24||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadabhāvāt saṃyogābhāvo hānaṃ. tad dṛśeḥ kaivalyam ||2.25||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viveka-khyātir aviplavā hānopāyaḥ ||2.26||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya saptadhā prānta-bhūmiḥ prajñā ||2.27||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "yogāṅgānuṣṭhānād aśuddhi-kṣaye jñāna-dīptir, āviveka-khyāteḥ ||2.28||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jāti-deśa-kāla-samayānavacchinnāḥ [ ] sārvabhaumā mahā-vratam ||2.31||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śauca-saṃtoṣa-tapaḥ-svādhyāyeśvara-praṇidhānāni niyamāḥ ||2.32||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vitarka-bādhane pratipakṣa-bhāvanam ||2.33||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vitarkā hiṃsādayaḥ kṛta-kāritānumoditā lobha-krodha-moha-pūrvakāmṛdu-madhyādhimātrā duḥkhājñānānanta-phalā itipratipakṣa-bhāvanam ||2.34||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "ahiṃsā-pratiṣṭhāyāṃ tat-saṃnidhau vaira-tyāgaḥ ||2.35||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "satya-pratiṣṭhāyāṃ kriyā-phalāśrayatvam ||2.36||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "asteya-pratiṣṭhāyāṃ sarva-ratnopasthānam ||2.37||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "brahmacarya-pratiṣṭhāyāṃ vīrya-lābhaḥ ||2.38||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "aparigraha-sthairye janma-kathaṃtā-saṃbodhaḥ ||2.39||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śaucāt svāṅga-jugupsā parair asaṃsargaḥ ||2.40||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sattva-śuddhi-saumanasyaikāgryendriya-jayātma-darśana-yogyatvāni [ ]ca ||2.41||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃtoṣād anuttamaḥ [ ] sukha-lābhaḥ ||2.42||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāyendriya-siddhir aśuddhi-kṣayāt tapasaḥ ||2.43||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "svādhyāyād iṣṭa-devatā-saṃprayogaḥ ||2.44||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samādhi-siddhir īśvara-praṇidhānāt ||2.45||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthira-sukham āsanam ||2.46||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prayatna-śaithilyānanta-samāpattibhyām [ ] ||2.47||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato dvandvānabhighātaḥ ||2.48||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasmin sati śvāsa-praśvāsayor gati-vicchedaḥ prāṇāyāmaḥ ||2.49||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bāhyābhyantara-stambha-vṛttir [ ] deśa-kāla-saṃkhyābhiḥparidṛṣṭo dīrgha-sūkṣmaḥ ||2.50||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bāhyābhyantara-viṣayākṣepī caturthaḥ ||2.51||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ kṣīyate prakāśāvaraṇam ||2.52||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhāraṇāsu ca yogyatā manasaḥ ||2.53||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sva-viṣayāsaṃprayoge cittasya sva-rūpānukāra [ ] ivendriyāṇāṃpratyāhāraḥ ||2.54||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ paramā vaśyatendriyāṇām ||2.55||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tṛtīyaḥ vibhūti-pādaḥ |",
+            "deśa-bandhaś cittasya dhāraṇā ||3.1||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tatra pratyayaika-tānatā dhyānam ||3.2||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad evārtha-mātra-nirbhāsaṃ sva-rūpa-śūnyam iva samādhiḥ ||3.3||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "trayam ekatra saṃyamaḥ ||3.4||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "taj-jayāt prajñālokaḥ ||3.5||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya bhūmiṣu viniyogaḥ ||3.6||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "trayam antaraṅgaṃ pūrvebhyaḥ ||3.7||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad api bahiraṅgaṃ nirbījasya ||3.8||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vyutthāna-nirodha-saṃskārayor abhibhava-prādurbhāvaunirodha-kṣaṇa-cittānvayo nirodha-pariṇāmaḥ ||3.9||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tasya praśānta-vāhitā saṃskārāt ||3.10||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sarvārthataikāgratayoḥ kṣayodayau cittasya samādhi-pariṇāmaḥ ||3.11||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ punaḥ [ ] śāntoditau tulya-pratyayaucittasyaikāgratā-pariṇāmaḥ ||3.12||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "etena bhūtendriyeṣu dharma-lakṣaṇāvasthā-pariṇāmā vyākhyātāḥ ||3.13||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śāntoditāvyapadeśya-dharmānupātī dharmī ||3.14||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kramānyatvaṃ pariṇāmānyatve hetuḥ ||3.15||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pariṇāma-traya-saṃyamād atītānāgata-jñānam ||3.16||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śabdārtha-pratyayānām itaretarādhyāsāt saṃkaraḥ.tat-pravibhāga-saṃyamāt sarva-bhūta-ruta-jñānam ||3.17||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "saṃskāra-sākṣat-karaṇāt pūrva-jāti-jñānam ||3.18||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pratyayasya para-citta-jñānam ||3.19||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na ca tat sālambanaṃ, [ ] tasyāviṣayībhūtatvāt ||3.20||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāya-rūpa-saṃyamāt tad-grāhya-śakti-stambhecakṣuḥ-prakāśāsaṃprayoge '-ntar-dhānam ||3.21||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sopakramaṃ nirupakramaṃ ca karma. tat-saṃyamād aparānta-jñānam,ariṣṭebhyo vā ||3.22||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "maitryādiṣu balāni ||3.23||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "baleṣu hasti-balādīni ||3.24||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pravṛttyāloka-nyāsāt sūkṣma-vyavahita-viprakṛṣṭa-jñānam ||3.25||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bhuvana-jñānaṃ sūrye saṃyamāt ||3.26||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "candre tārā-vyūha-jñānam ||3.27||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "dhruve tad-gati-jñānam ||3.28||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nābhi-cakre kāya-vyūha-jñānam ||3.29||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kaṇṭha-kūpe kṣut-pipāsā-nivṛttiḥ ||3.30||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prātibhād vā sarvam ||3.33||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hṛdaye citta-saṃvit ||3.34||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te samādhāv upasargā. vyutthāne siddhayaḥ ||3.37||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bandha-kāraṇa-śaithilyāt pracāra-saṃvedanāc ca cittasyapara-śarīrāveśaḥ ||3.38||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "udāna-jayāj jala-paṅka-kaṇṭakādiṣv asaṅga utkrāntiś ca ||3.39||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "samāna-jayāj jvalanam [ ] ||3.40||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "śrotrākāśayoḥ saṃbandha-saṃyamād divyaṃ śrotram ||3.41||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kāyākāśayoḥ saṃbandha-saṃyamāl laghu-tūla-samāpatteścākāśa-gamanam ||3.42||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "bahir akalpitā vṛttir mahā-videhā. tataḥ prakāśāvaraṇa-kṣayaḥ ||3.43||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthūla-sva-rūpa-sūkṣmānvayārthavattva-saṃyamād bhūta-jayaḥ ||3.44||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato '-ṇimādi-prādurbhāvaḥ kāya-saṃpat tad-dharmānabhighātaś ca ||3.45||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "rūpa-lāvaṇya-bala-vajra-saṃhananatvāni kāya-saṃpat ||3.46||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "grahaṇa-sva-rūpāsmitānvayārthavattva-saṃyamād indriya-jayaḥ ||3.47||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tato mano-javitvaṃ [ ] vikaraṇa-bhāvaḥ pradhāna-jayaś ca ||3.48||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sattva-puruṣānyatā-khyāti-mātrasya sarva-bhāvādhiṣṭhātṛtvaṃsarva-jñātṛtvaṃ ca ||3.49||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad-vairāgyād api doṣa-bīja-kṣaye kaivalyam ||3.50||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sthānyupanimantraṇe [ ] saṅga-smayākaraṇaṃ punaraniṣṭa-prasaṅgāt ||3.51||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṣaṇa-tat-kramayoḥ saṃyamād vivekajaṃ jñānam ||3.52||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jāti-lakṣaṇa-deśair anyatānavacchedāt tulyayos tataḥ pratipattiḥ ||3.53||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tārakaṃ sarva-viṣayaṃ sarvathā-viṣayam akramaṃ ceti vivekajaṃjñānam ||3.54||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sattva-puruṣayoḥ śuddhi-sāmye kaivalyam iti [ ] ||3.55||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "caturthaḥ kaivalya-pādaḥ |",
+            "janmauṣadhi-mantra-tapaḥ-samādhijāḥ siddhayaḥ ||4.1||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "jātyantara-pariṇāmaḥ prakṛtyāpūrāt ||4.2||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nimittam aprayojakaṃ prakṛtīnāṃ. varaṇa-bhedas tu tataḥ kṣetrikavat ||4.3||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "nirmāṇa-cittāny asmitā-mātrāt ||4.4||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pravṛtti-bhede prayojakaṃ cittam ekam anekeṣām ||4.5||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatra dhyānajam anāśayam ||4.6||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "karmāśuklākṛṣṇaṃ yoginas. trividham itareṣām ||4.7||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tatas tad-vipākānuguṇānām evābhivyaktir vāsanānām ||4.8||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "jāti-deśa-kāla-vyavahitānām apy ānantaryaṃ, smṛti-saṃskārayoreka-rūpatvāt ||4.9||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tāsām anāditvaṃ cāśiṣo [ ] nityatvāt ||4.10||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hetu-phalāśrayālambanaiḥ saṃgṛhītatvād eṣām abhāve tadabhāvaḥ ||4.11||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "atītānāgataṃ sva-rūpato '-sty adhva-bhedād dharmāṇām ||4.12||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "te vyakta-sūkṣmā guṇātmānaḥ ||4.13||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "pariṇāmaikatvād vastu-tattvam ||4.14||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "vastu-sāmye citta-bhedāt tayor vibhaktaḥ [ ] panthāḥ ||4.15||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na caika-citta-tantraṃ vastu tad apramāṇakaṃ tadā kiṃ syāt ||4.16||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "taduparāgāpekṣatvāt [ ] cittasya vastu jñātājñātam ||4.17||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "sadā jñātāś citta-vṛttayas, tat-prabhoḥ puruṣasyāpariṇāmitvāt ||4.18||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "na tat svābhāsaṃ, dṛśyatvāt ||4.19||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "eka-samaye cobhayānavadhāraṇam ||4.20||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "cittāntara-dṛśye buddhi-buddher atiprasaṅgaḥ smṛti-saṃkaraś ca ||4.21||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "citer apratisaṃkramāyās tadākārāpattau sva-buddhi-saṃvedanam ||4.22||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "draṣṭṛ-dṛśyoparaktaṃ cittaṃ sarvārtham ||4.23||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tad asaṃkhyeya-vāsanā-citram [ ] api parārthaṃ, saṃhatya-kāritvāt ||4.24||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "viśeṣa-darśina ātma-bhāva-bhāvanā-vinivṛttiḥ [ ] ||4.25||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadā viveka-nimnaṃ kaivalya-prāg-bhāraṃ cittam ||4.26||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tac-chidreṣu pratyayāntarāṇi saṃskārebhyaḥ ||4.27||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "hānam eṣāṃ kleśavad uktam ||4.28||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "prasaṃkhyāne '-py akusīdasya sarvathā-viveka-khyāter dharma-meghaḥsamādhiḥ ||4.29||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ kleśa-karma-nivṛttiḥ ||4.30||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tadā sarvāvaraṇa-malāpetasya jñānasyānantyāj jñeyam alpam ||4.31||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "tataḥ kṛtārthānāṃ pariṇāma-krama-parisamāptir [ ] guṇānām ||4.32||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "kṣaṇa-pratiyogī pariṇāmāparānta-nirgrāhyaḥ kramaḥ ||4.33||"
+          ],
+          "line_count": 1
+        },
+        {
+          "lines": [
+            "puruṣārtha-śūnyānāṃ guṇānāṃ pratiprasavaḥ kaivalyaṃ,sva-rūpa-pratiṣṭhā vā citi-śaktir[] iti [ ] ||4.34||"
+          ],
+          "line_count": 1
+        }
+      ],
+      "prose_sample": [
+        "tatra sthitau yatno '-bhyāsaḥ ||1.13|| sa [?] tu [?] [ ] dīrgha-kāla-nairantarya-satkārāsevito [ ]dṛḍha-bhūmiḥ ||1.14|| dṛṣṭānuśravika-viṣaya-vitṛṣṇasya vaśīkāra-saṃjñā vairāgyam||15||",
+        "tā eva sabījaḥ samādhiḥ ||1.46|| nirvicāra-vaiśāradye '-dhyātma-prasādaḥ ||1.47||",
+        "[iti patañjali-viracite yoga-sūtre prathamaḥ samādhi-pādaḥ |]"
+      ]
+    },
+    {
+      "chapter_num": 1,
+      "verse_count": 0,
+      "verse_groups": [],
+      "prose_sample": [
+        "1. kliṣṭākli# Jhajjar.\n2. sa tu om. in Vivaraṇa. These two words could originally have been a part of the Bhāṣya.\n3. #kālādaranai# KSS. #tkārase# KSS.\n4. [sa] at the beginning in the Vivaraṇa edn. sa without brackets at the beginning in KSS. However,note: pātanikā '-'sa eṣa'-' iti. sūtraṃ '-'pūrveṣām api guruḥ, kālenānavacchedāt'-'- Vā.\n5. #rbhāsān Vivaraṇa.\n6. #bhyāṃ sāmānya# KSS.\n7. iti not used at the end as it is used in the case of the last sūtras of the third and fourth pādas.\n8. Colophons at the end of the pādas vary considerably in the editions. Mss. must be consulted to determine the original forms of such colophons. They have been supplied here by the editor.\n9. #śāḥ pañca kle# Vidyāsāgara.\n10. #nujanmā Vivaraṇa, which records also the reading accepted above.\n11. #nujanmā Vivaraṇa, which records also the reading accepted above.\n12. #trā-liṅgā Vivaraṇa.\n13. #rvāṇaḥ Vivaraṇa.\n14. #-satyamaste# Vidyāsāgara.\n15. ete additional at the beginning KSS.\n16. #kāgratendri# KSS. ekāgratā, not aikāgrya, is used in 3.11-12, but Bhāṣya, Vivaraṇa, and Vā. have aikāgrya here.\n17. #ttamasu# i.e. a compound in Vidyāsāgara; Bhāṣya does not indicate how it read the sūtra.\n18. #nantya-sa# KSS.\n19. sa tu additional at the beginning in KSS; however, Vivaraṇa and Vā. clearly indicate that sa tu is not a part of the sūtra for them.\n20. #ttasya sva# Vidyāsāgara; however, Bhāṣya, etc. clearly favor the compound reading.\n21. tatra pu# Vivaraṇa edn. First two words om. KSS.\n22. na tat KSS. ca sā# Vivaraṇa.\n23. #śeṣād bho# KSS.\n24. #rārthāt Vivaraṇa. #rārthānyasvā# KSS. svārthe saṃ# could have been the Vivaraṇa author'-s reading.\n25. #jayāt prajva# KSS.\n26. #javitvaṃ Vidyāsāgara, Jhajjar, KSS. Is #javatvaṃ in Vivaraṇa an attempt to eliminate a grammatically difficult matvarthīya ?\n27. #pama# Vivaraṇa.\n28. iti om. Jhajjar, KSS. iti[ḥ] sūtra-samāptau Vā.\n29. #ditvam āśi# KSS.\n30. viviktaḥ Vivaraṇa, KSS.\n31. #pekṣitvāt Vidyāsāgara, Jhajjar, KSS. Is #pekṣatvāt in Vivaraṇa an attempt to eliminate a grammatically difficult matvarthīya?\n32. #nābhiś ci# Vidyāsāgara, Jhajjar, KSS. Bhāṣya too could have read so.\n33. #nā-ni# Vivaraṇa, KSS.\n34. #krama-sa# Vidyāsāgara, Jhajjar, KSS. Reading of Vā. cannot be determined.\n35. #śakter KSS.\n36. sautra iti-śabdaḥ śāstra-parisamāptau Vā."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "file": "abhinavagupta_bhairava_stava_gretil.xml",
+  "xml_id": "sa_abhinavagupta-bhairavastava",
+  "title": "Bhairavastava",
+  "total_chapters": 1,
+  "total_verses": 10,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "verse_count": 10,
+      "verse_groups": [
+        {
+          "lines": [
+            "vyāptacarācarabhāvaviśeṣaṃ cinmayam ekam anantam anādim |",
+            "bhairavanātham anāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "tvanmayam etad aśeṣam idānīṃ bhāti mama tvadanugrahaśaktyā |",
+            "tvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "svātmani viśvagaye tvayi nāthe tena na saṃsṛtibhītikathāsti |",
+            "satsv api durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "antaka māṃ prati mā dṛśam enāṃ krodhakarālatamāṃ vinidhehi |",
+            "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo 'smi ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "itthaṃ upoḍhabhavanmayasaṃviddīdhitidāritabhūritamisraḥ |",
+            "mṛtyuyamāntakakarmapiśācair nātha namo 'stu na jātu bibhemi ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "proditasatyavibodhamarīciprekṣitaviśvapadārthasatattvaḥ |",
+            "bhāvaparāmṛtanirbharapūrṇe tvayy aham ātmani nirvṛtim emi ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "mānasagocaram eti yadaiva kleśadaśā 'tanutāpavidhātrī [1] |",
+            "nātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭir udeti ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "śaṅkara satyam idaṃ vratadānasnānatapo bhavatāpavidāri |",
+            "tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "nṛtyati gāyati hṛṣyati gāḍhaṃ saṃvid iyaṃ mama bhairavanātha |",
+            "tvāṃ priyam āpya sudarśanam ekaṃ durlabham anyajanaiḥ samayajñam ||"
+          ],
+          "line_count": 2
+        },
+        {
+          "lines": [
+            "vasurasapauṣe kṛṣṇadaśamyām abhinavaguptaḥ stavam imam akarot |",
+            "yena vibhur bhavamarusantāpaṃ śamayati janasya jhaṭiti dayāluḥ ||"
+          ],
+          "line_count": 2
+        }
+      ],
+      "prose_sample": [
+        "samāptam stavam idam abhinavākhyam padyanavakam ||"
+      ]
+    }
+  ]
+}
