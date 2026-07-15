@@ -1,0 +1,18 @@
+{
+  "canonical_name": "Viṣṇusmṛti",
+  "xml_file": "vishnu_smriti_gretil.xml",
+  "aku_file": "vishnu_smriti_gretil_prose.json",
+  "editors": [
+    "I. Shima",
+    "I. Shima",
+    "T. Hayashi",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 2854,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

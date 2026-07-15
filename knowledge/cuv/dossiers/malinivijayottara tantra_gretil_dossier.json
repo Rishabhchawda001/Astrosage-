@@ -1,0 +1,19 @@
+{
+  "canonical_name": "Mālinīvijayottaratantra",
+  "xml_file": "malinivijayottara tantra_gretil.xml",
+  "aku_file": "malinivijayottara tantra_gretil_prose.json",
+  "editors": [
+    "Somadeva Vasudeva",
+    "Somadeva Vasudeva",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Adhikaras 1-4, 7, 11-17: critical edition by Somadeva Vasudeva, Wolfson College, Oxford, July 2000 (critical apparatus not included) (also publ. Pondichery c2004, Collection indologie, 97); Adhikaras 5, 6, 8-10, 18-23: ed. by Madhusudan Kaul Shastri, Bombay 1922 (Kashmir series of texts and studies ; 37)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 69,
+  "matching_txt_files": [
+    "malinivijayottara_tantra_djvu.txt"
+  ],
+  "witness_count": 2,
+  "verification_status": "pending"
+}

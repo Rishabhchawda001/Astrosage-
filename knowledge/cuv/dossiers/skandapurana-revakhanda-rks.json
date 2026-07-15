@@ -1,0 +1,70 @@
+{
+  "canonical_name": "skandapurANa-revAkhaNDa-rks",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_skandapurANa-revAkhaNDa-rks.xml",
+        "title": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "editors": [
+          "Jürgen Neuss",
+          "Jürgen Neuss",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "Giri, Oṅkārānanda (ed.) - atha bṛhat śrīnarmadāpurāṇam revākhaṇḍam (parivardhita tṛtīya saṃskaraṇa). Jñānasatra Prakāśana Nyāsa, Hośaṅgābāda: 1994.",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 7190,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [
+      {
+        "file": "skanda_puran_full.txt",
+        "publisher": "unknown",
+        "quality": 0.73,
+        "size_kb": 10140,
+        "authority": "Medium"
+      },
+      {
+        "file": "skanda_puran_venkateshwar_1867_ia_ia_djvu.txt",
+        "publisher": "Venkateshwar",
+        "quality": 0.69,
+        "size_kb": 8328,
+        "authority": "Low"
+      }
+    ],
+    "publisher_ocr": [
+      {
+        "file": "skanda_puran_ia_ia.txt",
+        "publisher": "unknown",
+        "quality": 0.0,
+        "size_kb": 290,
+        "authority": "Low"
+      },
+      {
+        "file": "skanda_puran_kedar_khemraj_ia_ia_djvu.txt",
+        "publisher": "unknown",
+        "quality": 0.46,
+        "size_kb": 2244,
+        "authority": "Low"
+      },
+      {
+        "file": "skanda_puran_5to7_ramtek_ia_ia_djvu.txt",
+        "publisher": "unknown",
+        "quality": 0.3,
+        "size_kb": 11894,
+        "authority": "Low"
+      },
+      {
+        "file": "skanda_puran_gp_ia_ia_djvu.txt",
+        "publisher": "unknown",
+        "quality": 0.21,
+        "size_kb": 10256,
+        "authority": "Low"
+      }
+    ],
+    "other": []
+  },
+  "total_witnesses": 7,
+  "verification_status": "pending"
+}

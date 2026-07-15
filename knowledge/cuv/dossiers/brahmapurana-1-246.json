@@ -1,0 +1,79 @@
+{
+  "canonical_name": "brahmapurANa-1-246",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_brahmapurANa-1-246.xml",
+        "title": "Brahmapurāṇa 1-246",
+        "editors": [
+          "Peter Schreiner",
+          "Renate Söhnen-Thieme",
+          "Peter Schreiner",
+          "Renate Söhnen-Thieme",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 13916,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [
+      {
+        "file": "brahma_puran_gita_press.txt",
+        "publisher": "Gita Press",
+        "quality": 0.76,
+        "size_kb": 2963,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_purana_part1_djvu.txt",
+        "publisher": "unknown",
+        "quality": 0.76,
+        "size_kb": 3984,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_anandashram.txt",
+        "publisher": "Anandashram",
+        "quality": 0.82,
+        "size_kb": 4949,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_anandashram_series.txt",
+        "publisher": "Anandashram",
+        "quality": 0.82,
+        "size_kb": 4949,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_part2.txt",
+        "publisher": "unknown",
+        "quality": 0.72,
+        "size_kb": 3863,
+        "authority": "Medium"
+      },
+      {
+        "file": "brahma_puran_chowkhamba_ia_ia_djvu.txt",
+        "publisher": "Chowkhamba",
+        "quality": 0.75,
+        "size_kb": 3986,
+        "authority": "Medium"
+      }
+    ],
+    "publisher_ocr": [
+      {
+        "file": "brahma_puran_gita_press_new.txt",
+        "publisher": "Gita Press",
+        "quality": 0.0,
+        "size_kb": 1066,
+        "authority": "Low"
+      }
+    ],
+    "other": []
+  },
+  "total_witnesses": 8,
+  "verification_status": "pending"
+}

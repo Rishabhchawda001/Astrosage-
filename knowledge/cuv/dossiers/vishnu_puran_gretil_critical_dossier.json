@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Viṣṇupurāṇa",
+  "xml_file": "vishnu_puran_gretil_critical.xml",
+  "aku_file": "vishnu_puran_gretil_critical_prose.json",
+  "editors": [
+    "Peter Schreiner",
+    "Peter Schreiner",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "The Critical Edition of the Viṣṇupurāṇam, critically edited by M. M. Pathak. Vadodara : Oriental Institute 1997-1999",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 0,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

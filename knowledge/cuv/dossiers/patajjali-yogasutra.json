@@ -1,0 +1,26 @@
+{
+  "canonical_name": "pataJjali-yogasUtra",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_pataJjali-yogasUtra.xml",
+        "title": "Yogasūtra",
+        "editors": [
+          "Philipp A. Maas",
+          "Philipp A. Maas",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "Kāśinātha Śāstrī Āgāśe: Vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni Pātañjalayogasūtrāṇi, tathā bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni pātañjalayogasūtrāṇi. sūtrapāṭhasūtravarṇānukramasūcībhyāṃ ca sanāthīkṛtāni ...",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 195,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

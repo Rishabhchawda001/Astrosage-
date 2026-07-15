@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Mārkaṇḍeyapurāṇa, 1-93",
+  "xml_file": "sa_mArkaNDeyapurANa1-93.xml",
+  "aku_file": null,
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 5231,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+  "xml_file": "brahma_samhita_gretil.xml",
+  "aku_file": "brahma_samhita_gretil_prose.json",
+  "editors": [
+    "n.n.",
+    "n.n.",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Haridas Shastri's edition, 1981",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 391,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

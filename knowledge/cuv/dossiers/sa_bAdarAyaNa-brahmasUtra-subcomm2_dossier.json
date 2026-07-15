@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+  "xml_file": "sa_bAdarAyaNa-brahmasUtra-subcomm2.xml",
+  "aku_file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json",
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 0,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Viṣṇudharma",
+  "xml_file": "vishnu_dharma_gretil.xml",
+  "aku_file": "vishnu_dharma_gretil_prose.json",
+  "editors": [
+    "Reinhold Grünendahl",
+    "Reinhold Grünendahl",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "R. Grünendahl: Visnudharmah - Precepts for the worship of Visnu. Wiesbaden : Harrassowitz, 3 vols., 1983-1989",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

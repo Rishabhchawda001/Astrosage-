@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Matsyapurāṇa, 1-176",
+  "xml_file": "sa_matsyapurANa1-176.xml",
+  "aku_file": null,
+  "editors": [
+    "Oliver Hellwig",
+    "Oliver Hellwig",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Calcutta: Caukhamba Vidyabhavan, 1954.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 8553,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

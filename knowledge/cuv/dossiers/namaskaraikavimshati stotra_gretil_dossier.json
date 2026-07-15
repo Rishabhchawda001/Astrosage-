@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Namaskāraikaviṃśatistotra",
+  "xml_file": "namaskaraikavimshati stotra_gretil.xml",
+  "aku_file": "namaskaraikavimshati stotra_gretil_prose.json",
+  "editors": [
+    "Klaus Wille",
+    "Klaus Wille",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse Tāra,",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 29,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

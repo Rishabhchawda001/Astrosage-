@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Ṛgvedakhilāni",
+  "xml_file": "rigveda_khila_gretil.xml",
+  "aku_file": "rigveda_khila_gretil_prose.json",
+  "editors": [
+    "Muneo Tokunaga",
+    "Muneo Tokunaga",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "J. Scheftelowitz: Die Apokryphen des Rgveda (Khilani). Breslau 1906 (Indische Forschungen 1)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 665,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

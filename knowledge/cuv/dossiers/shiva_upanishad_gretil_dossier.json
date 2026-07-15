@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Śivopaniṣad",
+  "xml_file": "shiva_upanishad_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Reinhold Grünendahl",
+    "Reinhold Grünendahl",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "included in: Un-published Upanisads / ed. by the Pandits of Adyar Library under the supervision of C. Kunhan Raja Adyar 1933 (The Adyar Library Series ; 14)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 625,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

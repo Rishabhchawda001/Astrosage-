@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Nāradapurāṇa (or Nāradīyapurāṇa)",
+  "xml_file": "sa_nAradapurANa.xml",
+  "aku_file": null,
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 15801,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

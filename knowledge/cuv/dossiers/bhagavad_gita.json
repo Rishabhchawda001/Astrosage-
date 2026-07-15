@@ -1,0 +1,46 @@
+{
+  "canonical_name": "Bhagavadgītā",
+  "alternative_names": {
+    "sanskrit": "भगवद्गीता",
+    "iast": "Bhagavadgītā",
+    "english": "Bhagavad Gita",
+    "hindi": "भगवद्गीता",
+    "common_abbreviations": ["BG", "BhG"]
+  },
+  "classification": {
+    "tradition": "Hindu",
+    "category": "Itihasa-Mahabharata",
+    "parent_text": "Mahābhārata",
+    "location": "Bhīṣmaparva, Chapters 25-42",
+    "canonical_status": "Smṛti"
+  },
+  "expected_structure": {
+    "chapters": 18,
+    "verses_total": 700,
+    "verses_per_chapter": {
+      "1": 46, "2": 72, "3": 43, "4": 42, "5": 29,
+      "6": 47, "7": 30, "8": 28, "9": 34, "10": 42,
+      "11": 55, "12": 20, "13": 35, "14": 27, "15": 20,
+      "16": 24, "17": 28, "18": 78
+    }
+  },
+  "witness_coverage": {
+    "gretil_xml": 2,
+    "publisher_unicode": 2,
+    "publisher_ocr": 2,
+    "total_witnesses": 6,
+    "commentaries_available": ["Shankara", "Bhaskara", "Madhva", "Ramanuja"],
+    "missing_witnesses": [
+      "BORI Critical Edition",
+      "Independent publisher editions",
+      "Manuscript transcriptions"
+    ]
+  },
+  "acquisition_queue": [
+    {"item": "BORI Critical Edition", "priority": "high"},
+    {"item": "Multiple publisher editions", "priority": "high"},
+    {"item": "Manuscript transcriptions", "priority": "medium"}
+  ],
+  "dossier_status": "complete",
+  "last_updated": "2026-07-15"
+}

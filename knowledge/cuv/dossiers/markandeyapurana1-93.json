@@ -1,0 +1,48 @@
+{
+  "canonical_name": "mArkaNDeyapurANa1-93",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_mArkaNDeyapurANa1-93.xml",
+        "title": "Mārkaṇḍeyapurāṇa, 1-93",
+        "editors": [
+          "members of the Sansknet Project",
+          "members of the Sansknet Project",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 5231,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [
+      {
+        "file": "markandeya_purana_hindi_djvu.txt",
+        "publisher": "unknown",
+        "quality": 0.73,
+        "size_kb": 3169,
+        "authority": "Medium"
+      },
+      {
+        "file": "markandeya_puran_hindi_translation.txt",
+        "publisher": "unknown",
+        "quality": 0.73,
+        "size_kb": 3169,
+        "authority": "Medium"
+      },
+      {
+        "file": "markandeya_puran_sanskrit.txt",
+        "publisher": "unknown",
+        "quality": 0.77,
+        "size_kb": 1799,
+        "authority": "Medium"
+      }
+    ],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 4,
+  "verification_status": "pending"
+}

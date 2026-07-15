@@ -1,0 +1,26 @@
+{
+  "canonical_name": "bhAgavatapurANa",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_bhAgavatapurANa.xml",
+        "title": "Bhāgavatapurāṇa",
+        "editors": [
+          "Ulrich Stiehl",
+          "Ulrich Stiehl",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 14112,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

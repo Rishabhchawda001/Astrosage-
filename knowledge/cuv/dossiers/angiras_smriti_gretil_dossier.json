@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Āṅgirasasmṛti",
+  "xml_file": "angiras_smriti_gretil.xml",
+  "aku_file": "angiras_smriti_gretil_prose.json",
+  "editors": [
+    "Oliver Hellwig",
+    "Oliver Hellwig",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 0,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Agnipurāṇa",
+  "xml_file": "sa_agnipurANa.xml",
+  "aku_file": null,
+  "editors": [
+    "Jun Takashima",
+    "Jun Takashima",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Rajendralal Mitra, Calcutta: Asiatic Society of Bengal 1870-1879, 3 vols. (Bibliotheca Indica, 65,1-3)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 29108,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

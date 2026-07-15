@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Aṣṭāvakragītā",
+  "xml_file": "astavakra_gita_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "John Richards",
+    "John Richards",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 298,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "canonical_name": "brahmagupta-brAhmasphuTasiddhAnta",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_brahmagupta-brAhmasphuTasiddhAnta.xml",
+        "title": "Brāhmasphuṭasiddhānta",
+        "editors": [
+          "Takao Hayashi",
+          "Takao Hayashi",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "S. Dvivedin's edition, Benares 1902.",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 240,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

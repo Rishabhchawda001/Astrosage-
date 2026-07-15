@@ -1,0 +1,23 @@
+{
+  "canonical_name": "Śvetāśvataropaniṣad",
+  "xml_file": "shvetashvatara_upanishad_gretil.xml",
+  "aku_file": "shvetashvatara_upanishad_gretil_prose.json",
+  "editors": [
+    "S. H.",
+    "S. H.",
+    "John Manetta",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "the electronic text available from Sanskrit Documents (https://sanskritdocuments.org)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 114,
+  "matching_txt_files": [
+    "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+    "shvetashvatara_ramanuja_kannada_djvu.txt",
+    "shvetashvatara_tailang_2001_djvu.txt",
+    "shvetashvatara_upanishad_gp_ia_ia_djvu.txt"
+  ],
+  "witness_count": 5,
+  "verification_status": "pending"
+}

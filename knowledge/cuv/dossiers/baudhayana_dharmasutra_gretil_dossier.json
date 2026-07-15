@@ -1,0 +1,19 @@
+{
+  "canonical_name": "Baudhāyanadharmasūtra",
+  "xml_file": "baudhayana_dharmasutra_gretil.xml",
+  "aku_file": "baudhayana_dharmasutra_gretil_prose.json",
+  "editors": [
+    "Masato Fujii & Mieko Kajihara",
+    "Masato Fujii & Mieko Kajihara",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "[H] E. Hultzsch (ed.): Das Baudhayana-Dharmasutra. Zweite, verbesserte Auflage. [Abhandlungen fur die Kunde des Morgenlandes, 16] Leipzig 1922. [K] Umesa Chandra Pandeya (ed.): The Baudhayana-Dharmasutra with the 'Vivarana' Commentary by Sri Govinda Svami and Critical Notes by M. M. A. Chinnaswami Sastri. [The Kashi Sanskrit Series, 104] Varanasi 1972.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1240,
+  "matching_txt_files": [
+    "baudhayana_dharmasutra_dli_djvu.txt"
+  ],
+  "witness_count": 2,
+  "verification_status": "pending"
+}

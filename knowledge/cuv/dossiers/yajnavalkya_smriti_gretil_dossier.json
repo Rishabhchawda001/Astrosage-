@@ -1,0 +1,21 @@
+{
+  "canonical_name": "Yājñavalkyasmṛti",
+  "xml_file": "yajnavalkya_smriti_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Muneo Tokunaga",
+    "Muneo Tokunaga",
+    "Yasuke Ikari",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1011,
+  "matching_txt_files": [
+    "yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+    "yajnavalkya_smriti_mitakshara_ia_ia_djvu.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

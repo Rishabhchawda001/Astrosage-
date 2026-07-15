@@ -1,0 +1,34 @@
+{
+  "canonical_name": "nAradapurANa",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_nAradapurANa.xml",
+        "title": "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "editors": [
+          "members of the Sansknet Project",
+          "members of the Sansknet Project",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 15801,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [
+      {
+        "file": "narada_purana_brihad_ia_ia.txt",
+        "publisher": "unknown",
+        "quality": 0.74,
+        "size_kb": 6281,
+        "authority": "Medium"
+      }
+    ],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 2,
+  "verification_status": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "canonical_name": "bAdarAyaNa-brahmasUtra-subcomm",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm.xml",
+        "title": "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "editors": [
+          "members of the Sansknet Project",
+          "members of the Sansknet Project",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 0,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

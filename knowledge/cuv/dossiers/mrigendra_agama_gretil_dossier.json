@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Mṛgendrāgama (= Mrgendratantra)",
+  "xml_file": "mrigendra_agama_gretil.xml",
+  "aku_file": "mrigendra_agama_gretil_prose.json",
+  "editors": [
+    "Dominic Goodall",
+    "Dominic Goodall",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Madhusudan Kaul Shastri, Bombay (Srinagar) : Nirnayasagara Press, 1930. (Kashmir Series of Texts and Studies 50) and N.R. Bhatt: Mṛgendrāgama (Kriyāpāda et Caryāpāda), avec le commentaire de Bhaṭṭa-Nārāyaṇakaṇṭha. Pondicherry : Institut Français d'Indologie, 1962. (Publications de l'Institut Français d'Indologie, 23)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1001,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

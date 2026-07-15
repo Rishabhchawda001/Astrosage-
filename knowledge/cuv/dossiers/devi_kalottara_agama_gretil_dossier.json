@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Devīkālottarāgama",
+  "xml_file": "devi_kalottara_agama_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Dominic Goodall",
+    "Dominic Goodall",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Vrajavallabha Dwivedi: Devīkālottarāgamaḥ : Commentary in Sanskrit by Nirañjanasiddha, edited with Hindi Translation. Varanasi: Shaiva Bharati Shodha Pratishthanam, 2000. (Research Publication Series, 21)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 84,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

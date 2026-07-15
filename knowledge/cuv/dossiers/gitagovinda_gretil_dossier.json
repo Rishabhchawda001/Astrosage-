@@ -1,0 +1,19 @@
+{
+  "canonical_name": "Gītagovinda",
+  "xml_file": "gitagovinda_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Jakub Cejka",
+    "Jakub Cejka",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Barbara Stoler-Miller (New York 1977), with occasional amendments.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 264,
+  "matching_txt_files": [
+    "gitagovinda_vanamali_ia_ia_djvu.txt"
+  ],
+  "witness_count": 2,
+  "verification_status": "pending"
+}

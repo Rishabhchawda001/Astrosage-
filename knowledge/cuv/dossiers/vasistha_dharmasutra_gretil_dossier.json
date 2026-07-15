@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Vāsiṣṭhadharmasūtra",
+  "xml_file": "vasistha_dharmasutra_gretil.xml",
+  "aku_file": "vasistha_dharmasutra_gretil_prose.json",
+  "editors": [
+    "M. Fushimi",
+    "M. Fushimi",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Vasisthadharmasastra, Bombay Sanskrit and Prakrit Series 23",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1384,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

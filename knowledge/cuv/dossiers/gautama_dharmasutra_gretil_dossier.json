@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Dharmasūtra",
+  "xml_file": "gautama_dharmasutra_gretil.xml",
+  "aku_file": "gautama_dharmasutra_1_3_comm_gretil_prose.json",
+  "editors": [
+    "Nobuyuki Watase",
+    "Nobuyuki Watase",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Ganesa Sastrin Gokhale, Pune 1910, (Anandasrama Sanskrit Series, 61); with variants from: The Institutes of Gautama, ed.by A.F. Stenzler, London 1876.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1023,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

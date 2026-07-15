@@ -1,0 +1,19 @@
+{
+  "canonical_name": "Atharvaprāyaścittāni",
+  "xml_file": "atharva_prayashchittani_gretil.xml",
+  "aku_file": "atharva_prayashchittani_gretil_prose.json",
+  "editors": [
+    "Arlo Griffiths",
+    "Reinhold Grünendahl",
+    "Arlo Griffiths",
+    "Reinhold Grünendahl",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Atharvaprāyaścittāni, Text mit Anmerkungen von Prof. Julius von Negelein, University of Koenigsberg, Germany. Published in JAOS 33 [1913], 71-144 (text); 217-253 (indices and corrigenda); 34 [1914], 229-277 (preface and introduction).",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 857,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

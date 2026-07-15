@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+  "xml_file": "kirana tantra_gretil.xml",
+  "aku_file": "kirana tantra_gretil_prose.json",
+  "editors": [
+    "Dominic Goodall",
+    "Dominic Goodall",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Dominic Goodall: Bhaṭṭa Rāmakaṇṭha's Commentary on the Kiraṇatantra, Vol. I, chapters 1--6 critical edition and annotated translation. Pondicherry : Institut Francais de Pondichery / Ecole francaise d'Extreme-Orient, 1998. (Publications du departement d'indologie, 86.1)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 830,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

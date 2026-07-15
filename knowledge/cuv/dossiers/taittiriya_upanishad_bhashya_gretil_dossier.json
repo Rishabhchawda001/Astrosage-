@@ -1,0 +1,19 @@
+{
+  "canonical_name": "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+  "xml_file": "taittiriya_upanishad_bhashya_gretil.xml",
+  "aku_file": "taittiriya_upanishad_bhashya_gretil_prose.json",
+  "editors": [
+    "Ivan Andrijanić",
+    "Ivan Andrijanić",
+    "Maximilian Mehner"
+  ],
+  "source": "Ten Principal Upaniṣads with Śaṅkarabhāṣya, Works of Śaṅkarācārya in original Sanskrit, vol. 1, Delhi: Motilal Banarsidass (first edition 1964, reprint 2007)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 81,
+  "matching_txt_files": [
+    "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+    "taittiriya_upanishad_ia.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

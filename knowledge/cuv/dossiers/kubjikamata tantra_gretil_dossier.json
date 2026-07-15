@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Kubjikamatatantra",
+  "xml_file": "kubjikamata tantra_gretil.xml",
+  "aku_file": "kubjikamata tantra_gretil_prose.json",
+  "editors": [
+    "Somadeva Vasudeva",
+    "Somadeva Vasudeva",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "T. Goudriaan and J. A. Schoterman: The Kubjikamatatantra : Kulalikamnaya version. Leiden : Brill 1988 (Orientalia Rheno-traiectina ; 30)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 3037,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

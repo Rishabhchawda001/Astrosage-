@@ -1,0 +1,49 @@
+{
+  "canonical_name": "matsyapurANa1-176",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_matsyapurANa1-176.xml",
+        "title": "Matsyapurāṇa, 1-176",
+        "editors": [
+          "Oliver Hellwig",
+          "Oliver Hellwig",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "Calcutta: Caukhamba Vidyabhavan, 1954.",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 8553,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [
+      {
+        "file": "matsya_puran.txt",
+        "publisher": "unknown",
+        "quality": 0.62,
+        "size_kb": 8403,
+        "authority": "Low"
+      },
+      {
+        "file": "matsya_puran_gitapress_hindi.txt",
+        "publisher": "Gita Press",
+        "quality": 0.76,
+        "size_kb": 8168,
+        "authority": "Medium"
+      }
+    ],
+    "publisher_ocr": [
+      {
+        "file": "matsya_puran_joshi_ia_ia.txt",
+        "publisher": "unknown",
+        "quality": 0.0,
+        "size_kb": 1585,
+        "authority": "Low"
+      }
+    ],
+    "other": []
+  },
+  "total_witnesses": 4,
+  "verification_status": "pending"
+}

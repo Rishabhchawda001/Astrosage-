@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Yogasūtra",
+  "xml_file": "yoga_sutra_gretil.xml",
+  "aku_file": "yoga_sutra_bhasya_gretil_prose.json",
+  "editors": [
+    "Philipp A. Maas",
+    "Philipp A. Maas",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Kāśinātha Śāstrī Āgāśe: Vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni Pātañjalayogasūtrāṇi, tathā bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni pātañjalayogasūtrāṇi. sūtrapāṭhasūtravarṇānukramasūcībhyāṃ ca sanāthīkṛtāni ...",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 195,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Gopathabrāhmaṇa",
+  "xml_file": "gopatha_brahmana_gretil.xml",
+  "aku_file": "gopatha_brahmana_gretil_prose.json",
+  "editors": [
+    "Arlo Griffiths",
+    "Arlo Griffiths",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Dieuke Gaastra: Das Gopatha Brāhmaṇa, Leiden : Brill 1919.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 314,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

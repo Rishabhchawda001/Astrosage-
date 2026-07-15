@@ -1,0 +1,26 @@
+{
+  "canonical_name": "brahmabindUpaniSad",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_brahmabindUpaniSad.xml",
+        "title": "Brahmabindūpaniṣad",
+        "editors": [
+          "Oliver Hellwig",
+          "Oliver Hellwig",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. Calcutta: Ganesha Press, 1872 (Bibliotheca Indica ; 76)",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 22,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

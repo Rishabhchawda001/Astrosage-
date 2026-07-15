@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Vāmanapurāṇa, 1-69",
+  "xml_file": "vamana_puran_gretil.xml",
+  "aku_file": "vamana_puran_gretil_prose.json",
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "A.S. Gupta, Varanasi : All India Kashiraj Trust 1967",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 4612,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

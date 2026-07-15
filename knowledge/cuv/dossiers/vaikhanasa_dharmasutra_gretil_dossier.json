@@ -1,0 +1,23 @@
+{
+  "canonical_name": "Vaikhānasadharmasūtra",
+  "xml_file": "vaikhanasa_dharmasutra_gretil.xml",
+  "aku_file": "vaikhanasa_dharmasutra_gretil_prose.json",
+  "editors": [
+    "Hiromichi Hikita",
+    "Yuuko Matsuda",
+    "Yasuke Ikari",
+    "Hiromichi Hikita",
+    "Yuuko Matsuda",
+    "Yasuke Ikari",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "W. Caland, Vaikhanasasmartasutram, the domestic rules of the Vaikhanasa school belonging to the Black Yajurveda, Calcutta 1927",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 3,
+  "matching_txt_files": [
+    "vaikhanasa_dharmasutra_2010_djvu.txt"
+  ],
+  "witness_count": 2,
+  "verification_status": "pending"
+}

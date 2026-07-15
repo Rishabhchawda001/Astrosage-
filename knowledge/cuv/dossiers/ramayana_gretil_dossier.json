@@ -1,0 +1,35 @@
+{
+  "canonical_name": "Rāmāyaṇa",
+  "xml_file": "ramayana_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Muneo Tokunaga",
+    "John Smith",
+    "John Smith",
+    "Robert Chen",
+    "Yves Codet",
+    "James L. Fitzgerald",
+    "Giulio Geymonat",
+    "Arlo Griffiths",
+    "Krešimir Krnic",
+    "Kirti Kulkarni",
+    "Christopher Minkowski",
+    "Sven Sellmer",
+    "Michael Slouber",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 0,
+  "matching_txt_files": [
+    "kalyan_ramayan_ank.txt",
+    "ramayana_baroda_critical_vol1.txt",
+    "ramayana_critical_2022.txt",
+    "ramayana_part2_gita_press.txt",
+    "ramayana_sanskrit_dpsharma.txt",
+    "ramayanamahabhar0000valm.txt"
+  ],
+  "witness_count": 7,
+  "verification_status": "pending"
+}

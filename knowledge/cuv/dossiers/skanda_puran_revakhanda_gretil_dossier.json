@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+  "xml_file": "skanda_puran_revakhanda_gretil.xml",
+  "aku_file": "skanda_puran_revakhanda_gretil_prose.json",
+  "editors": [
+    "Jürgen Neuss",
+    "Jürgen Neuss",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Giri, Oṅkārānanda (ed.) - atha bṛhat śrīnarmadāpurāṇam revākhaṇḍam (parivardhita tṛtīya saṃskaraṇa). Jñānasatra Prakāśana Nyāsa, Hośaṅgābāda: 1994.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 7190,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

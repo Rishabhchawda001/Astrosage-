@@ -1,0 +1,21 @@
+{
+  "canonical_name": "Mārkaṇḍeyapurāṇa, 1-93",
+  "xml_file": "markandeya_puran_gretil.xml",
+  "aku_file": "markandeya_puran_gretil_prose.json",
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 5231,
+  "matching_txt_files": [
+    "markandeya_puran_hindi_translation.txt",
+    "markandeya_puran_sanskrit.txt",
+    "markandeya_purana_hindi_djvu.txt"
+  ],
+  "witness_count": 4,
+  "verification_status": "pending"
+}

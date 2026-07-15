@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+  "xml_file": "kositaki_brahmana_gretil.xml",
+  "aku_file": "kositaki_brahmana_gretil_prose.json",
+  "editors": [
+    "Muneo Tokunaga",
+    "Muneo Tokunaga",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "E. R. Sreekrishna Sarma (Wiesbaden 1968; VOHD, Suppl. 9,1)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 6914,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

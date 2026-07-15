@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Mahāgaṇapatistotra with a commentary “by his disciple”",
+  "xml_file": "ganapati_stotra_gretil.xml",
+  "aku_file": "ganapati_stotra_gretil_prose.json",
+  "editors": [
+    "Dhaval Patel",
+    "Dhaval Patel",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Pdt. Durgaprasad and Kasinath Pandurang Parab, Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 1-6.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 37,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

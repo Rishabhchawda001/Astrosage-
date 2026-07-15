@@ -1,0 +1,20 @@
+{
+  "canonical_name": "Uḍḍāmareśvaratantra",
+  "xml_file": "uddamareshvara tantra_gretil.xml",
+  "aku_file": "uddamareshvara tantra_gretil_prose.json",
+  "editors": [
+    "Oliver Hellwig",
+    "Oliver Hellwig",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "J.D. Zadoo Srinagar: The Normal Press, 1947",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 187,
+  "matching_txt_files": [
+    "uddamareshvara_tantra_ksts_djvu.txt",
+    "uddamareshvara_tantra_zadoo_djvu.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

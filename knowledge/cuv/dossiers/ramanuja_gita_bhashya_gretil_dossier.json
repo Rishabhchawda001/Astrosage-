@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Bhagavadgītābhāṣya",
+  "xml_file": "ramanuja_gita_bhashya_gretil.xml",
+  "aku_file": "ramanuja_gita_bhashya_gretil_prose.json",
+  "editors": [
+    "Sadanori Ishitobi",
+    "Sadanori Ishitobi",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1576,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

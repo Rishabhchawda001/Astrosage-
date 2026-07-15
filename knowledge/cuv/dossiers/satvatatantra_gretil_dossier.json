@@ -1,0 +1,20 @@
+{
+  "canonical_name": "Sātvatatantra",
+  "xml_file": "satvatatantra_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Oliver Hellwig",
+    "Oliver Hellwig",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "A. Phadke, Benares : Chowkhamba Sanskrit Series Office, 1934",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 701,
+  "matching_txt_files": [
+    "satvata_tantra_dli_djvu.txt",
+    "satvata_tantra_ia_djvu.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

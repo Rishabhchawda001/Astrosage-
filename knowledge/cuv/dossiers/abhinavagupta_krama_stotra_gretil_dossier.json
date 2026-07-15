@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Kramastotra",
+  "xml_file": "abhinavagupta_krama_stotra_gretil.xml",
+  "aku_file": "abhinavagupta_bhairava_stava_gretil_prose.json",
+  "editors": [
+    "Marino Faliero",
+    "Marino Faliero",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 31,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Āpastambadharmasūtra",
+  "xml_file": "apastamba_dharmasutra_gretil.xml",
+  "aku_file": "apastamba_dharmasutra_gretil_prose.json",
+  "editors": [
+    "Y.Ikari",
+    "Y.Ikari",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Bühler's edition (Bombay Sanskrit Seires Nos.LIV and L), 3rd ed. 1932. Variant reading is in the parenthesis after the end of each suutra, according to Kashi Sanskrit Seires No.93 (K) edited by A.Chinnaswami, Benares 1932.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 62,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

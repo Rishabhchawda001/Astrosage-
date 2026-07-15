@@ -1,0 +1,34 @@
+{
+  "canonical_name": "agnipurANa",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_agnipurANa.xml",
+        "title": "Agnipurāṇa",
+        "editors": [
+          "Jun Takashima",
+          "Jun Takashima",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "Rajendralal Mitra, Calcutta: Asiatic Society of Bengal 1870-1879, 3 vols. (Bibliotheca Indica, 65,1-3)",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 29108,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [
+      {
+        "file": "agni_puran_anand_ashram.txt",
+        "publisher": "Anandashram",
+        "quality": 0.79,
+        "size_kb": 3496,
+        "authority": "Medium"
+      }
+    ],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 2,
+  "verification_status": "pending"
+}

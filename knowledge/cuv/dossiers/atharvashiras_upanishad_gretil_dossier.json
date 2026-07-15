@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Śira-upaniṣad (= Atharvaśira-upanisad)",
+  "xml_file": "atharvashiras_upanishad_gretil.xml",
+  "aku_file": "atharvashiras_upanishad_gretil_prose.json",
+  "editors": [
+    "Oliver Hellwig",
+    "Oliver Hellwig",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Ramamaya Tarkaratna In: The Atharvana-Upanishads. Calcutta: Ganesha Press, 1872 (Bibliotheca Indica ; 76)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 45,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

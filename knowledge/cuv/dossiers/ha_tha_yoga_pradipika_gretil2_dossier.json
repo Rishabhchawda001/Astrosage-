@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Haṭhayogapradīpikā",
+  "xml_file": "ha_tha_yoga_pradipika_gretil2.xml",
+  "aku_file": "ha_tha_yoga_pradipika_gretil2_prose.json",
+  "editors": [
+    "n.n.",
+    "n.n.",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 404,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+  "xml_file": "aitareya_upanishad_gretil.xml",
+  "aku_file": "aitareya_upanishad_gretil_prose.json",
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 239,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

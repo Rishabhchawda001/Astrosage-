@@ -1,0 +1,26 @@
+{
+  "canonical_name": "rUpagosvAmin-laghubhAgavatAmRta",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_rUpagosvAmin-laghubhAgavatAmRta.xml",
+        "title": "Laghubhāgavatāmṛta",
+        "editors": [
+          "n.n.",
+          "n.n.",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 1067,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

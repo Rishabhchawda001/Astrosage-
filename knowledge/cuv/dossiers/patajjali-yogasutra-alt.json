@@ -1,0 +1,26 @@
+{
+  "canonical_name": "pataJjali-yogasUtra-alt",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_pataJjali-yogasUtra-alt.xml",
+        "title": "Yogasūtra",
+        "editors": [
+          "Ashok Aklujkar",
+          "Ashok Aklujkar",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "KSS. The Yoga-sūtram by Maharṣi Patañjali with the Yoga-pradipikā Commentary by Pandit Bala-dewa Miśra. Kashi Sanskrit Series Haridas Sanskrit Grantha-mālā) no. 85, 1931. B132 V6 P264 1931; Jhajjar. Ārya-muni. Yogāryya-bhāṣya. Bhāṣya-kartā Aryya-muni; Jhajjara: Harayāṇā Sāhitya Saṃsthāna, Gurukula Jhajjara. 2029. Vi[krama-saṃvat = 1973]. B132 Y6 A73 1973. Pp. 1-16 of the appendix; Vā. Patanjala Darshana of the System of Yoga Philosophy by Maharshi Kapila [!] with the Commentary of Vyasa and the Gloss of Vachaspati Mishra. Edited and published by Pandit Jibananda Vidyasagara. Third edition. Calcutta. Printed at the Bachaspatya Press. 1940; Vivaraṇa: Pātañjala-Yogasūtra-bhāṣya-vivaraṇam of Śaṅkara-bhagavat-pāda. Critically edited with introduction by Polakam Sri Rama Sastri and S. R. Krishnamurthi Sastri. Madras: Government Oriental Manuscripts Library. 1952.",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 194,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

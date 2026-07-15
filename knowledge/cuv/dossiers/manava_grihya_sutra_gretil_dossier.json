@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+  "xml_file": "manava_grihya_sutra_gretil.xml",
+  "aku_file": "manava_grihya_sutra_gretil_prose.json",
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Ramakrishna Harshaji Sastri: Mānavagṛhyasūtra of the Mitrāyaṇīya Śākhā, Baroda : Central Library 1926 (Gaekwad's Oriental Series, 35)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 907,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "canonical_name": "bAdarAyaNa-brahmasUtra-alt",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-alt.xml",
+        "title": "Brahmasūtra text extracted from Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "editors": [
+          "members of the Sansknet Project",
+          "members of the Sansknet Project",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 555,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [],
+    "publisher_ocr": [],
+    "other": []
+  },
+  "total_witnesses": 1,
+  "verification_status": "pending"
+}

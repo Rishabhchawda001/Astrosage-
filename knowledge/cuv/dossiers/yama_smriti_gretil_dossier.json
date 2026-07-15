@@ -1,0 +1,18 @@
+{
+  "canonical_name": "Yamasmṛti (South Indian recension)",
+  "xml_file": "yama_smriti_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Jürgen Neuß",
+    "Jürgen Neuß",
+    "Jürgen Neuß",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Jürgen Neuß: Untersuchungen zur Textgeschichte der Yamasmṛti. Berlin 1999 (MA-thesis, Free University Berlin), published in the",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 140,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

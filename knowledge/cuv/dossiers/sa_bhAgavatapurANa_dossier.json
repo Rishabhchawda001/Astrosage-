@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Bhāgavatapurāṇa",
+  "xml_file": "sa_bhAgavatapurANa.xml",
+  "aku_file": null,
+  "editors": [
+    "Ulrich Stiehl",
+    "Ulrich Stiehl",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 14112,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

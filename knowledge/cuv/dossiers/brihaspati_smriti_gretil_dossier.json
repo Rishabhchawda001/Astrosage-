@@ -1,0 +1,22 @@
+{
+  "canonical_name": "Bṛhaspatismṛti (vyavahārakaṇḍa)",
+  "xml_file": "brihaspati_smriti_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "Yasuke Ikari",
+    "Akihiko Akamatsu",
+    "Yasuke Ikari",
+    "Akihiko Akamatsu",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 0,
+  "matching_txt_files": [
+    "brihaspati_smriti_1941_ia_ia_djvu.txt",
+    "brihaspatisutrao00brharich.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

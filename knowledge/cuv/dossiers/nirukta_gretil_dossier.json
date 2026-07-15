@@ -1,0 +1,21 @@
+{
+  "canonical_name": "Nirukta",
+  "xml_file": "nirukta_gretil.xml",
+  "aku_file": "nirukta_gretil_prose.json",
+  "editors": [
+    "Munoe Tokunaga (and partly M. Kobayashi)",
+    "Munoe Tokunaga (and partly M. Kobayashi)",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Lakshman Sarup",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 448,
+  "matching_txt_files": [
+    "nirukta_khemraj_1916_djvu.txt",
+    "nirukta_satyavrata_1912_djvu.txt",
+    "nirukta_skandasvamin_mahesvara_djvu.txt"
+  ],
+  "witness_count": 4,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Svayaṃbhupurāṇa",
+  "xml_file": "svayambhu_puran_gretil.xml",
+  "aku_file": "svayambhu_puran_gretil_prose.json",
+  "editors": [
+    "members of the Digital Sanskrit Buddhist Canon Input Project",
+    "members of the Digital Sanskrit Buddhist Canon Input Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Min Bahadu Shakyar & Shanta Harsa Bajracharya (trans.). Svayambhu Purāṇa. Nepal: Nagarjuna Institute of Exact Methods, 2001.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1800,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

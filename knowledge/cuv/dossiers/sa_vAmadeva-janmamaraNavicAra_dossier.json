@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Janmamaraṇavicāra",
+  "xml_file": "sa_vAmadeva-janmamaraNavicAra.xml",
+  "aku_file": null,
+  "editors": [
+    "Oliver Hellwig",
+    "Oliver Hellwig",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "M.R. Shastri, Bombay: Nirnaya Sagar Press, 1918",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 318,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

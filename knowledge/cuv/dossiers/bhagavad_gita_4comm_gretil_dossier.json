@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+  "xml_file": "bhagavad_gita_4comm_gretil.xml",
+  "aku_file": "bhagavad_gita_4comm_gretil_prose.json",
+  "editors": [
+    "Gaudiya Grantha Mandira",
+    "Gaudiya Grantha Mandira",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 5404,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

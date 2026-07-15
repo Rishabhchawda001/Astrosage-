@@ -1,0 +1,20 @@
+{
+  "canonical_name": "Śāṅkhāyanaśrautasūtra",
+  "xml_file": "shankhayana_shrauta_sutra_gretil.xml",
+  "aku_file": "shankhayana_shrauta_sutra_gretil_prose.json",
+  "editors": [
+    "Muneo Tokunaga",
+    "Muneo Tokunaga",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Alfred Hillebrandt Calcutta 1885-1899 (Bibliotheca Indica, 99)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 459,
+  "matching_txt_files": [
+    "shankhayana_shrauta_sutra_uvvata_djvu.txt",
+    "shankhayana_shrauta_sutra_vol32_djvu.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

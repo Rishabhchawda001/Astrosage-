@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+  "xml_file": "bhagavad_gita_shankara_gretil.xml",
+  "aku_file": "bhagavad_gita_4comm_gretil_prose.json",
+  "editors": [
+    "Gaudiya Grantha Mandira",
+    "Gaudiya Grantha Mandira",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 2365,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

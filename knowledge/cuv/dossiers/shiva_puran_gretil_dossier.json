@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Śivapurāṇa, Books 1 and 7",
+  "xml_file": "shiva_puran_gretil.xml",
+  "aku_file": "shiva_puran_gretil_prose.json",
+  "editors": [
+    "Jun Takashima",
+    "Jun Takashima",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Venkatesvara Steam Press, Bombay (c. 1920)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 5190,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

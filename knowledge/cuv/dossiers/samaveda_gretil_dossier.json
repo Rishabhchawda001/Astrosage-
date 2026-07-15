@@ -1,0 +1,20 @@
+{
+  "canonical_name": "Sāmavedasaṃhitā",
+  "xml_file": "samaveda_gretil.xml",
+  "aku_file": "samaveda_gretil_prose.json",
+  "editors": [
+    "Anshuman Pandey",
+    "Anshuman Pandey",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 469,
+  "matching_txt_files": [
+    "samaveda_jayadev.txt",
+    "samaveda_samhita.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

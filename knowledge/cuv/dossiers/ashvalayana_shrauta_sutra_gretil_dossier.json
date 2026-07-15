@@ -1,0 +1,20 @@
+{
+  "canonical_name": "Āśvalāyanaśrautasūtra",
+  "xml_file": "ashvalayana_shrauta_sutra_gretil.xml",
+  "aku_file": "ashvalayana_grihya_sutra_gretil_prose.json",
+  "editors": [
+    "Muneo Tokunaga",
+    "Muneo Tokunaga",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Ramanarayana Vidyaratna, Calcutta [1864-] 1874 (Bibliotheca Indica; 49)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 2995,
+  "matching_txt_files": [
+    "ashvalayana_grihya_sutra_1869_djvu.txt",
+    "ashvalayana_shrauta_sutra_1934_djvu.txt"
+  ],
+  "witness_count": 3,
+  "verification_status": "pending"
+}

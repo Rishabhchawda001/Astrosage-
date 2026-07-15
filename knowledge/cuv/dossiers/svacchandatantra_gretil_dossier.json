@@ -1,0 +1,19 @@
+{
+  "canonical_name": "Svacchandatantra [or Svacchandabhairavatantra]",
+  "xml_file": "svacchandatantra_gretil.xml",
+  "aku_file": null,
+  "editors": [
+    "members of the Saiva reading group at the EFEO in Pondicherry",
+    "members of the Saiva reading group at the EFEO in Pondicherry",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Chapter 1 typed in from Dwivedi's edition by Dominic Goodall; Chapter 2 typed in from KSTS edition by Mei Yang; Chapter 3 typed in from Dwivedi's edition by Dominic Goodall; Chapter 4 typed in from the KSTS edition by S.A.S. Sarma Chapters 5-6 typed in from Dwivedi's edition by Dominic Goodall; Chapter 7 typed in from KSTS edition by Mei Yang; Chapters 8-9 typed in from KSTS edition by Nibedita Rout; Chapter 10 typed in from KSTS edition by R. Sathyanarayanan (1-673) and by Nibedita Rout (674-1280); Chapter 11 typed in from Dwivedi's edition by Dominic Goodall; Chapter 12 typed in from KSTS edition by Nibedita Rout; Chapters 13, 14 and 15 typed in from Dwivedi's edition by Dominic Goodall.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 3680,
+  "matching_txt_files": [
+    "svacchandatantra_ksemaraja_ia_ia_djvu.txt"
+  ],
+  "witness_count": 2,
+  "verification_status": "pending"
+}

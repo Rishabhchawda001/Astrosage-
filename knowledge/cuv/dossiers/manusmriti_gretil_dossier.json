@@ -1,0 +1,25 @@
+{
+  "canonical_name": "Manusmṛti",
+  "xml_file": "manusmriti_gretil.xml",
+  "aku_file": "manusmriti_gretil_prose.json",
+  "editors": [
+    "Michio Yano",
+    "Yasuke Ikari",
+    "Michio Yano",
+    "Yasuke Ikari",
+    "Michio Yano",
+    "Yasuke Ikari",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Manusmṛti with the commentary of Kullūka Bhaṭṭa, based on",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 2689,
+  "matching_txt_files": [
+    "manusmriti_6_commentaries_ia_ia_djvu.txt",
+    "manusmriti_critical_ia_ia.txt",
+    "manusmriti_kulluka_ia_ia_djvu.txt"
+  ],
+  "witness_count": 4,
+  "verification_status": "pending"
+}

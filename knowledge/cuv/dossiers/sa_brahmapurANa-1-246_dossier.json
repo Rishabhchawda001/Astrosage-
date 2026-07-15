@@ -1,0 +1,19 @@
+{
+  "canonical_name": "Brahmapurāṇa 1-246",
+  "xml_file": "sa_brahmapurANa-1-246.xml",
+  "aku_file": null,
+  "editors": [
+    "Peter Schreiner",
+    "Renate Söhnen-Thieme",
+    "Peter Schreiner",
+    "Renate Söhnen-Thieme",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 13916,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

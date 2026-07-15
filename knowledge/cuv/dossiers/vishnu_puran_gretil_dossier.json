@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Viṣṇupurāṇa",
+  "xml_file": "vishnu_puran_gretil.xml",
+  "aku_file": "vishnu_puran_gretil_critical_prose.json",
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Bombay : Venkatesvara Steam Press 1910",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 6524,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

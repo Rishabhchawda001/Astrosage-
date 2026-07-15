@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Yogasūtra with Bhāṣya",
+  "xml_file": "sa_pataJjali-yogasUtra-with-bhASya-alt.xml",
+  "aku_file": "sa_pataJjali-yogasUtra-alt_prose.json",
+  "editors": [
+    "Muneo Tokunaga",
+    "Muneo Tokunaga",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Anandasrama Sanskrit Series ; 47 (1978) [original ed. 1904]",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 1512,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

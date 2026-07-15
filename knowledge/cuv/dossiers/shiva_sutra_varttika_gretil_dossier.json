@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Śivasūtra with vārttika",
+  "xml_file": "shiva_sutra_varttika_gretil.xml",
+  "aku_file": "shiva_sutra_varttika_gretil_prose.json",
+  "editors": [
+    "Oliver Hellwig",
+    "Oliver Hellwig",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Madhusudan Kaul Shastri, Srinagar: Kashmir Pratap Steam Press, 1925",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 833,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

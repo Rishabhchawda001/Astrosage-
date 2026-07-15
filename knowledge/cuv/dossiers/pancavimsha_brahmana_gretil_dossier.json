@@ -1,0 +1,21 @@
+{
+  "canonical_name": "Pañcaviṃśabrāhmaṇa",
+  "xml_file": "pancavimsha_brahmana_gretil.xml",
+  "aku_file": "pancavimsha_brahmana_gretil_prose.json",
+  "editors": [
+    "Martin Kümmel",
+    "Arlo Griffiths",
+    "Masato Kobayashi",
+    "Martin Kümmel",
+    "Arlo Griffiths",
+    "Masato Kobayashi",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 331,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Bhāgavatapurāṇa",
+  "xml_file": "bhagavata_gretil_tei.xml",
+  "aku_file": "bhagavata_gretil_prose.json",
+  "editors": [
+    "Ulrich Stiehl",
+    "Ulrich Stiehl",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 14112,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

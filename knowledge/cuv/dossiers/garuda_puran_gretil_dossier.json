@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Garuḍapurāṇa",
+  "xml_file": "garuda_puran_gretil.xml",
+  "aku_file": "garuda_puran_gretil_prose.json",
+  "editors": [
+    "members of the Sansknet Project",
+    "members of the Sansknet Project",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Bombay : Venkatesvara Steam Press (or a reprint thereof)",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 12312,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}

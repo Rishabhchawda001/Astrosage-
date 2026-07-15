@@ -1,0 +1,56 @@
+{
+  "canonical_name": "kUrmapurANa",
+  "witnesses": {
+    "gretil_xml": [
+      {
+        "file": "sa_kUrmapurANa.xml",
+        "title": "Kūrmapurāṇa",
+        "editors": [
+          "members of the Sansknet Project",
+          "members of the Sansknet Project",
+          "Reinhold Grünendahl",
+          "Maximilian Mehner"
+        ],
+        "source": "",
+        "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "unit_count": 5927,
+        "authority": "High"
+      }
+    ],
+    "publisher_unicode": [
+      {
+        "file": "kurma_puran.txt",
+        "publisher": "unknown",
+        "quality": 0.76,
+        "size_kb": 3722,
+        "authority": "Medium"
+      }
+    ],
+    "publisher_ocr": [
+      {
+        "file": "kurma_puran_critical.txt",
+        "publisher": "unknown",
+        "quality": 0.33,
+        "size_kb": 7801,
+        "authority": "Low"
+      },
+      {
+        "file": "kurma_puran_dli.txt",
+        "publisher": "unknown",
+        "quality": 0.44,
+        "size_kb": 1831,
+        "authority": "Low"
+      },
+      {
+        "file": "kurma_puran_gita_press_new.txt",
+        "publisher": "Gita Press",
+        "quality": 0.0,
+        "size_kb": 1245,
+        "authority": "Low"
+      }
+    ],
+    "other": []
+  },
+  "total_witnesses": 5,
+  "verification_status": "pending"
+}

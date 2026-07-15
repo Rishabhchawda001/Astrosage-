@@ -1,0 +1,23 @@
+{
+  "canonical_name": "Atharvavedapariśiṣṭas",
+  "xml_file": "atharvaveda_parisista_gretil.xml",
+  "aku_file": "atharvaveda_parisista_gretil_prose.json",
+  "editors": [
+    "Yuri Ishii",
+    "Yuri Ishii",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "George Melville Bolling and Julius von Negelein: \"The Pariśiṣṭas of the Atharvaveda\", Vol. 1, parts 1 and 2 (all published), Leipzig : Harrassowitz 1909-1910.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 3300,
+  "matching_txt_files": [
+    "atharvaveda_jayadev_part1.txt",
+    "atharvaveda_samhita_sanskrit.txt",
+    "atharvaveda_samhita_sayana_ia.txt",
+    "atharvaveda_vol1_sayana.txt",
+    "gopatha_brahmana_atharvaveda_dli_djvu.txt"
+  ],
+  "witness_count": 6,
+  "verification_status": "pending"
+}

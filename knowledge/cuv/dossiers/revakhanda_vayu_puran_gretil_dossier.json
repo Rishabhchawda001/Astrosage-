@@ -1,0 +1,17 @@
+{
+  "canonical_name": "Revākhāṇḍa of the Vāyupurāṇa (RKV)",
+  "xml_file": "revakhanda_vayu_puran_gretil.xml",
+  "aku_file": "revakhanda_vayu_puran_gretil_prose.json",
+  "editors": [
+    "Jürgen Neuss",
+    "Jürgen Neuss",
+    "Reinhold Grünendahl",
+    "Maximilian Mehner"
+  ],
+  "source": "Śrīkṛṣṇadās, Kṣemrāj (ed.): Śrīskandamahāpurāṇam. Veṅkateśvara Steam Press, Bombay: 1910 and its reprint: Siṃha, Nāgaśaraṇa (ed.): Śrīskandamahāpurāṇam. pañcama bhāga: śrī āvantyakhaṇḍam. Nag Publishers, Delhi: 1986.",
+  "licence": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "xml_units": 8243,
+  "matching_txt_files": [],
+  "witness_count": 1,
+  "verification_status": "pending"
+}
