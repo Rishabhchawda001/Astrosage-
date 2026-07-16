@@ -1,0 +1,530 @@
+{
+  "SV.1.1": {
+    "cuid": "SV.1.1",
+    "iast": "=== Chapter 1 ===",
+    "devanagari": "=== छप्तेर् १ ===",
+    "section": 1,
+    "verse": 1,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.2": {
+    "cuid": "SV.1.2",
+    "iast": "REFERENCE SYSTEM:",
+    "devanagari": "रेफ़ेरेन्चे स्य्स्तेम्:",
+    "section": 1,
+    "verse": 2,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.3": {
+    "cuid": "SV.1.3",
+    "iast": "ārcika | prapāṭhaka | ardha | daśati | verse | line",
+    "devanagari": "आर्चिक । प्रपाठक । अर्ध । दशति । वेर्से । लिने",
+    "section": 1,
+    "verse": 3,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.4": {
+    "cuid": "SV.1.4",
+    "iast": "1 1 1 01 01 a",
+    "devanagari": "१ १ १ ०१ ०१ अ",
+    "section": 1,
+    "verse": 4,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.5": {
+    "cuid": "SV.1.5",
+    "iast": "sāmaveda saṃhitā",
+    "devanagari": "सामवेद संहिता",
+    "section": 1,
+    "verse": 5,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.6": {
+    "cuid": "SV.1.6",
+    "iast": "kauthuma śākhā",
+    "devanagari": "कौथुम शाखा",
+    "section": 1,
+    "verse": 6,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.7": {
+    "cuid": "SV.1.7",
+    "iast": "pūrvārcikaḥ",
+    "devanagari": "पूर्वार्चिकः",
+    "section": 1,
+    "verse": 7,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.8": {
+    "cuid": "SV.1.8",
+    "iast": "chanda ārcikaḥ",
+    "devanagari": "छन्द आर्चिकः",
+    "section": 1,
+    "verse": 8,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.9": {
+    "cuid": "SV.1.9",
+    "iast": "=== Chapter 6 ===",
+    "devanagari": "=== छप्तेर् ६ ===",
+    "section": 1,
+    "verse": 9,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.10": {
+    "cuid": "SV.1.10",
+    "iast": "1 1 1 0501a enā vo agniṃ namasorjo napātamā huve .",
+    "devanagari": "१ १ १ ०५०१अ एना वो अग्निं नमसोर्जो नपातमा हुवे .",
+    "section": 1,
+    "verse": 10,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.11": {
+    "cuid": "SV.1.11",
+    "iast": "1 1 1 0501c priyaṃ cetiṣṭhamaratiṃ svādhvaraṃ viśvasya dūtamamṛtam .. 45",
+    "devanagari": "१ १ १ ०५०१च् प्रियं चेतिष्ठमरतिं स्वाध्वरं विश्वस्य दूतममृतम् .. ४५",
+    "section": 1,
+    "verse": 11,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.12": {
+    "cuid": "SV.1.12",
+    "iast": "1 1 1 0502a śeṣe vaneṣu mātṛṣu saṃ tvā martāsa indhate .",
+    "devanagari": "१ १ १ ०५०२अ शेषे वनेषु मातृषु सं त्वा मर्तास इन्धते .",
+    "section": 1,
+    "verse": 12,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.13": {
+    "cuid": "SV.1.13",
+    "iast": "1 1 1 0502c atandro havyaṃ vahasi haviṣkṛta ādiddeveṣu rājasi .. 46",
+    "devanagari": "१ १ १ ०५०२च् अतन्द्रो हव्यं वहसि हविष्कृत आदिद्देवेषु राजसि .. ४६",
+    "section": 1,
+    "verse": 13,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.14": {
+    "cuid": "SV.1.14",
+    "iast": "1 1 1 0503a adarśi gātuvittamo yasminvratānyādadhuḥ .",
+    "devanagari": "१ १ १ ०५०३अ अदर्शि गातुवित्तमो यस्मिन्व्रतान्यादधुः .",
+    "section": 1,
+    "verse": 14,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.15": {
+    "cuid": "SV.1.15",
+    "iast": "1 1 1 0503c upo ṣu jātamāryasya vardhanamagniṃ nakṣantu no giraḥ .. 47",
+    "devanagari": "१ १ १ ०५०३च् उपो षु जातमार्यस्य वर्धनमग्निं नक्षन्तु नो गिरः .. ४७",
+    "section": 1,
+    "verse": 15,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.16": {
+    "cuid": "SV.1.16",
+    "iast": "1 1 1 0504a agnirukthe purohito grāvāṇo barhiradhvare .",
+    "devanagari": "१ १ १ ०५०४अ अग्निरुक्थे पुरोहितो ग्रावाणो बर्हिरध्वरे .",
+    "section": 1,
+    "verse": 16,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.17": {
+    "cuid": "SV.1.17",
+    "iast": "1 1 1 0504c ṛcā yāmi maruto brahmaṇaspate devā avo vareṇyam .. 48",
+    "devanagari": "१ १ १ ०५०४च् ऋचा यामि मरुतो ब्रह्मणस्पते देवा अवो वरेण्यम् .. ४८",
+    "section": 1,
+    "verse": 17,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.18": {
+    "cuid": "SV.1.18",
+    "iast": "1 1 1 0505a agnimīḍiṣvāvase gāthābhiḥ śīraśociṣam .",
+    "devanagari": "१ १ १ ०५०५अ अग्निमीडिष्वावसे गाथाभिः शीरशोचिषम् .",
+    "section": 1,
+    "verse": 18,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.19": {
+    "cuid": "SV.1.19",
+    "iast": "1 1 1 0505c agniṃ rāye purumīḍha śrutaṃ naro 'gniḥ sudītaye chardiḥ .. 49",
+    "devanagari": "१ १ १ ०५०५च् अग्निं राये पुरुमीढ श्रुतं नरो ऽग्निः सुदीतये छर्दिः .. ४९",
+    "section": 1,
+    "verse": 19,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.20": {
+    "cuid": "SV.1.20",
+    "iast": "1 1 1 0506a śrudhi śrutkarṇa vahnibhirdevairagne sayāvabhiḥ .",
+    "devanagari": "१ १ १ ०५०६अ श्रुधि श्रुत्कर्ण वह्निभिर्देवैरग्ने सयावभिः .",
+    "section": 1,
+    "verse": 20,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.21": {
+    "cuid": "SV.1.21",
+    "iast": "1 1 1 0506c ā sīdatu barhiṣi mitro aryamā prātaryāvabhiradhvare .. 50",
+    "devanagari": "१ १ १ ०५०६च् आ सीदतु बर्हिषि मित्रो अर्यमा प्रातर्यावभिरध्वरे .. ५०",
+    "section": 1,
+    "verse": 21,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.22": {
+    "cuid": "SV.1.22",
+    "iast": "1 1 1 0507a pra daivodāso agnirdeva indro na majmanā .",
+    "devanagari": "१ १ १ ०५०७अ प्र दैवोदासो अग्निर्देव इन्द्रो न मज्मना .",
+    "section": 1,
+    "verse": 22,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.23": {
+    "cuid": "SV.1.23",
+    "iast": "1 1 1 0507c anu mātaraṃ pṛthivīṃ vi vāvṛte tasthau nākasya śarmaṇi .. 51",
+    "devanagari": "१ १ १ ०५०७च् अनु मातरं पृथिवीं वि वावृते तस्थौ नाकस्य शर्मणि .. ५१",
+    "section": 1,
+    "verse": 23,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.24": {
+    "cuid": "SV.1.24",
+    "iast": "1 1 1 0508a adha jmo adha vā divo bṛhato rocanādadhi .",
+    "devanagari": "१ १ १ ०५०८अ अध ज्मो अध वा दिवो बृहतो रोचनादधि .",
+    "section": 1,
+    "verse": 24,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.25": {
+    "cuid": "SV.1.25",
+    "iast": "1 1 1 0508c ayā vardhasva tanvā girā mamā jātā sukrato pṛṇa .. 52",
+    "devanagari": "१ १ १ ०५०८च् अया वर्धस्व तन्वा गिरा ममा जाता सुक्रतो पृण .. ५२",
+    "section": 1,
+    "verse": 25,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.26": {
+    "cuid": "SV.1.26",
+    "iast": "1 1 1 0509a kāyamāno vanā tvaṃ yanmātR^īrajagannapaḥ .",
+    "devanagari": "१ १ १ ०५०९अ कायमानो वना त्वं यन्मात्र्^ईरजगन्नपः .",
+    "section": 1,
+    "verse": 26,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.27": {
+    "cuid": "SV.1.27",
+    "iast": "1 1 1 0509c na tatte agne pramṛṣe nivartanaṃ yaddūre sannihābhuvaḥ .. 53",
+    "devanagari": "१ १ १ ०५०९च् न तत्ते अग्ने प्रमृषे निवर्तनं यद्दूरे सन्निहाभुवः .. ५३",
+    "section": 1,
+    "verse": 27,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.28": {
+    "cuid": "SV.1.28",
+    "iast": "1 1 1 0510a ni tvāmagne manurdadhe jyotirjanāya śaśvate .",
+    "devanagari": "१ १ १ ०५१०अ नि त्वामग्ने मनुर्दधे ज्योतिर्जनाय शश्वते .",
+    "section": 1,
+    "verse": 28,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.29": {
+    "cuid": "SV.1.29",
+    "iast": "1 1 1 0510c dīdetha kaṇva ṛtajāta ukṣito yaṃ namasyanti kṛṣṭayaḥ .. 54",
+    "devanagari": "१ १ १ ०५१०च् दीदेथ कण्व ऋतजात उक्षितो यं नमस्यन्ति कृष्टयः .. ५४",
+    "section": 1,
+    "verse": 29,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.30": {
+    "cuid": "SV.1.30",
+    "iast": "prathama prapāṭhakaḥ . dvitīyo 'rdhaḥ",
+    "devanagari": "प्रथम प्रपाठकः . द्वितीयो ऽर्धः",
+    "section": 1,
+    "verse": 30,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.31": {
+    "cuid": "SV.1.31",
+    "iast": "1 1 2 0601a devo vo draviṇodāḥ pūrṇāṃ vivaṣṭvāsicam .",
+    "devanagari": "१ १ २ ०६०१अ देवो वो द्रविणोदाः पूर्णां विवष्ट्वासिचम् .",
+    "section": 1,
+    "verse": 31,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.32": {
+    "cuid": "SV.1.32",
+    "iast": "1 1 2 0601c udvā siñjadhvamupa vā pṛṇadhvamādidvo deva ohate .. 55",
+    "devanagari": "१ १ २ ०६०१च् उद्वा सिञ्जध्वमुप वा पृणध्वमादिद्वो देव ओहते .. ५५",
+    "section": 1,
+    "verse": 32,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.33": {
+    "cuid": "SV.1.33",
+    "iast": "1 1 2 0602a praitu brahmaṇaspatiḥ pra devyetu sūnṛtā .",
+    "devanagari": "१ १ २ ०६०२अ प्रैतु ब्रह्मणस्पतिः प्र देव्येतु सूनृता .",
+    "section": 1,
+    "verse": 33,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.34": {
+    "cuid": "SV.1.34",
+    "iast": "1 1 2 0602c acchā vīraṃ naryaṃ paṅktirādhasaṃ devā yajñaṃ nayantu naḥ .. 56",
+    "devanagari": "१ १ २ ०६०२च् अच्छा वीरं नर्यं पङ्क्तिराधसं देवा यज्ञं नयन्तु नः .. ५६",
+    "section": 1,
+    "verse": 34,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.35": {
+    "cuid": "SV.1.35",
+    "iast": "1 1 2 0603a ūrdhva ū ṣu ṇa ūtaye tiṣṭhā devo na savitā .",
+    "devanagari": "१ १ २ ०६०३अ ऊर्ध्व ऊ षु ण ऊतये तिष्ठा देवो न सविता .",
+    "section": 1,
+    "verse": 35,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.36": {
+    "cuid": "SV.1.36",
+    "iast": "1 1 2 0603c ūrdhvo vājasya sanitā yadañjibhirvāghadbhirvihvayāmahe .. 57",
+    "devanagari": "१ १ २ ०६०३च् ऊर्ध्वो वाजस्य सनिता यदञ्जिभिर्वाघद्भिर्विह्वयामहे .. ५७",
+    "section": 1,
+    "verse": 36,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.37": {
+    "cuid": "SV.1.37",
+    "iast": "1 1 2 0604a pra yo rāye ninīṣati marto yaste vaso dāśat .",
+    "devanagari": "१ १ २ ०६०४अ प्र यो राये निनीषति मर्तो यस्ते वसो दाशत् .",
+    "section": 1,
+    "verse": 37,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.38": {
+    "cuid": "SV.1.38",
+    "iast": "1 1 2 0604c sa vīraṃ dhatte agna ukthaśaṃsinaṃ tmanā sahasrapoṣiṇam .. 58",
+    "devanagari": "१ १ २ ०६०४च् स वीरं धत्ते अग्न उक्थशंसिनं त्मना सहस्रपोषिणम् .. ५८",
+    "section": 1,
+    "verse": 38,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.39": {
+    "cuid": "SV.1.39",
+    "iast": "1 1 2 0605a pra vo yahvaṃ purūṇāṃ viśāṃ devayatīnām .",
+    "devanagari": "१ १ २ ०६०५अ प्र वो यह्वं पुरूणां विशां देवयतीनाम् .",
+    "section": 1,
+    "verse": 39,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.40": {
+    "cuid": "SV.1.40",
+    "iast": "1 1 2 0605c agniṃ sūktebhirvacobhirvṛṇīmahe yaṃsamidanya indhate .. 59",
+    "devanagari": "१ १ २ ०६०५च् अग्निं सूक्तेभिर्वचोभिर्वृणीमहे यंसमिदन्य इन्धते .. ५९",
+    "section": 1,
+    "verse": 40,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.41": {
+    "cuid": "SV.1.41",
+    "iast": "1 1 2 0606a ayamagniḥ suvīryasyeśe hi saubhagasya .",
+    "devanagari": "१ १ २ ०६०६अ अयमग्निः सुवीर्यस्येशे हि सौभगस्य .",
+    "section": 1,
+    "verse": 41,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.42": {
+    "cuid": "SV.1.42",
+    "iast": "1 1 2 0606c rāya īśe svapatyasya gomata īśe vṛtrahathānām .. 60",
+    "devanagari": "१ १ २ ०६०६च् राय ईशे स्वपत्यस्य गोमत ईशे वृत्रहथानाम् .. ६०",
+    "section": 1,
+    "verse": 42,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.43": {
+    "cuid": "SV.1.43",
+    "iast": "1 1 2 0607a tvamagne gṛhapatistvaṃ hotā no adhvare .",
+    "devanagari": "१ १ २ ०६०७अ त्वमग्ने गृहपतिस्त्वं होता नो अध्वरे .",
+    "section": 1,
+    "verse": 43,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.44": {
+    "cuid": "SV.1.44",
+    "iast": "1 1 2 0607c tvaṃ potā viśvavāra pracetā tākṣi yāsi ca vāryam .. 61",
+    "devanagari": "१ १ २ ०६०७च् त्वं पोता विश्ववार प्रचेता ताक्षि यासि च वार्यम् .. ६१",
+    "section": 1,
+    "verse": 44,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.45": {
+    "cuid": "SV.1.45",
+    "iast": "1 1 2 0608a sakhāyastvā vavṛmahe devaṃ martāsa ūtaye .",
+    "devanagari": "१ १ २ ०६०८अ सखायस्त्वा ववृमहे देवं मर्तास ऊतये .",
+    "section": 1,
+    "verse": 45,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.46": {
+    "cuid": "SV.1.46",
+    "iast": "1 1 2 0608c apāṃ napātaṃ subhagaṃ sudaṃsasaṃ supratūrtimanehasam .. 62",
+    "devanagari": "१ १ २ ०६०८च् अपां नपातं सुभगं सुदंससं सुप्रतूर्तिमनेहसम् .. ६२",
+    "section": 1,
+    "verse": 46,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.47": {
+    "cuid": "SV.1.47",
+    "iast": "1 1 2 0701a ā juhotā haviṣā marjayadhvaṃ ni hotāraṃ gṛhapatiṃ dadhidhvam .",
+    "devanagari": "१ १ २ ०७०१अ आ जुहोता हविषा मर्जयध्वं नि होतारं गृहपतिं दधिध्वम् .",
+    "section": 1,
+    "verse": 47,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.48": {
+    "cuid": "SV.1.48",
+    "iast": "1 1 2 0701c iḍaspade namasā rātahavyaṃ saparyatā yajataṃ pastyānām .. 63",
+    "devanagari": "१ १ २ ०७०१च् इडस्पदे नमसा रातहव्यं सपर्यता यजतं पस्त्यानाम् .. ६३",
+    "section": 1,
+    "verse": 48,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.49": {
+    "cuid": "SV.1.49",
+    "iast": "1 1 2 0702a citra icchiśostaruṇasya vakṣatho na yo mātarāvanveti dhātave .",
+    "devanagari": "१ १ २ ०७०२अ चित्र इच्छिशोस्तरुणस्य वक्षथो न यो मातरावन्वेति धातवे .",
+    "section": 1,
+    "verse": 49,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.50": {
+    "cuid": "SV.1.50",
+    "iast": "1 1 2 0702c anūdhā yadajījanadadhā cidā vavakṣatsadyo mahi dūtyā3ṃ caran .. 64",
+    "devanagari": "१ १ २ ०७०२च् अनूधा यदजीजनदधा चिदा ववक्षत्सद्यो महि दूत्या३ं चरन् .. ६४",
+    "section": 1,
+    "verse": 50,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.51": {
+    "cuid": "SV.1.51",
+    "iast": "1 1 2 0703a idaṃ ta ekaṃ para ū ta ekaṃ tṛtīyena jyotiṣā saṃ viśasva .",
+    "devanagari": "१ १ २ ०७०३अ इदं त एकं पर ऊ त एकं तृतीयेन ज्योतिषा सं विशस्व .",
+    "section": 1,
+    "verse": 51,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.52": {
+    "cuid": "SV.1.52",
+    "iast": "1 1 2 0703c saṃveśanastanve3 cāruredhi priyo devānāṃ parame janitre .. 65",
+    "devanagari": "१ १ २ ०७०३च् संवेशनस्तन्वे३ चारुरेधि प्रियो देवानां परमे जनित्रे .. ६५",
+    "section": 1,
+    "verse": 52,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.53": {
+    "cuid": "SV.1.53",
+    "iast": "1 1 2 0704a imaṃ stomamarhate jātavedase rathamiva saṃ mahemā manīṣayā .",
+    "devanagari": "१ १ २ ०७०४अ इमं स्तोममर्हते जातवेदसे रथमिव सं महेमा मनीषया .",
+    "section": 1,
+    "verse": 53,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.54": {
+    "cuid": "SV.1.54",
+    "iast": "1 1 2 0704c bhadrā hi naḥ pramatirasya saṃsadyagne sakhye mā riṣāmā vayaṃ tava .. 66",
+    "devanagari": "१ १ २ ०७०४च् भद्रा हि नः प्रमतिरस्य संसद्यग्ने सख्ये मा रिषामा वयं तव .. ६६",
+    "section": 1,
+    "verse": 54,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.55": {
+    "cuid": "SV.1.55",
+    "iast": "1 1 2 0705a mūrdhānaṃ divo aratiṃ pṛthivyā vaiśvānaramṛta ā jātamagnim .",
+    "devanagari": "१ १ २ ०७०५अ मूर्धानं दिवो अरतिं पृथिव्या वैश्वानरमृत आ जातमग्निम् .",
+    "section": 1,
+    "verse": 55,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.56": {
+    "cuid": "SV.1.56",
+    "iast": "1 1 2 0705c kaviṃ samrājamatithiṃ janānāmāsannāḥ pātraṃ janayanta devāḥ .. 67",
+    "devanagari": "१ १ २ ०७०५च् कविं सम्राजमतिथिं जनानामासन्नाः पात्रं जनयन्त देवाः .. ६७",
+    "section": 1,
+    "verse": 56,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.57": {
+    "cuid": "SV.1.57",
+    "iast": "1 1 2 0706a vi tvadāpo na parvatasya pṛṣṭhādukthebhiragne janayanta devāḥ .",
+    "devanagari": "१ १ २ ०७०६अ वि त्वदापो न पर्वतस्य पृष्ठादुक्थेभिरग्ने जनयन्त देवाः .",
+    "section": 1,
+    "verse": 57,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.58": {
+    "cuid": "SV.1.58",
+    "iast": "1 1 2 0706c taṃ tvā giraḥ suṣṭutayo vājayantyājiṃ na girvavāho jigyuraśvāḥ .. 68",
+    "devanagari": "१ १ २ ०७०६च् तं त्वा गिरः सुष्टुतयो वाजयन्त्याजिं न गिर्ववाहो जिग्युरश्वाः .. ६८",
+    "section": 1,
+    "verse": 58,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.59": {
+    "cuid": "SV.1.59",
+    "iast": "1 1 2 0707a ā vo rājānamadhvarasya rudraṃ hotāraṃ satyayajaṃ rodasyoḥ .",
+    "devanagari": "१ १ २ ०७०७अ आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः .",
+    "section": 1,
+    "verse": 59,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.60": {
+    "cuid": "SV.1.60",
+    "iast": "1 1 2 0707c agniṃ purā tanayitnoracittāddhiraṇyarūpamavase kṛṇudhvam .. 69",
+    "devanagari": "१ १ २ ०७०७च् अग्निं पुरा तनयित्नोरचित्ताद्धिरण्यरूपमवसे कृणुध्वम् .. ६९",
+    "section": 1,
+    "verse": 60,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.61": {
+    "cuid": "SV.1.61",
+    "iast": "1 1 2 0708a indhe rājā samaryo namobhiryasya pratīkamāhutaṃ ghṛtena .",
+    "devanagari": "१ १ २ ०७०८अ इन्धे राजा समर्यो नमोभिर्यस्य प्रतीकमाहुतं घृतेन .",
+    "section": 1,
+    "verse": 61,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.62": {
+    "cuid": "SV.1.62",
+    "iast": "1 1 2 0708c naro havyebhirīḍate sabādha āgniragramuṣasāmaśoci .. 70",
+    "devanagari": "१ १ २ ०७०८च् नरो हव्येभिरीडते सबाध आग्निरग्रमुषसामशोचि .. ७०",
+    "section": 1,
+    "verse": 62,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.63": {
+    "cuid": "SV.1.63",
+    "iast": "1 1 2 0709a pra ketunā bṛhatā yātyagnirā rodasī vṛṣabho roravīti .",
+    "devanagari": "१ १ २ ०७०९अ प्र केतुना बृहता यात्यग्निरा रोदसी वृषभो रोरवीति .",
+    "section": 1,
+    "verse": 63,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.64": {
+    "cuid": "SV.1.64",
+    "iast": "1 1 2 0709c divaścidantādupamāmudānaḍapāmupasthe mahiṣo vavardha .. 71",
+    "devanagari": "१ १ २ ०७०९च् दिवश्चिदन्तादुपमामुदानडपामुपस्थे महिषो ववर्ध .. ७१",
+    "section": 1,
+    "verse": 64,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.65": {
+    "cuid": "SV.1.65",
+    "iast": "1 1 2 0710a agniṃ naro dīdhitibhiraṇyorhastacyutaṃ janayata praśastam .",
+    "devanagari": "१ १ २ ०७१०अ अग्निं नरो दीधितिभिरण्योर्हस्तच्युतं जनयत प्रशस्तम् .",
+    "section": 1,
+    "verse": 65,
+    "witness": "F-GRETIL-samaveda"
+  },
+  "SV.1.66": {
+    "cuid": "SV.1.66",
+    "iast": "1 1 2 0710c dūredṛśaṃ gṛhapatimathavyum .. 72",
+    "devanagari": "१ १ २ ०७१०च् दूरेदृशं गृहपतिमथव्युम् .. ७२",
+    "section": 1,
+    "verse": 66,
+    "witness": "F-GRETIL-samaveda"
+  }
+}

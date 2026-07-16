@@ -1,0 +1,34 @@
+{
+  "TAITT.1.1": {
+    "cuid": "TAITT.1.1",
+    "iast": "=== Chapter 1 ===",
+    "devanagari": "=== छप्तेर् १ ===",
+    "section": 1,
+    "verse": 1,
+    "witness": "F-GRETIL-taittiriya_upanishad_bhashya"
+  },
+  "TAITT.1.2": {
+    "cuid": "TAITT.1.2",
+    "iast": "oṃ śaṃ no mitraḥ śaṃ varuṇaḥ / śaṃ no bhavatvaryamā / śaṃ na indro bṛhaspatiḥ / śaṃ no viṣṇururukramaḥ / namo brahmaṇe / namaste vāyo / tvameva pratyakṣaṃ brahmāsi / tvāmevapratyakṣaṃ brahma vadiṣyāmi / ṛtaṃ vadiṣyāmi / satyaṃ vadiṣyāmi / tanmāmavatu / tadvaktāramavatu / avatu mām / avatu vaktāram // oṃ śāntiḥ śāntiḥ śāntiḥ // iti śikṣādhyāye prathamo 'nuvākaḥ //",
+    "devanagari": "ॐ शं नो मित्रः शं वरुणः / शं नो भवत्वर्यमा / शं न इन्द्रो बृहस्पतिः / शं नो विष्णुरुरुक्रमः / नमो ब्रह्मणे / नमस्ते वायो / त्वमेव प्रत्यक्षं ब्रह्मासि / त्वामेवप्रत्यक्षं ब्रह्म वदिष्यामि / ऋतं वदिष्यामि / सत्यं वदिष्यामि / तन्मामवतु / तद्वक्तारमवतु / अवतु माम् / अवतु वक्तारम् // ॐ शान्तिः शान्तिः शान्तिः // इति शिक्षाध्याये प्रथमो ऽनुवाकः //",
+    "section": 1,
+    "verse": 2,
+    "witness": "F-GRETIL-taittiriya_upanishad_bhashya"
+  },
+  "TAITT.1.3": {
+    "cuid": "TAITT.1.3",
+    "iast": "oṃ śīkṣāṃ vyākhyāsyāmaḥ / varṇaḥ svaraḥ / mātrā balam / sāma santānaḥ / ityuktaḥ śīkṣādhyāyaḥ // iti dvitīyo 'nuvādakaḥ //",
+    "devanagari": "ॐ शीक्षां व्याख्यास्यामः / वर्णः स्वरः / मात्रा बलम् / साम सन्तानः / इत्युक्तः शीक्षाध्यायः // इति द्वितीयो ऽनुवादकः //",
+    "section": 1,
+    "verse": 3,
+    "witness": "F-GRETIL-taittiriya_upanishad_bhashya"
+  },
+  "TAITT.1.4": {
+    "cuid": "TAITT.1.4",
+    "iast": "saha nau yaśaḥ / saha nau brahmavarcasam / athātaḥ saṃhitāyā upaniṣidaṃ vyākhyāsyāmaḥ / pañcasvadhikaraṇeṣu / adhilokamadhijyautiṣamadhividyamadhiprajamadhyātmam / tā mahāsaṃhitāyā ityācakṣate / athādhilokam / pṛthivī pūrvarūpam / dyauruttararūpam / ākāśaḥ sandhiḥ //",
+    "devanagari": "सह नौ यशः / सह नौ ब्रह्मवर्चसम् / अथातः संहिताया उपनिषिदं व्याख्यास्यामः / पञ्चस्वधिकरणेषु / अधिलोकमधिज्यौतिषमधिविद्यमधिप्रजमध्यात्मम् / ता महासंहिताया इत्याचक्षते / अथाधिलोकम् / पृथिवी पूर्वरूपम् / द्यौरुत्तररूपम् / आकाशः सन्धिः //",
+    "section": 1,
+    "verse": 4,
+    "witness": "F-GRETIL-taittiriya_upanishad_bhashya"
+  }
+}

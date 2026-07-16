@@ -1,0 +1,1866 @@
+{
+  "SHVET.1.1": {
+    "cuid": "SHVET.1.1",
+    "iast": "=== Chapter 1 ===",
+    "devanagari": "=== छप्तेर् १ ===",
+    "section": 1,
+    "verse": 1,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.2": {
+    "cuid": "SHVET.1.2",
+    "iast": "oṃ brahmavādino vadanti",
+    "devanagari": "ॐ ब्रह्मवादिनो वदन्ति",
+    "section": 1,
+    "verse": 2,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.3": {
+    "cuid": "SHVET.1.3",
+    "iast": "=== Chapter 2 ===",
+    "devanagari": "=== छप्तेर् २ ===",
+    "section": 1,
+    "verse": 3,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.4": {
+    "cuid": "SHVET.1.4",
+    "iast": "kiṃkāraṇaṃ brahma kutaḥ sma jātā jīvāmaḥ kena kva ca saṃpratiṣṭhāḥ",
+    "devanagari": "किंकारणं ब्रह्म कुतः स्म जाता जीवामः केन क्व च संप्रतिष्ठाः",
+    "section": 1,
+    "verse": 4,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.5": {
+    "cuid": "SHVET.1.5",
+    "iast": "adhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthām",
+    "devanagari": "अधिष्ठिताः केन सुखेतरेषु वर्तामहे ब्रह्मविदो व्यवस्थाम्",
+    "section": 1,
+    "verse": 5,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.6": {
+    "cuid": "SHVET.1.6",
+    "iast": "kālaḥ svabhāvo niyatir yadṛcchā bhūtāni yoniḥ puruṣeti cintyam",
+    "devanagari": "कालः स्वभावो नियतिर् यदृच्छा भूतानि योनिः पुरुषेति चिन्त्यम्",
+    "section": 1,
+    "verse": 6,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.7": {
+    "cuid": "SHVET.1.7",
+    "iast": "saṃyoga eṣāṃ na tv ātmabhāvād ātmā hy anīśaḥ sukhaduḥkhahetoḥ",
+    "devanagari": "संयोग एषां न त्व् आत्मभावाद् आत्मा ह्य् अनीशः सुखदुःखहेतोः",
+    "section": 1,
+    "verse": 7,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.8": {
+    "cuid": "SHVET.1.8",
+    "iast": "te dhyānayogānugatā apaśyan devātmaśaktiṃ svaguṇair nigūḍhām",
+    "devanagari": "ते ध्यानयोगानुगता अपश्यन् देवात्मशक्तिं स्वगुणैर् निगूढाम्",
+    "section": 1,
+    "verse": 8,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.9": {
+    "cuid": "SHVET.1.9",
+    "iast": "yaḥ kāraṇāni nikhilāni tāni kālātmayuktāny adhitiṣṭhaty ekaḥ",
+    "devanagari": "यः कारणानि निखिलानि तानि कालात्मयुक्तान्य् अधितिष्ठत्य् एकः",
+    "section": 1,
+    "verse": 9,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.10": {
+    "cuid": "SHVET.1.10",
+    "iast": "tam ekanemiṃ trivṛtaṃ ṣoḍaśāntaṃ śatārdhāraṃ viṃśatipratyarābhiḥ",
+    "devanagari": "तम् एकनेमिं त्रिवृतं षोडशान्तं शतार्धारं विंशतिप्रत्यराभिः",
+    "section": 1,
+    "verse": 10,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.11": {
+    "cuid": "SHVET.1.11",
+    "iast": "aṣṭakaiḥ ṣaḍbhir viśvarūpaikapāśaṃ trimārgabhedaṃ dvinimittaikamoham",
+    "devanagari": "अष्टकैः षड्भिर् विश्वरूपैकपाशं त्रिमार्गभेदं द्विनिमित्तैकमोहम्",
+    "section": 1,
+    "verse": 11,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.12": {
+    "cuid": "SHVET.1.12",
+    "iast": "pañcasroto'mbuṃ pañcayonyugravaktrāṃ pañcaprāṇormiṃ pañcabuddhyādimūlāṃ",
+    "devanagari": "पञ्चस्रोतोऽम्बुं पञ्चयोन्युग्रवक्त्रां पञ्चप्राणोर्मिं पञ्चबुद्ध्यादिमूलां",
+    "section": 1,
+    "verse": 12,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.13": {
+    "cuid": "SHVET.1.13",
+    "iast": "pañcāvartāṃ pañcaduḥkhaughavegāṃ pañcāśadbhedāṃ pañcaparvām adhīmaḥ",
+    "devanagari": "पञ्चावर्तां पञ्चदुःखौघवेगां पञ्चाशद्भेदां पञ्चपर्वाम् अधीमः",
+    "section": 1,
+    "verse": 13,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.14": {
+    "cuid": "SHVET.1.14",
+    "iast": "sarvājīve sarvasaṃsthe bṛhante tasmin haṃso bhrāmyate brahmacakre",
+    "devanagari": "सर्वाजीवे सर्वसंस्थे बृहन्ते तस्मिन् हंसो भ्राम्यते ब्रह्मचक्रे",
+    "section": 1,
+    "verse": 14,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.15": {
+    "cuid": "SHVET.1.15",
+    "iast": "pṛthag ātmānaṃ preritāraṃ ca matvā juṣṭas tatas tenāmṛtatvam eti",
+    "devanagari": "पृथग् आत्मानं प्रेरितारं च मत्वा जुष्टस् ततस् तेनामृतत्वम् एति",
+    "section": 1,
+    "verse": 15,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.16": {
+    "cuid": "SHVET.1.16",
+    "iast": "udgītam etat paramaṃ tu brahma tasmiṃs trayaṃ svapratiṣṭhākṣaraṃ ca",
+    "devanagari": "उद्गीतम् एतत् परमं तु ब्रह्म तस्मिंस् त्रयं स्वप्रतिष्ठाक्षरं च",
+    "section": 1,
+    "verse": 16,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.17": {
+    "cuid": "SHVET.1.17",
+    "iast": "atrāntaraṃ brahmavido viditvā līnā brahmaṇi tatparā yonimuktāḥ",
+    "devanagari": "अत्रान्तरं ब्रह्मविदो विदित्वा लीना ब्रह्मणि तत्परा योनिमुक्ताः",
+    "section": 1,
+    "verse": 17,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.18": {
+    "cuid": "SHVET.1.18",
+    "iast": "saṃyuktam etat kṣaram akṣaraṃ ca vyaktāvyaktaṃ bharate viśvam īśaḥ",
+    "devanagari": "संयुक्तम् एतत् क्षरम् अक्षरं च व्यक्ताव्यक्तं भरते विश्वम् ईशः",
+    "section": 1,
+    "verse": 18,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.19": {
+    "cuid": "SHVET.1.19",
+    "iast": "anīśaś cātmā badhyate bhoktṛbhāvāj jñātvā devaṃ mucyate sarvapāśaiḥ",
+    "devanagari": "अनीशश् चात्मा बध्यते भोक्तृभावाज् ज्ञात्वा देवं मुच्यते सर्वपाशैः",
+    "section": 1,
+    "verse": 19,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.20": {
+    "cuid": "SHVET.1.20",
+    "iast": "jñājñau dvāv ajāv īśanīśāv ajā hy ekā bhoktṛbhogārthayuktā",
+    "devanagari": "ज्ञाज्ञौ द्वाव् अजाव् ईशनीशाव् अजा ह्य् एका भोक्तृभोगार्थयुक्ता",
+    "section": 1,
+    "verse": 20,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.21": {
+    "cuid": "SHVET.1.21",
+    "iast": "anantaś cātmā viśvarūpo hy akartā trayaṃ yadā vindate brahmam etat",
+    "devanagari": "अनन्तश् चात्मा विश्वरूपो ह्य् अकर्ता त्रयं यदा विन्दते ब्रह्मम् एतत्",
+    "section": 1,
+    "verse": 21,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.22": {
+    "cuid": "SHVET.1.22",
+    "iast": "kṣaraṃ pradhānam amṛtākṣaraṃ haraḥ kṣarātmānāv īśate deva ekaḥ",
+    "devanagari": "क्षरं प्रधानम् अमृताक्षरं हरः क्षरात्मानाव् ईशते देव एकः",
+    "section": 1,
+    "verse": 22,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.23": {
+    "cuid": "SHVET.1.23",
+    "iast": "tasyābhidhyānād yojanāt tattvabhāvād bhūyaś cānte viśvamāyānivṛttiḥ",
+    "devanagari": "तस्याभिध्यानाद् योजनात् तत्त्वभावाद् भूयश् चान्ते विश्वमायानिवृत्तिः",
+    "section": 1,
+    "verse": 23,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.24": {
+    "cuid": "SHVET.1.24",
+    "iast": "jñātvā devaṃ sarvapāśāpahāniḥ kṣīnaiḥ kleśair janmamṛtyuprahāṇiḥ",
+    "devanagari": "ज्ञात्वा देवं सर्वपाशापहानिः क्षीनैः क्लेशैर् जन्ममृत्युप्रहाणिः",
+    "section": 1,
+    "verse": 24,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.25": {
+    "cuid": "SHVET.1.25",
+    "iast": "tasyābhidhyānāt tṛtīyaṃ dehabhede viśvaiśvaryaṃ kevala āptakāmaḥ",
+    "devanagari": "तस्याभिध्यानात् तृतीयं देहभेदे विश्वैश्वर्यं केवल आप्तकामः",
+    "section": 1,
+    "verse": 25,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.26": {
+    "cuid": "SHVET.1.26",
+    "iast": "etaj jñeyaṃ nityam evātmasaṃsthaṃ nātaḥ paraṃ veditavyaṃ hi kiṃcit",
+    "devanagari": "एतज् ज्ञेयं नित्यम् एवात्मसंस्थं नातः परं वेदितव्यं हि किंचित्",
+    "section": 1,
+    "verse": 26,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.27": {
+    "cuid": "SHVET.1.27",
+    "iast": "bhoktā bhogyaṃ preritāraṃ ca matvā sarvaṃ proktaṃ trividhaṃ brahmam etat",
+    "devanagari": "भोक्ता भोग्यं प्रेरितारं च मत्वा सर्वं प्रोक्तं त्रिविधं ब्रह्मम् एतत्",
+    "section": 1,
+    "verse": 27,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.28": {
+    "cuid": "SHVET.1.28",
+    "iast": "vahner yathā yonigatasya mūrtir na dṛśyate naiva ca liṅganāśaḥ",
+    "devanagari": "वह्नेर् यथा योनिगतस्य मूर्तिर् न दृश्यते नैव च लिङ्गनाशः",
+    "section": 1,
+    "verse": 28,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.29": {
+    "cuid": "SHVET.1.29",
+    "iast": "sa bhūya evendhanayonigṛhyas tadvobhayaṃ vai praṇavena dehe",
+    "devanagari": "स भूय एवेन्धनयोनिगृह्यस् तद्वोभयं वै प्रणवेन देहे",
+    "section": 1,
+    "verse": 29,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.30": {
+    "cuid": "SHVET.1.30",
+    "iast": "svadeham araṇiṃ kṛtvā praṇavaṃ cottarāraṇiṃ",
+    "devanagari": "स्वदेहम् अरणिं कृत्वा प्रणवं चोत्तरारणिं",
+    "section": 1,
+    "verse": 30,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.31": {
+    "cuid": "SHVET.1.31",
+    "iast": "dhyānanirmathanābhyāsād devaṃ paśyen nigūḍhavat",
+    "devanagari": "ध्याननिर्मथनाभ्यासाद् देवं पश्येन् निगूढवत्",
+    "section": 1,
+    "verse": 31,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.32": {
+    "cuid": "SHVET.1.32",
+    "iast": "tileṣu tailaṃ dadhanīva sarpir āpaḥ srotaḥsv araṇīṣu cāgniḥ",
+    "devanagari": "तिलेषु तैलं दधनीव सर्पिर् आपः स्रोतःस्व् अरणीषु चाग्निः",
+    "section": 1,
+    "verse": 32,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.33": {
+    "cuid": "SHVET.1.33",
+    "iast": "evam ātmā ātmani gṛhyate 'sau satyenainaṃ tapasā yo 'nupaśyati",
+    "devanagari": "एवम् आत्मा आत्मनि गृह्यते ऽसौ सत्येनैनं तपसा यो ऽनुपश्यति",
+    "section": 1,
+    "verse": 33,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.34": {
+    "cuid": "SHVET.1.34",
+    "iast": "sarvavyāpinam ātmānaṃ kṣīre sarpir ivārpitam",
+    "devanagari": "सर्वव्यापिनम् आत्मानं क्षीरे सर्पिर् इवार्पितम्",
+    "section": 1,
+    "verse": 34,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.35": {
+    "cuid": "SHVET.1.35",
+    "iast": "ātmavidyātapomūlaṃ tad brahmopaniṣatparaṃ tad brahmopaniṣatparam",
+    "devanagari": "आत्मविद्यातपोमूलं तद् ब्रह्मोपनिषत्परं तद् ब्रह्मोपनिषत्परम्",
+    "section": 1,
+    "verse": 35,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.36": {
+    "cuid": "SHVET.1.36",
+    "iast": "=== Chapter 3 ===",
+    "devanagari": "=== छप्तेर् ३ ===",
+    "section": 1,
+    "verse": 36,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.37": {
+    "cuid": "SHVET.1.37",
+    "iast": "yuñjānaḥ prathamaṃ manas tatvāya savitā dhiyaḥ",
+    "devanagari": "युञ्जानः प्रथमं मनस् तत्वाय सविता धियः",
+    "section": 1,
+    "verse": 37,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.38": {
+    "cuid": "SHVET.1.38",
+    "iast": "agner jyotir nicāyya pṛthivyā adhy ābharat",
+    "devanagari": "अग्नेर् ज्योतिर् निचाय्य पृथिव्या अध्य् आभरत्",
+    "section": 1,
+    "verse": 38,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.39": {
+    "cuid": "SHVET.1.39",
+    "iast": "suvargeyāya śaktyā % //",
+    "devanagari": "सुवर्गेयाय शक्त्या % //",
+    "section": 1,
+    "verse": 39,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.40": {
+    "cuid": "SHVET.1.40",
+    "iast": "yuktvāya manasā devān suvar yato dhiyā divaṃ",
+    "devanagari": "युक्त्वाय मनसा देवान् सुवर् यतो धिया दिवं",
+    "section": 1,
+    "verse": 40,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.41": {
+    "cuid": "SHVET.1.41",
+    "iast": "bṛhaj jyotiḥ kariṣyataḥ savitā prasuvāti tān",
+    "devanagari": "बृहज् ज्योतिः करिष्यतः सविता प्रसुवाति तान्",
+    "section": 1,
+    "verse": 41,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.42": {
+    "cuid": "SHVET.1.42",
+    "iast": "yuñjate mana uta yuñjate dhiyo viprā viprasya bṛhato vipaścitaḥ",
+    "devanagari": "युञ्जते मन उत युञ्जते धियो विप्रा विप्रस्य बृहतो विपश्चितः",
+    "section": 1,
+    "verse": 42,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.43": {
+    "cuid": "SHVET.1.43",
+    "iast": "vi hotrā dadhe vayunāvid eka in mahī devasya savituḥ pariṣṭutiḥ",
+    "devanagari": "वि होत्रा दधे वयुनाविद् एक इन् मही देवस्य सवितुः परिष्टुतिः",
+    "section": 1,
+    "verse": 43,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.44": {
+    "cuid": "SHVET.1.44",
+    "iast": "yuje vāṃ brahma pūrvyaṃ namobhir vi śloka etu pathyeva sūreḥ",
+    "devanagari": "युजे वां ब्रह्म पूर्व्यं नमोभिर् वि श्लोक एतु पथ्येव सूरेः",
+    "section": 1,
+    "verse": 44,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.45": {
+    "cuid": "SHVET.1.45",
+    "iast": "śṛṇvanti viśve amṛtasya putrā ā ye dhāmāni diviyāni tasthuḥ",
+    "devanagari": "शृण्वन्ति विश्वे अमृतस्य पुत्रा आ ये धामानि दिवियानि तस्थुः",
+    "section": 1,
+    "verse": 45,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.46": {
+    "cuid": "SHVET.1.46",
+    "iast": "agnir yatrābhimathyate vāyur yatrādhirudhyate",
+    "devanagari": "अग्निर् यत्राभिमथ्यते वायुर् यत्राधिरुध्यते",
+    "section": 1,
+    "verse": 46,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.47": {
+    "cuid": "SHVET.1.47",
+    "iast": "somo yatrātiricyate tatra saṃjāyate manaḥ",
+    "devanagari": "सोमो यत्रातिरिच्यते तत्र संजायते मनः",
+    "section": 1,
+    "verse": 47,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.48": {
+    "cuid": "SHVET.1.48",
+    "iast": "savitrā prasavena juṣeta brahma pūrvyam",
+    "devanagari": "सवित्रा प्रसवेन जुषेत ब्रह्म पूर्व्यम्",
+    "section": 1,
+    "verse": 48,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.49": {
+    "cuid": "SHVET.1.49",
+    "iast": "tatra yoniṃ kṛṇavase nahi te pūrtam akṣipat",
+    "devanagari": "तत्र योनिं कृणवसे नहि ते पूर्तम् अक्षिपत्",
+    "section": 1,
+    "verse": 49,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.50": {
+    "cuid": "SHVET.1.50",
+    "iast": "trirunnataṃ sthāpya samaṃ śarīraṃ hṛdīndriyāṇi manasā saṃniveśya",
+    "devanagari": "त्रिरुन्नतं स्थाप्य समं शरीरं हृदीन्द्रियाणि मनसा संनिवेश्य",
+    "section": 1,
+    "verse": 50,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.51": {
+    "cuid": "SHVET.1.51",
+    "iast": "brahmoḍupena pratareta vidvān srotāṃsi sarvāṇi bhayāvahāni",
+    "devanagari": "ब्रह्मोडुपेन प्रतरेत विद्वान् स्रोतांसि सर्वाणि भयावहानि",
+    "section": 1,
+    "verse": 51,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.52": {
+    "cuid": "SHVET.1.52",
+    "iast": "prāṇān prapīḍyeha sa yuktaceṣṭaḥ kṣīne prāṇe nāsikayocchvasīta",
+    "devanagari": "प्राणान् प्रपीड्येह स युक्तचेष्टः क्षीने प्राणे नासिकयोच्छ्वसीत",
+    "section": 1,
+    "verse": 52,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.53": {
+    "cuid": "SHVET.1.53",
+    "iast": "duṣṭāśvayuktam iva vāham enaṃ vidvān mano dhārayetāpramattaḥ",
+    "devanagari": "दुष्टाश्वयुक्तम् इव वाहम् एनं विद्वान् मनो धारयेताप्रमत्तः",
+    "section": 1,
+    "verse": 53,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.54": {
+    "cuid": "SHVET.1.54",
+    "iast": "same śucau śarkarāvahnivālukāvivarjite śabdajalāśrayādibhiḥ",
+    "devanagari": "समे शुचौ शर्करावह्निवालुकाविवर्जिते शब्दजलाश्रयादिभिः",
+    "section": 1,
+    "verse": 54,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.55": {
+    "cuid": "SHVET.1.55",
+    "iast": "mano'nukūle na tu cakṣupīḍane guhānivātāśrayaṇe prayojayet",
+    "devanagari": "मनोऽनुकूले न तु चक्षुपीडने गुहानिवाताश्रयणे प्रयोजयेत्",
+    "section": 1,
+    "verse": 55,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.56": {
+    "cuid": "SHVET.1.56",
+    "iast": "nīhāradhūmārkānalānilānāṃ khadyotavidyutsphaṭikāśaśīnām",
+    "devanagari": "नीहारधूमार्कानलानिलानां खद्योतविद्युत्स्फटिकाशशीनाम्",
+    "section": 1,
+    "verse": 56,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.57": {
+    "cuid": "SHVET.1.57",
+    "iast": "etāni rūpāṇi puraḥsarāṇi brahmaṇy abhivyaktikarāṇi yoge",
+    "devanagari": "एतानि रूपाणि पुरःसराणि ब्रह्मण्य् अभिव्यक्तिकराणि योगे",
+    "section": 1,
+    "verse": 57,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.58": {
+    "cuid": "SHVET.1.58",
+    "iast": "pṛthvyaptejo'nilakhe samutthite pañcātmake yogaguṇe pravṛtte",
+    "devanagari": "पृथ्व्यप्तेजोऽनिलखे समुत्थिते पञ्चात्मके योगगुणे प्रवृत्ते",
+    "section": 1,
+    "verse": 58,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.59": {
+    "cuid": "SHVET.1.59",
+    "iast": "na tasya rogo na jarā na mṛtyuḥ prāptasya yogāgnimayaṃ śarīram",
+    "devanagari": "न तस्य रोगो न जरा न मृत्युः प्राप्तस्य योगाग्निमयं शरीरम्",
+    "section": 1,
+    "verse": 59,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.60": {
+    "cuid": "SHVET.1.60",
+    "iast": "laghutvam ārogyam alolupatvaṃ varṇaprasādaḥ svarasauṣṭhavaṃ ca",
+    "devanagari": "लघुत्वम् आरोग्यम् अलोलुपत्वं वर्णप्रसादः स्वरसौष्ठवं च",
+    "section": 1,
+    "verse": 60,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.61": {
+    "cuid": "SHVET.1.61",
+    "iast": "gandhaḥ śubho mūtrapurīṣam alpaṃ yogapravṛttiṃ prathamāṃ vadanti",
+    "devanagari": "गन्धः शुभो मूत्रपुरीषम् अल्पं योगप्रवृत्तिं प्रथमां वदन्ति",
+    "section": 1,
+    "verse": 61,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.62": {
+    "cuid": "SHVET.1.62",
+    "iast": "yathaiva bimbaṃ mṛdayopaliptaṃ tejomayaṃ bhrājate tat sudhāntam",
+    "devanagari": "यथैव बिम्बं मृदयोपलिप्तं तेजोमयं भ्राजते तत् सुधान्तम्",
+    "section": 1,
+    "verse": 62,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.63": {
+    "cuid": "SHVET.1.63",
+    "iast": "tad vātmatattvaṃ prasamīkṣya dehī ekaḥ kṛtārtho bhavate vītaśokaḥ",
+    "devanagari": "तद् वात्मतत्त्वं प्रसमीक्ष्य देही एकः कृतार्थो भवते वीतशोकः",
+    "section": 1,
+    "verse": 63,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.64": {
+    "cuid": "SHVET.1.64",
+    "iast": "yad ātmatattvena tu brahmatattvaṃ dīpopameneha yuktaḥ prapaśyet",
+    "devanagari": "यद् आत्मतत्त्वेन तु ब्रह्मतत्त्वं दीपोपमेनेह युक्तः प्रपश्येत्",
+    "section": 1,
+    "verse": 64,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.65": {
+    "cuid": "SHVET.1.65",
+    "iast": "ajaṃ dhruvaṃ sarvatattvair viśuddhaṃ jñātvā devaṃ mucyate sarvapāśaiḥ",
+    "devanagari": "अजं ध्रुवं सर्वतत्त्वैर् विशुद्धं ज्ञात्वा देवं मुच्यते सर्वपाशैः",
+    "section": 1,
+    "verse": 65,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.66": {
+    "cuid": "SHVET.1.66",
+    "iast": "eṣa ha devaḥ pradiśo 'nu sarvāḥ pūrvo ha jātaḥ sa u garbhe antaḥ",
+    "devanagari": "एष ह देवः प्रदिशो ऽनु सर्वाः पूर्वो ह जातः स उ गर्भे अन्तः",
+    "section": 1,
+    "verse": 66,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.67": {
+    "cuid": "SHVET.1.67",
+    "iast": "sa eva jātaḥ sa janiṣyamānaḥ pratyaṅ janās tiṣṭhati sarvatomukhaḥ",
+    "devanagari": "स एव जातः स जनिष्यमानः प्रत्यङ् जनास् तिष्ठति सर्वतोमुखः",
+    "section": 1,
+    "verse": 67,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.68": {
+    "cuid": "SHVET.1.68",
+    "iast": "yo devo agnau yo apsu yo viśvaṃ bhuvanam āviveśa",
+    "devanagari": "यो देवो अग्नौ यो अप्सु यो विश्वं भुवनम् आविवेश",
+    "section": 1,
+    "verse": 68,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.69": {
+    "cuid": "SHVET.1.69",
+    "iast": "ya oṣadhīṣu yo vanaspatīṣu tasmai devāya namo namaḥ",
+    "devanagari": "य ओषधीषु यो वनस्पतीषु तस्मै देवाय नमो नमः",
+    "section": 1,
+    "verse": 69,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.70": {
+    "cuid": "SHVET.1.70",
+    "iast": "=== Chapter 4 ===",
+    "devanagari": "=== छप्तेर् ४ ===",
+    "section": 1,
+    "verse": 70,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.71": {
+    "cuid": "SHVET.1.71",
+    "iast": "ya eko jālavān īśata īśanībhiḥ sarvāṃl lokān īśata īśanībhiḥ",
+    "devanagari": "य एको जालवान् ईशत ईशनीभिः सर्वांल् लोकान् ईशत ईशनीभिः",
+    "section": 1,
+    "verse": 71,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.72": {
+    "cuid": "SHVET.1.72",
+    "iast": "ya evaika udbhave saṃbhave ca ya etad vidur amṛtās te bhavanti",
+    "devanagari": "य एवैक उद्भवे संभवे च य एतद् विदुर् अमृतास् ते भवन्ति",
+    "section": 1,
+    "verse": 72,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.73": {
+    "cuid": "SHVET.1.73",
+    "iast": "eko hi rudro na dvitīyāya tasthe ya imāṃl lokān īśata īśanībhiḥ",
+    "devanagari": "एको हि रुद्रो न द्वितीयाय तस्थे य इमांल् लोकान् ईशत ईशनीभिः",
+    "section": 1,
+    "verse": 73,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.74": {
+    "cuid": "SHVET.1.74",
+    "iast": "pratyaṅ janās tiṣṭhati saṃcukocāntakāle saṃsṛjya viśvā bhuvanāni gopāḥ",
+    "devanagari": "प्रत्यङ् जनास् तिष्ठति संचुकोचान्तकाले संसृज्य विश्वा भुवनानि गोपाः",
+    "section": 1,
+    "verse": 74,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.75": {
+    "cuid": "SHVET.1.75",
+    "iast": "viśvataścakṣur uta viśvatomukho viśvatobāhur uta viśvataspāt",
+    "devanagari": "विश्वतश्चक्षुर् उत विश्वतोमुखो विश्वतोबाहुर् उत विश्वतस्पात्",
+    "section": 1,
+    "verse": 75,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.76": {
+    "cuid": "SHVET.1.76",
+    "iast": "saṃ bāhubhyāṃ dhamati saṃ patatrair dyāvābhūmī janayan deva ekaḥ",
+    "devanagari": "सं बाहुभ्यां धमति सं पतत्रैर् द्यावाभूमी जनयन् देव एकः",
+    "section": 1,
+    "verse": 76,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.77": {
+    "cuid": "SHVET.1.77",
+    "iast": "yo devānāṃ prabhavaś codbhavaś ca viśvādhipo rudro maharṣiḥ",
+    "devanagari": "यो देवानां प्रभवश् चोद्भवश् च विश्वाधिपो रुद्रो महर्षिः",
+    "section": 1,
+    "verse": 77,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.78": {
+    "cuid": "SHVET.1.78",
+    "iast": "hiraṇyagarbhaṃ janayāmāsa pūrvaṃ sa no buddhyā śubhayā saṃyunaktu",
+    "devanagari": "हिरण्यगर्भं जनयामास पूर्वं स नो बुद्ध्या शुभया संयुनक्तु",
+    "section": 1,
+    "verse": 78,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.79": {
+    "cuid": "SHVET.1.79",
+    "iast": "yā te rudra śivā tanūr aghorāpāpakāśinī",
+    "devanagari": "या ते रुद्र शिवा तनूर् अघोरापापकाशिनी",
+    "section": 1,
+    "verse": 79,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.80": {
+    "cuid": "SHVET.1.80",
+    "iast": "tayā nas tanuvā śaṃtamayā giriśantābhicākaśīhi",
+    "devanagari": "तया नस् तनुवा शंतमया गिरिशन्ताभिचाकशीहि",
+    "section": 1,
+    "verse": 80,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.81": {
+    "cuid": "SHVET.1.81",
+    "iast": "yām iṣuṃ giriśanta haste bibharṣy astave",
+    "devanagari": "याम् इषुं गिरिशन्त हस्ते बिभर्ष्य् अस्तवे",
+    "section": 1,
+    "verse": 81,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.82": {
+    "cuid": "SHVET.1.82",
+    "iast": "śivāṃ giritra tāṃ kuru mā hiṃsīḥ puruṣaṃ jagat",
+    "devanagari": "शिवां गिरित्र तां कुरु मा हिंसीः पुरुषं जगत्",
+    "section": 1,
+    "verse": 82,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.83": {
+    "cuid": "SHVET.1.83",
+    "iast": "tataḥ paraṃ brahma paraṃ bṛhantaṃ yathānikāyaṃ sarvabhūteṣu gūḍhaṃ",
+    "devanagari": "ततः परं ब्रह्म परं बृहन्तं यथानिकायं सर्वभूतेषु गूढं",
+    "section": 1,
+    "verse": 83,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.84": {
+    "cuid": "SHVET.1.84",
+    "iast": "viśvasyaikaṃ pariveṣṭitāram īśaṃ taṃ jñātvāmṛtā bhavanti",
+    "devanagari": "विश्वस्यैकं परिवेष्टितारम् ईशं तं ज्ञात्वामृता भवन्ति",
+    "section": 1,
+    "verse": 84,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.85": {
+    "cuid": "SHVET.1.85",
+    "iast": "vedāham etaṃ puruṣaṃ mahāntam ādityavarṇaṃ tamasaḥ parastāt",
+    "devanagari": "वेदाहम् एतं पुरुषं महान्तम् आदित्यवर्णं तमसः परस्तात्",
+    "section": 1,
+    "verse": 85,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.86": {
+    "cuid": "SHVET.1.86",
+    "iast": "tam eva viditvāti mṛtyum eti nānyaḥ panthā vidyate 'yanāya",
+    "devanagari": "तम् एव विदित्वाति मृत्युम् एति नान्यः पन्था विद्यते ऽयनाय",
+    "section": 1,
+    "verse": 86,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.87": {
+    "cuid": "SHVET.1.87",
+    "iast": "yasmāt paraṃ nāparam asti kiṃcid yasmān nāṇīyo na jyāyo 'sti kiṃcit",
+    "devanagari": "यस्मात् परं नापरम् अस्ति किंचिद् यस्मान् नाणीयो न ज्यायो ऽस्ति किंचित्",
+    "section": 1,
+    "verse": 87,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.88": {
+    "cuid": "SHVET.1.88",
+    "iast": "vṛkṣa iva stabdho divi tiṣṭhaty ekas tenedaṃ pūrṇaṃ puruṣeṇa sarvam",
+    "devanagari": "वृक्ष इव स्तब्धो दिवि तिष्ठत्य् एकस् तेनेदं पूर्णं पुरुषेण सर्वम्",
+    "section": 1,
+    "verse": 88,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.89": {
+    "cuid": "SHVET.1.89",
+    "iast": "tato yad uttarataraṃ yad arūpam anāmayam",
+    "devanagari": "ततो यद् उत्तरतरं यद् अरूपम् अनामयम्",
+    "section": 1,
+    "verse": 89,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.90": {
+    "cuid": "SHVET.1.90",
+    "iast": "ya etad vidur amṛtās te bhavanti athetare duḥkham evāpiyanti",
+    "devanagari": "य एतद् विदुर् अमृतास् ते भवन्ति अथेतरे दुःखम् एवापियन्ति",
+    "section": 1,
+    "verse": 90,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.91": {
+    "cuid": "SHVET.1.91",
+    "iast": "sarvānanaśirogrīvaḥ sarvabhūtaguhāśayaḥ",
+    "devanagari": "सर्वाननशिरोग्रीवः सर्वभूतगुहाशयः",
+    "section": 1,
+    "verse": 91,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.92": {
+    "cuid": "SHVET.1.92",
+    "iast": "sarvavyāpī sa bhagavāṃs tasmāt sarvagataḥ śivaḥ",
+    "devanagari": "सर्वव्यापी स भगवांस् तस्मात् सर्वगतः शिवः",
+    "section": 1,
+    "verse": 92,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.93": {
+    "cuid": "SHVET.1.93",
+    "iast": "mahān prabhur vai puruṣaḥ sattvasyaiṣa pravartakaḥ",
+    "devanagari": "महान् प्रभुर् वै पुरुषः सत्त्वस्यैष प्रवर्तकः",
+    "section": 1,
+    "verse": 93,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.94": {
+    "cuid": "SHVET.1.94",
+    "iast": "sunirmalām imāṃ prāptim īśāno jyotir avyayaḥ",
+    "devanagari": "सुनिर्मलाम् इमां प्राप्तिम् ईशानो ज्योतिर् अव्ययः",
+    "section": 1,
+    "verse": 94,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.95": {
+    "cuid": "SHVET.1.95",
+    "iast": "aṅguṣṭhamātraḥ puruṣo 'ntarātmā sadā janānāṃ hṛdaye saṃniviṣṭaḥ",
+    "devanagari": "अङ्गुष्ठमात्रः पुरुषो ऽन्तरात्मा सदा जनानां हृदये संनिविष्टः",
+    "section": 1,
+    "verse": 95,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.96": {
+    "cuid": "SHVET.1.96",
+    "iast": "hṛdā manīṣā manasābhikḷpto ya etad vidur amṛtās te bhavanti",
+    "devanagari": "हृदा मनीषा मनसाभिकॢप्तो य एतद् विदुर् अमृतास् ते भवन्ति",
+    "section": 1,
+    "verse": 96,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.97": {
+    "cuid": "SHVET.1.97",
+    "iast": "sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt",
+    "devanagari": "सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्",
+    "section": 1,
+    "verse": 97,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.98": {
+    "cuid": "SHVET.1.98",
+    "iast": "sa bhūmiṃ viśvato vṛtvā atyatiṣṭhad daśāṅgulam",
+    "devanagari": "स भूमिं विश्वतो वृत्वा अत्यतिष्ठद् दशाङ्गुलम्",
+    "section": 1,
+    "verse": 98,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.99": {
+    "cuid": "SHVET.1.99",
+    "iast": "puruṣa evedaṃ sarvaṃ yad bhūtaṃ yac ca bhavyam",
+    "devanagari": "पुरुष एवेदं सर्वं यद् भूतं यच् च भव्यम्",
+    "section": 1,
+    "verse": 99,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.100": {
+    "cuid": "SHVET.1.100",
+    "iast": "utāmṛtatvasyeśāno yad annenātirohati",
+    "devanagari": "उतामृतत्वस्येशानो यद् अन्नेनातिरोहति",
+    "section": 1,
+    "verse": 100,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.101": {
+    "cuid": "SHVET.1.101",
+    "iast": "sarvataḥpāṇipādaṃ tat sarvato'kṣiśiromukhaṃ",
+    "devanagari": "सर्वतःपाणिपादं तत् सर्वतोऽक्षिशिरोमुखं",
+    "section": 1,
+    "verse": 101,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.102": {
+    "cuid": "SHVET.1.102",
+    "iast": "sarvataḥśrutimal loke sarvam āvṛtya tiṣṭhati",
+    "devanagari": "सर्वतःश्रुतिमल् लोके सर्वम् आवृत्य तिष्ठति",
+    "section": 1,
+    "verse": 102,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.103": {
+    "cuid": "SHVET.1.103",
+    "iast": "sarvendriyaguṇābhāsaṃ sarvendriyavivarjitaṃ",
+    "devanagari": "सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितं",
+    "section": 1,
+    "verse": 103,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.104": {
+    "cuid": "SHVET.1.104",
+    "iast": "sarvasya prabhum īśānaṃ sarvasya śaraṇaṃ suhṛt",
+    "devanagari": "सर्वस्य प्रभुम् ईशानं सर्वस्य शरणं सुहृत्",
+    "section": 1,
+    "verse": 104,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.105": {
+    "cuid": "SHVET.1.105",
+    "iast": "navadvāre pure dehī haṃso lelāyate bahiḥ",
+    "devanagari": "नवद्वारे पुरे देही हंसो लेलायते बहिः",
+    "section": 1,
+    "verse": 105,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.106": {
+    "cuid": "SHVET.1.106",
+    "iast": "vaśī sarvasya lokasya sthāvarasya carasya ca",
+    "devanagari": "वशी सर्वस्य लोकस्य स्थावरस्य चरस्य च",
+    "section": 1,
+    "verse": 106,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.107": {
+    "cuid": "SHVET.1.107",
+    "iast": "apāṇipādo javano grahītā paśyaty acakṣuḥ sa śṛṇoty akarṇaḥ",
+    "devanagari": "अपाणिपादो जवनो ग्रहीता पश्यत्य् अचक्षुः स शृणोत्य् अकर्णः",
+    "section": 1,
+    "verse": 107,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.108": {
+    "cuid": "SHVET.1.108",
+    "iast": "sa vetti vedyaṃ na ca tasyāsti vettā tam āhur agryaṃ puruṣaṃ mahāntam",
+    "devanagari": "स वेत्ति वेद्यं न च तस्यास्ति वेत्ता तम् आहुर् अग्र्यं पुरुषं महान्तम्",
+    "section": 1,
+    "verse": 108,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.109": {
+    "cuid": "SHVET.1.109",
+    "iast": "aṇor aṇīyān mahato mahīyān ātmā guhāyāṃ nihito 'sya jantoḥ",
+    "devanagari": "अणोर् अणीयान् महतो महीयान् आत्मा गुहायां निहितो ऽस्य जन्तोः",
+    "section": 1,
+    "verse": 109,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.110": {
+    "cuid": "SHVET.1.110",
+    "iast": "tam akratuṃ paśyati vītaśoko dhātuprasādān mahimānam īśam",
+    "devanagari": "तम् अक्रतुं पश्यति वीतशोको धातुप्रसादान् महिमानम् ईशम्",
+    "section": 1,
+    "verse": 110,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.111": {
+    "cuid": "SHVET.1.111",
+    "iast": "vedāham etam ajaraṃ purāṇaṃ sarvātmānaṃ sarvagataṃ vibhutvāt",
+    "devanagari": "वेदाहम् एतम् अजरं पुराणं सर्वात्मानं सर्वगतं विभुत्वात्",
+    "section": 1,
+    "verse": 111,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.112": {
+    "cuid": "SHVET.1.112",
+    "iast": "janmanirodhaṃ pravadanti yasya brahmavādino hi pravadanti nityam",
+    "devanagari": "जन्मनिरोधं प्रवदन्ति यस्य ब्रह्मवादिनो हि प्रवदन्ति नित्यम्",
+    "section": 1,
+    "verse": 112,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.113": {
+    "cuid": "SHVET.1.113",
+    "iast": "=== Chapter 5 ===",
+    "devanagari": "=== छप्तेर् ५ ===",
+    "section": 1,
+    "verse": 113,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.114": {
+    "cuid": "SHVET.1.114",
+    "iast": "ya eko 'varṇo bahudhā śaktiyogād varṇān anekān nihitārtho dadhāti",
+    "devanagari": "य एको ऽवर्णो बहुधा शक्तियोगाद् वर्णान् अनेकान् निहितार्थो दधाति",
+    "section": 1,
+    "verse": 114,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.115": {
+    "cuid": "SHVET.1.115",
+    "iast": "vi caiti cānte viśvam ādau sa devaḥ sa no buddhyā śubhayā saṃyunaktu",
+    "devanagari": "वि चैति चान्ते विश्वम् आदौ स देवः स नो बुद्ध्या शुभया संयुनक्तु",
+    "section": 1,
+    "verse": 115,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.116": {
+    "cuid": "SHVET.1.116",
+    "iast": "tad evāgnis tad ādityas tad vāyus tad u candramāḥ",
+    "devanagari": "तद् एवाग्निस् तद् आदित्यस् तद् वायुस् तद् उ चन्द्रमाः",
+    "section": 1,
+    "verse": 116,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.117": {
+    "cuid": "SHVET.1.117",
+    "iast": "tad eva śukraṃ tad brahma tad āpas tat prajāpatiḥ",
+    "devanagari": "तद् एव शुक्रं तद् ब्रह्म तद् आपस् तत् प्रजापतिः",
+    "section": 1,
+    "verse": 117,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.118": {
+    "cuid": "SHVET.1.118",
+    "iast": "tvaṃ strī tvaṃ pumān asi tvaṃ kumāra uta vā kumārī",
+    "devanagari": "त्वं स्त्री त्वं पुमान् असि त्वं कुमार उत वा कुमारी",
+    "section": 1,
+    "verse": 118,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.119": {
+    "cuid": "SHVET.1.119",
+    "iast": "tvaṃ jīrṇo daṇḍena vañcasi tvaṃ jāto bhavasi viśvatomukhaḥ",
+    "devanagari": "त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः",
+    "section": 1,
+    "verse": 119,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.120": {
+    "cuid": "SHVET.1.120",
+    "iast": "nīlaḥ pataṅgo harito lohitākṣas taḍidgarbha ṛtavaḥ samudrāḥ",
+    "devanagari": "नीलः पतङ्गो हरितो लोहिताक्षस् तडिद्गर्भ ऋतवः समुद्राः",
+    "section": 1,
+    "verse": 120,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.121": {
+    "cuid": "SHVET.1.121",
+    "iast": "anādimāṃs tvaṃ vibhutvena vartase yato jātāni bhuvanāni viśvā",
+    "devanagari": "अनादिमांस् त्वं विभुत्वेन वर्तसे यतो जातानि भुवनानि विश्वा",
+    "section": 1,
+    "verse": 121,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.122": {
+    "cuid": "SHVET.1.122",
+    "iast": "ajām ekāṃ lohitaśuklakṛṣṇāṃ bahvīḥ prajāḥ sṛjamānāṃ sarūpāḥ",
+    "devanagari": "अजाम् एकां लोहितशुक्लकृष्णां बह्वीः प्रजाः सृजमानां सरूपाः",
+    "section": 1,
+    "verse": 122,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.123": {
+    "cuid": "SHVET.1.123",
+    "iast": "ajo hy eko juṣamāṇo 'nuśete jahāty enāṃ bhuktabhogām ajo 'nyaḥ",
+    "devanagari": "अजो ह्य् एको जुषमाणो ऽनुशेते जहात्य् एनां भुक्तभोगाम् अजो ऽन्यः",
+    "section": 1,
+    "verse": 123,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.124": {
+    "cuid": "SHVET.1.124",
+    "iast": "dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte",
+    "devanagari": "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते",
+    "section": 1,
+    "verse": 124,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.125": {
+    "cuid": "SHVET.1.125",
+    "iast": "tayor anyaḥ pippalaṃ svādv atty anaśnann anyo abhicākaśīti",
+    "devanagari": "तयोर् अन्यः पिप्पलं स्वाद्व् अत्त्य् अनश्नन्न् अन्यो अभिचाकशीति",
+    "section": 1,
+    "verse": 125,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.126": {
+    "cuid": "SHVET.1.126",
+    "iast": "samāne vṛkṣe puruṣo nimagno anīśayā śocati muhyamānaḥ",
+    "devanagari": "समाने वृक्षे पुरुषो निमग्नो अनीशया शोचति मुह्यमानः",
+    "section": 1,
+    "verse": 126,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.127": {
+    "cuid": "SHVET.1.127",
+    "iast": "juṣṭaṃ yadā paśyaty anyam īśaṃ asya mahimānam iti vītaśokaḥ",
+    "devanagari": "जुष्टं यदा पश्यत्य् अन्यम् ईशं अस्य महिमानम् इति वीतशोकः",
+    "section": 1,
+    "verse": 127,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.128": {
+    "cuid": "SHVET.1.128",
+    "iast": "ṛco akṣare parame vyoman yasmin devā adhi viśve niṣedhuḥ",
+    "devanagari": "ऋचो अक्षरे परमे व्योमन् यस्मिन् देवा अधि विश्वे निषेधुः",
+    "section": 1,
+    "verse": 128,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.129": {
+    "cuid": "SHVET.1.129",
+    "iast": "yas tan na veda kim ṛcā kariṣyati ya it tad vidus ta ime samāsate",
+    "devanagari": "यस् तन् न वेद किम् ऋचा करिष्यति य इत् तद् विदुस् त इमे समासते",
+    "section": 1,
+    "verse": 129,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.130": {
+    "cuid": "SHVET.1.130",
+    "iast": "chandāṃsi yajñāḥ kratavo vratāni bhūtaṃ bhavyaṃ yac ca vedā vadanti",
+    "devanagari": "छन्दांसि यज्ञाः क्रतवो व्रतानि भूतं भव्यं यच् च वेदा वदन्ति",
+    "section": 1,
+    "verse": 130,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.131": {
+    "cuid": "SHVET.1.131",
+    "iast": "asmān māyī sṛjate viśvam etat tasmiṃś cānyo māyayā saṃniruddhaḥ",
+    "devanagari": "अस्मान् मायी सृजते विश्वम् एतत् तस्मिंश् चान्यो मायया संनिरुद्धः",
+    "section": 1,
+    "verse": 131,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.132": {
+    "cuid": "SHVET.1.132",
+    "iast": "māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaraṃ",
+    "devanagari": "मायां तु प्रकृतिं विद्यान् मायिनं तु महेश्वरं",
+    "section": 1,
+    "verse": 132,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.133": {
+    "cuid": "SHVET.1.133",
+    "iast": "tasyāvayavabhūtais tu vyāptaṃ sarvaṃ idaṃ jagat",
+    "devanagari": "तस्यावयवभूतैस् तु व्याप्तं सर्वं इदं जगत्",
+    "section": 1,
+    "verse": 133,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.134": {
+    "cuid": "SHVET.1.134",
+    "iast": "yo yoniṃ-yonim adhitiṣṭhaty eko yasminn idaṃ saṃ ca vi caiti sarvam",
+    "devanagari": "यो योनिं-योनिम् अधितिष्ठत्य् एको यस्मिन्न् इदं सं च वि चैति सर्वम्",
+    "section": 1,
+    "verse": 134,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.135": {
+    "cuid": "SHVET.1.135",
+    "iast": "tam īśānaṃ varadaṃ devam īḍyaṃ nicāyyemāṃ śāntim atyantam eti",
+    "devanagari": "तम् ईशानं वरदं देवम् ईड्यं निचाय्येमां शान्तिम् अत्यन्तम् एति",
+    "section": 1,
+    "verse": 135,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.136": {
+    "cuid": "SHVET.1.136",
+    "iast": "yo devānāṃ prabhavaś codbhavaś ca viśvādhiko rudro maharṣiḥ",
+    "devanagari": "यो देवानां प्रभवश् चोद्भवश् च विश्वाधिको रुद्रो महर्षिः",
+    "section": 1,
+    "verse": 136,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.137": {
+    "cuid": "SHVET.1.137",
+    "iast": "hiraṇyagarbhaṃ paśyata jāyamānaṃ sa no buddhyā śubhayā saṃyunaktu",
+    "devanagari": "हिरण्यगर्भं पश्यत जायमानं स नो बुद्ध्या शुभया संयुनक्तु",
+    "section": 1,
+    "verse": 137,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.138": {
+    "cuid": "SHVET.1.138",
+    "iast": "yo devānām adhipo yasmiṃl lokā adhiśritāḥ",
+    "devanagari": "यो देवानाम् अधिपो यस्मिंल् लोका अधिश्रिताः",
+    "section": 1,
+    "verse": 138,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.139": {
+    "cuid": "SHVET.1.139",
+    "iast": "ya īśe asya dvipadaś catuṣpadaḥ kasmai devāya haviṣā vidhema",
+    "devanagari": "य ईशे अस्य द्विपदश् चतुष्पदः कस्मै देवाय हविषा विधेम",
+    "section": 1,
+    "verse": 139,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.140": {
+    "cuid": "SHVET.1.140",
+    "iast": "sūkṣmātisūkṣmaṃ kalilasya madhye viśvasya sraṣṭāram anekarūpaṃ",
+    "devanagari": "सूक्ष्मातिसूक्ष्मं कलिलस्य मध्ये विश्वस्य स्रष्टारम् अनेकरूपं",
+    "section": 1,
+    "verse": 140,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.141": {
+    "cuid": "SHVET.1.141",
+    "iast": "viśvasyaikaṃ pariveṣṭitāraṃ jñātvā śivaṃ śāntim atyantam eti",
+    "devanagari": "विश्वस्यैकं परिवेष्टितारं ज्ञात्वा शिवं शान्तिम् अत्यन्तम् एति",
+    "section": 1,
+    "verse": 141,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.142": {
+    "cuid": "SHVET.1.142",
+    "iast": "sa eva kāle bhuvanasya goptā viśvādhipaḥ sarvabhūteṣu gūḍhaḥ",
+    "devanagari": "स एव काले भुवनस्य गोप्ता विश्वाधिपः सर्वभूतेषु गूढः",
+    "section": 1,
+    "verse": 142,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.143": {
+    "cuid": "SHVET.1.143",
+    "iast": "yasmin yuktā brahmarṣayo devatāś ca tam evaṃ jñātvā mṛtyupāśāṃś chinatti",
+    "devanagari": "यस्मिन् युक्ता ब्रह्मर्षयो देवताश् च तम् एवं ज्ञात्वा मृत्युपाशांश् छिनत्ति",
+    "section": 1,
+    "verse": 143,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.144": {
+    "cuid": "SHVET.1.144",
+    "iast": "ghṛtāt paraṃ maṇḍam ivātisūkṣmaṃ jñātvā śivaṃ sarvabhūteṣu gūḍhaṃ",
+    "devanagari": "घृतात् परं मण्डम् इवातिसूक्ष्मं ज्ञात्वा शिवं सर्वभूतेषु गूढं",
+    "section": 1,
+    "verse": 144,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.145": {
+    "cuid": "SHVET.1.145",
+    "iast": "viśvasyaikaṃ pariveṣṭitāraṃ jñātvā devaṃ mucyate sarvapāśaiḥ",
+    "devanagari": "विश्वस्यैकं परिवेष्टितारं ज्ञात्वा देवं मुच्यते सर्वपाशैः",
+    "section": 1,
+    "verse": 145,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.146": {
+    "cuid": "SHVET.1.146",
+    "iast": "eṣa devo viśvakarmā mahātmā sadā janānāṃ hṛdaye saṃniviṣṭaḥ",
+    "devanagari": "एष देवो विश्वकर्मा महात्मा सदा जनानां हृदये संनिविष्टः",
+    "section": 1,
+    "verse": 146,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.147": {
+    "cuid": "SHVET.1.147",
+    "iast": "hṛdā manīṣā manasābhikḷpto ya etad vidur amṛtās te bhavanti",
+    "devanagari": "हृदा मनीषा मनसाभिकॢप्तो य एतद् विदुर् अमृतास् ते भवन्ति",
+    "section": 1,
+    "verse": 147,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.148": {
+    "cuid": "SHVET.1.148",
+    "iast": "yadātamas tan na divā na rātrir na san na cāsac chiva eva kevalaḥ",
+    "devanagari": "यदातमस् तन् न दिवा न रात्रिर् न सन् न चासच् छिव एव केवलः",
+    "section": 1,
+    "verse": 148,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.149": {
+    "cuid": "SHVET.1.149",
+    "iast": "tad akṣaraṃ tat savitur vareṇyaṃ prajñā ca tasmāt prasṛtā purāṇī",
+    "devanagari": "तद् अक्षरं तत् सवितुर् वरेण्यं प्रज्ञा च तस्मात् प्रसृता पुराणी",
+    "section": 1,
+    "verse": 149,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.150": {
+    "cuid": "SHVET.1.150",
+    "iast": "nainam ūrdhvaṃ na tiryañcaṃ na madhye parijagrabhat",
+    "devanagari": "नैनम् ऊर्ध्वं न तिर्यञ्चं न मध्ये परिजग्रभत्",
+    "section": 1,
+    "verse": 150,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.151": {
+    "cuid": "SHVET.1.151",
+    "iast": "na tasya pratimā asti yasya nāma mahad yaśaḥ",
+    "devanagari": "न तस्य प्रतिमा अस्ति यस्य नाम महद् यशः",
+    "section": 1,
+    "verse": 151,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.152": {
+    "cuid": "SHVET.1.152",
+    "iast": "na saṃdṛśe tiṣṭhati rūpam asya na cakṣuṣā paśyati kaścanainaṃ",
+    "devanagari": "न संदृशे तिष्ठति रूपम् अस्य न चक्षुषा पश्यति कश्चनैनं",
+    "section": 1,
+    "verse": 152,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.153": {
+    "cuid": "SHVET.1.153",
+    "iast": "hṛdā hṛdisthaṃ manasā ya enam evaṃ vidur amṛtās te bhavanti",
+    "devanagari": "हृदा हृदिस्थं मनसा य एनम् एवं विदुर् अमृतास् ते भवन्ति",
+    "section": 1,
+    "verse": 153,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.154": {
+    "cuid": "SHVET.1.154",
+    "iast": "ajāta ity evaṃ kaścid bhīruḥ prapadyate",
+    "devanagari": "अजात इत्य् एवं कश्चिद् भीरुः प्रपद्यते",
+    "section": 1,
+    "verse": 154,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.155": {
+    "cuid": "SHVET.1.155",
+    "iast": "rudra yat dakṣiṇaṃ mukham tena māṃ pāhi nityam",
+    "devanagari": "रुद्र यत् दक्षिणं मुखम् तेन मां पाहि नित्यम्",
+    "section": 1,
+    "verse": 155,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.156": {
+    "cuid": "SHVET.1.156",
+    "iast": "mā nas toke tanaye mā na āyuṣi mā no goṣu mā no aśveṣu rīriṣaḥ",
+    "devanagari": "मा नस् तोके तनये मा न आयुषि मा नो गोषु मा नो अश्वेषु रीरिषः",
+    "section": 1,
+    "verse": 156,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.157": {
+    "cuid": "SHVET.1.157",
+    "iast": "vīrān mā no rudra bhāmito vadhīr haviṣmantaḥ sadam it tvā havāmahe",
+    "devanagari": "वीरान् मा नो रुद्र भामितो वधीर् हविष्मन्तः सदम् इत् त्वा हवामहे",
+    "section": 1,
+    "verse": 157,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.158": {
+    "cuid": "SHVET.1.158",
+    "iast": "=== Chapter 6 ===",
+    "devanagari": "=== छप्तेर् ६ ===",
+    "section": 1,
+    "verse": 158,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.159": {
+    "cuid": "SHVET.1.159",
+    "iast": "dve akṣare brahmapare tv anante vidyāvidye nihite yatra gūḍhe",
+    "devanagari": "द्वे अक्षरे ब्रह्मपरे त्व् अनन्ते विद्याविद्ये निहिते यत्र गूढे",
+    "section": 1,
+    "verse": 159,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.160": {
+    "cuid": "SHVET.1.160",
+    "iast": "kṣaraṃ tv avidyā hy amṛtaṃ tu vidyā vidyāvidye īśate yas tu so 'nyaḥ",
+    "devanagari": "क्षरं त्व् अविद्या ह्य् अमृतं तु विद्या विद्याविद्ये ईशते यस् तु सो ऽन्यः",
+    "section": 1,
+    "verse": 160,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.161": {
+    "cuid": "SHVET.1.161",
+    "iast": "yo yoniṃ yonim adhitiṣṭhaty eko viśvāni rūpāṇi yonīś ca sarvāḥ",
+    "devanagari": "यो योनिं योनिम् अधितिष्ठत्य् एको विश्वानि रूपाणि योनीश् च सर्वाः",
+    "section": 1,
+    "verse": 161,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.162": {
+    "cuid": "SHVET.1.162",
+    "iast": "ṛṣiṃ prasūtaṃ kapilaṃ yas tam agre jñānair bibharti jāyamānaṃ ca paśyet",
+    "devanagari": "ऋषिं प्रसूतं कपिलं यस् तम् अग्रे ज्ञानैर् बिभर्ति जायमानं च पश्येत्",
+    "section": 1,
+    "verse": 162,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.163": {
+    "cuid": "SHVET.1.163",
+    "iast": "ekaikaṃ jālaṃ bahudhā vikurvann asmin kṣetre saṃharaty eṣa devaḥ",
+    "devanagari": "एकैकं जालं बहुधा विकुर्वन्न् अस्मिन् क्षेत्रे संहरत्य् एष देवः",
+    "section": 1,
+    "verse": 163,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.164": {
+    "cuid": "SHVET.1.164",
+    "iast": "bhūyaḥ sṛṣṭvā patayas tatheśaḥ sarvādhipatyaṃ kurute mahātmā",
+    "devanagari": "भूयः सृष्ट्वा पतयस् तथेशः सर्वाधिपत्यं कुरुते महात्मा",
+    "section": 1,
+    "verse": 164,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.165": {
+    "cuid": "SHVET.1.165",
+    "iast": "sarvā diśa ūrdhvam adhaś ca tiryak prakāśayan bhrājate yad vānaḍvān",
+    "devanagari": "सर्वा दिश ऊर्ध्वम् अधश् च तिर्यक् प्रकाशयन् भ्राजते यद् वानड्वान्",
+    "section": 1,
+    "verse": 165,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.166": {
+    "cuid": "SHVET.1.166",
+    "iast": "evaṃ sa devo bhagavān vareṇyo yonisvabhāvān adhitiṣṭhaty ekaḥ",
+    "devanagari": "एवं स देवो भगवान् वरेण्यो योनिस्वभावान् अधितिष्ठत्य् एकः",
+    "section": 1,
+    "verse": 166,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.167": {
+    "cuid": "SHVET.1.167",
+    "iast": "yac ca svabhāvaṃ pacati viśvayoniḥ pācyāṃś ca sarvān pariṇāmayed yaḥ",
+    "devanagari": "यच् च स्वभावं पचति विश्वयोनिः पाच्यांश् च सर्वान् परिणामयेद् यः",
+    "section": 1,
+    "verse": 167,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.168": {
+    "cuid": "SHVET.1.168",
+    "iast": "sarvam etad viśvam adhitiṣṭhaty eko guṇāṃś ca sarvān viniyojayed yaḥ",
+    "devanagari": "सर्वम् एतद् विश्वम् अधितिष्ठत्य् एको गुणांश् च सर्वान् विनियोजयेद् यः",
+    "section": 1,
+    "verse": 168,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.169": {
+    "cuid": "SHVET.1.169",
+    "iast": "tad vedaguhyopaniṣatsu gūḍhaṃ tad brahmā vedate brahmayoniṃ",
+    "devanagari": "तद् वेदगुह्योपनिषत्सु गूढं तद् ब्रह्मा वेदते ब्रह्मयोनिं",
+    "section": 1,
+    "verse": 169,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.170": {
+    "cuid": "SHVET.1.170",
+    "iast": "ye pūrvaṃ devā ṛṣayaś ca tad vidus te tanmayā amṛtā vai babhūvuḥ",
+    "devanagari": "ये पूर्वं देवा ऋषयश् च तद् विदुस् ते तन्मया अमृता वै बभूवुः",
+    "section": 1,
+    "verse": 170,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.171": {
+    "cuid": "SHVET.1.171",
+    "iast": "guṇānvayo yaḥ phalakarmakartā kṛtasya tasyaiva sa copabhoktā",
+    "devanagari": "गुणान्वयो यः फलकर्मकर्ता कृतस्य तस्यैव स चोपभोक्ता",
+    "section": 1,
+    "verse": 171,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.172": {
+    "cuid": "SHVET.1.172",
+    "iast": "sa viśvarūpas triguṇas trivartmā prāṇādhipaḥ saṃcarati svakarmabhiḥ",
+    "devanagari": "स विश्वरूपस् त्रिगुणस् त्रिवर्त्मा प्राणाधिपः संचरति स्वकर्मभिः",
+    "section": 1,
+    "verse": 172,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.173": {
+    "cuid": "SHVET.1.173",
+    "iast": "aṅguṣṭhamātro ravitulyarūpaḥ saṃkalpāhaṃkārasamanvito yaḥ",
+    "devanagari": "अङ्गुष्ठमात्रो रवितुल्यरूपः संकल्पाहंकारसमन्वितो यः",
+    "section": 1,
+    "verse": 173,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.174": {
+    "cuid": "SHVET.1.174",
+    "iast": "buddher guṇenātmaguṇena caiva ārāgramātro hy avaro 'pi dṛṣṭaḥ",
+    "devanagari": "बुद्धेर् गुणेनात्मगुणेन चैव आराग्रमात्रो ह्य् अवरो ऽपि दृष्टः",
+    "section": 1,
+    "verse": 174,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.175": {
+    "cuid": "SHVET.1.175",
+    "iast": "vālāgraśatabhāgasya śatadhā kalpitasya ca",
+    "devanagari": "वालाग्रशतभागस्य शतधा कल्पितस्य च",
+    "section": 1,
+    "verse": 175,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.176": {
+    "cuid": "SHVET.1.176",
+    "iast": "bhāgo jīvaḥ sa vijñeyaḥ sa cānantyāya kalpate",
+    "devanagari": "भागो जीवः स विज्ञेयः स चानन्त्याय कल्पते",
+    "section": 1,
+    "verse": 176,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.177": {
+    "cuid": "SHVET.1.177",
+    "iast": "naiva strī na pumān eṣa na caivāyaṃ napuṃsakaḥ",
+    "devanagari": "नैव स्त्री न पुमान् एष न चैवायं नपुंसकः",
+    "section": 1,
+    "verse": 177,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.178": {
+    "cuid": "SHVET.1.178",
+    "iast": "yad yac charīram ādatte tena tena sa yujyate",
+    "devanagari": "यद् यच् छरीरम् आदत्ते तेन तेन स युज्यते",
+    "section": 1,
+    "verse": 178,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.179": {
+    "cuid": "SHVET.1.179",
+    "iast": "saṃkalpanasparśanadṛṣṭimohair grāsāmbuvṛṣṭyā cātmavivṛddhijanma",
+    "devanagari": "संकल्पनस्पर्शनदृष्टिमोहैर् ग्रासाम्बुवृष्ट्या चात्मविवृद्धिजन्म",
+    "section": 1,
+    "verse": 179,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.180": {
+    "cuid": "SHVET.1.180",
+    "iast": "karmānugāny anukramena dehī sthāneṣu rūpāṇy abhisaṃprapadyate",
+    "devanagari": "कर्मानुगान्य् अनुक्रमेन देही स्थानेषु रूपाण्य् अभिसंप्रपद्यते",
+    "section": 1,
+    "verse": 180,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.181": {
+    "cuid": "SHVET.1.181",
+    "iast": "sthūlāni sūkṣmāṇi bahūni caiva rūpāṇi dehī svaguṇair vṛṇoti",
+    "devanagari": "स्थूलानि सूक्ष्माणि बहूनि चैव रूपाणि देही स्वगुणैर् वृणोति",
+    "section": 1,
+    "verse": 181,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.182": {
+    "cuid": "SHVET.1.182",
+    "iast": "kriyāguṇair ātmaguṇaiś ca teṣāṃ saṃyogahetur aparo 'pi dṛṣṭaḥ",
+    "devanagari": "क्रियागुणैर् आत्मगुणैश् च तेषां संयोगहेतुर् अपरो ऽपि दृष्टः",
+    "section": 1,
+    "verse": 182,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.183": {
+    "cuid": "SHVET.1.183",
+    "iast": "anādyanantaṃ kalilasya madhye viśvasya sraṣṭāram anekarūpaṃ",
+    "devanagari": "अनाद्यनन्तं कलिलस्य मध्ये विश्वस्य स्रष्टारम् अनेकरूपं",
+    "section": 1,
+    "verse": 183,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.184": {
+    "cuid": "SHVET.1.184",
+    "iast": "viśvasyaikaṃ pariveṣṭitāraṃ jñātvā devaṃ mucyate sarvapāśaiḥ",
+    "devanagari": "विश्वस्यैकं परिवेष्टितारं ज्ञात्वा देवं मुच्यते सर्वपाशैः",
+    "section": 1,
+    "verse": 184,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.185": {
+    "cuid": "SHVET.1.185",
+    "iast": "bhāvagrāhyam anīḍākhyaṃ bhāvābhāvakaraṃ śivaṃ",
+    "devanagari": "भावग्राह्यम् अनीडाख्यं भावाभावकरं शिवं",
+    "section": 1,
+    "verse": 185,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.186": {
+    "cuid": "SHVET.1.186",
+    "iast": "kalāsargakaraṃ devaṃ ye vidus te jahus tanum",
+    "devanagari": "कलासर्गकरं देवं ये विदुस् ते जहुस् तनुम्",
+    "section": 1,
+    "verse": 186,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.187": {
+    "cuid": "SHVET.1.187",
+    "iast": "=== Chapter 7 ===",
+    "devanagari": "=== छप्तेर् ७ ===",
+    "section": 1,
+    "verse": 187,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.188": {
+    "cuid": "SHVET.1.188",
+    "iast": "svabhāvam eke kavayo vadanti kālaṃ tathānye parimuhyamānāḥ",
+    "devanagari": "स्वभावम् एके कवयो वदन्ति कालं तथान्ये परिमुह्यमानाः",
+    "section": 1,
+    "verse": 188,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.189": {
+    "cuid": "SHVET.1.189",
+    "iast": "devasyaiṣa mahimā tu loke yenedaṃ bhrāmyate brahmacakram",
+    "devanagari": "देवस्यैष महिमा तु लोके येनेदं भ्राम्यते ब्रह्मचक्रम्",
+    "section": 1,
+    "verse": 189,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.190": {
+    "cuid": "SHVET.1.190",
+    "iast": "yenāvṛtaṃ nityam idaṃ hi sarvaṃ jñaḥ kālakālo guṇī sarvavidyaḥ",
+    "devanagari": "येनावृतं नित्यम् इदं हि सर्वं ज्ञः कालकालो गुणी सर्वविद्यः",
+    "section": 1,
+    "verse": 190,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.191": {
+    "cuid": "SHVET.1.191",
+    "iast": "teneśitaṃ karma vivartate ha pṛthivyāptejo'nilakhāni cintyam",
+    "devanagari": "तेनेशितं कर्म विवर्तते ह पृथिव्याप्तेजोऽनिलखानि चिन्त्यम्",
+    "section": 1,
+    "verse": 191,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.192": {
+    "cuid": "SHVET.1.192",
+    "iast": "tat karma kṛtvā vinivartya bhūyas tattvasya tattvena sametya yogam",
+    "devanagari": "तत् कर्म कृत्वा विनिवर्त्य भूयस् तत्त्वस्य तत्त्वेन समेत्य योगम्",
+    "section": 1,
+    "verse": 192,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.193": {
+    "cuid": "SHVET.1.193",
+    "iast": "ekena dvābhyāṃ tribhir aṣṭabhir vā kālena caivātmaguṇaiś ca sūkṣmaiḥ",
+    "devanagari": "एकेन द्वाभ्यां त्रिभिर् अष्टभिर् वा कालेन चैवात्मगुणैश् च सूक्ष्मैः",
+    "section": 1,
+    "verse": 193,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.194": {
+    "cuid": "SHVET.1.194",
+    "iast": "ārabhya karmāṇi guṇānvitāni bhāvāṃś ca sarvān viniyojayed yaḥ",
+    "devanagari": "आरभ्य कर्माणि गुणान्वितानि भावांश् च सर्वान् विनियोजयेद् यः",
+    "section": 1,
+    "verse": 194,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.195": {
+    "cuid": "SHVET.1.195",
+    "iast": "teṣām abhāve kṛtakarmanāśaḥ karmakṣaye yāti sa tattvato 'nyaḥ",
+    "devanagari": "तेषाम् अभावे कृतकर्मनाशः कर्मक्षये याति स तत्त्वतो ऽन्यः",
+    "section": 1,
+    "verse": 195,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.196": {
+    "cuid": "SHVET.1.196",
+    "iast": "ādiḥ sa saṃyoganimittahetuḥ paras trikālād akalo 'pi dṛṣṭaḥ",
+    "devanagari": "आदिः स संयोगनिमित्तहेतुः परस् त्रिकालाद् अकलो ऽपि दृष्टः",
+    "section": 1,
+    "verse": 196,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.197": {
+    "cuid": "SHVET.1.197",
+    "iast": "taṃ viśvarūpaṃ bhavabhūtam īḍyaṃ devaṃ svacittastham upāsya pūrvam",
+    "devanagari": "तं विश्वरूपं भवभूतम् ईड्यं देवं स्वचित्तस्थम् उपास्य पूर्वम्",
+    "section": 1,
+    "verse": 197,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.198": {
+    "cuid": "SHVET.1.198",
+    "iast": "sa vṛkṣakālākṛtibhiḥ paro 'nyo yasmāt prapañcaḥ parivartate 'yaṃ",
+    "devanagari": "स वृक्षकालाकृतिभिः परो ऽन्यो यस्मात् प्रपञ्चः परिवर्तते ऽयं",
+    "section": 1,
+    "verse": 198,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.199": {
+    "cuid": "SHVET.1.199",
+    "iast": "dharmāvahaṃ pāpanudaṃ bhageśaṃ jñātvātmastham amṛtaṃ viśvadhāma",
+    "devanagari": "धर्मावहं पापनुदं भगेशं ज्ञात्वात्मस्थम् अमृतं विश्वधाम",
+    "section": 1,
+    "verse": 199,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.200": {
+    "cuid": "SHVET.1.200",
+    "iast": "tam īśvarāṇāṃ paramaṃ maheśvaraṃ taṃ devatānāṃ paramaṃ ca daivataṃ",
+    "devanagari": "तम् ईश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतं",
+    "section": 1,
+    "verse": 200,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.201": {
+    "cuid": "SHVET.1.201",
+    "iast": "patiṃ patīnāṃ paramaṃ parastād vidāma devaṃ bhuvaneśam īḍyam",
+    "devanagari": "पतिं पतीनां परमं परस्ताद् विदाम देवं भुवनेशम् ईड्यम्",
+    "section": 1,
+    "verse": 201,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.202": {
+    "cuid": "SHVET.1.202",
+    "iast": "na tasya kāryaṃ karaṇaṃ ca vidyate na tatsamaś cābhyadhikaś ca dṛśyate",
+    "devanagari": "न तस्य कार्यं करणं च विद्यते न तत्समश् चाभ्यधिकश् च दृश्यते",
+    "section": 1,
+    "verse": 202,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.203": {
+    "cuid": "SHVET.1.203",
+    "iast": "parāsya śaktir vividhaiva śrūyate svābhāvikī jñānabalakriyā ca",
+    "devanagari": "परास्य शक्तिर् विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च",
+    "section": 1,
+    "verse": 203,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.204": {
+    "cuid": "SHVET.1.204",
+    "iast": "na tasya kaścit patir asti loke na ceśitā naiva ca tasya liṅgaṃ",
+    "devanagari": "न तस्य कश्चित् पतिर् अस्ति लोके न चेशिता नैव च तस्य लिङ्गं",
+    "section": 1,
+    "verse": 204,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.205": {
+    "cuid": "SHVET.1.205",
+    "iast": "sa kāraṇaṃ karaṇādhipādhipo na cāsya kaścij janitā na cādhipaḥ",
+    "devanagari": "स कारणं करणाधिपाधिपो न चास्य कश्चिज् जनिता न चाधिपः",
+    "section": 1,
+    "verse": 205,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.206": {
+    "cuid": "SHVET.1.206",
+    "iast": "yas tantunābha iva tantubhiḥ pradhānajaiḥ svabhāvataḥ",
+    "devanagari": "यस् तन्तुनाभ इव तन्तुभिः प्रधानजैः स्वभावतः",
+    "section": 1,
+    "verse": 206,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.207": {
+    "cuid": "SHVET.1.207",
+    "iast": "deva ekaḥ svam āvṛṇoti sa no dadhād brahmāpyayam",
+    "devanagari": "देव एकः स्वम् आवृणोति स नो दधाद् ब्रह्माप्ययम्",
+    "section": 1,
+    "verse": 207,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.208": {
+    "cuid": "SHVET.1.208",
+    "iast": "eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāntarātmā",
+    "devanagari": "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा",
+    "section": 1,
+    "verse": 208,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.209": {
+    "cuid": "SHVET.1.209",
+    "iast": "karmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaś ca",
+    "devanagari": "कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश् च",
+    "section": 1,
+    "verse": 209,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.210": {
+    "cuid": "SHVET.1.210",
+    "iast": "eko vaśī niṣkriyāṇāṃ bahūṇām ekaṃ bījaṃ bahudhā yaḥ karoti",
+    "devanagari": "एको वशी निष्क्रियाणां बहूणाम् एकं बीजं बहुधा यः करोति",
+    "section": 1,
+    "verse": 210,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.211": {
+    "cuid": "SHVET.1.211",
+    "iast": "tam ātmasthaṃ ye 'nupaśyanti dhīrās teṣāṃ sukhaṃ śāśvataṃ netareṣāṃ",
+    "devanagari": "तम् आत्मस्थं ये ऽनुपश्यन्ति धीरास् तेषां सुखं शाश्वतं नेतरेषां",
+    "section": 1,
+    "verse": 211,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.212": {
+    "cuid": "SHVET.1.212",
+    "iast": "nityo nityānāṃ cetanaś cetanānām eko bahūnāṃ yo vidadhāti kāmān",
+    "devanagari": "नित्यो नित्यानां चेतनश् चेतनानाम् एको बहूनां यो विदधाति कामान्",
+    "section": 1,
+    "verse": 212,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.213": {
+    "cuid": "SHVET.1.213",
+    "iast": "tat kāraṇaṃ sāṃkhyayogādhigamyaṃ jñātvā devaṃ mucyate sarvapāśaiḥ",
+    "devanagari": "तत् कारणं सांख्ययोगाधिगम्यं ज्ञात्वा देवं मुच्यते सर्वपाशैः",
+    "section": 1,
+    "verse": 213,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.214": {
+    "cuid": "SHVET.1.214",
+    "iast": "na tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto 'yam agniḥ",
+    "devanagari": "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतो ऽयम् अग्निः",
+    "section": 1,
+    "verse": 214,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.215": {
+    "cuid": "SHVET.1.215",
+    "iast": "tam eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti",
+    "devanagari": "तम् एव भान्तम् अनुभाति सर्वं तस्य भासा सर्वम् इदं विभाति",
+    "section": 1,
+    "verse": 215,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.216": {
+    "cuid": "SHVET.1.216",
+    "iast": "eko haṃso bhuvanasyāsya madhye sa evāgniḥ salile saṃniviṣṭaḥ",
+    "devanagari": "एको हंसो भुवनस्यास्य मध्ये स एवाग्निः सलिले संनिविष्टः",
+    "section": 1,
+    "verse": 216,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.217": {
+    "cuid": "SHVET.1.217",
+    "iast": "tam eva viditvāti mṛtyum eti nānyaḥ panthā vidyate 'yanāya",
+    "devanagari": "तम् एव विदित्वाति मृत्युम् एति नान्यः पन्था विद्यते ऽयनाय",
+    "section": 1,
+    "verse": 217,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.218": {
+    "cuid": "SHVET.1.218",
+    "iast": "sa viśvakṛd viśvavid ātmayonir jñaḥ kālakālo guṇī sarvavidyaḥ",
+    "devanagari": "स विश्वकृद् विश्वविद् आत्मयोनिर् ज्ञः कालकालो गुणी सर्वविद्यः",
+    "section": 1,
+    "verse": 218,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.219": {
+    "cuid": "SHVET.1.219",
+    "iast": "pradhānakṣetrajñapatir guṇeśaḥ saṃsāramokṣasthitibandhahetuḥ",
+    "devanagari": "प्रधानक्षेत्रज्ञपतिर् गुणेशः संसारमोक्षस्थितिबन्धहेतुः",
+    "section": 1,
+    "verse": 219,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.220": {
+    "cuid": "SHVET.1.220",
+    "iast": "sa tanmayo hy amṛta īśasaṃstho jñaḥ sarvago bhuvanasyāsya goptā",
+    "devanagari": "स तन्मयो ह्य् अमृत ईशसंस्थो ज्ञः सर्वगो भुवनस्यास्य गोप्ता",
+    "section": 1,
+    "verse": 220,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.221": {
+    "cuid": "SHVET.1.221",
+    "iast": "sa īśe asya jagato nityam eva nānyo hetur vidyata īśanāya",
+    "devanagari": "स ईशे अस्य जगतो नित्यम् एव नान्यो हेतुर् विद्यत ईशनाय",
+    "section": 1,
+    "verse": 221,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.222": {
+    "cuid": "SHVET.1.222",
+    "iast": "yo brahmāṇaṃ vidadhāti pūrvaṃ yo vai vedāṃś ca prahiṇoti tasmai",
+    "devanagari": "यो ब्रह्माणं विदधाति पूर्वं यो वै वेदांश् च प्रहिणोति तस्मै",
+    "section": 1,
+    "verse": 222,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.223": {
+    "cuid": "SHVET.1.223",
+    "iast": "taṃ ha devam ātmabuddhiprakāśaṃ mumukṣur vai śaraṇam ahaṃ prapadye",
+    "devanagari": "तं ह देवम् आत्मबुद्धिप्रकाशं मुमुक्षुर् वै शरणम् अहं प्रपद्ये",
+    "section": 1,
+    "verse": 223,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.224": {
+    "cuid": "SHVET.1.224",
+    "iast": "niṣkalaṃ niṣkriyaṃ śāntaṃ niravadyaṃ nirañjanam",
+    "devanagari": "निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम्",
+    "section": 1,
+    "verse": 224,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.225": {
+    "cuid": "SHVET.1.225",
+    "iast": "amṛtasya paraṃ setuṃ dagdhendhanam ivānalam",
+    "devanagari": "अमृतस्य परं सेतुं दग्धेन्धनम् इवानलम्",
+    "section": 1,
+    "verse": 225,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.226": {
+    "cuid": "SHVET.1.226",
+    "iast": "yadā carmavad ākāśaṃ veṣṭayiṣyanti mānavāḥ",
+    "devanagari": "यदा चर्मवद् आकाशं वेष्टयिष्यन्ति मानवाः",
+    "section": 1,
+    "verse": 226,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.227": {
+    "cuid": "SHVET.1.227",
+    "iast": "tadā devam avijñāya duḥkhasyānto bhaviṣyati",
+    "devanagari": "तदा देवम् अविज्ञाय दुःखस्यान्तो भविष्यति",
+    "section": 1,
+    "verse": 227,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.228": {
+    "cuid": "SHVET.1.228",
+    "iast": "tapaḥprabhāvād devaprasādāt brahma ha śvetāśvataro 'tha vidvān",
+    "devanagari": "तपःप्रभावाद् देवप्रसादात् ब्रह्म ह श्वेताश्वतरो ऽथ विद्वान्",
+    "section": 1,
+    "verse": 228,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.229": {
+    "cuid": "SHVET.1.229",
+    "iast": "atyāśramibhyaḥ paramaṃ pavitraṃ provāca samyag ṛṣisaṅghajuṣṭam",
+    "devanagari": "अत्याश्रमिभ्यः परमं पवित्रं प्रोवाच सम्यग् ऋषिसङ्घजुष्टम्",
+    "section": 1,
+    "verse": 229,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.230": {
+    "cuid": "SHVET.1.230",
+    "iast": "vedānte paramaṃ guhyaṃ purākalpe pracoditam",
+    "devanagari": "वेदान्ते परमं गुह्यं पुराकल्पे प्रचोदितम्",
+    "section": 1,
+    "verse": 230,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.231": {
+    "cuid": "SHVET.1.231",
+    "iast": "nāpraśāntāya dātavyaṃ nāputrāyāśiṣyāya vā punaḥ",
+    "devanagari": "नाप्रशान्ताय दातव्यं नापुत्रायाशिष्याय वा पुनः",
+    "section": 1,
+    "verse": 231,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.232": {
+    "cuid": "SHVET.1.232",
+    "iast": "yasya deve parā bhaktir yathā deve tathā gurau",
+    "devanagari": "यस्य देवे परा भक्तिर् यथा देवे तथा गुरौ",
+    "section": 1,
+    "verse": 232,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  },
+  "SHVET.1.233": {
+    "cuid": "SHVET.1.233",
+    "iast": "tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ prakāśante mahātmanaḥ",
+    "devanagari": "तस्यैते कथिता ह्य् अर्थाः प्रकाशन्ते महात्मनः प्रकाशन्ते महात्मनः",
+    "section": 1,
+    "verse": 233,
+    "witness": "F-GRETIL-shvetashvatara_upanishad"
+  }
+}

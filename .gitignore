@@ -30,3 +30,9 @@ Thumbs.db
 # Temporary
 .tmp/
 temp/
+
+# Source texts (copyrighted — never commit)
+knowledge/downloads/
+knowledge/bronze/
+knowledge/checkpoints/
+knowledge/logs/

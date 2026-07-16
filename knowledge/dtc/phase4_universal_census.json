@@ -1,0 +1,5208 @@
+{
+  "RV": {
+    "scripture_id": "RV",
+    "canonical_name": "Rgveda-Samhita",
+    "iast": "Ṛgvedasaṃhitā",
+    "devanagari": "ऋग्वेदसंहिता",
+    "category": "Veda",
+    "priority": 1,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-rigveda_aufrecht",
+        "family_id": "F-AUFRECHT",
+        "scripture_id": "RV",
+        "source": "GRETIL",
+        "text_name": "rigveda_aufrecht",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 34670,
+          "deva_lines": 34670,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/rigveda_aufrecht_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/rigveda_aufrecht_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/rigveda_aufrecht_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-rigveda_khila",
+        "family_id": "F-KHILA",
+        "scripture_id": "RV",
+        "source": "GRETIL",
+        "text_name": "rigveda_khila",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2023,
+          "deva_lines": 2023,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/rigveda_khila_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/rigveda_khila_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/rigveda_khila_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-rigveda_padapatha",
+        "family_id": "F-PADAPATHA",
+        "scripture_id": "RV",
+        "source": "GRETIL",
+        "text_name": "rigveda_padapatha",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1078,
+          "deva_lines": 1078,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/rigveda_padapatha_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/rigveda_padapatha_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/rigveda_padapatha_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "VedaWeb-Lubotsky",
+        "family_id": "F-LUBOTSKY",
+        "scripture_id": "RV",
+        "source": "VedaWeb / Zenodo (Lubotsky)",
+        "editor": "Alexei Lubotsky",
+        "institution": "Leiden University",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false
+        },
+        "files": [
+          "knowledge/downloads/vedaweb/cceh-c-salt_vedaweb_tei-f975755/rv_book_01.tei",
+          "knowledge/downloads/vedaweb/cceh-c-salt_vedaweb_tei-f975755/rv_book_02.tei",
+          "knowledge/downloads/vedaweb/cceh-c-salt_vedaweb_tei-f975755/rv_book_03.tei",
+          "knowledge/downloads/vedaweb/cceh-c-salt_vedaweb_tei-f975755/rv_book_04.tei",
+          "knowledge/downloads/vedaweb/cceh-c-salt_vedaweb_tei-f975755/rv_book_05.tei"
+        ],
+        "total_files": 10,
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-AUFRECHT": [
+        "GREtil-rigveda_aufrecht"
+      ],
+      "F-KHILA": [
+        "GREtil-rigveda_khila"
+      ],
+      "F-PADAPATHA": [
+        "GREtil-rigveda_padapatha"
+      ],
+      "F-LUBOTSKY": [
+        "VedaWeb-Lubotsky"
+      ]
+    },
+    "gretil_texts": [
+      "rigveda_aufrecht",
+      "rigveda_khila",
+      "rigveda_padapatha"
+    ],
+    "total_witnesses": 4,
+    "independent_families": 4
+  },
+  "SV": {
+    "scripture_id": "SV",
+    "canonical_name": "Samaveda-Samhita",
+    "iast": "Sāmavedasaṃhitā",
+    "devanagari": "सामवेदसंहिता",
+    "category": "Veda",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-samaveda",
+        "family_id": "F-GRETIL",
+        "scripture_id": "SV",
+        "source": "GRETIL",
+        "text_name": "samaveda",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 70,
+          "deva_lines": 70,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/samaveda_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/samaveda_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/samaveda_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-samaveda"
+      ]
+    },
+    "gretil_texts": [
+      "samaveda"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "YVK": {
+    "scripture_id": "YVK",
+    "canonical_name": "Yajurveda-Krishna",
+    "iast": "Yajurveda-Kṛṣṇa",
+    "devanagari": "यजुर्वेद-कृष्ण",
+    "category": "Veda",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "ARCHIVE-YVK-F-ARCHIVE_DJVU",
+        "family_id": "F-ARCHIVE_DJVU",
+        "scripture_id": "YVK",
+        "source": "Archive.org (Bibliotheca Indica)",
+        "text_name": "yvk_archive_TaittiriyaAitareyaSwetaswataraUpanishadsWithTika-ERoer1874bis_djvu.txt",
+        "type": "English+Sanskrit",
+        "acquisition_status": "ACQUIRED",
+        "ocr": true,
+        "files": {
+          "local": "knowledge/downloads/yvk_archive_TaittiriyaAitareyaSwetaswataraUpanishadsWithTika-ERoer1874bis_djvu.txt"
+        }
+      }
+    ],
+    "families": {
+      "F-ARCHIVE_DJVU": [
+        "ARCHIVE-YVK-F-ARCHIVE_DJVU"
+      ]
+    },
+    "gretil_texts": [],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "YVS": {
+    "scripture_id": "YVS",
+    "canonical_name": "Yajurveda-Shukla",
+    "iast": "Yajurveda-Śukla",
+    "devanagari": "यजुर्वेद-शुक्ल",
+    "category": "Veda",
+    "priority": 2,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "AV": {
+    "scripture_id": "AV",
+    "canonical_name": "Atharvaveda-Samhita",
+    "iast": "Atharvavedasaṃhitā",
+    "devanagari": "अथर्ववेदसंहिता",
+    "category": "Veda",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-atharva_prayashchittani",
+        "family_id": "F-GRETIL",
+        "scripture_id": "AV",
+        "source": "GRETIL",
+        "text_name": "atharva_prayashchittani",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 692,
+          "deva_lines": 692,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/atharva_prayashchittani_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/atharva_prayashchittani_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/atharva_prayashchittani_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-atharvashiras_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": "AV",
+        "source": "GRETIL",
+        "text_name": "atharvashiras_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 17,
+          "deva_lines": 17,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/atharvashiras_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/atharvashiras_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/atharvashiras_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-atharvaveda_parisista",
+        "family_id": "F-GRETIL",
+        "scripture_id": "AV",
+        "source": "GRETIL",
+        "text_name": "atharvaveda_parisista",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 133,
+          "deva_lines": 133,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/atharvaveda_parisista_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/atharvaveda_parisista_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/atharvaveda_parisista_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-atharva_prayashchittani",
+        "GREtil-atharvashiras_upanishad",
+        "GREtil-atharvaveda_parisista"
+      ]
+    },
+    "gretil_texts": [
+      "atharva_prayashchittani",
+      "atharvashiras_upanishad",
+      "atharvaveda_parisista"
+    ],
+    "total_witnesses": 3,
+    "independent_families": 1
+  },
+  "BG": {
+    "scripture_id": "BG",
+    "canonical_name": "Bhagavadgita",
+    "iast": "Bhagavadgītā",
+    "devanagari": "भगवद्गीता",
+    "category": "Itihasa",
+    "priority": 1,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-bhagavad_gita_4comm",
+        "family_id": "F-COMMENTARY",
+        "scripture_id": "BG",
+        "source": "GRETIL",
+        "text_name": "bhagavad_gita_4comm",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": true,
+        "completion": {
+          "iast_lines": 7971,
+          "deva_lines": 7971,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/bhagavad_gita_4comm_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/bhagavad_gita_4comm_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/bhagavad_gita_4comm_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-bhagavad_gita_shankara",
+        "family_id": "F-COMMENTARY",
+        "scripture_id": "BG",
+        "source": "GRETIL",
+        "text_name": "bhagavad_gita_shankara",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": true,
+        "completion": {
+          "iast_lines": 2468,
+          "deva_lines": 2468,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/bhagavad_gita_shankara_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/bhagavad_gita_shankara_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/bhagavad_gita_shankara_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-bhaskara_gita_bhashya",
+        "family_id": "F-COMMENTARY",
+        "scripture_id": "BG",
+        "source": "GRETIL",
+        "text_name": "bhaskara_gita_bhashya",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": true,
+        "completion": {
+          "iast_lines": 2274,
+          "deva_lines": 2274,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/bhaskara_gita_bhashya_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/bhaskara_gita_bhashya_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/bhaskara_gita_bhashya_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-madhva_gita_bhashya",
+        "family_id": "F-COMMENTARY",
+        "scripture_id": "BG",
+        "source": "GRETIL",
+        "text_name": "madhva_gita_bhashya",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": true,
+        "completion": {
+          "iast_lines": 8,
+          "deva_lines": 8,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/madhva_gita_bhashya_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/madhva_gita_bhashya_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/madhva_gita_bhashya_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-ramanuja_gita_bhashya",
+        "family_id": "F-COMMENTARY",
+        "scripture_id": "BG",
+        "source": "GRETIL",
+        "text_name": "ramanuja_gita_bhashya",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": true,
+        "completion": {
+          "iast_lines": 2112,
+          "deva_lines": 2112,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/ramanuja_gita_bhashya_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/ramanuja_gita_bhashya_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/ramanuja_gita_bhashya_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-COMMENTARY": [
+        "GREtil-bhagavad_gita_4comm",
+        "GREtil-bhagavad_gita_shankara",
+        "GREtil-bhaskara_gita_bhashya",
+        "GREtil-madhva_gita_bhashya",
+        "GREtil-ramanuja_gita_bhashya"
+      ]
+    },
+    "gretil_texts": [
+      "bhagavad_gita_4comm",
+      "bhagavad_gita_shankara",
+      "bhaskara_gita_bhashya",
+      "madhva_gita_bhashya",
+      "ramanuja_gita_bhashya"
+    ],
+    "total_witnesses": 5,
+    "independent_families": 1
+  },
+  "MBH": {
+    "scripture_id": "MBH",
+    "canonical_name": "Mahabharata",
+    "iast": "Mahābhārata",
+    "devanagari": "महाभारत",
+    "category": "Itihasa",
+    "priority": 1,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "RM": {
+    "scripture_id": "RM",
+    "canonical_name": "Ramayana",
+    "iast": "Rāmāyaṇa",
+    "devanagari": "रामायण",
+    "category": "Itihasa",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-ramayana",
+        "family_id": "F-GRETIL",
+        "scripture_id": "RM",
+        "source": "GRETIL",
+        "text_name": "ramayana",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 56824,
+          "deva_lines": 56824,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/ramayana_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/ramayana_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/ramayana_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-ramayana"
+      ]
+    },
+    "gretil_texts": [
+      "ramayana"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "HV": {
+    "scripture_id": "HV",
+    "canonical_name": "Harivamsha",
+    "iast": "Harivaṃśa",
+    "devanagari": "हरिवंश",
+    "category": "Itihasa",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-harivamsa",
+        "family_id": "F-GRETIL",
+        "scripture_id": "HV",
+        "source": "GRETIL",
+        "text_name": "harivamsa",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 20322,
+          "deva_lines": 20322,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/harivamsa_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/harivamsa_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/harivamsa_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-harivamsa_app1",
+        "family_id": "F-GRETIL",
+        "scripture_id": "HV",
+        "source": "GRETIL",
+        "text_name": "harivamsa_app1",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 4189,
+          "deva_lines": 4189,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/harivamsa_app1_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/harivamsa_app1_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/harivamsa_app1_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-harivamsa",
+        "GREtil-harivamsa_app1"
+      ]
+    },
+    "gretil_texts": [
+      "harivamsa",
+      "harivamsa_app1"
+    ],
+    "total_witnesses": 2,
+    "independent_families": 1
+  },
+  "BHAG": {
+    "scripture_id": "BHAG",
+    "canonical_name": "Bhagavata Purana",
+    "iast": "Bhāgavata Purāṇa",
+    "devanagari": "भागवत पुराण",
+    "category": "Purana",
+    "priority": 1,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-bhagavata",
+        "family_id": "F-GRETIL",
+        "scripture_id": "BHAG",
+        "source": "GRETIL",
+        "text_name": "bhagavata",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 39505,
+          "deva_lines": 39505,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/bhagavata_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/bhagavata_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/bhagavata_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-bhagavata"
+      ]
+    },
+    "gretil_texts": [
+      "bhagavata"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "VISH": {
+    "scripture_id": "VISH",
+    "canonical_name": "Vishnu Purana",
+    "iast": "Viṣṇu Purāṇa",
+    "devanagari": "विष्णु पुराण",
+    "category": "Purana",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-vishnu_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "VISH",
+        "source": "GRETIL",
+        "text_name": "vishnu_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 18966,
+          "deva_lines": 18966,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vishnu_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vishnu_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vishnu_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-vishnu_puran"
+      ]
+    },
+    "gretil_texts": [
+      "vishnu_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "SHIV": {
+    "scripture_id": "SHIV",
+    "canonical_name": "Shiva Purana",
+    "iast": "Śiva Purāṇa",
+    "devanagari": "शिव पुराण",
+    "category": "Purana",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-shiva_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "SHIV",
+        "source": "GRETIL",
+        "text_name": "shiva_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 10286,
+          "deva_lines": 10286,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shiva_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shiva_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shiva_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-shiva_puran"
+      ]
+    },
+    "gretil_texts": [
+      "shiva_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "DEVI": {
+    "scripture_id": "DEVI",
+    "canonical_name": "Devi Bhagavata Purana",
+    "iast": "Devī Bhāgavata Purāṇa",
+    "devanagari": "देवी भागवत पुराण",
+    "category": "Purana",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-devi_gita",
+        "family_id": "F-GRETIL",
+        "scripture_id": "DEVI",
+        "source": "GRETIL",
+        "text_name": "devi_gita",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1603,
+          "deva_lines": 1603,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/devi_gita_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/devi_gita_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/devi_gita_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-devi_gita"
+      ]
+    },
+    "gretil_texts": [
+      "devi_gita"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "AGNI": {
+    "scripture_id": "AGNI",
+    "canonical_name": "Agni Purana",
+    "iast": "Agni Purāṇa",
+    "devanagari": "अग्नि पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-agni_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "AGNI",
+        "source": "GRETIL",
+        "text_name": "agni_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 48349,
+          "deva_lines": 48349,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/agni_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/agni_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/agni_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-agni_puran"
+      ]
+    },
+    "gretil_texts": [
+      "agni_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "BRAH": {
+    "scripture_id": "BRAH",
+    "canonical_name": "Brahma Purana",
+    "iast": "Brahma Purāṇa",
+    "devanagari": "ब्रह्म पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-brahma_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "BRAH",
+        "source": "GRETIL",
+        "text_name": "brahma_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 41808,
+          "deva_lines": 41808,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/brahma_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/brahma_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/brahma_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-brahma_puran"
+      ]
+    },
+    "gretil_texts": [
+      "brahma_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "MATS": {
+    "scripture_id": "MATS",
+    "canonical_name": "Matsya Purana",
+    "iast": "Matsya Purāṇa",
+    "devanagari": "मत्स्य पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-matsya_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "MATS",
+        "source": "GRETIL",
+        "text_name": "matsya_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 26694,
+          "deva_lines": 26694,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/matsya_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/matsya_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/matsya_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-matsya_puran"
+      ]
+    },
+    "gretil_texts": [
+      "matsya_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "KURM": {
+    "scripture_id": "KURM",
+    "canonical_name": "Kurma Purana",
+    "iast": "Kūrma Purāṇa",
+    "devanagari": "कूर्म पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-kurma_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "KURM",
+        "source": "GRETIL",
+        "text_name": "kurma_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 18601,
+          "deva_lines": 18601,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/kurma_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/kurma_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/kurma_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-kurma_puran"
+      ]
+    },
+    "gretil_texts": [
+      "kurma_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "LING": {
+    "scripture_id": "LING",
+    "canonical_name": "Linga Purana",
+    "iast": "Liṅga Purāṇa",
+    "devanagari": "लिङ्ग पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-linga_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "LING",
+        "source": "GRETIL",
+        "text_name": "linga_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 20855,
+          "deva_lines": 20855,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/linga_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/linga_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/linga_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-linga_puran"
+      ]
+    },
+    "gretil_texts": [
+      "linga_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "MARK": {
+    "scripture_id": "MARK",
+    "canonical_name": "Markandeya Purana",
+    "iast": "Mārkaṇḍeya Purāṇa",
+    "devanagari": "मार्कण्डेय पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-markandeya_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "MARK",
+        "source": "GRETIL",
+        "text_name": "markandeya_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 14306,
+          "deva_lines": 14306,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/markandeya_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/markandeya_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/markandeya_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-markandeya_puran"
+      ]
+    },
+    "gretil_texts": [
+      "markandeya_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "NARADA": {
+    "scripture_id": "NARADA",
+    "canonical_name": "Narada Purana",
+    "iast": "Nārada Purāṇa",
+    "devanagari": "नारद पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-narada_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "NARADA",
+        "source": "GRETIL",
+        "text_name": "narada_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 47783,
+          "deva_lines": 47783,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/narada_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/narada_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/narada_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-narada_puran"
+      ]
+    },
+    "gretil_texts": [
+      "narada_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "VAMAN": {
+    "scripture_id": "VAMAN",
+    "canonical_name": "Vamana Purana",
+    "iast": "Vāmana Purāṇa",
+    "devanagari": "वामन पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-vamana_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "VAMAN",
+        "source": "GRETIL",
+        "text_name": "vamana_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 14209,
+          "deva_lines": 14209,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vamana_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vamana_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vamana_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vamana_puran_saromahatmya",
+        "family_id": "F-GRETIL",
+        "scripture_id": "VAMAN",
+        "source": "GRETIL",
+        "text_name": "vamana_puran_saromahatmya",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 3775,
+          "deva_lines": 3775,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vamana_puran_saromahatmya_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vamana_puran_saromahatmya_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vamana_puran_saromahatmya_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-vamana_puran",
+        "GREtil-vamana_puran_saromahatmya"
+      ]
+    },
+    "gretil_texts": [
+      "vamana_puran",
+      "vamana_puran_saromahatmya"
+    ],
+    "total_witnesses": 2,
+    "independent_families": 1
+  },
+  "VARAH": {
+    "scripture_id": "VARAH",
+    "canonical_name": "Varaha Purana",
+    "iast": "Varāha Purāṇa",
+    "devanagari": "वराह पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "VYU": {
+    "scripture_id": "VYU",
+    "canonical_name": "Vayu Purana",
+    "iast": "Vāyu Purāṇa",
+    "devanagari": "वायु पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-revakhanda_vayu_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "VYU",
+        "source": "GRETIL",
+        "text_name": "revakhanda_vayu_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 24180,
+          "deva_lines": 24180,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/revakhanda_vayu_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/revakhanda_vayu_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/revakhanda_vayu_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-revakhanda_vayu_puran"
+      ]
+    },
+    "gretil_texts": [
+      "revakhanda_vayu_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "SKAND": {
+    "scripture_id": "SKAND",
+    "canonical_name": "Skanda Purana",
+    "iast": "Skanda Purāṇa",
+    "devanagari": "स्कन्द पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-skanda_puran_revakhanda",
+        "family_id": "F-GRETIL",
+        "scripture_id": "SKAND",
+        "source": "GRETIL",
+        "text_name": "skanda_puran_revakhanda",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 19723,
+          "deva_lines": 19723,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/skanda_puran_revakhanda_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/skanda_puran_revakhanda_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/skanda_puran_revakhanda_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-skanda_puran_revakhanda"
+      ]
+    },
+    "gretil_texts": [
+      "skanda_puran_revakhanda"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "BRAHMD": {
+    "scripture_id": "BRAHMD",
+    "canonical_name": "Brahmanda Purana",
+    "iast": "Brahmāṇḍa Purāṇa",
+    "devanagari": "ब्रह्माण्ड पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "KALI": {
+    "scripture_id": "KALI",
+    "canonical_name": "Kalika Purana",
+    "iast": "Kālikā Purāṇa",
+    "devanagari": "कालिका पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "GARUDA": {
+    "scripture_id": "GARUDA",
+    "canonical_name": "Garuda Purana",
+    "iast": "Garuda Purāṇa",
+    "devanagari": "गरुड पुराण",
+    "category": "Purana",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-garuda_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": "GARUDA",
+        "source": "GRETIL",
+        "text_name": "garuda_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 38648,
+          "deva_lines": 38648,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/garuda_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/garuda_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/garuda_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-garuda_puran"
+      ]
+    },
+    "gretil_texts": [
+      "garuda_puran"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "ISHA": {
+    "scripture_id": "ISHA",
+    "canonical_name": "Isha Upanishad",
+    "iast": "Īśa Upaniṣad",
+    "devanagari": "ईशोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-isha_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": "ISHA",
+        "source": "GRETIL",
+        "text_name": "isha_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 57,
+          "deva_lines": 57,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/isha_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/isha_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/isha_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-isha_upanishad"
+      ]
+    },
+    "gretil_texts": [
+      "isha_upanishad"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "KEN": {
+    "scripture_id": "KEN",
+    "canonical_name": "Kena Upanishad",
+    "iast": "Kena Upaniṣad",
+    "devanagari": "केनोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "KATH": {
+    "scripture_id": "KATH",
+    "canonical_name": "Katha Upanishad",
+    "iast": "Kaṭha Upaniṣad",
+    "devanagari": "कठोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "PRASHNA": {
+    "scripture_id": "PRASHNA",
+    "canonical_name": "Prashna Upanishad",
+    "iast": "Praśna Upaniṣad",
+    "devanagari": "प्रश्नोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [
+      {
+        "witness_id": "ARCHIVE-PRASHNA-F-ARCHIVE_DJVU",
+        "family_id": "F-ARCHIVE_DJVU",
+        "scripture_id": "PRASHNA",
+        "source": "Archive.org",
+        "text_name": "prashna_archive_108 Upanishad Part-1_djvu.txt",
+        "type": "Hindi Bhashya",
+        "acquisition_status": "ACQUIRED",
+        "ocr": true,
+        "files": {
+          "local": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt"
+        }
+      }
+    ],
+    "families": {
+      "F-ARCHIVE_DJVU": [
+        "ARCHIVE-PRASHNA-F-ARCHIVE_DJVU"
+      ]
+    },
+    "gretil_texts": [],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "MUND": {
+    "scripture_id": "MUND",
+    "canonical_name": "Mundaka Upanishad",
+    "iast": "Muṇḍaka Upaniṣad",
+    "devanagari": "मुण्डकोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "MAND": {
+    "scripture_id": "MAND",
+    "canonical_name": "Mandukya Upanishad",
+    "iast": "Māṇḍūkya Upaniṣad",
+    "devanagari": "माण्डूक्योपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "TAITT": {
+    "scripture_id": "TAITT",
+    "canonical_name": "Taittiriya Upanishad",
+    "iast": "Taittirīya Upaniṣad",
+    "devanagari": "तैत्तिरीयोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-taittiriya_upanishad_bhashya",
+        "family_id": "F-GRETIL",
+        "scripture_id": "TAITT",
+        "source": "GRETIL",
+        "text_name": "taittiriya_upanishad_bhashya",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 6,
+          "deva_lines": 6,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/taittiriya_upanishad_bhashya_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/taittiriya_upanishad_bhashya_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/taittiriya_upanishad_bhashya_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-taittiriya_upanishad_bhashya"
+      ]
+    },
+    "gretil_texts": [
+      "taittiriya_upanishad_bhashya"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "AITAREYA": {
+    "scripture_id": "AITAREYA",
+    "canonical_name": "Aitareya Upanishad",
+    "iast": "Aitareya Upaniṣad",
+    "devanagari": "ऐतरेयोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-aitareya_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": "AITAREYA",
+        "source": "GRETIL",
+        "text_name": "aitareya_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 289,
+          "deva_lines": 289,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/aitareya_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/aitareya_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/aitareya_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-aitareya_upanishad"
+      ]
+    },
+    "gretil_texts": [
+      "aitareya_upanishad"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "CHAND": {
+    "scripture_id": "CHAND",
+    "canonical_name": "Chandogya Upanishad",
+    "iast": "Chāndogya Upaniṣad",
+    "devanagari": "छान्दोग्योपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "BRIHAD": {
+    "scripture_id": "BRIHAD",
+    "canonical_name": "Brihadaranyaka Upanishad",
+    "iast": "Bṛhadāraṇyaka Upaniṣad",
+    "devanagari": "बृहदारण्यकोपनिषद्",
+    "category": "Upanishad",
+    "priority": 1,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "SHVET": {
+    "scripture_id": "SHVET",
+    "canonical_name": "Shvetashvatara Upanishad",
+    "iast": "Śvetāśvatara Upaniṣad",
+    "devanagari": "श्वेताश्वतरोपनिषद्",
+    "category": "Upanishad",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-shvetashvatara_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": "SHVET",
+        "source": "GRETIL",
+        "text_name": "shvetashvatara_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 359,
+          "deva_lines": 359,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shvetashvatara_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shvetashvatara_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shvetashvatara_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-shvetashvatara_upanishad"
+      ]
+    },
+    "gretil_texts": [
+      "shvetashvatara_upanishad"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "KAUS": {
+    "scripture_id": "KAUS",
+    "canonical_name": "Kaushitaki Upanishad",
+    "iast": "Kauṣītaki Upaniṣad",
+    "devanagari": "कौषीतकि उपनिषद्",
+    "category": "Upanishad",
+    "priority": 2,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "MAITR": {
+    "scripture_id": "MAITR",
+    "canonical_name": "Maitri Upanishad",
+    "iast": "Maitrī Upaniṣad",
+    "devanagari": "मैत्री उपनिषद्",
+    "category": "Upanishad",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "ARCHIVE-MAITR-F-ARCHIVE_DJVU",
+        "family_id": "F-ARCHIVE_DJVU",
+        "scripture_id": "MAITR",
+        "source": "Archive.org (Google scan)",
+        "text_name": "maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
+        "type": "English translation",
+        "acquisition_status": "ACQUIRED",
+        "ocr": true,
+        "files": {
+          "local": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt"
+        }
+      }
+    ],
+    "families": {
+      "F-ARCHIVE_DJVU": [
+        "ARCHIVE-MAITR-F-ARCHIVE_DJVU"
+      ]
+    },
+    "gretil_texts": [],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "MAHAN": {
+    "scripture_id": "MAHAN",
+    "canonical_name": "Mahanarayana Upanishad",
+    "iast": "Mahānārāyaṇa Upaniṣad",
+    "devanagari": "महानारायण उपनिषद्",
+    "category": "Upanishad",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "ARCHIVE-MAHAN-F-ARCHIVE_DJVU",
+        "family_id": "F-ARCHIVE_DJVU",
+        "scripture_id": "MAHAN",
+        "source": "Archive.org",
+        "text_name": "mahan_archive_Mahanarayanopanishad_djvu.txt",
+        "type": "Sanskrit OCR",
+        "acquisition_status": "ACQUIRED",
+        "ocr": true,
+        "files": {
+          "local": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt"
+        }
+      }
+    ],
+    "families": {
+      "F-ARCHIVE_DJVU": [
+        "ARCHIVE-MAHAN-F-ARCHIVE_DJVU"
+      ]
+    },
+    "gretil_texts": [],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "MANU": {
+    "scripture_id": "MANU",
+    "canonical_name": "Manusmriti",
+    "iast": "Manusmṛti",
+    "devanagari": "मनुस्मृति",
+    "category": "Smriti",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-manusmriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": "MANU",
+        "source": "GRETIL",
+        "text_name": "manusmriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 8101,
+          "deva_lines": 8101,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/manusmriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/manusmriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/manusmriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-manusmriti"
+      ]
+    },
+    "gretil_texts": [
+      "manusmriti"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "YAJNAV": {
+    "scripture_id": "YAJNAV",
+    "canonical_name": "Yajnavalkya Smriti",
+    "iast": "Yājñavalkya Smṛti",
+    "devanagari": "याज्ञवल्क्य स्मृति",
+    "category": "Smriti",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-yajnavalkya_smriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": "YAJNAV",
+        "source": "GRETIL",
+        "text_name": "yajnavalkya_smriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 3042,
+          "deva_lines": 3042,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/yajnavalkya_smriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/yajnavalkya_smriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/yajnavalkya_smriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-yajnavalkya_smriti"
+      ]
+    },
+    "gretil_texts": [
+      "yajnavalkya_smriti"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "VISHNU_SM": {
+    "scripture_id": "VISHNU_SM",
+    "canonical_name": "Vishnu Smriti",
+    "iast": "Viṣṇu Smṛti",
+    "devanagari": "विष्णु स्मृति",
+    "category": "Smriti",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-ramanuja_vedartha",
+        "family_id": "F-COMMENTARY",
+        "scripture_id": "VISHNU_SM",
+        "source": "GRETIL",
+        "text_name": "ramanuja_vedartha",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": true,
+        "completion": {
+          "iast_lines": 12,
+          "deva_lines": 12,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/ramanuja_vedartha_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/ramanuja_vedartha_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/ramanuja_vedartha_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vishnu_dharma",
+        "family_id": "F-GRETIL",
+        "scripture_id": "VISHNU_SM",
+        "source": "GRETIL",
+        "text_name": "vishnu_dharma",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 18300,
+          "deva_lines": 18300,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vishnu_dharma_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vishnu_dharma_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vishnu_dharma_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vishnu_smriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": "VISHNU_SM",
+        "source": "GRETIL",
+        "text_name": "vishnu_smriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2014,
+          "deva_lines": 2014,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vishnu_smriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vishnu_smriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vishnu_smriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-COMMENTARY": [
+        "GREtil-ramanuja_vedartha"
+      ],
+      "F-GRETIL": [
+        "GREtil-vishnu_dharma",
+        "GREtil-vishnu_smriti"
+      ]
+    },
+    "gretil_texts": [
+      "ramanuja_vedartha",
+      "vishnu_dharma",
+      "vishnu_smriti"
+    ],
+    "total_witnesses": 3,
+    "independent_families": 2
+  },
+  "NARADA_SM": {
+    "scripture_id": "NARADA_SM",
+    "canonical_name": "Narada Smriti",
+    "iast": "Nārada Smṛti",
+    "devanagari": "नारद स्मृति",
+    "category": "Smriti",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-narada_smriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": "NARADA_SM",
+        "source": "GRETIL",
+        "text_name": "narada_smriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2856,
+          "deva_lines": 2856,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/narada_smriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/narada_smriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/narada_smriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-narada_smriti"
+      ]
+    },
+    "gretil_texts": [
+      "narada_smriti"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "PARASHARA": {
+    "scripture_id": "PARASHARA",
+    "canonical_name": "Parashara Smriti",
+    "iast": "Parāśara Smṛti",
+    "devanagari": "पराशर स्मृति",
+    "category": "Smriti",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "ARCHIVE-PARASHARA-F-ARCHIVE_DJVU",
+        "family_id": "F-ARCHIVE_DJVU",
+        "scripture_id": "PARASHARA",
+        "source": "Archive.org",
+        "text_name": "parashara_archive_SriParasharaSmrithiPdf_djvu.txt",
+        "type": "English+Sanskrit",
+        "acquisition_status": "ACQUIRED",
+        "ocr": true,
+        "files": {
+          "local": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt"
+        }
+      }
+    ],
+    "families": {
+      "F-ARCHIVE_DJVU": [
+        "ARCHIVE-PARASHARA-F-ARCHIVE_DJVU"
+      ]
+    },
+    "gretil_texts": [],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "VYASA_SM": {
+    "scripture_id": "VYASA_SM",
+    "canonical_name": "Vyasa Smriti",
+    "iast": "Vyāsa Smṛti",
+    "devanagari": "व्यास स्मृति",
+    "category": "Smriti",
+    "priority": 3,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "APASTAMBA_DS": {
+    "scripture_id": "APASTAMBA_DS",
+    "canonical_name": "Apastamba Dharmasutra",
+    "iast": "Āpastamba Dharmasūtra",
+    "devanagari": "आपस्तम्ब धर्मसूत्र",
+    "category": "Sutra",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-apastamba_dharmasutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": "APASTAMBA_DS",
+        "source": "GRETIL",
+        "text_name": "apastamba_dharmasutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 410,
+          "deva_lines": 410,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/apastamba_dharmasutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/apastamba_dharmasutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/apastamba_dharmasutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-apastamba_grihya_sutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": "APASTAMBA_DS",
+        "source": "GRETIL",
+        "text_name": "apastamba_grihya_sutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 4530,
+          "deva_lines": 4530,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/apastamba_grihya_sutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/apastamba_grihya_sutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/apastamba_grihya_sutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-apastamba_dharmasutra",
+        "GREtil-apastamba_grihya_sutra"
+      ]
+    },
+    "gretil_texts": [
+      "apastamba_dharmasutra",
+      "apastamba_grihya_sutra"
+    ],
+    "total_witnesses": 2,
+    "independent_families": 1
+  },
+  "BAUDHAYANA_DS": {
+    "scripture_id": "BAUDHAYANA_DS",
+    "canonical_name": "Baudhayana Dharmasutra",
+    "iast": "Baudhāyana Dharmasūtra",
+    "devanagari": "बौधायन धर्मसूत्र",
+    "category": "Sutra",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-baudhayana_dharmasutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": "BAUDHAYANA_DS",
+        "source": "GRETIL",
+        "text_name": "baudhayana_dharmasutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 35,
+          "deva_lines": 35,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/baudhayana_dharmasutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/baudhayana_dharmasutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/baudhayana_dharmasutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-baudhayana_dharmasutra"
+      ]
+    },
+    "gretil_texts": [
+      "baudhayana_dharmasutra"
+    ],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "GAUTAMA_DS": {
+    "scripture_id": "GAUTAMA_DS",
+    "canonical_name": "Gautama Dharmasutra",
+    "iast": "Gautama Dharmasūtra",
+    "devanagari": "गौतम धर्मसूत्र",
+    "category": "Sutra",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-gautama_dharmasutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": "GAUTAMA_DS",
+        "source": "GRETIL",
+        "text_name": "gautama_dharmasutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 6,
+          "deva_lines": 6,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/gautama_dharmasutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/gautama_dharmasutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/gautama_dharmasutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-gautama_dharmasutra_1_3_comm",
+        "family_id": "F-GRETIL",
+        "scripture_id": "GAUTAMA_DS",
+        "source": "GRETIL",
+        "text_name": "gautama_dharmasutra_1_3_comm",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 898,
+          "deva_lines": 898,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/gautama_dharmasutra_1_3_comm_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/gautama_dharmasutra_1_3_comm_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/gautama_dharmasutra_1_3_comm_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-gautama_dharmasutra",
+        "GREtil-gautama_dharmasutra_1_3_comm"
+      ]
+    },
+    "gretil_texts": [
+      "gautama_dharmasutra",
+      "gautama_dharmasutra_1_3_comm"
+    ],
+    "total_witnesses": 2,
+    "independent_families": 1
+  },
+  "VEDANTA_SUTRA": {
+    "scripture_id": "VEDANTA_SUTRA",
+    "canonical_name": "Vedanta Sutras",
+    "iast": "Vedānta Sūtra",
+    "devanagari": "वेदान्त सूत्र",
+    "category": "Sutra",
+    "priority": 2,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "YOGA_SUTRA": {
+    "scripture_id": "YOGA_SUTRA",
+    "canonical_name": "Yoga Sutras of Patanjali",
+    "iast": "Yoga Sūtra",
+    "devanagari": "योग सूत्र",
+    "category": "Sutra",
+    "priority": 2,
+    "witnesses": [
+      {
+        "witness_id": "GREtil-yoga_sutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": "YOGA_SUTRA",
+        "source": "GRETIL",
+        "text_name": "yoga_sutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 392,
+          "deva_lines": 392,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/yoga_sutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/yoga_sutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-yoga_sutra_bhasya",
+        "family_id": "F-GRETIL",
+        "scripture_id": "YOGA_SUTRA",
+        "source": "GRETIL",
+        "text_name": "yoga_sutra_bhasya",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 290,
+          "deva_lines": 290,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/yoga_sutra_bhasya_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/yoga_sutra_bhasya_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/yoga_sutra_bhasya_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-yoga_sutra",
+        "GREtil-yoga_sutra_bhasya"
+      ]
+    },
+    "gretil_texts": [
+      "yoga_sutra",
+      "yoga_sutra_bhasya"
+    ],
+    "total_witnesses": 2,
+    "independent_families": 1
+  },
+  "NYAYA_SUTRA": {
+    "scripture_id": "NYAYA_SUTRA",
+    "canonical_name": "Nyaya Sutras",
+    "iast": "Nyāya Sūtra",
+    "devanagari": "न्याय सूत्र",
+    "category": "Sutra",
+    "priority": 3,
+    "witnesses": [
+      {
+        "witness_id": "ARCHIVE-NYAYA_SUTRA-F-ARCHIVE_DJVU",
+        "family_id": "F-ARCHIVE_DJVU",
+        "scripture_id": "NYAYA_SUTRA",
+        "source": "Archive.org (Bibliotheca Indica)",
+        "text_name": "nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+        "type": "English index",
+        "acquisition_status": "ACQUIRED",
+        "ocr": true,
+        "files": {
+          "local": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt"
+        }
+      }
+    ],
+    "families": {
+      "F-ARCHIVE_DJVU": [
+        "ARCHIVE-NYAYA_SUTRA-F-ARCHIVE_DJVU"
+      ]
+    },
+    "gretil_texts": [],
+    "total_witnesses": 1,
+    "independent_families": 1
+  },
+  "VAISHESHIKA_SUTRA": {
+    "scripture_id": "VAISHESHIKA_SUTRA",
+    "canonical_name": "Vaisheshika Sutras",
+    "iast": "Vaiśeṣika Sūtra",
+    "devanagari": "वैशेषिक सूत्र",
+    "category": "Sutra",
+    "priority": 3,
+    "witnesses": [],
+    "families": {},
+    "gretil_texts": [],
+    "total_witnesses": 0,
+    "independent_families": 0
+  },
+  "NON_CANON": {
+    "scripture_id": "NON_CANON",
+    "canonical_name": "Non-canon GRETIL texts",
+    "category": "Other",
+    "witnesses": [
+      {
+        "witness_id": "GREtil-abhinavagupta_bhairava_stava",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "abhinavagupta_bhairava_stava",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 33,
+          "deva_lines": 33,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/abhinavagupta_bhairava_stava_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/abhinavagupta_bhairava_stava_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/abhinavagupta_bhairava_stava_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-angiras_smriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "angiras_smriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 4004,
+          "deva_lines": 4004,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/angiras_smriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/angiras_smriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/angiras_smriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-ashvalayana_grihya_sutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "ashvalayana_grihya_sutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 18,
+          "deva_lines": 18,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/ashvalayana_grihya_sutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/ashvalayana_grihya_sutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/ashvalayana_grihya_sutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-ashvalayana_shrauta_sutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "ashvalayana_shrauta_sutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 36,
+          "deva_lines": 36,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/ashvalayana_shrauta_sutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/ashvalayana_shrauta_sutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/ashvalayana_shrauta_sutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-astavakra_gita",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "astavakra_gita",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 896,
+          "deva_lines": 896,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/astavakra_gita_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/astavakra_gita_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/astavakra_gita_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-brahma_samhita",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "brahma_samhita",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 885,
+          "deva_lines": 885,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/brahma_samhita_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/brahma_samhita_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/brahma_samhita_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-brihaspati_smriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "brihaspati_smriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 3800,
+          "deva_lines": 3800,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/brihaspati_smriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/brihaspati_smriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/brihaspati_smriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-devi_kalottara_agama",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "devi_kalottara_agama",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 254,
+          "deva_lines": 254,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/devi_kalottara_agama_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/devi_kalottara_agama_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/devi_kalottara_agama_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-ganapati_stotra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "ganapati_stotra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 100,
+          "deva_lines": 100,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/ganapati_stotra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/ganapati_stotra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/ganapati_stotra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-gitagovinda",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "gitagovinda",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1176,
+          "deva_lines": 1176,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/gitagovinda_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/gitagovinda_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/gitagovinda_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-gopatha_brahmana",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "gopatha_brahmana",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2046,
+          "deva_lines": 2046,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/gopatha_brahmana_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/gopatha_brahmana_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/gopatha_brahmana_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-hatha_yoga_pradipika",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "hatha_yoga_pradipika",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1270,
+          "deva_lines": 1270,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/hatha_yoga_pradipika_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/hatha_yoga_pradipika_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/hatha_yoga_pradipika_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-kalidasa_shyamaladandaka",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "kalidasa_shyamaladandaka",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 31,
+          "deva_lines": 31,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/kalidasa_shyamaladandaka_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/kalidasa_shyamaladandaka_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/kalidasa_shyamaladandaka_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-katyayana_smriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "katyayana_smriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2945,
+          "deva_lines": 2945,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/katyayana_smriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/katyayana_smriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/katyayana_smriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-kirana tantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "kirana tantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 615,
+          "deva_lines": 615,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/kirana tantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/kirana tantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/kirana tantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-kositaki_brahmana",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "kositaki_brahmana",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 58,
+          "deva_lines": 58,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/kositaki_brahmana_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/kositaki_brahmana_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/kositaki_brahmana_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-kubjikamata tantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "kubjikamata tantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 9083,
+          "deva_lines": 9083,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/kubjikamata tantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/kubjikamata tantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/kubjikamata tantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-malinivijayottara tantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "malinivijayottara tantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2608,
+          "deva_lines": 2608,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/malinivijayottara tantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/malinivijayottara tantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/malinivijayottara tantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-manava_grihya_sutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "manava_grihya_sutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1657,
+          "deva_lines": 1657,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/manava_grihya_sutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/manava_grihya_sutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/manava_grihya_sutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-matrkabhedatantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "matrkabhedatantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1680,
+          "deva_lines": 1680,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/matrkabhedatantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/matrkabhedatantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/matrkabhedatantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-mrigendra_agama",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "mrigendra_agama",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2015,
+          "deva_lines": 2015,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/mrigendra_agama_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/mrigendra_agama_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/mrigendra_agama_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-nadabindi_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "nadabindi_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 64,
+          "deva_lines": 64,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/nadabindi_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/nadabindi_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/nadabindi_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-namaskaraikavimshati stotra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "namaskaraikavimshati stotra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 85,
+          "deva_lines": 85,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/namaskaraikavimshati stotra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/namaskaraikavimshati stotra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/namaskaraikavimshati stotra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-narasimha_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "narasimha_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 10450,
+          "deva_lines": 10450,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/narasimha_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/narasimha_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/narasimha_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-nirukta",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "nirukta",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 438,
+          "deva_lines": 438,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/nirukta_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/nirukta_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/nirukta_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-pancavimsha_brahmana",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "pancavimsha_brahmana",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 4557,
+          "deva_lines": 4557,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/pancavimsha_brahmana_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/pancavimsha_brahmana_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/pancavimsha_brahmana_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-sarvadurgatiparishodhana tantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "sarvadurgatiparishodhana tantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 146,
+          "deva_lines": 146,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/sarvadurgatiparishodhana tantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/sarvadurgatiparishodhana tantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/sarvadurgatiparishodhana tantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-satvatatantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "satvatatantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 2154,
+          "deva_lines": 2154,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/satvatatantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/satvatatantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/satvatatantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-shankhayana_shrauta_sutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "shankhayana_shrauta_sutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 6741,
+          "deva_lines": 6741,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shankhayana_shrauta_sutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shankhayana_shrauta_sutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shankhayana_shrauta_sutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-shira_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "shira_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 17,
+          "deva_lines": 17,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shira_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shira_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shira_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-shiva mahimna stava",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "shiva mahimna stava",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 140,
+          "deva_lines": 140,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shiva mahimna stava_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shiva mahimna stava_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shiva mahimna stava_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-shiva_sutra_varttika",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "shiva_sutra_varttika",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1371,
+          "deva_lines": 1371,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shiva_sutra_varttika_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shiva_sutra_varttika_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shiva_sutra_varttika_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-shiva_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "shiva_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1898,
+          "deva_lines": 1898,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shiva_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shiva_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shiva_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-shivasankalpa_upanishad",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "shivasankalpa_upanishad",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 86,
+          "deva_lines": 86,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/shivasankalpa_upanishad_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/shivasankalpa_upanishad_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/shivasankalpa_upanishad_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-svacchandatantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "svacchandatantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 11113,
+          "deva_lines": 11113,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/svacchandatantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/svacchandatantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/svacchandatantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-svayambhu_puran",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "svayambhu_puran",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 5260,
+          "deva_lines": 5260,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/svayambhu_puran_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/svayambhu_puran_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/svayambhu_puran_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-todala tantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "todala tantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1235,
+          "deva_lines": 1235,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/todala tantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/todala tantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/todala tantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-uddamareshvara tantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "uddamareshvara tantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 572,
+          "deva_lines": 572,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/uddamareshvara tantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/uddamareshvara tantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/uddamareshvara tantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vaikhanasa_dharmasutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "vaikhanasa_dharmasutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 414,
+          "deva_lines": 414,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vaikhanasa_dharmasutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vaikhanasa_dharmasutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vaikhanasa_dharmasutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vasistha_dharmasutra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "vasistha_dharmasutra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 272,
+          "deva_lines": 272,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vasistha_dharmasutra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vasistha_dharmasutra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vasistha_dharmasutra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vijJAnabhairava",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "vijJAnabhairava",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 488,
+          "deva_lines": 488,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vijJAnabhairava_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vijJAnabhairava_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vijJAnabhairava_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vijnana_bhairava",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "vijnana_bhairava",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 488,
+          "deva_lines": 488,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vijnana_bhairava_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vijnana_bhairava_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vijnana_bhairava_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-vinaashikha tantra",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "vinaashikha tantra",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 1192,
+          "deva_lines": 1192,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/vinaashikha tantra_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/vinaashikha tantra_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/vinaashikha tantra_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-yama_smriti",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "yama_smriti",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 421,
+          "deva_lines": 421,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/yama_smriti_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/yama_smriti_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/yama_smriti_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-yamuna stotraratna",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "yamuna stotraratna",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 194,
+          "deva_lines": 194,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/yamuna stotraratna_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/yamuna stotraratna_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/yamuna stotraratna_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      },
+      {
+        "witness_id": "GREtil-yoga_bija",
+        "family_id": "F-GRETIL",
+        "scripture_id": null,
+        "source": "GRETIL",
+        "text_name": "yoga_bija",
+        "editor": "GRETIL (Salomon et al.)",
+        "institution": "University of Cologne",
+        "language": "Sanskrit",
+        "script": "IAST",
+        "encoding": {
+          "native_unicode": true,
+          "ocr": false,
+          "valid_utf8": true,
+          "has_replacement": false,
+          "has_devanagari": false,
+          "has_iast": true
+        },
+        "critical_edition": false,
+        "diplomatic_edition": false,
+        "commentary": false,
+        "completion": {
+          "iast_lines": 373,
+          "deva_lines": 373,
+          "has_structure": true,
+          "structure_keys": [
+            "file",
+            "xml_id",
+            "title",
+            "total_chapters",
+            "total_verses",
+            "chapters"
+          ]
+        },
+        "files": {
+          "iast": "knowledge/gretil_parsed/yoga_bija_gretil_iast.txt",
+          "devanagari": "knowledge/gretil_parsed/yoga_bija_gretil_devanagari.txt",
+          "structure": "knowledge/gretil_parsed/yoga_bija_gretil_structure.json"
+        },
+        "acquisition_status": "ACQUIRED",
+        "license": "Academic use (GRETIL)",
+        "is_derivative": false
+      }
+    ],
+    "families": {
+      "F-GRETIL": [
+        "GREtil-abhinavagupta_bhairava_stava",
+        "GREtil-angiras_smriti",
+        "GREtil-ashvalayana_grihya_sutra",
+        "GREtil-ashvalayana_shrauta_sutra",
+        "GREtil-astavakra_gita",
+        "GREtil-brahma_samhita",
+        "GREtil-brihaspati_smriti",
+        "GREtil-devi_kalottara_agama",
+        "GREtil-ganapati_stotra",
+        "GREtil-gitagovinda",
+        "GREtil-gopatha_brahmana",
+        "GREtil-hatha_yoga_pradipika",
+        "GREtil-kalidasa_shyamaladandaka",
+        "GREtil-katyayana_smriti",
+        "GREtil-kirana tantra",
+        "GREtil-kositaki_brahmana",
+        "GREtil-kubjikamata tantra",
+        "GREtil-malinivijayottara tantra",
+        "GREtil-manava_grihya_sutra",
+        "GREtil-matrkabhedatantra",
+        "GREtil-mrigendra_agama",
+        "GREtil-nadabindi_upanishad",
+        "GREtil-namaskaraikavimshati stotra",
+        "GREtil-narasimha_puran",
+        "GREtil-nirukta",
+        "GREtil-pancavimsha_brahmana",
+        "GREtil-sarvadurgatiparishodhana tantra",
+        "GREtil-satvatatantra",
+        "GREtil-shankhayana_shrauta_sutra",
+        "GREtil-shira_upanishad",
+        "GREtil-shiva mahimna stava",
+        "GREtil-shiva_sutra_varttika",
+        "GREtil-shiva_upanishad",
+        "GREtil-shivasankalpa_upanishad",
+        "GREtil-svacchandatantra",
+        "GREtil-svayambhu_puran",
+        "GREtil-todala tantra",
+        "GREtil-uddamareshvara tantra",
+        "GREtil-vaikhanasa_dharmasutra",
+        "GREtil-vasistha_dharmasutra",
+        "GREtil-vijJAnabhairava",
+        "GREtil-vijnana_bhairava",
+        "GREtil-vinaashikha tantra",
+        "GREtil-yama_smriti",
+        "GREtil-yamuna stotraratna",
+        "GREtil-yoga_bija"
+      ]
+    },
+    "total_witnesses": 46,
+    "independent_families": 1
+  }
+}

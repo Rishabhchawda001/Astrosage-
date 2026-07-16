@@ -1,0 +1,273 @@
+{
+  "generated": "2026-07-16T10:57:46.773878",
+  "total_gaps": 33,
+  "critical": 2,
+  "high": 19,
+  "medium": 12,
+  "gaps": [
+    {
+      "scripture": "VYASA_SM",
+      "name": "Vyasa Smriti",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 100,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "VAISHESHIKA_SUTRA",
+      "name": "Vaisheshika Sutras",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 370,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "YVK",
+      "name": "Krishna Yajurveda (Taittiriya Samhita)",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 1,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "YVS",
+      "name": "Shukla Yajurveda (Madhyandina)",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 1,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "MBH",
+      "name": "Mahabharata",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 14,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "VARAH",
+      "name": "Varaha Purana",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 8,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "BRAHMD",
+      "name": "Brahmanda Purana",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 3,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "KALI",
+      "name": "Kalika Purana",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 2,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "KEN",
+      "name": "Kena Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 4,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "KATH",
+      "name": "Katha Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 2,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "PRASHNA",
+      "name": "Prashna Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 1,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "MUND",
+      "name": "Mundaka Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 1,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "MAND",
+      "name": "Mandukya Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 3,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "CHAND",
+      "name": "Chandogya Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 4,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "BRIHAD",
+      "name": "Brihadaranyaka Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 5,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "KAUS",
+      "name": "Kaushitaki Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 1,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "MAITR",
+      "name": "Maitri Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 1,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "MAHAN",
+      "name": "Mahanarayana Upanishad",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 2,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "PARASHARA",
+      "name": "Parashara Smriti",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 2,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "VEDANTA_SUTRA",
+      "name": "Vedanta Sutras (Brahma Sutras)",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 12,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "NYAYA_SUTRA",
+      "name": "Nyaya Sutras",
+      "priority": "HIGH",
+      "reason": "Files acquired but not parsed",
+      "files_available": 1,
+      "needed": "Parse and extract CUIDs"
+    },
+    {
+      "scripture": "RV",
+      "name": "Rigveda Samhita",
+      "priority": "MEDIUM",
+      "reason": "Verse coverage only 27.8%",
+      "current_coverage": "27.8%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "SV",
+      "name": "Samaveda Samhita",
+      "priority": "MEDIUM",
+      "reason": "Verse coverage only 3.5%; Not yet collated",
+      "current_coverage": "3.5%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "AV",
+      "name": "Atharvaveda Samhita",
+      "priority": "MEDIUM",
+      "reason": "Verse coverage only 7.2%",
+      "current_coverage": "7.2%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "VISH",
+      "name": "Vishnu Purana",
+      "priority": "MEDIUM",
+      "reason": "Not yet collated",
+      "current_coverage": "53.8%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "SHIV",
+      "name": "Shiva Purana",
+      "priority": "MEDIUM",
+      "reason": "Verse coverage only 22.0%; Not yet collated",
+      "current_coverage": "22.0%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "DEVI",
+      "name": "Devi Bhagavata Purana",
+      "priority": "MEDIUM",
+      "reason": "Verse coverage only 6.0%; Not yet collated",
+      "current_coverage": "6.0%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "VYU",
+      "name": "Vayu Purana",
+      "priority": "MEDIUM",
+      "reason": "Not yet collated",
+      "current_coverage": "68.4%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "SKAND",
+      "name": "Skanda Purana",
+      "priority": "MEDIUM",
+      "reason": "Not yet collated",
+      "current_coverage": "55.2%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "ISHA",
+      "name": "Isha Upanishad",
+      "priority": "MEDIUM",
+      "reason": "Only 1 independent family; Not yet collated",
+      "current_coverage": "100%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "TAITT",
+      "name": "Taittiriya Upanishad",
+      "priority": "MEDIUM",
+      "reason": "Verse coverage only 3.8%; Not yet collated",
+      "current_coverage": "3.8%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "BAUDHAYANA_DS",
+      "name": "Baudhayana Dharmasutra",
+      "priority": "MEDIUM",
+      "reason": "Verse coverage only 5.4%; Not yet collated",
+      "current_coverage": "5.4%",
+      "needed": "Additional witnesses and/or better extraction"
+    },
+    {
+      "scripture": "GAUTAMA_DS",
+      "name": "Gautama Dharmasutra",
+      "priority": "MEDIUM",
+      "reason": "Only 1 independent family",
+      "current_coverage": "57.5%",
+      "needed": "Additional witnesses and/or better extraction"
+    }
+  ]
+}
