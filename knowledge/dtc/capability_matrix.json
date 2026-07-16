@@ -1,0 +1,176 @@
+{
+  "OCR_ENGINES": {
+    "tesseract_5": {
+      "status": "INSTALLED",
+      "version": "5.3.4",
+      "langs": 13
+    },
+    "paddleocr": {
+      "status": "INSTALLED",
+      "version": "3.7.0"
+    },
+    "easyocr": {
+      "status": "INSTALLED",
+      "version": "1.7.2"
+    },
+    "surya_ocr": {
+      "status": "INSTALLED",
+      "version": "0.17.1",
+      "note": "import issues"
+    },
+    "ocrmypdf": {
+      "status": "INSTALLED",
+      "version": "17.8.0"
+    },
+    "pytesseract": {
+      "status": "INSTALLED",
+      "version": "0.3.13"
+    },
+    "kraken": {
+      "status": "MISSING",
+      "priority": "HIGH"
+    },
+    "calamari": {
+      "status": "MISSING",
+      "priority": "MEDIUM"
+    },
+    "trocr": {
+      "status": "MISSING",
+      "priority": "MEDIUM"
+    },
+    "nougat": {
+      "status": "MISSING",
+      "priority": "HIGH"
+    },
+    "donut": {
+      "status": "MISSING",
+      "priority": "LOW"
+    },
+    "layoutlmv3": {
+      "status": "MISSING",
+      "priority": "LOW"
+    },
+    "escriptorium": {
+      "status": "MISSING",
+      "priority": "MEDIUM"
+    }
+  },
+  "DOCUMENT_PARSERS": {
+    "pymupdf": {
+      "status": "INSTALLED",
+      "version": "1.28.0"
+    },
+    "pdfplumber": {
+      "status": "INSTALLED",
+      "version": "0.11.10"
+    },
+    "pdfminer": {
+      "status": "INSTALLED",
+      "version": "?"
+    },
+    "pdftotext": {
+      "status": "INSTALLED",
+      "tool": "poppler"
+    },
+    "marker": {
+      "status": "INSTALLED",
+      "version": "?"
+    },
+    "apache_tika": {
+      "status": "MISSING",
+      "priority": "MEDIUM"
+    },
+    "unstructured": {
+      "status": "MISSING",
+      "priority": "MEDIUM"
+    },
+    "deepdoctection": {
+      "status": "MISSING",
+      "priority": "LOW"
+    },
+    "camelot": {
+      "status": "MISSING",
+      "priority": "LOW"
+    },
+    "tabula": {
+      "status": "MISSING",
+      "priority": "LOW"
+    }
+  },
+  "SANSKRIT_NLP": {
+    "indic_transliteration": {
+      "status": "INSTALLED",
+      "version": "2.3.82"
+    },
+    "sanskrit_parser": {
+      "status": "INSTALLED",
+      "version": "0.2.6"
+    },
+    "sanskrit_util": {
+      "status": "INSTALLED",
+      "version": "0.1.2"
+    },
+    "collatex": {
+      "status": "INSTALLED",
+      "version": "2.3"
+    },
+    "cltk": {
+      "status": "MISSING",
+      "priority": "HIGH"
+    },
+    "ai4bharat": {
+      "status": "MISSING",
+      "priority": "HIGH"
+    },
+    "sentencepiece": {
+      "status": "MISSING",
+      "priority": "MEDIUM"
+    }
+  },
+  "AI_MODELS": {
+    "torch": {
+      "status": "INSTALLED",
+      "version": "2.13.0"
+    },
+    "transformers": {
+      "status": "INSTALLED",
+      "version": "4.57.6"
+    },
+    "surya_models": {
+      "status": "INSTALLED",
+      "version": "0.17.1"
+    }
+  },
+  "IMAGE_PROCESSING": {
+    "opencv": {
+      "status": "INSTALLED",
+      "version": "4.11.0.86"
+    },
+    "pillow": {
+      "status": "INSTALLED",
+      "version": "12.3.0"
+    },
+    "imagemagick": {
+      "status": "INSTALLED",
+      "tool": "convert"
+    },
+    "leptonica": {
+      "status": "INSTALLED",
+      "version": "1.82.0"
+    }
+  },
+  "TEXTUAL_CRITICISM": {
+    "collatex": {
+      "status": "INSTALLED",
+      "version": "2.3"
+    },
+    "difflib": {
+      "status": "INSTALLED",
+      "builtin": true
+    },
+    "regex": {
+      "status": "INSTALLED",
+      "version": "2024.11.6"
+    }
+  }
+}

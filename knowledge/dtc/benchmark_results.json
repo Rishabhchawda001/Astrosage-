@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-07-16T18:35:00Z",
+  "benchmarks": {
+    "sanskrit_transliteration": {
+      "iterations": 4000,
+      "total_time_ms": 107.0,
+      "avg_per_word_us": 26.75
+    },
+    "collatex": {
+      "iterations": 100,
+      "witnesses": 3,
+      "total_time_ms": 95.7,
+      "avg_per_collation_ms": 0.96
+    },
+    "unicode_nfc": {
+      "iterations": 10000,
+      "total_time_ms": 1.9,
+      "avg_per_op_us": 0.19
+    },
+    "regex_verse_detection": {
+      "iterations": 1000,
+      "total_time_ms": 5.3
+    }
+  },
+  "tools": {
+    "ocr": {
+      "tesseract": "5.3.4 (13 langs including san)",
+      "paddleocr": "3.7.0",
+      "easyocr": "1.7.2",
+      "surya_ocr": "0.17.1",
+      "ocrmypdf": "17.8.0",
+      "kraken": "7.0.2",
+      "pytesseract": "0.3.13"
+    },
+    "parsing": {
+      "pymupdf": "1.28.0",
+      "pdfplumber": "0.11.10",
+      "pdfminer": "installed",
+      "marker": "installed",
+      "lxml": "6.1.1",
+      "beautifulsoup4": "4.15.0"
+    },
+    "sanskrit_nlp": {
+      "indic_transliteration": "2.3.82",
+      "sanskrit_parser": "0.2.6",
+      "sanskrit_util": "0.1.2",
+      "sentencepiece": "installed",
+      "unidecode": "1.4.0"
+    },
+    "textual_criticism": {
+      "collatex": "2.3",
+      "levenshtein": "installed",
+      "regex": "2024.11.6"
+    },
+    "ai_ml": {
+      "torch": "2.13.0",
+      "transformers": "4.57.6"
+    },
+    "image": {
+      "opencv": "5.0.0.93",
+      "pillow": "12.3.0",
+      "imagemagick": "installed"
+    }
+  },
+  "corpus_stats": {
+    "downloaded_files": 537,
+    "downloaded_size_mb": 1891.8,
+    "gretil_xml_files": 126
+  }
+}

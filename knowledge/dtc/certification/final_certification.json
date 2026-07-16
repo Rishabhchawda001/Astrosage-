@@ -1,6 +1,6 @@
 {
   "timestamp": "2026-07-16T16:27:21.072664",
-  "total_verses": 1322088,
+  "total_verses": 1322481,
   "certified": 49,
   "provisional": 5,
   "unverified": 0,
@@ -282,9 +282,9 @@
       "file": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt",
       "type": "ocr",
       "exists": true,
-      "verses": 991,
+      "verses": 1384,
       "expected": 9000,
-      "coverage": 11.0,
+      "coverage": 15.4,
       "unicode": {
         "nfc": true,
         "replacements": 0,
@@ -293,7 +293,7 @@
       },
       "hash": "a9ad78155b36444d",
       "certification": "PROVISIONALLY_CERTIFIED",
-      "note": "Two new Archive.org OCR sources (Khemraj 1908: 860 verses, Kshemaraj 1907: 991 verses). Expected ~9000 verses."
+      "note": "2 Archive.org OCR sources (Khemraj 1908, Kshemaraj 1907): 1384 verse-ending lines. Expected ~9000."
     },
     "KATH": {
       "scripture": "KATH",
@@ -490,7 +490,7 @@
       "exists": true,
       "verses": 60465,
       "expected": 100000,
-      "coverage": 60.5,
+      "coverage": 69.0,
       "unicode": {
         "nfc": true,
         "replacements": 0,
@@ -498,7 +498,10 @@
         "quality": "GOOD"
       },
       "hash": "399e4c0bfd5ad3c5",
-      "certification": "PROVISIONALLY_CERTIFIED"
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "gretil_verses": 8584,
+      "total_combined": 69049,
+      "note": "Satwalekar OCR (60465 verses) + GRETIL IAST (8584 verses) = 69049 total"
     },
     "MUND": {
       "scripture": "MUND",
@@ -703,7 +706,7 @@
       },
       "hash": "8ce30d796a450ae4",
       "certification": "PROVISIONALLY_CERTIFIED",
-      "note": "3 OCR sources: DLI Vol 2, DLI Vol 3, Kauthuma. 1833 verse-ending lines. Expected ~1875 verses."
+      "note": "3 OCR sources: DLI Vol 2, DLI Vol 3, Kauthuma. 1833 verse-ending lines. Expected ~1875."
     },
     "TAITT": {
       "scripture": "TAITT",

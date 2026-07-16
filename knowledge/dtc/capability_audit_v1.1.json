@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-07-16T18:40:00Z",
+  "title": "ASTROSAGE CAPABILITY AUDIT v1.1",
+  "corpus_status": {
+    "scriptures": 54,
+    "certified": 49,
+    "provisional": 5,
+    "unverified": 0,
+    "total_verses": 1322481
+  },
+  "installed_capabilities": {
+    "ocr_engines": 7,
+    "document_parsers": 6,
+    "sanskrit_nlp_libraries": 5,
+    "textual_criticism_tools": 3,
+    "ai_ml_frameworks": 2,
+    "image_processing_tools": 3,
+    "total_python_packages": 25
+  },
+  "data_sources": {
+    "gretil_xml_files": 126,
+    "downloaded_files": 537,
+    "total_size_gb": 1.85,
+    "bronze_files": "525+",
+    "repository_types": [
+      "GRETIL (authoritative TEI XML)",
+      "Archive.org (DjVu OCR from DLI, BORI, Gita Press)",
+      "SanskritDocuments.org",
+      "Muktabodha"
+    ]
+  },
+  "benchmarks": {
+    "sanskrit_transliteration_us_per_word": 26.75,
+    "collatex_ms_per_collation": 0.96,
+    "unicode_nfc_us_per_op": 0.19,
+    "regex_verse_detection_ms": 5.3
+  },
+  "improvements_this_session": [
+    "VYU: CERTIFIED via GRETIL TEI XML (7,609 verses, 232 adhyayas)",
+    "KATH: Fixed extraction (369 verses, CERTIFIED)",
+    "VAISHESHIKA_SUTRA: UNVERIFIED -> PROVISIONALLY_CERTIFIED (247 sutras)",
+    "VYASA_SM: UNVERIFIED -> PROVISIONALLY_CERTIFIED (211 verses)",
+    "SV: 66 -> 1,833 verse-ending lines",
+    "KALI: Added 2 Archive.org OCR sources",
+    "MBH: Added 8,584 GRETIL IAST verses as second witness",
+    "Installed: kraken 7.0.2, sentencepiece, levenshtein, pdfminer",
+    "Built: benchmark lab, capability matrix, dashboard"
+  ],
+  "remaining_gaps": {
+    "high_priority": [
+      "MBH: 69.0% coverage \u2014 needs better OCR sources or copyrighted BORI edition",
+      "KALI: 15.4% coverage \u2014 only 1,384/9,000 verses from OCR"
+    ],
+    "medium_priority": [
+      "VAISHESHIKA_SUTRA: 66.8% \u2014 247/370 sutras from DLI OCR",
+      "VYASA_SM: 84.4% \u2014 211/250 verses from Archive.org"
+    ],
+    "structural": [
+      "No public-domain full Mahabharata Sanskrit text available",
+      "No public-domain Kalika Purana full Sanskrit text available",
+      "GRETIL returns 404 for direct downloads \u2014 limited to existing files",
+      "BORI critical editions are copyrighted \u2014 cannot be redistributed"
+    ]
+  },
+  "evidence_quality": {
+    "authoritative_sources": "GRETIL TEI XML (CC BY-NC-SA 4.0)",
+    "ocr_sources": "Archive.org DjVu text (DLI, BORI, Gita Press)",
+    "witness_independence": "Multiple publishers/editors for key texts",
+    "unicode_validation": "NFC normalization verified for all GRETIL texts",
+    "provenance": "Complete for all downloaded sources"
+  }
+}
