@@ -1,0 +1,4254 @@
+[
+  {
+    "scripture_id": "SV",
+    "scripture_name": "Samaveda-Samhita",
+    "missing_family": "F-RANAYANIYA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Kauthuma",
+        "Ranayaniya",
+        "Jaiminiya"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SV",
+    "scripture_name": "Samaveda-Samhita",
+    "missing_family": "F-JAIMINIYA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Kauthuma",
+        "Ranayaniya",
+        "Jaiminiya"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SV",
+    "scripture_name": "Samaveda-Samhita",
+    "missing_family": "F-KAUTHUMA_critical",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Kauthuma",
+        "Ranayaniya",
+        "Jaiminiya"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YVK",
+    "scripture_name": "Yajurveda-Krishna",
+    "missing_family": "F-TAITTIRIYA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Taittiriya",
+        "Maitrayaniya",
+        "Katha",
+        "Kapishthala"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YVK",
+    "scripture_name": "Yajurveda-Krishna",
+    "missing_family": "F-MAITRAYANIYA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Taittiriya",
+        "Maitrayaniya",
+        "Katha",
+        "Kapishthala"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YVK",
+    "scripture_name": "Yajurveda-Krishna",
+    "missing_family": "F-KATHA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Taittiriya",
+        "Maitrayaniya",
+        "Katha",
+        "Kapishthala"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YVK",
+    "scripture_name": "Yajurveda-Krishna",
+    "missing_family": "F-KAPISHTHALA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Taittiriya",
+        "Maitrayaniya",
+        "Katha",
+        "Kapishthala"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YVS",
+    "scripture_name": "Yajurveda-Shukla",
+    "missing_family": "F-MADHYANDINA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Vajasaneyi-Madhyandina",
+        "Vajasaneyi-Kanva"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YVS",
+    "scripture_name": "Yajurveda-Shukla",
+    "missing_family": "F-KANVA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Vajasaneyi-Madhyandina",
+        "Vajasaneyi-Kanva"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "AV",
+    "scripture_name": "Atharvaveda-Samhita",
+    "missing_family": "F-SHAUNAKA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Shaunaka",
+        "Paippalada"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "AV",
+    "scripture_name": "Atharvaveda-Samhita",
+    "missing_family": "F-PAIPPALADA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Shaunaka",
+        "Paippalada"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "AV",
+    "scripture_name": "Atharvaveda-Samhita",
+    "missing_family": "F-BLOOMFIELD",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Shaunaka",
+        "Paippalada"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BG",
+    "scripture_name": "Bhagavadgita",
+    "missing_family": "F-BORI",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 1 to 2/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BG",
+    "scripture_name": "Bhagavadgita",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 1 to 2/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BG",
+    "scripture_name": "Bhagavadgita",
+    "missing_family": "F-MOTILAL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 1 to 2/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BG",
+    "scripture_name": "Bhagavadgita",
+    "missing_family": "F-NATIVE_DEVANAGARI",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 1 to 2/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MBH",
+    "scripture_name": "Mahabharata",
+    "missing_family": "F-BORI_CRITICAL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MBH",
+    "scripture_name": "Mahabharata",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MBH",
+    "scripture_name": "Mahabharata",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MBH",
+    "scripture_name": "Mahabharata",
+    "missing_family": "F-MOTILAL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MBH",
+    "scripture_name": "Mahabharata",
+    "missing_family": "F-KUMBHAKONAM",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MBH",
+    "scripture_name": "Mahabharata",
+    "missing_family": "F-VENKATESHWAR",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RM",
+    "scripture_name": "Ramayana",
+    "missing_family": "F-BORI_CRITICAL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Northern",
+        "Southern",
+        "Western",
+        "Northeastern"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RM",
+    "scripture_name": "Ramayana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Northern",
+        "Southern",
+        "Western",
+        "Northeastern"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RM",
+    "scripture_name": "Ramayana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Northern",
+        "Southern",
+        "Western",
+        "Northeastern"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RM",
+    "scripture_name": "Ramayana",
+    "missing_family": "F-NIRNITAYA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "Northern",
+        "Southern",
+        "Western",
+        "Northeastern"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "HV",
+    "scripture_name": "Harivamsha",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "HV",
+    "scripture_name": "Harivamsha",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BHAG",
+    "scripture_name": "Bhagavata Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BHAG",
+    "scripture_name": "Bhagavata Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BHAG",
+    "scripture_name": "Bhagavata Purana",
+    "missing_family": "F-MOTILAL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BHAG",
+    "scripture_name": "Bhagavata Purana",
+    "missing_family": "F-BORI",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VISH",
+    "scripture_name": "Vishnu Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VISH",
+    "scripture_name": "Vishnu Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VISH",
+    "scripture_name": "Vishnu Purana",
+    "missing_family": "F-VENKATESHWAR",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SHIV",
+    "scripture_name": "Shiva Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SHIV",
+    "scripture_name": "Shiva Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SHIV",
+    "scripture_name": "Shiva Purana",
+    "missing_family": "F-VENKATESHWAR",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "DEVI",
+    "scripture_name": "Devi Bhagavata Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "DEVI",
+    "scripture_name": "Devi Bhagavata Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "AGNI",
+    "scripture_name": "Agni Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "AGNI",
+    "scripture_name": "Agni Purana",
+    "missing_family": "F-MOTILAL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRAH",
+    "scripture_name": "Brahma Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRAH",
+    "scripture_name": "Brahma Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MATS",
+    "scripture_name": "Matsya Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MATS",
+    "scripture_name": "Matsya Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KURM",
+    "scripture_name": "Kurma Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KURM",
+    "scripture_name": "Kurma Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "LING",
+    "scripture_name": "Linga Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "LING",
+    "scripture_name": "Linga Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MARK",
+    "scripture_name": "Markandeya Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MARK",
+    "scripture_name": "Markandeya Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "NARADA",
+    "scripture_name": "Narada Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "NARADA",
+    "scripture_name": "Narada Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VAMAN",
+    "scripture_name": "Vamana Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VAMAN",
+    "scripture_name": "Vamana Purana",
+    "missing_family": "F-MOTILAL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VARAH",
+    "scripture_name": "Varaha Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VARAH",
+    "scripture_name": "Varaha Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VARAH",
+    "scripture_name": "Varaha Purana",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VYU",
+    "scripture_name": "Vayu Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VYU",
+    "scripture_name": "Vayu Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VYU",
+    "scripture_name": "Vayu Purana",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SKAND",
+    "scripture_name": "Skanda Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SKAND",
+    "scripture_name": "Skanda Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SKAND",
+    "scripture_name": "Skanda Purana",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRAHMD",
+    "scripture_name": "Brahmanda Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRAHMD",
+    "scripture_name": "Brahmanda Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRAHMD",
+    "scripture_name": "Brahmanda Purana",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KALI",
+    "scripture_name": "Kalika Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KALI",
+    "scripture_name": "Kalika Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KALI",
+    "scripture_name": "Kalika Purana",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "GARUDA",
+    "scripture_name": "Garuda Purana",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "GARUDA",
+    "scripture_name": "Garuda Purana",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KEN",
+    "scripture_name": "Kena Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KEN",
+    "scripture_name": "Kena Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KEN",
+    "scripture_name": "Kena Upanishad",
+    "missing_family": "F-ANANDAGIRI",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KATH",
+    "scripture_name": "Katha Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KATH",
+    "scripture_name": "Katha Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "PRASHNA",
+    "scripture_name": "Prashna Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MUND",
+    "scripture_name": "Mundaka Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MUND",
+    "scripture_name": "Mundaka Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MAND",
+    "scripture_name": "Mandukya Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MAND",
+    "scripture_name": "Mandukya Upanishad",
+    "missing_family": "F-GAUDPADA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MAND",
+    "scripture_name": "Mandukya Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "TAITT",
+    "scripture_name": "Taittiriya Upanishad",
+    "missing_family": "F-GRETIL_Samhita",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "TAITT",
+    "scripture_name": "Taittiriya Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "AITAREYA",
+    "scripture_name": "Aitareya Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "CHAND",
+    "scripture_name": "Chandogya Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "CHAND",
+    "scripture_name": "Chandogya Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "CHAND",
+    "scripture_name": "Chandogya Upanishad",
+    "missing_family": "F-GIRI",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRIHAD",
+    "scripture_name": "Brihadaranyaka Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRIHAD",
+    "scripture_name": "Brihadaranyaka Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRIHAD",
+    "scripture_name": "Brihadaranyaka Upanishad",
+    "missing_family": "F-GIRI",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BRIHAD",
+    "scripture_name": "Brihadaranyaka Upanishad",
+    "missing_family": "F-VIDYARANYA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "SHVET",
+    "scripture_name": "Shvetashvatara Upanishad",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "KAUS",
+    "scripture_name": "Kaushitaki Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MAITR",
+    "scripture_name": "Maitri Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MAHAN",
+    "scripture_name": "Mahanarayana Upanishad",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MANU",
+    "scripture_name": "Manusmriti",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MANU",
+    "scripture_name": "Manusmriti",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MANU",
+    "scripture_name": "Manusmriti",
+    "missing_family": "F-BUHLER",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "MANU",
+    "scripture_name": "Manusmriti",
+    "missing_family": "F-JOLLY",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YAJNAV",
+    "scripture_name": "Yajnavalkya Smriti",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YAJNAV",
+    "scripture_name": "Yajnavalkya Smriti",
+    "missing_family": "F-MITAKSHARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YAJNAV",
+    "scripture_name": "Yajnavalkya Smriti",
+    "missing_family": "F-BALAMBHATTA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VISHNU_SM",
+    "scripture_name": "Vishnu Smriti",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "NARADA_SM",
+    "scripture_name": "Narada Smriti",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "PARASHARA",
+    "scripture_name": "Parashara Smriti",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "PARASHARA",
+    "scripture_name": "Parashara Smriti",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "PARASHARA",
+    "scripture_name": "Parashara Smriti",
+    "missing_family": "F-GITAPRESS",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VYASA_SM",
+    "scripture_name": "Vyasa Smriti",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VYASA_SM",
+    "scripture_name": "Vyasa Smriti",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "APASTAMBA_DS",
+    "scripture_name": "Apastamba Dharmasutra",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "BAUDHAYANA_DS",
+    "scripture_name": "Baudhayana Dharmasutra",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "GAUTAMA_DS",
+    "scripture_name": "Gautama Dharmasutra",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VEDANTA_SUTRA",
+    "scripture_name": "Vedanta Sutras",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VEDANTA_SUTRA",
+    "scripture_name": "Vedanta Sutras",
+    "missing_family": "F-SANKARA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VEDANTA_SUTRA",
+    "scripture_name": "Vedanta Sutras",
+    "missing_family": "F-RAMANAUJA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VEDANTA_SUTRA",
+    "scripture_name": "Vedanta Sutras",
+    "missing_family": "F-MADHVA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YOGA_SUTRA",
+    "scripture_name": "Yoga Sutras of Patanjali",
+    "missing_family": "F-CHOWKHAMBA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "YOGA_SUTRA",
+    "scripture_name": "Yoga Sutras of Patanjali",
+    "missing_family": "F-VIVEKANANDA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "NYAYA_SUTRA",
+    "scripture_name": "Nyaya Sutras",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "NYAYA_SUTRA",
+    "scripture_name": "Nyaya Sutras",
+    "missing_family": "F-VATSYAYANA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VAISHESHIKA_SUTRA",
+    "scripture_name": "Vaisheshika Sutras",
+    "missing_family": "F-GRETIL",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "VAISHESHIKA_SUTRA",
+    "scripture_name": "Vaisheshika Sutras",
+    "missing_family": "F-PRASHASTAPADA",
+    "priority": "CRITICAL",
+    "expected_evidence_gain": "Adds independent family, moving from 0 to 1/2",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RV",
+    "scripture_name": "Rgveda-Samhita",
+    "missing_family": "F-MAXMULLER_clean",
+    "priority": "HIGH",
+    "expected_evidence_gain": "Adds independent family, moving from 3 to 4/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "\u015a\u0101kala",
+        "B\u0101\u1e63kala",
+        "\u015a\u0101\u1e45kh\u0101yana",
+        "M\u0101\u1e47\u1e0d\u016bk\u0101yana"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RV",
+    "scripture_name": "Rgveda-Samhita",
+    "missing_family": "F-OLDENBERG-SCHMIDT",
+    "priority": "HIGH",
+    "expected_evidence_gain": "Adds independent family, moving from 3 to 4/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "\u015a\u0101kala",
+        "B\u0101\u1e63kala",
+        "\u015a\u0101\u1e45kh\u0101yana",
+        "M\u0101\u1e47\u1e0d\u016bk\u0101yana"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RV",
+    "scripture_name": "Rgveda-Samhita",
+    "missing_family": "F-VSM-SONTAKKE_complete",
+    "priority": "HIGH",
+    "expected_evidence_gain": "Adds independent family, moving from 3 to 4/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "\u015a\u0101kala",
+        "B\u0101\u1e63kala",
+        "\u015a\u0101\u1e45kh\u0101yana",
+        "M\u0101\u1e47\u1e0d\u016bk\u0101yana"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RV",
+    "scripture_name": "Rgveda-Samhita",
+    "missing_family": "F-BASKALA",
+    "priority": "HIGH",
+    "expected_evidence_gain": "Adds independent family, moving from 3 to 4/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "\u015a\u0101kala",
+        "B\u0101\u1e63kala",
+        "\u015a\u0101\u1e45kh\u0101yana",
+        "M\u0101\u1e47\u1e0d\u016bk\u0101yana"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  },
+  {
+    "scripture_id": "RV",
+    "scripture_name": "Rgveda-Samhita",
+    "missing_family": "F-GELDNER",
+    "priority": "HIGH",
+    "expected_evidence_gain": "Adds independent family, moving from 3 to 4/3",
+    "search_hints": {
+      "publishers": [
+        "Gita Press",
+        "Chowkhamba",
+        "Motilal Banarsidass",
+        "Anandashram",
+        "Venkateshwar Press",
+        "BORI"
+      ],
+      "editors": [
+        "Aufrecht",
+        "Max M\u00fcller",
+        "Oldenberg",
+        "Schmidt",
+        "Lubotsky",
+        "Geldner"
+      ],
+      "recensions": [
+        "\u015a\u0101kala",
+        "B\u0101\u1e63kala",
+        "\u015a\u0101\u1e45kh\u0101yana",
+        "M\u0101\u1e47\u1e0d\u016bk\u0101yana"
+      ],
+      "formats": [
+        "tei_xml",
+        "native_unicode",
+        "pdf",
+        "djvu"
+      ]
+    }
+  }
+]

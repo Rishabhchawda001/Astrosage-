@@ -1,0 +1,33 @@
+{
+  "scripture": "BG",
+  "total_attempts": 2,
+  "survived": 2,
+  "falsified": 0,
+  "inconclusive": 0,
+  "attempts": [
+    {
+      "cuid": "RV-STABILITY",
+      "claim": "No lexical variants between Aufrecht and Lubotsky",
+      "method": "variant_audit",
+      "evidence_searched": [
+        "variant_apparatus_formal.json"
+      ],
+      "result": "survived",
+      "counter_evidence": [],
+      "confidence_change": 0.1,
+      "notes": "All differences are sandhi/segmentation/accent"
+    },
+    {
+      "cuid": "RV-AKSHARA",
+      "claim": "All aksharas verified against Padapatha",
+      "method": "akshara_audit",
+      "evidence_searched": [
+        "akshara_verification.json"
+      ],
+      "result": "survived",
+      "counter_evidence": [],
+      "confidence_change": 0.1,
+      "notes": "No akshara verification problems"
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "RV": {
+    "scripture_id": "RV",
+    "canonical_name": "Rgveda-Samhita",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 3,
+    "total_families_on_disk": 9,
+    "families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-RAMTEK-KKSU",
+      "F-PADAPATHA",
+      "F-KHILA",
+      "F-SAYANA",
+      "F-AUFRECHT",
+      "F-CHOWKHAMBA",
+      "F-VSM-SONTAKKE",
+      "F-MAXMULLER"
+    ],
+    "missing_families": [
+      "F-MAXMULLER_clean",
+      "F-OLDENBERG-SCHMIDT",
+      "F-VSM-SONTAKKE_complete",
+      "F-BASKALA",
+      "F-GELDNER"
+    ],
+    "gap_severity": "HIGH",
+    "can_be_verified": true
+  },
+  "SV": {
+    "scripture_id": "SV",
+    "canonical_name": "Samaveda-Samhita",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-RANAYANIYA",
+      "F-JAIMINIYA",
+      "F-KAUTHUMA_critical"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "YVK": {
+    "scripture_id": "YVK",
+    "canonical_name": "Yajurveda-Krishna",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-TAITTIRIYA",
+      "F-MAITRAYANIYA",
+      "F-KATHA",
+      "F-KAPISHTHALA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "YVS": {
+    "scripture_id": "YVS",
+    "canonical_name": "Yajurveda-Shukla",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-MADHYANDINA",
+      "F-KANVA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "AV": {
+    "scripture_id": "AV",
+    "canonical_name": "Atharvaveda-Samhita",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 2,
+    "families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-SAYANA"
+    ],
+    "missing_families": [
+      "F-SHAUNAKA",
+      "F-PAIPPALADA",
+      "F-BLOOMFIELD"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "BG": {
+    "scripture_id": "BG",
+    "canonical_name": "Bhagavadgita",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 1,
+    "total_families_on_disk": 2,
+    "families_on_disk": [
+      "F-GITAPRESS",
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-BORI",
+      "F-CHOWKHAMBA",
+      "F-MOTILAL",
+      "F-NATIVE_DEVANAGARI"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MBH": {
+    "scripture_id": "MBH",
+    "canonical_name": "Mahabharata",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-BORI_CRITICAL",
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-MOTILAL",
+      "F-KUMBHAKONAM",
+      "F-VENKATESHWAR"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "RM": {
+    "scripture_id": "RM",
+    "canonical_name": "Ramayana",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-BORI_CRITICAL",
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-NIRNITAYA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "HV": {
+    "scripture_id": "HV",
+    "canonical_name": "Harivamsha",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "BHAG": {
+    "scripture_id": "BHAG",
+    "canonical_name": "Bhagavata Purana",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 2,
+    "families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-MOTILAL",
+      "F-BORI"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VISH": {
+    "scripture_id": "VISH",
+    "canonical_name": "Vishnu Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 2,
+    "families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-VENKATESHWAR"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "SHIV": {
+    "scripture_id": "SHIV",
+    "canonical_name": "Shiva Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-VENKATESHWAR"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "DEVI": {
+    "scripture_id": "DEVI",
+    "canonical_name": "Devi Bhagavata Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "AGNI": {
+    "scripture_id": "AGNI",
+    "canonical_name": "Agni Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 2,
+    "families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "missing_families": [
+      "F-GITAPRESS",
+      "F-MOTILAL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "BRAH": {
+    "scripture_id": "BRAH",
+    "canonical_name": "Brahma Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 2,
+    "families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MATS": {
+    "scripture_id": "MATS",
+    "canonical_name": "Matsya Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "KURM": {
+    "scripture_id": "KURM",
+    "canonical_name": "Kurma Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "LING": {
+    "scripture_id": "LING",
+    "canonical_name": "Linga Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MARK": {
+    "scripture_id": "MARK",
+    "canonical_name": "Markandeya Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "NARADA": {
+    "scripture_id": "NARADA",
+    "canonical_name": "Narada Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VAMAN": {
+    "scripture_id": "VAMAN",
+    "canonical_name": "Vamana Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-MOTILAL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VARAH": {
+    "scripture_id": "VARAH",
+    "canonical_name": "Varaha Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VYU": {
+    "scripture_id": "VYU",
+    "canonical_name": "Vayu Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "SKAND": {
+    "scripture_id": "SKAND",
+    "canonical_name": "Skanda Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 2,
+    "families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-RAMTEK-KKSU"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "BRAHMD": {
+    "scripture_id": "BRAHMD",
+    "canonical_name": "Brahmanda Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "KALI": {
+    "scripture_id": "KALI",
+    "canonical_name": "Kalika Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "GARUDA": {
+    "scripture_id": "GARUDA",
+    "canonical_name": "Garuda Purana",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "ISHA": {
+    "scripture_id": "ISHA",
+    "canonical_name": "Isha Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "KEN": {
+    "scripture_id": "KEN",
+    "canonical_name": "Kena Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL",
+      "F-SANKARA",
+      "F-ANANDAGIRI"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "KATH": {
+    "scripture_id": "KATH",
+    "canonical_name": "Katha Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL",
+      "F-SANKARA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "PRASHNA": {
+    "scripture_id": "PRASHNA",
+    "canonical_name": "Prashna Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MUND": {
+    "scripture_id": "MUND",
+    "canonical_name": "Mundaka Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-GRETIL",
+      "F-SANKARA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MAND": {
+    "scripture_id": "MAND",
+    "canonical_name": "Mandukya Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-GRETIL",
+      "F-GAUDPADA",
+      "F-SANKARA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "TAITT": {
+    "scripture_id": "TAITT",
+    "canonical_name": "Taittiriya Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL_Samhita",
+      "F-SANKARA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "AITAREYA": {
+    "scripture_id": "AITAREYA",
+    "canonical_name": "Aitareya Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-SANKARA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "CHAND": {
+    "scripture_id": "CHAND",
+    "canonical_name": "Chandogya Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-GRETIL",
+      "F-SANKARA",
+      "F-GIRI"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "BRIHAD": {
+    "scripture_id": "BRIHAD",
+    "canonical_name": "Brihadaranyaka Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-GRETIL",
+      "F-SANKARA",
+      "F-GIRI",
+      "F-VIDYARANYA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "SHVET": {
+    "scripture_id": "SHVET",
+    "canonical_name": "Shvetashvatara Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-SANKARA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "KAUS": {
+    "scripture_id": "KAUS",
+    "canonical_name": "Kaushitaki Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MAITR": {
+    "scripture_id": "MAITR",
+    "canonical_name": "Maitri Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MAHAN": {
+    "scripture_id": "MAHAN",
+    "canonical_name": "Mahanarayana Upanishad",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "MANU": {
+    "scripture_id": "MANU",
+    "canonical_name": "Manusmriti",
+    "required_independent_families": 3,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-BUHLER",
+      "F-JOLLY"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "YAJNAV": {
+    "scripture_id": "YAJNAV",
+    "canonical_name": "Yajnavalkya Smriti",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-MITAKSHARA",
+      "F-BALAMBHATTA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VISHNU_SM": {
+    "scripture_id": "VISHNU_SM",
+    "canonical_name": "Vishnu Smriti",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "NARADA_SM": {
+    "scripture_id": "NARADA_SM",
+    "canonical_name": "Narada Smriti",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-CHOWKHAMBA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "PARASHARA": {
+    "scripture_id": "PARASHARA",
+    "canonical_name": "Parashara Smriti",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL",
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VYASA_SM": {
+    "scripture_id": "VYASA_SM",
+    "canonical_name": "Vyasa Smriti",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL",
+      "F-CHOWKHAMBA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "APASTAMBA_DS": {
+    "scripture_id": "APASTAMBA_DS",
+    "canonical_name": "Apastamba Dharmasutra",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "BAUDHAYANA_DS": {
+    "scripture_id": "BAUDHAYANA_DS",
+    "canonical_name": "Baudhayana Dharmasutra",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "GAUTAMA_DS": {
+    "scripture_id": "GAUTAMA_DS",
+    "canonical_name": "Gautama Dharmasutra",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VEDANTA_SUTRA": {
+    "scripture_id": "VEDANTA_SUTRA",
+    "canonical_name": "Vedanta Sutras",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL",
+      "F-SANKARA",
+      "F-RAMANAUJA",
+      "F-MADHVA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "YOGA_SUTRA": {
+    "scripture_id": "YOGA_SUTRA",
+    "canonical_name": "Yoga Sutras of Patanjali",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 1,
+    "families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "missing_families": [
+      "F-CHOWKHAMBA",
+      "F-VIVEKANANDA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "NYAYA_SUTRA": {
+    "scripture_id": "NYAYA_SUTRA",
+    "canonical_name": "Nyaya Sutras",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL",
+      "F-VATSYAYANA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  },
+  "VAISHESHIKA_SUTRA": {
+    "scripture_id": "VAISHESHIKA_SUTRA",
+    "canonical_name": "Vaisheshika Sutras",
+    "required_independent_families": 2,
+    "independent_families_on_disk": 0,
+    "total_families_on_disk": 0,
+    "families_on_disk": [],
+    "missing_families": [
+      "F-GRETIL",
+      "F-PRASHASTAPADA"
+    ],
+    "gap_severity": "CRITICAL",
+    "can_be_verified": false
+  }
+}

@@ -1,0 +1,126 @@
+#!/usr/bin/env python3
+"""
+Build complete Bhagavad Gita witness census
+"""
+import json
+from pathlib import Path
+from datetime import datetime, timezone
+
+OUTPUT_DIR = Path("/root/Documents/Codex/2026-07-11/astrosage-name-of-this-thread/astrosage/knowledge/dtc/bhagavad_gita")
+
+def main():
+    census = {
+        "scripture_id": "BG",
+        "canonical_name": "Bhagavadgita",
+        "iast": "Bhagavadgītā",
+        "devanagari": "भगवद्गीता",
+        "generated": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
+        "method_note": "Census built from on-disk files. The 5 GRETIL commentary witnesses all cite the same verse text (1 independent family). Gita Press OCR is a genuinely independent typesetting.",
+        "witness_families": [
+            {
+                "family_id": "F-GRETIL",
+                "name": "GRETIL verse text (base from 5 commentaries)",
+                "type": "saṃhitā",
+                "editors": ["Various commentators (Śaṅkara, Rāmānuja, Bhāskara, etc.)"],
+                "publisher": "GRETIL",
+                "recension": "Northern",
+                "format": "TEI XML (Unicode)",
+                "language": "Sanskrit",
+                "source_type": "native_unicode",
+                "verses": 700,
+                "license": "CC-BY-NC-SA",
+                "authority_score": 0.85,
+                "reliability_score": 0.85,
+                "completeness_score": 1.0,
+                "independent": True,
+                "notes": "5 GRETIL commentary editions all contain identical verse text. Counts as 1 independent saṃhitā base. The verse text is the standard Northern recension.",
+                "stemma_role": "primary saṃhitā base (commentary citations)"
+            },
+            {
+                "family_id": "F-GITAPRESS",
+                "name": "Gita Press Tattva Vivecana (OCR)",
+                "type": "publisher_edition",
+                "editor": ["Jay Dayal Goyandaka"],
+                "publisher": "Gita Press Gorakhpur",
+                "format": "OCR text (DjVuTXT from Archive.org)",
+                "language": "Hindi + Sanskrit",
+                "source_type": "ocr",
+                "verses_extracted": 1251,
+                "verses_expected": 700,
+                "license": "Public Domain",
+                "authority_score": 0.75,
+                "reliability_score": 0.60,
+                "completeness_score": 0.85,
+                "independent": True,
+                "local_file": "bg_gita_press_djvu.txt",
+                "notes": "Genuinely independent typesetting from GRETIL. OCR quality is moderate (mixed Hindi/Sanskrit with some artifacts). Different publisher, different editorial tradition.",
+                "stemma_role": "independent publisher edition; third base (with OCR limitations)"
+            },
+            {
+                "family_id": "F-BORI",
+                "name": "BORI Critical Edition",
+                "type": "critical_edition",
+                "publisher": "Bhandarkar Oriental Research Institute",
+                "format": "Not on disk",
+                "authority_score": 0.98,
+                "reliability_score": 0.95,
+                "independent": True,
+                "acquisition_status": "not_acquired",
+                "notes": "THE critical edition. Highest authority. Not yet acquired.",
+                "stemma_role": "critical edition; highest authority"
+            },
+            {
+                "family_id": "F-CHOWKHAMBA",
+                "name": "Chowkhamba Sanskrit Series edition",
+                "type": "publisher_edition",
+                "publisher": "Chowkhamba",
+                "format": "Not on disk",
+                "independent": True,
+                "acquisition_status": "not_acquired",
+                "notes": "Publisher edition from Chowkhamba. Not yet acquired.",
+                "stemma_role": "publisher edition; potentially independent"
+            },
+            {
+                "family_id": "F-MOTILAL",
+                "name": "Motilal Banarsidass edition",
+                "type": "publisher_edition",
+                "publisher": "Motilal Banarsidass",
+                "format": "Not on disk",
+                "independent": True,
+                "acquisition_status": "not_acquired",
+                "notes": "Publisher edition from Motilal Banarsidass. Not yet acquired.",
+                "stemma_role": "publisher edition; potentially independent"
+            }
+        ],
+        "summary": {
+            "total_witness_families": 5,
+            "independent_families_collatable": 2,
+            "independent_families_total": 5,
+            "independent_families_present": 2,
+            "independent_families_missing": ["F-BORI", "F-CHOWKHAMBA", "F-MOTILAL"],
+            "derived_families": 0,
+            "required_independent": 3,
+            "verification_status": "EVIDENCE_INCOMPLETE",
+            "verification_note": "2 independent families present (F-GRETIL, F-GITAPRESS). Need ≥1 more independent base for full verification. F-BORI (critical edition) would be the ideal addition."
+        },
+        "existing_dtc_data": {
+            "cuids_file": "knowledge/dtc/cuids/BG_cuids.json",
+            "total_cuids": 700,
+            "verses_file": "knowledge/dtc/bhagavad_gita/verses_canonical_v3.json",
+            "collation_file": "knowledge/dtc/bhagavad_gita/collation_summary_v3.json",
+            "variant_apparatus": "knowledge/dtc/bhagavad_gita/variant_apparatus.json"
+        }
+    }
+    
+    output_file = OUTPUT_DIR / "witness_census_complete.json"
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+    with open(output_file, 'w') as f:
+        json.dump(census, f, indent=2, ensure_ascii=False)
+    
+    print(f"BG witness census saved to {output_file}")
+    print(f"Total families: {census['summary']['total_witness_families']}")
+    print(f"Independent (collatable): {census['summary']['independent_families_collatable']}")
+    print(f"Status: {census['summary']['verification_status']}")
+
+if __name__ == '__main__':
+    main()

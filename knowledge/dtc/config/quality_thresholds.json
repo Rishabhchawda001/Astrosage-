@@ -1,0 +1,118 @@
+{
+  "verification_gates": {
+    "witness_family_complete": {
+      "description": "Every known public witness family investigated and characterized",
+      "threshold": 1.0,
+      "measurement": "count_known_families / count_documented_families"
+    },
+    "derivative_collapsed": {
+      "description": "All derivatives collapsed into parent families",
+      "threshold": 1.0,
+      "measurement": "1 - (derivative_files_count / total_files_count)"
+    },
+    "family_mapped": {
+      "description": "Every witness family has stemma relationship mapped",
+      "threshold": 1.0,
+      "measurement": "mapped_families / total_families"
+    },
+    "canonical_units_extracted": {
+      "description": "Every canonical unit extracted from at least one witness",
+      "threshold": 1.0,
+      "measurement": "extracted_units / expected_units"
+    },
+    "cuid_assigned": {
+      "description": "Every canonical unit has permanent CUID",
+      "threshold": 1.0,
+      "measurement": "units_with_cuid / total_units"
+    },
+    "evidence_backed": {
+      "description": "Every canonical unit linked to independent evidence",
+      "threshold": 1.0,
+      "measurement": "units_with_independent_evidence / total_units"
+    },
+    "variants_classified": {
+      "description": "Every difference classified",
+      "threshold": 1.0,
+      "measurement": "classified_variants / total_differences"
+    },
+    "confidence_justified": {
+      "description": "Every confidence score has documented justification",
+      "threshold": 1.0,
+      "measurement": "justified_scores / total_scores"
+    },
+    "gaps_documented": {
+      "description": "Every unresolved gap has explicit evidence-based explanation",
+      "threshold": 1.0,
+      "measurement": "documented_gaps / total_gaps"
+    }
+  },
+  "minimum_independent_families": {
+    "veda": 3,
+    "upanishad": 2,
+    "itihasa": 3,
+    "purana": 2,
+    "smriti": 2,
+    "sutra": 2,
+    "agama": 2,
+    "default": 2
+  },
+  "ocr_quality": {
+    "min_score_for_integration": 30,
+    "min_score_for_collation": 50,
+    "replacement_char_threshold": 0.01,
+    "mojibake_threshold": 0.02,
+    "garbled_sequence_threshold": 0.05
+  },
+  "unicode_validation": {
+    "max_replacement_chars": 0,
+    "max_pua_chars": 0,
+    "require_nfc_normalization": true,
+    "require_valid_devanagari_range": true
+  },
+  "akshara_validation": {
+    "require_padapatha_agreement": true,
+    "allow_sandhi_variance": true,
+    "max_akshara_mismatch_rate": 0.02
+  },
+  "collation_requirements": {
+    "min_independent_families_for_collation": 2,
+    "alignment_method": "canonical_unit_id",
+    "comparison_levels": ["verse", "pada", "word", "akshara", "unicode"],
+    "variant_classification_order": [
+      "encoding",
+      "ocr",
+      "unicode",
+      "spacing",
+      "segmentation",
+      "punctuation",
+      "orthographic",
+      "editorial_normalization",
+      "commentarial_insertion",
+      "publisher_correction",
+      "formatting",
+      "authentic_textual_variant"
+    ]
+  },
+  "confidence_scoring": {
+    "weights": {
+      "independent_families": 0.30,
+      "editorial_quality": 0.15,
+      "critical_edition": 0.15,
+      "native_unicode": 0.10,
+      "agreement": 0.15,
+      "structural_integrity": 0.05,
+      "manuscript_support": 0.05,
+      "metadata_quality": 0.03,
+      "evidence_quality": 0.02
+    },
+    "family_quality_scores": {
+      "critical_edition_native": 1.0,
+      "critical_edition_unicode": 0.95,
+      "scholarly_transcription": 0.9,
+      "publisher_edition_native": 0.8,
+      "publisher_edition_ocr": 0.5,
+      "ocr_derivative": 0.3,
+      "translation_only": 0.1
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "rules": [
+    {
+      "pattern": "Aufrecht|Aufrecht.*1863|Van Nooten|VNH|GRETIL.*Aufrecht",
+      "family_id": "F-AUFRECHT",
+      "base_edition": "Aufrecht 1863 (Leipzig)",
+      "relationship": "original",
+      "notes": "All digitizations, Unicode conversions, OCRs, reprints of Aufrecht 1863 collapse to this family"
+    },
+    {
+      "pattern": "Lubotsky|VedaWeb.*lubotsky",
+      "family_id": "F-LUBOTSKY",
+      "base_edition": "Lubotsky independent transcription (VedaWeb/Zenodo 4601264)",
+      "relationship": "original",
+      "notes": "Genuinely independent of Aufrecht; differs in accentuation/segmentation"
+    },
+    {
+      "pattern": "Max.*Müller|Muller|Müller.*1849|Müller.*1856",
+      "family_id": "F-MAXMULLER",
+      "base_edition": "Max Müller 1849/1856 (London, with Sāyaṇa)",
+      "relationship": "original",
+      "notes": "Independent 19th-c. edition; predates Aufrecht"
+    },
+    {
+      "pattern": "Oldenberg|Schmidt|Oldenberg.*Schmidt|Rig.*Veda.*Textkritische",
+      "family_id": "F-OLDENBERG-SCHMIDT",
+      "base_edition": "Oldenberg & Schmidt, Textkritische und exegetische Noten (Berlin 1909-13)",
+      "relationship": "original",
+      "notes": "Major independent critical apparatus"
+    },
+    {
+      "pattern": "Sontakke|Vaidika.*Samsodhana.*Mandala|Poona.*Vaidika",
+      "family_id": "F-VSM-SONTAKKE",
+      "base_edition": "Vaidika Saṃśodhana Maṇḍala (Sontakke) critical edition",
+      "relationship": "original",
+      "notes": "Independent Indian critical edition; only partial (Mandalas 6-8) on disk"
+    },
+    {
+      "pattern": "Chowkhamba|Chaukhamba|Uma Shankar|Sharma.*1973",
+      "family_id": "F-CHOWKHAMBA",
+      "base_edition": "Chowkhamba Sanskrit Series (Uma Shankar Sharma, 1973)",
+      "relationship": "derived_from:F-AUFRECHT",
+      "notes": "Publisher edition, ultimately based on Aufrecht"
+    },
+    {
+      "pattern": "Ramtek|KKSU|Kavikulguru",
+      "family_id": "F-RAMTEK-KKSU",
+      "base_edition": "Ramtek/KKSU collection",
+      "relationship": "derived_from:F-AUFRECHT",
+      "notes": "OCR of printed edition, likely Aufrecht-based"
+    },
+    {
+      "pattern": "Sontakke.*part|Sontakke.*partial",
+      "family_id": "F-VSM-SONTAKKE",
+      "base_edition": "Sontakke partial",
+      "relationship": "derived_from:F-VSM-SONTAKKE",
+      "notes": "Partial OCR of the VSM edition"
+    },
+    {
+      "pattern": "Sāyaṇa|Sayana|Sayanacarya|Sayanabhashya",
+      "family_id": "F-SAYANA",
+      "base_edition": "Sāyaṇa Bhāṣya (commentary tradition)",
+      "relationship": "commentary",
+      "notes": "Commentarial tradition; not an independent saṃhitā witness"
+    },
+    {
+      "pattern": "Gita.*Press|Gorakhpur.*Press|Gitapress",
+      "family_id": "F-GITAPRESS",
+      "base_edition": "Gita Press Gorakhpur edition",
+      "relationship": "derived_from:F-AUFRECHT",
+      "notes": "Popular Devanagari edition; likely Aufrecht-derived"
+    },
+    {
+      "pattern": "VedaWeb.*zurich|zurich.*layer",
+      "family_id": "F-VEDAWEB-ZURICH",
+      "base_edition": "VedaWeb Zürich layer",
+      "relationship": "transliteration_of:F-LUBOTSKY",
+      "notes": "ISO transliteration of Lubotsky, not independent"
+    },
+    {
+      "pattern": "VedaWeb.*vnh|VNH.*layer",
+      "family_id": "F-AUFRECHT",
+      "base_edition": "VNH layer in VedaWeb",
+      "relationship": "derived_from:F-AUFRECHT",
+      "notes": "VNH = Van Nooten & Holland digitization of Aufrecht"
+    },
+    {
+      "pattern": "Padapatha|Pada.*patha|padapatha",
+      "family_id": "F-PADAPATHA",
+      "base_edition": "Śākala Padapāṭha tradition",
+      "relationship": "parallel_tradition",
+      "notes": "Word-divided tradition; independent textual witness for sandhi resolution"
+    },
+    {
+      "pattern": "Khila|Khilāni|khila",
+      "family_id": "F-KHILA",
+      "base_edition": "Ṛgvedakhilāni (Tokunaga/GRETIL)",
+      "relationship": "supplement",
+      "notes": "Supplemental khila verses; separate tradition"
+    },
+    {
+      "pattern": "Baskala|Bashkala|Bāṣkala",
+      "family_id": "F-BASKALA",
+      "base_edition": "Bāṣkala recension",
+      "relationship": "recension",
+      "notes": "Different recension (śākhā); only Padapāṭha + Upaniṣad survive"
+    }
+  ]
+}

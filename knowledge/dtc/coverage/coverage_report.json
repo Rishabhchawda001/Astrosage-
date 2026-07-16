@@ -1,0 +1,1123 @@
+{
+  "RV": {
+    "scripture_id": "RV",
+    "canonical_name": "Rgveda-Samhita",
+    "category": "Veda",
+    "files_on_disk": 19,
+    "total_bytes": 56923272,
+    "by_file_type": {
+      "text": 11,
+      "tei_xml": 4,
+      "unknown": 3,
+      "archive": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-RAMTEK-KKSU",
+      "F-PADAPATHA",
+      "F-KHILA",
+      "F-SAYANA",
+      "F-AUFRECHT",
+      "F-CHOWKHAMBA",
+      "F-VSM-SONTAKKE",
+      "F-MAXMULLER",
+      "F-LUBOTSKY"
+    ],
+    "independent_families": [
+      "F-PADAPATHA",
+      "F-KHILA",
+      "F-AUFRECHT",
+      "F-VSM-SONTAKKE",
+      "F-MAXMULLER",
+      "F-LUBOTSKY"
+    ],
+    "independent_family_count": 6,
+    "required_independent_families": 3,
+    "expected_verses": 10600,
+    "extracted_units": 10552,
+    "extraction_coverage": 0.9954716981132076,
+    "verification_status": "VERIFIED",
+    "quality_gate_passed": true
+  },
+  "SV": {
+    "scripture_id": "SV",
+    "canonical_name": "Samaveda-Samhita",
+    "category": "Veda",
+    "files_on_disk": 3,
+    "total_bytes": 6043213,
+    "by_file_type": {
+      "text": 2,
+      "tei_xml": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 1875,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "YVK": {
+    "scripture_id": "YVK",
+    "canonical_name": "Yajurveda-Krishna",
+    "category": "Veda",
+    "files_on_disk": 3,
+    "total_bytes": 13539500,
+    "by_file_type": {
+      "text": 3
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "YVS": {
+    "scripture_id": "YVS",
+    "canonical_name": "Yajurveda-Shukla",
+    "category": "Veda",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "AV": {
+    "scripture_id": "AV",
+    "canonical_name": "Atharvaveda-Samhita",
+    "category": "Veda",
+    "files_on_disk": 8,
+    "total_bytes": 12667219,
+    "by_file_type": {
+      "text": 5,
+      "tei_xml": 3
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-SAYANA"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 6000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "BG": {
+    "scripture_id": "BG",
+    "canonical_name": "Bhagavadgita",
+    "category": "Itihasa",
+    "files_on_disk": 50,
+    "total_bytes": 209921753,
+    "by_file_type": {
+      "text": 41,
+      "tei_xml": 9
+    },
+    "witness_families_on_disk": [
+      "F-GITAPRESS",
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [
+      "F-GITAPRESS"
+    ],
+    "independent_family_count": 1,
+    "required_independent_families": 3,
+    "expected_verses": 700,
+    "extracted_units": 700,
+    "extraction_coverage": 1.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MBH": {
+    "scripture_id": "MBH",
+    "canonical_name": "Mahabharata",
+    "category": "Itihasa",
+    "files_on_disk": 3,
+    "total_bytes": 14397249,
+    "by_file_type": {
+      "unknown": 1,
+      "text": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 100000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "RM": {
+    "scripture_id": "RM",
+    "canonical_name": "Ramayana",
+    "category": "Itihasa",
+    "files_on_disk": 6,
+    "total_bytes": 18631788,
+    "by_file_type": {
+      "text": 5,
+      "tei_xml": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 24000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "HV": {
+    "scripture_id": "HV",
+    "canonical_name": "Harivamsha",
+    "category": "Itihasa",
+    "files_on_disk": 6,
+    "total_bytes": 34501905,
+    "by_file_type": {
+      "text": 4,
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 16000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "BHAG": {
+    "scripture_id": "BHAG",
+    "canonical_name": "Bhagavata Purana",
+    "category": "Purana",
+    "files_on_disk": 9,
+    "total_bytes": 36499631,
+    "by_file_type": {
+      "text": 5,
+      "tei_xml": 4
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 18000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VISH": {
+    "scripture_id": "VISH",
+    "canonical_name": "Vishnu Purana",
+    "category": "Purana",
+    "files_on_disk": 12,
+    "total_bytes": 21264269,
+    "by_file_type": {
+      "text": 8,
+      "tei_xml": 4
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 7000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "SHIV": {
+    "scripture_id": "SHIV",
+    "canonical_name": "Shiva Purana",
+    "category": "Purana",
+    "files_on_disk": 11,
+    "total_bytes": 10814726,
+    "by_file_type": {
+      "tei_xml": 5,
+      "text": 6
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 24000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "DEVI": {
+    "scripture_id": "DEVI",
+    "canonical_name": "Devi Bhagavata Purana",
+    "category": "Purana",
+    "files_on_disk": 5,
+    "total_bytes": 15696449,
+    "by_file_type": {
+      "text": 4,
+      "tei_xml": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 18000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "AGNI": {
+    "scripture_id": "AGNI",
+    "canonical_name": "Agni Purana",
+    "category": "Purana",
+    "files_on_disk": 7,
+    "total_bytes": 29279307,
+    "by_file_type": {
+      "text": 5,
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 15000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "BRAH": {
+    "scripture_id": "BRAH",
+    "canonical_name": "Brahma Purana",
+    "category": "Purana",
+    "files_on_disk": 35,
+    "total_bytes": 82186833,
+    "by_file_type": {
+      "text": 20,
+      "tei_xml": 15
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-CHOWKHAMBA"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 14000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MATS": {
+    "scripture_id": "MATS",
+    "canonical_name": "Matsya Purana",
+    "category": "Purana",
+    "files_on_disk": 5,
+    "total_bytes": 17026635,
+    "by_file_type": {
+      "text": 3,
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 14000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "KURM": {
+    "scripture_id": "KURM",
+    "canonical_name": "Kurma Purana",
+    "category": "Purana",
+    "files_on_disk": 6,
+    "total_bytes": 18669124,
+    "by_file_type": {
+      "text": 4,
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 6000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "LING": {
+    "scripture_id": "LING",
+    "canonical_name": "Linga Purana",
+    "category": "Purana",
+    "files_on_disk": 4,
+    "total_bytes": 14733753,
+    "by_file_type": {
+      "text": 3,
+      "tei_xml": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 11000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MARK": {
+    "scripture_id": "MARK",
+    "canonical_name": "Markandeya Purana",
+    "category": "Purana",
+    "files_on_disk": 5,
+    "total_bytes": 9834269,
+    "by_file_type": {
+      "text": 3,
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 9000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "NARADA": {
+    "scripture_id": "NARADA",
+    "canonical_name": "Narada Purana",
+    "category": "Purana",
+    "files_on_disk": 5,
+    "total_bytes": 13949976,
+    "by_file_type": {
+      "tei_xml": 3,
+      "text": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 25000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VAMAN": {
+    "scripture_id": "VAMAN",
+    "canonical_name": "Vamana Purana",
+    "category": "Purana",
+    "files_on_disk": 4,
+    "total_bytes": 8926311,
+    "by_file_type": {
+      "tei_xml": 2,
+      "text": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 10000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VARAH": {
+    "scripture_id": "VARAH",
+    "canonical_name": "Varaha Purana",
+    "category": "Purana",
+    "files_on_disk": 3,
+    "total_bytes": 12348299,
+    "by_file_type": {
+      "text": 3
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 10000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VYU": {
+    "scripture_id": "VYU",
+    "canonical_name": "Vayu Purana",
+    "category": "Purana",
+    "files_on_disk": 6,
+    "total_bytes": 9630640,
+    "by_file_type": {
+      "tei_xml": 2,
+      "text": 4
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 11000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "SKAND": {
+    "scripture_id": "SKAND",
+    "canonical_name": "Skanda Purana",
+    "category": "Purana",
+    "files_on_disk": 9,
+    "total_bytes": 50269038,
+    "by_file_type": {
+      "text": 7,
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED",
+      "F-RAMTEK-KKSU"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 81000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "BRAHMD": {
+    "scripture_id": "BRAHMD",
+    "canonical_name": "Brahmanda Purana",
+    "category": "Purana",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 12000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "KALI": {
+    "scripture_id": "KALI",
+    "canonical_name": "Kalika Purana",
+    "category": "Purana",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 9000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "GARUDA": {
+    "scripture_id": "GARUDA",
+    "canonical_name": "Garuda Purana",
+    "category": "Purana",
+    "files_on_disk": 8,
+    "total_bytes": 19011045,
+    "by_file_type": {
+      "text": 6,
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 19000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "ISHA": {
+    "scripture_id": "ISHA",
+    "canonical_name": "Isha Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 18,
+    "total_bytes": 14813655,
+    "by_file_type": {
+      "text": 12,
+      "tei_xml": 6
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 18,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "KEN": {
+    "scripture_id": "KEN",
+    "canonical_name": "Kena Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 35,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "KATH": {
+    "scripture_id": "KATH",
+    "canonical_name": "Katha Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 120,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "PRASHNA": {
+    "scripture_id": "PRASHNA",
+    "canonical_name": "Prashna Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 64,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MUND": {
+    "scripture_id": "MUND",
+    "canonical_name": "Mundaka Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 2,
+    "total_bytes": 1006971,
+    "by_file_type": {
+      "text": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 64,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MAND": {
+    "scripture_id": "MAND",
+    "canonical_name": "Mandukya Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 4,
+    "total_bytes": 4518978,
+    "by_file_type": {
+      "text": 4
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 12,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "TAITT": {
+    "scripture_id": "TAITT",
+    "canonical_name": "Taittiriya Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "AITAREYA": {
+    "scripture_id": "AITAREYA",
+    "canonical_name": "Aitareya Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 1,
+    "total_bytes": 467293,
+    "by_file_type": {
+      "text": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 33,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "CHAND": {
+    "scripture_id": "CHAND",
+    "canonical_name": "Chandogya Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 3,
+    "total_bytes": 2869326,
+    "by_file_type": {
+      "text": 3
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "BRIHAD": {
+    "scripture_id": "BRIHAD",
+    "canonical_name": "Brihadaranyaka Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 4,
+    "total_bytes": 16290096,
+    "by_file_type": {
+      "text": 4
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "SHVET": {
+    "scripture_id": "SHVET",
+    "canonical_name": "Shvetashvatara Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 2,
+    "total_bytes": 1686718,
+    "by_file_type": {
+      "text": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 113,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "KAUS": {
+    "scripture_id": "KAUS",
+    "canonical_name": "Kaushitaki Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MAITR": {
+    "scripture_id": "MAITR",
+    "canonical_name": "Maitri Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MAHAN": {
+    "scripture_id": "MAHAN",
+    "canonical_name": "Mahanarayana Upanishad",
+    "category": "Upanishad",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "MANU": {
+    "scripture_id": "MANU",
+    "canonical_name": "Manusmriti",
+    "category": "Smriti",
+    "files_on_disk": 5,
+    "total_bytes": 19752375,
+    "by_file_type": {
+      "tei_xml": 2,
+      "text": 3
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 3,
+    "expected_verses": 2685,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "YAJNAV": {
+    "scripture_id": "YAJNAV",
+    "canonical_name": "Yajnavalkya Smriti",
+    "category": "Smriti",
+    "files_on_disk": 3,
+    "total_bytes": 6654365,
+    "by_file_type": {
+      "tei_xml": 1,
+      "text": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 1010,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VISHNU_SM": {
+    "scripture_id": "VISHNU_SM",
+    "canonical_name": "Vishnu Smriti",
+    "category": "Smriti",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 3000,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "NARADA_SM": {
+    "scripture_id": "NARADA_SM",
+    "canonical_name": "Narada Smriti",
+    "category": "Smriti",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 1028,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "PARASHARA": {
+    "scripture_id": "PARASHARA",
+    "canonical_name": "Parashara Smriti",
+    "category": "Smriti",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 500,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VYASA_SM": {
+    "scripture_id": "VYASA_SM",
+    "canonical_name": "Vyasa Smriti",
+    "category": "Smriti",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 250,
+    "extracted_units": 0,
+    "extraction_coverage": 0.0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "APASTAMBA_DS": {
+    "scripture_id": "APASTAMBA_DS",
+    "canonical_name": "Apastamba Dharmasutra",
+    "category": "Sutra",
+    "files_on_disk": 7,
+    "total_bytes": 4789260,
+    "by_file_type": {
+      "tei_xml": 2,
+      "text": 5
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "BAUDHAYANA_DS": {
+    "scripture_id": "BAUDHAYANA_DS",
+    "canonical_name": "Baudhayana Dharmasutra",
+    "category": "Sutra",
+    "files_on_disk": 2,
+    "total_bytes": 2315277,
+    "by_file_type": {
+      "text": 1,
+      "tei_xml": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "GAUTAMA_DS": {
+    "scripture_id": "GAUTAMA_DS",
+    "canonical_name": "Gautama Dharmasutra",
+    "category": "Sutra",
+    "files_on_disk": 2,
+    "total_bytes": 255145,
+    "by_file_type": {
+      "tei_xml": 2
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VEDANTA_SUTRA": {
+    "scripture_id": "VEDANTA_SUTRA",
+    "canonical_name": "Vedanta Sutras",
+    "category": "Sutra",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "YOGA_SUTRA": {
+    "scripture_id": "YOGA_SUTRA",
+    "canonical_name": "Yoga Sutras of Patanjali",
+    "category": "Sutra",
+    "files_on_disk": 3,
+    "total_bytes": 724718,
+    "by_file_type": {
+      "tei_xml": 2,
+      "text": 1
+    },
+    "witness_families_on_disk": [
+      "F-UNCLASSIFIED"
+    ],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "NYAYA_SUTRA": {
+    "scripture_id": "NYAYA_SUTRA",
+    "canonical_name": "Nyaya Sutras",
+    "category": "Sutra",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  },
+  "VAISHESHIKA_SUTRA": {
+    "scripture_id": "VAISHESHIKA_SUTRA",
+    "canonical_name": "Vaisheshika Sutras",
+    "category": "Sutra",
+    "files_on_disk": 0,
+    "total_bytes": 0,
+    "by_file_type": {},
+    "witness_families_on_disk": [],
+    "independent_families": [],
+    "independent_family_count": 0,
+    "required_independent_families": 2,
+    "expected_verses": 0,
+    "extracted_units": 0,
+    "extraction_coverage": 0,
+    "verification_status": "EVIDENCE_INCOMPLETE",
+    "quality_gate_passed": false
+  }
+}

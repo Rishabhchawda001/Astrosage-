@@ -1,0 +1,166 @@
+{
+  "sources": [
+    {
+      "name": "GRETIL",
+      "base_url": "https://www.gretil.uni-halle.de",
+      "accessible": false,
+      "notes": "Currently returns 404 on all URLs. Retry periodically.",
+      "search_method": "catalog_browse",
+      "api": null,
+      "rate_limit": "respectful",
+      "format_preference": ["tei_xml", "xml", "txt"],
+      "license": "CC-BY-NC-SA"
+    },
+    {
+      "name": "Archive.org",
+      "base_url": "https://archive.org",
+      "accessible": true,
+      "search_api": "https://archive.org/advancedsearch.php",
+      "search_method": "advanced_search",
+      "format_preference": ["pdf", "djvu", "txt", "xml"],
+      "rate_limit": "10req/s",
+      "collections": [
+        "gita_press",
+        "chowkhamba",
+        "motilal_banarsidass",
+        "anandashram",
+        "venkateshwar_press",
+        "gorakhpur_press",
+        "nag_prakashan",
+        "veda_mandir",
+        "sanskrit_documents"
+      ],
+      "search_terms": [
+        "{scripture} hindi",
+        "{scripture} देवनागरी",
+        "{scripture} Gita Press",
+        "{scripture} Chowkhamba",
+        "{scripture} Motilal Banarsidass",
+        "{scripture} Anandashram",
+        "{scripture} Sanskrit"
+      ],
+      "license": "public_domain_or_cc"
+    },
+    {
+      "name": "SanskritDocuments.org",
+      "base_url": "https://sanskritdocuments.org",
+      "accessible": true,
+      "search_method": "site_index",
+      "format_preference": ["devanagari_txt", "itrans", "slp1", "pdf"],
+      "license": "free_for_personal_use"
+    },
+    {
+      "name": "SARIT",
+      "base_url": "https://sarit.indology.info",
+      "accessible": false,
+      "notes": "Requires institutional access",
+      "format_preference": ["tei_xml"],
+      "license": "varies"
+    },
+    {
+      "name": "Muktabodha",
+      "base_url": "https://muktabodha.org",
+      "accessible": false,
+      "notes": "Requires registration/access",
+      "format_preference": ["tei_xml", "pdf"],
+      "license": "varies"
+    },
+    {
+      "name": "BORI",
+      "base_url": "https://bori.ac.in",
+      "accessible": false,
+      "notes": "Bhandarkar Oriental Research Institute - requires access",
+      "format_preference": ["tei_xml", "pdf"],
+      "license": "varies"
+    },
+    {
+      "name": "Cologne Digital Sanskrit Lexicon",
+      "base_url": "https://www.sanskrit-lexicon.uni-koeln.de",
+      "accessible": true,
+      "search_method": "direct",
+      "format_preference": ["xml", "txt"],
+      "license": "free"
+    },
+    {
+      "name": "GitHub",
+      "base_url": "https://github.com",
+      "accessible": true,
+      "search_method": "code_search",
+      "api": "https://api.github.com/search/code",
+      "format_preference": ["xml", "json", "txt", "tei"],
+      "search_terms": [
+        "{scripture} tei",
+        "{scripture} xml",
+        "{scripture} unicode",
+        "{scripture} sanskrit"
+      ],
+      "license": "varies"
+    },
+    {
+      "name": "Zenodo",
+      "base_url": "https://zenodo.org",
+      "accessible": true,
+      "search_method": "api",
+      "api": "https://zenodo.org/api/records",
+      "format_preference": ["tei_xml", "xml", "json"],
+      "search_terms": [
+        "{scripture}",
+        "{scripture} vedic",
+        "{scripture} sanskrit"
+      ],
+      "license": "varies"
+    },
+    {
+      "name": "Open Library",
+      "base_url": "https://openlibrary.org",
+      "accessible": true,
+      "search_method": "search_api",
+      "api": "https://openlibrary.org/search.json",
+      "format_preference": ["pdf", "epub"],
+      "license": "varies"
+    },
+    {
+      "name": "WorldCat",
+      "base_url": "https://worldcat.org",
+      "accessible": true,
+      "search_method": "metadata_search",
+      "format_preference": ["metadata_only"],
+      "license": "metadata_only"
+    },
+    {
+      "name": "Digital Library of India",
+      "base_url": "https://www.dli.gov.in",
+      "accessible": true,
+      "search_method": "browse",
+      "format_preference": ["pdf", "txt"],
+      "license": "public_domain"
+    },
+    {
+      "name": "HathiTrust",
+      "base_url": "https://www.hathitrust.org",
+      "accessible": true,
+      "search_method": "metadata_api",
+      "api": "https://catalog.hathitrust.org/api",
+      "format_preference": ["metadata", "pdf"],
+      "license": "public_domain_or_view_only"
+    },
+    {
+      "name": "Crossref",
+      "base_url": "https://api.crossref.org",
+      "accessible": true,
+      "search_method": "doi_search",
+      "api": "https://api.crossref.org/works",
+      "format_preference": ["metadata"],
+      "license": "metadata"
+    },
+    {
+      "name": "OpenAlex",
+      "base_url": "https://api.openalex.org",
+      "accessible": true,
+      "search_method": "works_search",
+      "api": "https://api.openalex.org/works",
+      "format_preference": ["metadata"],
+      "license": "open"
+    }
+  ]
+}

@@ -1,0 +1,828 @@
+{
+  "scriptures": [
+    {
+      "id": "RV",
+      "canonical_name": "Rgveda-Samhita",
+      "iast": "Ṛgvedasaṃhitā",
+      "devanagari": "ऋग्वेदसंहिता",
+      "priority": 1,
+      "category": "Veda",
+      "expected_structure": {
+        "mandalas": 10,
+        "suktas": 1028,
+        "verses_approx": 10600,
+        "recensions": ["Śākala", "Bāṣkala", "Śāṅkhāyana", "Māṇḍūkāyana"]
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": ["F-AUFRECHT", "F-LUBOTSKY", "F-PADAPATHA", "F-KHILA"],
+      "missing_families": ["F-MAXMULLER_clean", "F-OLDENBERG-SCHMIDT", "F-VSM-SONTAKKE_complete", "F-BASKALA", "F-GELDNER"]
+    },
+    {
+      "id": "SV",
+      "canonical_name": "Samaveda-Samhita",
+      "iast": "Sāmavedasaṃhitā",
+      "devanagari": "सामवेदसंहिता",
+      "priority": 2,
+      "category": "Veda",
+      "expected_structure": {
+        "kandas": 2,
+        "prapathakas": null,
+        "verses_approx": 1875,
+        "recensions": ["Kauthuma", "Ranayaniya", "Jaiminiya"]
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": ["GRETIL_Kauthuma"],
+      "missing_families": ["F-RANAYANIYA", "F-JAIMINIYA", "F-KAUTHUMA_critical"]
+    },
+    {
+      "id": "YVK",
+      "canonical_name": "Yajurveda-Krishna",
+      "iast": "Yajurveda-Kṛṣṇa",
+      "devanagari": "यजुर्वेद-कृष्ण",
+      "priority": 2,
+      "category": "Veda",
+      "expected_structure": {
+        "kandas": 7,
+        "prapathakas": 44,
+        "recensions": ["Taittiriya", "Maitrayaniya", "Katha", "Kapishthala"]
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": [],
+      "missing_families": ["F-TAITTIRIYA", "F-MAITRAYANIYA", "F-KATHA", "F-KAPISHTHALA"]
+    },
+    {
+      "id": "YVS",
+      "canonical_name": "Yajurveda-Shukla",
+      "iast": "Yajurveda-Śukla",
+      "devanagari": "यजुर्वेद-शुक्ल",
+      "priority": 2,
+      "category": "Veda",
+      "expected_structure": {
+        "adhyayas": 40,
+        "recensions": ["Vajasaneyi-Madhyandina", "Vajasaneyi-Kanva"]
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": [],
+      "missing_families": ["F-MADHYANDINA", "F-KANVA"]
+    },
+    {
+      "id": "AV",
+      "canonical_name": "Atharvaveda-Samhita",
+      "iast": "Atharvavedasaṃhitā",
+      "devanagari": "अथर्ववेदसंहिता",
+      "priority": 2,
+      "category": "Veda",
+      "expected_structure": {
+        "kandas": 20,
+        "suktas": 730,
+        "verses_approx": 6000,
+        "recensions": ["Shaunaka", "Paippalada"]
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": ["GRETIL_Parisishta"],
+      "missing_families": ["F-SHAUNAKA", "F-PAIPPALADA", "F-BLOOMFIELD"]
+    },
+    {
+      "id": "BG",
+      "canonical_name": "Bhagavadgita",
+      "iast": "Bhagavadgītā",
+      "devanagari": "भगवद्गीता",
+      "priority": 1,
+      "category": "Itihasa",
+      "expected_structure": {
+        "adhyayas": 18,
+        "verses": 700
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": ["F-GRETIL", "F-GITAPRESS"],
+      "missing_families": ["F-BORI", "F-CHOWKHAMBA", "F-MOTILAL", "F-NATIVE_DEVANAGARI"]
+    },
+    {
+      "id": "MBH",
+      "canonical_name": "Mahabharata",
+      "iast": "Mahābhārata",
+      "devanagari": "महाभारत",
+      "priority": 1,
+      "category": "Itihasa",
+      "expected_structure": {
+        "parvas": 18,
+        "adhyayas": 2300,
+        "verses_approx": 100000,
+        "critical_edition": "BORI"
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": [],
+      "missing_families": ["F-BORI_CRITICAL", "F-CHOWKHAMBA", "F-GITAPRESS", "F-MOTILAL", "F-KUMBHAKONAM", "F-VENKATESHWAR"]
+    },
+    {
+      "id": "RM",
+      "canonical_name": "Ramayana",
+      "iast": "Rāmāyaṇa",
+      "devanagari": "रामायण",
+      "priority": 2,
+      "category": "Itihasa",
+      "expected_structure": {
+        "kandas": 7,
+        "sargas": 500,
+        "verses_approx": 24000,
+        "recensions": ["Northern", "Southern", "Western", "Northeastern"]
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-BORI_CRITICAL", "F-CHOWKHAMBA", "F-GITAPRESS", "F-NIRNITAYA"]
+    },
+    {
+      "id": "HV",
+      "canonical_name": "Harivamsha",
+      "iast": "Harivaṃśa",
+      "devanagari": "हरिवंश",
+      "priority": 3,
+      "category": "Itihasa",
+      "expected_structure": {
+        "parvas": 3,
+        "adhyayas": 118,
+        "verses_approx": 16000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "BHAG",
+      "canonical_name": "Bhagavata Purana",
+      "iast": "Bhāgavata Purāṇa",
+      "devanagari": "भागवत पुराण",
+      "priority": 1,
+      "category": "Purana",
+      "expected_structure": {
+        "skandhas": 12,
+        "adhyayas": 335,
+        "verses_approx": 18000
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": [],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-MOTILAL", "F-BORI"]
+    },
+    {
+      "id": "VISH",
+      "canonical_name": "Vishnu Purana",
+      "iast": "Viṣṇu Purāṇa",
+      "devanagari": "विष्णु पुराण",
+      "priority": 2,
+      "category": "Purana",
+      "expected_structure": {
+        "amshas": 6,
+        "adhyayas": 126,
+        "verses_approx": 7000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-VENKATESHWAR"]
+    },
+    {
+      "id": "SHIV",
+      "canonical_name": "Shiva Purana",
+      "iast": "Śiva Purāṇa",
+      "devanagari": "शिव पुराण",
+      "priority": 2,
+      "category": "Purana",
+      "expected_structure": {
+        "samhitas": 7,
+        "adhyayas": 245,
+        "verses_approx": 24000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-VENKATESHWAR"]
+    },
+    {
+      "id": "DEVI",
+      "canonical_name": "Devi Bhagavata Purana",
+      "iast": "Devī Bhāgavata Purāṇa",
+      "devanagari": "देवी भागवत पुराण",
+      "priority": 2,
+      "category": "Purana",
+      "expected_structure": {
+        "skandhas": 12,
+        "adhyayas": 318,
+        "verses_approx": 18000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "AGNI",
+      "canonical_name": "Agni Purana",
+      "iast": "Agni Purāṇa",
+      "devanagari": "अग्नि पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 383,
+        "verses_approx": 15000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "CHOWKHAMBA_OCR"],
+      "missing_families": ["F-GITAPRESS", "F-MOTILAL"]
+    },
+    {
+      "id": "BRAH",
+      "canonical_name": "Brahma Purana",
+      "iast": "Brahma Purāṇa",
+      "devanagari": "ब्रह्म पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 246,
+        "verses_approx": 14000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "MATS",
+      "canonical_name": "Matsya Purana",
+      "iast": "Matsya Purāṇa",
+      "devanagari": "मत्स्य पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 291,
+        "verses_approx": 14000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "DLI_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "KURM",
+      "canonical_name": "Kurma Purana",
+      "iast": "Kūrma Purāṇa",
+      "devanagari": "कूर्म पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 117,
+        "verses_approx": 6000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "DLI_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "LING",
+      "canonical_name": "Linga Purana",
+      "iast": "Liṅga Purāṇa",
+      "devanagari": "लिङ्ग पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 163,
+        "verses_approx": 11000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "DLI_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "MARK",
+      "canonical_name": "Markandeya Purana",
+      "iast": "Mārkaṇḍeya Purāṇa",
+      "devanagari": "मार्कण्डेय पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 137,
+        "verses_approx": 9000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "DLI_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "NARADA",
+      "canonical_name": "Narada Purana",
+      "iast": "Nārada Purāṇa",
+      "devanagari": "नारद पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 207,
+        "verses_approx": 25000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "VAMAN",
+      "canonical_name": "Vamana Purana",
+      "iast": "Vāmana Purāṇa",
+      "devanagari": "वामन पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 95,
+        "verses_approx": 10000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "DLI_OCR", "GITAPRESS_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-MOTILAL"]
+    },
+    {
+      "id": "VARAH",
+      "canonical_name": "Varaha Purana",
+      "iast": "Varāha Purāṇa",
+      "devanagari": "वराह पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 217,
+        "verses_approx": 10000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["DLI_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-GRETIL"]
+    },
+    {
+      "id": "VYU",
+      "canonical_name": "Vayu Purana",
+      "iast": "Vāyu Purāṇa",
+      "devanagari": "वायु पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 112,
+        "verses_approx": 11000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["MITRA_1880_OCR", "DLI_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-GRETIL"]
+    },
+    {
+      "id": "SKAND",
+      "canonical_name": "Skanda Purana",
+      "iast": "Skanda Purāṇa",
+      "devanagari": "स्कन्द पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "khandas": 7,
+        "adhyayas": 81,
+        "verses_approx": 81000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["DLI_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-GRETIL"]
+    },
+    {
+      "id": "BRAHMD",
+      "canonical_name": "Brahmanda Purana",
+      "iast": "Brahmāṇḍa Purāṇa",
+      "devanagari": "ब्रह्माण्ड पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 150,
+        "verses_approx": 12000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-GRETIL"]
+    },
+    {
+      "id": "KALI",
+      "canonical_name": "Kalika Purana",
+      "iast": "Kālikā Purāṇa",
+      "devanagari": "कालिका पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 98,
+        "verses_approx": 9000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-GRETIL"]
+    },
+    {
+      "id": "GARUDA",
+      "canonical_name": "Garuda Purana",
+      "iast": "Garuda Purāṇa",
+      "devanagari": "गरुड पुराण",
+      "priority": 3,
+      "category": "Purana",
+      "expected_structure": {
+        "adhyayas": 279,
+        "verses_approx": 19000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "ISHA",
+      "canonical_name": "Isha Upanishad",
+      "iast": "Īśa Upaniṣad",
+      "devanagari": "ईशोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "verses": 18
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": []
+    },
+    {
+      "id": "KEN",
+      "canonical_name": "Kena Upanishad",
+      "iast": "Kena Upaniṣad",
+      "devanagari": "केनोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "khandas": 4,
+        "verses": 35
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-SANKARA", "F-ANANDAGIRI"]
+    },
+    {
+      "id": "KATH",
+      "canonical_name": "Katha Upanishad",
+      "iast": "Kaṭha Upaniṣad",
+      "devanagari": "कठोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "adhyayas": 2,
+        "vallas": 6,
+        "verses": 120
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-SANKARA"]
+    },
+    {
+      "id": "PRASHNA",
+      "canonical_name": "Prashna Upanishad",
+      "iast": "Praśna Upaniṣad",
+      "devanagari": "प्रश्नोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "prashnas": 6,
+        "verses": 64
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL"]
+    },
+    {
+      "id": "MUND",
+      "canonical_name": "Mundaka Upanishad",
+      "iast": "Muṇḍaka Upaniṣad",
+      "devanagari": "मुण्डकोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "mundakas": 3,
+        "khandas": 2,
+        "verses": 64
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-SANKARA"]
+    },
+    {
+      "id": "MAND",
+      "canonical_name": "Mandukya Upanishad",
+      "iast": "Māṇḍūkya Upaniṣad",
+      "devanagari": "माण्डूक्योपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "verses": 12
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-GAUDPADA", "F-SANKARA"]
+    },
+    {
+      "id": "TAITT",
+      "canonical_name": "Taittiriya Upanishad",
+      "iast": "Taittirīya Upaniṣad",
+      "devanagari": "तैत्तिरीयोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "vallis": 3,
+        "anuvakas": 31
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL_Bhashya"],
+      "missing_families": ["F-GRETIL_Samhita", "F-SANKARA"]
+    },
+    {
+      "id": "AITAREYA",
+      "canonical_name": "Aitareya Upanishad",
+      "iast": "Aitareya Upaniṣad",
+      "devanagari": "ऐतरेयोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "adhyayas": 3,
+        "verses": 33
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-SANKARA"]
+    },
+    {
+      "id": "CHAND",
+      "canonical_name": "Chandogya Upanishad",
+      "iast": "Chāndogya Upaniṣad",
+      "devanagari": "छान्दोग्योपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "prapathakas": 8,
+        "khandas": 220
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-SANKARA", "F-GIRI"]
+    },
+    {
+      "id": "BRIHAD",
+      "canonical_name": "Brihadaranyaka Upanishad",
+      "iast": "Bṛhadāraṇyaka Upaniṣad",
+      "devanagari": "बृहदारण्यकोपनिषद्",
+      "priority": 1,
+      "category": "Upanishad",
+      "expected_structure": {
+        "adhyayas": 6,
+        "brahmanas": 44
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-SANKARA", "F-GIRI", "F-VIDYARANYA"]
+    },
+    {
+      "id": "SHVET",
+      "canonical_name": "Shvetashvatara Upanishad",
+      "iast": "Śvetāśvatara Upaniṣad",
+      "devanagari": "श्वेताश्वतरोपनिषद्",
+      "priority": 2,
+      "category": "Upanishad",
+      "expected_structure": {
+        "adhyayas": 6,
+        "verses": 113
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-SANKARA"]
+    },
+    {
+      "id": "KAUS",
+      "canonical_name": "Kaushitaki Upanishad",
+      "iast": "Kauṣītaki Upaniṣad",
+      "devanagari": "कौषीतकि उपनिषद्",
+      "priority": 2,
+      "category": "Upanishad",
+      "expected_structure": {
+        "adhyayas": 4
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL"]
+    },
+    {
+      "id": "MAITR",
+      "canonical_name": "Maitri Upanishad",
+      "iast": "Maitrī Upaniṣad",
+      "devanagari": "मैत्री उपनिषद्",
+      "priority": 2,
+      "category": "Upanishad",
+      "expected_structure": {
+        "prapathakas": 7
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL"]
+    },
+    {
+      "id": "MAHAN",
+      "canonical_name": "Mahanarayana Upanishad",
+      "iast": "Mahānārāyaṇa Upaniṣad",
+      "devanagari": "महानारायण उपनिषद्",
+      "priority": 2,
+      "category": "Upanishad",
+      "expected_structure": {
+        "anuvakas": 80
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL"]
+    },
+    {
+      "id": "MANU",
+      "canonical_name": "Manusmriti",
+      "iast": "Manusmṛti",
+      "devanagari": "मनुस्मृति",
+      "priority": 2,
+      "category": "Smriti",
+      "expected_structure": {
+        "adhyayas": 12,
+        "verses": 2685
+      },
+      "required_independent_families": 3,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA", "F-GITAPRESS", "F-BUHLER", "F-JOLLY"]
+    },
+    {
+      "id": "YAJNAV",
+      "canonical_name": "Yajnavalkya Smriti",
+      "iast": "Yājñavalkya Smṛti",
+      "devanagari": "याज्ञवल्क्य स्मृति",
+      "priority": 2,
+      "category": "Smriti",
+      "expected_structure": {
+        "adhyayas": 3,
+        "verses": 1010
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "BOMBAY_OCR"],
+      "missing_families": ["F-CHOWKHAMBA", "F-MITAKSHARA", "F-BALAMBHATTA"]
+    },
+    {
+      "id": "VISHNU_SM",
+      "canonical_name": "Vishnu Smriti",
+      "iast": "Viṣṇu Smṛti",
+      "devanagari": "विष्णु स्मृति",
+      "priority": 3,
+      "category": "Smriti",
+      "expected_structure": {
+        "adhyayas": 100,
+        "verses": 3000
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "CHOWKHAMBA_OCR"],
+      "missing_families": ["F-GITAPRESS"]
+    },
+    {
+      "id": "NARADA_SM",
+      "canonical_name": "Narada Smriti",
+      "iast": "Nārada Smṛti",
+      "devanagari": "नारद स्मृति",
+      "priority": 3,
+      "category": "Smriti",
+      "expected_structure": {
+        "adhyayas": 21,
+        "verses": 1028
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA"]
+    },
+    {
+      "id": "PARASHARA",
+      "canonical_name": "Parashara Smriti",
+      "iast": "Parāśara Smṛti",
+      "devanagari": "पराशर स्मृति",
+      "priority": 3,
+      "category": "Smriti",
+      "expected_structure": {
+        "adhyayas": 12,
+        "verses": 500
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-CHOWKHAMBA", "F-GITAPRESS"]
+    },
+    {
+      "id": "VYASA_SM",
+      "canonical_name": "Vyasa Smriti",
+      "iast": "Vyāsa Smṛti",
+      "devanagari": "व्यास स्मृति",
+      "priority": 3,
+      "category": "Smriti",
+      "expected_structure": {
+        "adhyayas": 4,
+        "verses": 250
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-CHOWKHAMBA"]
+    },
+    {
+      "id": "APASTAMBA_DS",
+      "canonical_name": "Apastamba Dharmasutra",
+      "iast": "Āpastamba Dharmasūtra",
+      "devanagari": "आपस्तम्ब धर्मसूत्र",
+      "priority": 3,
+      "category": "Sutra",
+      "expected_structure": {
+        "prashnas": 2,
+        "adhyayas": 30
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA"]
+    },
+    {
+      "id": "BAUDHAYANA_DS",
+      "canonical_name": "Baudhayana Dharmasutra",
+      "iast": "Baudhāyana Dharmasūtra",
+      "devanagari": "बौधायन धर्मसूत्र",
+      "priority": 3,
+      "category": "Sutra",
+      "expected_structure": {
+        "prashnas": 4,
+        "adhyayas": 28
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA"]
+    },
+    {
+      "id": "GAUTAMA_DS",
+      "canonical_name": "Gautama Dharmasutra",
+      "iast": "Gautama Dharmasūtra",
+      "devanagari": "गौतम धर्मसूत्र",
+      "priority": 3,
+      "category": "Sutra",
+      "expected_structure": {
+        "adhyayas": 28
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL"],
+      "missing_families": ["F-CHOWKHAMBA"]
+    },
+    {
+      "id": "VEDANTA_SUTRA",
+      "canonical_name": "Vedanta Sutras",
+      "iast": "Vedānta Sūtra",
+      "devanagari": "वेदान्त सूत्र",
+      "priority": 2,
+      "category": "Sutra",
+      "expected_structure": {
+        "adhyayas": 4,
+        "padas": 16,
+        "sutras": 555
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-SANKARA", "F-RAMANAUJA", "F-MADHVA"]
+    },
+    {
+      "id": "YOGA_SUTRA",
+      "canonical_name": "Yoga Sutras of Patanjali",
+      "iast": "Yoga Sūtra",
+      "devanagari": "योग सूत्र",
+      "priority": 2,
+      "category": "Sutra",
+      "expected_structure": {
+        "padas": 4,
+        "sutras": 196
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": ["GRETIL", "GRETIL_Bhashya"],
+      "missing_families": ["F-CHOWKHAMBA", "F-VIVEKANANDA"]
+    },
+    {
+      "id": "NYAYA_SUTRA",
+      "canonical_name": "Nyaya Sutras",
+      "iast": "Nyāya Sūtra",
+      "devanagari": "न्याय सूत्र",
+      "priority": 3,
+      "category": "Sutra",
+      "expected_structure": {
+        "adhyayas": 5,
+        "sutras": 528
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-VATSYAYANA"]
+    },
+    {
+      "id": "VAISHESHIKA_SUTRA",
+      "canonical_name": "Vaisheshika Sutras",
+      "iast": "Vaiśeṣika Sūtra",
+      "devanagari": "वैशेषिक सूत्र",
+      "priority": 3,
+      "category": "Sutra",
+      "expected_structure": {
+        "adhyayas": 10,
+        "sutras": 370
+      },
+      "required_independent_families": 2,
+      "known_families_on_disk": [],
+      "missing_families": ["F-GRETIL", "F-PRASHASTAPADA"]
+    }
+  ]
+}
