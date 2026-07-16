@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-07-16T19:00:00Z",
+  "scriptures_validated": 54,
+  "source_files_verified": 54,
+  "unicode_issues_found": 0,
+  "parser_issues_found": 0,
+  "evidence_chains_complete": 0,
+  "issues": [
+    "APASTAMBA_DS: No Devanagari found (IAST text: 1318 lines)",
+    "BAUDHAYANA_DS: No Devanagari found (IAST text: 1684 lines)",
+    "BG: No Devanagari found (IAST text: 7486 lines)",
+    "GAUTAMA_DS: No Devanagari found (IAST text: 1509 lines)",
+    "ISHA: No Devanagari found (IAST text: 267 lines)",
+    "KEN: No Devanagari or IAST found",
+    "MAITR: No Devanagari or IAST found",
+    "MANU: No Devanagari or IAST found",
+    "MUND: No Devanagari or IAST found",
+    "PARASHARA: No Devanagari or IAST found",
+    "RV: No Devanagari found (IAST text: 22024 lines)",
+    "VISHNU_SM: No Devanagari found (IAST text: 6631 lines)",
+    "VYU: No Devanagari found (IAST text: 16966 lines)",
+    "YOGA_SUTRA: No Devanagari found (IAST text: 195 lines)"
+  ]
+}

@@ -311,7 +311,8 @@
       },
       "hash": "d2ac464eb8a616c5",
       "certification": "CERTIFIED",
-      "note": "English translation by Vidyavachaspati V. Panoli (lines 17300-17977 of Upanishads_110.txt)"
+      "note": "3 sources: Upanishads_110.txt (369 English), Madhva Bhasya (1708 Devanagari verse-lines), DLI (0), Ananda Bhashya (94)",
+      "madhva_verses": 1708
     },
     "KAUS": {
       "scripture": "KAUS",
@@ -741,7 +742,8 @@
       },
       "hash": null,
       "certification": "PROVISIONALLY_CERTIFIED",
-      "note": "Two DLI OCR sources. 247 numbered sutras extracted. Expected ~370 sutras across 10 adhyayas."
+      "note": "Sources: DLI sutras (247 numbered), DLI Vritti commentary, Prashastapada Bhashya (6742 Devanagari lines)",
+      "prashastapada_lines": 6742
     },
     "VAMAN": {
       "scripture": "VAMAN",
