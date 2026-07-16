@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "files": {
+    "graph_statistics.json": {
+      "size": 355
+    },
+    "nodes/entity_nodes.json": {
+      "size": 16426
+    },
+    "nodes/scripture_nodes.json": {
+      "size": 18917
+    },
+    "edges/relationship_edges.json": {
+      "size": 11696
+    },
+    "indexes/entity_index.json": {
+      "size": 5297
+    },
+    "validation/devanagari_entity_mentions.json": {
+      "size": 1758
+    },
+    "validation/entity_mentions.json": {
+      "size": 2
+    },
+    "schemas/graph_schema.json": {
+      "size": 3385
+    }
+  }
+}

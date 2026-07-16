@@ -1,0 +1,431 @@
+[
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "4f43f3cf-9127-4447-a3d9-407af6afc9b0",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "99c4c289-0ff4-4ee1-80e2-198f3b9f9519",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "efb07718-4232-43f6-a873-abbf970f82e5",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Karma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "73785140-76a5-466b-aa0d-5d55a5712f67",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "0354100d-b82b-4c14-936c-d30d5c023f95",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Moksha"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "1ab32360-1109-4155-8a07-cb623f097485",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "0d3b28f0-1341-4550-bf8e-d90b64c82008",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Yoga"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "9581cf1e-cb2f-45d7-ba0b-d1bcb47e8017",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "6cf09ec8-10ba-46aa-a2f5-00157a7b375f",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Bhakti"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "51020350-2758-4f2d-a094-b68d7d5a4be1",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "bd5d10e5-e709-4e82-9dcb-6e45ef8c5c13",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Jnana"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "7afabfef-1208-4cf4-b276-0fc5c9610a0f",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "7f1d4074-fa0c-4cf5-8424-27c3f0768c22",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Atman"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "bc17730f-c4d7-4ddb-a493-d485be66fe4b",
+    "source": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+    "target": "bcbaa4c2-ce7b-44b9-ac83-38656176d03e",
+    "evidence": {
+      "scripture": "BG",
+      "concept": "Brahman"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "c2e67b88-64c1-44e6-8443-67adffbbb9b3",
+    "source": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "target": "0d3b28f0-1341-4550-bf8e-d90b64c82008",
+    "evidence": {
+      "scripture": "YOGA_SUTRA",
+      "concept": "Yoga"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "4688c491-0a0a-47a0-8926-5d9b4717b61a",
+    "source": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "target": "42886704-f0f6-43ee-af3c-a63a54fbd15c",
+    "evidence": {
+      "scripture": "YOGA_SUTRA",
+      "concept": "Prakriti"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "a521224d-1de7-4104-9713-e5de25000461",
+    "source": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "target": "9c3b73e4-6616-4f6c-a7b7-265fdca83e99",
+    "evidence": {
+      "scripture": "YOGA_SUTRA",
+      "concept": "Purusha"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "8eb848ba-a79e-491a-844f-a32bb7b1d853",
+    "source": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "target": "584b8682-d595-4b39-9ee6-7b9572991628",
+    "evidence": {
+      "scripture": "YOGA_SUTRA",
+      "concept": "Gunas"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "60ed2306-2499-491f-b577-b8506ac05431",
+    "source": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "scripture": "MANU",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "9402d4a0-86c0-450e-883c-2000a860cb93",
+    "source": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "target": "1dbf6a8e-7839-4904-9e48-0a9a54bc077f",
+    "evidence": {
+      "scripture": "MANU",
+      "concept": "Varna"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "a977f979-c3f8-4fe2-a820-9a2fbc2a384d",
+    "source": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "target": "20d71025-6a54-4681-a82f-329ceb718a41",
+    "evidence": {
+      "scripture": "MANU",
+      "concept": "Ashrama"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "419539c9-4a37-44ee-a0d5-96e9b8441294",
+    "source": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "target": "34cd6985-a876-4aa8-96a4-521213e8b7b2",
+    "evidence": {
+      "scripture": "MANU",
+      "concept": "Samskara"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "854ec979-a950-4d49-9ea0-9a5fe5ec3525",
+    "source": "ec74e6db-8960-44b6-98f0-8e21990bf4c3",
+    "target": "bcbaa4c2-ce7b-44b9-ac83-38656176d03e",
+    "evidence": {
+      "scripture": "VEDANTA_SUTRA",
+      "concept": "Brahman"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "afa0fc44-306f-44bb-9a20-e64105ce637e",
+    "source": "ec74e6db-8960-44b6-98f0-8e21990bf4c3",
+    "target": "7f1d4074-fa0c-4cf5-8424-27c3f0768c22",
+    "evidence": {
+      "scripture": "VEDANTA_SUTRA",
+      "concept": "Atman"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "263b65c8-07ee-4093-9f39-fee33b525e93",
+    "source": "ec74e6db-8960-44b6-98f0-8e21990bf4c3",
+    "target": "1e46f88c-fc86-4f3f-97a4-4d59aefa8005",
+    "evidence": {
+      "scripture": "VEDANTA_SUTRA",
+      "concept": "Maya"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "605197ef-f936-4f36-9791-f9b0ba364e0b",
+    "source": "bc7bd914-78d5-4710-8314-ba91485a8380",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "scripture": "RM",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "571eadeb-5b6d-492b-a996-8f845a89918a",
+    "source": "bc7bd914-78d5-4710-8314-ba91485a8380",
+    "target": "efb07718-4232-43f6-a873-abbf970f82e5",
+    "evidence": {
+      "scripture": "RM",
+      "concept": "Karma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "4347d372-198c-481b-8697-2fe18f840524",
+    "source": "277b8b82-c0f0-43a8-9e81-b6705fd048b9",
+    "target": "6cf09ec8-10ba-46aa-a2f5-00157a7b375f",
+    "evidence": {
+      "scripture": "BHAG",
+      "concept": "Bhakti"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "01d07783-1400-4dd6-9d6c-04b6676828c2",
+    "source": "277b8b82-c0f0-43a8-9e81-b6705fd048b9",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "scripture": "BHAG",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "9695a143-8bd3-4cec-ae99-7d921751c51e",
+    "source": "277b8b82-c0f0-43a8-9e81-b6705fd048b9",
+    "target": "efb07718-4232-43f6-a873-abbf970f82e5",
+    "evidence": {
+      "scripture": "BHAG",
+      "concept": "Karma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "863412e1-75a1-464c-8f4b-cbbd9d691f24",
+    "source": "277b8b82-c0f0-43a8-9e81-b6705fd048b9",
+    "target": "0354100d-b82b-4c14-936c-d30d5c023f95",
+    "evidence": {
+      "scripture": "BHAG",
+      "concept": "Moksha"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "52e3bca6-4e44-4de5-b7cb-ad694a67641c",
+    "source": "a2709848-a80c-410b-96f6-86094188b92b",
+    "target": "0d3b28f0-1341-4550-bf8e-d90b64c82008",
+    "evidence": {
+      "scripture": "SHIV",
+      "concept": "Yoga"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "0d03c7e1-af98-4040-93f5-707c10cf2cac",
+    "source": "a2709848-a80c-410b-96f6-86094188b92b",
+    "target": "0a0eaaf8-f9ad-4ea9-ac70-01147b56ecc3",
+    "evidence": {
+      "scripture": "SHIV",
+      "concept": "Tapas"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "eb5a27d8-0370-4bc9-8046-a4d850f515ea",
+    "source": "691516a0-1908-4b53-9a8d-741153c282f1",
+    "target": "6cf09ec8-10ba-46aa-a2f5-00157a7b375f",
+    "evidence": {
+      "scripture": "VISH",
+      "concept": "Bhakti"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "eedb6700-f6ef-43fc-b7d9-d0af04faec74",
+    "source": "691516a0-1908-4b53-9a8d-741153c282f1",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "scripture": "VISH",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "72a17b75-f7a3-482e-94ef-6fcb471d62d3",
+    "source": "82c6e9af-3525-4769-a52d-cd7f197b8edb",
+    "target": "6cf09ec8-10ba-46aa-a2f5-00157a7b375f",
+    "evidence": {
+      "deity": "Vishnu",
+      "concept": "Bhakti"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "0ad4fec8-067a-4edb-84db-ba26e52cc6b3",
+    "source": "82c6e9af-3525-4769-a52d-cd7f197b8edb",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "deity": "Vishnu",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "f02bfeca-44ee-4f51-a05e-76eda2877555",
+    "source": "6df0f370-abae-431f-9140-1e886de2aa91",
+    "target": "0d3b28f0-1341-4550-bf8e-d90b64c82008",
+    "evidence": {
+      "deity": "Shiva",
+      "concept": "Yoga"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "a2a03caf-6c44-47b4-bb90-3a2a15beff1c",
+    "source": "6df0f370-abae-431f-9140-1e886de2aa91",
+    "target": "0a0eaaf8-f9ad-4ea9-ac70-01147b56ecc3",
+    "evidence": {
+      "deity": "Shiva",
+      "concept": "Tapas"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "7bbc7694-f79b-4222-ae8b-6f6043b55eaf",
+    "source": "b4297448-9ca5-4e1c-b8c0-e0fcc8e6377f",
+    "target": "6cf09ec8-10ba-46aa-a2f5-00157a7b375f",
+    "evidence": {
+      "deity": "Krishna",
+      "concept": "Bhakti"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "af6713de-25d6-4239-9954-acbd8ba49853",
+    "source": "b4297448-9ca5-4e1c-b8c0-e0fcc8e6377f",
+    "target": "0d3b28f0-1341-4550-bf8e-d90b64c82008",
+    "evidence": {
+      "deity": "Krishna",
+      "concept": "Yoga"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "51eb1e7e-f1a5-47b7-bc02-6432220b3eb2",
+    "source": "b4297448-9ca5-4e1c-b8c0-e0fcc8e6377f",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "deity": "Krishna",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "c8fdb1db-166c-4e12-bba0-927db2074cbb",
+    "source": "b4297448-9ca5-4e1c-b8c0-e0fcc8e6377f",
+    "target": "efb07718-4232-43f6-a873-abbf970f82e5",
+    "evidence": {
+      "deity": "Krishna",
+      "concept": "Karma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "90db2c5e-1521-4960-a2fd-7e07d4f1b9c9",
+    "source": "7da2aeae-e023-46bc-aa05-41200cc1d5d2",
+    "target": "545c0044-9123-4100-9acc-3cc0162dbe70",
+    "evidence": {
+      "deity": "Rama",
+      "concept": "Dharma"
+    },
+    "confidence": 70
+  },
+  {
+    "type": "MENTIONS_CONCEPT",
+    "GUID": "ebddd5f5-624c-4d6d-a2f9-173265a777f8",
+    "source": "7da2aeae-e023-46bc-aa05-41200cc1d5d2",
+    "target": "b3e47d3f-555e-40f9-88c1-daf2edb6432c",
+    "evidence": {
+      "deity": "Rama",
+      "concept": "Ahimsa"
+    },
+    "confidence": 70
+  }
+]

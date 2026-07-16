@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "generated": "2026-07-16T18:26:06.441185",
+  "nodes": {
+    "scriptures": 54,
+    "entities": 109,
+    "total": 163
+  },
+  "edges": {
+    "total": 39
+  },
+  "entity_breakdown": {
+    "Deity": 31,
+    "Place": 25,
+    "Concept": 33,
+    "Person": 20
+  },
+  "evidence": {
+    "verified_entities": 20,
+    "total_verified_mentions": 4869
+  },
+  "files": 10
+}

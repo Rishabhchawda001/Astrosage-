@@ -1,0 +1,132 @@
+{
+  "version": "1.0",
+  "created": "2026-07-16T18:23:15.362104",
+  "description": "AstroSage Hindu Knowledge Graph Schema",
+  "node_types": {
+    "CanonicalUnit": {
+      "description": "A verified unit of scripture text (verse, sutra, mantra, etc.)"
+    },
+    "Scripture": {
+      "description": "A canonical Hindu scripture"
+    },
+    "Person": {
+      "description": "A named individual (king, sage, deity, etc.)"
+    },
+    "Deity": {
+      "description": "A divine being"
+    },
+    "Place": {
+      "description": "A geographic location"
+    },
+    "Concept": {
+      "description": "A philosophical or theological concept"
+    },
+    "Event": {
+      "description": "A described event"
+    },
+    "Commentary": {
+      "description": "A commentary on scripture"
+    },
+    "Text": {
+      "description": "A named text or scripture"
+    },
+    "School": {
+      "description": "A philosophical or theological school"
+    },
+    "Ritual": {
+      "description": "A ritual or practice"
+    },
+    "Dynasty": {
+      "description": "A royal lineage"
+    },
+    "Yuga": {
+      "description": "A cosmic age"
+    },
+    "Weapon": {
+      "description": "A described weapon"
+    },
+    "Animal": {
+      "description": "A described animal"
+    },
+    "Plant": {
+      "description": "A described plant"
+    },
+    "Astronomy": {
+      "description": "An astronomical entity"
+    }
+  },
+  "edge_types": {
+    "PART_OF": {
+      "description": "Structural containment"
+    },
+    "MENTIONED_IN": {
+      "description": "Entity appears in canonical unit"
+    },
+    "SPOKEN_BY": {
+      "description": "Text spoken by a person"
+    },
+    "OCCURS_IN": {
+      "description": "Event occurs in place"
+    },
+    "FATHER_OF": {
+      "description": "Parent-child relationship"
+    },
+    "MOTHER_OF": {
+      "description": "Parent-child relationship"
+    },
+    "TEACHER_OF": {
+      "description": "Teacher-student relationship"
+    },
+    "STUDENT_OF": {
+      "description": "Student-teacher relationship"
+    },
+    "MARRIED_TO": {
+      "description": "Marriage relationship"
+    },
+    "RULES": {
+      "description": "King rules kingdom"
+    },
+    "INCARNATION_OF": {
+      "description": "Avatar relationship"
+    },
+    "COMMENTARY_ON": {
+      "description": "Commentary linked to base text"
+    },
+    "REFERENCES": {
+      "description": "One text references another"
+    },
+    "LOCATED_IN": {
+      "description": "Entity located in place"
+    },
+    "FLOWING_INTO": {
+      "description": "River flows into another"
+    },
+    "BELONGS_TO": {
+      "description": "Membership in dynasty/school"
+    },
+    "CREATOR_OF": {
+      "description": "Creator/author"
+    },
+    "MENTIONS_CONCEPT": {
+      "description": "Verse mentions concept"
+    },
+    "MENTIONS_PLACE": {
+      "description": "Verse mentions place"
+    },
+    "MENTIONS_PERSON": {
+      "description": "Verse mentions person"
+    },
+    "MENTIONS_EVENT": {
+      "description": "Verse mentions event"
+    }
+  },
+  "properties": {
+    "GUID": "UUID v4 for every graph object",
+    "CUID": "Canonical Unit ID for text units",
+    "provenance": "Source scripture, chapter, verse, witness, edition",
+    "confidence": "0-100 score based on evidence",
+    "language": "Sanskrit, English, IAST",
+    "script": "Devanagari, IAST, SLP1",
+    "evidence_chain": "Complete chain from graph object to source file"
+  }
+}

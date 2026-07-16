@@ -1,0 +1,137 @@
+{
+  "Person:Arjuna": {
+    "count": 13,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Krishna": {
+    "count": 321,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Bhima": {
+    "count": 382,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Yudhishthira": {
+    "count": 141,
+    "sources": [
+      "MBH"
+    ]
+  },
+  "Person:Nakula": {
+    "count": 44,
+    "sources": [
+      "MBH"
+    ]
+  },
+  "Person:Sahadeva": {
+    "count": 57,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Duryodhana": {
+    "count": 139,
+    "sources": [
+      "MBH"
+    ]
+  },
+  "Person:Karna": {
+    "count": 95,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Drona": {
+    "count": 176,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Bhishma": {
+    "count": 190,
+    "sources": [
+      "MBH"
+    ]
+  },
+  "Person:Rama": {
+    "count": 2576,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Sita": {
+    "count": 132,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Hanuman": {
+    "count": 2,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Ravana": {
+    "count": 94,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Indra": {
+    "count": 239,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Vishnu": {
+    "count": 75,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Shiva": {
+    "count": 62,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Brahma": {
+    "count": 63,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Surya": {
+    "count": 23,
+    "sources": [
+      "MBH",
+      "RM"
+    ]
+  },
+  "Person:Lakshmana": {
+    "count": 45,
+    "sources": [
+      "RM"
+    ]
+  }
+}
