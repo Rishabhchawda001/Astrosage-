@@ -1,42 +1,24 @@
 {
-  "version": "2.0",
-  "generated": "2026-07-16T18:32:54.201059",
+  "version": "3.0",
+  "generated": "2026-07-16T18:43:06.861938",
   "nodes": {
     "scriptures": 54,
-    "entities": 78,
-    "total": 132
+    "entities": 203,
+    "total": 257
   },
   "edges": {
-    "total": 97
+    "total": 4755
   },
   "entity_breakdown": {
-    "Deity": 18,
-    "Person": 23,
-    "Place": 17,
-    "Concept": 20
+    "Deity": 26,
+    "Person": 58,
+    "Animal": 17,
+    "Place": 40,
+    "Weapon": 19,
+    "Concept": 36,
+    "Dynasty": 7
   },
-  "total_mentions": 551936,
-  "files_scanned": 30,
-  "source_distribution": {
-    "AGNI": 77,
-    "SKAND": 77,
-    "BRAH": 76,
-    "MATS": 76,
-    "DEVI": 75,
-    "GARUDA": 75,
-    "KURM": 75,
-    "VISH": 75,
-    "BHAG": 74,
-    "NARADA": 74,
-    "LING": 73,
-    "VARAH": 73,
-    "MBH": 72,
-    "HV": 70,
-    "BRAHMD": 69,
-    "SHIV": 69,
-    "VAMAN": 69,
-    "RM": 64,
-    "PRASHNA": 59,
-    "YVS": 57
-  }
+  "total_mentions": 751218,
+  "files_scanned": 54,
+  "verified_entities": 203
 }
