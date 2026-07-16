@@ -1,1101 +1,2733 @@
 [
   {
     "type": "Deity",
-    "GUID": "82c6e9af-3525-4769-a52d-cd7f197b8edb",
+    "GUID": "b701dba7-0328-4536-8083-10e44a77fdd7",
     "name": "Vishnu",
-    "provenance": [
-      "traditional_knowledge"
+    "mentions": 31713,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "6df0f370-abae-431f-9140-1e886de2aa91",
+    "GUID": "4ed6138a-308d-431e-89a0-2a7d6eed34cf",
     "name": "Shiva",
-    "provenance": [
-      "traditional_knowledge"
+    "mentions": 55327,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "3aeffd85-e4b4-4ec3-82bf-f9f44c27abe9",
+    "GUID": "e0464b1a-cfb7-4855-bce3-875aca6d9cf3",
     "name": "Brahma",
-    "provenance": [
-      "traditional_knowledge",
-      "traditional_knowledge"
+    "mentions": 20366,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "04f4c073-7416-4987-9585-054e93f94741",
-    "name": "Indra",
-    "provenance": [
-      "traditional_knowledge"
+    "GUID": "3930632e-23dd-4459-afc1-46f0f75d6b5f",
+    "name": "Rama",
+    "mentions": 14623,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "27b0db0b-323c-4863-a2fa-a912bbc2989c",
-    "name": "Agni",
-    "provenance": [
-      "traditional_knowledge"
+    "GUID": "93d7fde6-c9a0-45da-beb3-879fd4141bdf",
+    "name": "Krishna",
+    "mentions": 16004,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "4ad91ef1-e4bb-4f0a-941c-b663ccfc8e51",
-    "name": "Varuna",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "b7223080-3bb4-49d2-bbbd-979bdb1ab5db",
-    "name": "Surya",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "bf3334de-4e31-40ce-862d-7820fed26651",
-    "name": "Chandra",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "6df335b2-f4d9-41c6-b4d9-7a2243a5c81e",
+    "GUID": "c9924cb0-fafa-4281-abd2-54e59efa4106",
     "name": "Ganesha",
-    "provenance": [
-      "traditional_knowledge"
+    "mentions": 1687,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "ef05e4a2-bd2a-44cf-871b-273d7d4d2011",
-    "name": "Kartikeya",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "4e2d1bce-748d-4734-b97e-9d3cc8d47e4f",
-    "name": "Hanuman",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "7da2aeae-e023-46bc-aa05-41200cc1d5d2",
-    "name": "Rama",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "b4297448-9ca5-4e1c-b8c0-e0fcc8e6377f",
-    "name": "Krishna",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "a534226f-b4c9-494b-82f7-59de3e812ddb",
-    "name": "Balarama",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "ad569ee0-0b74-4862-a9ad-1a2e1cb8a988",
+    "GUID": "7a56a817-1aad-4a52-b628-bae88ce5fc25",
     "name": "Durga",
-    "provenance": [
-      "traditional_knowledge"
+    "mentions": 4552,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "4c5a7f9a-cdfa-4cae-8187-244d0316a849",
+    "GUID": "76f978f6-b216-46e3-8f83-a7ad72a44edb",
     "name": "Lakshmi",
-    "provenance": [
-      "traditional_knowledge"
+    "mentions": 28068,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "confidence": 80
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Deity",
-    "GUID": "d3be8ce6-bcb7-4a73-835d-7e84775c6f27",
+    "GUID": "583250b6-b663-4f5a-8d3e-14651e299bc4",
     "name": "Saraswati",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "2b3a451c-9897-45a8-a56e-4bf4839769ee",
-    "name": "Parvati",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "cd4030bf-adda-4886-830a-8a3ee7f6f497",
-    "name": "Sita",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "ef92314d-aaae-4cec-81fd-8c4f0d47a648",
-    "name": "Radha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "9ff5bd22-4be7-45c4-899f-4acc61bdff08",
-    "name": "Narayana",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "9c6bdd00-384c-4716-9fe2-16a7eaaa2f81",
-    "name": "Hari",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "d9517b5b-6afe-44ef-8d74-97ad1443a01f",
-    "name": "Hara",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "a51ce976-6c08-425c-b8aa-1ae480c4bee7",
-    "name": "Maheshvara",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "cbec9ac1-6c72-4b2c-bdf0-05c3c3a80cee",
-    "name": "Ishvara",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "489fa077-8ce2-4034-9594-08aa7089ac34",
-    "name": "Vayu",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "930ad6db-a15b-42b2-af47-c3484190f61a",
-    "name": "Yama",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "81a366cf-f25c-4042-89be-48ec50873317",
-    "name": "Kubera",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "4bddb139-12e3-4cb7-97b8-7428f4a7e9fd",
-    "name": "Nirriti",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "f2ae7670-35ea-476d-8366-9fa3cc074e26",
-    "name": "Prithvi",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Deity",
-    "GUID": "36b3b467-b7ab-45b0-9868-d19fdffb57ec",
-    "name": "Dyaus",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "ad806169-9fd1-48e8-a738-1d6093d7b775",
-    "name": "Kurukshetra",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "6298024c-b92f-4805-9f97-f41c2d7d7737",
-    "name": "Hastinapura",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "c91d030b-ee1f-4c10-bc3e-503a3d8efbd8",
-    "name": "Indraprastha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "3286e4c3-ec08-4260-bad5-4c8cfbf4c441",
-    "name": "Dvaraka",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "112f52c2-6356-493d-ace6-ef9fd33ec02a",
-    "name": "Mathura",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "5f4df0cb-99da-4953-a53e-cca2397f8551",
-    "name": "Ayodhya",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "a39d24dd-a8d6-4db0-aebd-120310630bc7",
-    "name": "Lanka",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "654e8279-fb17-48a4-adad-1dd93b969f05",
-    "name": "Kishkindha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "d37f2133-ea24-4630-8d72-4caa141eb6bd",
-    "name": "Panchavati",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "faedba55-f017-4466-a5ec-cd4a6472be3c",
-    "name": "Kashi",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "d798514f-d918-4563-8787-7410bfe302ae",
-    "name": "Varanasi",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "ddd8cd01-c26d-4cc3-8968-64cea7426703",
-    "name": "Haridwar",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "0920ffd0-ebf4-44df-88af-808342c01cb0",
-    "name": "Prayaga",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "9f7a4a47-48a4-4f94-b1b9-df1552c5e54f",
-    "name": "Ujjain",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "c57f9279-b8fe-4c53-a9ca-8468d2b99cf3",
-    "name": "Meru",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "a2f6956e-881a-473a-ba6b-194da2df66ad",
-    "name": "Kailasa",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "fd7c23b2-b766-4ece-a6f4-c29a0c29416d",
-    "name": "Vaikuntha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "352087c1-fcb9-451e-b47e-3483c53e2275",
-    "name": "Brahmaloka",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "0197399c-375c-4ca8-8265-519abcec9f15",
-    "name": "Ganga",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "7635f02e-7475-484c-ada1-8415681a6adf",
-    "name": "Yamuna",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "d2471162-f2f8-4f9d-a847-75dcdbd33b69",
-    "name": "Sarasvati",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "5558350b-1e94-4c97-9c96-e17098e73c4a",
-    "name": "Narmada",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "73e7d3b8-3ee7-4577-8ae8-637f39917c35",
-    "name": "Godavari",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "7b15208f-9367-445b-91e2-b07ea24a8f40",
-    "name": "Naimisha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Place",
-    "GUID": "a0dbeddb-9cdc-4f82-a63b-3e7a8d69f11b",
-    "name": "Naimisharanya",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "545c0044-9123-4100-9acc-3cc0162dbe70",
-    "name": "Dharma",
-    "provenance": [
-      "traditional_knowledge",
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "efb07718-4232-43f6-a873-abbf970f82e5",
-    "name": "Karma",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "0354100d-b82b-4c14-936c-d30d5c023f95",
-    "name": "Moksha",
-    "provenance": [
-      "traditional_knowledge",
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "7f1d4074-fa0c-4cf5-8424-27c3f0768c22",
-    "name": "Atman",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "bcbaa4c2-ce7b-44b9-ac83-38656176d03e",
-    "name": "Brahman",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "6cf09ec8-10ba-46aa-a2f5-00157a7b375f",
-    "name": "Bhakti",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "bd5d10e5-e709-4e82-9dcb-6e45ef8c5c13",
-    "name": "Jnana",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "0d3b28f0-1341-4550-bf8e-d90b64c82008",
-    "name": "Yoga",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "0a0eaaf8-f9ad-4ea9-ac70-01147b56ecc3",
-    "name": "Tapas",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "7cb26339-0674-4d81-b046-8a349cc36081",
-    "name": "Dana",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "b3e47d3f-555e-40f9-88c1-daf2edb6432c",
-    "name": "Ahimsa",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "6c862ca1-c9e1-4d64-b117-b9a77597d0d4",
-    "name": "Satya",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "51030a80-9bda-4756-9754-3f7be754468f",
-    "name": "Rta",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "95636437-650c-42cb-ab90-a4b4846948d7",
-    "name": "Shraddha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "34cd6985-a876-4aa8-96a4-521213e8b7b2",
-    "name": "Samskara",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "1dbf6a8e-7839-4904-9e48-0a9a54bc077f",
-    "name": "Varna",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "20d71025-6a54-4681-a82f-329ceb718a41",
-    "name": "Ashrama",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "42886704-f0f6-43ee-af3c-a63a54fbd15c",
-    "name": "Prakriti",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "9c3b73e4-6616-4f6c-a7b7-265fdca83e99",
-    "name": "Purusha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "1e46f88c-fc86-4f3f-97a4-4d59aefa8005",
-    "name": "Maya",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "584b8682-d595-4b39-9ee6-7b9572991628",
-    "name": "Gunas",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "c3e0214f-a9f1-4b20-ac74-00ec55b8d583",
-    "name": "Sattva",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "ace6d45b-97c3-4e3c-b81a-820bdf0bc834",
-    "name": "Rajas",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "dc73e063-2448-4c73-b01f-d6fef7ebc32c",
-    "name": "Tamas",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "1ce6d8be-6e40-42da-98c5-63df910e44f5",
-    "name": "Samsara",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "ea5c2bf8-bfc7-4614-a7a4-dff354d3334a",
-    "name": "Nishkama Karma",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "8614e920-2d76-4edc-959f-29f1053a7d4c",
-    "name": "Purushartha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "1fbf40bb-b770-4fc6-84ad-7fce9c71d3db",
-    "name": "Artha",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "193cde55-4ff4-4a30-a6ff-71a6dd74a8df",
-    "name": "Kama",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "85dadef3-f742-4586-b695-af1e89acea30",
-    "name": "Pancha Mahabhuta",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "58b5304a-11cd-46aa-bdc4-2eca180af5ed",
-    "name": "Prana",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "f7ccdbe7-4797-40b8-a1b4-1096d3594b87",
-    "name": "Chakra",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Concept",
-    "GUID": "3c03e584-3227-4d96-9f5e-1845f4695594",
-    "name": "Kundalini",
-    "provenance": [
-      "traditional_knowledge"
-    ],
-    "confidence": 80
-  },
-  {
-    "type": "Person",
-    "GUID": "e9b4a902-6bc0-48bc-baf6-e47f19ecf44b",
-    "name": "Arjuna",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 13,
-    "verified_sources": [
+    "mentions": 1472,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
       "MBH",
-      "RM"
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "d350f7fd-2477-4f8e-9159-43c6fd3e26ff",
-    "name": "Krishna",
     "provenance": [
-      "devanagari_text_scan"
+      "text_extraction"
     ],
-    "confidence": 90,
-    "verified_mentions": 321,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
-    "type": "Person",
-    "GUID": "91dba130-7bdf-4d76-a047-a2e106bd877e",
-    "name": "Bhima",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 382,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "d372dd40-84a7-4f59-b1f1-17f5c210baab",
-    "name": "Yudhishthira",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 141,
-    "verified_sources": [
-      "MBH"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "82464ecc-7414-4219-be4d-1584fe81d662",
-    "name": "Nakula",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 44,
-    "verified_sources": [
-      "MBH"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "839f3171-cf40-4c05-a8fe-fc05c93e9e09",
-    "name": "Sahadeva",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 57,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "9ef7c216-4ed0-44ca-83bf-d467d75e6f7f",
-    "name": "Duryodhana",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 139,
-    "verified_sources": [
-      "MBH"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "453279aa-84f1-49e4-bf8c-db816820c110",
-    "name": "Karna",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 95,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "0e8c5bc1-fbff-4cce-94f2-7b6dd5de72a9",
-    "name": "Drona",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 176,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "c87d6131-30e7-4eda-8f34-3e026d8856d2",
-    "name": "Bhishma",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 190,
-    "verified_sources": [
-      "MBH"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "039478f4-9eb8-4407-9046-e78ed98db4f4",
-    "name": "Rama",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 2576,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "1ebd476b-62e4-426e-be32-d47fb16608eb",
-    "name": "Sita",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 132,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "b4f62472-73c9-412c-8a38-c153c3300e05",
-    "name": "Hanuman",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 2,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "2655e473-a0ca-4ee4-8a49-3ba8cc99be20",
-    "name": "Ravana",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 94,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "fd545f4b-0097-4c6f-aca9-6e59c719789c",
+    "type": "Deity",
+    "GUID": "c8894df0-902b-4872-8339-f92b2bc367c5",
     "name": "Indra",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 239,
-    "verified_sources": [
+    "mentions": 11979,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
       "MBH",
-      "RM"
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
-    "type": "Person",
-    "GUID": "d22a4055-4a0e-454a-b3d8-81175280412e",
-    "name": "Vishnu",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 75,
-    "verified_sources": [
+    "type": "Deity",
+    "GUID": "db3db0af-9815-41dd-a7f7-a167adbfe9da",
+    "name": "Agni",
+    "mentions": 8051,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
       "MBH",
-      "RM"
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
-    "type": "Person",
-    "GUID": "c07045c6-f434-4d2d-8b5a-76bd673d7edd",
-    "name": "Shiva",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 62,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "10f39ab1-dabd-4b28-90ef-05f177217295",
-    "name": "Brahma",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 63,
-    "verified_sources": [
-      "MBH",
-      "RM"
-    ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
-  },
-  {
-    "type": "Person",
-    "GUID": "dbebe156-ae35-454c-8c6f-6e9e03071d17",
+    "type": "Deity",
+    "GUID": "8e41b060-f631-4647-9efe-eae85f9ff9b0",
     "name": "Surya",
-    "provenance": [
-      "devanagari_text_scan"
-    ],
-    "confidence": 90,
-    "verified_mentions": 23,
-    "verified_sources": [
+    "mentions": 16480,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
       "MBH",
-      "RM"
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Deity",
+    "GUID": "a929ddf0-fc0a-46b9-8802-803c3fc7ff2d",
+    "name": "Chandra",
+    "mentions": 13191,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Deity",
+    "GUID": "85dd334c-451c-4183-8b82-3649f9f30855",
+    "name": "Vayu",
+    "mentions": 6043,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Deity",
+    "GUID": "50e20095-5f74-4b6d-a030-85a22b447c06",
+    "name": "Yama",
+    "mentions": 64047,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Deity",
+    "GUID": "55b3fd0b-c238-452c-9c70-057272e70b13",
+    "name": "Naga",
+    "mentions": 15831,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Deity",
+    "GUID": "04a4b52f-4219-442d-84e6-78f7545babc5",
+    "name": "Garuda",
+    "mentions": 1686,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Deity",
+    "GUID": "9b106ce8-416e-4896-a9e7-45df618a7b66",
+    "name": "Subrahmanya",
+    "mentions": 1929,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   },
   {
     "type": "Person",
-    "GUID": "5d46f2fc-8ae7-4628-be82-e59693a32707",
-    "name": "Lakshmana",
+    "GUID": "4ecf53e7-31d2-441d-a12f-ab04e778c572",
+    "name": "Arjuna",
+    "mentions": 2222,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
     "provenance": [
-      "devanagari_text_scan"
+      "text_extraction"
     ],
-    "confidence": 90,
-    "verified_mentions": 45,
-    "verified_sources": [
-      "RM"
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "e8b49b8b-ddd7-40fe-8a8d-24f786965c5a",
+    "name": "Bhima",
+    "mentions": 1493,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
     ],
-    "evidence_status": "VERIFIED_FROM_TEXT"
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "8026c988-ca8e-4736-ae04-3e7bda2d9422",
+    "name": "Yudhishthira",
+    "mentions": 910,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "cfef10f7-c784-477b-8442-69177b4f48cd",
+    "name": "Nakula",
+    "mentions": 205,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "5eb52518-5857-4641-9388-b42a1a26692c",
+    "name": "Sahadeva",
+    "mentions": 262,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "RM",
+      "SKAND",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "97f87dfd-fae7-4f3a-95e3-9671872de481",
+    "name": "Duryodhana",
+    "mentions": 374,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "f59f7091-0232-4e86-9f0d-022cb938b0a9",
+    "name": "Karna",
+    "mentions": 2474,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "0947c3ea-78e4-4953-92b3-cdfd1598f23a",
+    "name": "Drona",
+    "mentions": 532,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YAJNAV",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "f3317e1e-e63d-4463-9fb9-a227054bf85e",
+    "name": "Bhishma",
+    "mentions": 612,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "c9d9542b-a80b-4d56-a6c2-c5923a6df700",
+    "name": "Sita",
+    "mentions": 957,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "871b316b-52b0-482e-a215-573c9adadd7d",
+    "name": "Lakshmana",
+    "mentions": 538,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "4285664f-2bb5-4dd8-b967-c95285583520",
+    "name": "Hanuman",
+    "mentions": 170,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "DEVI",
+      "GARUDA",
+      "KURM",
+      "MATS",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "bbe1ef23-e266-4a91-8141-fce13a1c12d8",
+    "name": "Ravana",
+    "mentions": 1018,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "7b909da3-4577-4347-85c6-50dddb4adbe0",
+    "name": "Vibhishana",
+    "mentions": 162,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "a8c684a4-e445-45e1-ac75-cdf3ab6c6300",
+    "name": "Valmiki",
+    "mentions": 88,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "DEVI",
+      "KURM",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SKAND",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "c66510c1-8a50-41df-bd5b-067738ba511e",
+    "name": "Vyasa",
+    "mentions": 3859,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "9ae8dccb-bef9-42a7-825c-e9c8a86b2423",
+    "name": "Parashurama",
+    "mentions": 340,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "6171b24c-6201-4cf9-b690-fa725df17de0",
+    "name": "Shuka",
+    "mentions": 6316,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "e1206047-6fad-4d05-9c39-8ce397b6fc0b",
+    "name": "Narada",
+    "mentions": 5713,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "e7d23738-af49-475d-97ae-f171a70c41bf",
+    "name": "Dasharatha",
+    "mentions": 292,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VARAH",
+      "VISH",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "8f5748d0-dca6-4768-a44b-fc6785f12bbe",
+    "name": "Shravana",
+    "mentions": 2250,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "878e1afb-cbad-44d7-8db0-21ee6fe45767",
+    "name": "Kurukshetra",
+    "mentions": 396,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "b619ec47-f950-4d6d-a153-9fb851fa9633",
+    "name": "Hastinapura",
+    "mentions": 117,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "DEVI",
+      "HV",
+      "KURM",
+      "MATS",
+      "MBH",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "bd40e965-b58f-4751-a14d-537606c78ce6",
+    "name": "Ayodhya",
+    "mentions": 340,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "45622904-2733-40ad-b153-1988763d79fa",
+    "name": "Mathura",
+    "mentions": 638,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VARAH",
+      "VISH",
+      "YVK"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "3995c708-0788-4cf2-b22e-ed62b6f8cc08",
+    "name": "Dvaraka",
+    "mentions": 807,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "43365d0a-6d62-47d0-ae5b-3854c1fbfe84",
+    "name": "Kashi",
+    "mentions": 1445,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "5d4c7eff-28a6-4f4d-81b4-ef168a5f6e68",
+    "name": "Meru",
+    "mentions": 959,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "8042f1f3-3ed9-47f1-a643-393712956386",
+    "name": "Kailasa",
+    "mentions": 556,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "7d5d3861-b19e-4484-803e-a485941f28f4",
+    "name": "Yamuna",
+    "mentions": 633,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "4e4eb8b3-e2e0-4bbf-9348-2cdab57490ca",
+    "name": "Narmada",
+    "mentions": 796,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "NARADA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "b2028ef8-e122-47d6-aee9-3cea99d8ba75",
+    "name": "Himalaya",
+    "mentions": 632,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "a5e754c8-463f-482f-91c1-a1dc7520942d",
+    "name": "Vindhyas",
+    "mentions": 476,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "d7899aa4-4cd6-41c7-ad06-c71e8b38f899",
+    "name": "Prayaga",
+    "mentions": 613,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "7b1100b2-2a38-4d56-b6c1-2c86e071c248",
+    "name": "Pushkar",
+    "mentions": 1012,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "b4721b02-d9d3-42e1-8264-90f3ddd10705",
+    "name": "Naimisharanya",
+    "mentions": 265,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YAJNAV"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "d538b44f-c54c-4d7c-8850-ae0cca0cf938",
+    "name": "Dharma",
+    "mentions": 15632,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "8f0a83bc-19bd-4081-b226-bd0be48ceb62",
+    "name": "Karma",
+    "mentions": 14330,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "2ed517f6-ac33-4b79-8e2c-af4989b6838e",
+    "name": "Moksha",
+    "mentions": 5742,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "54dc1b43-350b-4b8f-ae75-d7e47662dee0",
+    "name": "Yoga",
+    "mentions": 18507,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "0a451137-95a3-4830-99cb-b06e71bc4b2e",
+    "name": "Bhakti",
+    "mentions": 5751,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "94b8871e-025d-4385-804d-bb03b97f9cdd",
+    "name": "Jnana",
+    "mentions": 13399,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "04d96099-e352-4039-8e8f-5b31bde85c8c",
+    "name": "Tapas",
+    "mentions": 4431,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "99a240a1-2415-4b59-9716-f155b3c2eead",
+    "name": "Dana",
+    "mentions": 24715,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "e5006adb-8c64-4390-a13a-95d012740647",
+    "name": "Ahimsa",
+    "mentions": 223,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "774984e3-82cd-44b6-aeb9-e9e7be398407",
+    "name": "Satya",
+    "mentions": 7299,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "19e88a91-9523-4583-a994-24e915db02db",
+    "name": "Shraddha",
+    "mentions": 1607,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "e3527119-dd86-4a4c-825c-b21ed232e2ba",
+    "name": "Varna",
+    "mentions": 16829,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "d9061ed5-2000-4881-96ba-d3ed5e8dc507",
+    "name": "Ashrama",
+    "mentions": 1855,
+    "sources": [
+      "AGNI",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VISH",
+      "YAJNAV",
+      "YVK"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "8a1382b9-99a4-4cb3-984a-586faab0d0d6",
+    "name": "Atman",
+    "mentions": 3054,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "34c65991-ee9e-4e6a-af46-51fefa54a19d",
+    "name": "Brahman",
+    "mentions": 27267,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "3da6f444-96df-4fb9-b50e-d022568bab4a",
+    "name": "Prakriti",
+    "mentions": 1788,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "09f3cc0d-e9c2-430a-aef0-0c283f733ff1",
+    "name": "Purusha",
+    "mentions": 14784,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "d5bcfdb5-85dd-49a5-b6fe-fc68834ca162",
+    "name": "Maya",
+    "mentions": 4894,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "3bf89602-a42a-4a51-ba96-905636ef52ec",
+    "name": "Gunas",
+    "mentions": 10879,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "BRIHAD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "RM",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Concept",
+    "GUID": "43756afd-cf24-4bfb-81d8-6254cc8dc52a",
+    "name": "Samsara",
+    "mentions": 4164,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BHAG",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "DEVI",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "PRASHNA",
+      "SHIV",
+      "SKAND",
+      "VAMAN",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVK",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "ef3a3f4b-a165-475d-9aea-0807bb2d60e1",
+    "name": "Kaikeyi",
+    "mentions": 61,
+    "sources": [
+      "AGNI",
+      "BRAH",
+      "DEVI",
+      "GARUDA",
+      "KURM",
+      "RM",
+      "SKAND"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "9e74c684-ed76-4a79-8ed3-eaee8b774489",
+    "name": "Lanka",
+    "mentions": 149,
+    "sources": [
+      "AGNI",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SKAND",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "YAJNAV"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Place",
+    "GUID": "e7d55134-026c-4d5a-aa83-afaf83cd87f2",
+    "name": "Ganga",
+    "mentions": 1049,
+    "sources": [
+      "AGNI",
+      "AV",
+      "BRAH",
+      "BRAHMD",
+      "CHAND",
+      "GARUDA",
+      "HV",
+      "KURM",
+      "LING",
+      "MATS",
+      "MBH",
+      "NARADA",
+      "RM",
+      "SKAND",
+      "VARAH",
+      "VEDANTA_SUTRA",
+      "VISH",
+      "YAJNAV",
+      "YVS"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 95,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
+  },
+  {
+    "type": "Person",
+    "GUID": "a1cfe00c-a6ef-4ee5-b199-587d29c3ba31",
+    "name": "Trishanku",
+    "mentions": 6,
+    "sources": [
+      "HV",
+      "LING",
+      "RM",
+      "VISH"
+    ],
+    "provenance": [
+      "text_extraction"
+    ],
+    "confidence": 56,
+    "evidence_status": "EXTRACTED_FROM_TEXT"
   }
 ]
