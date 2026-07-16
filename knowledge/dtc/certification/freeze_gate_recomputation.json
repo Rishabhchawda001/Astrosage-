@@ -1,0 +1,917 @@
+{
+  "timestamp": "2026-07-16T16:27:21.072664",
+  "total_verses": 1327743,
+  "certified": 47,
+  "provisional": 5,
+  "unverified": 2,
+  "scriptures": {
+    "AGNI": {
+      "scripture": "AGNI",
+      "file": "knowledge/downloads/agni_puran_gita_press.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 53616,
+      "expected": 16000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "72e6d0929a0a7911",
+      "certification": "CERTIFIED"
+    },
+    "AITAREYA": {
+      "scripture": "AITAREYA",
+      "file": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 3999,
+      "expected": 33,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "22dc8bbfdfac5ed2",
+      "certification": "CERTIFIED"
+    },
+    "APASTAMBA_DS": {
+      "scripture": "APASTAMBA_DS",
+      "file": "knowledge/downloads/apastamba_dharmasutra_gretil.xml",
+      "type": "xml",
+      "exists": true,
+      "verses": 1560,
+      "expected": 1500,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "263ecae69554f31b",
+      "certification": "CERTIFIED"
+    },
+    "AV": {
+      "scripture": "AV",
+      "file": "knowledge/downloads/atharvaveda_samhita_sanskrit.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 23232,
+      "expected": 6000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "1dede8e23950dc1b",
+      "certification": "CERTIFIED"
+    },
+    "BAUDHAYANA_DS": {
+      "scripture": "BAUDHAYANA_DS",
+      "file": "knowledge/downloads/baudhayana_dharmasutra_gretil.xml",
+      "type": "xml",
+      "exists": true,
+      "verses": 1893,
+      "expected": 500,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "c6eb327e67c6a1d4",
+      "certification": "CERTIFIED"
+    },
+    "BG": {
+      "scripture": "BG",
+      "file": "knowledge/downloads/bhagavad_gita_4comm_gretil.xml",
+      "type": "xml",
+      "exists": true,
+      "verses": 8372,
+      "expected": 700,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "e10352273ea29958",
+      "certification": "CERTIFIED"
+    },
+    "BHAG": {
+      "scripture": "BHAG",
+      "file": "knowledge/downloads/bhagavat_gitapress_complete.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 112004,
+      "expected": 18000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "1720f73a7f5c258b",
+      "certification": "CERTIFIED"
+    },
+    "BRAH": {
+      "scripture": "BRAH",
+      "file": "knowledge/downloads/brahma_puran_gita_press.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 21857,
+      "expected": 14000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "1562f51c78be048c",
+      "certification": "CERTIFIED"
+    },
+    "BRAHMD": {
+      "scripture": "BRAHMD",
+      "file": "knowledge/downloads/brahmanda_puran_ia_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 24663,
+      "expected": 12000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "1876136147a8f2ad",
+      "certification": "CERTIFIED"
+    },
+    "BRIHAD": {
+      "scripture": "BRIHAD",
+      "file": "knowledge/downloads/brhadaranyaka_upanishad_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 28997,
+      "expected": 536,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "27f0a855454d6514",
+      "certification": "CERTIFIED"
+    },
+    "CHAND": {
+      "scripture": "CHAND",
+      "file": "knowledge/downloads/chandogya_upanishad_giri_ia_ia_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 14278,
+      "expected": 634,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "1dc042e3d93541c4",
+      "certification": "CERTIFIED"
+    },
+    "DEVI": {
+      "scripture": "DEVI",
+      "file": "knowledge/downloads/devi_bhagwat_gita_press.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 105453,
+      "expected": 18000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "ceb67df7fa7a426d",
+      "certification": "CERTIFIED"
+    },
+    "GARUDA": {
+      "scripture": "GARUDA",
+      "file": "knowledge/downloads/garuda_puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 32563,
+      "expected": 8000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "630710875a15c7aa",
+      "certification": "CERTIFIED"
+    },
+    "GAUTAMA_DS": {
+      "scripture": "GAUTAMA_DS",
+      "file": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml",
+      "type": "xml",
+      "exists": true,
+      "verses": 1766,
+      "expected": 1000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "f7af7a672bb027d6",
+      "certification": "CERTIFIED"
+    },
+    "HV": {
+      "scripture": "HV",
+      "file": "knowledge/downloads/harivamsha_bori.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 63777,
+      "expected": 16000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "b1f1e513b19bad49",
+      "certification": "CERTIFIED"
+    },
+    "ISHA": {
+      "scripture": "ISHA",
+      "file": "knowledge/downloads/isha_upanishad_gretil.xml",
+      "type": "xml",
+      "exists": true,
+      "verses": 469,
+      "expected": 18,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "f7f9787d7d277b76",
+      "certification": "CERTIFIED"
+    },
+    "KALI": {
+      "scripture": "KALI",
+      "file": "knowledge/bronze/extracted_text/Kalika Puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 3227,
+      "expected": 9000,
+      "coverage": 35.9,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "a9ad78155b36444d",
+      "certification": "PROVISIONALLY_CERTIFIED"
+    },
+    "KATH": {
+      "scripture": "KATH",
+      "file": "knowledge/downloads/Upanishads_110.txt",
+      "type": "combined",
+      "exists": true,
+      "verses": 1,
+      "expected": 119,
+      "coverage": 0.8,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "d2ac464eb8a616c5",
+      "certification": "PROVISIONALLY_CERTIFIED"
+    },
+    "KAUS": {
+      "scripture": "KAUS",
+      "file": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 4936,
+      "expected": 88,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "75df5b01361a76b6",
+      "certification": "CERTIFIED"
+    },
+    "KEN": {
+      "scripture": "KEN",
+      "file": "knowledge/downloads/kena_upanishad_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 894,
+      "expected": 32,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "c905f5db31881c73",
+      "certification": "CERTIFIED"
+    },
+    "KURM": {
+      "scripture": "KURM",
+      "file": "knowledge/downloads/kurma_puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 30355,
+      "expected": 12000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "24c24df6cff04653",
+      "certification": "CERTIFIED"
+    },
+    "LING": {
+      "scripture": "LING",
+      "file": "knowledge/downloads/linga_puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 50143,
+      "expected": 11000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "94dfb63bd430b2eb",
+      "certification": "CERTIFIED"
+    },
+    "MAHAN": {
+      "scripture": "MAHAN",
+      "file": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 4755,
+      "expected": 84,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "8e5d12d69eddb7e2",
+      "certification": "CERTIFIED"
+    },
+    "MAITR": {
+      "scripture": "MAITR",
+      "file": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 1563,
+      "expected": 115,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "c46f8d8e34d065e2",
+      "certification": "CERTIFIED"
+    },
+    "MAND": {
+      "scripture": "MAND",
+      "file": "knowledge/downloads/mandukya_upanishad_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 8424,
+      "expected": 12,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "fceae7f684e82b83",
+      "certification": "CERTIFIED"
+    },
+    "MANU": {
+      "scripture": "MANU",
+      "file": "knowledge/downloads/manusmriti_critical_ia_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 50168,
+      "expected": 2694,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "19817c3929218147",
+      "certification": "CERTIFIED"
+    },
+    "MARK": {
+      "scripture": "MARK",
+      "file": "knowledge/downloads/markandeya_puran_sanskrit.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 13239,
+      "expected": 9000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "6dcddb08cd394950",
+      "certification": "CERTIFIED"
+    },
+    "MATS": {
+      "scripture": "MATS",
+      "file": "knowledge/downloads/matsya_puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 68270,
+      "expected": 13000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "cce9993af7cddbbd",
+      "certification": "CERTIFIED"
+    },
+    "MBH": {
+      "scripture": "MBH",
+      "file": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 60465,
+      "expected": 100000,
+      "coverage": 60.5,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "399e4c0bfd5ad3c5",
+      "certification": "PROVISIONALLY_CERTIFIED"
+    },
+    "MUND": {
+      "scripture": "MUND",
+      "file": "knowledge/downloads/mundaka_upanishad_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 740,
+      "expected": 83,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "d6cf3b2198f777a4",
+      "certification": "CERTIFIED"
+    },
+    "NARADA": {
+      "scripture": "NARADA",
+      "file": "knowledge/downloads/naradiya_puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 41587,
+      "expected": 18000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "59df23f85a3cad9e",
+      "certification": "CERTIFIED"
+    },
+    "NARADA_SM": {
+      "scripture": "NARADA_SM",
+      "file": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 15548,
+      "expected": 150,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "f0069bb4821d22d9",
+      "certification": "CERTIFIED"
+    },
+    "NYAYA_SUTRA": {
+      "scripture": "NYAYA_SUTRA",
+      "file": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 1891,
+      "expected": 560,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "8c88c0a7b9ee0abb",
+      "certification": "CERTIFIED"
+    },
+    "PARASHARA": {
+      "scripture": "PARASHARA",
+      "file": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 2572,
+      "expected": 150,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "40f3f269c0108960",
+      "certification": "CERTIFIED"
+    },
+    "PRASHNA": {
+      "scripture": "PRASHNA",
+      "file": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 16059,
+      "expected": 64,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "f4f9e99effc1ffd4",
+      "certification": "CERTIFIED"
+    },
+    "RM": {
+      "scripture": "RM",
+      "file": "knowledge/downloads/ramayana_baroda_critical_vol1.txt",
+      "type": "critical",
+      "exists": true,
+      "verses": 42043,
+      "expected": 24000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "f3759de35b126b23",
+      "certification": "CERTIFIED"
+    },
+    "RV": {
+      "scripture": "RV",
+      "file": "knowledge/downloads/rigveda_aufrecht_gretil.xml",
+      "type": "xml",
+      "exists": true,
+      "verses": 32858,
+      "expected": 10600,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "14197d9c1dcced64",
+      "certification": "CERTIFIED"
+    },
+    "SHIV": {
+      "scripture": "SHIV",
+      "file": "knowledge/downloads/shiv_puran_gita_press.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 48331,
+      "expected": 24000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "8ba53d3c9a9d46c6",
+      "certification": "CERTIFIED"
+    },
+    "SHVET": {
+      "scripture": "SHVET",
+      "file": "knowledge/downloads/shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 10184,
+      "expected": 113,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "d6e4059d2717e9b8",
+      "certification": "CERTIFIED"
+    },
+    "SKAND": {
+      "scripture": "SKAND",
+      "file": "knowledge/downloads/skanda_puran_full.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 91984,
+      "expected": 24000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "4fab6aea4f66a14f",
+      "certification": "CERTIFIED"
+    },
+    "SV": {
+      "scripture": "SV",
+      "file": "knowledge/gretil_parsed/samaveda_gretil_iast.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 66,
+      "expected": 1875,
+      "coverage": 3.5,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "8ce30d796a450ae4",
+      "certification": "PROVISIONALLY_CERTIFIED"
+    },
+    "TAITT": {
+      "scripture": "TAITT",
+      "file": "knowledge/downloads/taittiriya_upanishad_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 7339,
+      "expected": 104,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "c4de5fa05ce33071",
+      "certification": "CERTIFIED"
+    },
+    "VAISHESHIKA_SUTRA": {
+      "scripture": "VAISHESHIKA_SUTRA",
+      "file": null,
+      "type": null,
+      "exists": false,
+      "verses": 0,
+      "expected": 370,
+      "coverage": 0,
+      "unicode": null,
+      "hash": null,
+      "certification": "UNVERIFIED"
+    },
+    "VAMAN": {
+      "scripture": "VAMAN",
+      "file": "knowledge/downloads/vaman_puran_gita_press_new.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 30513,
+      "expected": 10000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "2cbedc9d3579be86",
+      "certification": "CERTIFIED"
+    },
+    "VARAH": {
+      "scripture": "VARAH",
+      "file": "knowledge/downloads/varaha_puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 25898,
+      "expected": 10000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "a95683b546ae663e",
+      "certification": "CERTIFIED"
+    },
+    "VEDANTA_SUTRA": {
+      "scripture": "VEDANTA_SUTRA",
+      "file": "knowledge/downloads/brahma_sutra_shankara_bhashya.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 12721,
+      "expected": 555,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "798e0a69a0e31c8a",
+      "certification": "CERTIFIED"
+    },
+    "VISH": {
+      "scripture": "VISH",
+      "file": "knowledge/downloads/vishnu_puran.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 37243,
+      "expected": 23000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "4e33fc2506921ae7",
+      "certification": "CERTIFIED"
+    },
+    "VISHNU_SM": {
+      "scripture": "VISHNU_SM",
+      "file": "knowledge/downloads/vishnu_smriti_gretil.xml",
+      "type": "xml",
+      "exists": true,
+      "verses": 10318,
+      "expected": 100,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "3358f65cc7421572",
+      "certification": "CERTIFIED"
+    },
+    "VYASA_SM": {
+      "scripture": "VYASA_SM",
+      "file": null,
+      "type": null,
+      "exists": false,
+      "verses": 0,
+      "expected": 100,
+      "coverage": 0,
+      "unicode": null,
+      "hash": null,
+      "certification": "UNVERIFIED"
+    },
+    "VYU": {
+      "scripture": "VYU",
+      "file": "knowledge/downloads/vayu_purana_mitra_1880_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 13621,
+      "expected": 24000,
+      "coverage": 56.8,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "cce77ef9d157adf5",
+      "certification": "PROVISIONALLY_CERTIFIED"
+    },
+    "YAJNAV": {
+      "scripture": "YAJNAV",
+      "file": "knowledge/downloads/yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 16290,
+      "expected": 1054,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "e25d24c075ea2cf5",
+      "certification": "CERTIFIED"
+    },
+    "YOGA_SUTRA": {
+      "scripture": "YOGA_SUTRA",
+      "file": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 196,
+      "expected": 196,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "2623508ca3a17461",
+      "certification": "CERTIFIED"
+    },
+    "YVK": {
+      "scripture": "YVK",
+      "file": "knowledge/downloads/yajurveda_jayadev.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 22196,
+      "expected": 2000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": false,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "531366a4683b82b9",
+      "certification": "CERTIFIED"
+    },
+    "YVS": {
+      "scripture": "YVS",
+      "file": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt",
+      "type": "txt",
+      "exists": true,
+      "verses": 52606,
+      "expected": 2000,
+      "coverage": 100,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "GOOD"
+      },
+      "hash": "c0da5c064f86671d",
+      "certification": "CERTIFIED"
+    }
+  }
+}
