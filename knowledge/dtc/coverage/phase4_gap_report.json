@@ -1,10 +1,378 @@
 {
-  "generated": "2026-07-16T10:57:46.773878",
-  "total_gaps": 33,
-  "critical": 2,
-  "high": 19,
-  "medium": 12,
+  "generated": "2026-07-16T17:10:45.321309",
+  "total_gaps": 54,
+  "critical": 54,
+  "high": 0,
+  "medium": 0,
   "gaps": [
+    {
+      "scripture": "RV",
+      "name": "Rigveda Samhita",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 10600,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "SV",
+      "name": "Samaveda Samhita",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 1875,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "YVK",
+      "name": "Krishna Yajurveda (Taittiriya Samhita)",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 2000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "YVS",
+      "name": "Shukla Yajurveda (Madhyandina)",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 2000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "AV",
+      "name": "Atharvaveda Samhita",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 6000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "BG",
+      "name": "Bhagavad Gita",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 700,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MBH",
+      "name": "Mahabharata",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 100000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "RM",
+      "name": "Ramayana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 24000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "HV",
+      "name": "Harivamsha",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 16000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "BHAG",
+      "name": "Bhagavata Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 18000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "VISH",
+      "name": "Vishnu Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 23000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "SHIV",
+      "name": "Shiva Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 24000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "DEVI",
+      "name": "Devi Bhagavata Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 18000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "AGNI",
+      "name": "Agni Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 16000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "BRAH",
+      "name": "Brahma Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 14000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MATS",
+      "name": "Matsya Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 13000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "KURM",
+      "name": "Kurma Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 12000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "LING",
+      "name": "Linga Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 11000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MARK",
+      "name": "Markandeya Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 9000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "NARADA",
+      "name": "Narada Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 18000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "VAMAN",
+      "name": "Vamana Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 10000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "VARAH",
+      "name": "Varaha Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 10000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "VYU",
+      "name": "Vayu Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 24000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "SKAND",
+      "name": "Skanda Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 24000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "BRAHMD",
+      "name": "Brahmanda Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 12000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "KALI",
+      "name": "Kalika Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 9000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "GARUDA",
+      "name": "Garuda Purana",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 8000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "ISHA",
+      "name": "Isha Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 18,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "KEN",
+      "name": "Kena Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 32,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "KATH",
+      "name": "Katha Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 119,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "PRASHNA",
+      "name": "Prashna Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 64,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MUND",
+      "name": "Mundaka Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 83,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MAND",
+      "name": "Mandukya Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 12,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "TAITT",
+      "name": "Taittiriya Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 104,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "AITAREYA",
+      "name": "Aitareya Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 33,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "CHAND",
+      "name": "Chandogya Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 634,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "BRIHAD",
+      "name": "Brihadaranyaka Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 536,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "SHVET",
+      "name": "Shvetashvatara Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 113,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "KAUS",
+      "name": "Kaushitaki Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 88,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MAITR",
+      "name": "Maitri Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 115,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MAHAN",
+      "name": "Mahanarayana Upanishad",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 84,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "MANU",
+      "name": "Manusmriti",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 2694,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "YAJNAV",
+      "name": "Yajnavalkya Smriti",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 1054,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "VISHNU_SM",
+      "name": "Vishnu Smriti",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 100,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "NARADA_SM",
+      "name": "Narada Smriti",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 150,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "PARASHARA",
+      "name": "Parashara Smriti",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 150,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
     {
       "scripture": "VYASA_SM",
       "name": "Vyasa Smriti",
@@ -14,260 +382,60 @@
       "needed": "Full text from GRETIL or Archive.org"
     },
     {
+      "scripture": "APASTAMBA_DS",
+      "name": "Apastamba Dharmasutra",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 1500,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "BAUDHAYANA_DS",
+      "name": "Baudhayana Dharmasutra",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 500,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "GAUTAMA_DS",
+      "name": "Gautama Dharmasutra",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 1000,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "VEDANTA_SUTRA",
+      "name": "Vedanta Sutras (Brahma Sutras)",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 555,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "YOGA_SUTRA",
+      "name": "Yoga Sutras",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 196,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
+      "scripture": "NYAYA_SUTRA",
+      "name": "Nyaya Sutras",
+      "priority": "CRITICAL",
+      "reason": "No witnesses on disk",
+      "expected_verses": 560,
+      "needed": "Full text from GRETIL or Archive.org"
+    },
+    {
       "scripture": "VAISHESHIKA_SUTRA",
       "name": "Vaisheshika Sutras",
       "priority": "CRITICAL",
       "reason": "No witnesses on disk",
       "expected_verses": 370,
       "needed": "Full text from GRETIL or Archive.org"
-    },
-    {
-      "scripture": "YVK",
-      "name": "Krishna Yajurveda (Taittiriya Samhita)",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 1,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "YVS",
-      "name": "Shukla Yajurveda (Madhyandina)",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 1,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "MBH",
-      "name": "Mahabharata",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 14,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "VARAH",
-      "name": "Varaha Purana",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 8,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "BRAHMD",
-      "name": "Brahmanda Purana",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 3,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "KALI",
-      "name": "Kalika Purana",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 2,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "KEN",
-      "name": "Kena Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 4,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "KATH",
-      "name": "Katha Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 2,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "PRASHNA",
-      "name": "Prashna Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 1,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "MUND",
-      "name": "Mundaka Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 1,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "MAND",
-      "name": "Mandukya Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 3,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "CHAND",
-      "name": "Chandogya Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 4,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "BRIHAD",
-      "name": "Brihadaranyaka Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 5,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "KAUS",
-      "name": "Kaushitaki Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 1,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "MAITR",
-      "name": "Maitri Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 1,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "MAHAN",
-      "name": "Mahanarayana Upanishad",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 2,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "PARASHARA",
-      "name": "Parashara Smriti",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 2,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "VEDANTA_SUTRA",
-      "name": "Vedanta Sutras (Brahma Sutras)",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 12,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "NYAYA_SUTRA",
-      "name": "Nyaya Sutras",
-      "priority": "HIGH",
-      "reason": "Files acquired but not parsed",
-      "files_available": 1,
-      "needed": "Parse and extract CUIDs"
-    },
-    {
-      "scripture": "RV",
-      "name": "Rigveda Samhita",
-      "priority": "MEDIUM",
-      "reason": "Verse coverage only 27.8%",
-      "current_coverage": "27.8%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "SV",
-      "name": "Samaveda Samhita",
-      "priority": "MEDIUM",
-      "reason": "Verse coverage only 3.5%; Not yet collated",
-      "current_coverage": "3.5%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "AV",
-      "name": "Atharvaveda Samhita",
-      "priority": "MEDIUM",
-      "reason": "Verse coverage only 7.2%",
-      "current_coverage": "7.2%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "VISH",
-      "name": "Vishnu Purana",
-      "priority": "MEDIUM",
-      "reason": "Not yet collated",
-      "current_coverage": "53.8%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "SHIV",
-      "name": "Shiva Purana",
-      "priority": "MEDIUM",
-      "reason": "Verse coverage only 22.0%; Not yet collated",
-      "current_coverage": "22.0%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "DEVI",
-      "name": "Devi Bhagavata Purana",
-      "priority": "MEDIUM",
-      "reason": "Verse coverage only 6.0%; Not yet collated",
-      "current_coverage": "6.0%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "VYU",
-      "name": "Vayu Purana",
-      "priority": "MEDIUM",
-      "reason": "Not yet collated",
-      "current_coverage": "68.4%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "SKAND",
-      "name": "Skanda Purana",
-      "priority": "MEDIUM",
-      "reason": "Not yet collated",
-      "current_coverage": "55.2%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "ISHA",
-      "name": "Isha Upanishad",
-      "priority": "MEDIUM",
-      "reason": "Only 1 independent family; Not yet collated",
-      "current_coverage": "100%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "TAITT",
-      "name": "Taittiriya Upanishad",
-      "priority": "MEDIUM",
-      "reason": "Verse coverage only 3.8%; Not yet collated",
-      "current_coverage": "3.8%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "BAUDHAYANA_DS",
-      "name": "Baudhayana Dharmasutra",
-      "priority": "MEDIUM",
-      "reason": "Verse coverage only 5.4%; Not yet collated",
-      "current_coverage": "5.4%",
-      "needed": "Additional witnesses and/or better extraction"
-    },
-    {
-      "scripture": "GAUTAMA_DS",
-      "name": "Gautama Dharmasutra",
-      "priority": "MEDIUM",
-      "reason": "Only 1 independent family",
-      "current_coverage": "57.5%",
-      "needed": "Additional witnesses and/or better extraction"
     }
   ]
 }
