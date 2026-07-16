@@ -36,3 +36,6 @@ knowledge/downloads/
 knowledge/bronze/
 knowledge/checkpoints/
 knowledge/logs/
+
+# Large data files
+knowledge/dtc/extractions/extraction_results.json

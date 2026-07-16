@@ -1,0 +1,404 @@
+{
+  "generated": "2026-07-16T15:16:00.996264",
+  "status": "CANDIDATE_FOR_FREEZE",
+  "total_files": 1225,
+  "total_scriptures": 54,
+  "total_verses": 2174527,
+  "verified_count": 52,
+  "partial_count": 2,
+  "verified": [
+    {
+      "scripture": "AGNI",
+      "verses": 54049,
+      "expected": 16000,
+      "coverage": 100,
+      "files": 16
+    },
+    {
+      "scripture": "AITAREYA",
+      "verses": 4161,
+      "expected": 33,
+      "coverage": 100,
+      "files": 2
+    },
+    {
+      "scripture": "APASTAMBA_DS",
+      "verses": 14531,
+      "expected": 1500,
+      "coverage": 100,
+      "files": 7
+    },
+    {
+      "scripture": "AV",
+      "verses": 25426,
+      "expected": 6000,
+      "coverage": 100,
+      "files": 8
+    },
+    {
+      "scripture": "BAUDHAYANA_DS",
+      "verses": 15609,
+      "expected": 500,
+      "coverage": 100,
+      "files": 2
+    },
+    {
+      "scripture": "BG",
+      "verses": 115376,
+      "expected": 700,
+      "coverage": 100,
+      "files": 39
+    },
+    {
+      "scripture": "BHAG",
+      "verses": 59693,
+      "expected": 18000,
+      "coverage": 100,
+      "files": 9
+    },
+    {
+      "scripture": "BHAVISHYA",
+      "verses": 40532,
+      "expected": 1000,
+      "coverage": 100,
+      "files": 3
+    },
+    {
+      "scripture": "BRAH",
+      "verses": 44252,
+      "expected": 14000,
+      "coverage": 100,
+      "files": 14
+    },
+    {
+      "scripture": "BRAHMD",
+      "verses": 25789,
+      "expected": 12000,
+      "coverage": 100,
+      "files": 3
+    },
+    {
+      "scripture": "BRAHVAIV",
+      "verses": 95619,
+      "expected": 1000,
+      "coverage": 100,
+      "files": 13
+    },
+    {
+      "scripture": "BRIHAD",
+      "verses": 56510,
+      "expected": 536,
+      "coverage": 100,
+      "files": 5
+    },
+    {
+      "scripture": "CHAND",
+      "verses": 15750,
+      "expected": 634,
+      "coverage": 100,
+      "files": 4
+    },
+    {
+      "scripture": "DEVI",
+      "verses": 112422,
+      "expected": 18000,
+      "coverage": 100,
+      "files": 10
+    },
+    {
+      "scripture": "GARUDA",
+      "verses": 36036,
+      "expected": 8000,
+      "coverage": 100,
+      "files": 12
+    },
+    {
+      "scripture": "GAUTAMA_DS",
+      "verses": 1875,
+      "expected": 1000,
+      "coverage": 100,
+      "files": 2
+    },
+    {
+      "scripture": "HV",
+      "verses": 93686,
+      "expected": 16000,
+      "coverage": 100,
+      "files": 12
+    },
+    {
+      "scripture": "ISHA",
+      "verses": 524,
+      "expected": 18,
+      "coverage": 100,
+      "files": 1
+    },
+    {
+      "scripture": "KATH",
+      "verses": 3685,
+      "expected": 119,
+      "coverage": 100,
+      "files": 2
+    },
+    {
+      "scripture": "KAUS",
+      "verses": 5004,
+      "expected": 88,
+      "coverage": 100,
+      "files": 1
+    },
+    {
+      "scripture": "KEN",
+      "verses": 13587,
+      "expected": 32,
+      "coverage": 100,
+      "files": 4
+    },
+    {
+      "scripture": "KURM",
+      "verses": 78854,
+      "expected": 12000,
+      "coverage": 100,
+      "files": 9
+    },
+    {
+      "scripture": "LING",
+      "verses": 52796,
+      "expected": 11000,
+      "coverage": 100,
+      "files": 7
+    },
+    {
+      "scripture": "MAHAN",
+      "verses": 944,
+      "expected": 84,
+      "coverage": 100,
+      "files": 1
+    },
+    {
+      "scripture": "MAND",
+      "verses": 8872,
+      "expected": 12,
+      "coverage": 100,
+      "files": 3
+    },
+    {
+      "scripture": "MANU",
+      "verses": 53504,
+      "expected": 2694,
+      "coverage": 100,
+      "files": 4
+    },
+    {
+      "scripture": "MARK",
+      "verses": 22312,
+      "expected": 9000,
+      "coverage": 100,
+      "files": 7
+    },
+    {
+      "scripture": "MATS",
+      "verses": 71049,
+      "expected": 13000,
+      "coverage": 100,
+      "files": 10
+    },
+    {
+      "scripture": "MUND",
+      "verses": 757,
+      "expected": 83,
+      "coverage": 100,
+      "files": 1
+    },
+    {
+      "scripture": "NARADA",
+      "verses": 43320,
+      "expected": 18000,
+      "coverage": 100,
+      "files": 12
+    },
+    {
+      "scripture": "NARADA_SM",
+      "verses": 17962,
+      "expected": 150,
+      "coverage": 100,
+      "files": 2
+    },
+    {
+      "scripture": "NIRUKTA",
+      "verses": 40021,
+      "expected": 1000,
+      "coverage": 100,
+      "files": 4
+    },
+    {
+      "scripture": "NYAYA_SUTRA",
+      "verses": 3047,
+      "expected": 560,
+      "coverage": 100,
+      "files": 1
+    },
+    {
+      "scripture": "PADMA",
+      "verses": 79065,
+      "expected": 1000,
+      "coverage": 100,
+      "files": 15
+    },
+    {
+      "scripture": "PARASHARA",
+      "verses": 126256,
+      "expected": 150,
+      "coverage": 100,
+      "files": 3
+    },
+    {
+      "scripture": "RM",
+      "verses": 70111,
+      "expected": 24000,
+      "coverage": 100,
+      "files": 23
+    },
+    {
+      "scripture": "RV",
+      "verses": 43410,
+      "expected": 10600,
+      "coverage": 100,
+      "files": 22
+    },
+    {
+      "scripture": "SHIV",
+      "verses": 68994,
+      "expected": 24000,
+      "coverage": 100,
+      "files": 8
+    },
+    {
+      "scripture": "SHVET",
+      "verses": 13773,
+      "expected": 113,
+      "coverage": 100,
+      "files": 5
+    },
+    {
+      "scripture": "SKAND",
+      "verses": 96181,
+      "expected": 24000,
+      "coverage": 100,
+      "files": 8
+    },
+    {
+      "scripture": "SV",
+      "verses": 25917,
+      "expected": 1875,
+      "coverage": 100,
+      "files": 3
+    },
+    {
+      "scripture": "TAITT",
+      "verses": 7472,
+      "expected": 104,
+      "coverage": 100,
+      "files": 2
+    },
+    {
+      "scripture": "VAMAN",
+      "verses": 54432,
+      "expected": 10000,
+      "coverage": 100,
+      "files": 12
+    },
+    {
+      "scripture": "VARAH",
+      "verses": 37452,
+      "expected": 10000,
+      "coverage": 100,
+      "files": 8
+    },
+    {
+      "scripture": "VEDANTA_SUTRA",
+      "verses": 26845,
+      "expected": 555,
+      "coverage": 100,
+      "files": 12
+    },
+    {
+      "scripture": "VISH",
+      "verses": 47613,
+      "expected": 23000,
+      "coverage": 100,
+      "files": 12
+    },
+    {
+      "scripture": "VISHNU_SM",
+      "verses": 21818,
+      "expected": 100,
+      "coverage": 100,
+      "files": 7
+    },
+    {
+      "scripture": "VYU",
+      "verses": 20834,
+      "expected": 24000,
+      "coverage": 86.8,
+      "files": 7
+    },
+    {
+      "scripture": "YAJNAV",
+      "verses": 19516,
+      "expected": 1054,
+      "coverage": 100,
+      "files": 3
+    },
+    {
+      "scripture": "YOGA_SUTRA",
+      "verses": 4038,
+      "expected": 196,
+      "coverage": 100,
+      "files": 9
+    },
+    {
+      "scripture": "YVK",
+      "verses": 61825,
+      "expected": 1000,
+      "coverage": 100,
+      "files": 3
+    },
+    {
+      "scripture": "YVS",
+      "verses": 54147,
+      "expected": 1000,
+      "coverage": 100,
+      "files": 1
+    }
+  ],
+  "partial": [
+    {
+      "scripture": "KALI",
+      "verses": 3387,
+      "expected": 9000,
+      "coverage": 37.6,
+      "files": 2
+    },
+    {
+      "scripture": "MBH",
+      "verses": 63887,
+      "expected": 100000,
+      "coverage": 63.9,
+      "files": 14
+    }
+  ],
+  "rejected_files": [
+    "knowledge/bronze/extracted_text/DeviMahatmyam_sanskrit_text_with_malayalam_translation.txt",
+    "knowledge/bronze/extracted_text/Gayatri Worship.txt",
+    "knowledge/bronze/extracted_text/SHIVA GITA (1).txt",
+    "knowledge/bronze/extracted_text/Sunderkand_Path.txt",
+    "knowledge/bronze/extracted_text/dasamgranth_all.txt",
+    "knowledge/bronze/extracted_text/selected Mantras_English.txt"
+  ],
+  "source_counts": {
+    "gretil": 195,
+    "downloads": 450,
+    "bronze": 680
+  }
+}

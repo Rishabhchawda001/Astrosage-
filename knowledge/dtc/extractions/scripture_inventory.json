@@ -1,0 +1,1216 @@
+{
+  "AGNI": {
+    "scripture": "AGNI",
+    "files_count": 17,
+    "families": [
+      "F-ANANDASHRAM",
+      "F-CHOWKHAMBA",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-MOTILAL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 6,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 54049,
+    "expected_verses": 16000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/agni_puran_gitapress_old.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "AITAREYA": {
+    "scripture": "AITAREYA",
+    "files_count": 3,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GRETIL"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 4161,
+    "expected_verses": 33,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "APASTAMBA_DS": {
+    "scripture": "APASTAMBA_DS",
+    "files_count": 9,
+    "families": [
+      "F-DJVU_OCR",
+      "F-DLI",
+      "F-GRETIL"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 14531,
+    "expected_verses": 1500,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/apastamba_dharmasutra_kashi_series_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "AV": {
+    "scripture": "AV",
+    "files_count": 9,
+    "families": [
+      "F-DLI",
+      "F-GRETIL",
+      "F-JAYADEV",
+      "F-SAYANA",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 5,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 25426,
+    "expected_verses": 6000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Atharvaveda Samhita Sanskrit.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BAUDHAYANA_DS": {
+    "scripture": "BAUDHAYANA_DS",
+    "files_count": 3,
+    "families": [
+      "F-DLI",
+      "F-GRETIL"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 15609,
+    "expected_verses": 500,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/baudhayana_dharmasutra_dli_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BG": {
+    "scripture": "BG",
+    "files_count": 41,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 115376,
+    "expected_verses": 700,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/bhagavat_gitapress_complete.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BHAG": {
+    "scripture": "BHAG",
+    "files_count": 10,
+    "families": [
+      "F-ANANDASHRAM",
+      "F-GRETIL",
+      "F-KHEMRAJ",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 59693,
+    "expected_verses": 18000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/bhagwat_puran_part1_khemraj.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BHAVISHYA": {
+    "scripture": "BHAVISHYA",
+    "files_count": 3,
+    "families": [
+      "F-GITAPRESS",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 40532,
+    "expected_verses": 1000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/bhavishya_puran_gita_press.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BRAH": {
+    "scripture": "BRAH",
+    "files_count": 16,
+    "families": [
+      "F-ANANDASHRAM",
+      "F-ARCHIVE_DJVU",
+      "F-CHOWKHAMBA",
+      "F-DJVU_OCR",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 7,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 44252,
+    "expected_verses": 14000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/brahma_puran_gretil.xml",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BRAHMD": {
+    "scripture": "BRAHMD",
+    "files_count": 3,
+    "families": [
+      "F-DJVU_OCR",
+      "F-KHEMRAJ",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 25789,
+    "expected_verses": 12000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/brahmanda_puran_ia_ia.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BRAHVAIV": {
+    "scripture": "BRAHVAIV",
+    "files_count": 13,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-DLI",
+      "F-GITAPRESS",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 95619,
+    "expected_verses": 1000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/brahma_vaivarta_puran_english.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "BRIHAD": {
+    "scripture": "BRIHAD",
+    "files_count": 5,
+    "families": [
+      "F-DJVU_OCR",
+      "F-SHANKARA",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 56510,
+    "expected_verses": 536,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/upanishad_editions/brihadaranyaka_ocr.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "CHAND": {
+    "scripture": "CHAND",
+    "files_count": 4,
+    "families": [
+      "F-DJVU_OCR",
+      "F-RAMANUJA",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 15750,
+    "expected_verses": 634,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/chandogya_ramanuja_bhashya_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "DEVI": {
+    "scripture": "DEVI",
+    "files_count": 11,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 112422,
+    "expected_verses": 18000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Devi Bhagwat (Gita Press).txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "GARUDA": {
+    "scripture": "GARUDA",
+    "files_count": 13,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 36036,
+    "expected_verses": 8000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/garuda_puran_hindi_external.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "GAUTAMA_DS": {
+    "scripture": "GAUTAMA_DS",
+    "files_count": 4,
+    "families": [
+      "F-GRETIL"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 1875,
+    "expected_verses": 1000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "HV": {
+    "scripture": "HV",
+    "files_count": 14,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-BORI",
+      "F-DJVU_OCR",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 6,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 93686,
+    "expected_verses": 16000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/harivansh_puran_original.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "ISHA": {
+    "scripture": "ISHA",
+    "files_count": 2,
+    "families": [
+      "F-GRETIL"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 524,
+    "expected_verses": 18,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/isha_upanishad_gretil.xml",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "KALI": {
+    "scripture": "KALI",
+    "files_count": 2,
+    "families": [
+      "F-UNKNOWN"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "bronze"
+    ],
+    "total_verses_extracted": 3387,
+    "expected_verses": 9000,
+    "coverage_pct": 37.6,
+    "best_file": "knowledge/bronze/extracted_text/Kalika Puran.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "PARTIAL"
+  },
+  "KATH": {
+    "scripture": "KATH",
+    "files_count": 2,
+    "families": [
+      "F-GITAPRESS"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "bronze"
+    ],
+    "total_verses_extracted": 3685,
+    "expected_verses": 119,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Katha Upanishad Gita Press Gorakhpur.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "KAUS": {
+    "scripture": "KAUS",
+    "files_count": 1,
+    "families": [
+      "F-DLI"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 5004,
+    "expected_verses": 88,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "KEN": {
+    "scripture": "KEN",
+    "files_count": 4,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GITAPRESS",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 13587,
+    "expected_verses": 32,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/kena_upanishad_nimbarka_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "KURM": {
+    "scripture": "KURM",
+    "files_count": 10,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-CRITICAL",
+      "F-DLI",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 6,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 78854,
+    "expected_verses": 12000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/kurma_puran_critical.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "LING": {
+    "scripture": "LING",
+    "files_count": 8,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 52796,
+    "expected_verses": 11000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Linga Puran (Gita Press).txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "MAHAN": {
+    "scripture": "MAHAN",
+    "files_count": 1,
+    "families": [
+      "F-ARCHIVE_DJVU"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 944,
+    "expected_verses": 84,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/mahan_archive_themahanarayana00jacouoft_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "MAND": {
+    "scripture": "MAND",
+    "files_count": 3,
+    "families": [
+      "F-GITAPRESS",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 8872,
+    "expected_verses": 12,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/mandukya_upanishad_ia.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "MANU": {
+    "scripture": "MANU",
+    "files_count": 5,
+    "families": [
+      "F-CRITICAL",
+      "F-DJVU_OCR",
+      "F-GRETIL"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 53504,
+    "expected_verses": 2694,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/manusmriti_6_commentaries_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "MARK": {
+    "scripture": "MARK",
+    "files_count": 8,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-DJVU_OCR",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 22312,
+    "expected_verses": 9000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/markandeya_puran_hindi_translation_external.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "MATS": {
+    "scripture": "MATS",
+    "files_count": 11,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 71049,
+    "expected_verses": 13000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Matsya Puran (Gita Press).txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "MBH": {
+    "scripture": "MBH",
+    "files_count": 14,
+    "families": [
+      "F-BORI",
+      "F-SATAVALEKAR",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 63887,
+    "expected_verses": 100000,
+    "coverage_pct": 63.9,
+    "best_file": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "PARTIAL"
+  },
+  "MUND": {
+    "scripture": "MUND",
+    "files_count": 1,
+    "families": [
+      "F-UNKNOWN"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 757,
+    "expected_verses": 83,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/mundaka_upanishad_ia.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "NARADA": {
+    "scripture": "NARADA",
+    "files_count": 13,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-DJVU_OCR",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 43320,
+    "expected_verses": 18000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Naradiya Puran (Archive.org).txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "NARADA_SM": {
+    "scripture": "NARADA_SM",
+    "files_count": 3,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GRETIL"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 17962,
+    "expected_verses": 150,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "NIRUKTA": {
+    "scripture": "NIRUKTA",
+    "files_count": 5,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GRETIL",
+      "F-KHEMRAJ"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 40021,
+    "expected_verses": 1000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/nirukta_skandasvamin_mahesvara_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "NYAYA_SUTRA": {
+    "scripture": "NYAYA_SUTRA",
+    "files_count": 1,
+    "families": [
+      "F-ARCHIVE_DJVU"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 3047,
+    "expected_verses": 560,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "PADMA": {
+    "scripture": "PADMA",
+    "files_count": 15,
+    "families": [
+      "F-GITAPRESS",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 79065,
+    "expected_verses": 1000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/padma_puran_gita_press_new_external.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "PARASHARA": {
+    "scripture": "PARASHARA",
+    "files_count": 3,
+    "families": [
+      "F-ARCHIVE_DJVU",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 126256,
+    "expected_verses": 150,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/parashara_archive_Parashara Smriti + Madhaviya Vritti+++ _djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "RM": {
+    "scripture": "RM",
+    "files_count": 24,
+    "families": [
+      "F-ANANDASHRAM",
+      "F-CRITICAL",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 70111,
+    "expected_verses": 24000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Shrimad Valmiki Ramayana (Hindi Edition) - Valmiki.txt",
+    "encoding_quality": [
+      "GOOD",
+      "LOW"
+    ],
+    "status": "VERIFIED"
+  },
+  "RV": {
+    "scripture": "RV",
+    "files_count": 25,
+    "families": [
+      "F-AUFRECHT",
+      "F-CHOWKHAMBA",
+      "F-GRETIL",
+      "F-JAYADEV",
+      "F-KHILA",
+      "F-LUBOTSKY",
+      "F-MAXMULLER",
+      "F-OLDENBERG",
+      "F-PADAPATHA",
+      "F-RAMTEK",
+      "F-SAYANA",
+      "F-SONTAKKE",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 13,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 43410,
+    "expected_verses": 10600,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/rigveda_hindi.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "SHIV": {
+    "scripture": "SHIV",
+    "files_count": 9,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 68994,
+    "expected_verses": 24000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/shiva_purana_prathamakhanda_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "SHVET": {
+    "scripture": "SHVET",
+    "files_count": 6,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GRETIL",
+      "F-RAMANUJA"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 13773,
+    "expected_verses": 113,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "SKAND": {
+    "scripture": "SKAND",
+    "files_count": 9,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-KHEMRAJ",
+      "F-RAMTEK",
+      "F-UNKNOWN",
+      "F-VENKATESHWAR"
+    ],
+    "independent_families": 7,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 96181,
+    "expected_verses": 24000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Skanda Puran (Gita Press).txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "SV": {
+    "scripture": "SV",
+    "files_count": 4,
+    "families": [
+      "F-GRETIL",
+      "F-JAYADEV",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 25917,
+    "expected_verses": 1875,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/samaveda_jayadev.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "TAITT": {
+    "scripture": "TAITT",
+    "files_count": 3,
+    "families": [
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 7472,
+    "expected_verses": 104,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/taittiriya_upanishad_ia.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "VAMAN": {
+    "scripture": "VAMAN",
+    "files_count": 14,
+    "families": [
+      "F-DJVU_OCR",
+      "F-DLI",
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 5,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 54432,
+    "expected_verses": 10000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/vamana_purana_dli_2015_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "VARAH": {
+    "scripture": "VARAH",
+    "files_count": 8,
+    "families": [
+      "F-GITAPRESS",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 37452,
+    "expected_verses": 10000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/varaha_puran_2.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "VEDANTA_SUTRA": {
+    "scripture": "VEDANTA_SUTRA",
+    "files_count": 12,
+    "families": [
+      "F-ANANDASHRAM",
+      "F-GITAPRESS",
+      "F-MADHVA",
+      "F-SHANKARA",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 5,
+    "sources": [
+      "bronze",
+      "downloads"
+    ],
+    "total_verses_extracted": 26845,
+    "expected_verses": 555,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/sa_bAdarAyaNa-brahmasUtra-comm-subcomm2.xml",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "VISH": {
+    "scripture": "VISH",
+    "files_count": 13,
+    "families": [
+      "F-GITAPRESS",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 47613,
+    "expected_verses": 23000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/vishnu_puran_sanskrit_english.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "VISHNU_SM": {
+    "scripture": "VISHNU_SM",
+    "files_count": 10,
+    "families": [
+      "F-CHOWKHAMBA",
+      "F-DJVU_OCR",
+      "F-GRETIL"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 21818,
+    "expected_verses": 100,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/vishnu_smriti_chowkhamba_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "VYU": {
+    "scripture": "VYU",
+    "files_count": 8,
+    "families": [
+      "F-DJVU_OCR",
+      "F-DLI",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 4,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 20834,
+    "expected_verses": 24000,
+    "coverage_pct": 86.8,
+    "best_file": "knowledge/downloads/vayu_purana_part2_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "YAJNAV": {
+    "scripture": "YAJNAV",
+    "files_count": 4,
+    "families": [
+      "F-DJVU_OCR",
+      "F-GRETIL"
+    ],
+    "independent_families": 2,
+    "sources": [
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 19516,
+    "expected_verses": 1054,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/yajnavalkya_smriti_mitakshara_ia_ia_djvu.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "YOGA_SUTRA": {
+    "scripture": "YOGA_SUTRA",
+    "files_count": 11,
+    "families": [
+      "F-ANANDASHRAM",
+      "F-GRETIL",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "bronze",
+      "downloads",
+      "gretil_parsed"
+    ],
+    "total_verses_extracted": 4038,
+    "expected_verses": 196,
+    "coverage_pct": 100,
+    "best_file": "knowledge/bronze/extracted_text/Yoga Sutra Darshan.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "YVK": {
+    "scripture": "YVK",
+    "files_count": 3,
+    "families": [
+      "F-DJVU_OCR",
+      "F-JAYADEV",
+      "F-UNKNOWN"
+    ],
+    "independent_families": 3,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 61825,
+    "expected_verses": 1000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/yejurveda_ia.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  },
+  "YVS": {
+    "scripture": "YVS",
+    "files_count": 1,
+    "families": [
+      "F-UNKNOWN"
+    ],
+    "independent_families": 1,
+    "sources": [
+      "downloads"
+    ],
+    "total_verses_extracted": 54147,
+    "expected_verses": 1000,
+    "coverage_pct": 100,
+    "best_file": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt",
+    "encoding_quality": [
+      "GOOD"
+    ],
+    "status": "VERIFIED"
+  }
+}

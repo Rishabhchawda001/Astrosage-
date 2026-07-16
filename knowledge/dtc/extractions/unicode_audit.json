@@ -1,0 +1,32 @@
+{
+  "total_files_checked": 1225,
+  "issues_found": 6,
+  "issues": [
+    {
+      "file": "knowledge/bronze/extracted_text/DeviMahatmyam_sanskrit_text_with_malayalam_translation.txt",
+      "issue": "garbled_encoding"
+    },
+    {
+      "file": "knowledge/bronze/extracted_text/Gayatri Worship.txt",
+      "issue": "garbled_encoding"
+    },
+    {
+      "file": "knowledge/bronze/extracted_text/SHIVA GITA (1).txt",
+      "issue": "garbled_encoding"
+    },
+    {
+      "file": "knowledge/bronze/extracted_text/Sunderkand_Path.txt",
+      "issue": "garbled_encoding"
+    },
+    {
+      "file": "knowledge/bronze/extracted_text/dasamgranth_all.txt",
+      "issue": "garbled_encoding"
+    },
+    {
+      "file": "knowledge/bronze/extracted_text/selected Mantras_English.txt",
+      "issue": "garbled_encoding"
+    }
+  ],
+  "garbled_files": 6,
+  "good_files": 1073
+}
