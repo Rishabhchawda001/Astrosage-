@@ -299,9 +299,9 @@
       "file": "knowledge/downloads/Upanishads_110.txt",
       "type": "combined",
       "exists": true,
-      "verses": 1,
+      "verses": 369,
       "expected": 119,
-      "coverage": 0.8,
+      "coverage": 100,
       "unicode": {
         "nfc": true,
         "replacements": 0,
@@ -309,7 +309,7 @@
         "quality": "GOOD"
       },
       "hash": "d2ac464eb8a616c5",
-      "certification": "PROVISIONALLY_CERTIFIED"
+      "certification": "CERTIFIED"
     },
     "KAUS": {
       "scripture": "KAUS",
