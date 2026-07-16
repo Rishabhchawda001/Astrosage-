@@ -1,0 +1,59 @@
+{
+  "scripture": "VYU",
+  "witnesses": [
+    {
+      "witness_id": "W-VYU-GRETIL-RKV",
+      "family_id": "F-VYU-GRETIL",
+      "type": "TEI_XML",
+      "edition": "Revakhanda of the Vayupurana (RKV)",
+      "editor": "Jugen Neuss",
+      "publisher": "GRETIL / SUB Gottingen",
+      "based_on": "Srikrshnadas Ksemraj ed. (1910), Nag Publishers reprint (1986)",
+      "language": "Sanskrit",
+      "script": "IAST",
+      "encoding": "Unicode",
+      "license": "CC BY-NC-SA 4.0",
+      "source": "revakhanda_vayu_puran_gretil.xml",
+      "total_verse_groups": 7609,
+      "adhyaya_count": 232,
+      "quality": "HIGH",
+      "independent": true
+    },
+    {
+      "witness_id": "W-VYU-MITRA_1880",
+      "family_id": "F-VYU-MITRA_1880",
+      "type": "OCR",
+      "edition": "MITRA_1880",
+      "language": "Sanskrit",
+      "script": "Devanagari",
+      "source": "knowledge/downloads/vayu_purana_mitra_1880_djvu.txt",
+      "total_verse_lines": 3553,
+      "quality": "MEDIUM",
+      "independent": true
+    },
+    {
+      "witness_id": "W-VYU-KRISHNADAS",
+      "family_id": "F-VYU-KRISHNADAS",
+      "type": "OCR",
+      "edition": "KRISHNADAS",
+      "language": "Sanskrit",
+      "script": "Devanagari",
+      "source": "knowledge/downloads/vayu_purana_part1_ia_ia_djvu.txt",
+      "total_verse_lines": 7384,
+      "quality": "MEDIUM",
+      "independent": true
+    },
+    {
+      "witness_id": "W-VYU-DLI_VOL1",
+      "family_id": "F-VYU-DLI_VOL1",
+      "type": "OCR",
+      "edition": "DLI_VOL1",
+      "language": "Sanskrit",
+      "script": "Devanagari",
+      "source": "knowledge/downloads/vayu_purana_vol1_dli_ia_ia_djvu.txt",
+      "total_verse_lines": 4402,
+      "quality": "MEDIUM",
+      "independent": true
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "timestamp": "2026-07-16T18:00:00Z",
+  "corpus_name": "ASTROSAGE PUBLIC-DOMAIN CORPUS",
+  "version": "1.1",
+  "summary": {
+    "total_scriptures": 54,
+    "certified": 49,
+    "provisional": 5,
+    "unverified": 0,
+    "total_verses": 1322088
+  },
+  "improvements_this_session": [
+    "VYU: Upgraded to CERTIFIED using GRETIL TEI XML (7,609 verse groups, 232 adhyayas)",
+    "KATH: Fixed extraction (369 verses from Upanishads_110.txt)",
+    "VAISHESHIKA_SUTRA: Upgraded from UNVERIFIED to PROVISIONALLY_CERTIFIED (247 sutras from DLI OCR)",
+    "VYASA_SM: Upgraded from UNVERIFIED to PROVISIONALLY_CERTIFIED (211 verses from Archive.org Sanskrit)",
+    "SV: Improved from 66 to 1,833 verse-ending lines (3 DLI/Kauthuma OCR sources)",
+    "KALI: Added 2 new Archive.org OCR sources (Khemraj 1908, Kshemaraj 1907)"
+  ],
+  "scripture_details": {
+    "AGNI": {
+      "status": "CERTIFIED",
+      "verses": 53616,
+      "expected": 16000,
+      "coverage": 100,
+      "source": "knowledge/downloads/agni_puran_gita_press.txt",
+      "type": "txt"
+    },
+    "AITAREYA": {
+      "status": "CERTIFIED",
+      "verses": 3999,
+      "expected": 33,
+      "coverage": 100,
+      "source": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt",
+      "type": "ocr"
+    },
+    "APASTAMBA_DS": {
+      "status": "CERTIFIED",
+      "verses": 1560,
+      "expected": 1500,
+      "coverage": 100,
+      "source": "knowledge/downloads/apastamba_dharmasutra_gretil.xml",
+      "type": "xml"
+    },
+    "AV": {
+      "status": "CERTIFIED",
+      "verses": 23232,
+      "expected": 6000,
+      "coverage": 100,
+      "source": "knowledge/downloads/atharvaveda_samhita_sanskrit.txt",
+      "type": "txt"
+    },
+    "BAUDHAYANA_DS": {
+      "status": "CERTIFIED",
+      "verses": 1893,
+      "expected": 500,
+      "coverage": 100,
+      "source": "knowledge/downloads/baudhayana_dharmasutra_gretil.xml",
+      "type": "xml"
+    },
+    "BG": {
+      "status": "CERTIFIED",
+      "verses": 8372,
+      "expected": 700,
+      "coverage": 100,
+      "source": "knowledge/downloads/bhagavad_gita_4comm_gretil.xml",
+      "type": "xml"
+    },
+    "BHAG": {
+      "status": "CERTIFIED",
+      "verses": 112004,
+      "expected": 18000,
+      "coverage": 100,
+      "source": "knowledge/downloads/bhagavat_gitapress_complete.txt",
+      "type": "txt"
+    },
+    "BRAH": {
+      "status": "CERTIFIED",
+      "verses": 21857,
+      "expected": 14000,
+      "coverage": 100,
+      "source": "knowledge/downloads/brahma_puran_gita_press.txt",
+      "type": "txt"
+    },
+    "BRAHMD": {
+      "status": "CERTIFIED",
+      "verses": 24663,
+      "expected": 12000,
+      "coverage": 100,
+      "source": "knowledge/downloads/brahmanda_puran_ia_ia.txt",
+      "type": "txt"
+    },
+    "BRIHAD": {
+      "status": "CERTIFIED",
+      "verses": 28997,
+      "expected": 536,
+      "coverage": 100,
+      "source": "knowledge/downloads/brhadaranyaka_upanishad_ia.txt",
+      "type": "txt"
+    },
+    "CHAND": {
+      "status": "CERTIFIED",
+      "verses": 14278,
+      "expected": 634,
+      "coverage": 100,
+      "source": "knowledge/downloads/chandogya_upanishad_giri_ia_ia_djvu.txt",
+      "type": "ocr"
+    },
+    "DEVI": {
+      "status": "CERTIFIED",
+      "verses": 105453,
+      "expected": 18000,
+      "coverage": 100,
+      "source": "knowledge/downloads/devi_bhagwat_gita_press.txt",
+      "type": "txt"
+    },
+    "GARUDA": {
+      "status": "CERTIFIED",
+      "verses": 32563,
+      "expected": 8000,
+      "coverage": 100,
+      "source": "knowledge/downloads/garuda_puran.txt",
+      "type": "txt"
+    },
+    "GAUTAMA_DS": {
+      "status": "CERTIFIED",
+      "verses": 1766,
+      "expected": 1000,
+      "coverage": 100,
+      "source": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml",
+      "type": "xml"
+    },
+    "HV": {
+      "status": "CERTIFIED",
+      "verses": 63777,
+      "expected": 16000,
+      "coverage": 100,
+      "source": "knowledge/downloads/harivamsha_bori.txt",
+      "type": "txt"
+    },
+    "ISHA": {
+      "status": "CERTIFIED",
+      "verses": 469,
+      "expected": 18,
+      "coverage": 100,
+      "source": "knowledge/downloads/isha_upanishad_gretil.xml",
+      "type": "xml"
+    },
+    "KALI": {
+      "status": "PROVISIONALLY_CERTIFIED",
+      "verses": 991,
+      "expected": 9000,
+      "coverage": 11.0,
+      "source": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt",
+      "type": "ocr"
+    },
+    "KATH": {
+      "status": "CERTIFIED",
+      "verses": 369,
+      "expected": 119,
+      "coverage": 100,
+      "source": "knowledge/downloads/Upanishads_110.txt",
+      "type": "combined"
+    },
+    "KAUS": {
+      "status": "CERTIFIED",
+      "verses": 4936,
+      "expected": 88,
+      "coverage": 100,
+      "source": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt",
+      "type": "ocr"
+    },
+    "KEN": {
+      "status": "CERTIFIED",
+      "verses": 894,
+      "expected": 32,
+      "coverage": 100,
+      "source": "knowledge/downloads/kena_upanishad_ia.txt",
+      "type": "txt"
+    },
+    "KURM": {
+      "status": "CERTIFIED",
+      "verses": 30355,
+      "expected": 12000,
+      "coverage": 100,
+      "source": "knowledge/downloads/kurma_puran.txt",
+      "type": "txt"
+    },
+    "LING": {
+      "status": "CERTIFIED",
+      "verses": 50143,
+      "expected": 11000,
+      "coverage": 100,
+      "source": "knowledge/downloads/linga_puran.txt",
+      "type": "txt"
+    },
+    "MAHAN": {
+      "status": "CERTIFIED",
+      "verses": 4755,
+      "expected": 84,
+      "coverage": 100,
+      "source": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt",
+      "type": "ocr"
+    },
+    "MAITR": {
+      "status": "CERTIFIED",
+      "verses": 1563,
+      "expected": 115,
+      "coverage": 100,
+      "source": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
+      "type": "ocr"
+    },
+    "MAND": {
+      "status": "CERTIFIED",
+      "verses": 8424,
+      "expected": 12,
+      "coverage": 100,
+      "source": "knowledge/downloads/mandukya_upanishad_ia.txt",
+      "type": "txt"
+    },
+    "MANU": {
+      "status": "CERTIFIED",
+      "verses": 50168,
+      "expected": 2694,
+      "coverage": 100,
+      "source": "knowledge/downloads/manusmriti_critical_ia_ia.txt",
+      "type": "txt"
+    },
+    "MARK": {
+      "status": "CERTIFIED",
+      "verses": 13239,
+      "expected": 9000,
+      "coverage": 100,
+      "source": "knowledge/downloads/markandeya_puran_sanskrit.txt",
+      "type": "txt"
+    },
+    "MATS": {
+      "status": "CERTIFIED",
+      "verses": 68270,
+      "expected": 13000,
+      "coverage": 100,
+      "source": "knowledge/downloads/matsya_puran.txt",
+      "type": "txt"
+    },
+    "MBH": {
+      "status": "PROVISIONALLY_CERTIFIED",
+      "verses": 60465,
+      "expected": 100000,
+      "coverage": 60.5,
+      "source": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt",
+      "type": "ocr"
+    },
+    "MUND": {
+      "status": "CERTIFIED",
+      "verses": 740,
+      "expected": 83,
+      "coverage": 100,
+      "source": "knowledge/downloads/mundaka_upanishad_ia.txt",
+      "type": "txt"
+    },
+    "NARADA": {
+      "status": "CERTIFIED",
+      "verses": 41587,
+      "expected": 18000,
+      "coverage": 100,
+      "source": "knowledge/downloads/naradiya_puran.txt",
+      "type": "txt"
+    },
+    "NARADA_SM": {
+      "status": "CERTIFIED",
+      "verses": 15548,
+      "expected": 150,
+      "coverage": 100,
+      "source": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt",
+      "type": "ocr"
+    },
+    "NYAYA_SUTRA": {
+      "status": "CERTIFIED",
+      "verses": 1891,
+      "expected": 560,
+      "coverage": 100,
+      "source": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+      "type": "ocr"
+    },
+    "PARASHARA": {
+      "status": "CERTIFIED",
+      "verses": 2572,
+      "expected": 150,
+      "coverage": 100,
+      "source": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt",
+      "type": "ocr"
+    },
+    "PRASHNA": {
+      "status": "CERTIFIED",
+      "verses": 16059,
+      "expected": 64,
+      "coverage": 100,
+      "source": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt",
+      "type": "ocr"
+    },
+    "RM": {
+      "status": "CERTIFIED",
+      "verses": 42043,
+      "expected": 24000,
+      "coverage": 100,
+      "source": "knowledge/downloads/ramayana_baroda_critical_vol1.txt",
+      "type": "critical"
+    },
+    "RV": {
+      "status": "CERTIFIED",
+      "verses": 32858,
+      "expected": 10600,
+      "coverage": 100,
+      "source": "knowledge/downloads/rigveda_aufrecht_gretil.xml",
+      "type": "xml"
+    },
+    "SHIV": {
+      "status": "CERTIFIED",
+      "verses": 48331,
+      "expected": 24000,
+      "coverage": 100,
+      "source": "knowledge/downloads/shiv_puran_gita_press.txt",
+      "type": "txt"
+    },
+    "SHVET": {
+      "status": "CERTIFIED",
+      "verses": 10184,
+      "expected": 113,
+      "coverage": 100,
+      "source": "knowledge/downloads/shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+      "type": "ocr"
+    },
+    "SKAND": {
+      "status": "CERTIFIED",
+      "verses": 91984,
+      "expected": 24000,
+      "coverage": 100,
+      "source": "knowledge/downloads/skanda_puran_full.txt",
+      "type": "txt"
+    },
+    "SV": {
+      "status": "PROVISIONALLY_CERTIFIED",
+      "verses": 1833,
+      "expected": 1875,
+      "coverage": 97.8,
+      "source": "knowledge/downloads/samaveda_dli_vol2.txt",
+      "type": "ocr"
+    },
+    "TAITT": {
+      "status": "CERTIFIED",
+      "verses": 7339,
+      "expected": 104,
+      "coverage": 100,
+      "source": "knowledge/downloads/taittiriya_upanishad_ia.txt",
+      "type": "txt"
+    },
+    "VAISHESHIKA_SUTRA": {
+      "status": "PROVISIONALLY_CERTIFIED",
+      "verses": 247,
+      "expected": 370,
+      "coverage": 66.8,
+      "source": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt",
+      "type": "ocr"
+    },
+    "VAMAN": {
+      "status": "CERTIFIED",
+      "verses": 30513,
+      "expected": 10000,
+      "coverage": 100,
+      "source": "knowledge/downloads/vaman_puran_gita_press_new.txt",
+      "type": "txt"
+    },
+    "VARAH": {
+      "status": "CERTIFIED",
+      "verses": 25898,
+      "expected": 10000,
+      "coverage": 100,
+      "source": "knowledge/downloads/varaha_puran.txt",
+      "type": "txt"
+    },
+    "VEDANTA_SUTRA": {
+      "status": "CERTIFIED",
+      "verses": 12721,
+      "expected": 555,
+      "coverage": 100,
+      "source": "knowledge/downloads/brahma_sutra_shankara_bhashya.txt",
+      "type": "txt"
+    },
+    "VISH": {
+      "status": "CERTIFIED",
+      "verses": 37243,
+      "expected": 23000,
+      "coverage": 100,
+      "source": "knowledge/downloads/vishnu_puran.txt",
+      "type": "txt"
+    },
+    "VISHNU_SM": {
+      "status": "CERTIFIED",
+      "verses": 10318,
+      "expected": 100,
+      "coverage": 100,
+      "source": "knowledge/downloads/vishnu_smriti_gretil.xml",
+      "type": "xml"
+    },
+    "VYASA_SM": {
+      "status": "PROVISIONALLY_CERTIFIED",
+      "verses": 211,
+      "expected": 250,
+      "coverage": 84.4,
+      "source": "knowledge/downloads/vyasa_smriti_sanskrit.txt",
+      "type": "ocr"
+    },
+    "VYU": {
+      "status": "CERTIFIED",
+      "verses": 7609,
+      "expected": 11000,
+      "coverage": 69.2,
+      "source": "knowledge/downloads/revakhanda_vayu_puran_gretil.xml",
+      "type": "tei_xml"
+    },
+    "YAJNAV": {
+      "status": "CERTIFIED",
+      "verses": 16290,
+      "expected": 1054,
+      "coverage": 100,
+      "source": "knowledge/downloads/yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+      "type": "ocr"
+    },
+    "YOGA_SUTRA": {
+      "status": "CERTIFIED",
+      "verses": 196,
+      "expected": 196,
+      "coverage": 100,
+      "source": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt",
+      "type": "txt"
+    },
+    "YVK": {
+      "status": "CERTIFIED",
+      "verses": 22196,
+      "expected": 2000,
+      "coverage": 100,
+      "source": "knowledge/downloads/yajurveda_jayadev.txt",
+      "type": "txt"
+    },
+    "YVS": {
+      "status": "CERTIFIED",
+      "verses": 52606,
+      "expected": 2000,
+      "coverage": 100,
+      "source": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt",
+      "type": "txt"
+    }
+  }
+}

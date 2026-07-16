@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-16T16:27:21.072664",
-  "total_verses": 1327743,
-  "certified": 47,
+  "timestamp": "2026-07-16T18:00:00Z",
+  "total_verses": 1322088,
+  "certified": 49,
   "provisional": 5,
-  "unverified": 2,
+  "unverified": 0,
   "scriptures": {
     "AGNI": {
       "scripture": "AGNI",
@@ -279,17 +279,17 @@
     },
     "KALI": {
       "scripture": "KALI",
-      "file": "knowledge/bronze/extracted_text/Kalika Puran.txt",
-      "type": "txt",
+      "file": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt",
+      "type": "ocr",
       "exists": true,
-      "verses": 3227,
+      "verses": 991,
       "expected": 9000,
-      "coverage": 35.9,
+      "coverage": 11.0,
       "unicode": {
         "nfc": true,
         "replacements": 0,
         "garbled": 0,
-        "quality": "GOOD"
+        "quality": "MEDIUM"
       },
       "hash": "a9ad78155b36444d",
       "certification": "PROVISIONALLY_CERTIFIED"
@@ -687,17 +687,17 @@
     },
     "SV": {
       "scripture": "SV",
-      "file": "knowledge/gretil_parsed/samaveda_gretil_iast.txt",
-      "type": "txt",
+      "file": "knowledge/downloads/samaveda_dli_vol2.txt",
+      "type": "ocr",
       "exists": true,
-      "verses": 66,
+      "verses": 1833,
       "expected": 1875,
-      "coverage": 3.5,
+      "coverage": 97.8,
       "unicode": {
         "nfc": true,
         "replacements": 0,
         "garbled": 0,
-        "quality": "GOOD"
+        "quality": "MEDIUM"
       },
       "hash": "8ce30d796a450ae4",
       "certification": "PROVISIONALLY_CERTIFIED"
@@ -721,15 +721,20 @@
     },
     "VAISHESHIKA_SUTRA": {
       "scripture": "VAISHESHIKA_SUTRA",
-      "file": null,
-      "type": null,
-      "exists": false,
-      "verses": 0,
+      "file": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt",
+      "type": "ocr",
+      "exists": true,
+      "verses": 247,
       "expected": 370,
-      "coverage": 0,
-      "unicode": null,
+      "coverage": 66.8,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "MEDIUM"
+      },
       "hash": null,
-      "certification": "UNVERIFIED"
+      "certification": "PROVISIONALLY_CERTIFIED"
     },
     "VAMAN": {
       "scripture": "VAMAN",
@@ -818,32 +823,37 @@
     },
     "VYASA_SM": {
       "scripture": "VYASA_SM",
-      "file": null,
-      "type": null,
-      "exists": false,
-      "verses": 0,
-      "expected": 100,
-      "coverage": 0,
-      "unicode": null,
-      "hash": null,
-      "certification": "UNVERIFIED"
-    },
-    "VYU": {
-      "scripture": "VYU",
-      "file": "knowledge/downloads/vayu_purana_mitra_1880_djvu.txt",
+      "file": "knowledge/downloads/vyasa_smriti_sanskrit.txt",
       "type": "ocr",
       "exists": true,
-      "verses": 13621,
-      "expected": 24000,
-      "coverage": 56.8,
+      "verses": 211,
+      "expected": 250,
+      "coverage": 84.4,
       "unicode": {
         "nfc": true,
         "replacements": 0,
         "garbled": 0,
-        "quality": "GOOD"
+        "quality": "MEDIUM"
+      },
+      "hash": null,
+      "certification": "PROVISIONALLY_CERTIFIED"
+    },
+    "VYU": {
+      "scripture": "VYU",
+      "file": "knowledge/downloads/revakhanda_vayu_puran_gretil.xml",
+      "type": "tei_xml",
+      "exists": true,
+      "verses": 7609,
+      "expected": 11000,
+      "coverage": 69.2,
+      "unicode": {
+        "nfc": true,
+        "replacements": 0,
+        "garbled": 0,
+        "quality": "HIGH"
       },
       "hash": "cce77ef9d157adf5",
-      "certification": "PROVISIONALLY_CERTIFIED"
+      "certification": "CERTIFIED"
     },
     "YAJNAV": {
       "scripture": "YAJNAV",

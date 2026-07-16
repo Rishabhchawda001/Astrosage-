@@ -1,0 +1,31 @@
+{
+  "scripture": "VYASA_SM",
+  "status": "PROVISIONALLY_CERTIFIED",
+  "reason": "Sanskrit text available from 'All 18 Smritis' collection on Archive.org (OCR). 211 verses extracted. Expected ~250 verses across 4 chapters. OCR has some garbled characters.",
+  "sources": [
+    {
+      "file": "knowledge/downloads/vyasa_smriti_sanskrit.txt",
+      "type": "OCR",
+      "title": "Vyasa Smriti (Sanskrit)",
+      "source": "Archive.org (all-18-smritis collection)",
+      "devanagari_lines": 560,
+      "verse_count": 211,
+      "hash": "ebf46cddb78b",
+      "quality": "MEDIUM"
+    },
+    {
+      "file": "knowledge/downloads/vyasa_smriti_dutt.txt",
+      "type": "OCR",
+      "title": "Vyasa Smriti (M.N. Dutt translation)",
+      "source": "Archive.org (vyasa-smriti-m-n-dutt)",
+      "hash": "557c92d640e5",
+      "quality": "LOW",
+      "note": "English translation with Sanskrit, published 1907"
+    }
+  ],
+  "expected_verses": 250,
+  "expected_adhyayas": 4,
+  "coverage": 84.4,
+  "independent_families": 1,
+  "unicode_quality": "MEDIUM"
+}

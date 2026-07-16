@@ -1,0 +1,32 @@
+{
+  "scripture": "VAISHESHIKA_SUTRA",
+  "status": "PROVISIONALLY_CERTIFIED",
+  "reason": "Two DLI OCR sources available. Sutra text partially extracted (247 numbered sutras in primary source, 3611 Devanagari lines in commentary). OCR quality is mixed. Expected ~370 sutras across 10 adhyayas.",
+  "sources": [
+    {
+      "file": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt",
+      "type": "OCR",
+      "title": "Vaisheshika Darshana",
+      "source": "DLI (in.ernet.dli.2015.496363)",
+      "devanagari_lines": 463,
+      "numbered_sutras": 247,
+      "hash": "38af338fc2ea",
+      "quality": "MEDIUM"
+    },
+    {
+      "file": "knowledge/downloads/vaisheshika_sutra_vritti_dli_383294.txt",
+      "type": "OCR",
+      "title": "Vaisheshika Sutra Vritti (Jayanarayana)",
+      "source": "DLI (in.ernet.dli.2015.383294)",
+      "devanagari_lines": 3611,
+      "hash": "e6211a65ce2a",
+      "quality": "MEDIUM",
+      "note": "Commentary by Jayanarayana (Tarkapanchanana), includes original sutras"
+    }
+  ],
+  "expected_sutras": 370,
+  "expected_adhyayas": 10,
+  "coverage": 66.8,
+  "independent_families": 1,
+  "unicode_quality": "MEDIUM"
+}

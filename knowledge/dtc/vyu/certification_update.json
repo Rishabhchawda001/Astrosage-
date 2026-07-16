@@ -1,0 +1,16 @@
+{
+  "scripture": "VYU",
+  "status": "CERTIFIED",
+  "primary_source": "revakhanda_vayu_puran_gretil.xml",
+  "primary_source_type": "TEI_XML",
+  "primary_source_quality": "HIGH",
+  "primary_source_license": "CC BY-NC-SA 4.0",
+  "total_witnesses": 4,
+  "independent_families": 4,
+  "gretil_verses": 7609,
+  "gretil_adhyayas": 232,
+  "ocr_total_verses": 15339,
+  "expected_verses": 11000,
+  "coverage": 69.2,
+  "unicode_nfc_issues": 0
+}
