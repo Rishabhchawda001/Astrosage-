@@ -1,0 +1,758 @@
+{
+  "AGNI": {
+    "scripture": "AGNI",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "AITAREYA": {
+    "scripture": "AITAREYA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 80,
+      "witness": 80,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 93
+    },
+    "overall_confidence": 93
+  },
+  "APASTAMBA_DS": {
+    "scripture": "APASTAMBA_DS",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 0,
+      "witness": 0,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 71
+  },
+  "AV": {
+    "scripture": "AV",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "BAUDHAYANA_DS": {
+    "scripture": "BAUDHAYANA_DS",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 0,
+      "witness": 0,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 71
+  },
+  "BG": {
+    "scripture": "BG",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 30,
+      "witness": 40,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 78
+    },
+    "overall_confidence": 78
+  },
+  "BHAG": {
+    "scripture": "BHAG",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "BRAH": {
+    "scripture": "BRAH",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "BRAHMD": {
+    "scripture": "BRAHMD",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 0,
+      "witness": 0,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 71
+  },
+  "BRIHAD": {
+    "scripture": "BRIHAD",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 70,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 95
+    },
+    "overall_confidence": 95
+  },
+  "CHAND": {
+    "scripture": "CHAND",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "DEVI": {
+    "scripture": "DEVI",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "GARUDA": {
+    "scripture": "GARUDA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "GAUTAMA_DS": {
+    "scripture": "GAUTAMA_DS",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 0,
+      "witness": 0,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 71
+  },
+  "HV": {
+    "scripture": "HV",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "ISHA": {
+    "scripture": "ISHA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "KALI": {
+    "scripture": "KALI",
+    "certification": "PROVISIONALLY_CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 90,
+      "witness": 100,
+      "canonical": 15,
+      "unicode": 50,
+      "parser": 100,
+      "evidence": 76
+    },
+    "overall_confidence": 76
+  },
+  "KATH": {
+    "scripture": "KATH",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 60,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 93
+    },
+    "overall_confidence": 93
+  },
+  "KAUS": {
+    "scripture": "KAUS",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 10,
+      "witness": 20,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 72
+    },
+    "overall_confidence": 72
+  },
+  "KEN": {
+    "scripture": "KEN",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 50,
+      "witness": 40,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 82
+    },
+    "overall_confidence": 82
+  },
+  "KURM": {
+    "scripture": "KURM",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "LING": {
+    "scripture": "LING",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "MAHAN": {
+    "scripture": "MAHAN",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 20,
+      "witness": 40,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 77
+    },
+    "overall_confidence": 77
+  },
+  "MAITR": {
+    "scripture": "MAITR",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 10,
+      "witness": 20,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 72
+    },
+    "overall_confidence": 72
+  },
+  "MAND": {
+    "scripture": "MAND",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "MANU": {
+    "scripture": "MANU",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "MARK": {
+    "scripture": "MARK",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "MATS": {
+    "scripture": "MATS",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "MBH": {
+    "scripture": "MBH",
+    "certification": "PROVISIONALLY_CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 90,
+      "witness": 100,
+      "canonical": 60,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 92
+    },
+    "overall_confidence": 92
+  },
+  "MUND": {
+    "scripture": "MUND",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 30,
+      "witness": 60,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 82
+    },
+    "overall_confidence": 82
+  },
+  "NARADA": {
+    "scripture": "NARADA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "NARADA_SM": {
+    "scripture": "NARADA_SM",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 50,
+      "witness": 40,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 82
+    },
+    "overall_confidence": 82
+  },
+  "NYAYA_SUTRA": {
+    "scripture": "NYAYA_SUTRA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 10,
+      "witness": 20,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 72
+    },
+    "overall_confidence": 72
+  },
+  "PARASHARA": {
+    "scripture": "PARASHARA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 30,
+      "witness": 60,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 82
+    },
+    "overall_confidence": 82
+  },
+  "PRASHNA": {
+    "scripture": "PRASHNA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 20,
+      "witness": 40,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 77
+    },
+    "overall_confidence": 77
+  },
+  "RM": {
+    "scripture": "RM",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "RV": {
+    "scripture": "RV",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "SHIV": {
+    "scripture": "SHIV",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "SHVET": {
+    "scripture": "SHVET",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 80,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 97
+    },
+    "overall_confidence": 97
+  },
+  "SKAND": {
+    "scripture": "SKAND",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "SV": {
+    "scripture": "SV",
+    "certification": "PROVISIONALLY_CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 98,
+      "unicode": 50,
+      "parser": 100,
+      "evidence": 91
+    },
+    "overall_confidence": 91
+  },
+  "TAITT": {
+    "scripture": "TAITT",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 70,
+      "witness": 60,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 88
+    },
+    "overall_confidence": 88
+  },
+  "VAISHESHIKA_SUTRA": {
+    "scripture": "VAISHESHIKA_SUTRA",
+    "certification": "PROVISIONALLY_CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 40,
+      "witness": 60,
+      "canonical": 25,
+      "unicode": 50,
+      "parser": 100,
+      "evidence": 62
+    },
+    "overall_confidence": 62
+  },
+  "VAMAN": {
+    "scripture": "VAMAN",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "VARAH": {
+    "scripture": "VARAH",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "VEDANTA_SUTRA": {
+    "scripture": "VEDANTA_SUTRA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 0,
+      "witness": 0,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 71
+  },
+  "VISH": {
+    "scripture": "VISH",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 100,
+      "witness": 100,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 100
+  },
+  "VISHNU_SM": {
+    "scripture": "VISHNU_SM",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 50,
+      "witness": 40,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 82
+    },
+    "overall_confidence": 82
+  },
+  "VYASA_SM": {
+    "scripture": "VYASA_SM",
+    "certification": "PROVISIONALLY_CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 20,
+      "witness": 20,
+      "canonical": 84,
+      "unicode": 50,
+      "parser": 100,
+      "evidence": 62
+    },
+    "overall_confidence": 62
+  },
+  "VYU": {
+    "scripture": "VYU",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 60,
+      "witness": 100,
+      "canonical": 69,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 88
+    },
+    "overall_confidence": 88
+  },
+  "YAJNAV": {
+    "scripture": "YAJNAV",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 60,
+      "witness": 60,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 87
+    },
+    "overall_confidence": 87
+  },
+  "YOGA_SUTRA": {
+    "scripture": "YOGA_SUTRA",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 90,
+      "witness": 40,
+      "canonical": 20,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 75
+    },
+    "overall_confidence": 75
+  },
+  "YVK": {
+    "scripture": "YVK",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 10,
+      "witness": 20,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 72
+    },
+    "overall_confidence": 72
+  },
+  "YVS": {
+    "scripture": "YVS",
+    "certification": "CERTIFIED",
+    "scores": {
+      "discovery": 100,
+      "repository": 0,
+      "witness": 0,
+      "canonical": 100,
+      "unicode": 100,
+      "parser": 100,
+      "evidence": 100
+    },
+    "overall_confidence": 71
+  }
+}

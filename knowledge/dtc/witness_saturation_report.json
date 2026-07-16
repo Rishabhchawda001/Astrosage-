@@ -1,0 +1,6433 @@
+{
+  "AGNI": {
+    "source_count": 23,
+    "independent_families": 14,
+    "families": [
+      "AGNI PURAN (GITA PRE",
+      "AGNI PURAN 2.TXT",
+      "AGNI PURAN 3.TXT",
+      "AGNI PURAN 4.TXT",
+      "AGNI-PURAN (2).TXT",
+      "AGNI-PURANAM (1).TXT",
+      "AGNI_PURAN_ANAND_ASH",
+      "AGNI_PURAN_CHOWKHAMB",
+      "AGNI_PURAN_ENGLISH_M",
+      "AGNI_PURAN_OF_MAHARS",
+      "AGNI_PURAN_STUDY_GYA",
+      "GITAPRESS",
+      "GRETIL",
+      "SA_AGNIPURANA.XML"
+    ],
+    "sources": [
+      {
+        "file": "agni_puran_anand_ashram.txt",
+        "size_bytes": 3580187,
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_gita_press.txt",
+        "size_bytes": 6679116,
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_english_motilal.txt",
+        "size_bytes": 2614972,
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_gitapress_old.txt",
+        "size_bytes": 6799538,
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_gretil.xml",
+        "size_bytes": 2168530,
+        "type": "XML"
+      },
+      {
+        "file": "agni_puran_gita_press_new.txt",
+        "size_bytes": 2893476,
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_chowkhamba.txt",
+        "size_bytes": 7612575,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_agnipurANa.xml",
+        "size_bytes": 2168530,
+        "type": "XML"
+      },
+      {
+        "file": "agni_puran_chowkhamba_ia_ia.txt",
+        "size_bytes": 7612575,
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_study_gyani_ia.txt",
+        "size_bytes": 3521938,
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "agni_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "agni_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Agni Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Agni Puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Agni puran 3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "agni Puran 4.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "agni-puran (2).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "agni-puranam (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_chowkhamba_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "agni_puran_gitapress_old_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/agni_puran_gita_press.txt"
+  },
+  "AITAREYA": {
+    "source_count": 8,
+    "independent_families": 4,
+    "families": [
+      "AITAREYA_GURUDATT_BH",
+      "GITAPRESS",
+      "GRETIL",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "aitareya_upanishad_gretil.xml",
+        "size_bytes": 75536,
+        "type": "XML"
+      },
+      {
+        "file": "aitareya_upanishad_gp_ia_ia_djvu.txt",
+        "size_bytes": 347606,
+        "type": "OCR"
+      },
+      {
+        "file": "aitareya_gurudatt_bhashya_djvu.txt",
+        "size_bytes": 467293,
+        "type": "OCR"
+      },
+      {
+        "file": "aitareya_gita_press_djvu.txt",
+        "size_bytes": 347606,
+        "type": "OCR"
+      },
+      {
+        "file": "yvk_archive_TaittiriyaAitareyaSwetaswataraUpanishadsWithTika-ERoer1874bis_djvu.txt",
+        "size_bytes": 1151316,
+        "type": "OCR"
+      },
+      {
+        "file": "aitareya_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "aitareya_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "aitareya_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt"
+  },
+  "APASTAMBA_DS": {
+    "source_count": 0,
+    "independent_families": 0,
+    "families": [],
+    "sources": [],
+    "primary_source": "knowledge/downloads/apastamba_dharmasutra_gretil.xml"
+  },
+  "AV": {
+    "source_count": 170,
+    "independent_families": 73,
+    "families": [
+      "60. RASHMI YADAV, GW",
+      "ARTHURAVALONKULARNAV",
+      "ASTAVAKRA_GITA_SANSK",
+      "ATHARVAVEDA SAMHITA ",
+      "ATHARVAVEDA_SAMHITA_",
+      "ATHARVAVEDA_VOL1_SAY",
+      "BASAVA-PURANAM-TELUG",
+      "BAVISHYA-PURAN (1).T",
+      "BHAGAVAD-GITA BENGAL",
+      "BHAGAVAD-GITA-AS-IT-",
+      "BHAGAVAD-GITA-SWAMI-",
+      "BHAGAVAD_GITA_EDITIO",
+      "BHAGAVAD_GITA_PULLEL",
+      "BHAGAVAD_GITA_WARRIE",
+      "BHAGAVAT PURANA HIND",
+      "BHAGAVAT PURANA VOL ",
+      "BHAGAVAT_CHAUKHAMBA_",
+      "BHAGAVAT_PURANA_HIND",
+      "BHAGAVAT_SEARCHABLE.",
+      "BHAGAVAT_VOL2_SANSKR",
+      "BHAVANBHASKAR-VASTU-",
+      "BHAVISHYA MALIKA BOO",
+      "BHAVISHYA MALLIKA",
+      "BHAVISHYA-MALIKA-IN-",
+      "BHAVISHYAPURANAM-TEL",
+      "BHAVISHYA_PURAN.TXT",
+      "CHAKRA-MAHAVIJNAN.TX",
+      "COMMENTARY_TRADITION",
+      "DLI",
+      "EDUCATIONANDGURUSHIP",
+      "GITAPRESS",
+      "GRETIL",
+      "INSTAPDF.IN-BHAVISHY",
+      "KAUTHUMA",
+      "MADHVA_TRADITION",
+      "NARAYAN KAVACH (HIND",
+      "NAVGRAHA CHALISA.TXT",
+      "NIRUKTA_SATYAVRATA_1",
+      "RAGHAV ANULOM VILOM.",
+      "RAGHAV-YADVIYAM.TXT",
+      "RAVAN-SAMHITA-1.TXT",
+      "RAVAN-SAMHITA-2.TXT",
+      "RAVAN-SAMHITA-3.TXT",
+      "RAVAN-SAMHITA-4.TXT",
+      "RAVAN-SAMHITA-5.TXT",
+      "RYLBMXI2TS6MWDUMAVTV",
+      "SAMAVEDA_SAMHITA.TXT",
+      "SA_BHAGAVATAPURANA.X",
+      "SA_RUPAGOSVAMIN-LAGH",
+      "SA_VAMADEVA-JANMAMAR",
+      "SHIV THADAV STOTRAM.",
+      "SHIVA_MAHIMNA_STAVA_",
+      "SHRI YOGAVASHISHT MA",
+      "SHRI-YOGAVASISHTHA-1",
+      "SHRI-YOGAVASISHTHA-2",
+      "SHRI-YOGAVASISHTHA-3",
+      "SHRI-YOGAVASISHTHA-4",
+      "SRIMAD-BHAGAVAD-GITA",
+      "SRIVISHNUSAHASRANAMA",
+      "TELUGU-BHAGAVAD-GITA",
+      "UPANISHAD_COLLECTION",
+      "VIGYAN BHAIRAV (BAPU",
+      "VIGYAN BHAIRAV (RUDR",
+      "VIGYAN BHAIRAV TANTR",
+      "VRDDHAYAVANJATAKA OF",
+      "WG463-1981-AKASHBHAI",
+      "YAJNAVALKYA_SMRITI_B",
+      "YAJNAVALKYA_SMRITI_M",
+      "YOGAVASISHTHA FULL (",
+      "YOGAVASISHTHA_FULL_D",
+      "YOGAVASISHTHA_HINDI_",
+      "YOGAVASISHTHA_MARATH",
+      "YOGAVASISHTHA_SANSKR"
+    ],
+    "sources": [
+      {
+        "file": "EducationandGurushipVaisnavis.txt",
+        "size_bytes": 205325,
+        "type": "OCR"
+      },
+      {
+        "file": "EducationandGurushipVaisnavis_201410.txt",
+        "size_bytes": 216194,
+        "type": "OCR"
+      },
+      {
+        "file": "atharvaveda_jayadev_part1.txt",
+        "size_bytes": 2113053,
+        "type": "OCR"
+      },
+      {
+        "file": "atharvaveda_samhita_sanskrit.txt",
+        "size_bytes": 3081784,
+        "type": "OCR"
+      },
+      {
+        "file": "atharvaveda_vol1_sayana.txt",
+        "size_bytes": 3369803,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_purana_hindi_full.txt",
+        "size_bytes": 9273505,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol1_gita_press.txt",
+        "size_bytes": 6648787,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol2_sanskrit_hindi.txt",
+        "size_bytes": 6559049,
+        "type": "OCR"
+      },
+      {
+        "file": "bhavishya_puran.txt",
+        "size_bytes": 4728614,
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_full_djvu.txt",
+        "size_bytes": 17764150,
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_hindi_part2.txt",
+        "size_bytes": 3912964,
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_hindi_part3.txt",
+        "size_bytes": 3531755,
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_hindi_part4.txt",
+        "size_bytes": 5672028,
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_marathi.txt",
+        "size_bytes": 4682550,
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_sanskrit_tatparyaprakasha_v2.txt",
+        "size_bytes": 8538203,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_gita_press_sanskrit_hindi.txt",
+        "size_bytes": 6801917,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_searchable.txt",
+        "size_bytes": 2571249,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavata_gretil_tei.xml",
+        "size_bytes": 2600905,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavata_gretil.xml",
+        "size_bytes": 2600905,
+        "type": "XML"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil.xml",
+        "size_bytes": 526680,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil.xml",
+        "size_bytes": 2056476,
+        "type": "XML"
+      },
+      {
+        "file": "astavakra_gita_gretil.xml",
+        "size_bytes": 186305,
+        "type": "XML"
+      },
+      {
+        "file": "yajnavalkya_smriti_gretil.xml",
+        "size_bytes": 670829,
+        "type": "XML"
+      },
+      {
+        "file": "vijnana_bhairava_gretil.xml",
+        "size_bytes": 33279,
+        "type": "XML"
+      },
+      {
+        "file": "samaveda_jayadev.txt",
+        "size_bytes": 3008265,
+        "type": "OCR"
+      },
+      {
+        "file": "samaveda_samhita.txt",
+        "size_bytes": 2762687,
+        "type": "OCR"
+      },
+      {
+        "file": "bhavishya_puran_gita_press.txt",
+        "size_bytes": 4709487,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_gitapress_complete.txt",
+        "size_bytes": 13000671,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol1.txt",
+        "size_bytes": 5469581,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol2.txt",
+        "size_bytes": 4649143,
+        "type": "OCR"
+      },
+      {
+        "file": "samaveda_gretil.xml",
+        "size_bytes": 272261,
+        "type": "XML"
+      },
+      {
+        "file": "atharvaveda_samhita_sayana_ia.txt",
+        "size_bytes": 2941883,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva mahimna stava_gretil.xml",
+        "size_bytes": 35594,
+        "type": "XML"
+      },
+      {
+        "file": "namaskaraikavimshati stotra_gretil.xml",
+        "size_bytes": 13476,
+        "type": "XML"
+      },
+      {
+        "file": "manava_grihya_sutra_gretil.xml",
+        "size_bytes": 100627,
+        "type": "XML"
+      },
+      {
+        "file": "astavakra_gita_sanskrit_ia_ia_djvu.txt",
+        "size_bytes": 145391,
+        "type": "OCR"
+      },
+      {
+        "file": "eight_upanishads_vaishnava_ia_ia_djvu.txt",
+        "size_bytes": 1495223,
+        "type": "OCR"
+      },
+      {
+        "file": "yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+        "size_bytes": 2847523,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavad_gita_comm_gretil.xml",
+        "size_bytes": 557385,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_editions",
+        "size_bytes": 3452,
+        "type": "XML"
+      },
+      {
+        "file": "vijJAnabhairava_gretil.xml",
+        "size_bytes": 33279,
+        "type": "XML"
+      },
+      {
+        "file": "abhinavagupta_krama_stotra_gretil.xml",
+        "size_bytes": 17580,
+        "type": "XML"
+      },
+      {
+        "file": "yajnavalkya_smriti_mitakshara_ia_ia_djvu.txt",
+        "size_bytes": 3136013,
+        "type": "OCR"
+      },
+      {
+        "file": "gopatha_brahmana_atharvaveda_dli_djvu.txt",
+        "size_bytes": 500687,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva_mahimna_stava_kannada_djvu.txt",
+        "size_bytes": 499287,
+        "type": "OCR"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil.xml",
+        "size_bytes": 450282,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil.xml",
+        "size_bytes": 557385,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_warrier_bhashya_djvu.txt",
+        "size_bytes": 990003,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_rUpagosvAmin-laghubhAgavatAmRta.xml",
+        "size_bytes": 174389,
+        "type": "XML"
+      },
+      {
+        "file": "sa_vAmadeva-janmamaraNavicAra.xml",
+        "size_bytes": 39234,
+        "type": "XML"
+      },
+      {
+        "file": "samaveda_kauthuma.txt",
+        "size_bytes": 498397,
+        "type": "OCR"
+      },
+      {
+        "file": "abhinavagupta_bhairava_stava_gretil.xml",
+        "size_bytes": 11411,
+        "type": "XML"
+      },
+      {
+        "file": "nirukta_satyavrata_1912_djvu.txt",
+        "size_bytes": 236796,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavad_gita_pullela_telugu_djvu.txt",
+        "size_bytes": 5039505,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_bhAgavatapurANa.xml",
+        "size_bytes": 2600905,
+        "type": "XML"
+      },
+      {
+        "file": "parashara_archive_Parashara Smriti + Madhaviya Vritti+++ _djvu.txt",
+        "size_bytes": 10396511,
+        "type": "OCR"
+      },
+      {
+        "file": "samaveda_dli_vol3.txt",
+        "size_bytes": 1233909,
+        "type": "OCR"
+      },
+      {
+        "file": "samaveda_dli_vol2.txt",
+        "size_bytes": 1190925,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavata_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_tei_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_tei_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_tei_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "astavakra_gita_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "samaveda_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "samaveda_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vijnana_bhairava_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vijnana_bhairava_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vijnana_bhairava_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yajnavalkya_smriti_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "astavakra_gita_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "astavakra_gita_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "samaveda_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yajnavalkya_smriti_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yajnavalkya_smriti_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva mahimna stava_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vijJAnabhairava_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "abhinavagupta_krama_stotra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "abhinavagupta_bhairava_stava_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "abhinavagupta_bhairava_stava_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "manava_grihya_sutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "manava_grihya_sutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva mahimna stava_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva mahimna stava_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "abhinavagupta_krama_stotra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "abhinavagupta_bhairava_stava_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "manava_grihya_sutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "namaskaraikavimshati stotra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vijJAnabhairava_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "abhinavagupta_krama_stotra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "namaskaraikavimshati stotra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "namaskaraikavimshati stotra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vijJAnabhairava_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "60. Rashmi Yadav, Gwaliar (M.P.) .txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Atharvaveda Samhita Sanskrit.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavad-gita-Swami-BG-Narasingha.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhavishya malika book.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhavishya mallika",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhavishya-Malika-in-Hindi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ArthurAvalonKularnavaTantraEng.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavad-gita Bengali.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavat Purana Hindi Full (Variant Edition).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavat Purana Vol 1 Gita Press (Variant).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shri-Yogavasishtha-4.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vat savitri vrat katha",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vigyan Bhairav Tantra, Vol 2 (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vigyan bhairav tantra (English)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vigyan bhairav tantra",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Yogavasishtha Full (Archive.org).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhavishyapuranam-telugu.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ravan-samhita-5.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "shiv thadav stotram.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Navgraha Chalisa.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shri-Yogavasishtha-3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "SriVishnuSahasranamaStotramNamavali-MalayalamA5.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Srimad-Bhagavad-Gita-in-Gujarati.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vigyan Bhairav Tantra, Vol 1 (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vrddhayavanjataka of Minaraja 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "basava-puranam-telugu.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhavanbhaskar-vastu-shastra (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "raghav-yadviyam.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Raghav-yadviyam.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shri yogavashisht maharamayan",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shri-Yogavasishtha-2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vrddhayavanjataka of Minaraja 2 (2).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "WG463-1981-AkashBhairavaKalpamOfUmaMaheshwara.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bavishya-puran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavad-gita-as-it-is.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol2_sanskrit_hindi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ravan-samhita-2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Narayan kavach (hindi)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Narayaneeyam Bhagavata Condensed Of Meppathur Narayana Bhattatiri Traslated By Swami Tapasyananda - Sri Ramakrishna Math, Madras.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Raghav anulom vilom.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "RekhaganitaVOL_II_DLI.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "RylbMXI2Ts6mwdUmAVTV_सिकंदर.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shri-Yogavasishtha-1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Telugu-Bhagavad-gita-His-Divine-Grace-AC-Bhaktivedanta-Swami-Prabhupada (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "VIGYAN BHAIRAV (RUDRYAMAL TANTRA KA GOOD REHASYA) Bhairav Bhairvi Samwad (Hindi Edition) (DASHORA, NANDLAL) (Z-Library).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vigyan bhairav (bapulal).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol1_gita_press.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhavanbhaskar-vastu-shastra.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "chakra-mahavijnan.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "instapdf.in-bhavishya-malika-book-691.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ravan-samhita-1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ravan-samhita-4.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "वट-सावित्री-व्रत-कथा-vat-savitri-vrat-katha-436 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhavishya_puran_gita_press_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ravan-samhita-3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol1_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol2_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_hindi_part4_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_sanskrit_tatparyaprakasha_v2_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_gitapress_complete_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_hindi_part2_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_hindi_part3_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yogavasishtha_marathi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_gita_press_sanskrit_hindi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/atharvaveda_samhita_sanskrit.txt"
+  },
+  "BAUDHAYANA_DS": {
+    "source_count": 0,
+    "independent_families": 0,
+    "families": [],
+    "sources": [],
+    "primary_source": "knowledge/downloads/baudhayana_dharmasutra_gretil.xml"
+  },
+  "BG": {
+    "source_count": 3,
+    "independent_families": 2,
+    "families": [
+      "BHAGAVAD-GITA-SWAMI-",
+      "GITAPRESS"
+    ],
+    "sources": [
+      {
+        "file": "bg_gita_press_tattva_vivecana.pdf",
+        "size_bytes": 554465586,
+        "type": "XML"
+      },
+      {
+        "file": "bg_gita_press_djvu.txt",
+        "size_bytes": 5154789,
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavad-gita-Swami-BG-Narasingha.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/bhagavad_gita_4comm_gretil.xml"
+  },
+  "BHAG": {
+    "source_count": 69,
+    "independent_families": 38,
+    "families": [
+      "2015.327535.SHRIMAD-",
+      "BHAGAVAD-GITA BENGAL",
+      "BHAGAVAD-GITA-AS-IT-",
+      "BHAGAVAD-GITA-SWAMI-",
+      "BHAGAVAD_GITA_EDITIO",
+      "BHAGAVAD_GITA_PULLEL",
+      "BHAGAVAD_GITA_WARRIE",
+      "BHAGAVAT PURANA HIND",
+      "BHAGAVAT PURANA VOL ",
+      "BHAGAVAT_CHAUKHAMBA_",
+      "BHAGAVAT_PURANA_HIND",
+      "BHAGAVAT_SEARCHABLE.",
+      "BHAGAVAT_VOL2_SANSKR",
+      "BHAGWAT",
+      "BHAGWAT GEETA (ENGLI",
+      "BHAGWAT GEETA (HINDI",
+      "BHAGWAT GEETA (PUNJA",
+      "BHAGWAT GEETA (TELUG",
+      "BHAGWAT GEETA AS IT ",
+      "BHAGWAT GITA (BENGAL",
+      "BHAGWAT-PURAN (1).TX",
+      "DEVI BHAGVAT PURAN.T",
+      "DEVI BHAGWAT (GITA P",
+      "DEVI_BHAGWAT_IA_IA.T",
+      "DEVI_BHAGWAT_NILKANT",
+      "DEVI_BHAGWAT_SANSKRI",
+      "GITAPRESS",
+      "GRETIL",
+      "HINDI BOOK-DEVI BHAG",
+      "KHEMRAJ",
+      "MADHVA_TRADITION",
+      "SA_BHAGAVATAPURANA.X",
+      "SA_RUPAGOSVAMIN-LAGH",
+      "SHRIMAD BHAGWAD GEET",
+      "SHRIMAD BHAGWAT GEET",
+      "SRIMAD-BHAGAVAD-GITA",
+      "SRIMADBHAGVADGITA-TA",
+      "TELUGU-BHAGAVAD-GITA"
+    ],
+    "sources": [
+      {
+        "file": "bhagavat_purana_hindi_full.txt",
+        "size_bytes": 9273505,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol1_gita_press.txt",
+        "size_bytes": 6648787,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol2_sanskrit_hindi.txt",
+        "size_bytes": 6559049,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagwat_puran_part1_khemraj.txt",
+        "size_bytes": 6612594,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagwat_puran_part2_khemraj.txt",
+        "size_bytes": 6558545,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_gita_press.txt",
+        "size_bytes": 12085032,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_gitapress_2.txt",
+        "size_bytes": 6241673,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_gita_press_sanskrit_hindi.txt",
+        "size_bytes": 6801917,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_prasang_gita_press.txt",
+        "size_bytes": 132705,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_searchable.txt",
+        "size_bytes": 2571249,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_nilkanthi.txt",
+        "size_bytes": 6964978,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavata_gretil_tei.xml",
+        "size_bytes": 2600905,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavata_gretil.xml",
+        "size_bytes": 2600905,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil.xml",
+        "size_bytes": 2056476,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavat_gitapress_complete.txt",
+        "size_bytes": 13000671,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol1.txt",
+        "size_bytes": 5469581,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol2.txt",
+        "size_bytes": 4649143,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_ia_ia.txt",
+        "size_bytes": 6000980,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavad_gita_comm_gretil.xml",
+        "size_bytes": 557385,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_editions",
+        "size_bytes": 3452,
+        "type": "XML"
+      },
+      {
+        "file": "devi_bhagwat_sanskrit_english_ia_ia_djvu.txt",
+        "size_bytes": 2190197,
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil.xml",
+        "size_bytes": 557385,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_warrier_bhashya_djvu.txt",
+        "size_bytes": 990003,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_rUpagosvAmin-laghubhAgavatAmRta.xml",
+        "size_bytes": 174389,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavad_gita_pullela_telugu_djvu.txt",
+        "size_bytes": 5039505,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_bhAgavatapurANa.xml",
+        "size_bytes": 2600905,
+        "type": "XML"
+      },
+      {
+        "file": "bhagavata_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_tei_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_tei_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavata_gretil_tei_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_4comm_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "bhagavad_gita_shankara_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "2015.327535.Shrimad-Bhagwad.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavad-gita-Swami-BG-Narasingha.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagwat geeta (hindi)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Devi Bhagvat Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Hindi Book-Devi Bhagvat Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavad-gita Bengali.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavat Purana Hindi Full (Variant Edition).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagavat Purana Vol 1 Gita Press (Variant).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagwat Geeta as it is (Prabhupada)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagwat geeta (English)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagwat geeta (Telugu)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagwat geeta (punjabi)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagwat gita (bengali)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhagwat",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Devi Bhagwat (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Srimad-Bhagavad-Gita-in-Gujarati.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shrimad bhagwad geeta (English)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavad-gita-as-it-is.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol2_sanskrit_hindi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagwat-puran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Narayaneeyam Bhagavata Condensed Of Meppathur Narayana Bhattatiri Traslated By Swami Tapasyananda - Sri Ramakrishna Math, Madras.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shrimad bhagwat geeta.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Telugu-Bhagavad-gita-His-Divine-Grace-AC-Bhaktivedanta-Swami-Prabhupada (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_vol1_gita_press.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_prasang_gita_press_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol1_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_chaukhamba_gudhartha_vol2_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "srimadbhagvadgita-tattva-vivechani-457-gita-press-azimvth-ashram.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_gitapress_complete_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhagavat_gita_press_sanskrit_hindi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_nilkanthi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/bhagavat_gitapress_complete.txt"
+  },
+  "BRAH": {
+    "source_count": 113,
+    "independent_families": 41,
+    "families": [
+      "BRAHAMAND (1).TXT",
+      "BRAHAMANDP (1).TXT",
+      "BRAHM VAIVART PURAN ",
+      "BRAHMA PURAN PART 1 ",
+      "BRAHMA VAIVARTA PURA",
+      "BRAHMA-SPHUTA-SIDDHA",
+      "BRAHMACHARYA KI SHAK",
+      "BRAHMAND PURAN 1.TXT",
+      "BRAHMAND PURAN 2.TXT",
+      "BRAHMAND PURAN 3.TXT",
+      "BRAHMAND PURAN 4.TXT",
+      "BRAHMAND PURAN 5.TXT",
+      "BRAHMANDA_PURAN_IA_I",
+      "BRAHMANDA_PURAN_SHAS",
+      "BRAHMASAMHITA_HINDI_",
+      "BRAHMA_PURANA_PART1_",
+      "BRAHMA_PURAN_CHOWKHA",
+      "BRAHMA_PURAN_PART2.T",
+      "BRAHMA_PURAN_PART2_E",
+      "BRAHMA_SPHUTA_SIDDHA",
+      "BRAHMA_SUTRA_SHANKAR",
+      "BRAHMA_VAIVARTA_PURA",
+      "DLI",
+      "GITA-PRESS-VEDANT-DA",
+      "GITAPRESS",
+      "GOPATHA_BRAHMANA_BHA",
+      "GRETIL",
+      "KHEMRAJ",
+      "MADHVA_TRADITION",
+      "PU010-BRAHMAPURANAMU",
+      "SA_BADARAYANA-BRAHMA",
+      "SA_BRAHMABINDUPANISA",
+      "SA_BRAHMAGUPTA-BRAHM",
+      "SA_BRAHMANDAPURANA.X",
+      "SA_BRAHMANDAPURANA_D",
+      "SA_BRAHMANDAPURANA_I",
+      "SA_BRAHMANDAPURANA_S",
+      "SA_BRAHMAPURANA-1-24",
+      "STRENGTH+OF+BRAHMACH",
+      "UPANISHAD_COLLECTION",
+      "VEDANT-DARSHAN-BRAHM"
+    ],
+    "sources": [
+      {
+        "file": "brahma_puran_gita_press.txt",
+        "size_bytes": 3034115,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_purana_part1_djvu.txt",
+        "size_bytes": 4079692,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_sutra_shankara_bhashya.txt",
+        "size_bytes": 2155693,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_dli.txt",
+        "size_bytes": 1870353,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran.txt",
+        "size_bytes": 6033236,
+        "type": "OCR"
+      },
+      {
+        "file": "brahmasutra_gita_press.txt",
+        "size_bytes": 1874130,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_puran_gita_press_new.txt",
+        "size_bytes": 1091484,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_gita_press.txt",
+        "size_bytes": 5966482,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_english.txt",
+        "size_bytes": 3713002,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2.xml",
+        "size_bytes": 2434757,
+        "type": "XML"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm.xml",
+        "size_bytes": 1228895,
+        "type": "XML"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2.xml",
+        "size_bytes": 1334943,
+        "type": "XML"
+      },
+      {
+        "file": "sa_brahmANDapurANa.xml",
+        "size_bytes": 2241008,
+        "type": "XML"
+      },
+      {
+        "file": "sa_brahmagupta-brAhmasphuTasiddhAnta.xml",
+        "size_bytes": 61232,
+        "type": "XML"
+      },
+      {
+        "file": "brahma_puran_gretil.xml",
+        "size_bytes": 4072067,
+        "type": "XML"
+      },
+      {
+        "file": "brahma_vaivarta_puran_ia_ia.txt",
+        "size_bytes": 6033067,
+        "type": "OCR"
+      },
+      {
+        "file": "gopatha_brahmana_gretil.xml",
+        "size_bytes": 391724,
+        "type": "XML"
+      },
+      {
+        "file": "brahma_vaivarta_puran_gitapress_hindi.txt",
+        "size_bytes": 3374608,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_dli.txt",
+        "size_bytes": 137508,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_puran_anandashram.txt",
+        "size_bytes": 5068158,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_full.txt",
+        "size_bytes": 1739314,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_puran_anandashram_series.txt",
+        "size_bytes": 5068158,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_puran_part2.txt",
+        "size_bytes": 3955933,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-alt.xml",
+        "size_bytes": 41225,
+        "type": "XML"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm.xml",
+        "size_bytes": 1184526,
+        "type": "XML"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra.xml",
+        "size_bytes": 40792,
+        "type": "XML"
+      },
+      {
+        "file": "sa_brahmabindUpaniSad.xml",
+        "size_bytes": 12878,
+        "type": "XML"
+      },
+      {
+        "file": "kositaki_brahmana_gretil.xml",
+        "size_bytes": 577726,
+        "type": "XML"
+      },
+      {
+        "file": "brahmanda_puran_ia_ia.txt",
+        "size_bytes": 3794235,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_sutra_madhva_ia_ia_djvu.txt",
+        "size_bytes": 2003054,
+        "type": "OCR"
+      },
+      {
+        "file": "brahmanda_puran_khemraj_ia_ia_djvu.txt",
+        "size_bytes": 3444487,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_sphuta_siddhanta_vol1_djvu.txt",
+        "size_bytes": 1019006,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_samhita_gretil.xml",
+        "size_bytes": 104695,
+        "type": "XML"
+      },
+      {
+        "file": "brahma_puran_chowkhamba_ia_ia_djvu.txt",
+        "size_bytes": 4081637,
+        "type": "OCR"
+      },
+      {
+        "file": "brahmanda_puran_shastri_ia_ia_djvu.txt",
+        "size_bytes": 4281224,
+        "type": "OCR"
+      },
+      {
+        "file": "gopatha_brahmana_atharvaveda_dli_djvu.txt",
+        "size_bytes": 500687,
+        "type": "OCR"
+      },
+      {
+        "file": "kaushitaki_brahmana_dli_djvu.txt",
+        "size_bytes": 634433,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_brahmapurANa-1-246.xml",
+        "size_bytes": 4072067,
+        "type": "XML"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil.xml",
+        "size_bytes": 450282,
+        "type": "XML"
+      },
+      {
+        "file": "gopatha_brahmana_bhashyam_1977_djvu.txt",
+        "size_bytes": 3758701,
+        "type": "OCR"
+      },
+      {
+        "file": "brahmasamhita_hindi_djvu.txt",
+        "size_bytes": 1067125,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "brahma_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "brahma_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-alt_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-alt_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-alt_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-comm_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra-subcomm2_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_bAdarAyaNa-brahmasUtra_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmANDapurANa_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmANDapurANa_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmANDapurANa_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmabindUpaniSad_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmabindUpaniSad_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmabindUpaniSad_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmagupta-brAhmasphuTasiddhAnta_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmagupta-brAhmasphuTasiddhAnta_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmagupta-brAhmasphuTasiddhAnta_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "brahma_samhita_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "brahma_samhita_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "brahma_samhita_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gopatha_brahmana_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gopatha_brahmana_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kositaki_brahmana_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kositaki_brahmana_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kositaki_brahmana_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gopatha_brahmana_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "pancavimsha_brahmana_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "108-upanishads-with-upanishad-brahmam-commentary.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahm Vaivart Puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahma Sutras - According to Sri Sankara by Swami Vireswarananda [Sanskrit-English].txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahma Vaivarta Puran (Archive.org).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahma-Sphuta-Siddhanta_VOL_I.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahma-Sphuta-Siddhanta_VOL_II.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahma-Sphuta-Siddhanta_VOL_IV.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 4.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 5.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahm Vaivart Puran 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahm Vaivart Puran 3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahma Puran Part 1 (Archive.org).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahma-Sphuta-Siddhanta_VOL_III.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmacharya Ki Shakti by Swami Rama Tirtha.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahamand (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Strength+of+Brahmacharya.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "PU010-BrahmaPuranamu-1To3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Swami-Vivekananda-on-Brahmacharya.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahamandp (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_puran_part2_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vedant-darshan-brahmasutra-sanskrit-hindi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_gitapress_hindi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_gita_press_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_dli_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_full_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/brahma_puran_gita_press.txt"
+  },
+  "BRAHMD": {
+    "source_count": 0,
+    "independent_families": 0,
+    "families": [],
+    "sources": [],
+    "primary_source": "knowledge/downloads/brahmanda_puran_ia_ia.txt"
+  },
+  "BRIHAD": {
+    "source_count": 7,
+    "independent_families": 7,
+    "families": [
+      "BRIHAD NARADIYA PURA",
+      "BRIHAD-NARADIYA-PURA",
+      "BRIHADARANYAKA_BHASH",
+      "BRIHADARANYAKA_MITAK",
+      "BRIHADARANYAKA_TELUG",
+      "NARADA_PURANA_BRIHAD",
+      "NARADIYA_PURAN_BRIHA"
+    ],
+    "sources": [
+      {
+        "file": "naradiya_puran_brihad.txt",
+        "size_bytes": 6431252,
+        "type": "OCR"
+      },
+      {
+        "file": "Brihad-Naradiya-Puranam-SANSKRIT-HINDI-by-Tarinish-Jha_djvu.txt",
+        "size_bytes": 6431252,
+        "type": "OCR"
+      },
+      {
+        "file": "narada_purana_brihad_ia_ia.txt",
+        "size_bytes": 6431252,
+        "type": "OCR"
+      },
+      {
+        "file": "brihadaranyaka_bhashya_ia_ia_djvu.txt",
+        "size_bytes": 5294661,
+        "type": "OCR"
+      },
+      {
+        "file": "brihadaranyaka_mitakshara_ia_ia_djvu.txt",
+        "size_bytes": 1220696,
+        "type": "OCR"
+      },
+      {
+        "file": "brihadaranyaka_telugu_shankara_ia_ia_djvu.txt",
+        "size_bytes": 4442473,
+        "type": "OCR"
+      },
+      {
+        "file": "Brihad Naradiya Puranam (Sanskrit-Hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/brhadaranyaka_upanishad_ia.txt"
+  },
+  "CHAND": {
+    "source_count": 10,
+    "independent_families": 7,
+    "families": [
+      "CHANDOGYA_HINDI_BHAS",
+      "CHANDOGYA_RAMANUJA_B",
+      "GRETIL",
+      "NYAYA_SUTRA_ARCHIVE_",
+      "SHIVA SVARODAYA WITH",
+      "SVACCHANDATANTRA_KSE",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "svacchandatantra_gretil.xml",
+        "size_bytes": 1044955,
+        "type": "XML"
+      },
+      {
+        "file": "chandogya_upanishad_giri_ia_ia_djvu.txt",
+        "size_bytes": 2451460,
+        "type": "OCR"
+      },
+      {
+        "file": "chandogya_hindi_bhashya_ia_ia_djvu.txt",
+        "size_bytes": 343522,
+        "type": "OCR"
+      },
+      {
+        "file": "svacchandatantra_ksemaraja_ia_ia_djvu.txt",
+        "size_bytes": 1041281,
+        "type": "OCR"
+      },
+      {
+        "file": "nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+        "size_bytes": 111785,
+        "type": "OCR"
+      },
+      {
+        "file": "chandogya_ramanuja_bhashya_ia_ia_djvu.txt",
+        "size_bytes": 2525658,
+        "type": "OCR"
+      },
+      {
+        "file": "svacchandatantra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svacchandatantra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svacchandatantra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Shiva Svarodaya with Bhasha Tika by Pt. Mihira Chandra - Khemaraja_text 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/chandogya_upanishad_giri_ia_ia_djvu.txt"
+  },
+  "DEVI": {
+    "source_count": 21,
+    "independent_families": 10,
+    "families": [
+      "DEVI BHAGVAT PURAN.T",
+      "DEVI BHAGWAT (GITA P",
+      "DEVIMAHATMYAM_SANSKR",
+      "DEVI_BHAGWAT_IA_IA.T",
+      "DEVI_BHAGWAT_NILKANT",
+      "DEVI_BHAGWAT_SANSKRI",
+      "DEVI_KALOTTARA_DWIVE",
+      "GITAPRESS",
+      "GRETIL",
+      "HINDI BOOK-DEVI BHAG"
+    ],
+    "sources": [
+      {
+        "file": "devi_bhagwat_gita_press.txt",
+        "size_bytes": 12085032,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_gitapress_2.txt",
+        "size_bytes": 6241673,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_prasang_gita_press.txt",
+        "size_bytes": 132705,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_nilkanthi.txt",
+        "size_bytes": 6964978,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_gita_gretil.xml",
+        "size_bytes": 97174,
+        "type": "XML"
+      },
+      {
+        "file": "devi_bhagwat_ia_ia.txt",
+        "size_bytes": 6000980,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_kalottara_agama_gretil.xml",
+        "size_bytes": 33210,
+        "type": "XML"
+      },
+      {
+        "file": "devi_bhagwat_sanskrit_english_ia_ia_djvu.txt",
+        "size_bytes": 2190197,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_kalottara_dwivedi_djvu.txt",
+        "size_bytes": 507084,
+        "type": "OCR"
+      },
+      {
+        "file": "devi_gita_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "devi_gita_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "devi_gita_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "devi_kalottara_agama_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "devi_kalottara_agama_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "devi_kalottara_agama_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Devi Bhagvat Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Hindi Book-Devi Bhagvat Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Devi Bhagwat (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "DeviMahatmyam_sanskrit_text_with_malayalam_translation.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_prasang_gita_press_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "devi_bhagwat_nilkanthi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/devi_bhagwat_gita_press.txt"
+  },
+  "GARUDA": {
+    "source_count": 17,
+    "independent_families": 12,
+    "families": [
+      "GARUDA PURAN (SANSKR",
+      "GARUDA1 (1).TXT",
+      "GARUDA_PURAN.TXT",
+      "GARUDA_PURANA_DJVU.T",
+      "GARUDA_PURAN_1887.TX",
+      "GARUDA_PURAN_1990.TX",
+      "GARUDA_PURAN_BHASHYA",
+      "GARUDA_PURAN_HINDI.T",
+      "GARUDA_PURAN_HINDI_E",
+      "GITAPRESS",
+      "GRETIL",
+      "SA_GARUDAPURANA.XML"
+    ],
+    "sources": [
+      {
+        "file": "garuda_puran.txt",
+        "size_bytes": 4593049,
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_1887.txt",
+        "size_bytes": 335048,
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_1990.txt",
+        "size_bytes": 2363082,
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_bhashya.txt",
+        "size_bytes": 780967,
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_purana_djvu.txt",
+        "size_bytes": 2276851,
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_gita_press.txt",
+        "size_bytes": 1625986,
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_hindi.txt",
+        "size_bytes": 4423584,
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_gretil.xml",
+        "size_bytes": 2119232,
+        "type": "XML"
+      },
+      {
+        "file": "sa_garuDapurANa.xml",
+        "size_bytes": 2119232,
+        "type": "XML"
+      },
+      {
+        "file": "garuda_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "garuda_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "garuda_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "garuda_puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "garuda1 (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_hindi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Garuda Puran (Sanskrit Text Only).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "garuda_puran_gita_press_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/garuda_puran.txt"
+  },
+  "GAUTAMA_DS": {
+    "source_count": 0,
+    "independent_families": 0,
+    "families": [],
+    "sources": [],
+    "primary_source": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml"
+  },
+  "HV": {
+    "source_count": 30,
+    "independent_families": 9,
+    "families": [
+      "ASHVALAYANA_GRIHYA_S",
+      "ASHVALAYANA_SHRAUTA_",
+      "GRETIL",
+      "MADHVA_TRADITION",
+      "MANDUKYA_TAITTIRIYA_",
+      "SHVETASHVATARA_RAMAN",
+      "SHVETASHVATARA_TAILA",
+      "UDDAMARESHVARA_TANTR",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "shvetashvatara_upanishad_gretil.xml",
+        "size_bytes": 45858,
+        "type": "XML"
+      },
+      {
+        "file": "ashvalayana_shrauta_sutra_gretil.xml",
+        "size_bytes": 436404,
+        "type": "XML"
+      },
+      {
+        "file": "ashvalayana_grihya_sutra_gretil.xml",
+        "size_bytes": 91579,
+        "type": "XML"
+      },
+      {
+        "file": "madhva_gita_bhashya_gretil.xml",
+        "size_bytes": 855360,
+        "type": "XML"
+      },
+      {
+        "file": "uddamareshvara tantra_gretil.xml",
+        "size_bytes": 117864,
+        "type": "XML"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+        "size_bytes": 931494,
+        "type": "OCR"
+      },
+      {
+        "file": "brahma_sutra_madhva_ia_ia_djvu.txt",
+        "size_bytes": 2003054,
+        "type": "OCR"
+      },
+      {
+        "file": "shvetashvatara_ramanuja_kannada_djvu.txt",
+        "size_bytes": 60977,
+        "type": "OCR"
+      },
+      {
+        "file": "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+        "size_bytes": 2753518,
+        "type": "OCR"
+      },
+      {
+        "file": "ashvalayana_grihya_sutra_1869_djvu.txt",
+        "size_bytes": 1124560,
+        "type": "OCR"
+      },
+      {
+        "file": "katha_upanishad_madhva_bhasya.txt",
+        "size_bytes": 1569687,
+        "type": "OCR"
+      },
+      {
+        "file": "uddamareshvara_tantra_zadoo_djvu.txt",
+        "size_bytes": 312032,
+        "type": "OCR"
+      },
+      {
+        "file": "uddamareshvara_tantra_ksts_djvu.txt",
+        "size_bytes": 85738,
+        "type": "OCR"
+      },
+      {
+        "file": "shvetashvatara_tailang_2001_djvu.txt",
+        "size_bytes": 1625741,
+        "type": "OCR"
+      },
+      {
+        "file": "ashvalayana_shrauta_sutra_1934_djvu.txt",
+        "size_bytes": 1539291,
+        "type": "OCR"
+      },
+      {
+        "file": "ashvalayana_grihya_sutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ashvalayana_grihya_sutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ashvalayana_shrauta_sutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ashvalayana_shrauta_sutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ashvalayana_shrauta_sutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "madhva_gita_bhashya_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "madhva_gita_bhashya_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ashvalayana_grihya_sutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "madhva_gita_bhashya_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "uddamareshvara tantra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "uddamareshvara tantra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "uddamareshvara tantra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/downloads/harivamsha_bori.txt"
+  },
+  "ISHA": {
+    "source_count": 67,
+    "independent_families": 7,
+    "families": [
+      "DLI",
+      "GARBHOPANISHAD_DJVU.",
+      "GRETIL",
+      "MADHVA_TRADITION",
+      "MAHAN_ARCHIVE_MAHANA",
+      "UPANISHAD_COLLECTION",
+      "UPNISHADS"
+    ],
+    "sources": [
+      {
+        "file": "Upanishads_110.txt",
+        "size_bytes": 2027327,
+        "type": "OCR"
+      },
+      {
+        "file": "garbhopanishad_djvu.txt",
+        "size_bytes": 31240,
+        "type": "OCR"
+      },
+      {
+        "file": "isha_upanishad_gretil.xml",
+        "size_bytes": 37612,
+        "type": "XML"
+      },
+      {
+        "file": "shiva_upanishad_gretil.xml",
+        "size_bytes": 394369,
+        "type": "XML"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil.xml",
+        "size_bytes": 21263,
+        "type": "XML"
+      },
+      {
+        "file": "kena_upanishad_ia.txt",
+        "size_bytes": 43363,
+        "type": "OCR"
+      },
+      {
+        "file": "taittiriya_upanishad_ia.txt",
+        "size_bytes": 1191022,
+        "type": "OCR"
+      },
+      {
+        "file": "shira_upanishad_gretil.xml",
+        "size_bytes": 22648,
+        "type": "XML"
+      },
+      {
+        "file": "nadabindi_upanishad_gretil.xml",
+        "size_bytes": 12596,
+        "type": "XML"
+      },
+      {
+        "file": "aitareya_upanishad_gretil.xml",
+        "size_bytes": 75536,
+        "type": "XML"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil.xml",
+        "size_bytes": 45858,
+        "type": "XML"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil.xml",
+        "size_bytes": 22648,
+        "type": "XML"
+      },
+      {
+        "file": "brhadaranyaka_upanishad_ia.txt",
+        "size_bytes": 2385583,
+        "type": "OCR"
+      },
+      {
+        "file": "mundaka_upanishad_ia.txt",
+        "size_bytes": 32697,
+        "type": "OCR"
+      },
+      {
+        "file": "mandukya_upanishad_ia.txt",
+        "size_bytes": 1196683,
+        "type": "OCR"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+        "size_bytes": 931494,
+        "type": "OCR"
+      },
+      {
+        "file": "chandogya_upanishad_giri_ia_ia_djvu.txt",
+        "size_bytes": 2451460,
+        "type": "OCR"
+      },
+      {
+        "file": "aitareya_upanishad_gp_ia_ia_djvu.txt",
+        "size_bytes": 347606,
+        "type": "OCR"
+      },
+      {
+        "file": "eight_upanishads_vaishnava_ia_ia_djvu.txt",
+        "size_bytes": 1495223,
+        "type": "OCR"
+      },
+      {
+        "file": "prashna_archive_108 Upanishad Part-1_djvu.txt",
+        "size_bytes": 3153669,
+        "type": "OCR"
+      },
+      {
+        "file": "upanishad_editions",
+        "size_bytes": 3452,
+        "type": "XML"
+      },
+      {
+        "file": "katha_upanishad_madhva_bhasya.txt",
+        "size_bytes": 1569687,
+        "type": "OCR"
+      },
+      {
+        "file": "katha_upanishad_dli_500298.txt",
+        "size_bytes": 542065,
+        "type": "OCR"
+      },
+      {
+        "file": "katha_upanishad_ananda_bhashya.txt",
+        "size_bytes": 360134,
+        "type": "OCR"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil.xml",
+        "size_bytes": 178913,
+        "type": "XML"
+      },
+      {
+        "file": "kena_upanishad_nimbarka_ia_ia_djvu.txt",
+        "size_bytes": 2306794,
+        "type": "OCR"
+      },
+      {
+        "file": "mahan_archive_Mahanarayanopanishad_djvu.txt",
+        "size_bytes": 677808,
+        "type": "OCR"
+      },
+      {
+        "file": "yvk_archive_TaittiriyaAitareyaSwetaswataraUpanishadsWithTika-ERoer1874bis_djvu.txt",
+        "size_bytes": 1151316,
+        "type": "OCR"
+      },
+      {
+        "file": "aitareya_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "aitareya_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "isha_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "isha_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "nadabindi_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shira_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shira_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "aitareya_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "isha_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "nadabindi_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "nadabindi_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shira_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "108 Upanishad Part-1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "108 Upanishad Part-2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "108 Upanishad Part-3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "108-upanishads-with-upanishad-brahmam-commentary.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Katha Upanishad Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kena Upanishad Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Mandukya Upanishad - Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "GarbhaUpanishad.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "instaPDF.in-mandukya-upanishad-718.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Katha Upanishad  - Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kena Upanishad - Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Upnishads",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/isha_upanishad_gretil.xml"
+  },
+  "KALI": {
+    "source_count": 9,
+    "independent_families": 6,
+    "families": [
+      "GRETIL",
+      "KALIKA PURAN.TXT",
+      "KALIKA-PURAN.TXT",
+      "KHEMRAJ",
+      "KSHEMARAJ",
+      "SA_DHYANACANDRAGOSVA"
+    ],
+    "sources": [
+      {
+        "file": "kalidasa_shyamaladandaka_gretil.xml",
+        "size_bytes": 15796,
+        "type": "XML"
+      },
+      {
+        "file": "sa_dhyAnacandragosvAmin-rAdhAkRSNASTakAlIyalIlAsmaraNakramapaddhati.xml",
+        "size_bytes": 39210,
+        "type": "XML"
+      },
+      {
+        "file": "kalika_purana_kshemaraj_1907.txt",
+        "size_bytes": 2011861,
+        "type": "OCR"
+      },
+      {
+        "file": "kalika_purana_khemraj_1908.txt",
+        "size_bytes": 1939526,
+        "type": "OCR"
+      },
+      {
+        "file": "kalidasa_shyamaladandaka_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kalidasa_shyamaladandaka_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kalidasa_shyamaladandaka_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Kalika Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kalika-Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt"
+  },
+  "KATH": {
+    "source_count": 10,
+    "independent_families": 3,
+    "families": [
+      "DLI",
+      "MADHVA_TRADITION",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "katha_upanishad_madhva_bhasya.txt",
+        "size_bytes": 1569687,
+        "type": "OCR"
+      },
+      {
+        "file": "katha_upanishad_dli_500298.txt",
+        "size_bytes": 542065,
+        "type": "OCR"
+      },
+      {
+        "file": "katha_upanishad_ananda_bhashya.txt",
+        "size_bytes": 360134,
+        "type": "OCR"
+      },
+      {
+        "file": "Katha Upanishad Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vat savitri vrat katha",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Karna Ki Atmakatha (Hindi) (MANU SHARMA) (Z-Library).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Katha Upanishad  - Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "instapdf.in-karva-chauth-vrat-katha-299.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Yogi Kathamrita.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "वट-सावित्री-व्रत-कथा-vat-savitri-vrat-katha-436 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/Upanishads_110.txt"
+  },
+  "KAUS": {
+    "source_count": 1,
+    "independent_families": 1,
+    "families": [
+      "DLI"
+    ],
+    "sources": [
+      {
+        "file": "kaushitaki_brahmana_dli_djvu.txt",
+        "size_bytes": 634433,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt"
+  },
+  "KEN": {
+    "source_count": 5,
+    "independent_families": 2,
+    "families": [
+      "MARKENDE-PURAN (1).T",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "kena_upanishad_ia.txt",
+        "size_bytes": 43363,
+        "type": "OCR"
+      },
+      {
+        "file": "kena_upanishad_nimbarka_ia_ia_djvu.txt",
+        "size_bytes": 2306794,
+        "type": "OCR"
+      },
+      {
+        "file": "Kena Upanishad Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kena Upanishad - Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "markende-puran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/kena_upanishad_ia.txt"
+  },
+  "KURM": {
+    "source_count": 15,
+    "independent_families": 11,
+    "families": [
+      "DLI",
+      "GITAPRESS",
+      "GRETIL",
+      "KURM PURAN.TXT",
+      "KURMA (1).TXT",
+      "KURMA PURAN (ARCHIVE",
+      "KURMA PURAN (GITA PR",
+      "KURMA_DJVU.TXT",
+      "KURMA_PURAN.TXT",
+      "KURMA_PURAN_CRITICAL",
+      "SA_KURMAPURANA.XML"
+    ],
+    "sources": [
+      {
+        "file": "kurma_puran.txt",
+        "size_bytes": 3810922,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_critical.txt",
+        "size_bytes": 7988004,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_dli.txt",
+        "size_bytes": 1874439,
+        "type": "OCR"
+      },
+      {
+        "file": "Kurma_djvu.txt",
+        "size_bytes": 3037837,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_gita_press_new.txt",
+        "size_bytes": 1275301,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_gretil.xml",
+        "size_bytes": 978961,
+        "type": "XML"
+      },
+      {
+        "file": "sa_kUrmapurANa.xml",
+        "size_bytes": 978961,
+        "type": "XML"
+      },
+      {
+        "file": "kurma_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kurma_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kurma_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Kurm Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kurma Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "kurma (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kurma Puran (Archive.org Hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/kurma_puran.txt"
+  },
+  "LING": {
+    "source_count": 20,
+    "independent_families": 16,
+    "families": [
+      "10. AYURVEDAS PERSPE",
+      "2. HISTORY OF AYURVE",
+      "DWADASA_JYOTIRLINGA_",
+      "GRETIL",
+      "LING (1).TXT",
+      "LING PURAN 1.TXT",
+      "LING PURAN 2.TXT",
+      "LING PURAN SANS ENG ",
+      "LINGA PURAN (ARCHIVE",
+      "LINGA PURAN (GITA PR",
+      "LINGA-PURANAM.TXT",
+      "LINGA_PURAN.TXT",
+      "LINGA_PURAN_1890.TXT",
+      "LINGA_PURAN_COMMENTA",
+      "LING_DJVU.TXT",
+      "NYAYA_SUTRA_ARCHIVE_"
+    ],
+    "sources": [
+      {
+        "file": "linga_puran.txt",
+        "size_bytes": 6337527,
+        "type": "OCR"
+      },
+      {
+        "file": "linga_puran_1890.txt",
+        "size_bytes": 2211437,
+        "type": "OCR"
+      },
+      {
+        "file": "linga_puran_commentary.txt",
+        "size_bytes": 4212691,
+        "type": "OCR"
+      },
+      {
+        "file": "Ling_djvu.txt",
+        "size_bytes": 1009856,
+        "type": "OCR"
+      },
+      {
+        "file": "linga_puran_gretil.xml",
+        "size_bytes": 1972098,
+        "type": "XML"
+      },
+      {
+        "file": "nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+        "size_bytes": 111785,
+        "type": "OCR"
+      },
+      {
+        "file": "linga_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "linga_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "linga_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "10. Ayurvedas Perspective on Healing Mental Illness Author AdPurkh Kaur Khalsa, Emily K Smith.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "2. History of Ayurveda a Heritage of Healing Author Poliklinika Harni.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Dwadasa_Jyotirlinga_Stotram_Malayalam.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Ling Puran Sans Eng 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Ling Puran Sans Eng 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Linga Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Ling Puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ling (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Ling Puran 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Linga-Puranam.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Linga Puran (Archive.org Hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/linga_puran.txt"
+  },
+  "MAHAN": {
+    "source_count": 2,
+    "independent_families": 2,
+    "families": [
+      "MAHAN_ARCHIVE_MAHANA",
+      "MAHAN_ARCHIVE_THEMAH"
+    ],
+    "sources": [
+      {
+        "file": "mahan_archive_themahanarayana00jacouoft_djvu.txt",
+        "size_bytes": 39326,
+        "type": "OCR"
+      },
+      {
+        "file": "mahan_archive_Mahanarayanopanishad_djvu.txt",
+        "size_bytes": 677808,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt"
+  },
+  "MAITR": {
+    "source_count": 1,
+    "independent_families": 1,
+    "families": [
+      "MAITR_ARCHIVE_MAITRI"
+    ],
+    "sources": [
+      {
+        "file": "maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
+        "size_bytes": 91859,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt"
+  },
+  "MAND": {
+    "source_count": 24,
+    "independent_families": 22,
+    "families": [
+      "AGNI_PURAN_OF_MAHARS",
+      "BRAHAMAND (1).TXT",
+      "BRAHAMANDP (1).TXT",
+      "BRAHMAND PURAN 1.TXT",
+      "BRAHMAND PURAN 2.TXT",
+      "BRAHMAND PURAN 3.TXT",
+      "BRAHMAND PURAN 4.TXT",
+      "BRAHMAND PURAN 5.TXT",
+      "BRAHMANDA_PURAN_IA_I",
+      "BRAHMANDA_PURAN_SHAS",
+      "KHEMRAJ",
+      "MADHVA_TRADITION",
+      "MANDUKYA_GAUDAPADA_I",
+      "MANDUKYA_TAITTIRIYA_",
+      "MUNDAKA_MANDUKYA_BHA",
+      "RIGVEDA-GUJARATI-MAN",
+      "SA_BRAHMANDAPURANA.X",
+      "SA_BRAHMANDAPURANA_D",
+      "SA_BRAHMANDAPURANA_I",
+      "SA_BRAHMANDAPURANA_S",
+      "UPANISHAD_COLLECTION",
+      "VRAJA-MANDALA PARIKR"
+    ],
+    "sources": [
+      {
+        "file": "sa_brahmANDapurANa.xml",
+        "size_bytes": 2241008,
+        "type": "XML"
+      },
+      {
+        "file": "mandukya_upanishad_ia.txt",
+        "size_bytes": 1196683,
+        "type": "OCR"
+      },
+      {
+        "file": "brahmanda_puran_ia_ia.txt",
+        "size_bytes": 3794235,
+        "type": "OCR"
+      },
+      {
+        "file": "brahmanda_puran_khemraj_ia_ia_djvu.txt",
+        "size_bytes": 3444487,
+        "type": "OCR"
+      },
+      {
+        "file": "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+        "size_bytes": 2753518,
+        "type": "OCR"
+      },
+      {
+        "file": "brahmanda_puran_shastri_ia_ia_djvu.txt",
+        "size_bytes": 4281224,
+        "type": "OCR"
+      },
+      {
+        "file": "mandukya_gambhirananda_djvu.txt",
+        "size_bytes": 363311,
+        "type": "OCR"
+      },
+      {
+        "file": "mundaka_mandukya_bhashya_ia_ia_djvu.txt",
+        "size_bytes": 472367,
+        "type": "OCR"
+      },
+      {
+        "file": "mandukya_gaudapada_ia_ia_djvu.txt",
+        "size_bytes": 363311,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_brahmANDapurANa_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmANDapurANa_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sa_brahmANDapurANa_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Brahmand Puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 4.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 5.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Mandukya Upanishad - Gita Press Gorakhpur.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Brahmand Puran 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahamand (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "instaPDF.in-mandukya-upanishad-718.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vraja-mandala parikrama 2ed (hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "rigveda-gujarati-mandal1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "brahamandp (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/mandukya_upanishad_ia.txt"
+  },
+  "MANU": {
+    "source_count": 20,
+    "independent_families": 9,
+    "families": [
+      "CHANDOGYA_RAMANUJA_B",
+      "GRETIL",
+      "MANUSMRITI_6_COMMENT",
+      "MANUSMRITI_CRITICAL_",
+      "MANUSMRITI_KULLUKA_I",
+      "RAMANUJA_GITA_BHASHY",
+      "SHIVA_PURANA_TELUGU_",
+      "SHVETASHVATARA_RAMAN",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "ramanuja_vedartha_gretil.xml",
+        "size_bytes": 317505,
+        "type": "XML"
+      },
+      {
+        "file": "manusmriti_gretil.xml",
+        "size_bytes": 1771016,
+        "type": "XML"
+      },
+      {
+        "file": "ramanuja_gita_bhashya_gretil.xml",
+        "size_bytes": 1086095,
+        "type": "XML"
+      },
+      {
+        "file": "shvetashvatara_ramanuja_kannada_djvu.txt",
+        "size_bytes": 60977,
+        "type": "OCR"
+      },
+      {
+        "file": "manusmriti_critical_ia_ia.txt",
+        "size_bytes": 3094777,
+        "type": "OCR"
+      },
+      {
+        "file": "manusmriti_6_commentaries_ia_ia_djvu.txt",
+        "size_bytes": 11816781,
+        "type": "OCR"
+      },
+      {
+        "file": "ramanuja_gita_bhashya_rahasyarthasangraha_djvu.txt",
+        "size_bytes": 1397130,
+        "type": "OCR"
+      },
+      {
+        "file": "manusmriti_kulluka_ia_ia_djvu.txt",
+        "size_bytes": 2752296,
+        "type": "OCR"
+      },
+      {
+        "file": "chandogya_ramanuja_bhashya_ia_ia_djvu.txt",
+        "size_bytes": 2525658,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva_purana_telugu_manuscript_djvu.txt",
+        "size_bytes": 60187,
+        "type": "OCR"
+      },
+      {
+        "file": "manusmriti_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ramanuja_gita_bhashya_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ramanuja_vedartha_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "manusmriti_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "manusmriti_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ramanuja_gita_bhashya_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ramanuja_gita_bhashya_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ramanuja_vedartha_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "ramanuja_vedartha_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Karna Ki Atmakatha (Hindi) (MANU SHARMA) (Z-Library).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/manusmriti_critical_ia_ia.txt"
+  },
+  "MARK": {
+    "source_count": 14,
+    "independent_families": 9,
+    "families": [
+      "GRETIL",
+      "MARKANDEY PURAN.TXT",
+      "MARKANDEYA PURAN (AR",
+      "MARKANDEYAPURANAMU.T",
+      "MARKANDEYA_PURANA_HI",
+      "MARKANDEYA_PURAN_HIN",
+      "MARKANDEYA_PURAN_SAN",
+      "MARKENDE-PURAN (1).T",
+      "SA_MARKANDEYAPURANA1"
+    ],
+    "sources": [
+      {
+        "file": "markandeya_purana_hindi_djvu.txt",
+        "size_bytes": 3245277,
+        "type": "OCR"
+      },
+      {
+        "file": "markandeya_puran_hindi_translation.txt",
+        "size_bytes": 3245277,
+        "type": "OCR"
+      },
+      {
+        "file": "markandeya_puran_sanskrit.txt",
+        "size_bytes": 1842581,
+        "type": "OCR"
+      },
+      {
+        "file": "markandeya_puran_gretil.xml",
+        "size_bytes": 750567,
+        "type": "XML"
+      },
+      {
+        "file": "sa_mArkaNDeyapurANa1-93.xml",
+        "size_bytes": 750567,
+        "type": "XML"
+      },
+      {
+        "file": "markandeya_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "markandeya_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "markandeya_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Markandey Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "MarkandeyaPuranamu.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "markende-puran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "markandeya_puran_hindi_translation_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "markandeya_puran_sanskrit_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Markandeya Puran (Archive.org Hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/markandeya_puran_sanskrit.txt"
+  },
+  "MATS": {
+    "source_count": 14,
+    "independent_families": 10,
+    "families": [
+      "GITAPRESS",
+      "GRETIL",
+      "MATSYA PURAN (ARCHIV",
+      "MATSYA PURAN (GITA P",
+      "MATSYA-II_DJVU.TXT",
+      "MATSYA-PURAN-1 (1).T",
+      "MATSYA-PURAN-2 (1).T",
+      "MATSYA_PURAN.TXT",
+      "MATSYA_PURAN_JOSHI_I",
+      "SA_MATSYAPURANA1-176"
+    ],
+    "sources": [
+      {
+        "file": "matsya_puran.txt",
+        "size_bytes": 8604999,
+        "type": "OCR"
+      },
+      {
+        "file": "Matsya-II_djvu.txt",
+        "size_bytes": 1711728,
+        "type": "OCR"
+      },
+      {
+        "file": "matsya_puran_gitapress_hindi.txt",
+        "size_bytes": 8364305,
+        "type": "OCR"
+      },
+      {
+        "file": "matsya_puran_gretil.xml",
+        "size_bytes": 2543350,
+        "type": "XML"
+      },
+      {
+        "file": "matsya_puran_joshi_ia_ia.txt",
+        "size_bytes": 1623208,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_matsyapurANa1-176.xml",
+        "size_bytes": 2543350,
+        "type": "XML"
+      },
+      {
+        "file": "matsya_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "matsya_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "matsya_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Matsya Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "matsya-puran-1 (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "matsya-puran-2 (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Matsya Puran (Archive.org Hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "matsya_puran_gitapress_hindi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/matsya_puran.txt"
+  },
+  "MBH": {
+    "source_count": 9,
+    "independent_families": 6,
+    "families": [
+      "GRETIL",
+      "MADHVA_TRADITION",
+      "PAKA DARPANA OF NALA",
+      "SVAYAMBHU_PURAN_VRIH",
+      "VIDUR NITI (CHAUKHAM",
+      "VIDUR_NITI_CHAUKHAMB"
+    ],
+    "sources": [
+      {
+        "file": "vidur_niti_chaukhambha_1997_djvu.txt",
+        "size_bytes": 1393122,
+        "type": "OCR"
+      },
+      {
+        "file": "svayambhu_puran_gretil.xml",
+        "size_bytes": 295749,
+        "type": "XML"
+      },
+      {
+        "file": "mandukya_gambhirananda_djvu.txt",
+        "size_bytes": 363311,
+        "type": "OCR"
+      },
+      {
+        "file": "svayambhu_puran_vrihat_ia_ia_djvu.txt",
+        "size_bytes": 1344376,
+        "type": "OCR"
+      },
+      {
+        "file": "svayambhu_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svayambhu_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svayambhu_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Paka Darpana of Nala Madhuri Hindi Commentary Indra Deva Tripathi Ed. Vamcharya Bhattacharya Chowkambha............txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vidur Niti (Chaukhambha).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt"
+  },
+  "MUND": {
+    "source_count": 3,
+    "independent_families": 3,
+    "families": [
+      "MUNDAKA_MANDUKYA_BHA",
+      "MUNDAKA_SHANKARA_IA_",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "mundaka_upanishad_ia.txt",
+        "size_bytes": 32697,
+        "type": "OCR"
+      },
+      {
+        "file": "mundaka_shankara_ia_ia_djvu.txt",
+        "size_bytes": 534604,
+        "type": "OCR"
+      },
+      {
+        "file": "mundaka_mandukya_bhashya_ia_ia_djvu.txt",
+        "size_bytes": 472367,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/mundaka_upanishad_ia.txt"
+  },
+  "NARADA": {
+    "source_count": 12,
+    "independent_families": 5,
+    "families": [
+      "GRETIL",
+      "NARADA_BHAKTI_SUTRA.",
+      "NARADA_PURANA_BRIHAD",
+      "NARADA_SMRITI_COMMEN",
+      "SA_NARADAPURANA.XML"
+    ],
+    "sources": [
+      {
+        "file": "narada_puran_gretil.xml",
+        "size_bytes": 2532191,
+        "type": "XML"
+      },
+      {
+        "file": "sa_nAradapurANa.xml",
+        "size_bytes": 2532191,
+        "type": "XML"
+      },
+      {
+        "file": "narada_smriti_gretil.xml",
+        "size_bytes": 618744,
+        "type": "XML"
+      },
+      {
+        "file": "narada_purana_brihad_ia_ia.txt",
+        "size_bytes": 6431252,
+        "type": "OCR"
+      },
+      {
+        "file": "narada_smriti_commentary_ia_ia_djvu.txt",
+        "size_bytes": 1835598,
+        "type": "OCR"
+      },
+      {
+        "file": "narada_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "narada_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "narada_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "narada_smriti_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "narada_smriti_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "narada_smriti_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Narada_Bhakti_Sutra.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/naradiya_puran.txt"
+  },
+  "NARADA_SM": {
+    "source_count": 5,
+    "independent_families": 2,
+    "families": [
+      "GRETIL",
+      "NARADA_SMRITI_COMMEN"
+    ],
+    "sources": [
+      {
+        "file": "narada_smriti_gretil.xml",
+        "size_bytes": 618744,
+        "type": "XML"
+      },
+      {
+        "file": "narada_smriti_commentary_ia_ia_djvu.txt",
+        "size_bytes": 1835598,
+        "type": "OCR"
+      },
+      {
+        "file": "narada_smriti_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "narada_smriti_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "narada_smriti_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt"
+  },
+  "NYAYA_SUTRA": {
+    "source_count": 1,
+    "independent_families": 1,
+    "families": [
+      "NYAYA_SUTRA_ARCHIVE_"
+    ],
+    "sources": [
+      {
+        "file": "nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+        "size_bytes": 111785,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt"
+  },
+  "PARASHARA": {
+    "source_count": 3,
+    "independent_families": 3,
+    "families": [
+      "BRIHAT_PARASHARA_HOR",
+      "COMMENTARY_TRADITION",
+      "PARASHARA_ARCHIVE_SR"
+    ],
+    "sources": [
+      {
+        "file": "parashara_archive_SriParasharaSmrithiPdf_djvu.txt",
+        "size_bytes": 138389,
+        "type": "OCR"
+      },
+      {
+        "file": "parashara_archive_Parashara Smriti + Madhaviya Vritti+++ _djvu.txt",
+        "size_bytes": 10396511,
+        "type": "OCR"
+      },
+      {
+        "file": "brihat_parashara_hora_shastra_english_V.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt"
+  },
+  "PRASHNA": {
+    "source_count": 2,
+    "independent_families": 2,
+    "families": [
+      "PRASHNA JYOTISH ( PD",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "prashna_archive_108 Upanishad Part-1_djvu.txt",
+        "size_bytes": 3153669,
+        "type": "OCR"
+      },
+      {
+        "file": "Prashna Jyotish ( PDFDrive.com ).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt"
+  },
+  "RM": {
+    "source_count": 63,
+    "independent_families": 27,
+    "families": [
+      "18. THEORY OF AYURVE",
+      "APASTAMBA_DHARMASUTR",
+      "APASTAMBA_DHARMA_GRI",
+      "DHARMASUTRAS_FOUR_CO",
+      "DLI",
+      "GITAPRESS",
+      "GRETIL",
+      "KAMASUTRA OF VATSYAY",
+      "KARMVIPAK SAMHITA.TX",
+      "KURM PURAN.TXT",
+      "KURMA (1).TXT",
+      "KURMA PURAN (ARCHIVE",
+      "KURMA PURAN (GITA PR",
+      "KURMA_DJVU.TXT",
+      "KURMA_PURAN.TXT",
+      "KURMA_PURAN_CRITICAL",
+      "MAITR_ARCHIVE_MAITRI",
+      "NITNEM POTHI (GURMUK",
+      "NITY-KARM-PUJA-PRAKA",
+      "RAMAYANA_SANSKRIT_DP",
+      "SA_KURMAPURANA.XML",
+      "UPANISHAD_COLLECTION",
+      "VAIKHANASA_DHARMASUT",
+      "VALMIKI RAMAYANAM BA",
+      "VAMANA_PURANA_SHARMA",
+      "VISHNU DHARMOTRA PUR",
+      "कुंडलिनी जागरण एक अद"
+    ],
+    "sources": [
+      {
+        "file": "kurma_puran.txt",
+        "size_bytes": 3810922,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_critical.txt",
+        "size_bytes": 7988004,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_dli.txt",
+        "size_bytes": 1874439,
+        "type": "OCR"
+      },
+      {
+        "file": "Kurma_djvu.txt",
+        "size_bytes": 3037837,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_gita_press_new.txt",
+        "size_bytes": 1275301,
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_gretil.xml",
+        "size_bytes": 978961,
+        "type": "XML"
+      },
+      {
+        "file": "apastamba_dharmasutra_gretil.xml",
+        "size_bytes": 123010,
+        "type": "XML"
+      },
+      {
+        "file": "vasistha_dharmasutra_gretil.xml",
+        "size_bytes": 132436,
+        "type": "XML"
+      },
+      {
+        "file": "ramayana_sanskrit_dpsharma.txt",
+        "size_bytes": 1950960,
+        "type": "OCR"
+      },
+      {
+        "file": "gautama_dharmasutra_gretil.xml",
+        "size_bytes": 125297,
+        "type": "XML"
+      },
+      {
+        "file": "vishnu_dharma_gretil.xml",
+        "size_bytes": 788741,
+        "type": "XML"
+      },
+      {
+        "file": "gautama_dharmasutra_1_3_comm_gretil.xml",
+        "size_bytes": 129848,
+        "type": "XML"
+      },
+      {
+        "file": "vamana_purana_sharma_2018_djvu.txt",
+        "size_bytes": 3572959,
+        "type": "OCR"
+      },
+      {
+        "file": "vaikhanasa_dharmasutra_gretil.xml",
+        "size_bytes": 65637,
+        "type": "XML"
+      },
+      {
+        "file": "dharmasutras_four_codes_djvu.txt",
+        "size_bytes": 974653,
+        "type": "OCR"
+      },
+      {
+        "file": "apastamba_dharmasutra_paudel_nepali_djvu.txt",
+        "size_bytes": 996953,
+        "type": "OCR"
+      },
+      {
+        "file": "vaikhanasa_dharmasutra_2010_djvu.txt",
+        "size_bytes": 227034,
+        "type": "OCR"
+      },
+      {
+        "file": "apastamba_dharma_grihya_sutras_djvu.txt",
+        "size_bytes": 472836,
+        "type": "OCR"
+      },
+      {
+        "file": "apastamba_dharmasutra_manjari_1933_djvu.txt",
+        "size_bytes": 263864,
+        "type": "OCR"
+      },
+      {
+        "file": "baudhayana_dharmasutra_dli_djvu.txt",
+        "size_bytes": 2128263,
+        "type": "OCR"
+      },
+      {
+        "file": "maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
+        "size_bytes": 91859,
+        "type": "OCR"
+      },
+      {
+        "file": "baudhayana_dharmasutra_gretil.xml",
+        "size_bytes": 187014,
+        "type": "XML"
+      },
+      {
+        "file": "apastamba_dharmasutra_kashi_series_djvu.txt",
+        "size_bytes": 1490458,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_kUrmapurANa.xml",
+        "size_bytes": 978961,
+        "type": "XML"
+      },
+      {
+        "file": "kurma_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kurma_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "kurma_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gautama_dharmasutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vasistha_dharmasutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vasistha_dharmasutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_dharma_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "baudhayana_dharmasutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "baudhayana_dharmasutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gautama_dharmasutra_1_3_comm_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "apastamba_dharmasutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "apastamba_dharmasutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "apastamba_dharmasutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gautama_dharmasutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gautama_dharmasutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vasistha_dharmasutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_dharma_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_dharma_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "baudhayana_dharmasutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gautama_dharmasutra_1_3_comm_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "gautama_dharmasutra_1_3_comm_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vaikhanasa_dharmasutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vaikhanasa_dharmasutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vaikhanasa_dharmasutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "18. Theory of Ayurveda (Presentation) Author Dr Chakra Pany Sharma.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vishnu Dharmotra Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Karmvipak samhita.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Karna Ki Atmakatha (Hindi) (MANU SHARMA) (Z-Library).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kurm Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kurma Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "kurma (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kamasutra of Vatsyayan with Hindi Trans. by Ramanand Sharma Series No. 4 - Bitthal Das Sanskrit Series.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Nitnem Pothi (Gurmukhi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Valmiki Ramayanam Baalakanda- N Ranganatha sharma.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "nity-karm-puja-prakash.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "कुंडलिनी जागरण एक अद्भुत यात्रा (Hindi Edition) (Sharma, Rahul [Sharma, Rahul]) (Z-Library).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ramayana_sanskrit_dpsharma_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Kurma Puran (Archive.org Hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "kurma_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/ramayana_baroda_critical_vol1.txt"
+  },
+  "RV": {
+    "source_count": 72,
+    "independent_families": 54,
+    "families": [
+      "1. ANCIENT REMEDIES ",
+      "10. AYURVEDAS PERSPE",
+      "11. CONCEPT OF PSYCH",
+      "12. CONCEPT OF PERSO",
+      "13. HOLISTIC NUTRITI",
+      "14. A STUDY OF AYURV",
+      "15. IDEAL DAILY ROUT",
+      "16. INTRODUCTION TO ",
+      "18. THEORY OF AYURVE",
+      "2. HISTORY OF AYURVE",
+      "3. MY HEALTH MY RESP",
+      "4. AN AYURVEDIC APPR",
+      "5. AYURVEDA KAPHA DA",
+      "6. ACCOUNTS OF PATHO",
+      "7. ONTOLOGY OF PERSO",
+      "9. CONCEPTS OF HUMAN",
+      "ATHARVA VEDA TELUGU.",
+      "ATHARVAVEDA SAMHITA ",
+      "ATHARVAVEDA_SAMHITA_",
+      "ATHARVAVEDA_VOL1_SAY",
+      "AYURVEDA ENGLISH",
+      "AYURVEDA HINDI",
+      "AYURVEDIC UPAY.TXT",
+      "DLI",
+      "EBHARATI-PDF-1674278",
+      "GRETIL",
+      "KAUTHUMA",
+      "MAHABHARATA_PARVA_11",
+      "MAHABHARATA_PARVA_12",
+      "MAHABHARATA_PARVA_13",
+      "MAHABHARATA_PARVA_14",
+      "MAHABHARATA_PARVA_15",
+      "MAHABHARATA_PARVA_16",
+      "MAHABHARATA_PARVA_17",
+      "MAHABHARATA_PARVA_18",
+      "MAHABHARATA_PARVA_1_",
+      "MAHABHARATA_PARVA_2_",
+      "MAHABHARATA_PARVA_3_",
+      "MAHABHARATA_PARVA_4_",
+      "MAHABHARATA_PARVA_5_",
+      "MAHABHARATA_PARVA_6_",
+      "MAHABHARATA_PARVA_7_",
+      "MAHABHARATA_PARVA_8_",
+      "MAHABHARATA_PARVA_9_",
+      "OM_CHANT_EFFECT_ON_N",
+      "SHIV SARVODYA (HINDI",
+      "SHIV SARVODYA ENGLIS",
+      "UPANISHAD_COLLECTION",
+      "URVASHI SADHANA.TXT",
+      "VIGYAN BHAIRAV (RUDR",
+      "YAJURVED-GUJARATI.TX",
+      "YAJURVEDA_GUJARATI_D",
+      "YAJURVEDA_MADHYANDIN",
+      "YEJURVEDA_IA.TXT"
+    ],
+    "sources": [
+      {
+        "file": "atharvaveda_jayadev_part1.txt",
+        "size_bytes": 2113053,
+        "type": "OCR"
+      },
+      {
+        "file": "atharvaveda_samhita_sanskrit.txt",
+        "size_bytes": 3081784,
+        "type": "OCR"
+      },
+      {
+        "file": "atharvaveda_vol1_sayana.txt",
+        "size_bytes": 3369803,
+        "type": "OCR"
+      },
+      {
+        "file": "yajurveda_gujarati_djvu.txt",
+        "size_bytes": 3595221,
+        "type": "OCR"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil.xml",
+        "size_bytes": 526680,
+        "type": "XML"
+      },
+      {
+        "file": "yejurveda_ia.txt",
+        "size_bytes": 12261502,
+        "type": "OCR"
+      },
+      {
+        "file": "yajurveda_jayadev.txt",
+        "size_bytes": 2894662,
+        "type": "OCR"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil.xml",
+        "size_bytes": 22648,
+        "type": "XML"
+      },
+      {
+        "file": "atharvaveda_samhita_sayana_ia.txt",
+        "size_bytes": 2941883,
+        "type": "OCR"
+      },
+      {
+        "file": "sarvadurgatiparishodhana tantra_gretil.xml",
+        "size_bytes": 180002,
+        "type": "XML"
+      },
+      {
+        "file": "atharva_prayashchittani_gretil.xml",
+        "size_bytes": 110681,
+        "type": "XML"
+      },
+      {
+        "file": "yajurveda_madhyandina_ia_ia.txt",
+        "size_bytes": 7049617,
+        "type": "OCR"
+      },
+      {
+        "file": "gopatha_brahmana_atharvaveda_dli_djvu.txt",
+        "size_bytes": 500687,
+        "type": "OCR"
+      },
+      {
+        "file": "mahabharata_parva_1_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_2_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_3_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_5_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_6_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_7_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_8_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_9_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_11_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_12_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_13_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_14_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_15_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_17_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_16_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_18_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "mahabharata_parva_4_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvashiras_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharvaveda_parisista_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sarvadurgatiparishodhana tantra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sarvadurgatiparishodhana tantra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "sarvadurgatiparishodhana tantra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharva_prayashchittani_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharva_prayashchittani_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "atharva_prayashchittani_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "1. Ancient Remedies for a Modern You An Introduction to Ayurveda Author Premal Patel.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "10. Ayurvedas Perspective on Healing Mental Illness Author AdPurkh Kaur Khalsa, Emily K Smith.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "11. Concept of Psychology &amp; the Mind in Ayurved Author Maheshkumar Nilkanth Chaudhari.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "12. Concept of Personality Type in West and in Ayurveda (Article) Author Rudrani Mukherjee.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "13. Holistic Nutrition For Children and Elderly In View Of Ayurveda Author Dr Rakesh Kumar Jain.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "14. A Study of Ayurvedic Style of Cooking and It’s Influence in Day to Day Life (Article) Author Dr Kiran Shende,Mr Rahul Bhalekar.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "15. Ideal Daily Routine According to Maharishi Ayurveda (Article) Author Center for Optimal Health.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "16. Introduction to Ayurveda (Presentation) Author Ajita Patel.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "18. Theory of Ayurveda (Presentation) Author Dr Chakra Pany Sharma.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "2. History of Ayurveda a Heritage of Healing Author Poliklinika Harni.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "3. My Health My Responsibility Ayu Samvad Ayurveda for Covid 19 Author Shri Shripad Yasso Naik,Padmashree Vaidya Rajesh Kotecha,Shri Pramod Kumar Pathak.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "4. An Ayurvedic Approach to Losing Weigh Author Banyan Botanicals.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "5. Ayurveda Kapha Daily Routine Author Yoga Veda Institute Educational Programs.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "6. Accounts of Pathogenic Organisms in the Early Texts of Ayurveda Author P Ram Manohar.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "7. Ontology of Personhood in Ayurveda from the Perspective of Patients and Physicians in Palampur Himachal Pradesh An Independent Stud Author Denise DeFelice.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Atharva Veda Telugu.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Atharvaveda Samhita Sanskrit.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "8. Ancient Wisdom and Future Medicine A Defense of the Science of Ayurveda  Author Michael Eatmon,Dr Thomas Moore,Dr Jayashree Shivamoggi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "9. Concepts of Human Physiology in Ayurveda Author Kishor Patwardhan.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Ayurveda hindi",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Ayurvedic Upay.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Om_chant_Effect_on_Nervous_system.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ayurveda english",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv sarvodya English",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Urvashi Sadhana.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "instapdf.in-karva-chauth-vrat-katha-299.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv sarvodya (hindi)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ebharati-pdf-1674278317DhanurvedaSamhita-Sam-1958.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "VIGYAN BHAIRAV (RUDRYAMAL TANTRA KA GOOD REHASYA) Bhairav Bhairvi Samwad (Hindi Edition) (DASHORA, NANDLAL) (Z-Library).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yajurved-gujarati.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/rigveda_aufrecht_gretil.xml"
+  },
+  "SHIV": {
+    "source_count": 48,
+    "independent_families": 28,
+    "families": [
+      "DLI",
+      "GITAPRESS",
+      "GRETIL",
+      "HINDIBOOK-SHIVA-SAMH",
+      "KAUTHUMA",
+      "SHIV CHALISA.TXT",
+      "SHIV GEETA",
+      "SHIV PURAN 1.TXT",
+      "SHIV PURAN 2.TXT",
+      "SHIV PURAN 3.TXT",
+      "SHIV PURAN 4.TXT",
+      "SHIV SARVODYA (HINDI",
+      "SHIV SARVODYA ENGLIS",
+      "SHIV SUTRA (ENGLISH)",
+      "SHIV THADAV STOTRAM.",
+      "SHIVA GITA (1).TXT",
+      "SHIVA SUTRA SPANDA K",
+      "SHIVA SVARODAYA WITH",
+      "SHIVA-SWARODAYA-SANS",
+      "SHIVASAHINTA_WITHHIN",
+      "SHIVASUTRAS.TXT",
+      "SHIVASUTRA_FIVE_COMM",
+      "SHIVA_MAHIMNA_STAVA_",
+      "SHIVA_PURANA_PRATHAM",
+      "SHIVA_PURANA_TELUGU_",
+      "SHIVA_PURAN_MALAYALA",
+      "SHIVA_SAHINTA_WITHHI",
+      "YSHIVA SVARODAYA TEX"
+    ],
+    "sources": [
+      {
+        "file": "shiva_upanishad_gretil.xml",
+        "size_bytes": 394369,
+        "type": "XML"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil.xml",
+        "size_bytes": 21263,
+        "type": "XML"
+      },
+      {
+        "file": "shiva_puran_gretil.xml",
+        "size_bytes": 983357,
+        "type": "XML"
+      },
+      {
+        "file": "shiva_sutra_varttika_gretil.xml",
+        "size_bytes": 79528,
+        "type": "XML"
+      },
+      {
+        "file": "shiv_puran_gita_press.txt",
+        "size_bytes": 5178110,
+        "type": "OCR"
+      },
+      {
+        "file": "shiv_puran_khand2_gita_press.txt",
+        "size_bytes": 7661722,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva mahimna stava_gretil.xml",
+        "size_bytes": 35594,
+        "type": "XML"
+      },
+      {
+        "file": "shiva_puran_malayalam_ia_ia_djvu.txt",
+        "size_bytes": 30057,
+        "type": "OCR"
+      },
+      {
+        "file": "shivasutra_five_commentaries_djvu.txt",
+        "size_bytes": 741895,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva_mahimna_stava_kannada_djvu.txt",
+        "size_bytes": 499287,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva_purana_prathamakhanda_ia_ia_djvu.txt",
+        "size_bytes": 7856465,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva_purana_telugu_manuscript_djvu.txt",
+        "size_bytes": 60187,
+        "type": "OCR"
+      },
+      {
+        "file": "shivasutra_vartikam_dli_djvu.txt",
+        "size_bytes": 112724,
+        "type": "OCR"
+      },
+      {
+        "file": "shiva_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shivasankalpa_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva mahimna stava_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_sutra_varttika_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva mahimna stava_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva mahimna stava_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_sutra_varttika_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shiva_sutra_varttika_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "8. Ancient Wisdom and Future Medicine A Defense of the Science of Ayurveda  Author Michael Eatmon,Dr Thomas Moore,Dr Jayashree Shivamoggi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "SHIVA GITA (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv geeta",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiva Svarodaya with Bhasha Tika by Pt. Mihira Chandra - Khemaraja_text 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiva_Sahinta_WithHindiTika.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "shiv thadav stotram.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "shiva-swarodaya-sanskrit-hindi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv Puran 4.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv sarvodya English",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv sutra (English)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ShivaSahinta_WithHindiTika.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv Chalisa.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv Puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv Puran 3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv sarvodya (hindi)",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiva Sutra Spanda Karika (Samvat 2031 Edition) - Daita Swami.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "HindiBook-shiva-samhita.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Shiv Puran 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "ShivaSutras.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yShiva Svarodaya Text With English Translation - Ram Kumar Rai.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/shiv_puran_gita_press.txt"
+  },
+  "SHVET": {
+    "source_count": 8,
+    "independent_families": 5,
+    "families": [
+      "GRETIL",
+      "MANDUKYA_TAITTIRIYA_",
+      "SHVETASHVATARA_RAMAN",
+      "SHVETASHVATARA_TAILA",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "shvetashvatara_upanishad_gretil.xml",
+        "size_bytes": 45858,
+        "type": "XML"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+        "size_bytes": 931494,
+        "type": "OCR"
+      },
+      {
+        "file": "shvetashvatara_ramanuja_kannada_djvu.txt",
+        "size_bytes": 60977,
+        "type": "OCR"
+      },
+      {
+        "file": "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+        "size_bytes": 2753518,
+        "type": "OCR"
+      },
+      {
+        "file": "shvetashvatara_tailang_2001_djvu.txt",
+        "size_bytes": 1625741,
+        "type": "OCR"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "shvetashvatara_upanishad_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/downloads/shvetashvatara_upanishad_gp_ia_ia_djvu.txt"
+  },
+  "SKAND": {
+    "source_count": 38,
+    "independent_families": 33,
+    "families": [
+      "2015.485079.SKAND-PU",
+      "GITAPRESS",
+      "GRETIL",
+      "KHEMRAJ",
+      "NIRUKTA_SKANDASVAMIN",
+      "SA_SKANDAPURANA-REVA",
+      "SKAND PURAN (ARCHIVE",
+      "SKAND PURAN (GITA PR",
+      "SKAND PURAN 1.TXT",
+      "SKAND PURAN 11.TXT",
+      "SKAND PURAN 12.TXT",
+      "SKAND PURAN 13.TXT",
+      "SKAND PURAN 14.TXT",
+      "SKAND PURAN 15.TXT",
+      "SKAND PURAN 18.TXT",
+      "SKAND PURAN 2.TXT",
+      "SKAND PURAN 20.TXT",
+      "SKAND PURAN 21.TXT",
+      "SKAND PURAN 22.TXT",
+      "SKAND PURAN 3.TXT",
+      "SKAND PURAN 4.TXT",
+      "SKAND PURAN 5.TXT",
+      "SKAND PURAN 6.TXT",
+      "SKAND PURAN 7.TXT",
+      "SKAND PURAN 8.TXT",
+      "SKAND PURAN 9.TXT",
+      "SKANDA PURAN (GITA P",
+      "SKANDA_PURAN_5TO7_RA",
+      "SKANDA_PURAN_FULL.TX",
+      "SKANDA_PURAN_GP_IA_I",
+      "SKANDA_PURAN_IA_IA.T",
+      "SKANDA_PURAN_VENKATE",
+      "SKAND_DJVU.TXT"
+    ],
+    "sources": [
+      {
+        "file": "skanda_puran_full.txt",
+        "size_bytes": 10382979,
+        "type": "OCR"
+      },
+      {
+        "file": "2015.485079.Skand-Puran_djvu.txt",
+        "size_bytes": 1666866,
+        "type": "OCR"
+      },
+      {
+        "file": "Skand_djvu.txt",
+        "size_bytes": 9329994,
+        "type": "OCR"
+      },
+      {
+        "file": "skand_puran_gita_press.txt",
+        "size_bytes": 10588900,
+        "type": "OCR"
+      },
+      {
+        "file": "skand_puran_gita_press_new.txt",
+        "size_bytes": 10502414,
+        "type": "OCR"
+      },
+      {
+        "file": "skanda_puran_revakhanda_gretil.xml",
+        "size_bytes": 1076556,
+        "type": "XML"
+      },
+      {
+        "file": "skanda_puran_ia_ia.txt",
+        "size_bytes": 297364,
+        "type": "OCR"
+      },
+      {
+        "file": "skanda_puran_kedar_khemraj_ia_ia_djvu.txt",
+        "size_bytes": 2298089,
+        "type": "OCR"
+      },
+      {
+        "file": "skanda_puran_5to7_ramtek_ia_ia_djvu.txt",
+        "size_bytes": 12179288,
+        "type": "OCR"
+      },
+      {
+        "file": "skanda_puran_venkateshwar_1867_ia_ia_djvu.txt",
+        "size_bytes": 8527716,
+        "type": "OCR"
+      },
+      {
+        "file": "nirukta_skandasvamin_mahesvara_djvu.txt",
+        "size_bytes": 3928076,
+        "type": "OCR"
+      },
+      {
+        "file": "skanda_puran_gp_ia_ia_djvu.txt",
+        "size_bytes": 10502414,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_skandapurANa-revAkhaNDa-rks.xml",
+        "size_bytes": 1076556,
+        "type": "XML"
+      },
+      {
+        "file": "skanda_puran_revakhanda_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "skanda_puran_revakhanda_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "skanda_puran_revakhanda_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Skand puran 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 12.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 15.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skanda Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 13.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 18.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 20.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 22.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 5.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 9.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 14.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 3.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 4.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 7.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 11.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 21.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 6.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand puran 8.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand Puran (Archive.org Hindi).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "skand_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Skand Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/skanda_puran_full.txt"
+  },
+  "SV": {
+    "source_count": 24,
+    "independent_families": 13,
+    "families": [
+      "DLI",
+      "GRETIL",
+      "JYOTISH MEIN SVARA V",
+      "KAUTHUMA",
+      "NIRUKTA_SKANDASVAMIN",
+      "SAMAVEDA_SAMHITA.TXT",
+      "SARASVATI CHALISA.TX",
+      "SA_DHYANACANDRAGOSVA",
+      "SA_RUPAGOSVAMIN-LAGH",
+      "SHIVA SVARODAYA WITH",
+      "SVACCHANDATANTRA_KSE",
+      "SVAYAMBHU_PURAN_VRIH",
+      "YSHIVA SVARODAYA TEX"
+    ],
+    "sources": [
+      {
+        "file": "svacchandatantra_gretil.xml",
+        "size_bytes": 1044955,
+        "type": "XML"
+      },
+      {
+        "file": "samaveda_jayadev.txt",
+        "size_bytes": 3008265,
+        "type": "OCR"
+      },
+      {
+        "file": "samaveda_samhita.txt",
+        "size_bytes": 2762687,
+        "type": "OCR"
+      },
+      {
+        "file": "samaveda_gretil.xml",
+        "size_bytes": 272261,
+        "type": "XML"
+      },
+      {
+        "file": "svayambhu_puran_gretil.xml",
+        "size_bytes": 295749,
+        "type": "XML"
+      },
+      {
+        "file": "sa_dhyAnacandragosvAmin-rAdhAkRSNASTakAlIyalIlAsmaraNakramapaddhati.xml",
+        "size_bytes": 39210,
+        "type": "XML"
+      },
+      {
+        "file": "svacchandatantra_ksemaraja_ia_ia_djvu.txt",
+        "size_bytes": 1041281,
+        "type": "OCR"
+      },
+      {
+        "file": "nirukta_skandasvamin_mahesvara_djvu.txt",
+        "size_bytes": 3928076,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_rUpagosvAmin-laghubhAgavatAmRta.xml",
+        "size_bytes": 174389,
+        "type": "XML"
+      },
+      {
+        "file": "samaveda_kauthuma.txt",
+        "size_bytes": 498397,
+        "type": "OCR"
+      },
+      {
+        "file": "svayambhu_puran_vrihat_ia_ia_djvu.txt",
+        "size_bytes": 1344376,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_dhyAnacandragosvAmin-gauragaovindArcanasmaraNapaddhati.xml",
+        "size_bytes": 90602,
+        "type": "XML"
+      },
+      {
+        "file": "samaveda_dli_vol3.txt",
+        "size_bytes": 1233909,
+        "type": "OCR"
+      },
+      {
+        "file": "samaveda_dli_vol2.txt",
+        "size_bytes": 1190925,
+        "type": "OCR"
+      },
+      {
+        "file": "svayambhu_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svayambhu_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svayambhu_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svacchandatantra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svacchandatantra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "svacchandatantra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Shiva Svarodaya with Bhasha Tika by Pt. Mihira Chandra - Khemaraja_text 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Jyotish Mein Svara Vigyan Ka Mahatva - Kedar Nath Joshi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Sarasvati Chalisa.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "yShiva Svarodaya Text With English Translation - Ram Kumar Rai.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/samaveda_dli_vol2.txt"
+  },
+  "TAITT": {
+    "source_count": 7,
+    "independent_families": 3,
+    "families": [
+      "GRETIL",
+      "MANDUKYA_TAITTIRIYA_",
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "taittiriya_upanishad_ia.txt",
+        "size_bytes": 1191022,
+        "type": "OCR"
+      },
+      {
+        "file": "mandukya_taittiriya_shvetashvatara_bhashya_gujarati_djvu.txt",
+        "size_bytes": 2753518,
+        "type": "OCR"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil.xml",
+        "size_bytes": 178913,
+        "type": "XML"
+      },
+      {
+        "file": "yvk_archive_TaittiriyaAitareyaSwetaswataraUpanishadsWithTika-ERoer1874bis_djvu.txt",
+        "size_bytes": 1151316,
+        "type": "OCR"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "taittiriya_upanishad_bhashya_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/downloads/taittiriya_upanishad_ia.txt"
+  },
+  "VAISHESHIKA_SUTRA": {
+    "source_count": 4,
+    "independent_families": 3,
+    "families": [
+      "COMMENTARY_TRADITION",
+      "DLI",
+      "VAISHESHIKA_SUTRA_SE"
+    ],
+    "sources": [
+      {
+        "file": "vaisheshika_sutra_vritti_dli_383294.txt",
+        "size_bytes": 616190,
+        "type": "OCR"
+      },
+      {
+        "file": "vaisheshika_sutra_dli_496363.txt",
+        "size_bytes": 45546,
+        "type": "OCR"
+      },
+      {
+        "file": "prashastapada_bhashya_vaisheshika.txt",
+        "size_bytes": 1049545,
+        "type": "OCR"
+      },
+      {
+        "file": "vaisheshika_sutra_search.txt",
+        "size_bytes": 44862,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt"
+  },
+  "VAMAN": {
+    "source_count": 19,
+    "independent_families": 9,
+    "families": [
+      "DLI",
+      "GITAPRESS",
+      "GRETIL",
+      "VAMAN PURAN (GITA PR",
+      "VAMAN PURAN.TXT",
+      "VAMANA_PURANA_SHARMA",
+      "VAMANPURAN (1).TXT",
+      "VAMAN_PURAN_HINDI.TX",
+      "VAMAN_PURAN_HINDI_EX"
+    ],
+    "sources": [
+      {
+        "file": "vaman_puran_dli.txt",
+        "size_bytes": 1859964,
+        "type": "OCR"
+      },
+      {
+        "file": "vaman_puran_gita_press_new.txt",
+        "size_bytes": 3631214,
+        "type": "OCR"
+      },
+      {
+        "file": "vaman_puran_hindi.txt",
+        "size_bytes": 1421046,
+        "type": "OCR"
+      },
+      {
+        "file": "vamana_puran_gretil.xml",
+        "size_bytes": 770532,
+        "type": "XML"
+      },
+      {
+        "file": "vaman_puran_gita_press.txt",
+        "size_bytes": 3631214,
+        "type": "OCR"
+      },
+      {
+        "file": "vamana_puran_saromahatmya_gretil.xml",
+        "size_bytes": 206534,
+        "type": "XML"
+      },
+      {
+        "file": "vamana_purana_sharma_2018_djvu.txt",
+        "size_bytes": 3572959,
+        "type": "OCR"
+      },
+      {
+        "file": "vamana_purana_dli_2015_djvu.txt",
+        "size_bytes": 4376286,
+        "type": "OCR"
+      },
+      {
+        "file": "vamana_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vamana_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vamana_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vamana_puran_saromahatmya_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vamana_puran_saromahatmya_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vamana_puran_saromahatmya_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vamanpuran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vaman Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vaman Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vaman_puran_hindi_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vaman_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/vaman_puran_gita_press_new.txt"
+  },
+  "VARAH": {
+    "source_count": 10,
+    "independent_families": 7,
+    "families": [
+      "GITAPRESS",
+      "VARAH PURAN 1.TXT",
+      "VARAH PURAN 2.TXT",
+      "VARAHA-PURAN (1).TXT",
+      "VARAHA_PURAN.TXT",
+      "VARAHA_PURAN_2.TXT",
+      "VARAHA_PURAN_SANSKRI"
+    ],
+    "sources": [
+      {
+        "file": "varaha_puran_sanskrit.txt",
+        "size_bytes": 2743882,
+        "type": "OCR"
+      },
+      {
+        "file": "varaha_puran.txt",
+        "size_bytes": 2906025,
+        "type": "OCR"
+      },
+      {
+        "file": "varaha_puran_2.txt",
+        "size_bytes": 6698392,
+        "type": "OCR"
+      },
+      {
+        "file": "varaha_puran_gita_press_new.txt",
+        "size_bytes": 1079820,
+        "type": "OCR"
+      },
+      {
+        "file": "Varah puran 2.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "varaha-puran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Varah puran 1.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "varaha_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "varaha_puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "varaha_puran_sanskrit_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/varaha_puran.txt"
+  },
+  "VEDANTA_SUTRA": {
+    "source_count": 0,
+    "independent_families": 0,
+    "families": [],
+    "sources": [],
+    "primary_source": "knowledge/downloads/brahma_sutra_shankara_bhashya.txt"
+  },
+  "VISH": {
+    "source_count": 49,
+    "independent_families": 27,
+    "families": [
+      "BAVISHYA-PURAN (1).T",
+      "BHAVISHYA MALIKA BOO",
+      "BHAVISHYA MALLIKA",
+      "BHAVISHYA-MALIKA-IN-",
+      "BHAVISHYAPURANAM-TEL",
+      "BHAVISHYA_PURAN.TXT",
+      "GITAPRESS",
+      "GRETIL",
+      "INSTAPDF.IN-BHAVISHY",
+      "MADHVA_TRADITION",
+      "SRI VISHNU SAHASRANA",
+      "SRIVISHNUSAHASRANAMA",
+      "SRI_VISHNU_SAHASRANA",
+      "VISHNU DHARMOTRA PUR",
+      "VISHNU PURAN (GITA P",
+      "VISHNU PURAN ENG SAN",
+      "VISHNU SAHASRANAMA S",
+      "VISHNU SHAHSRANAMA E",
+      "VISHNU-PURAN (1).TXT",
+      "VISHNUPURNSYST01WILS",
+      "VISHNUSAHASRANAMA_SA",
+      "VISHNUSAHASRANAMA_SH",
+      "VISHNU_PURAN.TXT",
+      "VISHNU_PURAN_HINDI_N",
+      "VISHNU_PURAN_SANSKRI",
+      "VISHNU_SMRITI_CHOWKH",
+      "VISHWA-KI-ALOKIK-SAD"
+    ],
+    "sources": [
+      {
+        "file": "VishnuSahasranama_Chinmayananda.txt",
+        "size_bytes": 149440,
+        "type": "OCR"
+      },
+      {
+        "file": "VishnuSahasranama_Sankarabhashya.txt",
+        "size_bytes": 2596561,
+        "type": "OCR"
+      },
+      {
+        "file": "VishnuSahasranama_Shukasudhi.txt",
+        "size_bytes": 344118,
+        "type": "OCR"
+      },
+      {
+        "file": "bhavishya_puran.txt",
+        "size_bytes": 4728614,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran.txt",
+        "size_bytes": 4176797,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_gita_press_2.txt",
+        "size_bytes": 3599547,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnupurnsyst01wils.txt",
+        "size_bytes": 808097,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_gita_press_new.txt",
+        "size_bytes": 1374016,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_hindi_new.txt",
+        "size_bytes": 4189152,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_gretil_critical.xml",
+        "size_bytes": 1753093,
+        "type": "XML"
+      },
+      {
+        "file": "bhavishya_puran_gita_press.txt",
+        "size_bytes": 4709487,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_sanskrit_english.txt",
+        "size_bytes": 1935950,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_gretil.xml",
+        "size_bytes": 981021,
+        "type": "XML"
+      },
+      {
+        "file": "vishnu_dharma_gretil.xml",
+        "size_bytes": 788741,
+        "type": "XML"
+      },
+      {
+        "file": "vishnu_smriti_gretil.xml",
+        "size_bytes": 756820,
+        "type": "XML"
+      },
+      {
+        "file": "vishnu_smriti_chowkhamba_djvu.txt",
+        "size_bytes": 2784479,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_puran_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_puran_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_puran_gretil_critical_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_puran_gretil_critical_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_puran_gretil_critical_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_dharma_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_smriti_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_smriti_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_dharma_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_dharma_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_smriti_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "Bhavishya malika book.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhavishya mallika",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Bhavishya-Malika-in-Hindi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vishnu Dharmotra Puran.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vishnu Puran (Gita Press).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhavishyapuranam-telugu.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Sri Vishnu sahasranaam satrotam.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "SriVishnuSahasranamaStotramNamavali-MalayalamA5.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vishnu Puran Eng sans.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vishnu Sahasranama Shukasudhi.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Sri_Vishnu_sahasranaam_satrotam_sanskrit.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vishnu shahsranama english",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bavishya-puran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu-puran (1).txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vishwa-ki-alokik-sadhnaye_compress.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Sri_Vishnu_Sahasranama_Stotram.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "Vishnu Sahasranama Shankara Bhashya.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "instapdf.in-bhavishya-malika-book-691.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "bhavishya_puran_gita_press_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_hindi_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_puran_gita_press_new_external.txt",
+        "source": "bronze",
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/vishnu_puran.txt"
+  },
+  "VISHNU_SM": {
+    "source_count": 5,
+    "independent_families": 2,
+    "families": [
+      "GRETIL",
+      "VISHNU_SMRITI_CHOWKH"
+    ],
+    "sources": [
+      {
+        "file": "vishnu_smriti_gretil.xml",
+        "size_bytes": 756820,
+        "type": "XML"
+      },
+      {
+        "file": "vishnu_smriti_chowkhamba_djvu.txt",
+        "size_bytes": 2784479,
+        "type": "OCR"
+      },
+      {
+        "file": "vishnu_smriti_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_smriti_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "vishnu_smriti_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/downloads/vishnu_smriti_gretil.xml"
+  },
+  "VYASA_SM": {
+    "source_count": 2,
+    "independent_families": 1,
+    "families": [
+      "ARCHIVE_ORG"
+    ],
+    "sources": [
+      {
+        "file": "vyasa_smriti_sanskrit.txt",
+        "size_bytes": 64195,
+        "type": "OCR"
+      },
+      {
+        "file": "vyasa_smriti_dutt.txt",
+        "size_bytes": 63918,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/vyasa_smriti_sanskrit.txt"
+  },
+  "VYU": {
+    "source_count": 6,
+    "independent_families": 6,
+    "families": [
+      "DLI",
+      "GRETIL",
+      "MITRA",
+      "SA_REVAKHANDA-OF-THE",
+      "VAYU_PURANA_PART1_IA",
+      "VAYU_PURANA_PART2_IA"
+    ],
+    "sources": [
+      {
+        "file": "revakhanda_vayu_puran_gretil.xml",
+        "size_bytes": 1303831,
+        "type": "XML"
+      },
+      {
+        "file": "vayu_purana_part1_ia_ia_djvu.txt",
+        "size_bytes": 3087518,
+        "type": "OCR"
+      },
+      {
+        "file": "vayu_purana_vol1_dli_ia_ia_djvu.txt",
+        "size_bytes": 1336403,
+        "type": "OCR"
+      },
+      {
+        "file": "vayu_purana_mitra_1880_djvu.txt",
+        "size_bytes": 1365984,
+        "type": "OCR"
+      },
+      {
+        "file": "vayu_purana_part2_ia_ia_djvu.txt",
+        "size_bytes": 1233073,
+        "type": "OCR"
+      },
+      {
+        "file": "sa_revAkhANDa-of-the-vAyupurANa-rkv.xml",
+        "size_bytes": 1303831,
+        "type": "XML"
+      }
+    ],
+    "primary_source": "knowledge/downloads/revakhanda_vayu_puran_gretil.xml"
+  },
+  "YAJNAV": {
+    "source_count": 6,
+    "independent_families": 3,
+    "families": [
+      "GRETIL",
+      "YAJNAVALKYA_SMRITI_B",
+      "YAJNAVALKYA_SMRITI_M"
+    ],
+    "sources": [
+      {
+        "file": "yajnavalkya_smriti_gretil.xml",
+        "size_bytes": 670829,
+        "type": "XML"
+      },
+      {
+        "file": "yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+        "size_bytes": 2847523,
+        "type": "OCR"
+      },
+      {
+        "file": "yajnavalkya_smriti_mitakshara_ia_ia_djvu.txt",
+        "size_bytes": 3136013,
+        "type": "OCR"
+      },
+      {
+        "file": "yajnavalkya_smriti_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yajnavalkya_smriti_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yajnavalkya_smriti_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/downloads/yajnavalkya_smriti_bombay_ia_ia_djvu.txt"
+  },
+  "YOGA_SUTRA": {
+    "source_count": 9,
+    "independent_families": 2,
+    "families": [
+      "GRETIL",
+      "YOGA_SUTRA_DARSHAN.T"
+    ],
+    "sources": [
+      {
+        "file": "yoga_sutra_gretil.xml",
+        "size_bytes": 24874,
+        "type": "XML"
+      },
+      {
+        "file": "yoga_sutra_darshan.txt",
+        "size_bytes": 539807,
+        "type": "OCR"
+      },
+      {
+        "file": "yoga_sutra_bhasya_gretil.xml",
+        "size_bytes": 160037,
+        "type": "XML"
+      },
+      {
+        "file": "yoga_sutra_bhasya_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yoga_sutra_bhasya_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yoga_sutra_gretil_structure.json",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yoga_sutra_gretil_devanagari.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yoga_sutra_bhasya_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      },
+      {
+        "file": "yoga_sutra_gretil_iast.txt",
+        "source": "gretil_parsed",
+        "type": "GRETIL"
+      }
+    ],
+    "primary_source": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt"
+  },
+  "YVK": {
+    "source_count": 1,
+    "independent_families": 1,
+    "families": [
+      "UPANISHAD_COLLECTION"
+    ],
+    "sources": [
+      {
+        "file": "yvk_archive_TaittiriyaAitareyaSwetaswataraUpanishadsWithTika-ERoer1874bis_djvu.txt",
+        "size_bytes": 1151316,
+        "type": "OCR"
+      }
+    ],
+    "primary_source": "knowledge/downloads/yajurveda_jayadev.txt"
+  },
+  "YVS": {
+    "source_count": 0,
+    "independent_families": 0,
+    "families": [],
+    "sources": [],
+    "primary_source": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt"
+  }
+}

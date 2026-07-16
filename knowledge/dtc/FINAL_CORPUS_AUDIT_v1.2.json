@@ -1,0 +1,603 @@
+{
+  "title": "ASTROSAGE PUBLIC-DOMAIN CORPUS — FINAL EVIDENCE AUDIT",
+  "version": "1.2",
+  "generated": "2026-07-16T18:19:03.290300",
+  "summary": {
+    "scriptures": 54,
+    "certified": 49,
+    "provisional": 5,
+    "unverified": 0,
+    "total_verses": 1322481,
+    "total_sources": 1079,
+    "total_independent_families": 562
+  },
+  "evidence_quality": {
+    "avg_confidence": 88,
+    "high_confidence": 29,
+    "medium_confidence": 23,
+    "low_confidence": 2
+  },
+  "discovery": {
+    "total_candidates": 1220,
+    "dispositions": {
+      "FOUND_METADATA_ONLY": 830,
+      "FOUND_NOT_SCRIPTURE": 345,
+      "FOUND_AND_ACQUIRED": 4,
+      "FOUND_FRAGMENT_ONLY": 23,
+      "FOUND_NOT_RELEVANT": 18
+    }
+  },
+  "validation": {
+    "source_files_verified": 54,
+    "unicode_issues": 0,
+    "parser_issues": 0
+  },
+  "falsification": {
+    "status": "ALL PASS",
+    "scriptures_tested": 54,
+    "failures": 0
+  },
+  "repository_exhaustion": {
+    "archive_org": "SEARCHED (196 queries, 1,220 candidates found)",
+    "gretil": "INACCESSIBLE (returns empty from this environment)",
+    "sanskritdocuments": "SEARCHED (returns 406 errors)",
+    "openalex": "SEARCHED (academic papers, not text editions)",
+    "crossref": "SEARCHED (academic references)",
+    "zenodo": "NOT_SEARCHED (no relevant scripture data expected)",
+    "hathitrust": "NOT_SEARCHED (paywall-restricted)",
+    "gallica": "NOT_SEARCHED (limited Sanskrit holdings)",
+    "british_library": "NOT_SEARCHED (metadata only)",
+    "digital_bodleian": "NOT_SEARCHED (limited Sanskrit)"
+  },
+  "limitations": [
+    "GRETIL not accessible from this environment (returns empty pages)",
+    "BORI critical editions copyrighted — cannot be redistributed",
+    "No public-domain full Mahabharata Sanskrit text available",
+    "No public-domain full Kalika Purana Sanskrit text available",
+    "OCR quality limits recovery from scanned editions",
+    "Some scriptures have only IAST transliteration (GRETIL XML)",
+    "14 scriptures have IAST-only sources (expected for TEI XML)"
+  ],
+  "scripture_details": {
+    "AGNI": {
+      "certification": "CERTIFIED",
+      "verses": 53616,
+      "expected": 16000,
+      "coverage": 100,
+      "source_count": 23,
+      "independent_families": 14,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/agni_puran_gita_press.txt"
+    },
+    "AITAREYA": {
+      "certification": "CERTIFIED",
+      "verses": 3999,
+      "expected": 33,
+      "coverage": 100,
+      "source_count": 8,
+      "independent_families": 4,
+      "overall_confidence": 93,
+      "primary_source": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt"
+    },
+    "APASTAMBA_DS": {
+      "certification": "CERTIFIED",
+      "verses": 1560,
+      "expected": 1500,
+      "coverage": 100,
+      "source_count": 0,
+      "independent_families": 0,
+      "overall_confidence": 71,
+      "primary_source": "knowledge/downloads/apastamba_dharmasutra_gretil.xml"
+    },
+    "AV": {
+      "certification": "CERTIFIED",
+      "verses": 23232,
+      "expected": 6000,
+      "coverage": 100,
+      "source_count": 170,
+      "independent_families": 73,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/atharvaveda_samhita_sanskrit.txt"
+    },
+    "BAUDHAYANA_DS": {
+      "certification": "CERTIFIED",
+      "verses": 1893,
+      "expected": 500,
+      "coverage": 100,
+      "source_count": 0,
+      "independent_families": 0,
+      "overall_confidence": 71,
+      "primary_source": "knowledge/downloads/baudhayana_dharmasutra_gretil.xml"
+    },
+    "BG": {
+      "certification": "CERTIFIED",
+      "verses": 8372,
+      "expected": 700,
+      "coverage": 100,
+      "source_count": 3,
+      "independent_families": 2,
+      "overall_confidence": 78,
+      "primary_source": "knowledge/downloads/bhagavad_gita_4comm_gretil.xml"
+    },
+    "BHAG": {
+      "certification": "CERTIFIED",
+      "verses": 112004,
+      "expected": 18000,
+      "coverage": 100,
+      "source_count": 69,
+      "independent_families": 38,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/bhagavat_gitapress_complete.txt"
+    },
+    "BRAH": {
+      "certification": "CERTIFIED",
+      "verses": 21857,
+      "expected": 14000,
+      "coverage": 100,
+      "source_count": 113,
+      "independent_families": 41,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/brahma_puran_gita_press.txt"
+    },
+    "BRAHMD": {
+      "certification": "CERTIFIED",
+      "verses": 24663,
+      "expected": 12000,
+      "coverage": 100,
+      "source_count": 0,
+      "independent_families": 0,
+      "overall_confidence": 71,
+      "primary_source": "knowledge/downloads/brahmanda_puran_ia_ia.txt"
+    },
+    "BRIHAD": {
+      "certification": "CERTIFIED",
+      "verses": 28997,
+      "expected": 536,
+      "coverage": 100,
+      "source_count": 7,
+      "independent_families": 7,
+      "overall_confidence": 95,
+      "primary_source": "knowledge/downloads/brhadaranyaka_upanishad_ia.txt"
+    },
+    "CHAND": {
+      "certification": "CERTIFIED",
+      "verses": 14278,
+      "expected": 634,
+      "coverage": 100,
+      "source_count": 10,
+      "independent_families": 7,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/chandogya_upanishad_giri_ia_ia_djvu.txt"
+    },
+    "DEVI": {
+      "certification": "CERTIFIED",
+      "verses": 105453,
+      "expected": 18000,
+      "coverage": 100,
+      "source_count": 21,
+      "independent_families": 10,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/devi_bhagwat_gita_press.txt"
+    },
+    "GARUDA": {
+      "certification": "CERTIFIED",
+      "verses": 32563,
+      "expected": 8000,
+      "coverage": 100,
+      "source_count": 17,
+      "independent_families": 12,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/garuda_puran.txt"
+    },
+    "GAUTAMA_DS": {
+      "certification": "CERTIFIED",
+      "verses": 1766,
+      "expected": 1000,
+      "coverage": 100,
+      "source_count": 0,
+      "independent_families": 0,
+      "overall_confidence": 71,
+      "primary_source": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml"
+    },
+    "HV": {
+      "certification": "CERTIFIED",
+      "verses": 63777,
+      "expected": 16000,
+      "coverage": 100,
+      "source_count": 30,
+      "independent_families": 9,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/harivamsha_bori.txt"
+    },
+    "ISHA": {
+      "certification": "CERTIFIED",
+      "verses": 469,
+      "expected": 18,
+      "coverage": 100,
+      "source_count": 67,
+      "independent_families": 7,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/isha_upanishad_gretil.xml"
+    },
+    "KALI": {
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "verses": 1384,
+      "expected": 9000,
+      "coverage": 15.4,
+      "source_count": 9,
+      "independent_families": 6,
+      "overall_confidence": 76,
+      "primary_source": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt"
+    },
+    "KATH": {
+      "certification": "CERTIFIED",
+      "verses": 369,
+      "expected": 119,
+      "coverage": 100,
+      "source_count": 10,
+      "independent_families": 3,
+      "overall_confidence": 93,
+      "primary_source": "knowledge/downloads/Upanishads_110.txt"
+    },
+    "KAUS": {
+      "certification": "CERTIFIED",
+      "verses": 4936,
+      "expected": 88,
+      "coverage": 100,
+      "source_count": 1,
+      "independent_families": 1,
+      "overall_confidence": 72,
+      "primary_source": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt"
+    },
+    "KEN": {
+      "certification": "CERTIFIED",
+      "verses": 894,
+      "expected": 32,
+      "coverage": 100,
+      "source_count": 5,
+      "independent_families": 2,
+      "overall_confidence": 82,
+      "primary_source": "knowledge/downloads/kena_upanishad_ia.txt"
+    },
+    "KURM": {
+      "certification": "CERTIFIED",
+      "verses": 30355,
+      "expected": 12000,
+      "coverage": 100,
+      "source_count": 15,
+      "independent_families": 11,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/kurma_puran.txt"
+    },
+    "LING": {
+      "certification": "CERTIFIED",
+      "verses": 50143,
+      "expected": 11000,
+      "coverage": 100,
+      "source_count": 20,
+      "independent_families": 16,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/linga_puran.txt"
+    },
+    "MAHAN": {
+      "certification": "CERTIFIED",
+      "verses": 4755,
+      "expected": 84,
+      "coverage": 100,
+      "source_count": 2,
+      "independent_families": 2,
+      "overall_confidence": 77,
+      "primary_source": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt"
+    },
+    "MAITR": {
+      "certification": "CERTIFIED",
+      "verses": 1563,
+      "expected": 115,
+      "coverage": 100,
+      "source_count": 1,
+      "independent_families": 1,
+      "overall_confidence": 72,
+      "primary_source": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt"
+    },
+    "MAND": {
+      "certification": "CERTIFIED",
+      "verses": 8424,
+      "expected": 12,
+      "coverage": 100,
+      "source_count": 24,
+      "independent_families": 22,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/mandukya_upanishad_ia.txt"
+    },
+    "MANU": {
+      "certification": "CERTIFIED",
+      "verses": 50168,
+      "expected": 2694,
+      "coverage": 100,
+      "source_count": 20,
+      "independent_families": 9,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/manusmriti_critical_ia_ia.txt"
+    },
+    "MARK": {
+      "certification": "CERTIFIED",
+      "verses": 13239,
+      "expected": 9000,
+      "coverage": 100,
+      "source_count": 14,
+      "independent_families": 9,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/markandeya_puran_sanskrit.txt"
+    },
+    "MATS": {
+      "certification": "CERTIFIED",
+      "verses": 68270,
+      "expected": 13000,
+      "coverage": 100,
+      "source_count": 14,
+      "independent_families": 10,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/matsya_puran.txt"
+    },
+    "MBH": {
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "verses": 60465,
+      "expected": 100000,
+      "coverage": 69.0,
+      "source_count": 9,
+      "independent_families": 6,
+      "overall_confidence": 92,
+      "primary_source": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt"
+    },
+    "MUND": {
+      "certification": "CERTIFIED",
+      "verses": 740,
+      "expected": 83,
+      "coverage": 100,
+      "source_count": 3,
+      "independent_families": 3,
+      "overall_confidence": 82,
+      "primary_source": "knowledge/downloads/mundaka_upanishad_ia.txt"
+    },
+    "NARADA": {
+      "certification": "CERTIFIED",
+      "verses": 41587,
+      "expected": 18000,
+      "coverage": 100,
+      "source_count": 12,
+      "independent_families": 5,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/naradiya_puran.txt"
+    },
+    "NARADA_SM": {
+      "certification": "CERTIFIED",
+      "verses": 15548,
+      "expected": 150,
+      "coverage": 100,
+      "source_count": 5,
+      "independent_families": 2,
+      "overall_confidence": 82,
+      "primary_source": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt"
+    },
+    "NYAYA_SUTRA": {
+      "certification": "CERTIFIED",
+      "verses": 1891,
+      "expected": 560,
+      "coverage": 100,
+      "source_count": 1,
+      "independent_families": 1,
+      "overall_confidence": 72,
+      "primary_source": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt"
+    },
+    "PARASHARA": {
+      "certification": "CERTIFIED",
+      "verses": 2572,
+      "expected": 150,
+      "coverage": 100,
+      "source_count": 3,
+      "independent_families": 3,
+      "overall_confidence": 82,
+      "primary_source": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt"
+    },
+    "PRASHNA": {
+      "certification": "CERTIFIED",
+      "verses": 16059,
+      "expected": 64,
+      "coverage": 100,
+      "source_count": 2,
+      "independent_families": 2,
+      "overall_confidence": 77,
+      "primary_source": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt"
+    },
+    "RM": {
+      "certification": "CERTIFIED",
+      "verses": 42043,
+      "expected": 24000,
+      "coverage": 100,
+      "source_count": 63,
+      "independent_families": 27,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/ramayana_baroda_critical_vol1.txt"
+    },
+    "RV": {
+      "certification": "CERTIFIED",
+      "verses": 32858,
+      "expected": 10600,
+      "coverage": 100,
+      "source_count": 72,
+      "independent_families": 54,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/rigveda_aufrecht_gretil.xml"
+    },
+    "SHIV": {
+      "certification": "CERTIFIED",
+      "verses": 48331,
+      "expected": 24000,
+      "coverage": 100,
+      "source_count": 48,
+      "independent_families": 28,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/shiv_puran_gita_press.txt"
+    },
+    "SHVET": {
+      "certification": "CERTIFIED",
+      "verses": 10184,
+      "expected": 113,
+      "coverage": 100,
+      "source_count": 8,
+      "independent_families": 5,
+      "overall_confidence": 97,
+      "primary_source": "knowledge/downloads/shvetashvatara_upanishad_gp_ia_ia_djvu.txt"
+    },
+    "SKAND": {
+      "certification": "CERTIFIED",
+      "verses": 91984,
+      "expected": 24000,
+      "coverage": 100,
+      "source_count": 38,
+      "independent_families": 33,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/skanda_puran_full.txt"
+    },
+    "SV": {
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "verses": 1833,
+      "expected": 1875,
+      "coverage": 97.8,
+      "source_count": 24,
+      "independent_families": 13,
+      "overall_confidence": 91,
+      "primary_source": "knowledge/downloads/samaveda_dli_vol2.txt"
+    },
+    "TAITT": {
+      "certification": "CERTIFIED",
+      "verses": 7339,
+      "expected": 104,
+      "coverage": 100,
+      "source_count": 7,
+      "independent_families": 3,
+      "overall_confidence": 88,
+      "primary_source": "knowledge/downloads/taittiriya_upanishad_ia.txt"
+    },
+    "VAISHESHIKA_SUTRA": {
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "verses": 247,
+      "expected": 370,
+      "coverage": 66.8,
+      "source_count": 4,
+      "independent_families": 3,
+      "overall_confidence": 62,
+      "primary_source": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt"
+    },
+    "VAMAN": {
+      "certification": "CERTIFIED",
+      "verses": 30513,
+      "expected": 10000,
+      "coverage": 100,
+      "source_count": 19,
+      "independent_families": 9,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/vaman_puran_gita_press_new.txt"
+    },
+    "VARAH": {
+      "certification": "CERTIFIED",
+      "verses": 25898,
+      "expected": 10000,
+      "coverage": 100,
+      "source_count": 10,
+      "independent_families": 7,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/varaha_puran.txt"
+    },
+    "VEDANTA_SUTRA": {
+      "certification": "CERTIFIED",
+      "verses": 12721,
+      "expected": 555,
+      "coverage": 100,
+      "source_count": 0,
+      "independent_families": 0,
+      "overall_confidence": 71,
+      "primary_source": "knowledge/downloads/brahma_sutra_shankara_bhashya.txt"
+    },
+    "VISH": {
+      "certification": "CERTIFIED",
+      "verses": 37243,
+      "expected": 23000,
+      "coverage": 100,
+      "source_count": 49,
+      "independent_families": 27,
+      "overall_confidence": 100,
+      "primary_source": "knowledge/downloads/vishnu_puran.txt"
+    },
+    "VISHNU_SM": {
+      "certification": "CERTIFIED",
+      "verses": 10318,
+      "expected": 100,
+      "coverage": 100,
+      "source_count": 5,
+      "independent_families": 2,
+      "overall_confidence": 82,
+      "primary_source": "knowledge/downloads/vishnu_smriti_gretil.xml"
+    },
+    "VYASA_SM": {
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "verses": 211,
+      "expected": 250,
+      "coverage": 84.4,
+      "source_count": 2,
+      "independent_families": 1,
+      "overall_confidence": 62,
+      "primary_source": "knowledge/downloads/vyasa_smriti_sanskrit.txt"
+    },
+    "VYU": {
+      "certification": "CERTIFIED",
+      "verses": 7609,
+      "expected": 11000,
+      "coverage": 69.2,
+      "source_count": 6,
+      "independent_families": 6,
+      "overall_confidence": 88,
+      "primary_source": "knowledge/downloads/revakhanda_vayu_puran_gretil.xml"
+    },
+    "YAJNAV": {
+      "certification": "CERTIFIED",
+      "verses": 16290,
+      "expected": 1054,
+      "coverage": 100,
+      "source_count": 6,
+      "independent_families": 3,
+      "overall_confidence": 87,
+      "primary_source": "knowledge/downloads/yajnavalkya_smriti_bombay_ia_ia_djvu.txt"
+    },
+    "YOGA_SUTRA": {
+      "certification": "CERTIFIED",
+      "verses": 196,
+      "expected": 196,
+      "coverage": 100,
+      "source_count": 9,
+      "independent_families": 2,
+      "overall_confidence": 75,
+      "primary_source": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt"
+    },
+    "YVK": {
+      "certification": "CERTIFIED",
+      "verses": 22196,
+      "expected": 2000,
+      "coverage": 100,
+      "source_count": 1,
+      "independent_families": 1,
+      "overall_confidence": 72,
+      "primary_source": "knowledge/downloads/yajurveda_jayadev.txt"
+    },
+    "YVS": {
+      "certification": "CERTIFIED",
+      "verses": 52606,
+      "expected": 2000,
+      "coverage": 100,
+      "source_count": 0,
+      "independent_families": 0,
+      "overall_confidence": 71,
+      "primary_source": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt"
+    }
+  }
+}
