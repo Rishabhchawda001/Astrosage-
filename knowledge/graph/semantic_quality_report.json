@@ -1,0 +1,34 @@
+{
+  "generated": "2026-07-17T16:36:47.273348",
+  "phase": "9.7",
+  "before": {
+    "entities": 498,
+    "edges": 5084,
+    "dialogues": 62,
+    "events": 29,
+    "genealogy_edges": 84,
+    "concept_edges": 70,
+    "cross_scripture": 43,
+    "edge_types": 61
+  },
+  "after": {
+    "entities": 387,
+    "edges": 4987,
+    "dialogues": 170,
+    "events": 29,
+    "genealogy_edges": 84,
+    "concept_edges": 70,
+    "cross_scripture": 76,
+    "edge_types": 68
+  },
+  "improvements": {
+    "dialogues": "+108",
+    "cross_scripture": "+33",
+    "edge_types": "+7",
+    "entity_dedup": "498 -> 387"
+  },
+  "quality": {
+    "orphan_nodes": 0,
+    "broken_references": 0
+  }
+}

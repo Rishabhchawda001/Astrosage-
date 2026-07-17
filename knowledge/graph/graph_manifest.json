@@ -1,6 +1,6 @@
 {
-  "version": "9.6",
-  "generated": "2026-07-17T16:03:15.800701",
+  "version": "9.7",
+  "generated": "2026-07-17T16:34:05.936697",
   "files": {
     "complete_entity_extraction.json": {
       "size": 105736
@@ -12,22 +12,22 @@
       "size": 38591
     },
     "graph_manifest.json": {
-      "size": 1818
+      "size": 2119
     },
     "graph_statistics.json": {
-      "size": 2003
+      "size": 2130
     },
     "complete_entity_extraction_v9.json": {
       "size": 160137
     },
     "graph.json": {
-      "size": 2268439
+      "size": 2315557
     },
     "dialogue_graph.json": {
-      "size": 27416
+      "size": 78598
     },
     "event_graph.json": {
-      "size": 10031
+      "size": 9804
     },
     "genealogy_graph.json": {
       "size": 31944
@@ -51,13 +51,13 @@
       "size": 188
     },
     "review_queue.json": {
-      "size": 85
+      "size": 353
     },
     "graph_audit.json": {
       "size": 2431
     },
     "cross_scripture_alignment.json": {
-      "size": 16700
+      "size": 29499
     },
     "coverage_report.json": {
       "size": 24269
@@ -81,13 +81,13 @@
       "size": 906
     },
     "nodes/entity_nodes.json": {
-      "size": 292957
+      "size": 256486
     },
     "nodes/scripture_nodes.json": {
       "size": 20537
     },
     "edges/relationship_edges.json": {
-      "size": 1801293
+      "size": 1881271
     },
     "validation/devanagari_entity_mentions.json": {
       "size": 1758
@@ -96,10 +96,10 @@
       "size": 2
     },
     "validation/graph_validation.json": {
-      "size": 1777
+      "size": 1889
     },
     "indexes/entity_index.json": {
-      "size": 43798
+      "size": 43915
     },
     "schemas/graph_schema.json": {
       "size": 3385

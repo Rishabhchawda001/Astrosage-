@@ -1,0 +1,21 @@
+{
+  "generated": "2026-07-17T16:34:05.937392",
+  "stats": {
+    "BRAHMD": {
+      "title": "Brahmanda Purana",
+      "entities": 83,
+      "new": 0
+    },
+    "SHVET": {
+      "title": "Shvetashvatara Upanishad",
+      "entities": 52,
+      "new": 0
+    },
+    "YAJNAV": {
+      "title": "Yajnavalkya Smriti",
+      "entities": 65,
+      "new": 0
+    }
+  },
+  "new_entities": 0
+}

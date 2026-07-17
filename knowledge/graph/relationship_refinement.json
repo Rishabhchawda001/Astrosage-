@@ -1,12 +1,8 @@
 {
-  "generated": "2026-07-17T16:35:52.583897",
-  "phase": "9.7",
-  "total_nodes": 441,
-  "total_edges": 4987,
-  "orphan_nodes": 0,
-  "broken_references": 0,
-  "edge_type_distribution": {
-    "MENTIONED_IN": 4695,
+  "generated": "2026-07-17T16:34:05.937962",
+  "new_relationships": 20,
+  "relationship_types": {
+    "MENTIONED_IN": 4980,
     "FATHER_OF": 36,
     "HUSBAND_OF": 11,
     "MOTHER_OF": 12,
@@ -44,6 +40,7 @@
     "DAUGHTER_OF": 1,
     "INCLUDES": 11,
     "TAUGHT": 2,
+    "DEFINED_AS": 35,
     "SUBCATEGORY_OF": 13,
     "GENERATES": 1,
     "OPPOSITE_OF": 1,
@@ -54,7 +51,6 @@
     "USED_IN": 1,
     "PREREQUISITE_FOR": 2,
     "SCHOOL_OF": 1,
-    "DEFINED_AS": 3,
     "OFFERED_TO": 7,
     "REQUIRES": 2,
     "PARTICIPANT": 3,
@@ -74,22 +70,5 @@
     "SERVES": 1,
     "COUNSELS": 1,
     "DEFEATS": 1
-  },
-  "node_type_distribution": {
-    "Deity": 46,
-    "Person": 122,
-    "Place": 48,
-    "Concept": 50,
-    "Weapon": 23,
-    "Animal": 33,
-    "Dynasty": 11,
-    "Avatar": 7,
-    "Nakshatra": 5,
-    "Loka": 3,
-    "Ritual": 13,
-    "School": 2,
-    "Graha": 5,
-    "Text": 19
-  },
-  "pass": true
+  }
 }
