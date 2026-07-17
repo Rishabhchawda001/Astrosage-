@@ -1,0 +1,48 @@
+{
+  "type": "ritual_graph",
+  "nodes": [
+    {
+      "name": "Homa",
+      "GUID": "69b54fae-2651-5564-8361-00ed68787396",
+      "mentions": 43
+    },
+    {
+      "name": "Agnihotra",
+      "GUID": "2496f48b-d932-579f-83d0-9868a75570a4",
+      "mentions": 203
+    },
+    {
+      "name": "Pravargya",
+      "GUID": "26edcac0-059e-5db0-9a6d-97578e11f07c",
+      "mentions": 88
+    },
+    {
+      "name": "Upanayana",
+      "GUID": "3fbaf681-2fd5-5bc0-8cd2-1126a96fdbb5",
+      "mentions": 4
+    },
+    {
+      "name": "Samavartana",
+      "GUID": "0be53e87-dc5f-56a6-9e38-c62f277bee80",
+      "mentions": 1
+    },
+    {
+      "name": "Japa",
+      "GUID": "78a5d49b-0a89-5dfb-8759-45bae8a2852f",
+      "mentions": 32
+    },
+    {
+      "name": "Tapa",
+      "GUID": "1d7112c4-9a3d-511b-b11d-110f6573d204",
+      "mentions": 70
+    },
+    {
+      "name": "Vrata",
+      "GUID": "2b227115-9699-5379-929c-a6f57a488ab7",
+      "mentions": 86
+    }
+  ],
+  "stats": {
+    "nodes": 8
+  }
+}

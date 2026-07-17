@@ -1,24 +1,64 @@
 {
-  "version": "3.0",
-  "generated": "2026-07-16T18:43:06.861938",
+  "version": "9.0",
+  "generated": "2026-07-17T14:35:44.417584",
+  "phase": 9,
   "nodes": {
+    "total": 374,
     "scriptures": 54,
-    "entities": 203,
-    "total": 257
+    "entities": 320
   },
   "edges": {
-    "total": 4755
+    "total": 7742,
+    "by_type": {
+      "MENTIONED_IN": 7520,
+      "FATHER_OF": 35,
+      "HUSBAND_OF": 19,
+      "MOTHER_OF": 15,
+      "BROTHER_OF": 15,
+      "SISTER_OF": 3,
+      "TEACHER_OF": 16,
+      "GUARDIAN_OF": 3,
+      "RULER_OF": 3,
+      "ANCESTOR_OF": 5,
+      "CREATOR_OF": 9,
+      "INCARNATION_OF": 21,
+      "COMPILER_OF": 3,
+      "PATH_TO": 9,
+      "LEADS_TO": 3,
+      "LIBERATION_FROM": 3,
+      "IDENTICAL_TO": 3,
+      "GUIDES": 3,
+      "ABODE_OF": 8,
+      "BATTLEFIELD_OF": 3,
+      "KINGDOM_OF": 4,
+      "WIELDED_BY": 21,
+      "VEHICLE_OF": 9,
+      "REFERENCED_BY": 2,
+      "UNCLE_OF": 1,
+      "ASSOCIATED_WITH": 2,
+      "FOLLOWED_BY": 1,
+      "ALLY_OF": 2,
+      "DEVOTEE_OF": 1
+    }
   },
   "entity_breakdown": {
-    "Deity": 26,
-    "Person": 58,
-    "Animal": 17,
-    "Place": 40,
-    "Weapon": 19,
+    "Person": 95,
+    "Scripture": 54,
+    "Place": 48,
+    "Deity": 43,
     "Concept": 36,
-    "Dynasty": 7
+    "Animal": 34,
+    "Weapon": 23,
+    "Avatar": 9,
+    "Ritual": 8,
+    "Dynasty": 7,
+    "Nakshatra": 5,
+    "Graha": 5,
+    "Loka": 4,
+    "School": 3
   },
-  "total_mentions": 751218,
-  "files_scanned": 54,
-  "verified_entities": 203
+  "total_mentions": 125011,
+  "files_scanned": 88,
+  "orphan_nodes": 0,
+  "evidence_coverage_pct": 100.0
 }

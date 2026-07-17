@@ -9,7 +9,8 @@
     "expected_verses": 16000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/agni_puran_gita_press.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -21,7 +22,8 @@
     "expected_verses": 33,
     "coverage": 100,
     "primary_source": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -33,7 +35,8 @@
     "expected_verses": 1500,
     "coverage": 100,
     "primary_source": "knowledge/downloads/apastamba_dharmasutra_gretil.xml",
-    "source_type": "xml"
+    "source_type": "xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -45,7 +48,8 @@
     "expected_verses": 6000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/atharvaveda_samhita_sanskrit.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -57,7 +61,8 @@
     "expected_verses": 500,
     "coverage": 100,
     "primary_source": "knowledge/downloads/baudhayana_dharmasutra_gretil.xml",
-    "source_type": "xml"
+    "source_type": "xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -69,7 +74,8 @@
     "expected_verses": 700,
     "coverage": 100,
     "primary_source": "knowledge/downloads/bhagavad_gita_4comm_gretil.xml",
-    "source_type": "xml"
+    "source_type": "xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -81,7 +87,8 @@
     "expected_verses": 18000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/bhagavat_gitapress_complete.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -93,7 +100,8 @@
     "expected_verses": 14000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/brahma_puran_gita_press.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -105,7 +113,8 @@
     "expected_verses": 12000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/brahmanda_puran_ia_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -117,7 +126,8 @@
     "expected_verses": 536,
     "coverage": 100,
     "primary_source": "knowledge/downloads/brhadaranyaka_upanishad_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -129,7 +139,8 @@
     "expected_verses": 634,
     "coverage": 100,
     "primary_source": "knowledge/downloads/chandogya_upanishad_giri_ia_ia_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -141,7 +152,8 @@
     "expected_verses": 18000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/devi_bhagwat_gita_press.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -153,7 +165,8 @@
     "expected_verses": 8000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/garuda_puran.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -165,7 +178,8 @@
     "expected_verses": 1000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml",
-    "source_type": "xml"
+    "source_type": "xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -177,7 +191,8 @@
     "expected_verses": 16000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/harivamsha_bori.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -189,7 +204,8 @@
     "expected_verses": 18,
     "coverage": 100,
     "primary_source": "knowledge/downloads/isha_upanishad_gretil.xml",
-    "source_type": "xml"
+    "source_type": "xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -201,7 +217,8 @@
     "expected_verses": 9000,
     "coverage": 15.4,
     "primary_source": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -213,7 +230,8 @@
     "expected_verses": 119,
     "coverage": 100,
     "primary_source": "knowledge/downloads/Upanishads_110.txt",
-    "source_type": "combined"
+    "source_type": "combined",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -225,7 +243,8 @@
     "expected_verses": 88,
     "coverage": 100,
     "primary_source": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -237,7 +256,8 @@
     "expected_verses": 32,
     "coverage": 100,
     "primary_source": "knowledge/downloads/kena_upanishad_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -249,7 +269,8 @@
     "expected_verses": 12000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/kurma_puran.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -261,7 +282,8 @@
     "expected_verses": 11000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/linga_puran.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -273,7 +295,8 @@
     "expected_verses": 84,
     "coverage": 100,
     "primary_source": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -285,7 +308,8 @@
     "expected_verses": 115,
     "coverage": 100,
     "primary_source": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -297,7 +321,8 @@
     "expected_verses": 12,
     "coverage": 100,
     "primary_source": "knowledge/downloads/mandukya_upanishad_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -309,7 +334,8 @@
     "expected_verses": 2694,
     "coverage": 100,
     "primary_source": "knowledge/downloads/manusmriti_critical_ia_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -321,7 +347,8 @@
     "expected_verses": 9000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/markandeya_puran_sanskrit.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -333,7 +360,8 @@
     "expected_verses": 13000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/matsya_puran.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -345,7 +373,8 @@
     "expected_verses": 100000,
     "coverage": 69.0,
     "primary_source": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -357,7 +386,8 @@
     "expected_verses": 83,
     "coverage": 100,
     "primary_source": "knowledge/downloads/mundaka_upanishad_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -369,7 +399,8 @@
     "expected_verses": 18000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/naradiya_puran.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -381,7 +412,8 @@
     "expected_verses": 150,
     "coverage": 100,
     "primary_source": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -393,7 +425,8 @@
     "expected_verses": 560,
     "coverage": 100,
     "primary_source": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -405,7 +438,8 @@
     "expected_verses": 150,
     "coverage": 100,
     "primary_source": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -417,7 +451,8 @@
     "expected_verses": 64,
     "coverage": 100,
     "primary_source": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -429,7 +464,8 @@
     "expected_verses": 24000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/ramayana_baroda_critical_vol1.txt",
-    "source_type": "critical"
+    "source_type": "critical",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -441,7 +477,8 @@
     "expected_verses": 10600,
     "coverage": 100,
     "primary_source": "knowledge/downloads/rigveda_aufrecht_gretil.xml",
-    "source_type": "xml"
+    "source_type": "xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -453,7 +490,8 @@
     "expected_verses": 24000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/shiv_puran_gita_press.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -465,7 +503,8 @@
     "expected_verses": 113,
     "coverage": 100,
     "primary_source": "knowledge/downloads/shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -477,7 +516,8 @@
     "expected_verses": 24000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/skanda_puran_full.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -489,7 +529,8 @@
     "expected_verses": 1875,
     "coverage": 97.8,
     "primary_source": "knowledge/downloads/samaveda_dli_vol2.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -501,7 +542,8 @@
     "expected_verses": 104,
     "coverage": 100,
     "primary_source": "knowledge/downloads/taittiriya_upanishad_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -513,7 +555,8 @@
     "expected_verses": 370,
     "coverage": 66.8,
     "primary_source": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -525,7 +568,8 @@
     "expected_verses": 10000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/vaman_puran_gita_press_new.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -537,7 +581,8 @@
     "expected_verses": 10000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/varaha_puran.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -549,7 +594,8 @@
     "expected_verses": 555,
     "coverage": 100,
     "primary_source": "knowledge/downloads/brahma_sutra_shankara_bhashya.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -561,7 +607,8 @@
     "expected_verses": 23000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/vishnu_puran.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -573,7 +620,8 @@
     "expected_verses": 100,
     "coverage": 100,
     "primary_source": "knowledge/downloads/vishnu_smriti_gretil.xml",
-    "source_type": "xml"
+    "source_type": "xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -585,7 +633,8 @@
     "expected_verses": 250,
     "coverage": 84.4,
     "primary_source": "knowledge/downloads/vyasa_smriti_sanskrit.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -597,7 +646,8 @@
     "expected_verses": 11000,
     "coverage": 69.2,
     "primary_source": "knowledge/downloads/revakhanda_vayu_puran_gretil.xml",
-    "source_type": "tei_xml"
+    "source_type": "tei_xml",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -609,7 +659,8 @@
     "expected_verses": 1054,
     "coverage": 100,
     "primary_source": "knowledge/downloads/yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
-    "source_type": "ocr"
+    "source_type": "ocr",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -621,7 +672,8 @@
     "expected_verses": 196,
     "coverage": 100,
     "primary_source": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -633,7 +685,8 @@
     "expected_verses": 2000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/yajurveda_jayadev.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   },
   {
     "type": "Scripture",
@@ -645,6 +698,7 @@
     "expected_verses": 2000,
     "coverage": 100,
     "primary_source": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt",
-    "source_type": "txt"
+    "source_type": "txt",
+    "node_type": "Scripture"
   }
 ]

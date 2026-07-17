@@ -1,0 +1,144 @@
+{
+  "type": "event_graph",
+  "events": [
+    {
+      "name": "Mahabharata War",
+      "participants": [
+        "Arjuna",
+        "Duryodhana",
+        "Bhishma",
+        "Drona",
+        "Krishna"
+      ],
+      "location": "Kurukshetra"
+    },
+    {
+      "name": "Sita Swayamvara",
+      "participants": [
+        "Rama",
+        "Sita",
+        "Janaka"
+      ],
+      "location": "Mithila"
+    },
+    {
+      "name": "Samudra Manthan",
+      "participants": [
+        "Devas",
+        "Asuras",
+        "Vishnu",
+        "Shiva"
+      ],
+      "location": "Kshirasagara"
+    },
+    {
+      "name": "Daksha Yajna",
+      "participants": [
+        "Shiva",
+        "Sati",
+        "Daksha"
+      ],
+      "location": "Kailasa"
+    },
+    {
+      "name": "Bhagavad Gita Teaching",
+      "participants": [
+        "Krishna",
+        "Arjuna"
+      ],
+      "location": "Kurukshetra"
+    },
+    {
+      "name": "Churning of Milk Ocean",
+      "participants": [
+        "Vishnu",
+        "Shesha",
+        "Devas",
+        "Asuras"
+      ],
+      "location": "Kshirasagara"
+    },
+    {
+      "name": "Rama Exile",
+      "participants": [
+        "Rama",
+        "Lakshmana",
+        "Sita",
+        "Dasharatha"
+      ],
+      "location": "Dandakaranya"
+    },
+    {
+      "name": "Burning of Khandava",
+      "participants": [
+        "Arjuna",
+        "Krishna",
+        "Agni"
+      ],
+      "location": "Khandava"
+    },
+    {
+      "name": "Gajendra Moksha",
+      "participants": [
+        "Gajendra",
+        "Vishnu"
+      ],
+      "location": "Bhuloka"
+    },
+    {
+      "name": "Draupadi Vastraharana",
+      "participants": [
+        "Draupadi",
+        "Duryodhana",
+        "Bhishma"
+      ],
+      "location": "Hastinapura"
+    },
+    {
+      "name": "Hanuman Leap to Lanka",
+      "participants": [
+        "Hanuman",
+        "Ravana"
+      ],
+      "location": "Lanka"
+    },
+    {
+      "name": "Killing of Ravana",
+      "participants": [
+        "Rama",
+        "Hanuman",
+        "Ravana"
+      ],
+      "location": "Lanka"
+    },
+    {
+      "name": "Narasimha Avatar",
+      "participants": [
+        "Narasimha",
+        "Prahlada",
+        "Hiranyakashipu"
+      ],
+      "location": "Bhuloka"
+    },
+    {
+      "name": "Vamana Avatar",
+      "participants": [
+        "Vamana",
+        "Bali",
+        "Indra"
+      ],
+      "location": "Bhuloka"
+    },
+    {
+      "name": "Shakuntala Story",
+      "participants": [
+        "Shakuntala",
+        "Dushyanta"
+      ],
+      "location": "Kanvashrama"
+    }
+  ],
+  "stats": {
+    "total": 15
+  }
+}

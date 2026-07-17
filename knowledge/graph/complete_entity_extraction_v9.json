@@ -1,0 +1,4240 @@
+{
+  "generated": "2026-07-17T14:17:56.459203",
+  "files_scanned": 88,
+  "total_mentions": 36195,
+  "unique_entities": 231,
+  "extraction_stats": {
+    "Deity": 36,
+    "Person": 66,
+    "Place": 30,
+    "Concept": 34,
+    "Weapon": 12,
+    "Animal": 18,
+    "Dynasty": 1,
+    "Avatar": 9,
+    "Nakshatra": 5,
+    "Loka": 4,
+    "Ritual": 8,
+    "School": 3,
+    "Graha": 5
+  },
+  "type_breakdown": {
+    "Deity": 36,
+    "Person": 66,
+    "Place": 30,
+    "Concept": 34,
+    "Weapon": 12,
+    "Animal": 18,
+    "Dynasty": 1,
+    "Avatar": 9,
+    "Nakshatra": 5,
+    "Loka": 4,
+    "Ritual": 8,
+    "School": 3,
+    "Graha": 5
+  },
+  "entities": {
+    "Deity:Vishnu": {
+      "name": "Vishnu",
+      "type": "Deity",
+      "mentions": 607,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Harivaṃśa, Appendix I",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Narasiṃhapurāṇa",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Vāmanapurāṇa, Saromāhātmya",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 30
+    },
+    "Deity:Shiva": {
+      "name": "Shiva",
+      "type": "Deity",
+      "mentions": 248,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Narasiṃhapurāṇa",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedakhilāni",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 31
+    },
+    "Deity:Brahma": {
+      "name": "Brahma",
+      "type": "Deity",
+      "mentions": 407,
+      "sources": [
+        "Śira-upaniṣad (= Atharvaśira-upanisad)",
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Uḍḍāmareśvaratantra",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Harivaṃśa, Appendix I",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Narasiṃhapurāṇa",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Svayaṃbhupurāṇa",
+        "Brahmāṇḍapurāṇa",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 46
+    },
+    "Deity:Rama": {
+      "name": "Rama",
+      "type": "Deity",
+      "mentions": 40,
+      "sources": [
+        "Agnipurāṇa",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmāṇḍapurāṇa",
+        "Bhāgavatapurāṇa",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 6
+    },
+    "Deity:Krishna": {
+      "name": "Krishna",
+      "type": "Deity",
+      "mentions": 385,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Viṣṇupurāṇa",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Brahmapurāṇa 1-246",
+        "Baudhāyanadharmasūtra",
+        "Narasiṃhapurāṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmāṇḍapurāṇa",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 31
+    },
+    "Deity:Ganesha": {
+      "name": "Ganesha",
+      "type": "Deity",
+      "mentions": 2,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 2
+    },
+    "Deity:Surya": {
+      "name": "Surya",
+      "type": "Deity",
+      "mentions": 721,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Viṣṇudharma",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Brahmapurāṇa 1-246",
+        "Baudhāyanadharmasūtra",
+        "Narasiṃhapurāṇa",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "Ṛgvedakhilāni",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 41
+    },
+    "Deity:Hanuman": {
+      "name": "Hanuman",
+      "type": "Deity",
+      "mentions": 4,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Mālinīvijayottaratantra",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Deity:Lakshmi": {
+      "name": "Lakshmi",
+      "type": "Deity",
+      "mentions": 1724,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Agnipurāṇa",
+        "Śyāmalādaṇḍaka",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Harivaṃśa, Appendix I",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Vijñānabhairava",
+        "Āpastambadharmasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Vedārthasaṃgraha",
+        "Kubjikamatatantra",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "Ṛgvedakhilāni",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Svayaṃbhupurāṇa",
+        "Kramastotra",
+        "Brahmāṇḍapurāṇa",
+        "Sāmavedasaṃhitā",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 43
+    },
+    "Deity:Saraswati": {
+      "name": "Saraswati",
+      "type": "Deity",
+      "mentions": 215,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Mahābhāratatātparyanirṇaya",
+        "Mālinīvijayottaratantra",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedakhilāni",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra",
+        "Revākhāṇḍa of the Vāyupurāṇa (RKV)"
+      ],
+      "source_count": 24
+    },
+    "Deity:Parvati": {
+      "name": "Parvati",
+      "type": "Deity",
+      "mentions": 224,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Uḍḍāmareśvaratantra",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Vāmanapurāṇa, 1-69",
+        "Vijñānabhairava",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "Ṛgvedakhilāni",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmāṇḍapurāṇa",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra",
+        "Revākhāṇḍa of the Vāyupurāṇa (RKV)"
+      ],
+      "source_count": 35
+    },
+    "Deity:Durga": {
+      "name": "Durga",
+      "type": "Deity",
+      "mentions": 15,
+      "sources": [
+        "Agnipurāṇa",
+        "Viṣṇusmṛti",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Baudhāyanadharmasūtra",
+        "Vāmanapurāṇa, 1-69",
+        "Sarvadurgatipariśodhanatantra",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 7
+    },
+    "Deity:Kali": {
+      "name": "Kali",
+      "type": "Deity",
+      "mentions": 7,
+      "sources": [
+        "Agnipurāṇa",
+        "Mālinīvijayottaratantra",
+        "Śivapurāṇa, Books 1 and 7",
+        "Uḍḍāmareśvaratantra",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 5
+    },
+    "Deity:Indra": {
+      "name": "Indra",
+      "type": "Deity",
+      "mentions": 1896,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedakhilāni",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 36
+    },
+    "Deity:Yama": {
+      "name": "Yama",
+      "type": "Deity",
+      "mentions": 356,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Uḍḍāmareśvaratantra",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Haṭhayogapradīpikā",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Yogasūtra",
+        "Harivaṃśa, Appendix I",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Narasiṃhapurāṇa",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 39
+    },
+    "Deity:Varuna": {
+      "name": "Varuna",
+      "type": "Deity",
+      "mentions": 199,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 22
+    },
+    "Deity:Vayu": {
+      "name": "Vayu",
+      "type": "Deity",
+      "mentions": 139,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 21
+    },
+    "Deity:Agni": {
+      "name": "Agni",
+      "type": "Deity",
+      "mentions": 300,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedakhilāni",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Svayaṃbhupurāṇa",
+        "Sāmavedasaṃhitā",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 26
+    },
+    "Deity:Ganga": {
+      "name": "Ganga",
+      "type": "Deity",
+      "mentions": 40,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Narasiṃhapurāṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Mahābhāratatātparyanirṇaya",
+        "Garuḍapurāṇa",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 17
+    },
+    "Deity:Nandi": {
+      "name": "Nandi",
+      "type": "Deity",
+      "mentions": 14,
+      "sources": [
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Śivapurāṇa, Books 1 and 7",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)"
+      ],
+      "source_count": 6
+    },
+    "Deity:Kartikeya": {
+      "name": "Kartikeya",
+      "type": "Deity",
+      "mentions": 32,
+      "sources": [
+        "Agnipurāṇa",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Gopathabrāhmaṇa",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 11
+    },
+    "Deity:Lakshmana": {
+      "name": "Lakshmana",
+      "type": "Deity",
+      "mentions": 40,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 8
+    },
+    "Deity:Sita": {
+      "name": "Sita",
+      "type": "Deity",
+      "mentions": 7,
+      "sources": [
+        "Bhāgavatapurāṇa",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Deity:Sugriva": {
+      "name": "Sugriva",
+      "type": "Deity",
+      "mentions": 5,
+      "sources": [
+        "Agnipurāṇa",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Deity:Vasistha": {
+      "name": "Vasistha",
+      "type": "Deity",
+      "mentions": 34,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmāṇḍapurāṇa",
+        "Gopathabrāhmaṇa",
+        "Pañcaviṃśabrāhmaṇa",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Sāmavedasaṃhitā",
+        "Āśvalāyanaśrautasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 17
+    },
+    "Deity:Vishvamitra": {
+      "name": "Vishvamitra",
+      "type": "Deity",
+      "mentions": 23,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Vaikhānasadharmasūtra",
+        "Garuḍapurāṇa"
+      ],
+      "source_count": 8
+    },
+    "Deity:Brihaspati": {
+      "name": "Brihaspati",
+      "type": "Deity",
+      "mentions": 15,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Śāṅkhāyanaśrautasūtra",
+        "Āśvalāyanaśrautasūtra"
+      ],
+      "source_count": 3
+    },
+    "Deity:Chandra": {
+      "name": "Chandra",
+      "type": "Deity",
+      "mentions": 4413,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 29
+    },
+    "Deity:Narada": {
+      "name": "Narada",
+      "type": "Deity",
+      "mentions": 114,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Vāmanapurāṇa, 1-69",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 12
+    },
+    "Deity:Shesha": {
+      "name": "Shesha",
+      "type": "Deity",
+      "mentions": 186,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Kubjikamatatantra",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha"
+      ],
+      "source_count": 22
+    },
+    "Deity:Garuda": {
+      "name": "Garuda",
+      "type": "Deity",
+      "mentions": 27,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Sāmavedasaṃhitā",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Garuḍapurāṇa",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 12
+    },
+    "Deity:Vasuki": {
+      "name": "Vasuki",
+      "type": "Deity",
+      "mentions": 6,
+      "sources": [
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 4
+    },
+    "Deity:Dattatreya": {
+      "name": "Dattatreya",
+      "type": "Deity",
+      "mentions": 9,
+      "sources": [
+        "Mārkaṇḍeyapurāṇa, 1-93"
+      ],
+      "source_count": 1
+    },
+    "Deity:Balarama": {
+      "name": "Balarama",
+      "type": "Deity",
+      "mentions": 3,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Deity:Jambavan": {
+      "name": "Jambavan",
+      "type": "Deity",
+      "mentions": 6,
+      "sources": [
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Deity:Ananta": {
+      "name": "Ananta",
+      "type": "Deity",
+      "mentions": 199,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Kubjikamatatantra",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Pañcaviṃśabrāhmaṇa"
+      ],
+      "source_count": 24
+    },
+    "Person:Veda Vyasa": {
+      "name": "Veda Vyasa",
+      "type": "Person",
+      "mentions": 62,
+      "sources": [
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Bhagavadgītābhāṣya",
+        "Garuḍapurāṇa",
+        "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 13
+    },
+    "Person:Vasistha": {
+      "name": "Vasistha",
+      "type": "Person",
+      "mentions": 34,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmāṇḍapurāṇa",
+        "Gopathabrāhmaṇa",
+        "Pañcaviṃśabrāhmaṇa",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Sāmavedasaṃhitā",
+        "Āśvalāyanaśrautasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 17
+    },
+    "Person:Vishvamitra": {
+      "name": "Vishvamitra",
+      "type": "Person",
+      "mentions": 23,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Vaikhānasadharmasūtra",
+        "Garuḍapurāṇa"
+      ],
+      "source_count": 8
+    },
+    "Person:Vashistha": {
+      "name": "Vashistha",
+      "type": "Person",
+      "mentions": 34,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmāṇḍapurāṇa",
+        "Gopathabrāhmaṇa",
+        "Pañcaviṃśabrāhmaṇa",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Sāmavedasaṃhitā",
+        "Āśvalāyanaśrautasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 17
+    },
+    "Person:Shuka": {
+      "name": "Shuka",
+      "type": "Person",
+      "mentions": 494,
+      "sources": [
+        "Agnipurāṇa",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 8
+    },
+    "Person:Parashara": {
+      "name": "Parashara",
+      "type": "Person",
+      "mentions": 9,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 6
+    },
+    "Person:Gautama": {
+      "name": "Gautama",
+      "type": "Person",
+      "mentions": 27,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Gopathabrāhmaṇa",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āśvalāyanagṛhyasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 11
+    },
+    "Person:Bharadvaja": {
+      "name": "Bharadvaja",
+      "type": "Person",
+      "mentions": 12,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Baudhāyanadharmasūtra",
+        "Āśvalāyanaśrautasūtra"
+      ],
+      "source_count": 7
+    },
+    "Person:Atri": {
+      "name": "Atri",
+      "type": "Person",
+      "mentions": 15,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇusmṛti",
+        "Āśvalāyanaśrautasūtra"
+      ],
+      "source_count": 4
+    },
+    "Person:Bharata": {
+      "name": "Bharata",
+      "type": "Person",
+      "mentions": 40,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 8
+    },
+    "Person:Arjuna": {
+      "name": "Arjuna",
+      "type": "Person",
+      "mentions": 407,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Vāmanapurāṇa, Saromāhātmya",
+        "Viṣṇudharma",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Mahābhāratatātparyanirṇaya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Garuḍapurāṇa",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 18
+    },
+    "Person:Bhima": {
+      "name": "Bhima",
+      "type": "Person",
+      "mentions": 58,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Śāṅkhāyanaśrautasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Sāmavedasaṃhitā",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 9
+    },
+    "Person:Yudhishthira": {
+      "name": "Yudhishthira",
+      "type": "Person",
+      "mentions": 66,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Revākhāṇḍa of the Vāyupurāṇa (RKV)"
+      ],
+      "source_count": 8
+    },
+    "Person:Nakula": {
+      "name": "Nakula",
+      "type": "Person",
+      "mentions": 27,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Vaikhānasadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 9
+    },
+    "Person:Sahadeva": {
+      "name": "Sahadeva",
+      "type": "Person",
+      "mentions": 22,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 5
+    },
+    "Person:Drona": {
+      "name": "Drona",
+      "type": "Person",
+      "mentions": 21,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Āśvalāyanaśrautasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 8
+    },
+    "Person:Duryodhana": {
+      "name": "Duryodhana",
+      "type": "Person",
+      "mentions": 16,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 5
+    },
+    "Person:Bhishma": {
+      "name": "Bhishma",
+      "type": "Person",
+      "mentions": 42,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Garuḍapurāṇa",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 5
+    },
+    "Person:Karna": {
+      "name": "Karna",
+      "type": "Person",
+      "mentions": 54,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āśvalāyanagṛhyasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 14
+    },
+    "Person:Kripacharya": {
+      "name": "Kripacharya",
+      "type": "Person",
+      "mentions": 4,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 3
+    },
+    "Person:Vidura": {
+      "name": "Vidura",
+      "type": "Person",
+      "mentions": 45,
+      "sources": [
+        "Mahābhāratatātparyanirṇaya",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Person:Dhritarashtra": {
+      "name": "Dhritarashtra",
+      "type": "Person",
+      "mentions": 19,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Person:Pandu": {
+      "name": "Pandu",
+      "type": "Person",
+      "mentions": 10,
+      "sources": [
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vaikhānasadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 5
+    },
+    "Person:Kunti": {
+      "name": "Kunti",
+      "type": "Person",
+      "mentions": 32,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 5
+    },
+    "Person:Gandhari": {
+      "name": "Gandhari",
+      "type": "Person",
+      "mentions": 2,
+      "sources": [
+        "Agnipurāṇa",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 2
+    },
+    "Person:Draupadi": {
+      "name": "Draupadi",
+      "type": "Person",
+      "mentions": 18,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 2
+    },
+    "Person:Subhadra": {
+      "name": "Subhadra",
+      "type": "Person",
+      "mentions": 3,
+      "sources": [
+        "Agnipurāṇa",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 2
+    },
+    "Person:Meghanada": {
+      "name": "Meghanada",
+      "type": "Person",
+      "mentions": 2,
+      "sources": [
+        "Kubjikamatatantra",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 2
+    },
+    "Person:Vibhishana": {
+      "name": "Vibhishana",
+      "type": "Person",
+      "mentions": 2,
+      "sources": [
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 1
+    },
+    "Person:Ravana": {
+      "name": "Ravana",
+      "type": "Person",
+      "mentions": 6,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 2
+    },
+    "Person:Maricha": {
+      "name": "Maricha",
+      "type": "Person",
+      "mentions": 1,
+      "sources": [
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 1
+    },
+    "Person:Shabari": {
+      "name": "Shabari",
+      "type": "Person",
+      "mentions": 1,
+      "sources": [
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 1
+    },
+    "Person:Angada": {
+      "name": "Angada",
+      "type": "Person",
+      "mentions": 1,
+      "sources": [
+        "Narasiṃhapurāṇa"
+      ],
+      "source_count": 1
+    },
+    "Person:Nala": {
+      "name": "Nala",
+      "type": "Person",
+      "mentions": 1,
+      "sources": [
+        "Agnipurāṇa"
+      ],
+      "source_count": 1
+    },
+    "Person:Shakuntala": {
+      "name": "Shakuntala",
+      "type": "Person",
+      "mentions": 2,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Person:Dushyanta": {
+      "name": "Dushyanta",
+      "type": "Person",
+      "mentions": 1,
+      "sources": [
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 1
+    },
+    "Person:Bharata (king)": {
+      "name": "Bharata (king)",
+      "type": "Person",
+      "mentions": 40,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 8
+    },
+    "Person:Bhagiratha": {
+      "name": "Bhagiratha",
+      "type": "Person",
+      "mentions": 1,
+      "sources": [
+        "Viṣṇudharma"
+      ],
+      "source_count": 1
+    },
+    "Person:Ikshvaku": {
+      "name": "Ikshvaku",
+      "type": "Person",
+      "mentions": 6,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Person:Mandhata": {
+      "name": "Mandhata",
+      "type": "Person",
+      "mentions": 2,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Atharvavedapariśiṣṭas"
+      ],
+      "source_count": 2
+    },
+    "Person:Vena": {
+      "name": "Vena",
+      "type": "Person",
+      "mentions": 9,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Sāmavedasaṃhitā",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 6
+    },
+    "Person:Prithu": {
+      "name": "Prithu",
+      "type": "Person",
+      "mentions": 77,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Gopathabrāhmaṇa",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra"
+      ],
+      "source_count": 9
+    },
+    "Person:Rishabhadeva": {
+      "name": "Rishabhadeva",
+      "type": "Person",
+      "mentions": 10,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Nirukta"
+      ],
+      "source_count": 2
+    },
+    "Person:Prajapati": {
+      "name": "Prajapati",
+      "type": "Person",
+      "mentions": 29,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 7
+    },
+    "Person:Manu": {
+      "name": "Manu",
+      "type": "Person",
+      "mentions": 41,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Ṛgvedakhilāni",
+        "Śāṅkhāyanaśrautasūtra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āśvalāyanaśrautasūtra",
+        "Bhāgavatapurāṇa",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 15
+    },
+    "Person:Shravana": {
+      "name": "Shravana",
+      "type": "Person",
+      "mentions": 83,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 11
+    },
+    "Person:Ambarisha": {
+      "name": "Ambarisha",
+      "type": "Person",
+      "mentions": 3,
+      "sources": [
+        "Viṣṇudharma",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Person:Raghu": {
+      "name": "Raghu",
+      "type": "Person",
+      "mentions": 23,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Śāṅkhāyanaśrautasūtra"
+      ],
+      "source_count": 4
+    },
+    "Person:Aja": {
+      "name": "Aja",
+      "type": "Person",
+      "mentions": 51,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇudharma",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Harivaṃśa, Appendix I",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 17
+    },
+    "Person:Chyavana": {
+      "name": "Chyavana",
+      "type": "Person",
+      "mentions": 3,
+      "sources": [
+        "Bhagavadgītābhāṣya",
+        "Nirukta"
+      ],
+      "source_count": 2
+    },
+    "Person:Uddalaka": {
+      "name": "Uddalaka",
+      "type": "Person",
+      "mentions": 2,
+      "sources": [
+        "Gopathabrāhmaṇa",
+        "Vāsiṣṭhadharmasūtra"
+      ],
+      "source_count": 2
+    },
+    "Person:Yajnavalkya": {
+      "name": "Yajnavalkya",
+      "type": "Person",
+      "mentions": 15,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhāgavatapurāṇa",
+        "Vaikhānasadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 8
+    },
+    "Person:Angirasa": {
+      "name": "Angirasa",
+      "type": "Person",
+      "mentions": 4,
+      "sources": [
+        "Gopathabrāhmaṇa",
+        "Pañcaviṃśabrāhmaṇa",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Śāṅkhāyanaśrautasūtra"
+      ],
+      "source_count": 4
+    },
+    "Person:Bhrgu": {
+      "name": "Bhrgu",
+      "type": "Person",
+      "mentions": 8,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Person:Sanatkumara": {
+      "name": "Sanatkumara",
+      "type": "Person",
+      "mentions": 5,
+      "sources": [
+        "Śivapurāṇa, Books 1 and 7",
+        "Vāmanapurāṇa, 1-69",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)"
+      ],
+      "source_count": 3
+    },
+    "Person:Sanat": {
+      "name": "Sanat",
+      "type": "Person",
+      "mentions": 11,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Person:Narada (son of Brahma)": {
+      "name": "Narada (son of Brahma)",
+      "type": "Person",
+      "mentions": 114,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Vāmanapurāṇa, 1-69",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 12
+    },
+    "Person:Janamejaya": {
+      "name": "Janamejaya",
+      "type": "Person",
+      "mentions": 1,
+      "sources": [
+        "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)"
+      ],
+      "source_count": 1
+    },
+    "Person:Parikshit": {
+      "name": "Parikshit",
+      "type": "Person",
+      "mentions": 4,
+      "sources": [
+        "Viṣṇudharma",
+        "Bhāgavatapurāṇa",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Person:Janaka": {
+      "name": "Janaka",
+      "type": "Person",
+      "mentions": 24,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Śivapurāṇa, Books 1 and 7",
+        "Āśvalāyanaśrautasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 12
+    },
+    "Person:Lava": {
+      "name": "Lava",
+      "type": "Person",
+      "mentions": 9,
+      "sources": [
+        "Nirukta",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 5
+    },
+    "Person:Kusha": {
+      "name": "Kusha",
+      "type": "Person",
+      "mentions": 46,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Vaikhānasadharmasūtra",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 11
+    },
+    "Person:Nimi": {
+      "name": "Nimi",
+      "type": "Person",
+      "mentions": 3,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      ],
+      "source_count": 1
+    },
+    "Person:Pushkara": {
+      "name": "Pushkara",
+      "type": "Person",
+      "mentions": 67,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 7
+    },
+    "Person:Saunaka": {
+      "name": "Saunaka",
+      "type": "Person",
+      "mentions": 32,
+      "sources": [
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Śāṅkhāyanaśrautasūtra"
+      ],
+      "source_count": 4
+    },
+    "Person:Shounaka": {
+      "name": "Shounaka",
+      "type": "Person",
+      "mentions": 32,
+      "sources": [
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Śāṅkhāyanaśrautasūtra"
+      ],
+      "source_count": 4
+    },
+    "Place:Mathura": {
+      "name": "Mathura",
+      "type": "Place",
+      "mentions": 2,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      ],
+      "source_count": 1
+    },
+    "Place:Vrindavan": {
+      "name": "Vrindavan",
+      "type": "Place",
+      "mentions": 6,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā"
+      ],
+      "source_count": 2
+    },
+    "Place:Gokul": {
+      "name": "Gokul",
+      "type": "Place",
+      "mentions": 4,
+      "sources": [
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Place:Hastinapura": {
+      "name": "Hastinapura",
+      "type": "Place",
+      "mentions": 1,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      ],
+      "source_count": 1
+    },
+    "Place:Kurukshetra": {
+      "name": "Kurukshetra",
+      "type": "Place",
+      "mentions": 3,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      ],
+      "source_count": 1
+    },
+    "Place:Patala": {
+      "name": "Patala",
+      "type": "Place",
+      "mentions": 7,
+      "sources": [
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 5
+    },
+    "Place:Svarga": {
+      "name": "Svarga",
+      "type": "Place",
+      "mentions": 170,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 23
+    },
+    "Place:Brahmaloka": {
+      "name": "Brahmaloka",
+      "type": "Place",
+      "mentions": 19,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 5
+    },
+    "Place:Vaikuntha": {
+      "name": "Vaikuntha",
+      "type": "Place",
+      "mentions": 20,
+      "sources": [
+        "Vāmanapurāṇa, Saromāhātmya",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Harivaṃśa, Appendix I",
+        "Bhāgavatapurāṇa",
+        "Vaikhānasadharmasūtra"
+      ],
+      "source_count": 7
+    },
+    "Place:Kailas": {
+      "name": "Kailas",
+      "type": "Place",
+      "mentions": 2,
+      "sources": [
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 1
+    },
+    "Place:Kailasa": {
+      "name": "Kailasa",
+      "type": "Place",
+      "mentions": 2,
+      "sources": [
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 1
+    },
+    "Place:Kashi": {
+      "name": "Kashi",
+      "type": "Place",
+      "mentions": 4,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Agnipurāṇa",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 4
+    },
+    "Place:Pushkar": {
+      "name": "Pushkar",
+      "type": "Place",
+      "mentions": 67,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 7
+    },
+    "Place:Ganga": {
+      "name": "Ganga",
+      "type": "Place",
+      "mentions": 35,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Narasiṃhapurāṇa",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Mahābhāratatātparyanirṇaya",
+        "Garuḍapurāṇa",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 16
+    },
+    "Place:Yamuna": {
+      "name": "Yamuna",
+      "type": "Place",
+      "mentions": 10,
+      "sources": [
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Narasiṃhapurāṇa",
+        "Bhāgavatapurāṇa",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 7
+    },
+    "Place:Narmada": {
+      "name": "Narmada",
+      "type": "Place",
+      "mentions": 7,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Narasiṃhapurāṇa",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Śivapurāṇa, Books 1 and 7",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 5
+    },
+    "Place:Godavari": {
+      "name": "Godavari",
+      "type": "Place",
+      "mentions": 5,
+      "sources": [
+        "Śivapurāṇa, Books 1 and 7",
+        "Narasiṃhapurāṇa",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Place:Meru": {
+      "name": "Meru",
+      "type": "Place",
+      "mentions": 10,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Place:Himalaya": {
+      "name": "Himalaya",
+      "type": "Place",
+      "mentions": 7,
+      "sources": [
+        "Devīgītā (= Devībhāgavata-Purāṇa 7,31-40)",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Place:Lanka": {
+      "name": "Lanka",
+      "type": "Place",
+      "mentions": 1,
+      "sources": [
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 1
+    },
+    "Place:Puri": {
+      "name": "Puri",
+      "type": "Place",
+      "mentions": 16,
+      "sources": [
+        "Nirukta",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Sāmavedasaṃhitā",
+        "Gopathabrāhmaṇa",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Mahābhāratatātparyanirṇaya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 10
+    },
+    "Place:Nashik": {
+      "name": "Nashik",
+      "type": "Place",
+      "mentions": 6,
+      "sources": [
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Atharvavedapariśiṣṭas",
+        "Vāsiṣṭhadharmasūtra"
+      ],
+      "source_count": 5
+    },
+    "Place:Gandhamadana": {
+      "name": "Gandhamadana",
+      "type": "Place",
+      "mentions": 2,
+      "sources": [
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 1
+    },
+    "Place:Videha": {
+      "name": "Videha",
+      "type": "Place",
+      "mentions": 14,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Place:Anga": {
+      "name": "Anga",
+      "type": "Place",
+      "mentions": 157,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇusmṛti",
+        "Āpastambadharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Āśvalāyanaśrautasūtra",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 16
+    },
+    "Place:Kuru": {
+      "name": "Kuru",
+      "type": "Place",
+      "mentions": 269,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Uḍḍāmareśvaratantra",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Vijñānabhairava",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa",
+        "Vedārthasaṃgraha",
+        "Kubjikamatatantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 28
+    },
+    "Place:Panchala": {
+      "name": "Panchala",
+      "type": "Place",
+      "mentions": 1,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra"
+      ],
+      "source_count": 1
+    },
+    "Place:Jambudvipa": {
+      "name": "Jambudvipa",
+      "type": "Place",
+      "mentions": 6,
+      "sources": [
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 1
+    },
+    "Place:Svarloka": {
+      "name": "Svarloka",
+      "type": "Place",
+      "mentions": 2,
+      "sources": [
+        "Viṣṇusmṛti"
+      ],
+      "source_count": 1
+    },
+    "Place:Satyaloka": {
+      "name": "Satyaloka",
+      "type": "Place",
+      "mentions": 7,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Yogasūtra with Bhāṣya"
+      ],
+      "source_count": 3
+    },
+    "Concept:Dharma": {
+      "name": "Dharma",
+      "type": "Concept",
+      "mentions": 566,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 32
+    },
+    "Concept:Karma": {
+      "name": "Karma",
+      "type": "Concept",
+      "mentions": 3236,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Mṛgendrāgama (= Mrgendratantra)",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Brahmapurāṇa 1-246",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 47
+    },
+    "Concept:Moksha": {
+      "name": "Moksha",
+      "type": "Concept",
+      "mentions": 312,
+      "sources": [
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Haṭhayogapradīpikā",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Yogasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Vedārthasaṃgraha",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 20
+    },
+    "Concept:Bhakti": {
+      "name": "Bhakti",
+      "type": "Concept",
+      "mentions": 343,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 7
+    },
+    "Concept:Jnana": {
+      "name": "Jnana",
+      "type": "Concept",
+      "mentions": 1583,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Uḍḍāmareśvaratantra",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Mātṛkābhedatantra",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 35
+    },
+    "Concept:Yoga": {
+      "name": "Yoga",
+      "type": "Concept",
+      "mentions": 725,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Haṭhayogapradīpikā",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Yogasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 26
+    },
+    "Concept:Brahman": {
+      "name": "Brahman",
+      "type": "Concept",
+      "mentions": 3202,
+      "sources": [
+        "Śira-upaniṣad (= Atharvaśira-upanisad)",
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Nāradapurāṇa (or Nāradīyapurāṇa)",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedakhilāni",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 44
+    },
+    "Concept:Atman": {
+      "name": "Atman",
+      "type": "Concept",
+      "mentions": 1080,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Śivasūtra with vārttika",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Viṣṇudharma",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 35
+    },
+    "Concept:Maya": {
+      "name": "Maya",
+      "type": "Concept",
+      "mentions": 277,
+      "sources": [
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Śivasūtra with vārttika",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 27
+    },
+    "Concept:Prakriti": {
+      "name": "Prakriti",
+      "type": "Concept",
+      "mentions": 332,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Śivapurāṇa, Books 1 and 7",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 14
+    },
+    "Concept:Purusha": {
+      "name": "Purusha",
+      "type": "Concept",
+      "mentions": 519,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Yogasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 33
+    },
+    "Concept:Gunas": {
+      "name": "Gunas",
+      "type": "Concept",
+      "mentions": 1127,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Yogasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 27
+    },
+    "Concept:Samsara": {
+      "name": "Samsara",
+      "type": "Concept",
+      "mentions": 221,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Viṣṇudharma",
+        "Viṣṇusmṛti",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 14
+    },
+    "Concept:Ahimsa": {
+      "name": "Ahimsa",
+      "type": "Concept",
+      "mentions": 38,
+      "sources": [
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Vaikhānasadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Yogasūtra",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 10
+    },
+    "Concept:Satya": {
+      "name": "Satya",
+      "type": "Concept",
+      "mentions": 248,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā"
+      ],
+      "source_count": 21
+    },
+    "Concept:Tapas": {
+      "name": "Tapas",
+      "type": "Concept",
+      "mentions": 129,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Viṣṇudharma",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Dharmasūtra",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Yogasūtra with Bhāṣya",
+        "Gopathabrāhmaṇa",
+        "Pañcaviṃśabrāhmaṇa",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 17
+    },
+    "Concept:Dana": {
+      "name": "Dana",
+      "type": "Concept",
+      "mentions": 79,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Ṛgvedakhilāni",
+        "Viṣṇudharma",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Vaikhānasadharmasūtra",
+        "Āśvalāyanaśrautasūtra",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Āśvalāyanagṛhyasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 14
+    },
+    "Concept:Dhyana": {
+      "name": "Dhyana",
+      "type": "Concept",
+      "mentions": 86,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Vaikhānasadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Yogasūtra",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 10
+    },
+    "Concept:Mantra": {
+      "name": "Mantra",
+      "type": "Concept",
+      "mentions": 121,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Mṛgendrāgama (= Mrgendratantra)",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni"
+      ],
+      "source_count": 28
+    },
+    "Concept:Yajna": {
+      "name": "Yajna",
+      "type": "Concept",
+      "mentions": 728,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 31
+    },
+    "Concept:Homa": {
+      "name": "Homa",
+      "type": "Concept",
+      "mentions": 43,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 19
+    },
+    "Concept:Shraddha": {
+      "name": "Shraddha",
+      "type": "Concept",
+      "mentions": 184,
+      "sources": [
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Vedārthasaṃgraha",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 28
+    },
+    "Concept:Diksha": {
+      "name": "Diksha",
+      "type": "Concept",
+      "mentions": 53,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Mālinīvijayottaratantra",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Mṛgendrāgama (= Mrgendratantra)",
+        "Pañcaviṃśabrāhmaṇa",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Śivapurāṇa, Books 1 and 7",
+        "Vāsiṣṭhadharmasūtra",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 12
+    },
+    "Concept:Pranayama": {
+      "name": "Pranayama",
+      "type": "Concept",
+      "mentions": 23,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Yogasūtra with Bhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Yogasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 9
+    },
+    "Concept:Varna": {
+      "name": "Varna",
+      "type": "Concept",
+      "mentions": 94,
+      "sources": [
+        "Brāhmasphuṭasiddhānta",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Vaikhānasadharmasūtra",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedakhilāni",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 22
+    },
+    "Concept:Ashrama": {
+      "name": "Ashrama",
+      "type": "Concept",
+      "mentions": 25,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Vaikhānasadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 8
+    },
+    "Concept:Tattva": {
+      "name": "Tattva",
+      "type": "Concept",
+      "mentions": 305,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 7
+    },
+    "Concept:Vidya": {
+      "name": "Vidya",
+      "type": "Concept",
+      "mentions": 352,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Uḍḍāmareśvaratantra",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Viṣṇudharma",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Mālinīvijayottaratantra",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Mātṛkābhedatantra",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "Gopathabrāhmaṇa",
+        "Śivapurāṇa, Books 1 and 7",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 32
+    },
+    "Concept:Upanishad": {
+      "name": "Upanishad",
+      "type": "Concept",
+      "mentions": 7,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara"
+      ],
+      "source_count": 5
+    },
+    "Concept:Nyaya": {
+      "name": "Nyaya",
+      "type": "Concept",
+      "mentions": 32,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Śāṅkhāyanaśrautasūtra",
+        "Āpastambadharmasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 12
+    },
+    "Concept:Vaisheshika": {
+      "name": "Vaisheshika",
+      "type": "Concept",
+      "mentions": 1,
+      "sources": [
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 1
+    },
+    "Concept:Mimamsa": {
+      "name": "Mimamsa",
+      "type": "Concept",
+      "mentions": 27,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 7
+    },
+    "Concept:Sankhya": {
+      "name": "Sankhya",
+      "type": "Concept",
+      "mentions": 34,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 5
+    },
+    "Concept:Vedanta": {
+      "name": "Vedanta",
+      "type": "Concept",
+      "mentions": 77,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 6
+    },
+    "Weapon:Chakra": {
+      "name": "Chakra",
+      "type": "Weapon",
+      "mentions": 41,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Sarvadurgatipariśodhanatantra",
+        "Āśvalāyanagṛhyasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 11
+    },
+    "Weapon:Bow": {
+      "name": "Bow",
+      "type": "Weapon",
+      "mentions": 5,
+      "sources": [
+        "Nirukta",
+        "Vāsiṣṭhadharmasūtra"
+      ],
+      "source_count": 2
+    },
+    "Weapon:Sword": {
+      "name": "Sword",
+      "type": "Weapon",
+      "mentions": 735,
+      "sources": [
+        "Śira-upaniṣad (= Atharvaśira-upanisad)",
+        "Śāṅkhāyanaśrautasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Sarvadurgatipariśodhanatantra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Harivaṃśa, Appendix I",
+        "Bhagavadgītābhāṣya",
+        "Vāmanapurāṇa, 1-69",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 30
+    },
+    "Weapon:Spear": {
+      "name": "Spear",
+      "type": "Weapon",
+      "mentions": 8,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Weapon:Mace": {
+      "name": "Mace",
+      "type": "Weapon",
+      "mentions": 28,
+      "sources": [
+        "Viṣṇudharma",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Atharvavedapariśiṣṭas",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 8
+    },
+    "Weapon:Vajra": {
+      "name": "Vajra",
+      "type": "Weapon",
+      "mentions": 81,
+      "sources": [
+        "Nirukta",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Yogasūtra with Bhāṣya",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Sarvadurgatipariśodhanatantra"
+      ],
+      "source_count": 8
+    },
+    "Weapon:Sudarshana": {
+      "name": "Sudarshana",
+      "type": "Weapon",
+      "mentions": 8,
+      "sources": [
+        "Agnipurāṇa",
+        "Bhāgavatapurāṇa",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Viṣṇudharma"
+      ],
+      "source_count": 4
+    },
+    "Weapon:Parashu": {
+      "name": "Parashu",
+      "type": "Weapon",
+      "mentions": 5,
+      "sources": [
+        "Āpastambadharmasūtra",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 2
+    },
+    "Weapon:Pinaka": {
+      "name": "Pinaka",
+      "type": "Weapon",
+      "mentions": 3,
+      "sources": [
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      ],
+      "source_count": 2
+    },
+    "Weapon:Kapala": {
+      "name": "Kapala",
+      "type": "Weapon",
+      "mentions": 7,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Kubjikamatatantra",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Vaikhānasadharmasūtra",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 6
+    },
+    "Weapon:Gandiva": {
+      "name": "Gandiva",
+      "type": "Weapon",
+      "mentions": 4,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      ],
+      "source_count": 1
+    },
+    "Weapon:Sharnga": {
+      "name": "Sharnga",
+      "type": "Weapon",
+      "mentions": 2,
+      "sources": [
+        "Skandapurāṇa: Revākhaṇḍa (RKS)"
+      ],
+      "source_count": 1
+    },
+    "Animal:Horse": {
+      "name": "Horse",
+      "type": "Animal",
+      "mentions": 216,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Gopathabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa"
+      ],
+      "source_count": 21
+    },
+    "Animal:Elephant": {
+      "name": "Elephant",
+      "type": "Animal",
+      "mentions": 79,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Haṭhayogapradīpikā",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Sāmavedasaṃhitā",
+        "Śivapurāṇa, Books 1 and 7",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 14
+    },
+    "Animal:Cow": {
+      "name": "Cow",
+      "type": "Animal",
+      "mentions": 443,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Bhāgavatapurāṇa",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 22
+    },
+    "Animal:Garuda": {
+      "name": "Garuda",
+      "type": "Animal",
+      "mentions": 21,
+      "sources": [
+        "Ṛgvedakhilāni",
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Sāmavedasaṃhitā",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 11
+    },
+    "Animal:Swan": {
+      "name": "Swan",
+      "type": "Animal",
+      "mentions": 24,
+      "sources": [
+        "Nirukta",
+        "Vāmanapurāṇa, Saromāhātmya",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Vāsiṣṭhadharmasūtra",
+        "Harivaṃśa, Appendix I",
+        "Bhāgavatapurāṇa",
+        "Vāmanapurāṇa, 1-69",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 11
+    },
+    "Animal:Peacock": {
+      "name": "Peacock",
+      "type": "Animal",
+      "mentions": 4,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Viṣṇusmṛti"
+      ],
+      "source_count": 4
+    },
+    "Animal:Tiger": {
+      "name": "Tiger",
+      "type": "Animal",
+      "mentions": 22,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 10
+    },
+    "Animal:Lion": {
+      "name": "Lion",
+      "type": "Animal",
+      "mentions": 9,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 5
+    },
+    "Animal:Snake": {
+      "name": "Snake",
+      "type": "Animal",
+      "mentions": 104,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Uḍḍāmareśvaratantra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Yogasūtra with Bhāṣya",
+        "Śivapurāṇa, Books 1 and 7",
+        "Bhāgavatapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Mārkaṇḍeyapurāṇa, 1-93",
+        "Pañcaviṃśabrāhmaṇa",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 23
+    },
+    "Animal:Crow": {
+      "name": "Crow",
+      "type": "Animal",
+      "mentions": 16,
+      "sources": [
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 5
+    },
+    "Animal:Cuckoo": {
+      "name": "Cuckoo",
+      "type": "Animal",
+      "mentions": 7,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 5
+    },
+    "Animal:Fish": {
+      "name": "Fish",
+      "type": "Animal",
+      "mentions": 25,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Baudhāyanadharmasūtra",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra"
+      ],
+      "source_count": 8
+    },
+    "Animal:Rabbit": {
+      "name": "Rabbit",
+      "type": "Animal",
+      "mentions": 12,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 9
+    },
+    "Animal:Monkey": {
+      "name": "Monkey",
+      "type": "Animal",
+      "mentions": 7,
+      "sources": [
+        "Bhagavadgītābhāṣya",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Viṣṇusmṛti",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 4
+    },
+    "Animal:Boar": {
+      "name": "Boar",
+      "type": "Animal",
+      "mentions": 16,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Baudhāyanadharmasūtra",
+        "Atharvaprāyaścittāni",
+        "Harivaṃśa, Appendix I",
+        "Bhāgavatapurāṇa",
+        "Vaikhānasadharmasūtra"
+      ],
+      "source_count": 12
+    },
+    "Animal:Tortoise": {
+      "name": "Tortoise",
+      "type": "Animal",
+      "mentions": 8,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Śivapurāṇa, Books 1 and 7",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra",
+        "Bhāgavatapurāṇa",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 7
+    },
+    "Animal:Camel": {
+      "name": "Camel",
+      "type": "Animal",
+      "mentions": 6,
+      "sources": [
+        "Vaikhānasadharmasūtra",
+        "Viṣṇusmṛti",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 3
+    },
+    "Animal:Donkey": {
+      "name": "Donkey",
+      "type": "Animal",
+      "mentions": 6,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Vaikhānasadharmasūtra",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 5
+    },
+    "Dynasty:Solar Dynasty": {
+      "name": "Solar Dynasty",
+      "type": "Dynasty",
+      "mentions": 1,
+      "sources": [
+        "Vedārthasaṃgraha"
+      ],
+      "source_count": 1
+    },
+    "Avatar:Matsya Avatar": {
+      "name": "Matsya Avatar",
+      "type": "Avatar",
+      "mentions": 25,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Agnipurāṇa",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Baudhāyanadharmasūtra",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra"
+      ],
+      "source_count": 8
+    },
+    "Avatar:Kurma Avatar": {
+      "name": "Kurma Avatar",
+      "type": "Avatar",
+      "mentions": 8,
+      "sources": [
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Śivapurāṇa, Books 1 and 7",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra",
+        "Bhāgavatapurāṇa",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 7
+    },
+    "Avatar:Varaha Avatar": {
+      "name": "Varaha Avatar",
+      "type": "Avatar",
+      "mentions": 16,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Baudhāyanadharmasūtra",
+        "Atharvaprāyaścittāni",
+        "Harivaṃśa, Appendix I",
+        "Bhāgavatapurāṇa",
+        "Vaikhānasadharmasūtra"
+      ],
+      "source_count": 12
+    },
+    "Avatar:Narasimha Avatar": {
+      "name": "Narasimha Avatar",
+      "type": "Avatar",
+      "mentions": 6,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Agnipurāṇa",
+        "Viṣṇudharma",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 4
+    },
+    "Avatar:Vamana Avatar": {
+      "name": "Vamana Avatar",
+      "type": "Avatar",
+      "mentions": 9,
+      "sources": [
+        "Vāmanapurāṇa, 1-69",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Agnipurāṇa",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 4
+    },
+    "Avatar:Parashurama": {
+      "name": "Parashurama",
+      "type": "Avatar",
+      "mentions": 18,
+      "sources": [
+        "Atharvavedapariśiṣṭas",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Mahābhāratatātparyanirṇaya",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 6
+    },
+    "Avatar:Rama": {
+      "name": "Rama",
+      "type": "Avatar",
+      "mentions": 37,
+      "sources": [
+        "Agnipurāṇa",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmāṇḍapurāṇa",
+        "Bhāgavatapurāṇa",
+        "Mahābhāratatātparyanirṇaya"
+      ],
+      "source_count": 6
+    },
+    "Avatar:Krishna": {
+      "name": "Krishna",
+      "type": "Avatar",
+      "mentions": 260,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Viṣṇupurāṇa",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Śivapurāṇa, Books 1 and 7",
+        "Skandapurāṇa: Revākhaṇḍa (RKS)",
+        "Bhāgavatapurāṇa",
+        "Garuḍapurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Brahmāṇḍapurāṇa",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 26
+    },
+    "Avatar:Buddha": {
+      "name": "Buddha",
+      "type": "Avatar",
+      "mentions": 16,
+      "sources": [
+        "Agnipurāṇa",
+        "Mālinīvijayottaratantra",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Sarvadurgatipariśodhanatantra",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 7
+    },
+    "Nakshatra:Ardra": {
+      "name": "Ardra",
+      "type": "Nakshatra",
+      "mentions": 3,
+      "sources": [
+        "Viṣṇusmṛti"
+      ],
+      "source_count": 1
+    },
+    "Nakshatra:Punarvasu": {
+      "name": "Punarvasu",
+      "type": "Nakshatra",
+      "mentions": 3,
+      "sources": [
+        "Bhāgavatapurāṇa",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā"
+      ],
+      "source_count": 2
+    },
+    "Nakshatra:Magha": {
+      "name": "Magha",
+      "type": "Nakshatra",
+      "mentions": 251,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 2
+    },
+    "Nakshatra:Hasta": {
+      "name": "Hasta",
+      "type": "Nakshatra",
+      "mentions": 49,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Atharvavedapariśiṣṭas",
+        "Vaikhānasadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Āśvalāyanagṛhyasūtra",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 15
+    },
+    "Nakshatra:Revati": {
+      "name": "Revati",
+      "type": "Nakshatra",
+      "mentions": 5,
+      "sources": [
+        "Atharvaprāyaścittāni",
+        "Nirukta",
+        "Agnipurāṇa",
+        "Ṛgvedasaṃhitā, Padapāṭha"
+      ],
+      "source_count": 4
+    },
+    "Loka:Satyaloka": {
+      "name": "Satyaloka",
+      "type": "Loka",
+      "mentions": 2,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Yogasūtra with Bhāṣya"
+      ],
+      "source_count": 2
+    },
+    "Loka:Atala": {
+      "name": "Atala",
+      "type": "Loka",
+      "mentions": 1,
+      "sources": [
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 1
+    },
+    "Loka:Vitala": {
+      "name": "Vitala",
+      "type": "Loka",
+      "mentions": 1,
+      "sources": [
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 1
+    },
+    "Loka:Sutala": {
+      "name": "Sutala",
+      "type": "Loka",
+      "mentions": 1,
+      "sources": [
+        "Bhagavadgītābhāṣya"
+      ],
+      "source_count": 1
+    },
+    "Ritual:Homa": {
+      "name": "Homa",
+      "type": "Ritual",
+      "mentions": 43,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Nirukta",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Baudhāyanadharmasūtra",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Atharvaprāyaścittāni",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 19
+    },
+    "Ritual:Agnihotra": {
+      "name": "Agnihotra",
+      "type": "Ritual",
+      "mentions": 203,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 9
+    },
+    "Ritual:Pravargya": {
+      "name": "Pravargya",
+      "type": "Ritual",
+      "mentions": 88,
+      "sources": [
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Āśvalāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)"
+      ],
+      "source_count": 3
+    },
+    "Ritual:Upanayana": {
+      "name": "Upanayana",
+      "type": "Ritual",
+      "mentions": 4,
+      "sources": [
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Āśvalāyanagṛhyasūtra",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 4
+    },
+    "Ritual:Samavartana": {
+      "name": "Samavartana",
+      "type": "Ritual",
+      "mentions": 1,
+      "sources": [
+        "Āśvalāyanaśrautasūtra"
+      ],
+      "source_count": 1
+    },
+    "Ritual:Japa": {
+      "name": "Japa",
+      "type": "Ritual",
+      "mentions": 32,
+      "sources": [
+        "Vedārthasaṃgraha",
+        "Śāṅkhāyanaśrautasūtra",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Viṣṇusmṛti",
+        "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Vaikhānasadharmasūtra",
+        "Śivapurāṇa, Books 1 and 7",
+        "Vāsiṣṭhadharmasūtra",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      ],
+      "source_count": 13
+    },
+    "Ritual:Tapa": {
+      "name": "Tapa",
+      "type": "Ritual",
+      "mentions": 70,
+      "sources": [
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Atharvavedapariśiṣṭas",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Āśvalāyanaśrautasūtra",
+        "Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītābhāṣya",
+        "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Mahābhāratatātparyanirṇaya",
+        "Āpastambadharmasūtra",
+        "Narasiṃhapurāṇa",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Pañcaviṃśabrāhmaṇa",
+        "Atharvaprāyaścittāni"
+      ],
+      "source_count": 21
+    },
+    "Ritual:Vrata": {
+      "name": "Vrata",
+      "type": "Ritual",
+      "mentions": 86,
+      "sources": [
+        "Nirukta",
+        "Śāṅkhāyanaśrautasūtra",
+        "Viṣṇusmṛti",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Vaikhānasadharmasūtra",
+        "Pañcaviṃśabrāhmaṇa",
+        "Vāsiṣṭhadharmasūtra",
+        "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+        "Bhāgavatapurāṇa",
+        "Āśvalāyanaśrautasūtra",
+        "Bhagavadgītābhāṣya",
+        "Āśvalāyanagṛhyasūtra"
+      ],
+      "source_count": 15
+    },
+    "School:Advaita": {
+      "name": "Advaita",
+      "type": "School",
+      "mentions": 12,
+      "sources": [
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      ],
+      "source_count": 5
+    },
+    "School:Dvaita": {
+      "name": "Dvaita",
+      "type": "School",
+      "mentions": 14,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      ],
+      "source_count": 1
+    },
+    "School:Yoga": {
+      "name": "Yoga",
+      "type": "School",
+      "mentions": 725,
+      "sources": [
+        "Śāṅkhāyanaśrautasūtra",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Āśvalāyanaśrautasūtra",
+        "Vaikhānasadharmasūtra",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Nirukta",
+        "Haṭhayogapradīpikā",
+        "Viṣṇudharma",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Yogasūtra",
+        "Bhagavadgītābhāṣya",
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Āpastambadharmasūtra",
+        "Vedārthasaṃgraha",
+        "Viṣṇusmṛti",
+        "Baudhāyanadharmasūtra",
+        "Yogasūtra with Bhāṣya",
+        "Bhāgavatapurāṇa",
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Sāmavedasaṃhitā",
+        "Pañcaviṃśabrāhmaṇa",
+        "Bhagavadāśayānusaraṇabhāsya"
+      ],
+      "source_count": 26
+    },
+    "Graha:Budha": {
+      "name": "Budha",
+      "type": "Graha",
+      "mentions": 3,
+      "sources": [
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Agnipurāṇa",
+        "Viṣṇupurāṇa"
+      ],
+      "source_count": 3
+    },
+    "Graha:Ketu": {
+      "name": "Ketu",
+      "type": "Graha",
+      "mentions": 2,
+      "sources": [
+        "Ṛgvedasaṃhitā, Padapāṭha"
+      ],
+      "source_count": 1
+    },
+    "Graha:Ravi": {
+      "name": "Ravi",
+      "type": "Graha",
+      "mentions": 7,
+      "sources": [
+        "Bhagavadgītābhāṣya",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Bhāgavatapurāṇa"
+      ],
+      "source_count": 4
+    },
+    "Graha:Budh": {
+      "name": "Budh",
+      "type": "Graha",
+      "mentions": 2,
+      "sources": [
+        "Yogasūtra with Bhāṣya",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 2
+    },
+    "Graha:Guru": {
+      "name": "Guru",
+      "type": "Graha",
+      "mentions": 138,
+      "sources": [
+        "Nirukta",
+        "Viṣṇusmṛti",
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+        "Dharmasūtra",
+        "Ṛgvedasaṃhitā, Padapāṭha",
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Baudhāyanadharmasūtra",
+        "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+        "Vaikhānasadharmasūtra",
+        "Vāsiṣṭhadharmasūtra",
+        "Bhāgavatapurāṇa",
+        "Bhagavadgītābhāṣya",
+        "Āpastambadharmasūtra"
+      ],
+      "source_count": 14
+    }
+  }
+}

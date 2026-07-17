@@ -1,12 +1,10 @@
 {
-  "generated": "2026-07-17T14:35:44.420645",
-  "total_nodes": 374,
+  "generated": "2026-07-17T14:35:44.421086",
+  "total_entities": 320,
+  "entities_with_relationships": 319,
+  "relationship_coverage_pct": 99.7,
   "total_edges": 7742,
-  "orphan_nodes": 0,
-  "broken_references": 0,
-  "evidence_coverage_pct": 100.0,
-  "entities_with_provenance": 320,
-  "edge_type_distribution": {
+  "edge_types": {
     "MENTIONED_IN": 7520,
     "FATHER_OF": 35,
     "HUSBAND_OF": 19,
@@ -36,22 +34,5 @@
     "FOLLOWED_BY": 1,
     "ALLY_OF": 2,
     "DEVOTEE_OF": 1
-  },
-  "node_type_distribution": {
-    "Scripture": 54,
-    "Deity": 43,
-    "Person": 95,
-    "Place": 48,
-    "Concept": 36,
-    "Weapon": 23,
-    "Animal": 34,
-    "Dynasty": 7,
-    "Avatar": 9,
-    "Nakshatra": 5,
-    "Loka": 4,
-    "Ritual": 8,
-    "School": 3,
-    "Graha": 5
-  },
-  "pass": true
+  }
 }

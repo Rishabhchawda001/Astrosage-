@@ -1,0 +1,184 @@
+{
+  "type": "dialogue_graph",
+  "edges": [
+    {
+      "GUID": "4f143dd3-3747-5e1f-a863-984c0b13cfb1",
+      "type": "TEACHER_OF",
+      "source_GUID": "0a300343-8fac-50d0-8cf3-d2062aebf923",
+      "target_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
+      "source_ref": "Person:Vasistha",
+      "target_ref": "Deity:Rama",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "76187c67-aac2-5b9d-9d77-68ec5ed49ca8",
+      "type": "TEACHER_OF",
+      "source_GUID": "629fc565-40f1-5238-a5e8-d3219d9a4aa3",
+      "target_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
+      "source_ref": "Person:Vishvamitra",
+      "target_ref": "Deity:Rama",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "2cbc5df7-7f28-52c7-b604-8c41f292a34e",
+      "type": "TEACHER_OF",
+      "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
+      "target_GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
+      "source_ref": "Person:Drona",
+      "target_ref": "Person:Arjuna",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "ae40a1fa-2d4b-567f-b007-28a7c2772d8d",
+      "type": "TEACHER_OF",
+      "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
+      "target_GUID": "337c1a0c-7b65-56d9-8c54-8244da8fd54a",
+      "source_ref": "Person:Drona",
+      "target_ref": "Person:Duryodhana",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "b02ea3f9-49de-5b54-a247-614e1955ae33",
+      "type": "TEACHER_OF",
+      "source_GUID": "0a300343-8fac-50d0-8cf3-d2062aebf923",
+      "target_GUID": "629fc565-40f1-5238-a5e8-d3219d9a4aa3",
+      "source_ref": "Person:Vasistha",
+      "target_ref": "Person:Vishvamitra",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "4f143dd3-3747-5e1f-a863-984c0b13cfb1",
+      "type": "TEACHER_OF",
+      "source_GUID": "0a300343-8fac-50d0-8cf3-d2062aebf923",
+      "target_GUID": "40fc120e-ced3-59ed-8049-b01db4e0f3b3",
+      "source_ref": "Person:Vasistha",
+      "target_ref": "Deity:Rama",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "76187c67-aac2-5b9d-9d77-68ec5ed49ca8",
+      "type": "TEACHER_OF",
+      "source_GUID": "629fc565-40f1-5238-a5e8-d3219d9a4aa3",
+      "target_GUID": "40fc120e-ced3-59ed-8049-b01db4e0f3b3",
+      "source_ref": "Person:Vishvamitra",
+      "target_ref": "Deity:Rama",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "2cbc5df7-7f28-52c7-b604-8c41f292a34e",
+      "type": "TEACHER_OF",
+      "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
+      "target_GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
+      "source_ref": "Person:Drona",
+      "target_ref": "Person:Arjuna",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "ae40a1fa-2d4b-567f-b007-28a7c2772d8d",
+      "type": "TEACHER_OF",
+      "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
+      "target_GUID": "337c1a0c-7b65-56d9-8c54-8244da8fd54a",
+      "source_ref": "Person:Drona",
+      "target_ref": "Person:Duryodhana",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "b02ea3f9-49de-5b54-a247-614e1955ae33",
+      "type": "TEACHER_OF",
+      "source_GUID": "0a300343-8fac-50d0-8cf3-d2062aebf923",
+      "target_GUID": "629fc565-40f1-5238-a5e8-d3219d9a4aa3",
+      "source_ref": "Person:Vasistha",
+      "target_ref": "Person:Vishvamitra",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "c28b138a-19f2-59ad-939b-470400bb3b82",
+      "type": "TEACHER_OF",
+      "source_GUID": "0a300343-8fac-50d0-8cf3-d2062aebf923",
+      "target_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
+      "source_ref": "Person:Vasistha",
+      "target_ref": "Deity:Rama",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "cd757d38-fb9b-5b8f-a695-9e5d406942f9",
+      "type": "TEACHER_OF",
+      "source_GUID": "629fc565-40f1-5238-a5e8-d3219d9a4aa3",
+      "target_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
+      "source_ref": "Person:Vishvamitra",
+      "target_ref": "Deity:Rama",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "fc6024e2-714a-52f4-85f2-2577675666e2",
+      "type": "TEACHER_OF",
+      "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
+      "target_GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
+      "source_ref": "Person:Drona",
+      "target_ref": "Person:Arjuna",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "76c75e80-3a74-5949-a022-49d98ffd4446",
+      "type": "TEACHER_OF",
+      "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
+      "target_GUID": "337c1a0c-7b65-56d9-8c54-8244da8fd54a",
+      "source_ref": "Person:Drona",
+      "target_ref": "Person:Duryodhana",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "e0fbd452-15c9-5256-8df8-ac5446e06710",
+      "type": "TEACHER_OF",
+      "source_GUID": "0a300343-8fac-50d0-8cf3-d2062aebf923",
+      "target_GUID": "629fc565-40f1-5238-a5e8-d3219d9a4aa3",
+      "source_ref": "Person:Vasistha",
+      "target_ref": "Person:Vishvamitra",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "81f6a579-c982-5707-8e68-f01a32bd8a2a",
+      "type": "TEACHER_OF",
+      "source_GUID": "8957be9b-9f41-5eb3-97ad-33158c6731b5",
+      "target_GUID": "ca95e9d2-39b1-5fd3-b26e-d006cffeb2ff",
+      "source_ref": "Brihaspati",
+      "target_ref": "Indra",
+      "evidence": "canonical_scripture",
+      "confidence": 90,
+      "phase": "v9"
+    }
+  ],
+  "stats": {
+    "total": 16
+  }
+}

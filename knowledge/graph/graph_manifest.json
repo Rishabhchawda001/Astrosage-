@@ -1,26 +1,78 @@
 {
-  "version": "1.0",
+  "version": "9.0",
+  "generated": "2026-07-17T14:35:44.432686",
   "files": {
+    "complete_entity_extraction.json": {
+      "size": 105736
+    },
+    "cuid_index.json": {
+      "size": 16487
+    },
+    "entity_extraction.json": {
+      "size": 38591
+    },
+    "graph_manifest.json": {
+      "size": 1573
+    },
     "graph_statistics.json": {
-      "size": 355
+      "size": 1285
+    },
+    "complete_entity_extraction_v9.json": {
+      "size": 160137
+    },
+    "graph.json": {
+      "size": 3303726
+    },
+    "dialogue_graph.json": {
+      "size": 6116
+    },
+    "event_graph.json": {
+      "size": 2573
+    },
+    "genealogy_graph.json": {
+      "size": 43126
+    },
+    "concept_graph.json": {
+      "size": 11083
+    },
+    "ritual_graph.json": {
+      "size": 980
+    },
+    "astronomy_graph.json": {
+      "size": 1438
+    },
+    "geography_graph.json": {
+      "size": 6805
+    },
+    "association_graph.json": {
+      "size": 14748
+    },
+    "graph_completeness.json": {
+      "size": 819
+    },
+    "review_queue.json": {
+      "size": 97
     },
     "nodes/entity_nodes.json": {
-      "size": 16426
+      "size": 236798
     },
     "nodes/scripture_nodes.json": {
-      "size": 18917
+      "size": 20537
     },
     "edges/relationship_edges.json": {
-      "size": 11696
-    },
-    "indexes/entity_index.json": {
-      "size": 5297
+      "size": 2827318
     },
     "validation/devanagari_entity_mentions.json": {
       "size": 1758
     },
     "validation/entity_mentions.json": {
       "size": 2
+    },
+    "validation/graph_validation.json": {
+      "size": 1167
+    },
+    "indexes/entity_index.json": {
+      "size": 35081
     },
     "schemas/graph_schema.json": {
       "size": 3385

@@ -1,0 +1,378 @@
+{
+  "type": "concept_graph",
+  "edges": [
+    {
+      "GUID": "5b842ece-c4f5-5893-b22f-35d80ea32280",
+      "type": "PATH_TO",
+      "source_GUID": "80a16920-1c5c-52c8-ad33-2f782f77ef73",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Bhakti",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "9968a234-b01c-540e-9025-b8265ed7980b",
+      "type": "PATH_TO",
+      "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Jnana",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "c9852949-8c89-5823-a648-9397bd12f159",
+      "type": "PATH_TO",
+      "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Yoga",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "a2ef4ec3-2a0f-5c5e-aec6-37c82e526ec5",
+      "type": "LEADS_TO",
+      "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "target_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+      "source_ref": "Concept:Karma",
+      "target_ref": "Concept:Samsara",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "e7978c2d-3355-501d-be02-f67ad3eac7b9",
+      "type": "LIBERATION_FROM",
+      "source_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "target_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+      "source_ref": "Concept:Moksha",
+      "target_ref": "Concept:Samsara",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "e33170b4-bdaa-551f-94e8-f4048bcaed7c",
+      "type": "IDENTICAL_TO",
+      "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+      "target_GUID": "446d7abe-0630-597a-b67a-13137588c017",
+      "source_ref": "Concept:Brahman",
+      "target_ref": "Concept:Atman",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "a9afbf15-2cf9-5b4b-8e7d-5dcd82994274",
+      "type": "GUIDES",
+      "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+      "target_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "source_ref": "Concept:Dharma",
+      "target_ref": "Concept:Karma",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "5b842ece-c4f5-5893-b22f-35d80ea32280",
+      "type": "PATH_TO",
+      "source_GUID": "80a16920-1c5c-52c8-ad33-2f782f77ef73",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Bhakti",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "9968a234-b01c-540e-9025-b8265ed7980b",
+      "type": "PATH_TO",
+      "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Jnana",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "c9852949-8c89-5823-a648-9397bd12f159",
+      "type": "PATH_TO",
+      "source_GUID": "02f5caaa-272f-5a26-bf11-c7c7a4fd546c",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Yoga",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "a2ef4ec3-2a0f-5c5e-aec6-37c82e526ec5",
+      "type": "LEADS_TO",
+      "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "target_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+      "source_ref": "Concept:Karma",
+      "target_ref": "Concept:Samsara",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "e7978c2d-3355-501d-be02-f67ad3eac7b9",
+      "type": "LIBERATION_FROM",
+      "source_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "target_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+      "source_ref": "Concept:Moksha",
+      "target_ref": "Concept:Samsara",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "e33170b4-bdaa-551f-94e8-f4048bcaed7c",
+      "type": "IDENTICAL_TO",
+      "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+      "target_GUID": "446d7abe-0630-597a-b67a-13137588c017",
+      "source_ref": "Concept:Brahman",
+      "target_ref": "Concept:Atman",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "a9afbf15-2cf9-5b4b-8e7d-5dcd82994274",
+      "type": "GUIDES",
+      "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+      "target_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "source_ref": "Concept:Dharma",
+      "target_ref": "Concept:Karma",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "d382ce1c-647e-5bd5-8872-bb12e46d2b3c",
+      "type": "PATH_TO",
+      "source_GUID": "80a16920-1c5c-52c8-ad33-2f782f77ef73",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Bhakti",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "ebbc4dbf-377a-5bc0-a927-d51af140cdb3",
+      "type": "PATH_TO",
+      "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Jnana",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "f5f4df11-3e27-5e62-9166-91e0d759ed47",
+      "type": "PATH_TO",
+      "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+      "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "source_ref": "Concept:Yoga",
+      "target_ref": "Concept:Moksha",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "f6e9beb3-fd61-5e29-b405-7048ac9ae89f",
+      "type": "LEADS_TO",
+      "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "target_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+      "source_ref": "Concept:Karma",
+      "target_ref": "Concept:Samsara",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "dd6590b3-4d29-552d-9059-2c4fe4583d2e",
+      "type": "LIBERATION_FROM",
+      "source_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "target_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+      "source_ref": "Concept:Moksha",
+      "target_ref": "Concept:Samsara",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "dc7b5f68-b7fa-564b-b059-6c15c802ac6c",
+      "type": "IDENTICAL_TO",
+      "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+      "target_GUID": "446d7abe-0630-597a-b67a-13137588c017",
+      "source_ref": "Concept:Brahman",
+      "target_ref": "Concept:Atman",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "2f031039-55a8-55d6-917f-93e4008cea6b",
+      "type": "GUIDES",
+      "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+      "target_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "source_ref": "Concept:Dharma",
+      "target_ref": "Concept:Karma",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Dharma",
+      "GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0"
+    },
+    {
+      "name": "Karma",
+      "GUID": "4493872b-d07f-56e4-b087-49f7c863e06f"
+    },
+    {
+      "name": "Moksha",
+      "GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e"
+    },
+    {
+      "name": "Bhakti",
+      "GUID": "80a16920-1c5c-52c8-ad33-2f782f77ef73"
+    },
+    {
+      "name": "Jnana",
+      "GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd"
+    },
+    {
+      "name": "Yoga",
+      "GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a"
+    },
+    {
+      "name": "Brahman",
+      "GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e"
+    },
+    {
+      "name": "Atman",
+      "GUID": "446d7abe-0630-597a-b67a-13137588c017"
+    },
+    {
+      "name": "Maya",
+      "GUID": "0dbf9a8e-18cf-58b4-b9b3-94c8abdba0c3"
+    },
+    {
+      "name": "Prakriti",
+      "GUID": "aa50128f-c0b8-537a-8c49-7f6600b11ff5"
+    },
+    {
+      "name": "Purusha",
+      "GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81"
+    },
+    {
+      "name": "Gunas",
+      "GUID": "2825f7a9-fb80-5f3e-84bc-f02d0135df85"
+    },
+    {
+      "name": "Samsara",
+      "GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4"
+    },
+    {
+      "name": "Ahimsa",
+      "GUID": "727d421b-7cfc-5431-97e0-4840b6fa1600"
+    },
+    {
+      "name": "Satya",
+      "GUID": "18329483-2107-5e54-8843-292610f53dac"
+    },
+    {
+      "name": "Tapas",
+      "GUID": "8076377a-f090-5041-8827-b34ed259f936"
+    },
+    {
+      "name": "Dana",
+      "GUID": "f4b499a9-ae05-5112-aee9-881d915867ed"
+    },
+    {
+      "name": "Dhyana",
+      "GUID": "cd504b3b-da2e-5d89-96db-f0a0167e57b1"
+    },
+    {
+      "name": "Mantra",
+      "GUID": "cc585462-4108-5808-accb-261dba2b2c22"
+    },
+    {
+      "name": "Yajna",
+      "GUID": "2390c087-9d5b-536a-94f6-06e61f39e2b2"
+    },
+    {
+      "name": "Homa",
+      "GUID": "d059c336-8521-5b33-8bf4-2409d0812a28"
+    },
+    {
+      "name": "Shraddha",
+      "GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14"
+    },
+    {
+      "name": "Diksha",
+      "GUID": "a4d1aed8-ce01-5370-bb4a-921dc5123d0d"
+    },
+    {
+      "name": "Pranayama",
+      "GUID": "58b7d7a5-9ea4-5fd4-80e3-e3ed9e02fa79"
+    },
+    {
+      "name": "Varna",
+      "GUID": "e50d17c3-ccd6-58aa-9927-0bb53d4f2776"
+    },
+    {
+      "name": "Ashrama",
+      "GUID": "51779aea-62bb-5fa7-9348-332dc60660a2"
+    },
+    {
+      "name": "Tattva",
+      "GUID": "b19e4e1c-ae8c-5666-b487-2f9a9c648de4"
+    },
+    {
+      "name": "Vidya",
+      "GUID": "695636a4-4b5f-5a9e-881a-a0a854409a1a"
+    },
+    {
+      "name": "Upanishad",
+      "GUID": "9d9f5222-559c-5783-bbb9-87ebfe77f169"
+    },
+    {
+      "name": "Nyaya",
+      "GUID": "1ad8fdf9-f0b8-5801-a1da-a523ef911029"
+    },
+    {
+      "name": "Vaisheshika",
+      "GUID": "f13c48b7-8d8a-561e-8bb1-90e34fe7456a"
+    },
+    {
+      "name": "Mimamsa",
+      "GUID": "053464f6-001c-5317-8441-d14a0809ea9d"
+    },
+    {
+      "name": "Sankhya",
+      "GUID": "29da07d9-785f-5305-81df-9caee5cce5af"
+    },
+    {
+      "name": "Vedanta",
+      "GUID": "eebb15e3-2098-57e6-8bb0-66351ac2b001"
+    }
+  ],
+  "stats": {
+    "edges": 21,
+    "nodes": 34
+  }
+}
