@@ -1,0 +1,120 @@
+{
+  "generated": "2026-07-17",
+  "phase": "9.5-audit",
+  "totals": {
+    "scripture_nodes": 54,
+    "entity_nodes": 320,
+    "total_nodes": 374,
+    "total_edges": 7742,
+    "mentioned_in_edges": 7520,
+    "relationship_edges": 222
+  },
+  "entity_type_breakdown": {
+    "Deity": 43,
+    "Person": 95,
+    "Place": 48,
+    "Concept": 36,
+    "Weapon": 23,
+    "Animal": 34,
+    "Dynasty": 7,
+    "Avatar": 9,
+    "Nakshatra": 5,
+    "Loka": 4,
+    "Ritual": 8,
+    "School": 3,
+    "Graha": 5
+  },
+  "edge_type_breakdown": {
+    "MENTIONED_IN": 7520,
+    "FATHER_OF": 35,
+    "HUSBAND_OF": 19,
+    "MOTHER_OF": 15,
+    "BROTHER_OF": 15,
+    "SISTER_OF": 3,
+    "TEACHER_OF": 16,
+    "GUARDIAN_OF": 3,
+    "RULER_OF": 3,
+    "ANCESTOR_OF": 5,
+    "CREATOR_OF": 9,
+    "INCARNATION_OF": 21,
+    "COMPILER_OF": 3,
+    "PATH_TO": 9,
+    "LEADS_TO": 3,
+    "LIBERATION_FROM": 3,
+    "IDENTICAL_TO": 3,
+    "GUIDES": 3,
+    "ABODE_OF": 8,
+    "BATTLEFIELD_OF": 3,
+    "KINGDOM_OF": 4,
+    "WIELDED_BY": 21,
+    "VEHICLE_OF": 9,
+    "REFERENCED_BY": 2,
+    "UNCLE_OF": 1,
+    "ASSOCIATED_WITH": 2,
+    "FOLLOWED_BY": 1,
+    "ALLY_OF": 2,
+    "DEVOTEE_OF": 1
+  },
+  "quality": {
+    "duplicate_node_guids": 1,
+    "duplicate_edge_guids": 2841,
+    "duplicate_entity_names": 10,
+    "duplicate_names_detail": {
+      "Rama": 2,
+      "Krishna": 2,
+      "Ganga": 2,
+      "Vasistha": 2,
+      "Vishvamitra": 2,
+      "Garuda": 2,
+      "Satyaloka": 2,
+      "Yoga": 2,
+      "Homa": 2,
+      "Shakti": 2
+    },
+    "orphan_entities": 0,
+    "orphan_entity_names": [],
+    "broken_references": 0,
+    "avg_confidence": 87.1,
+    "min_confidence": 85,
+    "max_confidence": 95
+  },
+  "coverage": {
+    "dialogue_edges": 16,
+    "canonical_events": 15,
+    "genealogy_edges": 114,
+    "concept_nodes": 36,
+    "concept_edges": 21,
+    "ritual_nodes": 8,
+    "astronomy_nodes": 10,
+    "geography_nodes": 48,
+    "geography_edges": 18,
+    "cross_scripture_edges": 0
+  },
+  "sub_graphs": {
+    "dialogue_graph.json": {
+      "total": 16
+    },
+    "event_graph.json": {
+      "total": 15
+    },
+    "genealogy_graph.json": {
+      "total": 114
+    },
+    "concept_graph.json": {
+      "edges": 21,
+      "nodes": 34
+    },
+    "ritual_graph.json": {
+      "nodes": 8
+    },
+    "astronomy_graph.json": {
+      "nodes": 10
+    },
+    "geography_graph.json": {
+      "total": 18
+    },
+    "association_graph.json": {
+      "total": 39
+    }
+  }
+}

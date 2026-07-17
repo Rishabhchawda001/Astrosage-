@@ -1,7 +1,7 @@
 [
   {
-    "type": "warning",
-    "description": "61 orphan nodes",
-    "severity": "medium"
+    "type": "broken_references",
+    "count": 215,
+    "severity": "high"
   }
 ]

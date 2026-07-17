@@ -1,42 +1,42 @@
 {
-  "version": "9.0",
-  "generated": "2026-07-17T14:35:44.432686",
+  "version": "9.5",
+  "generated": "2026-07-17T15:31:19.654680",
   "files": {
     "complete_entity_extraction.json": {
       "size": 105736
     },
     "cuid_index.json": {
-      "size": 16487
+      "size": 20328
     },
     "entity_extraction.json": {
       "size": 38591
     },
     "graph_manifest.json": {
-      "size": 1573
+      "size": 1818
     },
     "graph_statistics.json": {
-      "size": 1285
+      "size": 1977
     },
     "complete_entity_extraction_v9.json": {
       "size": 160137
     },
     "graph.json": {
-      "size": 3303726
+      "size": 2165504
     },
     "dialogue_graph.json": {
-      "size": 6116
+      "size": 27416
     },
     "event_graph.json": {
-      "size": 2573
+      "size": 10031
     },
     "genealogy_graph.json": {
-      "size": 43126
+      "size": 31944
     },
     "concept_graph.json": {
-      "size": 11083
+      "size": 30425
     },
     "ritual_graph.json": {
-      "size": 980
+      "size": 12307
     },
     "astronomy_graph.json": {
       "size": 1438
@@ -48,19 +48,31 @@
       "size": 14748
     },
     "graph_completeness.json": {
-      "size": 819
+      "size": 189
     },
     "review_queue.json": {
-      "size": 97
+      "size": 85
+    },
+    "graph_audit.json": {
+      "size": 2431
+    },
+    "cross_scripture_alignment.json": {
+      "size": 16700
+    },
+    "coverage_report.json": {
+      "size": 34888
+    },
+    "semantic_saturation_report.md": {
+      "size": 2210
     },
     "nodes/entity_nodes.json": {
-      "size": 236798
+      "size": 289841
     },
     "nodes/scripture_nodes.json": {
       "size": 20537
     },
     "edges/relationship_edges.json": {
-      "size": 2827318
+      "size": 1707597
     },
     "validation/devanagari_entity_mentions.json": {
       "size": 1758
@@ -69,10 +81,10 @@
       "size": 2
     },
     "validation/graph_validation.json": {
-      "size": 1167
+      "size": 1777
     },
     "indexes/entity_index.json": {
-      "size": 35081
+      "size": 42822
     },
     "schemas/graph_schema.json": {
       "size": 3385

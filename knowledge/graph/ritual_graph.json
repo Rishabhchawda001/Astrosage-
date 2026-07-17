@@ -1,48 +1,465 @@
 {
   "type": "ritual_graph",
+  "generated": "2026-07-17T15:24:24.675529",
+  "description": "Expanded ritual graph with Vedic ceremonies and observances",
   "nodes": [
     {
-      "name": "Homa",
-      "GUID": "69b54fae-2651-5564-8361-00ed68787396",
-      "mentions": 43
-    },
-    {
       "name": "Agnihotra",
-      "GUID": "2496f48b-d932-579f-83d0-9868a75570a4",
-      "mentions": 203
+      "type": "Ritual",
+      "description": "Daily fire offering at sunrise and sunset",
+      "benefits": [
+        "purification",
+        "prosperity",
+        "spiritual_progress"
+      ],
+      "eligibility": "dvija (twice-born)",
+      "materials": [
+        "ghee",
+        "rice",
+        "fire"
+      ],
+      "deities": [
+        "Agni",
+        "Surya"
+      ]
     },
     {
-      "name": "Pravargya",
-      "GUID": "26edcac0-059e-5db0-9a6d-97578e11f07c",
-      "mentions": 88
+      "name": "Ashvamedha",
+      "type": "Ritual",
+      "description": "Horse sacrifice for universal sovereignty",
+      "benefits": [
+        "sovereignty",
+        "merit"
+      ],
+      "eligibility": "king",
+      "materials": [
+        "horse",
+        "ghee",
+        "soma"
+      ],
+      "deities": [
+        "Indra",
+        "Agni"
+      ]
+    },
+    {
+      "name": "Rajasuya",
+      "type": "Ritual",
+      "description": "Royal consecration sacrifice",
+      "benefits": [
+        "sovereignty",
+        "prosperity"
+      ],
+      "eligibility": "king",
+      "materials": [
+        "soma",
+        "ghee",
+        "gold"
+      ],
+      "deities": [
+        "Indra",
+        "Agni",
+        "Varuna"
+      ]
+    },
+    {
+      "name": "Vajapeya",
+      "type": "Ritual",
+      "description": "Chariot race sacrifice",
+      "benefits": [
+        "strength",
+        "victory"
+      ],
+      "eligibility": "king",
+      "materials": [
+        "chariot",
+        "horses",
+        "soma"
+      ],
+      "deities": [
+        "Indra"
+      ]
+    },
+    {
+      "name": "Soma Yajna",
+      "type": "Ritual",
+      "description": "Soma pressing ceremony",
+      "benefits": [
+        "immortality",
+        "divine_favor"
+      ],
+      "eligibility": "dvija",
+      "materials": [
+        "soma plant",
+        "mortar",
+        "pestle"
+      ],
+      "deities": [
+        "Indra",
+        "Soma"
+      ]
     },
     {
       "name": "Upanayana",
-      "GUID": "3fbaf681-2fd5-5bc0-8cd2-1126a96fdbb5",
-      "mentions": 4
+      "type": "Ritual",
+      "description": "Sacred thread ceremony for Vedic education",
+      "benefits": [
+        "spiritual_education",
+        "brahmin_status"
+      ],
+      "eligibility": "dvija male child",
+      "materials": [
+        "sacred_thread",
+        "ghee",
+        "rice"
+      ],
+      "deities": [
+        "Prajapati"
+      ]
     },
     {
-      "name": "Samavartana",
-      "GUID": "0be53e87-dc5f-56a6-9e38-c62f277bee80",
-      "mentions": 1
+      "name": "Vivaha",
+      "type": "Ritual",
+      "description": "Marriage ceremony",
+      "benefits": [
+        "grihastha_ashrama",
+        "progeny"
+      ],
+      "eligibility": "both parties",
+      "materials": [
+        "fire",
+        "rice",
+        "flowers"
+      ],
+      "deities": [
+        "Agni",
+        "Prajapati"
+      ]
+    },
+    {
+      "name": "Antyeshti",
+      "type": "Ritual",
+      "description": "Funeral rites",
+      "benefits": [
+        "ancestral_favor"
+      ],
+      "eligibility": "deceased and family",
+      "materials": [
+        "fire",
+        "water",
+        "sesame"
+      ],
+      "deities": [
+        "Yama",
+        "Agni"
+      ]
+    },
+    {
+      "name": "Pitri Paksha",
+      "type": "Ritual",
+      "description": "Fortnight of ancestor worship",
+      "benefits": [
+        "ancestral_peace"
+      ],
+      "eligibility": "all",
+      "materials": [
+        "rice balls",
+        "water",
+        "sesame"
+      ],
+      "deities": [
+        "Yama"
+      ]
+    },
+    {
+      "name": "Pravargya",
+      "type": "Ritual",
+      "description": "Preliminary soma sacrifice",
+      "benefits": [
+        "preparation_for_soma"
+      ],
+      "eligibility": "dvija",
+      "materials": [
+        "clay pot",
+        "ghee",
+        "fire"
+      ],
+      "deities": [
+        "Agni"
+      ]
     },
     {
       "name": "Japa",
-      "GUID": "78a5d49b-0a89-5dfb-8759-45bae8a2852f",
-      "mentions": 32
-    },
-    {
-      "name": "Tapa",
-      "GUID": "1d7112c4-9a3d-511b-b11d-110f6573d204",
-      "mentions": 70
+      "type": "Ritual",
+      "description": "Mantra repetition",
+      "benefits": [
+        "spiritual_progress",
+        "purification"
+      ],
+      "eligibility": "all",
+      "materials": [
+        "rosary",
+        "mantra"
+      ],
+      "deities": [
+        "chosen_deity"
+      ]
     },
     {
       "name": "Vrata",
-      "GUID": "2b227115-9699-5379-929c-a6f57a488ab7",
-      "mentions": 86
+      "type": "Ritual",
+      "description": "Vow or observance",
+      "benefits": [
+        "spiritual_progress",
+        "merit"
+      ],
+      "eligibility": "all",
+      "materials": [
+        "varies"
+      ],
+      "deities": [
+        "varies"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "GUID": "24befc29-46c4-5e9d-a4d4-ce7bed92f2d4",
+      "type": "OFFERED_TO",
+      "source_GUID": "6eea71a3-c72f-5dd8-8732-0c0b123159f7",
+      "target_GUID": "bef22b23-43c3-5b65-a6bc-1414aa9c6cfe",
+      "source_ref": "Ritual:Agnihotra",
+      "target_ref": "Deity:Agni",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "d47794c2-4079-5d21-8a4e-d49f5bb09a88",
+      "type": "OFFERED_TO",
+      "source_GUID": "6eea71a3-c72f-5dd8-8732-0c0b123159f7",
+      "target_GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
+      "source_ref": "Ritual:Agnihotra",
+      "target_ref": "Deity:Surya",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "933b3f5b-6286-5009-9574-20da19e46db5",
+      "type": "REQUIRES",
+      "source_GUID": "6eea71a3-c72f-5dd8-8732-0c0b123159f7",
+      "target_GUID": "75024a55-021b-5b54-85e7-0df16dd58f1f",
+      "source_ref": "Ritual:Agnihotra",
+      "target_ref": "Concept:Ahimsa",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "45e4244d-1a8f-51af-a917-ccaf97f47b1b",
+      "type": "OFFERED_TO",
+      "source_GUID": "b9ece0f3-e8fb-508f-9b7f-fa75d9437ea9",
+      "target_GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
+      "source_ref": "Ritual:Ashvamedha",
+      "target_ref": "Deity:Indra",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "ddcd1fb2-4007-5921-b670-5d29a8bb5dff",
+      "type": "PARTICIPANT",
+      "source_GUID": "b9ece0f3-e8fb-508f-9b7f-fa75d9437ea9",
+      "target_GUID": "56e7e241-0c52-5705-afc1-82d050704711",
+      "source_ref": "Ritual:Ashvamedha",
+      "target_ref": "Person:Yudhishthira",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "7122c49f-287f-59cc-ac91-312db10a9fb1",
+      "type": "PARTICIPANT",
+      "source_GUID": "b9ece0f3-e8fb-508f-9b7f-fa75d9437ea9",
+      "target_GUID": "77cc5544-b08a-5868-80ac-fafecf263508",
+      "source_ref": "Ritual:Ashvamedha",
+      "target_ref": "Deity:Rama",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "4c4b4dc1-08d9-53bd-b615-61f234bf1ea3",
+      "type": "OFFERED_TO",
+      "source_GUID": "94896c2b-f15f-510e-9ccd-d28f97f6c4d7",
+      "target_GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
+      "source_ref": "Ritual:Rajasuya",
+      "target_ref": "Deity:Indra",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "6244f96c-beac-5edf-aa9f-b024de85267d",
+      "type": "PARTICIPANT",
+      "source_GUID": "94896c2b-f15f-510e-9ccd-d28f97f6c4d7",
+      "target_GUID": "56e7e241-0c52-5705-afc1-82d050704711",
+      "source_ref": "Ritual:Rajasuya",
+      "target_ref": "Person:Yudhishthira",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "38a080c1-1dc1-51eb-9c9c-126ca232ce90",
+      "type": "OFFERED_TO",
+      "source_GUID": "81fa5532-7e16-5ce9-b394-c5a56335a412",
+      "target_GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
+      "source_ref": "Ritual:Soma Yajna",
+      "target_ref": "Deity:Indra",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "42fd2e19-7e83-5299-ba84-223b6d15b8b9",
+      "type": "USES",
+      "source_GUID": "81fa5532-7e16-5ce9-b394-c5a56335a412",
+      "target_GUID": "eee11951-9991-5887-9437-5234a1c8efc7",
+      "source_ref": "Ritual:Soma Yajna",
+      "target_ref": "Concept:Mantra",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "3dc58268-3535-5b9b-b3da-6c2a7bb51452",
+      "type": "INITIATES",
+      "source_GUID": "f846d9bc-2de9-5006-9544-6611a8f39d8f",
+      "target_GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
+      "source_ref": "Ritual:Upanayana",
+      "target_ref": "Concept:Vidya",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "d6c2b779-18ee-51b9-9644-d68cfbfb39b9",
+      "type": "SUBCATEGORY_OF",
+      "source_GUID": "f846d9bc-2de9-5006-9544-6611a8f39d8f",
+      "target_GUID": "a0ab41b9-8da1-5167-a979-fc8b6db3f4e5",
+      "source_ref": "Ritual:Upanayana",
+      "target_ref": "Concept:Ashrama",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "f9f0b4de-6a92-5e18-b731-d529cc770562",
+      "type": "COMPLETES",
+      "source_GUID": "19e54649-213d-5835-85cb-8d7ef83a2976",
+      "target_GUID": "a0ab41b9-8da1-5167-a979-fc8b6db3f4e5",
+      "source_ref": "Ritual:Vivaha",
+      "target_ref": "Concept:Ashrama",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "5a6b6b71-1113-5098-8b35-7f1e1a60e4be",
+      "type": "OFFERED_TO",
+      "source_GUID": "346ad97c-c063-5706-8803-f3cb18685bd9",
+      "target_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "source_ref": "Ritual:Antyeshti",
+      "target_ref": "Deity:Yama",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "3fa68eae-75dc-57ae-bb0e-b768f934cbcd",
+      "type": "OFFERED_TO",
+      "source_GUID": "c0bb0236-e86a-5930-88f9-f38dea594e55",
+      "target_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "source_ref": "Ritual:Pitri Paksha",
+      "target_ref": "Deity:Yama",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "a7674388-65c5-5621-9fbf-d7d9b3eb89ab",
+      "type": "HONORS",
+      "source_GUID": "c0bb0236-e86a-5930-88f9-f38dea594e55",
+      "target_GUID": "f8b5772b-de96-5dd8-acc2-9d037b0befb8",
+      "source_ref": "Ritual:Pitri Paksha",
+      "target_ref": "Person:Ancestors",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "a326c332-17ef-50eb-b22f-cc8e60e8126d",
+      "type": "USES",
+      "source_GUID": "ea12e6c1-470e-58c2-91dd-3a66151196c9",
+      "target_GUID": "eee11951-9991-5887-9437-5234a1c8efc7",
+      "source_ref": "Ritual:Japa",
+      "target_ref": "Concept:Mantra",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "96b54370-670d-519f-b158-2641d04f2ec0",
+      "type": "SUBCATEGORY_OF",
+      "source_GUID": "ea12e6c1-470e-58c2-91dd-3a66151196c9",
+      "target_GUID": "f67095c2-1698-5607-8ef2-efe07f19ae70",
+      "source_ref": "Ritual:Japa",
+      "target_ref": "Concept:Dhyana",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "1cc7d7ff-dff9-5fea-9cf6-aeb3fb0de8c8",
+      "type": "SUBCATEGORY_OF",
+      "source_GUID": "5ca3a614-238d-5e23-a8a4-8604ba85185f",
+      "target_GUID": "0c94cb8a-dd32-54d3-a02e-5e266ee2db1b",
+      "source_ref": "Ritual:Vrata",
+      "target_ref": "Concept:Dharma",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
+    },
+    {
+      "GUID": "a353848f-1fc0-53fd-b297-932297d36af9",
+      "type": "REQUIRES",
+      "source_GUID": "5ca3a614-238d-5e23-a8a4-8604ba85185f",
+      "target_GUID": "19ef1cee-1b16-5010-8c0f-b975e64a724a",
+      "source_ref": "Ritual:Vrata",
+      "target_ref": "Concept:Shraddha",
+      "evidence": "canonical_scripture",
+      "confidence": 88,
+      "phase": "v9.5"
     }
   ],
   "stats": {
-    "nodes": 8
+    "nodes": 12,
+    "edges": 20,
+    "ritual_types": [
+      "Vajapeya",
+      "Vrata",
+      "Rajasuya",
+      "Pravargya",
+      "Ashvamedha",
+      "Japa",
+      "Upanayana",
+      "Vivaha",
+      "Antyeshti",
+      "Soma Yajna",
+      "Pitri Paksha",
+      "Agnihotra"
+    ]
   }
 }

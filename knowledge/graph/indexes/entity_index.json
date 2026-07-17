@@ -1,28 +1,28 @@
 {
   "Vishnu": {
-    "GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+    "GUID": "778c5dc1-8ca2-5b01-bd0b-0e39b1a46a29",
     "type": "Deity",
-    "mentions": 607
+    "mentions": 0
   },
   "Shiva": {
-    "GUID": "e8cff3ab-3cf2-525f-be9f-d2b44cb5fbf5",
+    "GUID": "b61fe180-0960-534d-9751-bb67190cef15",
     "type": "Deity",
-    "mentions": 248
+    "mentions": 0
   },
   "Brahma": {
-    "GUID": "e36e80e7-7bbb-5b63-aa27-14cefba19e5b",
+    "GUID": "995b4002-1a6a-5307-af92-c8f4924752fc",
     "type": "Deity",
-    "mentions": 407
+    "mentions": 0
   },
   "Rama": {
-    "GUID": "40fc120e-ced3-59ed-8049-b01db4e0f3b3",
-    "type": "Avatar",
-    "mentions": 37
+    "GUID": "30b92434-bb5d-5bed-8ab7-9fec18661753",
+    "type": "Deity",
+    "mentions": 0
   },
   "Krishna": {
-    "GUID": "f00bd1fb-1374-58a6-837b-99de12d3822f",
-    "type": "Avatar",
-    "mentions": 260
+    "GUID": "660b8eb6-4677-53bf-8f0e-63438ece40de",
+    "type": "Deity",
+    "mentions": 0
   },
   "Ganesha": {
     "GUID": "a10f05c2-c341-51f7-921d-07748856ee62",
@@ -30,9 +30,9 @@
     "mentions": 2
   },
   "Surya": {
-    "GUID": "9e7876e4-8ac8-585a-9f2d-e3cf931dd48a",
+    "GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
     "type": "Deity",
-    "mentions": 721
+    "mentions": 0
   },
   "Hanuman": {
     "GUID": "9b07a7b7-c725-5e3e-9e5f-037730e03462",
@@ -65,14 +65,14 @@
     "mentions": 7
   },
   "Indra": {
-    "GUID": "ca95e9d2-39b1-5fd3-b26e-d006cffeb2ff",
+    "GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
     "type": "Deity",
-    "mentions": 1896
+    "mentions": 0
   },
   "Yama": {
-    "GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+    "GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
     "type": "Deity",
-    "mentions": 356
+    "mentions": 0
   },
   "Varuna": {
     "GUID": "46da7125-9761-5be7-9467-4a6948f21625",
@@ -85,14 +85,14 @@
     "mentions": 139
   },
   "Agni": {
-    "GUID": "d80fa61e-fa0f-58e0-a57b-000c08269b58",
+    "GUID": "bef22b23-43c3-5b65-a6bc-1414aa9c6cfe",
     "type": "Deity",
-    "mentions": 300
+    "mentions": 0
   },
   "Ganga": {
-    "GUID": "69974bce-9048-5dd2-89c0-11a12ca513fe",
-    "type": "Place",
-    "mentions": 35
+    "GUID": "e395e18f-847e-5096-ac6b-d92198f1f902",
+    "type": "Deity",
+    "mentions": 75
   },
   "Nandi": {
     "GUID": "8b3ac23a-c5e0-5884-bccb-ce86130f3566",
@@ -105,9 +105,9 @@
     "mentions": 32
   },
   "Lakshmana": {
-    "GUID": "cf2e6a3a-995c-5f18-a3f8-642d78607040",
-    "type": "Deity",
-    "mentions": 40
+    "GUID": "f7ff935a-067b-5ec3-8f43-f51282edd135",
+    "type": "Person",
+    "mentions": 0
   },
   "Sita": {
     "GUID": "d21b316f-92fe-55f3-b8e9-de12f3f89d74",
@@ -120,14 +120,14 @@
     "mentions": 5
   },
   "Vasistha": {
-    "GUID": "0a300343-8fac-50d0-8cf3-d2062aebf923",
+    "GUID": "4853f34b-358c-57c6-b2ac-1817af2daf21",
     "type": "Person",
-    "mentions": 34
+    "mentions": 0
   },
   "Vishvamitra": {
-    "GUID": "629fc565-40f1-5238-a5e8-d3219d9a4aa3",
+    "GUID": "7280b978-e7b0-5269-a1d7-eaac6da27f28",
     "type": "Person",
-    "mentions": 23
+    "mentions": 0
   },
   "Brihaspati": {
     "GUID": "8957be9b-9f41-5eb3-97ad-33158c6731b5",
@@ -135,9 +135,9 @@
     "mentions": 15
   },
   "Chandra": {
-    "GUID": "3f117f52-2290-5558-b9cd-d5010b5c6328",
+    "GUID": "c901d901-8f85-5d8f-af33-c68fe5f09595",
     "type": "Deity",
-    "mentions": 4413
+    "mentions": 0
   },
   "Narada": {
     "GUID": "c039b124-6ad5-54dd-9f70-24adb4e1b31b",
@@ -150,9 +150,9 @@
     "mentions": 186
   },
   "Garuda": {
-    "GUID": "bb399ddf-0af0-5bc7-8837-e4d11f7e1473",
-    "type": "Animal",
-    "mentions": 21
+    "GUID": "39e54f49-4039-5421-b290-5b1d22b29be9",
+    "type": "Deity",
+    "mentions": 48
   },
   "Vasuki": {
     "GUID": "8763bbc2-f5e8-5d58-b1bc-980b786e1af1",
@@ -160,14 +160,14 @@
     "mentions": 6
   },
   "Dattatreya": {
-    "GUID": "bba2e5b5-5782-5a5d-8d5f-bd731ee7769f",
+    "GUID": "a33bfe9f-f676-5688-8f92-28ff2a050317",
     "type": "Deity",
-    "mentions": 9
+    "mentions": 0
   },
   "Balarama": {
-    "GUID": "4a90af19-fb2f-54cc-86d3-382b408a3b1d",
-    "type": "Deity",
-    "mentions": 3
+    "GUID": "202a3572-ab76-5e9e-ad6b-5c8d86f47cd8",
+    "type": "Person",
+    "mentions": 0
   },
   "Jambavan": {
     "GUID": "57431a13-9ec5-5ad8-b722-1c8e4510ef45",
@@ -180,9 +180,9 @@
     "mentions": 199
   },
   "Veda Vyasa": {
-    "GUID": "9ae26550-612c-5b43-9e03-323f85e58911",
+    "GUID": "82835614-bbae-5cd1-b6c3-2d2d5613ae1d",
     "type": "Person",
-    "mentions": 62
+    "mentions": 0
   },
   "Vashistha": {
     "GUID": "d5bab9db-1a43-57f8-bf00-4e05d214a19b",
@@ -190,14 +190,14 @@
     "mentions": 34
   },
   "Shuka": {
-    "GUID": "8b7f5742-cfd8-5c75-a75f-bd1b017314ba",
+    "GUID": "232a729d-7e9a-5405-9e4f-1c8e99ee838c",
     "type": "Person",
-    "mentions": 494
+    "mentions": 0
   },
   "Parashara": {
-    "GUID": "a0b01642-c2d5-5ef6-bdd9-cee5eb13e0e6",
+    "GUID": "5e041a73-d2d3-5251-9abb-488f56a6e50b",
     "type": "Person",
-    "mentions": 9
+    "mentions": 0
   },
   "Gautama": {
     "GUID": "98e57f14-f099-5db8-8936-3eec827847b2",
@@ -210,9 +210,9 @@
     "mentions": 12
   },
   "Atri": {
-    "GUID": "c9cdeaaa-a2e7-5156-8290-b5ce490f8dcb",
+    "GUID": "cdc7ab57-935f-5381-960e-880898e35bc6",
     "type": "Person",
-    "mentions": 15
+    "mentions": 0
   },
   "Bharata": {
     "GUID": "0cf650dd-2045-5015-bba2-9de8e353b63d",
@@ -220,9 +220,9 @@
     "mentions": 40
   },
   "Arjuna": {
-    "GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
+    "GUID": "9f633182-3464-539c-91f2-682f51aa81ab",
     "type": "Person",
-    "mentions": 407
+    "mentions": 0
   },
   "Bhima": {
     "GUID": "c4c4bb77-795a-51ad-9fd7-95aaa093921b",
@@ -230,9 +230,9 @@
     "mentions": 58
   },
   "Yudhishthira": {
-    "GUID": "a1c9f91b-eacc-5ae1-98dd-cfb7837115eb",
+    "GUID": "56e7e241-0c52-5705-afc1-82d050704711",
     "type": "Person",
-    "mentions": 66
+    "mentions": 0
   },
   "Nakula": {
     "GUID": "f46159fb-3a7a-5b23-ae44-9448e8ea7afd",
@@ -245,14 +245,14 @@
     "mentions": 22
   },
   "Drona": {
-    "GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
+    "GUID": "e4b3a371-0ecb-5907-a380-a41a675b93a5",
     "type": "Person",
-    "mentions": 21
+    "mentions": 0
   },
   "Duryodhana": {
-    "GUID": "337c1a0c-7b65-56d9-8c54-8244da8fd54a",
+    "GUID": "11b39542-f081-59f9-a152-4fe0213eb724",
     "type": "Person",
-    "mentions": 16
+    "mentions": 0
   },
   "Bhishma": {
     "GUID": "24cfa3c3-71d9-56f0-8484-16e9253c4bba",
@@ -260,39 +260,39 @@
     "mentions": 42
   },
   "Karna": {
-    "GUID": "cea65566-dce3-5ed1-9cf8-d26b9d52818e",
+    "GUID": "a0d82c8c-ece3-54f0-8c86-47a93cf949b8",
     "type": "Person",
-    "mentions": 54
+    "mentions": 0
   },
   "Kripacharya": {
-    "GUID": "2dfcc92c-6379-5dbf-95ea-f73d71c5f94c",
+    "GUID": "621b25fb-1ee1-54f7-ad70-7ac92c5c07b1",
     "type": "Person",
-    "mentions": 4
+    "mentions": 0
   },
   "Vidura": {
-    "GUID": "70945797-e45b-51d5-abed-0829410644d4",
+    "GUID": "1c0a2b45-4672-5a12-88a4-9f2b02855dc4",
     "type": "Person",
-    "mentions": 45
+    "mentions": 0
   },
   "Dhritarashtra": {
-    "GUID": "c79f6ff7-592b-555f-98cb-c5064e76311d",
+    "GUID": "3385e1ae-e0f8-59cb-bb02-2b33c91d3200",
     "type": "Person",
-    "mentions": 19
+    "mentions": 0
   },
   "Pandu": {
-    "GUID": "93285d5f-8b11-5f2c-9a7d-2be0e31ae3c7",
+    "GUID": "841b71d0-49ad-553c-9a31-db0f7fe28893",
     "type": "Person",
-    "mentions": 10
+    "mentions": 0
   },
   "Kunti": {
-    "GUID": "64c4b760-14da-5ee2-b1cd-f9a2946b8699",
+    "GUID": "14b322a9-a5cb-5244-9495-f382e4c043e4",
     "type": "Person",
-    "mentions": 32
+    "mentions": 0
   },
   "Gandhari": {
-    "GUID": "2148239e-d850-5cd2-9583-01583b648565",
+    "GUID": "8cd3b9b5-4509-589a-9209-9a970c8ddda4",
     "type": "Person",
-    "mentions": 2
+    "mentions": 0
   },
   "Draupadi": {
     "GUID": "ac8e50ea-fc73-5c02-9fbd-aab6f3666472",
@@ -300,9 +300,9 @@
     "mentions": 18
   },
   "Subhadra": {
-    "GUID": "e87c8bc1-0f1a-55c1-b78e-fb53210a10a8",
+    "GUID": "e5a200ff-b0ac-5a97-b752-c70951eb697d",
     "type": "Person",
-    "mentions": 3
+    "mentions": 0
   },
   "Meghanada": {
     "GUID": "4c02c86e-e8e3-5d6d-83e8-fd64cca66113",
@@ -310,14 +310,14 @@
     "mentions": 2
   },
   "Vibhishana": {
-    "GUID": "e27b4b50-4c4f-55e9-ab76-2de34f6bef11",
+    "GUID": "c488eb90-3697-509e-a6e0-6e21e3e7016a",
     "type": "Person",
-    "mentions": 2
+    "mentions": 0
   },
   "Ravana": {
-    "GUID": "16ba2662-ce07-5d43-a473-c76f315760b0",
+    "GUID": "bd0de9a0-31cf-5d44-a235-0bb9ad93b7fa",
     "type": "Person",
-    "mentions": 6
+    "mentions": 0
   },
   "Maricha": {
     "GUID": "8f76a1e1-8073-5fd2-9bb4-64cd9ee1240d",
@@ -350,14 +350,14 @@
     "mentions": 1
   },
   "Bharata (king)": {
-    "GUID": "de34b159-a1ca-5007-b928-6609df1fd4a7",
+    "GUID": "a78f9648-db8f-54ea-b476-da24a1a48e8c",
     "type": "Person",
-    "mentions": 40
+    "mentions": 0
   },
   "Bhagiratha": {
-    "GUID": "301dc7cf-b1e1-59ea-b770-cddbc4d71127",
+    "GUID": "81c19c56-e102-592e-a730-da06525cd43e",
     "type": "Person",
-    "mentions": 1
+    "mentions": 0
   },
   "Ikshvaku": {
     "GUID": "bcda143f-22fe-5876-a241-f13140b53af3",
@@ -415,9 +415,9 @@
     "mentions": 51
   },
   "Chyavana": {
-    "GUID": "eea6ea23-ae4f-5aa7-9e1f-36bd1a34c753",
+    "GUID": "a372cc1e-4240-5395-bc53-ec3c3670382d",
     "type": "Person",
-    "mentions": 3
+    "mentions": 0
   },
   "Uddalaka": {
     "GUID": "9422b674-4cc2-57d7-82a4-fa7eee221a25",
@@ -455,29 +455,29 @@
     "mentions": 114
   },
   "Janamejaya": {
-    "GUID": "e2804996-1e6a-5ff3-9eb3-e823925c8032",
+    "GUID": "9c1aea96-8590-5084-b58f-9cc25d0eca7f",
     "type": "Person",
-    "mentions": 1
+    "mentions": 0
   },
   "Parikshit": {
-    "GUID": "55694c76-1a82-5058-b319-032a116bb5a2",
+    "GUID": "4344b4fb-09d9-5810-8902-4bc2222bf3aa",
     "type": "Person",
-    "mentions": 4
+    "mentions": 0
   },
   "Janaka": {
-    "GUID": "e8e8e522-2951-5abc-b8ad-cea51ed124b1",
+    "GUID": "0c52ff55-0316-57c2-914c-eb9b828cbb2c",
     "type": "Person",
-    "mentions": 24
+    "mentions": 0
   },
   "Lava": {
-    "GUID": "b07df5bd-9d30-570b-bdf5-66b94f0a8bc0",
+    "GUID": "1a201cb9-98eb-5707-aa22-5117a0192f2e",
     "type": "Person",
-    "mentions": 9
+    "mentions": 0
   },
   "Kusha": {
-    "GUID": "f4240f1a-0fd8-5f97-b72c-8a27e2217e3d",
+    "GUID": "6cc74aa4-46c9-5fec-8f30-6a23251138c2",
     "type": "Person",
-    "mentions": 46
+    "mentions": 0
   },
   "Nimi": {
     "GUID": "38267b68-9b77-5fe2-b349-aa1938a84845",
@@ -500,9 +500,9 @@
     "mentions": 32
   },
   "Mathura": {
-    "GUID": "43f3564e-77ab-519d-848d-1a49e53e1c95",
+    "GUID": "3700bf98-fdaf-5212-ae32-80961b5f583c",
     "type": "Place",
-    "mentions": 2
+    "mentions": 0
   },
   "Vrindavan": {
     "GUID": "dc420a49-956e-5826-9a05-ccb9a9cfadfd",
@@ -640,179 +640,179 @@
     "mentions": 2
   },
   "Satyaloka": {
-    "GUID": "10d46c3f-81a0-5de3-a05c-c12a4da2b85a",
-    "type": "Loka",
-    "mentions": 2
+    "GUID": "349ea387-a747-5bbe-a42a-30775b7fb732",
+    "type": "Place",
+    "mentions": 9
   },
   "Dharma": {
-    "GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+    "GUID": "95408ca2-1f93-5d54-ae3c-02c9579e4231",
     "type": "Concept",
-    "mentions": 566
+    "mentions": 0
   },
   "Karma": {
-    "GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+    "GUID": "a0c394b0-807e-58cd-9a09-538e1c3b641e",
     "type": "Concept",
-    "mentions": 3236
+    "mentions": 0
   },
   "Moksha": {
-    "GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+    "GUID": "5e400021-96aa-55b8-a4e7-44328405a6c8",
     "type": "Concept",
-    "mentions": 312
+    "mentions": 0
   },
   "Bhakti": {
-    "GUID": "80a16920-1c5c-52c8-ad33-2f782f77ef73",
+    "GUID": "77320820-b664-5118-ac2d-d0035f2479ac",
     "type": "Concept",
-    "mentions": 343
+    "mentions": 0
   },
   "Jnana": {
-    "GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+    "GUID": "532eb92c-0b69-5902-ba99-5301f68c520c",
     "type": "Concept",
-    "mentions": 1583
+    "mentions": 0
   },
   "Yoga": {
-    "GUID": "02f5caaa-272f-5a26-bf11-c7c7a4fd546c",
-    "type": "School",
-    "mentions": 725
+    "GUID": "08519a11-8511-53ec-ba7e-17ed3366c8fc",
+    "type": "Concept",
+    "mentions": 0
   },
   "Brahman": {
-    "GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+    "GUID": "690e7f77-ce94-528b-a87c-274d2c861364",
     "type": "Concept",
-    "mentions": 3202
+    "mentions": 0
   },
   "Atman": {
-    "GUID": "446d7abe-0630-597a-b67a-13137588c017",
+    "GUID": "ff689ba8-d04b-5b6e-9381-934f2059df58",
     "type": "Concept",
-    "mentions": 1080
+    "mentions": 0
   },
   "Maya": {
-    "GUID": "0dbf9a8e-18cf-58b4-b9b3-94c8abdba0c3",
+    "GUID": "5523b4dc-c134-57ea-92c7-3f42d170b177",
     "type": "Concept",
-    "mentions": 277
+    "mentions": 0
   },
   "Prakriti": {
-    "GUID": "aa50128f-c0b8-537a-8c49-7f6600b11ff5",
+    "GUID": "cf9160be-6107-52a9-b9c7-0bfd884cf81b",
     "type": "Concept",
-    "mentions": 332
+    "mentions": 0
   },
   "Purusha": {
-    "GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81",
+    "GUID": "31c214ef-ab5c-56e3-b0c3-43acb43ff568",
     "type": "Concept",
-    "mentions": 519
+    "mentions": 0
   },
   "Gunas": {
-    "GUID": "2825f7a9-fb80-5f3e-84bc-f02d0135df85",
+    "GUID": "a1011a3f-20f2-578a-827a-d78f866a087c",
     "type": "Concept",
-    "mentions": 1127
+    "mentions": 0
   },
   "Samsara": {
-    "GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+    "GUID": "762bd9cf-201a-5cf0-8e15-438652efe976",
     "type": "Concept",
-    "mentions": 221
+    "mentions": 0
   },
   "Ahimsa": {
-    "GUID": "727d421b-7cfc-5431-97e0-4840b6fa1600",
+    "GUID": "75024a55-021b-5b54-85e7-0df16dd58f1f",
     "type": "Concept",
-    "mentions": 38
+    "mentions": 0
   },
   "Satya": {
-    "GUID": "18329483-2107-5e54-8843-292610f53dac",
+    "GUID": "a7c38ea2-4088-524b-b10e-22be65732c79",
     "type": "Concept",
-    "mentions": 248
+    "mentions": 0
   },
   "Tapas": {
-    "GUID": "8076377a-f090-5041-8827-b34ed259f936",
+    "GUID": "d24c750c-3927-57db-8816-cd5b96795deb",
     "type": "Concept",
-    "mentions": 129
+    "mentions": 0
   },
   "Dana": {
-    "GUID": "f4b499a9-ae05-5112-aee9-881d915867ed",
+    "GUID": "f6d96655-5224-55f9-bbf8-3953d495c5ae",
     "type": "Concept",
-    "mentions": 79
+    "mentions": 0
   },
   "Dhyana": {
-    "GUID": "cd504b3b-da2e-5d89-96db-f0a0167e57b1",
+    "GUID": "f67095c2-1698-5607-8ef2-efe07f19ae70",
     "type": "Concept",
-    "mentions": 86
+    "mentions": 0
   },
   "Mantra": {
-    "GUID": "cc585462-4108-5808-accb-261dba2b2c22",
+    "GUID": "eee11951-9991-5887-9437-5234a1c8efc7",
     "type": "Concept",
-    "mentions": 121
+    "mentions": 0
   },
   "Yajna": {
-    "GUID": "2390c087-9d5b-536a-94f6-06e61f39e2b2",
+    "GUID": "ca8ec29d-3f1c-55b2-8a06-f36eb30dcf75",
     "type": "Concept",
-    "mentions": 728
+    "mentions": 0
   },
   "Homa": {
-    "GUID": "69b54fae-2651-5564-8361-00ed68787396",
-    "type": "Ritual",
-    "mentions": 43
+    "GUID": "22dae880-934b-5a75-a557-4ad15cd8bd37",
+    "type": "Concept",
+    "mentions": 0
   },
   "Shraddha": {
-    "GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14",
+    "GUID": "19ef1cee-1b16-5010-8c0f-b975e64a724a",
     "type": "Concept",
-    "mentions": 184
+    "mentions": 0
   },
   "Diksha": {
-    "GUID": "a4d1aed8-ce01-5370-bb4a-921dc5123d0d",
+    "GUID": "9166b9fe-c7fd-5f6f-92eb-a809ac62fb39",
     "type": "Concept",
-    "mentions": 53
+    "mentions": 0
   },
   "Pranayama": {
-    "GUID": "58b7d7a5-9ea4-5fd4-80e3-e3ed9e02fa79",
+    "GUID": "f4f71b23-d479-566c-92aa-4bb8d9cdf1d6",
     "type": "Concept",
-    "mentions": 23
+    "mentions": 0
   },
   "Varna": {
-    "GUID": "e50d17c3-ccd6-58aa-9927-0bb53d4f2776",
+    "GUID": "4c27b30e-9805-50af-8c74-166ddc977ecb",
     "type": "Concept",
-    "mentions": 94
+    "mentions": 0
   },
   "Ashrama": {
-    "GUID": "51779aea-62bb-5fa7-9348-332dc60660a2",
+    "GUID": "a0ab41b9-8da1-5167-a979-fc8b6db3f4e5",
     "type": "Concept",
-    "mentions": 25
+    "mentions": 0
   },
   "Tattva": {
-    "GUID": "b19e4e1c-ae8c-5666-b487-2f9a9c648de4",
+    "GUID": "2e114275-5fa3-52e1-9bfa-46084b97347b",
     "type": "Concept",
-    "mentions": 305
+    "mentions": 0
   },
   "Vidya": {
-    "GUID": "695636a4-4b5f-5a9e-881a-a0a854409a1a",
+    "GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
     "type": "Concept",
-    "mentions": 352
+    "mentions": 0
   },
   "Upanishad": {
-    "GUID": "9d9f5222-559c-5783-bbb9-87ebfe77f169",
+    "GUID": "bf702797-8e91-5113-86f5-61949da30833",
     "type": "Concept",
-    "mentions": 7
+    "mentions": 0
   },
   "Nyaya": {
-    "GUID": "1ad8fdf9-f0b8-5801-a1da-a523ef911029",
+    "GUID": "a33c2e78-9edd-58d4-a94c-b40f1b93b5c7",
     "type": "Concept",
-    "mentions": 32
+    "mentions": 0
   },
   "Vaisheshika": {
-    "GUID": "f13c48b7-8d8a-561e-8bb1-90e34fe7456a",
+    "GUID": "8ea8cc72-693d-55c9-b36b-baa23dbc54d6",
     "type": "Concept",
-    "mentions": 1
+    "mentions": 0
   },
   "Mimamsa": {
-    "GUID": "053464f6-001c-5317-8441-d14a0809ea9d",
+    "GUID": "39edb359-e92f-5ec4-b1d2-a7669e666031",
     "type": "Concept",
-    "mentions": 27
+    "mentions": 0
   },
   "Sankhya": {
-    "GUID": "29da07d9-785f-5305-81df-9caee5cce5af",
+    "GUID": "e79c2751-f550-50b9-810c-f51d9ea6085f",
     "type": "Concept",
-    "mentions": 34
+    "mentions": 0
   },
   "Vedanta": {
-    "GUID": "eebb15e3-2098-57e6-8bb0-66351ac2b001",
+    "GUID": "8d71b529-c7dd-508f-8361-08a22c3bb5fe",
     "type": "Concept",
-    "mentions": 77
+    "mentions": 0
   },
   "Chakra": {
     "GUID": "2c5998cf-d0fb-5414-a162-ee399b530f56",
@@ -960,9 +960,9 @@
     "mentions": 6
   },
   "Solar Dynasty": {
-    "GUID": "07bfffa4-e710-52f3-a72a-a14be25ec744",
+    "GUID": "684139ea-ca71-5386-83c6-7e2169ea44fe",
     "type": "Dynasty",
-    "mentions": 1
+    "mentions": 0
   },
   "Matsya Avatar": {
     "GUID": "84f7b32e-0301-5526-bdb1-8f4c46ceec9f",
@@ -990,9 +990,9 @@
     "mentions": 9
   },
   "Parashurama": {
-    "GUID": "26345966-1bab-5422-987a-d0e30910bc5d",
-    "type": "Avatar",
-    "mentions": 18
+    "GUID": "dbeba190-3713-54ea-945c-3baaaace6cbe",
+    "type": "Person",
+    "mentions": 0
   },
   "Buddha": {
     "GUID": "b4c8417f-c4ef-561c-9e7f-9eae67da6e88",
@@ -1040,9 +1040,9 @@
     "mentions": 1
   },
   "Agnihotra": {
-    "GUID": "2496f48b-d932-579f-83d0-9868a75570a4",
+    "GUID": "6eea71a3-c72f-5dd8-8732-0c0b123159f7",
     "type": "Ritual",
-    "mentions": 203
+    "mentions": 0
   },
   "Pravargya": {
     "GUID": "26edcac0-059e-5db0-9a6d-97578e11f07c",
@@ -1050,9 +1050,9 @@
     "mentions": 88
   },
   "Upanayana": {
-    "GUID": "3fbaf681-2fd5-5bc0-8cd2-1126a96fdbb5",
+    "GUID": "f846d9bc-2de9-5006-9544-6611a8f39d8f",
     "type": "Ritual",
-    "mentions": 4
+    "mentions": 0
   },
   "Samavartana": {
     "GUID": "0be53e87-dc5f-56a6-9e38-c62f277bee80",
@@ -1060,9 +1060,9 @@
     "mentions": 1
   },
   "Japa": {
-    "GUID": "78a5d49b-0a89-5dfb-8759-45bae8a2852f",
+    "GUID": "ea12e6c1-470e-58c2-91dd-3a66151196c9",
     "type": "Ritual",
-    "mentions": 32
+    "mentions": 0
   },
   "Tapa": {
     "GUID": "1d7112c4-9a3d-511b-b11d-110f6573d204",
@@ -1070,9 +1070,9 @@
     "mentions": 70
   },
   "Vrata": {
-    "GUID": "2b227115-9699-5379-929c-a6f57a488ab7",
+    "GUID": "5ca3a614-238d-5e23-a8a4-8604ba85185f",
     "type": "Ritual",
-    "mentions": 86
+    "mentions": 0
   },
   "Advaita": {
     "GUID": "41acecb1-1d9a-5d10-8914-8b749587c385",
@@ -1085,9 +1085,9 @@
     "mentions": 14
   },
   "Budha": {
-    "GUID": "e9f65d08-c265-5195-b79f-890b616546d6",
-    "type": "Graha",
-    "mentions": 3
+    "GUID": "43af1f9d-4d8f-57d1-b53d-e3c7480024af",
+    "type": "Person",
+    "mentions": 0
   },
   "Ketu": {
     "GUID": "3b032486-c548-5d70-b0b7-1a42e57bfe9b",
@@ -1155,14 +1155,14 @@
     "mentions": 3963
   },
   "Dasharatha": {
-    "GUID": "d450db10-480a-5943-8955-bfcccbf6c4a8",
+    "GUID": "667f2ea4-6c5e-5360-96c1-232ec1e0b95e",
     "type": "Person",
-    "mentions": 294
+    "mentions": 0
   },
   "Shatrughna": {
-    "GUID": "23685a93-9d29-57d9-8594-c7978985dd66",
+    "GUID": "9c54b20d-1f1e-5bf4-9911-6121314b17ac",
     "type": "Person",
-    "mentions": 106
+    "mentions": 0
   },
   "Shrutakirti": {
     "GUID": "d00b46f2-3299-536f-8465-9640a681c4f1",
@@ -1180,14 +1180,14 @@
     "mentions": 25
   },
   "Kausalya": {
-    "GUID": "2163d2d5-9638-5674-a2d1-bf358ee38b2c",
+    "GUID": "f29bc244-3a47-5718-ae33-a57584448d78",
     "type": "Person",
-    "mentions": 55
+    "mentions": 0
   },
   "Sumitra": {
-    "GUID": "2f2940cd-f9ed-5e31-8f73-1edbd6f045b6",
+    "GUID": "5c04c097-f688-5c3b-ab5e-444e974acb70",
     "type": "Person",
-    "mentions": 54
+    "mentions": 0
   },
   "Kaushiki": {
     "GUID": "6da7fd03-7acf-52e6-b44a-cfa4dc63a7f1",
@@ -1200,9 +1200,9 @@
     "mentions": 106
   },
   "Kumbhakarna": {
-    "GUID": "5cb62be6-8bca-551c-8d01-081f5b8f0ee2",
+    "GUID": "d27e0ba3-7992-5995-95d7-7cbd5c75d475",
     "type": "Person",
-    "mentions": 64
+    "mentions": 0
   },
   "Indrajit": {
     "GUID": "28f6d28d-0640-5246-9972-97474e31b76d",
@@ -1441,18 +1441,18 @@
   },
   "Shakti": {
     "GUID": "e87c29ca-c6d9-597f-84ba-0de12e8db5a2",
-    "type": "Concept",
-    "mentions": 7197
+    "type": "Weapon",
+    "mentions": 14394
   },
   "Avidya": {
-    "GUID": "f8a66209-7280-51d8-b7be-14d61e7f8723",
+    "GUID": "9c0862be-6584-5b88-955b-c23ef770ca8e",
     "type": "Concept",
-    "mentions": 414
+    "mentions": 0
   },
   "Lunar Dynasty": {
-    "GUID": "92ecb984-a0a0-5192-88de-1a27d5654bf9",
+    "GUID": "e6fa1394-b908-5cee-ac2f-408f2ed5ec57",
     "type": "Dynasty",
-    "mentions": 174
+    "mentions": 0
   },
   "Pandava": {
     "GUID": "02db3a5f-b883-54c9-86d1-c8fe2381c061",
@@ -1465,19 +1465,19 @@
     "mentions": 321
   },
   "Yadu": {
-    "GUID": "a5992ca4-4e87-5c0a-b24c-128ad9977663",
-    "type": "Dynasty",
-    "mentions": 2116
+    "GUID": "4d0f7388-6f7e-5483-a06e-a1a9f01285da",
+    "type": "Person",
+    "mentions": 0
   },
   "Puru": {
-    "GUID": "84ba41fc-40d5-5577-9b8e-735d860ab92c",
-    "type": "Dynasty",
-    "mentions": 24
+    "GUID": "b6ec358a-148e-5a78-8c29-73a1f1d771e4",
+    "type": "Person",
+    "mentions": 0
   },
   "Kaikeyi": {
-    "GUID": "49e1a84d-77db-584f-87b2-b4bcded02b5b",
+    "GUID": "4302177c-6371-59aa-a9e6-481e83828a22",
     "type": "Person",
-    "mentions": 61
+    "mentions": 0
   },
   "Mandavi": {
     "GUID": "2f5b5235-6421-5b21-918e-d3727340dc11",
@@ -1548,5 +1548,345 @@
     "GUID": "445eb43b-a035-5c3b-92f4-1eaab9725f1f",
     "type": "Person",
     "mentions": 8
+  },
+  "Vikukshi": {
+    "GUID": "453464e5-61dc-5661-b043-d8133a6138aa",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Shashada": {
+    "GUID": "0d02f567-892a-5282-979a-d9a1ec4ee086",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Kakutshta": {
+    "GUID": "71a4d510-e3d7-5a27-b02e-21f4320c027c",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Mithila": {
+    "GUID": "0d34b090-02f1-5452-ba3d-8b3659b3a036",
+    "type": "Place",
+    "mentions": 0
+  },
+  "Pururavas": {
+    "GUID": "9d55f794-233d-5a71-9f43-0d3be76e4d84",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Ayus": {
+    "GUID": "8b82d7fb-9221-55ce-b44d-154358258aec",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Nahusha": {
+    "GUID": "cbef505b-f821-534b-a08c-83b82070d32c",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Yayati": {
+    "GUID": "4e400843-6a27-5dfd-95e7-5978e51ea6bc",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Yadava Dynasty": {
+    "GUID": "8f780a6e-cf78-517f-a2f1-3eae56785c58",
+    "type": "Dynasty",
+    "mentions": 0
+  },
+  "Kuru Dynasty": {
+    "GUID": "df2a1b90-8aa7-5bcf-bc09-e58effe7b05c",
+    "type": "Dynasty",
+    "mentions": 0
+  },
+  "Vyas": {
+    "GUID": "e1571961-733b-59a5-8a43-ea621d55663f",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Madri": {
+    "GUID": "dbf78c0d-cfb7-5bd7-8caa-70cbade6a4a5",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Abhimanyu": {
+    "GUID": "cffaf28b-8d75-5fe6-9368-76e5d8244e10",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Uttara": {
+    "GUID": "3d9c5524-ec66-5011-a949-f92b0a32f6fd",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Vishrava": {
+    "GUID": "165de455-2e30-5540-b6e9-fc04fde9b9bb",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Surpanakha": {
+    "GUID": "0f8f0b6c-c6b2-5bd3-a250-257b58490c9a",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Bhrigu": {
+    "GUID": "8d12c98b-5578-5213-af65-61f3ba958438",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Bhrigu Dynasty": {
+    "GUID": "c8159aba-60e4-59aa-b32c-b102d40eeaba",
+    "type": "Dynasty",
+    "mentions": 0
+  },
+  "Shukracharya": {
+    "GUID": "bef1d5df-5e9e-5f33-a1d4-80982f5d93b7",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Pratardana": {
+    "GUID": "dde3e03a-ef07-5a8c-92cb-0685f95826b3",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Shunahshepa": {
+    "GUID": "25e4cf11-7713-5a17-83ec-0541548f37f3",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Angirasa Dynasty": {
+    "GUID": "1a8b6fa5-bb8a-5a06-950c-648823e0f642",
+    "type": "Dynasty",
+    "mentions": 0
+  },
+  "Saptarishis": {
+    "GUID": "4e1b4950-aad8-55c9-94e1-cab38f1c6386",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Kashyapa": {
+    "GUID": "ac89d29e-9ce0-5b56-bbff-4cb9c0a20693",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Ashvatthama": {
+    "GUID": "266d53eb-06aa-5e52-9268-33b51754ff53",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Vasudeva": {
+    "GUID": "4ffd8e6d-e349-56ba-b76c-3a502409da63",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Devaki": {
+    "GUID": "78a2c8de-4258-503f-be68-284e7a6734a1",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Rohini": {
+    "GUID": "ecdf6718-53e3-5201-9b9a-d208b7e03063",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Ugrasena": {
+    "GUID": "105cecd0-b67d-50c1-9cbf-34c043e5b6ac",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Kamsa": {
+    "GUID": "fb965ad8-84fc-5445-b699-95f19cbc42d3",
+    "type": "Person",
+    "mentions": 0
+  },
+  "rta": {
+    "GUID": "788cede7-6f8d-5ad9-8a76-914573204174",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "sattva": {
+    "GUID": "609b5416-d3e9-5913-9bd3-28b9b82827ef",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "rajas": {
+    "GUID": "be29083c-3b7c-5d7b-9554-e7a61bed5c2e",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "tamas": {
+    "GUID": "f4728193-3503-5d28-8f2d-305546ca7861",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "truthfulness": {
+    "GUID": "6524ebdd-e9c7-58de-abde-661b8881f97e",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "ignorance": {
+    "GUID": "b2be0792-c668-5d32-8028-606ba9af4c6c",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "initiation": {
+    "GUID": "c94ca856-fac8-5fa6-80f1-3867c2ad82f3",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Ashvamedha": {
+    "GUID": "b9ece0f3-e8fb-508f-9b7f-fa75d9437ea9",
+    "type": "Ritual",
+    "mentions": 0
+  },
+  "Rajasuya": {
+    "GUID": "94896c2b-f15f-510e-9ccd-d28f97f6c4d7",
+    "type": "Ritual",
+    "mentions": 0
+  },
+  "Soma Yajna": {
+    "GUID": "81fa5532-7e16-5ce9-b394-c5a56335a412",
+    "type": "Ritual",
+    "mentions": 0
+  },
+  "Vivaha": {
+    "GUID": "19e54649-213d-5835-85cb-8d7ef83a2976",
+    "type": "Ritual",
+    "mentions": 0
+  },
+  "Antyeshti": {
+    "GUID": "346ad97c-c063-5706-8803-f3cb18685bd9",
+    "type": "Ritual",
+    "mentions": 0
+  },
+  "Pitri Paksha": {
+    "GUID": "c0bb0236-e86a-5930-88f9-f38dea594e55",
+    "type": "Ritual",
+    "mentions": 0
+  },
+  "Ancestors": {
+    "GUID": "f8b5772b-de96-5dd8-acc2-9d037b0befb8",
+    "type": "Person",
+    "mentions": 0
+  },
+  "Bhagavad Gita": {
+    "GUID": "778131a8-d2fe-54fe-9368-d1e6d677772a",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Bhagavata Purana": {
+    "GUID": "b1000544-3da5-552e-9639-7e484fdc615f",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Harivamsa": {
+    "GUID": "a6b0f523-b6be-5889-9328-1bf71e91eeef",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Vishnu Purana": {
+    "GUID": "e6fa5ad7-e046-50c8-aa70-d1dd2760e1cd",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Brahma Vaivarta Purana": {
+    "GUID": "39b3bbab-d652-5812-8ca7-d49c86e708b2",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Ramayana": {
+    "GUID": "04b3e357-5894-5a59-84cc-e8f4b60fcb0f",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Rigveda": {
+    "GUID": "ff19c228-ac03-5f84-8ca5-f088159a2489",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Garuda Purana": {
+    "GUID": "15753956-3558-5f9b-b442-00a5ab330979",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Shiva Purana": {
+    "GUID": "969c5de3-acf2-5711-9888-e80657c39fae",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Skanda Purana": {
+    "GUID": "19df1f0a-b2db-544d-9a9a-9ae319e47c7c",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Brahma Purana": {
+    "GUID": "3e2aeb47-9eda-56bf-983f-2e77a9ecc664",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Brahmanda Purana": {
+    "GUID": "c53c4ae3-fd42-5109-8698-e8497decda54",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Brihadaranyaka Upanishad": {
+    "GUID": "1d46502e-6e3d-59fe-9569-680cac11156e",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Chandogya Upanishad": {
+    "GUID": "4d9ea88d-99f5-55a6-bc8f-115da0247180",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Katha Upanishad": {
+    "GUID": "303a205c-76c9-5f93-bc78-14ef9530a491",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Mundaka Upanishad": {
+    "GUID": "439a82bd-d87d-5c8c-8db3-f0fcf71afdc5",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Mandukya Upanishad": {
+    "GUID": "c39eec2f-4e33-5995-98dc-ad72a0d34d42",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Yoga Sutras": {
+    "GUID": "22325dc0-2a2b-5d88-8586-7d60954dc904",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Shvetashvatara Upanishad": {
+    "GUID": "8df24573-ddd2-5740-bccc-aa67a654c43c",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Manusmriti": {
+    "GUID": "2f80f387-dbd5-574b-9f6d-de96cac61e73",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Dharmasutras": {
+    "GUID": "416a5d1c-a86b-519f-ac12-8044dd869b2d",
+    "type": "Entity",
+    "mentions": 0
+  },
+  "Tat Tvam Asi": {
+    "GUID": "1dc16e82-f7c9-5a9f-bf4d-bbcf5dac85e4",
+    "type": "Concept",
+    "mentions": 0
+  },
+  "Aham Brahmasmi": {
+    "GUID": "d8f87337-0536-5ad5-b701-08745b0653a4",
+    "type": "Concept",
+    "mentions": 0
+  },
+  "Pratyanoha": {
+    "GUID": "b9eaf860-3bfc-5db5-b3c6-57ce6d060c85",
+    "type": "Concept",
+    "mentions": 0
   }
 }

@@ -1,144 +1,417 @@
 {
   "type": "event_graph",
+  "generated": "2026-07-17T15:24:24.647755",
+  "description": "Canonical events from Hindu scriptures",
   "events": [
     {
       "name": "Mahabharata War",
+      "type": "battle",
       "participants": [
         "Arjuna",
         "Duryodhana",
         "Bhishma",
         "Drona",
-        "Krishna"
+        "Krishna",
+        "Bhima",
+        "Karna"
       ],
-      "location": "Kurukshetra"
-    },
-    {
-      "name": "Sita Swayamvara",
-      "participants": [
-        "Rama",
-        "Sita",
-        "Janaka"
-      ],
-      "location": "Mithila"
-    },
-    {
-      "name": "Samudra Manthan",
-      "participants": [
-        "Devas",
-        "Asuras",
-        "Vishnu",
-        "Shiva"
-      ],
-      "location": "Kshirasagara"
-    },
-    {
-      "name": "Daksha Yajna",
-      "participants": [
-        "Shiva",
-        "Sati",
-        "Daksha"
-      ],
-      "location": "Kailasa"
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "context": "18-day war between Pandavas and Kauravas",
+      "confidence": 95
     },
     {
       "name": "Bhagavad Gita Teaching",
+      "type": "teaching",
       "participants": [
         "Krishna",
         "Arjuna"
       ],
-      "location": "Kurukshetra"
+      "location": "Kurukshetra",
+      "scripture": "Bhagavad Gita",
+      "context": "Krishna's discourse on dharma, yoga, and atman",
+      "confidence": 98
     },
     {
-      "name": "Churning of Milk Ocean",
+      "name": "Draupadi Vastraharana",
+      "type": "humiliation",
       "participants": [
-        "Vishnu",
-        "Shesha",
-        "Devas",
-        "Asuras"
+        "Draupadi",
+        "Duryodhana",
+        "Bhishma",
+        "Dhritarashtra"
       ],
-      "location": "Kshirasagara"
+      "location": "Hastinapura",
+      "scripture": "Mahabharata",
+      "context": "Draupadi's disrobing in the dice hall",
+      "confidence": 95
     },
     {
-      "name": "Rama Exile",
+      "name": "Burning of Khandava Forest",
+      "type": "battle",
+      "participants": [
+        "Arjuna",
+        "Krishna",
+        "Agni"
+      ],
+      "location": "Khandava",
+      "scripture": "Mahabharata",
+      "context": "Agni burns the forest with Arjuna and Krishna's help",
+      "confidence": 90
+    },
+    {
+      "name": "Guru Dakshina War",
+      "type": "battle",
+      "participants": [
+        "Arjuna",
+        "Drona",
+        "Duryodhana"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "context": "Arjuna defeats Drupada for Drona's guru dakshina",
+      "confidence": 85
+    },
+    {
+      "name": "Chakravyuha",
+      "type": "battle",
+      "participants": [
+        "Abhimanyu",
+        "Drona",
+        "Arjuna"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "context": "Abhimanyu enters the discus formation alone",
+      "confidence": 90
+    },
+    {
+      "name": "Ghatotkacha Death",
+      "type": "death",
+      "participants": [
+        "Ghatotkacha",
+        "Karna"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "context": "Karna kills Ghatotkacha with Shakti weapon",
+      "confidence": 85
+    },
+    {
+      "name": "Sita Swayamvara",
+      "type": "marriage",
+      "participants": [
+        "Rama",
+        "Sita",
+        "Janaka",
+        "Lakshmana"
+      ],
+      "location": "Mithila",
+      "scripture": "Ramayana",
+      "context": "Rama breaks Shiva's bow and wins Sita",
+      "confidence": 95
+    },
+    {
+      "name": "Rama's Exile",
+      "type": "exile",
       "participants": [
         "Rama",
         "Lakshmana",
         "Sita",
         "Dasharatha"
       ],
-      "location": "Dandakaranya"
+      "location": "Ayodhya → Dandakaranya",
+      "scripture": "Ramayana",
+      "context": "14-year exile to the forest",
+      "confidence": 95
     },
     {
-      "name": "Burning of Khandava",
+      "name": "Sita Kidnapping",
+      "type": "abduction",
       "participants": [
-        "Arjuna",
-        "Krishna",
-        "Agni"
+        "Sita",
+        "Ravana",
+        "Maricha"
       ],
-      "location": "Khandava"
+      "location": "Dandakaranya",
+      "scripture": "Ramayana",
+      "context": "Ravana abducts Sita in golden deer disguise",
+      "confidence": 95
+    },
+    {
+      "name": "Hanuman's Leap to Lanka",
+      "type": "journey",
+      "participants": [
+        "Hanuman",
+        "Ravana"
+      ],
+      "location": "Lanka",
+      "scripture": "Ramayana",
+      "context": "Hanuman crosses the ocean to find Sita",
+      "confidence": 95
+    },
+    {
+      "name": "Burning of Lanka",
+      "type": "battle",
+      "participants": [
+        "Hanuman",
+        "Ravana"
+      ],
+      "location": "Lanka",
+      "scripture": "Ramayana",
+      "context": "Hanuman burns Lanka with his tail",
+      "confidence": 90
+    },
+    {
+      "name": "Killing of Ravana",
+      "type": "battle",
+      "participants": [
+        "Rama",
+        "Hanuman",
+        "Ravana",
+        "Kumbhakarna",
+        "Indrajit"
+      ],
+      "location": "Lanka",
+      "scripture": "Ramayana",
+      "context": "Rama slays Ravana with Brahmastra",
+      "confidence": 95
+    },
+    {
+      "name": "Rama's Coronation",
+      "type": "coronation",
+      "participants": [
+        "Rama",
+        "Sita",
+        "Bharata",
+        "Lakshmana"
+      ],
+      "location": "Ayodhya",
+      "scripture": "Ramayana",
+      "context": "Rama returns from exile and is crowned king",
+      "confidence": 95
+    },
+    {
+      "name": "Samudra Manthan",
+      "type": "yajna",
+      "participants": [
+        "Devas",
+        "Asuras",
+        "Vishnu",
+        "Shiva",
+        "Lakshmi"
+      ],
+      "location": "Kshirasagara",
+      "scripture": "Bhagavata Purana",
+      "context": "Churning of the cosmic ocean for amrita",
+      "confidence": 90
+    },
+    {
+      "name": "Daksha Yajna",
+      "type": "yajna",
+      "participants": [
+        "Shiva",
+        "Sati",
+        "Daksha",
+        "Virabhadra"
+      ],
+      "location": "Kailasa",
+      "scripture": "Shiva Purana",
+      "context": "Shiva destroys Daksha's sacrifice",
+      "confidence": 90
     },
     {
       "name": "Gajendra Moksha",
+      "type": "liberation",
       "participants": [
         "Gajendra",
         "Vishnu"
       ],
-      "location": "Bhuloka"
-    },
-    {
-      "name": "Draupadi Vastraharana",
-      "participants": [
-        "Draupadi",
-        "Duryodhana",
-        "Bhishma"
-      ],
-      "location": "Hastinapura"
-    },
-    {
-      "name": "Hanuman Leap to Lanka",
-      "participants": [
-        "Hanuman",
-        "Ravana"
-      ],
-      "location": "Lanka"
-    },
-    {
-      "name": "Killing of Ravana",
-      "participants": [
-        "Rama",
-        "Hanuman",
-        "Ravana"
-      ],
-      "location": "Lanka"
+      "location": "Bhuloka",
+      "scripture": "Bhagavata Purana",
+      "context": "Elephant king's devotion liberates him",
+      "confidence": 85
     },
     {
       "name": "Narasimha Avatar",
+      "type": "avatar",
       "participants": [
         "Narasimha",
         "Prahlada",
         "Hiranyakashipu"
       ],
-      "location": "Bhuloka"
+      "location": "Bhuloka",
+      "scripture": "Bhagavata Purana",
+      "context": "Vishnu appears as half-man half-lion to kill Hiranyakashipu",
+      "confidence": 90
     },
     {
       "name": "Vamana Avatar",
+      "type": "avatar",
       "participants": [
         "Vamana",
         "Bali",
         "Indra"
       ],
-      "location": "Bhuloka"
+      "location": "Bhuloka",
+      "scripture": "Vishnu Purana",
+      "context": "Vishnu as dwarf requests three steps from Bali",
+      "confidence": 90
     },
     {
-      "name": "Shakuntala Story",
+      "name": "Varaha Avatar",
+      "type": "avatar",
       "participants": [
-        "Shakuntala",
-        "Dushyanta"
+        "Varaha",
+        "Hiranyaksha"
       ],
-      "location": "Kanvashrama"
+      "location": "Cosmic",
+      "scripture": "Bhagavata Purana",
+      "context": "Boar avatar rescues Earth from cosmic waters",
+      "confidence": 85
+    },
+    {
+      "name": "Krishna Lifting Govardhana",
+      "type": "miracle",
+      "participants": [
+        "Krishna",
+        "Indra"
+      ],
+      "location": "Gokul",
+      "scripture": "Bhagavata Purana",
+      "context": "Krishna lifts mountain to shelter villagers from Indra's rain",
+      "confidence": 85
+    },
+    {
+      "name": "Kaliya Mardana",
+      "type": "battle",
+      "participants": [
+        "Krishna",
+        "Kaliya"
+      ],
+      "location": "Yamuna",
+      "scripture": "Bhagavata Purana",
+      "context": "Krishna subdues the serpent Kaliya",
+      "confidence": 85
+    },
+    {
+      "name": "Nachiketa and Yama",
+      "type": "teaching",
+      "participants": [
+        "Yama",
+        "Nachiketa"
+      ],
+      "location": "Naraka",
+      "scripture": "Katha Upanishad",
+      "context": "Yama teaches Nachiketa about atman and death",
+      "confidence": 90
+    },
+    {
+      "name": "Yajnavalkya at Janaka's Court",
+      "type": "teaching",
+      "participants": [
+        "Yajnavalkya",
+        "Janaka",
+        "Bhrigu"
+      ],
+      "location": "Mithila",
+      "scripture": "Brihadaranyaka Upanishad",
+      "context": "Yajnavalkya teaches about atman in philosophical debate",
+      "confidence": 85
+    },
+    {
+      "name": "Uddalaka Teaches Shvetaketu",
+      "type": "teaching",
+      "participants": [
+        "Uddalaka",
+        "Shvetaketu"
+      ],
+      "location": "Kuru-Panchala",
+      "scripture": "Chandogya Upanishad",
+      "context": "Tat Tvam Asi teaching — you are that",
+      "confidence": 90
+    },
+    {
+      "name": "Six Students Question Pippalada",
+      "type": "teaching",
+      "participants": [
+        "Pippalada",
+        "Six Students"
+      ],
+      "location": "Unknown",
+      "scripture": "Prashna Upanishad",
+      "context": "Six questions about cosmic origins",
+      "confidence": 85
+    },
+    {
+      "name": "Prahlada's Devotion",
+      "type": "devotion",
+      "participants": [
+        "Prahlada",
+        "Hiranyakashipu",
+        "Narasimha"
+      ],
+      "location": "Bhuloka",
+      "scripture": "Bhagavata Purana",
+      "context": "Prahlada's unshakeable devotion despite persecution",
+      "confidence": 85
+    },
+    {
+      "name": "Bhagiratha's Penance",
+      "type": "meditation",
+      "participants": [
+        "Bhagiratha"
+      ],
+      "location": "Himalaya",
+      "scripture": "Various Puranas",
+      "context": "Bhagiratha's penance to bring Ganga to earth",
+      "confidence": 85
+    },
+    {
+      "name": "Shiva Drinking Halahala",
+      "type": "cosmic",
+      "participants": [
+        "Shiva",
+        "Parvati"
+      ],
+      "location": "Kshirasagara",
+      "scripture": "Shiva Purana",
+      "context": "Shiva drinks poison from Samudra Manthan",
+      "confidence": 85
     }
   ],
   "stats": {
-    "total": 15
+    "total": 29,
+    "by_type": {
+      "battle": 1,
+      "teaching": 1,
+      "humiliation": 1,
+      "death": 1,
+      "marriage": 1,
+      "exile": 1,
+      "abduction": 1,
+      "journey": 1,
+      "coronation": 1,
+      "yajna": 1,
+      "liberation": 1,
+      "avatar": 1,
+      "miracle": 1,
+      "devotion": 1,
+      "meditation": 1,
+      "cosmic": 1
+    },
+    "by_scripture": {
+      "Mahabharata": 1,
+      "Bhagavad Gita": 1,
+      "Ramayana": 1,
+      "Bhagavata Purana": 1,
+      "Shiva Purana": 1,
+      "Vishnu Purana": 1,
+      "Katha Upanishad": 1,
+      "Brihadaranyaka Upanishad": 1,
+      "Chandogya Upanishad": 1,
+      "Prashna Upanishad": 1,
+      "Various Puranas": 1
+    }
   }
 }
