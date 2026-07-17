@@ -1,0 +1,19 @@
+{
+  "generated": "2026-07-17T16:47:19.434099",
+  "phase": "9.8",
+  "total": 29,
+  "without_participants": 0,
+  "without_location": 0,
+  "without_scripture": 0,
+  "duplicates": 0,
+  "unknown_participants": 13,
+  "issues": [],
+  "warnings": [
+    "Participants not in entity list: 13",
+    "  Hiranyaksha",
+    "  Nachiketa",
+    "  Daksha",
+    "  Ghatotkacha",
+    "  Virabhadra"
+  ]
+}

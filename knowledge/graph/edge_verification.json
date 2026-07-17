@@ -1,0 +1,17 @@
+{
+  "generated": "2026-07-17T16:47:19.431641",
+  "phase": "9.8",
+  "total_edges": 4987,
+  "mentioned_in": 4695,
+  "relationships": 292,
+  "broken_source": 0,
+  "broken_target": 0,
+  "duplicate_edge_guids": 0,
+  "duplicate_edges": 11,
+  "self_loops": 0,
+  "low_confidence": 0,
+  "issues": [
+    "Duplicate edges (same source+target+type): 11"
+  ],
+  "warnings": []
+}

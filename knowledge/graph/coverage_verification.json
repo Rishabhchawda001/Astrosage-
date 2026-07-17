@@ -1,0 +1,815 @@
+{
+  "generated": "2026-07-17T16:47:19.434609",
+  "phase": "9.8",
+  "total_scriptures": 54,
+  "zero_coverage": 7,
+  "low_coverage": 7,
+  "coverage": [
+    {
+      "scripture": "AV",
+      "id": "AV",
+      "entities_linked": 228,
+      "entity_names": [
+        "Advaita",
+        "Agni",
+        "Agnihotra",
+        "Ahimsa",
+        "Aja",
+        "Ambarisha",
+        "Ananta",
+        "Anga",
+        "Angirasa",
+        "Arjuna"
+      ]
+    },
+    {
+      "scripture": "BRAH",
+      "id": "BRAH",
+      "entities_linked": 227,
+      "entity_names": [
+        "Advaita",
+        "Agneyastra",
+        "Agni",
+        "Agnihotra",
+        "Ahalya",
+        "Ahimsa",
+        "Aja",
+        "Ananta",
+        "Anga",
+        "Angada"
+      ]
+    },
+    {
+      "scripture": "AGNI",
+      "id": "AGNI",
+      "entities_linked": 210,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya",
+        "Bali_Asura"
+      ]
+    },
+    {
+      "scripture": "SKAND",
+      "id": "SKAND",
+      "entities_linked": 191,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya"
+      ]
+    },
+    {
+      "scripture": "MATS",
+      "id": "MATS",
+      "entities_linked": 185,
+      "entity_names": [
+        "Agneyastra",
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya"
+      ]
+    },
+    {
+      "scripture": "DEVI",
+      "id": "DEVI",
+      "entities_linked": 182,
+      "entity_names": [
+        "Agneyastra",
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya"
+      ]
+    },
+    {
+      "scripture": "BHAG",
+      "id": "BHAG",
+      "entities_linked": 181,
+      "entity_names": [
+        "Agneyastra",
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya"
+      ]
+    },
+    {
+      "scripture": "KURM",
+      "id": "KURM",
+      "entities_linked": 181,
+      "entity_names": [
+        "Agneyastra",
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya"
+      ]
+    },
+    {
+      "scripture": "GARUDA",
+      "id": "GARUDA",
+      "entities_linked": 180,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya"
+      ]
+    },
+    {
+      "scripture": "NARADA",
+      "id": "NARADA",
+      "entities_linked": 180,
+      "entity_names": [
+        "Agneyastra",
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya"
+      ]
+    },
+    {
+      "scripture": "VISH",
+      "id": "VISH",
+      "entities_linked": 174,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya"
+      ]
+    },
+    {
+      "scripture": "LING",
+      "id": "LING",
+      "entities_linked": 173,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya"
+      ]
+    },
+    {
+      "scripture": "VARAH",
+      "id": "VARAH",
+      "entities_linked": 163,
+      "entity_names": [
+        "Agni",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya",
+        "Bali_Asura",
+        "Bhakti"
+      ]
+    },
+    {
+      "scripture": "SHIV",
+      "id": "SHIV",
+      "entities_linked": 156,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya",
+        "Bali_Asura"
+      ]
+    },
+    {
+      "scripture": "HV",
+      "id": "HV",
+      "entities_linked": 151,
+      "entity_names": [
+        "Agni",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata"
+      ]
+    },
+    {
+      "scripture": "VAMAN",
+      "id": "VAMAN",
+      "entities_linked": 150,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Ayodhya",
+        "Bali_Asura",
+        "Bhakti"
+      ]
+    },
+    {
+      "scripture": "MBH",
+      "id": "MBH",
+      "entities_linked": 142,
+      "entity_names": [
+        "Agni",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya",
+        "Bali_Asura",
+        "Bhakti"
+      ]
+    },
+    {
+      "scripture": "KALI",
+      "id": "KALI",
+      "entities_linked": 126,
+      "entity_names": [
+        "Agni",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Ayodhya",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata",
+        "Bhima"
+      ]
+    },
+    {
+      "scripture": "MARK",
+      "id": "MARK",
+      "entities_linked": 126,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Ayodhya",
+        "Bali_Asura",
+        "Bhakti"
+      ]
+    },
+    {
+      "scripture": "PRASHNA",
+      "id": "PRASHNA",
+      "entities_linked": 125,
+      "entity_names": [
+        "Agni",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata"
+      ]
+    },
+    {
+      "scripture": "YVS",
+      "id": "YVS",
+      "entities_linked": 113,
+      "entity_names": [
+        "Agni",
+        "Arjuna",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata",
+        "Bhima",
+        "Bhishma"
+      ]
+    },
+    {
+      "scripture": "CHAND",
+      "id": "CHAND",
+      "entities_linked": 99,
+      "entity_names": [
+        "Agni",
+        "Ahimsa",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata"
+      ]
+    },
+    {
+      "scripture": "YVK",
+      "id": "YVK",
+      "entities_linked": 97,
+      "entity_names": [
+        "Agni",
+        "Angada",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata"
+      ]
+    },
+    {
+      "scripture": "RM",
+      "id": "RM",
+      "entities_linked": 96,
+      "entity_names": [
+        "Agni",
+        "Agnihotra",
+        "Ahimsa",
+        "Aja",
+        "Ambarisha",
+        "Ananta",
+        "Anga",
+        "Arjuna",
+        "Ashrama",
+        "Atman"
+      ]
+    },
+    {
+      "scripture": "TAITT",
+      "id": "TAITT",
+      "entities_linked": 87,
+      "entity_names": [
+        "Advaita",
+        "Agni",
+        "Ananta",
+        "Arjuna",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bali_Asura",
+        "Bhakti"
+      ]
+    },
+    {
+      "scripture": "VEDANTA_SUTRA",
+      "id": "VEDANTA_SUTRA",
+      "entities_linked": 86,
+      "entity_names": [
+        "Agni",
+        "Arjuna",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata",
+        "Bhima",
+        "Brahma"
+      ]
+    },
+    {
+      "scripture": "SV",
+      "id": "SV",
+      "entities_linked": 71,
+      "entity_names": [
+        "Agni",
+        "Arjuna",
+        "Ashva",
+        "Atman",
+        "Bhakti",
+        "Bharata",
+        "Bhima",
+        "Brahma",
+        "Brahmaloka",
+        "Brahman"
+      ]
+    },
+    {
+      "scripture": "BRIHAD",
+      "id": "BRIHAD",
+      "entities_linked": 70,
+      "entity_names": [
+        "Agni",
+        "Ahalya",
+        "Arjuna",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bali_Asura",
+        "Bharata",
+        "Bhishma",
+        "Brahma"
+      ]
+    },
+    {
+      "scripture": "BAUDHAYANA_DS",
+      "id": "BAUDHAYANA_DS",
+      "entities_linked": 65,
+      "entity_names": [
+        "Agni",
+        "Agnihotra",
+        "Ahimsa",
+        "Aja",
+        "Ananta",
+        "Anga",
+        "Ashrama",
+        "Atman",
+        "Bharadvaja",
+        "Boar"
+      ]
+    },
+    {
+      "scripture": "KAUS",
+      "id": "KAUS",
+      "entities_linked": 65,
+      "entity_names": [
+        "Atman",
+        "Bali_Asura",
+        "Bhakti",
+        "Bharata",
+        "Bhima",
+        "Brahma",
+        "Brahmaloka",
+        "Brahman",
+        "Chakra",
+        "Chandra"
+      ]
+    },
+    {
+      "scripture": "AITAREYA",
+      "id": "AITAREYA",
+      "entities_linked": 60,
+      "entity_names": [
+        "Agni",
+        "Ahimsa",
+        "Ashrama",
+        "Ashva",
+        "Atman",
+        "Avidya",
+        "Bharata",
+        "Brahma",
+        "Brahman",
+        "Chakra"
+      ]
+    },
+    {
+      "scripture": "MAND",
+      "id": "MAND",
+      "entities_linked": 46,
+      "entity_names": [
+        "Agni",
+        "Arjuna",
+        "Ashva",
+        "Bali_Asura",
+        "Brahman",
+        "Chakra",
+        "Chandra",
+        "Chapa",
+        "Dana",
+        "Dharma"
+      ]
+    },
+    {
+      "scripture": "BG",
+      "id": "BG",
+      "entities_linked": 45,
+      "entity_names": [
+        "Ananta",
+        "Bharata",
+        "Bhima",
+        "Bhishma",
+        "Bhrigu",
+        "Brahmaloka",
+        "Chakra",
+        "Cow",
+        "Devaki",
+        "Draupadi"
+      ]
+    },
+    {
+      "scripture": "VYASA_SM",
+      "id": "VYASA_SM",
+      "entities_linked": 45,
+      "entity_names": [
+        "Bali_Asura",
+        "Bharata",
+        "Brahma",
+        "Brahman",
+        "Chandra",
+        "Chapa",
+        "Dana",
+        "Dharma",
+        "Durga",
+        "Gaja"
+      ]
+    },
+    {
+      "scripture": "BRAHMD",
+      "id": "BRAHMD",
+      "entities_linked": 36,
+      "entity_names": [
+        "Ananta",
+        "Angirasa",
+        "Ayodhya",
+        "Bali",
+        "Bhima",
+        "Bhishma",
+        "Bhrigu",
+        "Brahmaloka",
+        "Devaki",
+        "Durga"
+      ]
+    },
+    {
+      "scripture": "VAISHESHIKA_SUTRA",
+      "id": "VAISHESHIKA_SUTRA",
+      "entities_linked": 34,
+      "entity_names": [
+        "Atman",
+        "Avidya",
+        "Bharata",
+        "Brahma",
+        "Chapa",
+        "Dana",
+        "Dharma",
+        "Gaja",
+        "Ganesha",
+        "Gomata"
+      ]
+    },
+    {
+      "scripture": "RV",
+      "id": "RV",
+      "entities_linked": 30,
+      "entity_names": [
+        "Agni",
+        "Atman",
+        "Boar",
+        "Brahma",
+        "Brahman",
+        "Buddha",
+        "Chakra",
+        "Chandra",
+        "Durga",
+        "Gunas"
+      ]
+    },
+    {
+      "scripture": "VISHNU_SM",
+      "id": "VISHNU_SM",
+      "entities_linked": 27,
+      "entity_names": [
+        "Ananta",
+        "Bali",
+        "Bhima",
+        "Brahmaloka",
+        "Chakra",
+        "Cow",
+        "Durga",
+        "Elephant",
+        "Fish",
+        "Ganga"
+      ]
+    },
+    {
+      "scripture": "YAJNAV",
+      "id": "YAJNAV",
+      "entities_linked": 23,
+      "entity_names": [
+        "Ananta",
+        "Bali",
+        "Bhima",
+        "Bhrigu",
+        "Ganesha",
+        "Ganga",
+        "Garuda",
+        "Gautama",
+        "Kartikeya",
+        "Kashyapa"
+      ]
+    },
+    {
+      "scripture": "VYU",
+      "id": "VYU",
+      "entities_linked": 22,
+      "entity_names": [
+        "Devaki",
+        "Durga",
+        "Ganga",
+        "Garuda",
+        "Kailas",
+        "Kali",
+        "Kashi",
+        "Lakshmi",
+        "Monkey",
+        "Nandi"
+      ]
+    },
+    {
+      "scripture": "NYAYA_SUTRA",
+      "id": "NYAYA_SUTRA",
+      "entities_linked": 18,
+      "entity_names": [
+        "Atman",
+        "Brahma",
+        "Chandra",
+        "Chapa",
+        "Dana",
+        "Gautama",
+        "Gomata",
+        "Gunas",
+        "Indra",
+        "Jnana"
+      ]
+    },
+    {
+      "scripture": "SHVET",
+      "id": "SHVET",
+      "entities_linked": 14,
+      "entity_names": [
+        "Ananta",
+        "Brahmaloka",
+        "Devaki",
+        "Garuda",
+        "Kartikeya",
+        "Lakshmi",
+        "Manu",
+        "Meru",
+        "Parvati",
+        "Puri"
+      ]
+    },
+    {
+      "scripture": "APASTAMBA_DS",
+      "id": "APASTAMBA_DS",
+      "entities_linked": 5,
+      "entity_names": [
+        "Cow",
+        "Kapala",
+        "Puri",
+        "Snake",
+        "Swan"
+      ]
+    },
+    {
+      "scripture": "NARADA_SM",
+      "id": "NARADA_SM",
+      "entities_linked": 4,
+      "entity_names": [
+        "Bali",
+        "Cow",
+        "Manu",
+        "Puri"
+      ]
+    },
+    {
+      "scripture": "GAUTAMA_DS",
+      "id": "GAUTAMA_DS",
+      "entities_linked": 3,
+      "entity_names": [
+        "Gautama",
+        "Manu",
+        "Yajnavalkya"
+      ]
+    },
+    {
+      "scripture": "MAITR",
+      "id": "MAITR",
+      "entities_linked": 2,
+      "entity_names": [
+        "Nandi",
+        "Sword"
+      ]
+    },
+    {
+      "scripture": "ISHA",
+      "id": "ISHA",
+      "entities_linked": 1,
+      "entity_names": [
+        "Puri"
+      ]
+    },
+    {
+      "scripture": "KATH",
+      "id": "KATH",
+      "entities_linked": 0,
+      "entity_names": []
+    },
+    {
+      "scripture": "KEN",
+      "id": "KEN",
+      "entities_linked": 0,
+      "entity_names": []
+    },
+    {
+      "scripture": "MAHAN",
+      "id": "MAHAN",
+      "entities_linked": 0,
+      "entity_names": []
+    },
+    {
+      "scripture": "MANU",
+      "id": "MANU",
+      "entities_linked": 0,
+      "entity_names": []
+    },
+    {
+      "scripture": "MUND",
+      "id": "MUND",
+      "entities_linked": 0,
+      "entity_names": []
+    },
+    {
+      "scripture": "PARASHARA",
+      "id": "PARASHARA",
+      "entities_linked": 0,
+      "entity_names": []
+    },
+    {
+      "scripture": "YOGA_SUTRA",
+      "id": "YOGA_SUTRA",
+      "entities_linked": 0,
+      "entity_names": []
+    }
+  ]
+}

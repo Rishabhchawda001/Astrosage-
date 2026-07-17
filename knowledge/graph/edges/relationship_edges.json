@@ -60077,28 +60077,6 @@
     "phase": "v9.5"
   },
   {
-    "GUID": "ae94156c-25a1-5f3a-9c46-a608efa97b7b",
-    "type": "FATHER_OF",
-    "source_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
-    "target_GUID": "b07df5bd-9d30-570b-bdf5-66b94f0a8bc0",
-    "source_ref": "Person:Rama",
-    "target_ref": "Person:Lava",
-    "evidence": "canonical_scripture",
-    "confidence": 88,
-    "phase": "v9.5"
-  },
-  {
-    "GUID": "435600df-c195-5b75-b5cd-130dcdc3011b",
-    "type": "FATHER_OF",
-    "source_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
-    "target_GUID": "f4240f1a-0fd8-5f97-b72c-8a27e2217e3d",
-    "source_ref": "Person:Rama",
-    "target_ref": "Person:Kusha",
-    "evidence": "canonical_scripture",
-    "confidence": 88,
-    "phase": "v9.5"
-  },
-  {
     "GUID": "7e21e128-d15a-5ef7-a88f-f881984177eb",
     "type": "SON_OF",
     "source_GUID": "b07df5bd-9d30-570b-bdf5-66b94f0a8bc0",
@@ -60363,50 +60341,6 @@
     "phase": "v9.5"
   },
   {
-    "GUID": "192062af-0f78-5d20-8cd2-ddb98870ce0d",
-    "type": "TEACHER_OF",
-    "source_GUID": "a4fcbb4e-7204-5f41-ac81-616269c9ba1b",
-    "target_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
-    "source_ref": "Person:Vasistha",
-    "target_ref": "Deity:Rama",
-    "evidence": "canonical_scripture",
-    "confidence": 88,
-    "phase": "v9.5"
-  },
-  {
-    "GUID": "8f6c71ab-df9c-57c5-ae30-197725624f01",
-    "type": "TEACHER_OF",
-    "source_GUID": "da1b1330-4dfc-5b1a-8e1e-6bcb57d8e7c3",
-    "target_GUID": "d30e9ad5-cdc8-5215-b00e-519cfad2690d",
-    "source_ref": "Person:Vishvamitra",
-    "target_ref": "Deity:Rama",
-    "evidence": "canonical_scripture",
-    "confidence": 88,
-    "phase": "v9.5"
-  },
-  {
-    "GUID": "6e2a1485-eb0e-5ab5-b04a-ceb3f8faf9d1",
-    "type": "TEACHER_OF",
-    "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
-    "target_GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
-    "source_ref": "Person:Drona",
-    "target_ref": "Person:Arjuna",
-    "evidence": "canonical_scripture",
-    "confidence": 88,
-    "phase": "v9.5"
-  },
-  {
-    "GUID": "51520adb-e2f2-5001-988a-376fc8dc6f91",
-    "type": "TEACHER_OF",
-    "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
-    "target_GUID": "337c1a0c-7b65-56d9-8c54-8244da8fd54a",
-    "source_ref": "Person:Drona",
-    "target_ref": "Person:Duryodhana",
-    "evidence": "canonical_scripture",
-    "confidence": 88,
-    "phase": "v9.5"
-  },
-  {
     "GUID": "f3596342-cce1-5e86-8299-98dbb78c5aee",
     "type": "TEACHER_OF",
     "source_GUID": "6c5f8730-2ca2-5f4b-952e-ed6a8741e562",
@@ -60446,17 +60380,6 @@
     "target_GUID": "301dc7cf-b1e1-59ea-b770-cddbc4d71127",
     "source_ref": "Bhrigu",
     "target_ref": "Person:Bhagiratha",
-    "evidence": "canonical_scripture",
-    "confidence": 88,
-    "phase": "v9.5"
-  },
-  {
-    "GUID": "7537cc0c-ff83-5e56-ae36-1f595a72345c",
-    "type": "FATHER_OF",
-    "source_GUID": "c9cdeaaa-a2e7-5156-8290-b5ce490f8dcb",
-    "target_GUID": "bba2e5b5-5782-5a5d-8d5f-bd731ee7769f",
-    "source_ref": "Person:Atri",
-    "target_ref": "Deity:Dattatreya",
     "evidence": "canonical_scripture",
     "confidence": 88,
     "phase": "v9.5"
@@ -60583,17 +60506,6 @@
     "phase": "v9.5"
   },
   {
-    "GUID": "53469ed0-f4d0-56b8-a22f-82b946198a52",
-    "type": "PATH_TO",
-    "source_GUID": "80a16920-1c5c-52c8-ad33-2f782f77ef73",
-    "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
-    "source_ref": "Concept:Bhakti",
-    "target_ref": "Concept:Moksha",
-    "evidence": "canonical_scripture",
-    "confidence": 90,
-    "phase": "v9.5"
-  },
-  {
     "GUID": "51e1419d-7d80-544e-ab26-34ec807e1a52",
     "type": "CONTRASTS_WITH",
     "source_GUID": "80a16920-1c5c-52c8-ad33-2f782f77ef73",
@@ -60605,34 +60517,12 @@
     "phase": "v9.5"
   },
   {
-    "GUID": "40c6262e-5c89-50e8-ada1-10aad486f41f",
-    "type": "PATH_TO",
-    "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
-    "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
-    "source_ref": "Concept:Jnana",
-    "target_ref": "Concept:Moksha",
-    "evidence": "canonical_scripture",
-    "confidence": 90,
-    "phase": "v9.5"
-  },
-  {
     "GUID": "87d04495-149b-54e6-b38a-aac453ab4199",
     "type": "SUBCATEGORY_OF",
     "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
     "target_GUID": "cd504b3b-da2e-5d89-96db-f0a0167e57b1",
     "source_ref": "Concept:Yoga",
     "target_ref": "Concept:Dhyana",
-    "evidence": "canonical_scripture",
-    "confidence": 90,
-    "phase": "v9.5"
-  },
-  {
-    "GUID": "e2083bb3-aec4-55d8-b18b-b92772a0faa7",
-    "type": "PATH_TO",
-    "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
-    "target_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
-    "source_ref": "Concept:Yoga",
-    "target_ref": "Concept:Moksha",
     "evidence": "canonical_scripture",
     "confidence": 90,
     "phase": "v9.5"
@@ -64088,17 +63978,6 @@
     "target_GUID": "37dbb50c-e8a4-5298-8907-3e7d28e2f309",
     "source_ref": "Deity:Shiva",
     "target_ref": "Deity:Parvati",
-    "evidence": "canonical_scripture",
-    "confidence": 90,
-    "phase": "v9.7"
-  },
-  {
-    "GUID": "e026b17a-7535-5e1b-b3ae-c9d4e47b6f75",
-    "type": "FATHER_OF",
-    "source_GUID": "4ffd8e6d-e349-56ba-b76c-3a502409da63",
-    "target_GUID": "835f182a-7890-5c65-8de2-e2510b95cc16",
-    "source_ref": "Person:Vasudeva",
-    "target_ref": "Deity:Krishna",
     "evidence": "canonical_scripture",
     "confidence": 90,
     "phase": "v9.7"

@@ -1,120 +1,135 @@
 {
-  "generated": "2026-07-17",
-  "phase": "9.5-audit",
+  "generated": "2026-07-17T16:47:19.292865",
+  "phase": "9.8-audit",
   "totals": {
     "scripture_nodes": 54,
-    "entity_nodes": 320,
-    "total_nodes": 374,
-    "total_edges": 7742,
-    "mentioned_in_edges": 7520,
-    "relationship_edges": 222
+    "entity_nodes": 387,
+    "total_nodes": 441,
+    "total_edges": 4987,
+    "mentioned_in_edges": 4695,
+    "relationship_edges": 292
   },
   "entity_type_breakdown": {
-    "Deity": 43,
-    "Person": 95,
+    "Deity": 46,
+    "Person": 122,
     "Place": 48,
-    "Concept": 36,
+    "Concept": 50,
     "Weapon": 23,
-    "Animal": 34,
-    "Dynasty": 7,
-    "Avatar": 9,
+    "Animal": 33,
+    "Dynasty": 11,
+    "Avatar": 7,
     "Nakshatra": 5,
-    "Loka": 4,
-    "Ritual": 8,
-    "School": 3,
-    "Graha": 5
+    "Loka": 3,
+    "Ritual": 13,
+    "School": 2,
+    "Graha": 5,
+    "Text": 19
   },
   "edge_type_breakdown": {
-    "MENTIONED_IN": 7520,
-    "FATHER_OF": 35,
-    "HUSBAND_OF": 19,
-    "MOTHER_OF": 15,
-    "BROTHER_OF": 15,
-    "SISTER_OF": 3,
-    "TEACHER_OF": 16,
-    "GUARDIAN_OF": 3,
-    "RULER_OF": 3,
-    "ANCESTOR_OF": 5,
-    "CREATOR_OF": 9,
-    "INCARNATION_OF": 21,
-    "COMPILER_OF": 3,
-    "PATH_TO": 9,
+    "MENTIONED_IN": 4695,
+    "FATHER_OF": 36,
+    "HUSBAND_OF": 11,
+    "MOTHER_OF": 12,
+    "BROTHER_OF": 5,
+    "SISTER_OF": 1,
+    "TEACHER_OF": 15,
+    "GUARDIAN_OF": 1,
+    "RULER_OF": 1,
+    "ANCESTOR_OF": 7,
+    "CREATOR_OF": 3,
+    "INCARNATION_OF": 7,
+    "COMPILER_OF": 1,
+    "PATH_TO": 8,
     "LEADS_TO": 3,
-    "LIBERATION_FROM": 3,
-    "IDENTICAL_TO": 3,
-    "GUIDES": 3,
-    "ABODE_OF": 8,
-    "BATTLEFIELD_OF": 3,
-    "KINGDOM_OF": 4,
-    "WIELDED_BY": 21,
-    "VEHICLE_OF": 9,
+    "LIBERATION_FROM": 1,
+    "IDENTICAL_TO": 2,
+    "GUIDES": 2,
+    "ABODE_OF": 4,
+    "BATTLEFIELD_OF": 1,
+    "KINGDOM_OF": 2,
+    "WIELDED_BY": 7,
+    "VEHICLE_OF": 3,
     "REFERENCED_BY": 2,
     "UNCLE_OF": 1,
     "ASSOCIATED_WITH": 2,
     "FOLLOWED_BY": 1,
     "ALLY_OF": 2,
-    "DEVOTEE_OF": 1
+    "DEVOTEE_OF": 3,
+    "FOUNDED": 6,
+    "SON_OF": 14,
+    "DESCENDANT_OF": 2,
+    "KING_OF": 2,
+    "BORN_FROM": 1,
+    "WIFE_OF": 3,
+    "DAUGHTER_OF": 1,
+    "INCLUDES": 11,
+    "TAUGHT": 2,
+    "SUBCATEGORY_OF": 13,
+    "GENERATES": 1,
+    "OPPOSITE_OF": 1,
+    "CONTRASTS_WITH": 4,
+    "IS": 1,
+    "CAUSED_BY": 1,
+    "OVERCOME_BY": 1,
+    "USED_IN": 1,
+    "PREREQUISITE_FOR": 2,
+    "SCHOOL_OF": 1,
+    "DEFINED_AS": 3,
+    "OFFERED_TO": 7,
+    "REQUIRES": 2,
+    "PARTICIPANT": 3,
+    "USES": 2,
+    "INITIATES": 1,
+    "COMPLETES": 1,
+    "HONORS": 1,
+    "APPEARS_IN": 20,
+    "TAUGHT_IN": 16,
+    "STATED_IN": 3,
+    "REFERRED_TO_IN": 4,
+    "FORM_OF": 1,
+    "TEACHES": 7,
+    "PROTECTS": 3,
+    "LOVES": 1,
+    "BLESSES": 2,
+    "SERVES": 1,
+    "COUNSELS": 1,
+    "DEFEATS": 1
   },
-  "quality": {
-    "duplicate_node_guids": 1,
-    "duplicate_edge_guids": 2841,
-    "duplicate_entity_names": 10,
-    "duplicate_names_detail": {
-      "Rama": 2,
-      "Krishna": 2,
-      "Ganga": 2,
-      "Vasistha": 2,
-      "Vishvamitra": 2,
-      "Garuda": 2,
-      "Satyaloka": 2,
-      "Yoga": 2,
-      "Homa": 2,
-      "Shakti": 2
-    },
-    "orphan_entities": 0,
-    "orphan_entity_names": [],
-    "broken_references": 0,
-    "avg_confidence": 87.1,
-    "min_confidence": 85,
-    "max_confidence": 95
+  "node_verification": {
+    "issues": 0,
+    "warnings": 1,
+    "duplicate_guids": 0,
+    "duplicate_names": 0,
+    "nodes_without_guid": 0,
+    "nodes_without_name": 0,
+    "nodes_without_type": 0,
+    "nodes_without_provenance": 0,
+    "type_mismatches": 0,
+    "issue_details": [],
+    "warning_details": [
+      "Entities with 0 mentions: 68"
+    ]
   },
-  "coverage": {
-    "dialogue_edges": 16,
-    "canonical_events": 15,
-    "genealogy_edges": 114,
-    "concept_nodes": 36,
-    "concept_edges": 21,
-    "ritual_nodes": 8,
-    "astronomy_nodes": 10,
-    "geography_nodes": 48,
-    "geography_edges": 18,
-    "cross_scripture_edges": 0
+  "edge_verification": {
+    "issues": 1,
+    "warnings": 0,
+    "broken_source": 0,
+    "broken_target": 0,
+    "duplicate_edge_guids": 0,
+    "duplicate_edges": 11,
+    "self_loops": 0,
+    "low_confidence": 0,
+    "issue_details": [
+      "Duplicate edges (same source+target+type): 11"
+    ],
+    "warning_details": []
   },
-  "sub_graphs": {
-    "dialogue_graph.json": {
-      "total": 16
-    },
-    "event_graph.json": {
-      "total": 15
-    },
-    "genealogy_graph.json": {
-      "total": 114
-    },
-    "concept_graph.json": {
-      "edges": 21,
-      "nodes": 34
-    },
-    "ritual_graph.json": {
-      "nodes": 8
-    },
-    "astronomy_graph.json": {
-      "nodes": 10
-    },
-    "geography_graph.json": {
-      "total": 18
-    },
-    "association_graph.json": {
-      "total": 39
-    }
+  "consistency": {
+    "issues": 0,
+    "warnings": 0,
+    "orphan_nodes": 0,
+    "orphan_edges": 0,
+    "issue_details": [],
+    "warning_details": []
   }
 }

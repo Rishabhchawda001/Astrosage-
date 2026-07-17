@@ -1,0 +1,19 @@
+{
+  "generated": "2026-07-17T16:47:19.433496",
+  "phase": "9.8",
+  "total": 170,
+  "without_speaker": 0,
+  "without_topic": 0,
+  "without_scripture": 0,
+  "duplicates": 0,
+  "unknown_speakers": 5,
+  "issues": [],
+  "warnings": [
+    "Speakers not in entity list: 5",
+    "  Patanjali",
+    "  Six Students",
+    "  Father",
+    "  Teacher",
+    "  Angiras"
+  ]
+}

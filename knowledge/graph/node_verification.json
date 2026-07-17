@@ -1,0 +1,20 @@
+{
+  "generated": "2026-07-17T16:47:19.430978",
+  "phase": "9.8",
+  "total_nodes": 441,
+  "entity_nodes": 387,
+  "scripture_nodes": 54,
+  "duplicate_guids": 0,
+  "duplicate_names": 0,
+  "nodes_without_guid": 0,
+  "nodes_without_name": 0,
+  "nodes_without_type": 0,
+  "nodes_without_provenance": 0,
+  "type_mismatches": 0,
+  "zero_mentions": 68,
+  "high_mentions": 0,
+  "issues": [],
+  "warnings": [
+    "Entities with 0 mentions: 68"
+  ]
+}

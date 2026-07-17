@@ -1,0 +1,17 @@
+{
+  "generated": "2026-07-17T16:47:19.432776",
+  "phase": "9.8",
+  "total_edges": 84,
+  "cycles_detected": 0,
+  "orphan_references": 75,
+  "duplicate_edges": 0,
+  "issues": [],
+  "warnings": [
+    "Genealogy references not in entity list: 75",
+    "  Person:Rohini",
+    "  Person:Vikukshi",
+    "  Person:Vasudeva",
+    "  Dynasty:Solar Dynasty",
+    "  Person:Abhimanyu"
+  ]
+}
