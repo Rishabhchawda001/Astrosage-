@@ -1701,37 +1701,37 @@
   },
   "rta": {
     "GUID": "788cede7-6f8d-5ad9-8a76-914573204174",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "sattva": {
     "GUID": "609b5416-d3e9-5913-9bd3-28b9b82827ef",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "rajas": {
     "GUID": "be29083c-3b7c-5d7b-9554-e7a61bed5c2e",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "tamas": {
     "GUID": "f4728193-3503-5d28-8f2d-305546ca7861",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "truthfulness": {
     "GUID": "6524ebdd-e9c7-58de-abde-661b8881f97e",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "ignorance": {
     "GUID": "b2be0792-c668-5d32-8028-606ba9af4c6c",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "initiation": {
     "GUID": "c94ca856-fac8-5fa6-80f1-3867c2ad82f3",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "Ashvamedha": {
@@ -1771,107 +1771,107 @@
   },
   "Bhagavad Gita": {
     "GUID": "778131a8-d2fe-54fe-9368-d1e6d677772a",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Bhagavata Purana": {
     "GUID": "b1000544-3da5-552e-9639-7e484fdc615f",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Harivamsa": {
     "GUID": "a6b0f523-b6be-5889-9328-1bf71e91eeef",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Vishnu Purana": {
     "GUID": "e6fa5ad7-e046-50c8-aa70-d1dd2760e1cd",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Brahma Vaivarta Purana": {
     "GUID": "39b3bbab-d652-5812-8ca7-d49c86e708b2",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Ramayana": {
     "GUID": "04b3e357-5894-5a59-84cc-e8f4b60fcb0f",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Rigveda": {
     "GUID": "ff19c228-ac03-5f84-8ca5-f088159a2489",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "Garuda Purana": {
     "GUID": "15753956-3558-5f9b-b442-00a5ab330979",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Shiva Purana": {
     "GUID": "969c5de3-acf2-5711-9888-e80657c39fae",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Skanda Purana": {
     "GUID": "19df1f0a-b2db-544d-9a9a-9ae319e47c7c",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Brahma Purana": {
     "GUID": "3e2aeb47-9eda-56bf-983f-2e77a9ecc664",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Brahmanda Purana": {
     "GUID": "c53c4ae3-fd42-5109-8698-e8497decda54",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Brihadaranyaka Upanishad": {
     "GUID": "1d46502e-6e3d-59fe-9569-680cac11156e",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Chandogya Upanishad": {
     "GUID": "4d9ea88d-99f5-55a6-bc8f-115da0247180",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Katha Upanishad": {
     "GUID": "303a205c-76c9-5f93-bc78-14ef9530a491",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Mundaka Upanishad": {
     "GUID": "439a82bd-d87d-5c8c-8db3-f0fcf71afdc5",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Mandukya Upanishad": {
     "GUID": "c39eec2f-4e33-5995-98dc-ad72a0d34d42",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Yoga Sutras": {
     "GUID": "22325dc0-2a2b-5d88-8586-7d60954dc904",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Shvetashvatara Upanishad": {
     "GUID": "8df24573-ddd2-5740-bccc-aa67a654c43c",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Manusmriti": {
     "GUID": "2f80f387-dbd5-574b-9f6d-de96cac61e73",
-    "type": "Entity",
+    "type": "Concept",
     "mentions": 0
   },
   "Dharmasutras": {
     "GUID": "416a5d1c-a86b-519f-ac12-8044dd869b2d",
-    "type": "Entity",
+    "type": "Text",
     "mentions": 0
   },
   "Tat Tvam Asi": {
@@ -1888,5 +1888,50 @@
     "GUID": "b9eaf860-3bfc-5db5-b3c6-57ce6d060c85",
     "type": "Concept",
     "mentions": 0
+  },
+  "Pippalada": {
+    "GUID": "df435978-8174-52f6-917a-874b0c610235",
+    "type": "Person",
+    "mentions": 1
+  },
+  "Sanjaya": {
+    "GUID": "282fe08b-e208-5476-b9b9-b3341bde1c96",
+    "type": "Person",
+    "mentions": 13
+  },
+  "Sattva": {
+    "GUID": "25b4ac0e-aaf5-5e92-9b40-34e846012dc1",
+    "type": "Concept",
+    "mentions": 131
+  },
+  "Rajas": {
+    "GUID": "9ff6de1a-8f8b-5702-a468-6aa65f16bad1",
+    "type": "Concept",
+    "mentions": 57
+  },
+  "Tamas": {
+    "GUID": "072c41eb-6f45-5ad6-bdac-98adc881bb97",
+    "type": "Concept",
+    "mentions": 9
+  },
+  "Bali": {
+    "GUID": "c5320f5b-2690-5251-a593-6a055ef08761",
+    "type": "Person",
+    "mentions": 2
+  },
+  "Skanda": {
+    "GUID": "4e27e80c-a11e-504a-b84a-f74565256e70",
+    "type": "Deity",
+    "mentions": 3
+  },
+  "Rudra": {
+    "GUID": "dadf901e-a0e5-5994-9b31-4e8af6a74e99",
+    "type": "Deity",
+    "mentions": 4
+  },
+  "Bhairava": {
+    "GUID": "d115374d-48b2-5eff-86a0-3c0112a3fe75",
+    "type": "Deity",
+    "mentions": 48
   }
 }

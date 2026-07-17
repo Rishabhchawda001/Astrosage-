@@ -10978,5 +10978,158 @@
       "method": "semantic_extraction"
     },
     "from_ref": "Teaching:Pratyanoha"
+  },
+  {
+    "GUID": "df435978-8174-52f6-917a-874b0c610235",
+    "name": "Pippalada",
+    "type": "Person",
+    "entity_type": "Person",
+    "total_mentions": 1,
+    "mentions": 1,
+    "sources": [
+      "BG"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "raw_extraction",
+      "scripture": "BG"
+    }
+  },
+  {
+    "GUID": "282fe08b-e208-5476-b9b9-b3341bde1c96",
+    "name": "Sanjaya",
+    "type": "Person",
+    "entity_type": "Person",
+    "total_mentions": 13,
+    "mentions": 13,
+    "sources": [
+      "BG"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "raw_extraction",
+      "scripture": "BG"
+    }
+  },
+  {
+    "GUID": "25b4ac0e-aaf5-5e92-9b40-34e846012dc1",
+    "name": "Sattva",
+    "type": "Concept",
+    "entity_type": "Concept",
+    "total_mentions": 131,
+    "mentions": 131,
+    "sources": [
+      "BG"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "raw_extraction",
+      "scripture": "BG"
+    }
+  },
+  {
+    "GUID": "9ff6de1a-8f8b-5702-a468-6aa65f16bad1",
+    "name": "Rajas",
+    "type": "Concept",
+    "entity_type": "Concept",
+    "total_mentions": 57,
+    "mentions": 57,
+    "sources": [
+      "BG"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "raw_extraction",
+      "scripture": "BG"
+    }
+  },
+  {
+    "GUID": "072c41eb-6f45-5ad6-bdac-98adc881bb97",
+    "name": "Tamas",
+    "type": "Concept",
+    "entity_type": "Concept",
+    "total_mentions": 9,
+    "mentions": 9,
+    "sources": [
+      "BG"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "raw_extraction",
+      "scripture": "BG"
+    }
+  },
+  {
+    "GUID": "c5320f5b-2690-5251-a593-6a055ef08761",
+    "name": "Bali",
+    "type": "Person",
+    "entity_type": "Person",
+    "total_mentions": 2,
+    "mentions": 2,
+    "sources": [
+      "VISHNU_SM"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "raw_extraction",
+      "scripture": "VISHNU_SM"
+    }
+  },
+  {
+    "GUID": "4e27e80c-a11e-504a-b84a-f74565256e70",
+    "name": "Skanda",
+    "type": "Deity",
+    "entity_type": "Deity",
+    "total_mentions": 3,
+    "mentions": 3,
+    "sources": [
+      "VYU"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "raw_extraction",
+      "scripture": "VYU"
+    }
+  },
+  {
+    "GUID": "dadf901e-a0e5-5994-9b31-4e8af6a74e99",
+    "name": "Rudra",
+    "type": "Deity",
+    "entity_type": "Deity",
+    "total_mentions": 4,
+    "mentions": 4,
+    "sources": [
+      "Agnipurāṇa"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "saturation",
+      "pass": 1
+    }
+  },
+  {
+    "GUID": "d115374d-48b2-5eff-86a0-3c0112a3fe75",
+    "name": "Bhairava",
+    "type": "Deity",
+    "entity_type": "Deity",
+    "total_mentions": 48,
+    "mentions": 48,
+    "sources": [
+      "Kubjikamatatantra"
+    ],
+    "source_count": 1,
+    "provenance": {
+      "phase": "v9.6",
+      "method": "saturation",
+      "pass": 1
+    }
   }
 ]

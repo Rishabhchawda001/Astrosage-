@@ -1,12 +1,12 @@
 {
-  "version": "9.5",
-  "generated": "2026-07-17T15:31:19.654680",
+  "version": "9.6",
+  "generated": "2026-07-17T16:03:15.800701",
   "files": {
     "complete_entity_extraction.json": {
       "size": 105736
     },
     "cuid_index.json": {
-      "size": 20328
+      "size": 20797
     },
     "entity_extraction.json": {
       "size": 38591
@@ -15,13 +15,13 @@
       "size": 1818
     },
     "graph_statistics.json": {
-      "size": 1977
+      "size": 2003
     },
     "complete_entity_extraction_v9.json": {
       "size": 160137
     },
     "graph.json": {
-      "size": 2165504
+      "size": 2268439
     },
     "dialogue_graph.json": {
       "size": 27416
@@ -48,7 +48,7 @@
       "size": 14748
     },
     "graph_completeness.json": {
-      "size": 189
+      "size": 188
     },
     "review_queue.json": {
       "size": 85
@@ -60,19 +60,34 @@
       "size": 16700
     },
     "coverage_report.json": {
-      "size": 34888
+      "size": 24269
     },
     "semantic_saturation_report.md": {
-      "size": 2210
+      "size": 1964
+    },
+    "extraction_stats_v96.json": {
+      "size": 1586
+    },
+    "saturation_loop_results.json": {
+      "size": 1095
+    },
+    "semantic_coverage.json": {
+      "size": 2193
+    },
+    "coverage_dashboard.json": {
+      "size": 1215
+    },
+    "semantic_gap_report.json": {
+      "size": 906
     },
     "nodes/entity_nodes.json": {
-      "size": 289841
+      "size": 292957
     },
     "nodes/scripture_nodes.json": {
       "size": 20537
     },
     "edges/relationship_edges.json": {
-      "size": 1707597
+      "size": 1801293
     },
     "validation/devanagari_entity_mentions.json": {
       "size": 1758
@@ -84,7 +99,7 @@
       "size": 1777
     },
     "indexes/entity_index.json": {
-      "size": 42822
+      "size": 43798
     },
     "schemas/graph_schema.json": {
       "size": 3385

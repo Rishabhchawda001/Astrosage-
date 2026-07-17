@@ -1,0 +1,54 @@
+{
+  "generated": "2026-07-17T16:03:15.770655",
+  "summary": {
+    "total_nodes": 552,
+    "total_entities": 498,
+    "total_edges": 5083,
+    "relationship_types": 60,
+    "orphan_rate": 0.2,
+    "broken_ref_rate": 0.0,
+    "evidence_coverage": 100.0,
+    "relationship_coverage": 99.8
+  },
+  "entity_distribution": {
+    "Person": 164,
+    "Concept": 97,
+    "Deity": 61,
+    "Place": 49,
+    "Animal": 33,
+    "Weapon": 23,
+    "Text": 19,
+    "Ritual": 17,
+    "Dynasty": 13,
+    "Avatar": 7,
+    "Nakshatra": 5,
+    "Graha": 5,
+    "Loka": 3,
+    "School": 2
+  },
+  "top_edge_types": {
+    "MENTIONED_IN": 4780,
+    "FATHER_OF": 35,
+    "DEFINED_AS": 35,
+    "APPEARS_IN": 20,
+    "TAUGHT_IN": 16,
+    "TEACHER_OF": 15,
+    "SON_OF": 14,
+    "SUBCATEGORY_OF": 13,
+    "MOTHER_OF": 12,
+    "HUSBAND_OF": 11
+  },
+  "scripture_stats": {
+    "total": 54,
+    "high_coverage": 21,
+    "medium_coverage": 17,
+    "low_coverage": 6,
+    "zero_coverage": 10
+  },
+  "known_gaps": [
+    "Devanagari OCR texts cannot be processed with IAST pattern matching",
+    "Some Upanishads have minimal entity mentions",
+    "Genealogy extraction limited to known lineages",
+    "Cross-scripture alignment not fully automated"
+  ]
+}

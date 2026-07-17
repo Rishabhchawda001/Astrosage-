@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-17T15:31:19.642303",
-  "phase": "9.5",
-  "total_entities": 489,
-  "entities_with_relationships": 489,
-  "relationship_coverage_pct": 100.0,
-  "total_edges": 4816
+  "generated": "2026-07-17T16:03:15.775633",
+  "phase": "9.6",
+  "total_entities": 498,
+  "entities_with_relationships": 497,
+  "relationship_coverage_pct": 99.8,
+  "total_edges": 5083
 }

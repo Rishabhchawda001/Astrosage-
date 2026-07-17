@@ -1,0 +1,50 @@
+{
+  "passes": [
+    {
+      "pass": 1,
+      "entities_before": 496,
+      "entities_after": 498,
+      "new_entities": 2,
+      "entity_growth_pct": 0.4,
+      "edges_before": 5082,
+      "edges_after": 5083,
+      "new_edges": 1,
+      "edge_growth_pct": 0.02
+    },
+    {
+      "pass": 2,
+      "entities_before": 498,
+      "entities_after": 498,
+      "new_entities": 0,
+      "entity_growth_pct": 0.0,
+      "edges_before": 5083,
+      "edges_after": 5083,
+      "new_edges": 0,
+      "edge_growth_pct": 0.0
+    },
+    {
+      "pass": 3,
+      "entities_before": 498,
+      "entities_after": 498,
+      "new_entities": 0,
+      "entity_growth_pct": 0.0,
+      "edges_before": 5083,
+      "edges_after": 5083,
+      "new_edges": 0,
+      "edge_growth_pct": 0.0
+    },
+    {
+      "pass": 4,
+      "entities_before": 498,
+      "entities_after": 498,
+      "new_entities": 0,
+      "entity_growth_pct": 0.0,
+      "edges_before": 5083,
+      "edges_after": 5083,
+      "new_edges": 0,
+      "edge_growth_pct": 0.0
+    }
+  ],
+  "converged": true,
+  "generated": "2026-07-17T16:00:26.820298"
+}

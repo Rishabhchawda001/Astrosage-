@@ -1,0 +1,23 @@
+{
+  "generated": "2026-07-17T16:03:15.772234",
+  "resolved_gaps": [
+    "18 zero-coverage scriptures now have entity links",
+    "10 previously missing scriptures processed from downloads",
+    "Duplicate entities merged (10 pairs)",
+    "Untyped entities classified (64 nodes)",
+    "Definition nodes merged into parent concepts (32 nodes)"
+  ],
+  "remaining_gaps": [
+    "Devanagari OCR texts (BRAHMD, KEN, MUND, SHVET, YAJNAV, MAHAN, PARASHARA) need specialized Devanagari extraction",
+    "NYAYA_SUTRA has no corpus file in checked-out directories",
+    "Dialogue extraction relies on known speaker patterns — may miss anonymous dialogues",
+    "Cross-scripture alignment is manually curated, not fully automated"
+  ],
+  "saturation_status": {
+    "converged": true,
+    "passes_completed": 4,
+    "consecutive_zero_growth_passes": 3,
+    "final_entity_count": 498,
+    "final_edge_count": 5083
+  }
+}

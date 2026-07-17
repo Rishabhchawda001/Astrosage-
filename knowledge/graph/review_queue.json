@@ -1,7 +1,12 @@
 [
   {
-    "type": "broken_references",
-    "count": 215,
-    "severity": "high"
+    "type": "devanagari_texts",
+    "severity": "medium",
+    "description": "Devanagari OCR texts (BRAHMD, KEN, MUND, SHVET, YAJNAV, MAHAN, PARASHARA) need specialized extraction"
+  },
+  {
+    "type": "cross_scripture_alignment",
+    "severity": "low",
+    "description": "Cross-scripture alignment is partially manual, not fully automated"
   }
 ]

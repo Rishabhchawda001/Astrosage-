@@ -1,6 +1,6 @@
 {
-  "version": "9.5",
-  "generated": "2026-07-17T15:31:19.579565",
+  "version": "9.6",
+  "generated": "2026-07-17T16:03:15.802157",
   "nodes": [
     {
       "type": "Scripture",
@@ -11683,6 +11683,159 @@
         "method": "semantic_extraction"
       },
       "from_ref": "Teaching:Pratyanoha"
+    },
+    {
+      "GUID": "df435978-8174-52f6-917a-874b0c610235",
+      "name": "Pippalada",
+      "type": "Person",
+      "entity_type": "Person",
+      "total_mentions": 1,
+      "mentions": 1,
+      "sources": [
+        "BG"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "raw_extraction",
+        "scripture": "BG"
+      }
+    },
+    {
+      "GUID": "282fe08b-e208-5476-b9b9-b3341bde1c96",
+      "name": "Sanjaya",
+      "type": "Person",
+      "entity_type": "Person",
+      "total_mentions": 13,
+      "mentions": 13,
+      "sources": [
+        "BG"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "raw_extraction",
+        "scripture": "BG"
+      }
+    },
+    {
+      "GUID": "25b4ac0e-aaf5-5e92-9b40-34e846012dc1",
+      "name": "Sattva",
+      "type": "Concept",
+      "entity_type": "Concept",
+      "total_mentions": 131,
+      "mentions": 131,
+      "sources": [
+        "BG"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "raw_extraction",
+        "scripture": "BG"
+      }
+    },
+    {
+      "GUID": "9ff6de1a-8f8b-5702-a468-6aa65f16bad1",
+      "name": "Rajas",
+      "type": "Concept",
+      "entity_type": "Concept",
+      "total_mentions": 57,
+      "mentions": 57,
+      "sources": [
+        "BG"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "raw_extraction",
+        "scripture": "BG"
+      }
+    },
+    {
+      "GUID": "072c41eb-6f45-5ad6-bdac-98adc881bb97",
+      "name": "Tamas",
+      "type": "Concept",
+      "entity_type": "Concept",
+      "total_mentions": 9,
+      "mentions": 9,
+      "sources": [
+        "BG"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "raw_extraction",
+        "scripture": "BG"
+      }
+    },
+    {
+      "GUID": "c5320f5b-2690-5251-a593-6a055ef08761",
+      "name": "Bali",
+      "type": "Person",
+      "entity_type": "Person",
+      "total_mentions": 2,
+      "mentions": 2,
+      "sources": [
+        "VISHNU_SM"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "raw_extraction",
+        "scripture": "VISHNU_SM"
+      }
+    },
+    {
+      "GUID": "4e27e80c-a11e-504a-b84a-f74565256e70",
+      "name": "Skanda",
+      "type": "Deity",
+      "entity_type": "Deity",
+      "total_mentions": 3,
+      "mentions": 3,
+      "sources": [
+        "VYU"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "raw_extraction",
+        "scripture": "VYU"
+      }
+    },
+    {
+      "GUID": "dadf901e-a0e5-5994-9b31-4e8af6a74e99",
+      "name": "Rudra",
+      "type": "Deity",
+      "entity_type": "Deity",
+      "total_mentions": 4,
+      "mentions": 4,
+      "sources": [
+        "Agnipurāṇa"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "saturation",
+        "pass": 1
+      }
+    },
+    {
+      "GUID": "d115374d-48b2-5eff-86a0-3c0112a3fe75",
+      "name": "Bhairava",
+      "type": "Deity",
+      "entity_type": "Deity",
+      "total_mentions": 48,
+      "mentions": 48,
+      "sources": [
+        "Kubjikamatatantra"
+      ],
+      "source_count": 1,
+      "provenance": {
+        "phase": "v9.6",
+        "method": "saturation",
+        "pass": 1
+      }
     }
   ],
   "edges": [
@@ -73687,10 +73840,3481 @@
       "evidence": "canonical_scripture",
       "confidence": 88,
       "phase": "v9.5"
+    },
+    {
+      "GUID": "d08c8425-9d32-58f8-b491-ead39eec7e61",
+      "type": "MENTIONED_IN",
+      "source_GUID": "778c5dc1-8ca2-5b01-bd0b-0e39b1a46a29",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Vishnu",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "79111bf2-2b92-5a10-ad15-def950459d74",
+      "type": "MENTIONED_IN",
+      "source_GUID": "995b4002-1a6a-5307-af92-c8f4924752fc",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Brahma",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 2
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4040eb79-1175-5331-9c49-de3a567cb606",
+      "type": "MENTIONED_IN",
+      "source_GUID": "660b8eb6-4677-53bf-8f0e-63438ece40de",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Krishna",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 2
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a85e6ab8-2cbb-5404-b6c6-25defe5e766e",
+      "type": "MENTIONED_IN",
+      "source_GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Surya",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "34ae8e70-e485-5e5f-8e24-43f98f3092ee",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Indra",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "54d94374-0a9c-55c1-94a6-31be772df560",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b2662913-9838-512b-86c2-8aed70d5afca",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bef22b23-43c3-5b65-a6bc-1414aa9c6cfe",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Agni",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 5
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e7676968-e7bf-58bc-b30d-b89bd3471cd9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c901d901-8f85-5d8f-af33-c68fe5f09595",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "22254d0e-4936-5b3d-bbad-8221034a4be7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "0c52ff55-0316-57c2-914c-eb9b828cbb2c",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Janaka",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2c7e7e6b-838e-53c6-b58a-650c98d6b380",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eab94359-939d-58b3-a1ab-dfe9d8aad6a2",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Puri",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ce6df3bc-1f9c-5f6b-b642-36249d571188",
+      "type": "MENTIONED_IN",
+      "source_GUID": "95408ca2-1f93-5d54-ae3c-02c9579e4231",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 32
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2ee46884-e2ea-53c3-aca9-9973d81e5d1c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0c394b0-807e-58cd-9a09-538e1c3b641e",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 26
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "dd5066e0-1d81-594b-870f-4c6f95b04c0c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "532eb92c-0b69-5902-ba99-5301f68c520c",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 11
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "23979e57-6d8d-5b53-b6c1-cd4d19c672ec",
+      "type": "MENTIONED_IN",
+      "source_GUID": "08519a11-8511-53ec-ba7e-17ed3366c8fc",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Yoga",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 4
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d44c61d0-8285-5950-9328-24bfe801b70c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "690e7f77-ce94-528b-a87c-274d2c861364",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 13
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "7e2cba2b-a26e-5d2e-82af-7f854c7bd5f1",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ff689ba8-d04b-5b6e-9381-934f2059df58",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 3
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "96ccec4b-0f8d-594e-8dfa-519a702b4a10",
+      "type": "MENTIONED_IN",
+      "source_GUID": "31c214ef-ab5c-56e3-b0c3-43acb43ff568",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Purusha",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 4
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "c79173e1-83c7-5250-aae9-a2936389bcbf",
+      "type": "MENTIONED_IN",
+      "source_GUID": "d24c750c-3927-57db-8816-cd5b96795deb",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Tapas",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d2d5e3e5-b026-525b-bc71-dc51145d57e8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eee11951-9991-5887-9437-5234a1c8efc7",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Mantra",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ec20be93-9021-588a-8be4-15ce7e354bdf",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8ec29d-3f1c-55b2-8a06-f36eb30dcf75",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Yajna",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 5
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "de7b46c9-1550-5334-adef-2bcbd718ca47",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4c27b30e-9805-50af-8c74-166ddc977ecb",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Varna",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 6
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "fc63e07d-137b-5a4f-9df6-3bce618a6985",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a7c38ea2-4088-524b-b10e-22be65732c79",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Satya",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 3
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "73ea92eb-474c-5c98-aabc-547f33650ea9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Vidya",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 11
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "89bcc150-b898-5f45-8ada-5cff8baf9af4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "17f73881-56d7-584d-8fd3-2f7dc78b2609",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Cow",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 2
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "168614e4-3a22-51f8-b827-70a00d3a824b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2c0c52ea-c6a2-568f-ab23-72899f829168",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Swan",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 2
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2ef76d77-f1bf-56d7-8919-94c75dcfa881",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5d929d52-4481-5078-bea6-ecf89ff1815c",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Snake",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "26aea8a5-648b-5abb-91a6-305cdc6b581f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "11f71925-faa1-5408-8b00-68d5512d07fe",
+      "target_GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "evidence": {
+        "entity": "Kapala",
+        "scripture": "Āpastambadharmasūtra",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1417ed8f-8c83-564a-ad87-35463fb3afd8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
+      "target_GUID": "bd74802a-e5ab-4e46-af43-56b417248795",
+      "evidence": {
+        "entity": "Surya",
+        "scripture": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "bc8bcbe8-62a0-5ae7-8acf-0b05e9cb66e8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8b3ac23a-c5e0-5884-bccb-ce86130f3566",
+      "target_GUID": "bd74802a-e5ab-4e46-af43-56b417248795",
+      "evidence": {
+        "entity": "Nandi",
+        "scripture": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e8a17952-9eb6-5440-9e25-ac5f8dd795fb",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c901d901-8f85-5d8f-af33-c68fe5f09595",
+      "target_GUID": "bd74802a-e5ab-4e46-af43-56b417248795",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "23ee828f-1168-597f-8ec8-b0c34069ab40",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ff689ba8-d04b-5b6e-9381-934f2059df58",
+      "target_GUID": "bd74802a-e5ab-4e46-af43-56b417248795",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "mentions": 1
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d2322f68-72f2-5b13-8558-a39b1699f56c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "580eef54-f860-55e2-8ff4-566885c1be46",
+      "target_GUID": "bd74802a-e5ab-4e46-af43-56b417248795",
+      "evidence": {
+        "entity": "Sword",
+        "scripture": "Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra)",
+        "mentions": 4
+      },
+      "confidence": 88,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e11987e3-c559-57e9-82fe-3ae15dd5761d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "778c5dc1-8ca2-5b01-bd0b-0e39b1a46a29",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vishnu",
+        "scripture": "BG",
+        "mentions": 109
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "49769c46-b7ff-5de5-847b-a9e287d48793",
+      "type": "MENTIONED_IN",
+      "source_GUID": "b61fe180-0960-534d-9751-bb67190cef15",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Shiva",
+        "scripture": "BG",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "dc65489d-76bd-5130-a079-423138d24b54",
+      "type": "MENTIONED_IN",
+      "source_GUID": "995b4002-1a6a-5307-af92-c8f4924752fc",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Brahma",
+        "scripture": "BG",
+        "mentions": 21
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "79aaa0d1-8121-50a0-b386-6c92d1acf406",
+      "type": "MENTIONED_IN",
+      "source_GUID": "30b92434-bb5d-5bed-8ab7-9fec18661753",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Rama",
+        "scripture": "BG",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b5aa97ce-d417-57c0-a3ac-2eb03c5fc8d4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "660b8eb6-4677-53bf-8f0e-63438ece40de",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Krishna",
+        "scripture": "BG",
+        "mentions": 114
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "65f3be8d-a3c7-54b4-bff2-db9921479ba2",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10f05c2-c341-51f7-921d-07748856ee62",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Ganesha",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e4e52778-14e0-5029-9dd1-8a6bd4e834f0",
+      "type": "MENTIONED_IN",
+      "source_GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Surya",
+        "scripture": "BG",
+        "mentions": 39
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a4ea477c-b937-546e-8547-c2e33c545f8b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "37fefb85-9c56-5731-aa63-da06dcba701a",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Lakshmi",
+        "scripture": "BG",
+        "mentions": 215
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f0ef294c-79b6-56af-8ac7-afbb2b61cd27",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8a61ec88-6260-5ee2-bfa9-0e416ce56c94",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Saraswati",
+        "scripture": "BG",
+        "mentions": 46
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e8a52e02-2be5-5781-b576-6921cefe0dd4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Indra",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b8212eed-dcf2-5918-800d-40d0aa0ebd92",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "BG",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "427d3a4b-5683-5163-a667-209e494e9bcc",
+      "type": "MENTIONED_IN",
+      "source_GUID": "46da7125-9761-5be7-9467-4a6948f21625",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Varuna",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1783da6f-3acd-5614-a2e1-ec45919de2c8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5c749089-2e3c-5780-bace-659e3cb36514",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vayu",
+        "scripture": "BG",
+        "mentions": 12
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ef6d0d33-337f-558d-a317-0c10da1b5c6a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bef22b23-43c3-5b65-a6bc-1414aa9c6cfe",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Agni",
+        "scripture": "BG",
+        "mentions": 19
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f3fbe723-1efe-5681-87f9-e36635872b82",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c901d901-8f85-5d8f-af33-c68fe5f09595",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "BG",
+        "mentions": 18
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "df2db562-5785-5680-8bad-1a5d4fb46dc9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c039b124-6ad5-54dd-9f70-24adb4e1b31b",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Narada",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4a1abdc6-c69d-5f29-98f8-c2ae4c17075b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "39e54f49-4039-5421-b290-5b1d22b29be9",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Garuda",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "816b9623-32fa-5ed1-b48d-6b63b1155d49",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8763bbc2-f5e8-5d58-b1bc-980b786e1af1",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vasuki",
+        "scripture": "BG",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f9ea5f83-9ed8-5d36-8d28-de9c73af8c0d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "202a3572-ab76-5e9e-ad6b-5c8d86f47cd8",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Balarama",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e96ae177-1d09-57e6-9a6f-ea122d1f0957",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4450f5f3-e469-568c-ae43-08ece3fd8b13",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Shesha",
+        "scripture": "BG",
+        "mentions": 35
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "c5da093e-b659-5c67-819e-f105322a4e6e",
+      "type": "MENTIONED_IN",
+      "source_GUID": "82835614-bbae-5cd1-b6c3-2d2d5613ae1d",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Veda Vyasa",
+        "scripture": "BG",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6a698334-151d-5122-bdd8-af7ff5c242bf",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4853f34b-358c-57c6-b2ac-1817af2daf21",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vasistha",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "63824cca-2c52-5321-bf26-3105506fff0b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "232a729d-7e9a-5405-9e4f-1c8e99ee838c",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Shuka",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a7b571dd-9a2d-52b0-a610-bb8824594118",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5e041a73-d2d3-5251-9abb-488f56a6e50b",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Parashara",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "c4aa222b-333d-5c6a-9a98-442546c91bbe",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9f633182-3464-539c-91f2-682f51aa81ab",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Arjuna",
+        "scripture": "BG",
+        "mentions": 245
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "19d777bb-2ac7-53c4-ad2b-7b898788bb31",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c4c4bb77-795a-51ad-9fd7-95aaa093921b",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Bhima",
+        "scripture": "BG",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "10add276-ce6c-589b-93f3-f61e02b856db",
+      "type": "MENTIONED_IN",
+      "source_GUID": "56e7e241-0c52-5705-afc1-82d050704711",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Yudhishthira",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6b9f9829-72a9-51b6-9c90-05f9229ff703",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e4b3a371-0ecb-5907-a380-a41a675b93a5",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Drona",
+        "scripture": "BG",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4585bf87-2292-54c2-a3d4-46477b5c120d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "24cfa3c3-71d9-56f0-8484-16e9253c4bba",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Bhishma",
+        "scripture": "BG",
+        "mentions": 29
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "452c570c-1ad3-5a61-8a03-c0bdd51de629",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0d82c8c-ece3-54f0-8c86-47a93cf949b8",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Karna",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "bdec0328-1a1b-5bf3-9012-ed1ac22d2df4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "11b39542-f081-59f9-a152-4fe0213eb724",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Duryodhana",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "79a22914-41cf-5724-8d17-dde239303582",
+      "type": "MENTIONED_IN",
+      "source_GUID": "3385e1ae-e0f8-59cb-bb02-2b33c91d3200",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Dhritarashtra",
+        "scripture": "BG",
+        "mentions": 15
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6b54e7d0-6100-5630-ac05-159fa9442f9c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "841b71d0-49ad-553c-9a31-db0f7fe28893",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Pandu",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "78bab26f-1d58-50bb-a21a-cb3efa2e062b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "14b322a9-a5cb-5244-9495-f382e4c043e4",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Kunti",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8bce57e0-3f33-5e49-a935-74957b00ad2b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ac8e50ea-fc73-5c02-9fbd-aab6f3666472",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Draupadi",
+        "scripture": "BG",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "695403ef-ff30-503b-a503-88c68c3d4550",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bd0de9a0-31cf-5d44-a235-0bb9ad93b7fa",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Ravana",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "5991ff1d-8790-54e9-b6ca-a72048b55a7f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f5b02e97-34f8-56f7-99eb-53b1ac7c0b97",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Manu",
+        "scripture": "BG",
+        "mentions": 15
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8ef5059d-ecb7-5dd1-9590-3675693e39ae",
+      "type": "MENTIONED_IN",
+      "source_GUID": "0c52ff55-0316-57c2-914c-eb9b828cbb2c",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Janaka",
+        "scripture": "BG",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6b1f0da2-0e00-5dc7-9fb7-86642ec91c7a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8d12c98b-5578-5213-af65-61f3ba958438",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Bhrigu",
+        "scripture": "BG",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "77024375-e790-5f20-85a4-93a4c14a03ff",
+      "type": "MENTIONED_IN",
+      "source_GUID": "440eca94-6f43-5a11-8ac2-d507a08a8f8d",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Yajnavalkya",
+        "scripture": "BG",
+        "mentions": 5
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ebd2d36e-40b8-5ecd-9e54-425f17b7c119",
+      "type": "MENTIONED_IN",
+      "source_GUID": "722724cb-79bb-5c85-981d-978b5b429b36",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Prahlada",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b2d6e54a-c1a4-585f-a379-b7c4eb3c51a7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "df435978-8174-52f6-917a-874b0c610235",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Pippalada",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2f4f3de0-de88-5cc4-b85c-743a605476a2",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4ffd8e6d-e349-56ba-b76c-3a502409da63",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vasudeva",
+        "scripture": "BG",
+        "mentions": 18
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "c6dde27e-ebd4-5bc8-84eb-ea5584cb3c80",
+      "type": "MENTIONED_IN",
+      "source_GUID": "78a2c8de-4258-503f-be68-284e7a6734a1",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Devaki",
+        "scripture": "BG",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "caf3f37b-0f60-57c6-8ebd-96c10deffb58",
+      "type": "MENTIONED_IN",
+      "source_GUID": "282fe08b-e208-5476-b9b9-b3341bde1c96",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Sanjaya",
+        "scripture": "BG",
+        "mentions": 13
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "96131866-f47f-515b-8596-7804aeeab05c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bcda143f-22fe-5876-a241-f13140b53af3",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Ikshvaku",
+        "scripture": "BG",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "13333d0f-3690-5bde-9a04-e3da09131df9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "0cf650dd-2045-5015-bba2-9de8e353b63d",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Bharata",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a0cd6e7a-dc60-5ee0-aa19-7fa47acf2d9c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "6c2c853a-31ed-5dbe-93b2-ad640884dc50",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Shakuntala",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "45dfb6f1-9343-5189-be4f-ae028085e916",
+      "type": "MENTIONED_IN",
+      "source_GUID": "aefb6ee7-75ea-57e3-951d-5e90c21d5bab",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Ananta",
+        "scripture": "BG",
+        "mentions": 31
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1deaf4fe-435e-5452-b7c7-2c80767ee708",
+      "type": "MENTIONED_IN",
+      "source_GUID": "3700bf98-fdaf-5212-ae32-80961b5f583c",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Mathura",
+        "scripture": "BG",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "c61a0fe3-0ec0-5157-b896-4fc2bca8cc6f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "fce2942e-7d48-5fe1-a70a-0ff75fda8c76",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Hastinapura",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "fa7a9a83-29ea-55f8-9a7b-e023c78f3d14",
+      "type": "MENTIONED_IN",
+      "source_GUID": "b8c825d5-859c-5265-9305-0014af5262ce",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Kurukshetra",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "5dc7fa9e-32ae-518d-9186-6be7794bb3cb",
+      "type": "MENTIONED_IN",
+      "source_GUID": "51fc54f0-0123-5675-aed7-b332c6a8a0d6",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Kashi",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ca479d63-a7a3-5af8-8a1f-bc95ce63b88a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9e05cf1e-4706-5d5f-a8ee-4cc59412d4cd",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Meru",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8614d405-7d42-5d5a-9202-bc53e8953588",
+      "type": "MENTIONED_IN",
+      "source_GUID": "dc420a49-956e-5826-9a05-ccb9a9cfadfd",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vrindavan",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "7a734f8c-438b-5c79-a08e-a779bb0ff114",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e395e18f-847e-5096-ac6b-d92198f1f902",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Ganga",
+        "scripture": "BG",
+        "mentions": 9
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "37e837d7-c6ec-5e01-8896-5f14727d8b18",
+      "type": "MENTIONED_IN",
+      "source_GUID": "42c61658-0ca0-5235-81c0-03f23126b067",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vaikuntha",
+        "scripture": "BG",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "09ef8c57-e24b-5128-a815-394f9ef692ab",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bf13f59b-6f45-5c96-b525-7a61c437eed4",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Brahmaloka",
+        "scripture": "BG",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6ebe42fc-301c-54d7-b8d5-6598298689ea",
+      "type": "MENTIONED_IN",
+      "source_GUID": "349ea387-a747-5bbe-a42a-30775b7fb732",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Satyaloka",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "548a8ba1-064c-55d4-a90e-0990e6c0bddd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "95408ca2-1f93-5d54-ae3c-02c9579e4231",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "BG",
+        "mentions": 184
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4fd0012e-87cf-5ca8-8b59-6d6a9a4a1768",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0c394b0-807e-58cd-9a09-538e1c3b641e",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "BG",
+        "mentions": 1252
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "cfb376bf-a5dc-5a35-b431-dee81993f658",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5e400021-96aa-55b8-a4e7-44328405a6c8",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Moksha",
+        "scripture": "BG",
+        "mentions": 142
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "60e2254c-3c04-5c2e-9b65-046e9626f8f3",
+      "type": "MENTIONED_IN",
+      "source_GUID": "77320820-b664-5118-ac2d-d0035f2479ac",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Bhakti",
+        "scripture": "BG",
+        "mentions": 193
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2e5d3989-58e6-5c18-b6db-6af19dc5da38",
+      "type": "MENTIONED_IN",
+      "source_GUID": "532eb92c-0b69-5902-ba99-5301f68c520c",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "BG",
+        "mentions": 729
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "047891c8-8a71-5d4a-b402-38800744a0c7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "08519a11-8511-53ec-ba7e-17ed3366c8fc",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Yoga",
+        "scripture": "BG",
+        "mentions": 334
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1f39f6e8-ba44-5011-9563-5cdb3b7c7588",
+      "type": "MENTIONED_IN",
+      "source_GUID": "690e7f77-ce94-528b-a87c-274d2c861364",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "BG",
+        "mentions": 550
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "eb85b3ba-78a3-5669-82c8-75af93ba0900",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ff689ba8-d04b-5b6e-9381-934f2059df58",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "BG",
+        "mentions": 115
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "473bdd33-dd96-5660-84e0-4349e3f597c8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5523b4dc-c134-57ea-92c7-3f42d170b177",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Maya",
+        "scripture": "BG",
+        "mentions": 108
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2d303440-950f-5eb4-a7f0-30a4b7a582f5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cf9160be-6107-52a9-b9c7-0bfd884cf81b",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Prakriti",
+        "scripture": "BG",
+        "mentions": 126
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8aacef78-8bb0-5594-84da-e96944a08fef",
+      "type": "MENTIONED_IN",
+      "source_GUID": "31c214ef-ab5c-56e3-b0c3-43acb43ff568",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Purusha",
+        "scripture": "BG",
+        "mentions": 75
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a62a3a1c-c33d-5d6c-a3c2-cd0435311ffd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "762bd9cf-201a-5cf0-8e15-438652efe976",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Samsara",
+        "scripture": "BG",
+        "mentions": 126
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1b311fe3-b3f0-58cc-81ae-5acd9390e7f5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "d24c750c-3927-57db-8816-cd5b96795deb",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Tapas",
+        "scripture": "BG",
+        "mentions": 18
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "fd7668e8-49b7-559c-a82d-ffbef33d8b12",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f67095c2-1698-5607-8ef2-efe07f19ae70",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Dhyana",
+        "scripture": "BG",
+        "mentions": 46
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1a772e4c-ad22-50f8-a070-4a8e5fe3c563",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eee11951-9991-5887-9437-5234a1c8efc7",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Mantra",
+        "scripture": "BG",
+        "mentions": 21
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "325187c8-1f9b-509d-88d6-f15d03c59139",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8ec29d-3f1c-55b2-8a06-f36eb30dcf75",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Yajna",
+        "scripture": "BG",
+        "mentions": 88
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b6c76b6f-89e5-5b27-9310-cf20db192177",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f6d96655-5224-55f9-bbf8-3953d495c5ae",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Dana",
+        "scripture": "BG",
+        "mentions": 29
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "cf43c97e-e1c9-58b3-bfa2-8c9cfe32ff98",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4c27b30e-9805-50af-8c74-166ddc977ecb",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Varna",
+        "scripture": "BG",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "02d4ee2d-b2b3-544a-930f-7c09ee6cfe6b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "75024a55-021b-5b54-85e7-0df16dd58f1f",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Ahimsa",
+        "scripture": "BG",
+        "mentions": 19
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b1dd0e2f-5977-58e4-bd67-af7ec353b1d2",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a7c38ea2-4088-524b-b10e-22be65732c79",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Satya",
+        "scripture": "BG",
+        "mentions": 41
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a10e375b-7f79-574a-9a5e-c9729360a0c5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "19ef1cee-1b16-5010-8c0f-b975e64a724a",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Shraddha",
+        "scripture": "BG",
+        "mentions": 89
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "095da791-ce5e-5ada-8728-07e5c86504b5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f4f71b23-d479-566c-92aa-4bb8d9cdf1d6",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Pranayama",
+        "scripture": "BG",
+        "mentions": 10
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "81f2dd22-167b-55be-af04-18e678cb9014",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Vidya",
+        "scripture": "BG",
+        "mentions": 75
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "106a4d41-341b-5166-89d4-bd95d97e2e89",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bf702797-8e91-5113-86f5-61949da30833",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Upanishad",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "173eaa8b-a04f-53b5-9d47-6e5f26650e68",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a1011a3f-20f2-578a-827a-d78f866a087c",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Gunas",
+        "scripture": "BG",
+        "mentions": 241
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1c8c5e14-fa1a-5070-ad7c-ffbc5c336007",
+      "type": "MENTIONED_IN",
+      "source_GUID": "25b4ac0e-aaf5-5e92-9b40-34e846012dc1",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Sattva",
+        "scripture": "BG",
+        "mentions": 131
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "7f3b9864-492f-5443-a276-3e1a342ab763",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9ff6de1a-8f8b-5702-a468-6aa65f16bad1",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Rajas",
+        "scripture": "BG",
+        "mentions": 57
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f0c945bf-0954-54bc-b053-c42c654c22ec",
+      "type": "MENTIONED_IN",
+      "source_GUID": "072c41eb-6f45-5ad6-bdac-98adc881bb97",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Tamas",
+        "scripture": "BG",
+        "mentions": 9
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d51faddb-a0b4-5da6-8688-76c38929f9cf",
+      "type": "MENTIONED_IN",
+      "source_GUID": "04b37d55-e6f1-5e79-bccf-2406cfa4db17",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Horse",
+        "scripture": "BG",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8524d9f3-c7e8-53fb-8eff-ca14acb8c4ea",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5a9750fc-f733-553b-876d-76231a770c7f",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Elephant",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "da580a09-fd22-55f4-9ba0-9bac9739dfb3",
+      "type": "MENTIONED_IN",
+      "source_GUID": "17f73881-56d7-584d-8fd3-2f7dc78b2609",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Cow",
+        "scripture": "BG",
+        "mentions": 14
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "fe1850c8-727e-51ee-b292-49414d639873",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2c0c52ea-c6a2-568f-ab23-72899f829168",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Swan",
+        "scripture": "BG",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "0c35e3bf-f3cd-5103-ab75-db42c5a13d5d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5d929d52-4481-5078-bea6-ecf89ff1815c",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Snake",
+        "scripture": "BG",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a0944f46-0eeb-5ace-9724-7330bc6f8884",
+      "type": "MENTIONED_IN",
+      "source_GUID": "06ea5351-5837-54d1-989c-67d5afa1fbc6",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Fish",
+        "scripture": "BG",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "835536a6-05b9-5d17-800a-08ca3fd5a3c6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "552ed94e-2f81-519e-a526-d47d689a57d1",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Mace",
+        "scripture": "BG",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "27139a09-a4cf-550b-9e85-f5cd0a1fdf55",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2c5998cf-d0fb-5414-a162-ee399b530f56",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Chakra",
+        "scripture": "BG",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "dde7c144-3f28-55fe-9a69-e2a3213dbad6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4333a8bc-85c6-5b45-9982-a4178f68f8c0",
+      "type": "MENTIONED_IN",
+      "source_GUID": "82835614-bbae-5cd1-b6c3-2d2d5613ae1d",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Veda Vyasa",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "3077e48e-042d-50f2-a9a9-14a424b02a42",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4853f34b-358c-57c6-b2ac-1817af2daf21",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Vasistha",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6f24063a-ea52-505f-8f5f-41ec49db0e60",
+      "type": "MENTIONED_IN",
+      "source_GUID": "98e57f14-f099-5db8-8936-3eec827847b2",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Gautama",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "9b9dce65-c8a4-51aa-96fc-b5288cda54e5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f5b02e97-34f8-56f7-99eb-53b1ac7c0b97",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Manu",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "39f3aa52-305a-590a-bf1a-a2a00e55cc1f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "440eca94-6f43-5a11-8ac2-d507a08a8f8d",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Yajnavalkya",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "73802ff0-525d-5081-a4be-703291a929bd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "95408ca2-1f93-5d54-ae3c-02c9579e4231",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "81aa3745-77f7-5823-a3ee-8bddd3b71666",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0c394b0-807e-58cd-9a09-538e1c3b641e",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 5
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "47c55bcc-ebbd-500f-a214-cca5e783497f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "532eb92c-0b69-5902-ba99-5301f68c520c",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "719eda99-8281-5ffc-baa0-9ff2e4a56468",
+      "type": "MENTIONED_IN",
+      "source_GUID": "75024a55-021b-5b54-85e7-0df16dd58f1f",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Ahimsa",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ca867442-3737-56da-8bfa-46561b7a772a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
+      "target_GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "evidence": {
+        "entity": "Vidya",
+        "scripture": "GAUTAMA_DS",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "5ffc7432-f951-521d-abd2-0307c094b7a3",
+      "type": "MENTIONED_IN",
+      "source_GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Surya",
+        "scripture": "ISHA",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "01996b25-374e-5204-91e3-899f3aa16cba",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "ISHA",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "78b7f460-f3be-5df2-9fa4-78769f2bcb61",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eab94359-939d-58b3-a1ab-dfe9d8aad6a2",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Puri",
+        "scripture": "ISHA",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "461bdcca-b3ee-50d8-8650-530be4f87611",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0c394b0-807e-58cd-9a09-538e1c3b641e",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "ISHA",
+        "mentions": 10
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "221e7069-83da-5afc-bc7f-f685b9dbbb58",
+      "type": "MENTIONED_IN",
+      "source_GUID": "532eb92c-0b69-5902-ba99-5301f68c520c",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "ISHA",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "037d08de-3fca-5075-9701-1ee1176f0c23",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ff689ba8-d04b-5b6e-9381-934f2059df58",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "ISHA",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "17a16f83-efe2-5c2a-a044-52497628b232",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eee11951-9991-5887-9437-5234a1c8efc7",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Mantra",
+        "scripture": "ISHA",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "5c06aab3-171c-518c-9e2a-7b1fe7a72d3b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Vidya",
+        "scripture": "ISHA",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "0bc79cc3-f4e7-53cb-96c9-f41ee0cf2b71",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bf702797-8e91-5113-86f5-61949da30833",
+      "target_GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "evidence": {
+        "entity": "Upanishad",
+        "scripture": "ISHA",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4465696d-0038-5136-8d59-3ffe05902534",
+      "type": "MENTIONED_IN",
+      "source_GUID": "778c5dc1-8ca2-5b01-bd0b-0e39b1a46a29",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Vishnu",
+        "scripture": "VISHNU_SM",
+        "mentions": 10
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "176ae918-70e6-5cdf-83a5-044612f66ca9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "b61fe180-0960-534d-9751-bb67190cef15",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Shiva",
+        "scripture": "VISHNU_SM",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a9fa4da2-0d60-5829-a9ce-7db9bf2934bd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "995b4002-1a6a-5307-af92-c8f4924752fc",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Brahma",
+        "scripture": "VISHNU_SM",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "dda52f21-f89d-5333-8ee0-b1b5e872db77",
+      "type": "MENTIONED_IN",
+      "source_GUID": "30b92434-bb5d-5bed-8ab7-9fec18661753",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Rama",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a7754f9e-efd9-58b9-8c41-e3e341a2311f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "660b8eb6-4677-53bf-8f0e-63438ece40de",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Krishna",
+        "scripture": "VISHNU_SM",
+        "mentions": 18
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "c5025120-ed33-50f5-8e3f-e9e5a4a04292",
+      "type": "MENTIONED_IN",
+      "source_GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Surya",
+        "scripture": "VISHNU_SM",
+        "mentions": 18
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "cb8eb5a0-32eb-50a8-8b97-b74fbc21badd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "37fefb85-9c56-5731-aa63-da06dcba701a",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Lakshmi",
+        "scripture": "VISHNU_SM",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "48c9e456-9202-5b58-a066-cc112cff7979",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8a61ec88-6260-5ee2-bfa9-0e416ce56c94",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Saraswati",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "af54322d-666a-5b8c-abaa-ad09dc6807b1",
+      "type": "MENTIONED_IN",
+      "source_GUID": "49e132e1-66a5-53b1-8a17-051c7da5c2c9",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Durga",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ff167b50-8a69-53e6-9081-ba82558514c6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Indra",
+        "scripture": "VISHNU_SM",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "dad18b01-d3b0-559a-939c-abc40d5df76d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "598f33e4-939d-54be-be78-4f560affb22f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "46da7125-9761-5be7-9467-4a6948f21625",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Varuna",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "17b09d23-3490-533b-bc70-d1b1787784a6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5c749089-2e3c-5780-bace-659e3cb36514",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Vayu",
+        "scripture": "VISHNU_SM",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8e083293-a50d-511b-b8ff-0f022c095594",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bef22b23-43c3-5b65-a6bc-1414aa9c6cfe",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Agni",
+        "scripture": "VISHNU_SM",
+        "mentions": 22
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8734b8a4-1d64-500f-99cb-156151c9e0d9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c901d901-8f85-5d8f-af33-c68fe5f09595",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "VISHNU_SM",
+        "mentions": 20
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a3af2fb0-2728-5b6d-bdce-b3337096a9c8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4450f5f3-e469-568c-ae43-08ece3fd8b13",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Shesha",
+        "scripture": "VISHNU_SM",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "013436d4-fe39-511f-8c1a-462a3274413e",
+      "type": "MENTIONED_IN",
+      "source_GUID": "232a729d-7e9a-5405-9e4f-1c8e99ee838c",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Shuka",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2b56053b-1781-528c-a245-29af96e842a8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cdc7ab57-935f-5381-960e-880898e35bc6",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Atri",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f95acc9c-9e14-5c01-af63-1a191395c829",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c4c4bb77-795a-51ad-9fd7-95aaa093921b",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Bhima",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ddb0f14c-b296-5d57-9bad-9f1cf0630831",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e4b3a371-0ecb-5907-a380-a41a675b93a5",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Drona",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "712fc044-56ae-53bb-9bc2-f8b94413124f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0d82c8c-ece3-54f0-8c86-47a93cf949b8",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Karna",
+        "scripture": "VISHNU_SM",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "625d5f61-1c08-59ff-8c05-5c5661d7b452",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c5320f5b-2690-5251-a593-6a055ef08761",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Bali",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "36c92bab-d0af-5bda-86d2-a252563dc56c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "aefb6ee7-75ea-57e3-951d-5e90c21d5bab",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Ananta",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "fe87537d-aaed-579b-8baf-7d6b1b0e0074",
+      "type": "MENTIONED_IN",
+      "source_GUID": "01b86d44-8fcc-529f-a4a6-77d808b3d1c8",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Patala",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "24491ead-304d-5090-9354-5d41836c7855",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eab94359-939d-58b3-a1ab-dfe9d8aad6a2",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Puri",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "31d86ed8-35dc-5c9a-83b7-bd65e659d72a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e395e18f-847e-5096-ac6b-d92198f1f902",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Ganga",
+        "scripture": "VISHNU_SM",
+        "mentions": 5
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "bf394df1-1db0-5b57-8abd-2253e7f65c53",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ed7ac1b6-734d-5847-99a7-fadb2440bc8e",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Yamuna",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "9b573231-7d51-5120-ac09-5d6c94273fa7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "6029c6b1-4dc7-57a9-96b4-c79b8a34ab59",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Narmada",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8752a6c5-af02-5e54-8e51-1219c269d1e5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "42c61658-0ca0-5235-81c0-03f23126b067",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Vaikuntha",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b7d5e31b-5d74-544c-b592-025418c4f527",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bf13f59b-6f45-5c96-b525-7a61c437eed4",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Brahmaloka",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f39ed5c3-f6f0-578f-a688-e39df5aeec94",
+      "type": "MENTIONED_IN",
+      "source_GUID": "d281a87d-ef1e-543e-a6f2-3c03b45b1ec7",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Svarloka",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d3467b27-1357-5c4b-95dd-beb404bf1904",
+      "type": "MENTIONED_IN",
+      "source_GUID": "95408ca2-1f93-5d54-ae3c-02c9579e4231",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "VISHNU_SM",
+        "mentions": 43
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "41f6dd91-a83a-5da1-b427-0fe548a85f0c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0c394b0-807e-58cd-9a09-538e1c3b641e",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "VISHNU_SM",
+        "mentions": 33
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ac00b236-9155-53e4-8db7-d221803c72b4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "532eb92c-0b69-5902-ba99-5301f68c520c",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "VISHNU_SM",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b289a63d-f836-512c-9400-e0ea7882dbba",
+      "type": "MENTIONED_IN",
+      "source_GUID": "08519a11-8511-53ec-ba7e-17ed3366c8fc",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Yoga",
+        "scripture": "VISHNU_SM",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ec9797db-a4c0-5c5d-bc0a-828aa053cf16",
+      "type": "MENTIONED_IN",
+      "source_GUID": "690e7f77-ce94-528b-a87c-274d2c861364",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "VISHNU_SM",
+        "mentions": 54
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "1a3db898-8741-5049-a5aa-fd12853f8800",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ff689ba8-d04b-5b6e-9381-934f2059df58",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "VISHNU_SM",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b286cda5-1807-55e7-aac2-0872b11417e2",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cf9160be-6107-52a9-b9c7-0bfd884cf81b",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Prakriti",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "07e11850-4976-52cb-82b9-be6b1622e380",
+      "type": "MENTIONED_IN",
+      "source_GUID": "31c214ef-ab5c-56e3-b0c3-43acb43ff568",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Purusha",
+        "scripture": "VISHNU_SM",
+        "mentions": 21
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "22b8c678-bb56-5027-9e95-621897539d38",
+      "type": "MENTIONED_IN",
+      "source_GUID": "762bd9cf-201a-5cf0-8e15-438652efe976",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Samsara",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a206fb71-2618-5c11-9d09-6ea190cc2339",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f67095c2-1698-5607-8ef2-efe07f19ae70",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Dhyana",
+        "scripture": "VISHNU_SM",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "27b83e2f-7853-5101-984c-ba4b3fe86df0",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eee11951-9991-5887-9437-5234a1c8efc7",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Mantra",
+        "scripture": "VISHNU_SM",
+        "mentions": 12
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "74809188-11f5-5a7a-8d10-222687a6c42d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8ec29d-3f1c-55b2-8a06-f36eb30dcf75",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Yajna",
+        "scripture": "VISHNU_SM",
+        "mentions": 23
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "62207c9e-ef36-5588-ad10-fe55453c553c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f6d96655-5224-55f9-bbf8-3953d495c5ae",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Dana",
+        "scripture": "VISHNU_SM",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f1fd5ae3-9849-51c8-bc47-ded63edfcea0",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4c27b30e-9805-50af-8c74-166ddc977ecb",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Varna",
+        "scripture": "VISHNU_SM",
+        "mentions": 12
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b4281d06-d478-58ae-9fd5-9d6ea288ae48",
+      "type": "MENTIONED_IN",
+      "source_GUID": "75024a55-021b-5b54-85e7-0df16dd58f1f",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Ahimsa",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e88211cc-de56-5cc2-b8e9-7d3b57796dc6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a7c38ea2-4088-524b-b10e-22be65732c79",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Satya",
+        "scripture": "VISHNU_SM",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "84930c0e-b73f-5cda-a970-8afff1f848e9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "19ef1cee-1b16-5010-8c0f-b975e64a724a",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Shraddha",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2a1cf989-b6ac-5c4c-808f-923adbb04bcd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f4f71b23-d479-566c-92aa-4bb8d9cdf1d6",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Pranayama",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "dde2ee5e-ab05-507e-9aab-80a7b30d64db",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Vidya",
+        "scripture": "VISHNU_SM",
+        "mentions": 9
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "70ac5547-01a6-5373-b3f9-9da000420b87",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bf702797-8e91-5113-86f5-61949da30833",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Upanishad",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "790f320b-e0f1-51e0-a497-d120681070fe",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a1011a3f-20f2-578a-827a-d78f866a087c",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Gunas",
+        "scripture": "VISHNU_SM",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "39f29c65-a9d4-5667-a398-cceb9d0a811d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9ff6de1a-8f8b-5702-a468-6aa65f16bad1",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Rajas",
+        "scripture": "VISHNU_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b839fd13-a814-5aaf-908c-01d1f25c0eda",
+      "type": "MENTIONED_IN",
+      "source_GUID": "04b37d55-e6f1-5e79-bccf-2406cfa4db17",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Horse",
+        "scripture": "VISHNU_SM",
+        "mentions": 9
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6ef80596-02d1-52e7-bdeb-d102eff6bdbe",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5a9750fc-f733-553b-876d-76231a770c7f",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Elephant",
+        "scripture": "VISHNU_SM",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "63dd509f-3fc8-5f2a-b7b1-efd9cb77bda5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "17f73881-56d7-584d-8fd3-2f7dc78b2609",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Cow",
+        "scripture": "VISHNU_SM",
+        "mentions": 51
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b91ff607-bbd6-5df7-9fdb-eb0b84242c59",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2c0c52ea-c6a2-568f-ab23-72899f829168",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Swan",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "801ad375-69be-5eaf-bd7e-d66a8b57c0e8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5d929d52-4481-5078-bea6-ecf89ff1815c",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Snake",
+        "scripture": "VISHNU_SM",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "fa632ca7-7d5e-5fee-8421-1ea79a49c8d2",
+      "type": "MENTIONED_IN",
+      "source_GUID": "06ea5351-5837-54d1-989c-67d5afa1fbc6",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Fish",
+        "scripture": "VISHNU_SM",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "94105072-9070-55f0-9c0c-b10854231bb8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ad87b895-e0bf-51c8-b11b-d5c10cbc7af5",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Monkey",
+        "scripture": "VISHNU_SM",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f731454c-dcda-5c95-8902-ea7bc77d8a76",
+      "type": "MENTIONED_IN",
+      "source_GUID": "552ed94e-2f81-519e-a526-d47d689a57d1",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Mace",
+        "scripture": "VISHNU_SM",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e9c7f695-9048-5385-aff0-4c338512d334",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2c5998cf-d0fb-5414-a162-ee399b530f56",
+      "target_GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "evidence": {
+        "entity": "Chakra",
+        "scripture": "VISHNU_SM",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "49f93c8b-4af8-50bf-a1f5-d36fc192f6ef",
+      "type": "MENTIONED_IN",
+      "source_GUID": "778c5dc1-8ca2-5b01-bd0b-0e39b1a46a29",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Vishnu",
+        "scripture": "VYU",
+        "mentions": 23
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "36b4bd43-da41-5480-bf9b-a131ca71b0a3",
+      "type": "MENTIONED_IN",
+      "source_GUID": "b61fe180-0960-534d-9751-bb67190cef15",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Shiva",
+        "scripture": "VYU",
+        "mentions": 96
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "093e0bb6-bb19-5936-86df-469d27f3318c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "995b4002-1a6a-5307-af92-c8f4924752fc",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Brahma",
+        "scripture": "VYU",
+        "mentions": 39
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8cd336ee-2472-5afc-ba33-ded762453907",
+      "type": "MENTIONED_IN",
+      "source_GUID": "30b92434-bb5d-5bed-8ab7-9fec18661753",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Rama",
+        "scripture": "VYU",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "16279f99-e57a-571b-90a6-86bee5479d1e",
+      "type": "MENTIONED_IN",
+      "source_GUID": "660b8eb6-4677-53bf-8f0e-63438ece40de",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Krishna",
+        "scripture": "VYU",
+        "mentions": 17
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "aa44c590-bf6d-5532-acf9-f6bcd3e544e6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "62f55490-760b-5304-9bf7-84526f60fcc5",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Surya",
+        "scripture": "VYU",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "542e3005-6645-5730-8226-4dc16411ada2",
+      "type": "MENTIONED_IN",
+      "source_GUID": "37fefb85-9c56-5731-aa63-da06dcba701a",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Lakshmi",
+        "scripture": "VYU",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "7447f18c-823f-555c-8557-7938bccc63cd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8a61ec88-6260-5ee2-bfa9-0e416ce56c94",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Saraswati",
+        "scripture": "VYU",
+        "mentions": 24
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "073b6022-b820-5579-a9b4-6a5b9b1264da",
+      "type": "MENTIONED_IN",
+      "source_GUID": "37dbb50c-e8a4-5298-8907-3e7d28e2f309",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Parvati",
+        "scripture": "VYU",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ac81d6ff-4a0c-5983-9278-983c1d86274a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "49e132e1-66a5-53b1-8a17-051c7da5c2c9",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Durga",
+        "scripture": "VYU",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "9460a83c-1c88-5466-8f13-64fb15a457d1",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9751e08f-cc4d-50a0-8e22-76d5b99950ba",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Indra",
+        "scripture": "VYU",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4074fc5b-2de0-5c6b-afda-7ca374e25ae4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "VYU",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "f2400993-b04a-57ca-8aac-17cbe4665281",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bef22b23-43c3-5b65-a6bc-1414aa9c6cfe",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Agni",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "ff155523-4511-5465-8ed0-aaea80ba5507",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8b3ac23a-c5e0-5884-bccb-ce86130f3566",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Nandi",
+        "scripture": "VYU",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "25d52140-72e2-5b7a-af9a-9fcc9f14da8c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c901d901-8f85-5d8f-af33-c68fe5f09595",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "VYU",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "850f76e5-6ae8-50bf-9ed4-ce6e581df9b8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c039b124-6ad5-54dd-9f70-24adb4e1b31b",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Narada",
+        "scripture": "VYU",
+        "mentions": 17
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6de01405-1a2e-5ce3-a81a-eb755c1bc52f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "39e54f49-4039-5421-b290-5b1d22b29be9",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Garuda",
+        "scripture": "VYU",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d839429c-e3bf-5791-9ba2-1aecd1abed6c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "6cb9bd66-1d0b-5992-ac12-e4c674ac5a65",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Kali",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "8cbb5bff-5ac2-59fe-b422-61eef2800188",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4e27e80c-a11e-504a-b84a-f74565256e70",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Skanda",
+        "scripture": "VYU",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "9fdf12eb-013e-500b-ad78-a724679f9b14",
+      "type": "MENTIONED_IN",
+      "source_GUID": "82835614-bbae-5cd1-b6c3-2d2d5613ae1d",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Veda Vyasa",
+        "scripture": "VYU",
+        "mentions": 9
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "021b8d34-8977-502b-af48-9efd7f5a3cb8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5e041a73-d2d3-5251-9abb-488f56a6e50b",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Parashara",
+        "scripture": "VYU",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2d4953ec-ac6a-53fa-adda-7cadc69ee527",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9f633182-3464-539c-91f2-682f51aa81ab",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Arjuna",
+        "scripture": "VYU",
+        "mentions": 97
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "607eb660-3daa-572c-8060-38a7a9ad4855",
+      "type": "MENTIONED_IN",
+      "source_GUID": "56e7e241-0c52-5705-afc1-82d050704711",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Yudhishthira",
+        "scripture": "VYU",
+        "mentions": 178
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a8709f0c-a976-513e-8c31-dd36318a5dde",
+      "type": "MENTIONED_IN",
+      "source_GUID": "11b39542-f081-59f9-a152-4fe0213eb724",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Duryodhana",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d0875938-a905-5ac9-979a-0e64935eead5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "bd0de9a0-31cf-5d44-a235-0bb9ad93b7fa",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Ravana",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "91275ee3-f0ef-598d-aedb-29b8ccd580aa",
+      "type": "MENTIONED_IN",
+      "source_GUID": "1dd5cab2-ede8-57a2-9227-0834139c8ae5",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Saunaka",
+        "scripture": "VYU",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a8356e68-3a1f-5957-8c3e-723d88331990",
+      "type": "MENTIONED_IN",
+      "source_GUID": "440eca94-6f43-5a11-8ac2-d507a08a8f8d",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Yajnavalkya",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b96bf6b1-1f3b-53f0-9c13-c6743d9c5f24",
+      "type": "MENTIONED_IN",
+      "source_GUID": "df435978-8174-52f6-917a-874b0c610235",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Pippalada",
+        "scripture": "VYU",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "932b9ee8-a10a-5f18-9a5a-9f010b5996e5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "78a2c8de-4258-503f-be68-284e7a6734a1",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Devaki",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "48291751-67ce-5327-92da-4e00eee575b4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e5a200ff-b0ac-5a97-b752-c70951eb697d",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Subhadra",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b3c2760a-93b6-5fcc-906a-c70f5e0275f5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "34d48199-90e4-591b-a713-c94337ff109e",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Kailas",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "a2ccfb6d-c617-5878-9146-8b34063d9394",
+      "type": "MENTIONED_IN",
+      "source_GUID": "51fc54f0-0123-5675-aed7-b332c6a8a0d6",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Kashi",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "52c53dd2-4bf8-5354-bf54-9c11a3a7c3d6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eab94359-939d-58b3-a1ab-dfe9d8aad6a2",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Puri",
+        "scripture": "VYU",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "bc7a81e3-2b89-5c03-8522-22d8813abec7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e395e18f-847e-5096-ac6b-d92198f1f902",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Ganga",
+        "scripture": "VYU",
+        "mentions": 29
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "5d09d0b3-1385-54ce-ba69-6ef4c8976c59",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ed7ac1b6-734d-5847-99a7-fadb2440bc8e",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Yamuna",
+        "scripture": "VYU",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "24c3bc13-f317-5ebd-b104-78d83524e73a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "6029c6b1-4dc7-57a9-96b4-c79b8a34ab59",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Narmada",
+        "scripture": "VYU",
+        "mentions": 55
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "83549ace-84ea-5706-aa4e-f27f759017a9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "95408ca2-1f93-5d54-ae3c-02c9579e4231",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "2ca4ecfc-079a-5844-a3ad-ca88562d2619",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a0c394b0-807e-58cd-9a09-538e1c3b641e",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "VYU",
+        "mentions": 21
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "18b789ba-ddc5-5fbf-bf0d-4a919267b28b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "532eb92c-0b69-5902-ba99-5301f68c520c",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "VYU",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "93c33650-8735-5ed4-a947-abb8a11020dd",
+      "type": "MENTIONED_IN",
+      "source_GUID": "690e7f77-ce94-528b-a87c-274d2c861364",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "VYU",
+        "mentions": 12
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "02ff9339-2be6-5989-b406-e3c3979f0320",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ff689ba8-d04b-5b6e-9381-934f2059df58",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "VYU",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "d42c6ff7-7f33-5fe4-96ad-d66038ed0d04",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5523b4dc-c134-57ea-92c7-3f42d170b177",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Maya",
+        "scripture": "VYU",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6181e988-317e-5c93-8a0a-54fcebb24736",
+      "type": "MENTIONED_IN",
+      "source_GUID": "d24c750c-3927-57db-8816-cd5b96795deb",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Tapas",
+        "scripture": "VYU",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "73a921a8-e0c8-5094-9e24-af16f5eff7a7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f6d96655-5224-55f9-bbf8-3953d495c5ae",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Dana",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "88792d2f-c1cd-559a-814d-f2f7731cf92e",
+      "type": "MENTIONED_IN",
+      "source_GUID": "75024a55-021b-5b54-85e7-0df16dd58f1f",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Ahimsa",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "5f4d71e1-67db-55ae-abad-6df339ac6740",
+      "type": "MENTIONED_IN",
+      "source_GUID": "19ef1cee-1b16-5010-8c0f-b975e64a724a",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Shraddha",
+        "scripture": "VYU",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "19528aff-5229-52b9-a8ca-7a18968a99f8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca8cccb0-12fe-5abb-adda-0a70ca77a37c",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Vidya",
+        "scripture": "VYU",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b8a04bca-6314-5685-a407-0caf708b700d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2c0c52ea-c6a2-568f-ab23-72899f829168",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Swan",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "38c2da5f-009e-52c4-924d-957f08da02b6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5d929d52-4481-5078-bea6-ecf89ff1815c",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Snake",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "5c141b2d-1797-50dc-a70b-03f5bd8022fc",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ad87b895-e0bf-51c8-b11b-d5c10cbc7af5",
+      "target_GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "evidence": {
+        "entity": "Monkey",
+        "scripture": "VYU",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4fc5a6e9-170e-5053-aadf-5a87de40b667",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a10a0ecf-812b-5de7-ac01-f4b8629c9e23",
+      "target_GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "NARADA_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "4d7d56af-a7b7-5c80-aa46-99dbb880f4e0",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c901d901-8f85-5d8f-af33-c68fe5f09595",
+      "target_GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "NARADA_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "e3dfb9e4-1993-5561-b0ba-98eab2ac14e8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f5b02e97-34f8-56f7-99eb-53b1ac7c0b97",
+      "target_GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "evidence": {
+        "entity": "Manu",
+        "scripture": "NARADA_SM",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "58e03a21-d237-516f-b273-175f3d291005",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c5320f5b-2690-5251-a593-6a055ef08761",
+      "target_GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "evidence": {
+        "entity": "Bali",
+        "scripture": "NARADA_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "3ce96914-7ef7-510a-905f-bbf88ab5f44f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eab94359-939d-58b3-a1ab-dfe9d8aad6a2",
+      "target_GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "evidence": {
+        "entity": "Puri",
+        "scripture": "NARADA_SM",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "6481297e-1ba8-5d40-80d7-a6fc2eadbc26",
+      "type": "MENTIONED_IN",
+      "source_GUID": "95408ca2-1f93-5d54-ae3c-02c9579e4231",
+      "target_GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "NARADA_SM",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "b7423189-d8f0-562e-9d5f-69c118fccc1b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "17f73881-56d7-584d-8fd3-2f7dc78b2609",
+      "target_GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "evidence": {
+        "entity": "Cow",
+        "scripture": "NARADA_SM",
+        "mentions": 35
+      },
+      "confidence": 85,
+      "phase": "v9.6"
+    },
+    {
+      "GUID": "01cd5d52-01e7-590c-9df7-25b09c5eb2f7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "dadf901e-a0e5-5994-9b31-4e8af6a74e99",
+      "target_GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "evidence": {
+        "entity": "Rudra",
+        "scripture": "BG",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.6"
     }
   ],
   "stats": {
-    "total_nodes": 543,
-    "total_edges": 4816
+    "total_nodes": 552,
+    "total_edges": 5083
   }
 }

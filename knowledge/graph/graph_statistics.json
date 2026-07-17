@@ -1,18 +1,18 @@
 {
-  "version": "9.5",
-  "generated": "2026-07-17T15:31:19.641336",
-  "phase": 9.5,
+  "version": "9.6",
+  "generated": "2026-07-17T16:03:15.773407",
+  "phase": 9.6,
   "nodes": {
-    "total": 543,
+    "total": 552,
     "scriptures": 54,
-    "entities": 489
+    "entities": 498
   },
   "edges": {
-    "total": 4816,
-    "mentioned_in": 4513,
+    "total": 5083,
+    "mentioned_in": 4780,
     "relationships": 303,
     "by_type": {
-      "MENTIONED_IN": 4513,
+      "MENTIONED_IN": 4780,
       "FATHER_OF": 35,
       "HUSBAND_OF": 11,
       "MOTHER_OF": 12,
@@ -75,10 +75,10 @@
     }
   },
   "entity_breakdown": {
-    "Deity": 58,
-    "Person": 161,
+    "Deity": 61,
+    "Person": 164,
     "Place": 49,
-    "Concept": 94,
+    "Concept": 97,
     "Weapon": 23,
     "Animal": 33,
     "Dynasty": 13,
@@ -90,6 +90,7 @@
     "Graha": 5,
     "Text": 19
   },
-  "orphan_nodes": 0,
+  "orphan_nodes": 1,
+  "broken_references": 0,
   "evidence_coverage_pct": 100.0
 }

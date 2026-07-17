@@ -1,0 +1,79 @@
+{
+  "BG": {
+    "title": "BG",
+    "file": "bhagavad_gita_4comm_gretil.xml",
+    "entities": 95,
+    "new": 5,
+    "text_len": 1660716
+  },
+  "BRAHMD": {
+    "title": "BRAHMD",
+    "file": "brahmanda_puran_ia_ia.txt",
+    "entities": 0,
+    "new": 0,
+    "text_len": 598443
+  },
+  "GAUTAMA_DS": {
+    "title": "GAUTAMA_DS",
+    "file": "gautama_dharmasutra_1_3_comm_gretil.xml",
+    "entities": 11,
+    "new": 0,
+    "text_len": 94601
+  },
+  "ISHA": {
+    "title": "ISHA",
+    "file": "isha_upanishad_gretil.xml",
+    "entities": 9,
+    "new": 0,
+    "text_len": 26860
+  },
+  "KEN": {
+    "title": "KEN",
+    "file": "kena_upanishad_ia.txt",
+    "entities": 0,
+    "new": 0,
+    "text_len": 8844
+  },
+  "MUND": {
+    "title": "MUND",
+    "file": "mundaka_upanishad_ia.txt",
+    "entities": 0,
+    "new": 0,
+    "text_len": 6756
+  },
+  "SHVET": {
+    "title": "SHVET",
+    "file": "shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+    "entities": 0,
+    "new": 0,
+    "text_len": 217259
+  },
+  "VISHNU_SM": {
+    "title": "VISHNU_SM",
+    "file": "vishnu_smriti_gretil.xml",
+    "entities": 62,
+    "new": 1,
+    "text_len": 283891
+  },
+  "VYU": {
+    "title": "VYU",
+    "file": "revakhanda_vayu_puran_gretil.xml",
+    "entities": 50,
+    "new": 1,
+    "text_len": 910735
+  },
+  "NARADA_SM": {
+    "title": "NARADA_SM",
+    "file": "narada_smriti_commentary_ia_ia_djvu.txt",
+    "entities": 7,
+    "new": 0,
+    "text_len": 608770
+  },
+  "YAJNAV": {
+    "title": "YAJNAV",
+    "file": "yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+    "entities": 0,
+    "new": 0,
+    "text_len": 275246
+  }
+}
