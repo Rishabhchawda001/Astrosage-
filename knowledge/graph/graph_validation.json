@@ -1,0 +1,14 @@
+{
+  "generated": "2026-07-17T19:15:41.812071",
+  "phase": "9.9",
+  "total_nodes": 445,
+  "total_edges": 5044,
+  "orphan_nodes": 0,
+  "orphan_edges": 0,
+  "broken_references": 0,
+  "duplicate_guids": 0,
+  "self_loops": 0,
+  "new_edges_added": 4,
+  "new_entities_added": 4,
+  "validation_status": "PASS"
+}

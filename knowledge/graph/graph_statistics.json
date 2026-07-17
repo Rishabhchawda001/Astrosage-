@@ -1,18 +1,16 @@
 {
-  "version": "9.8",
-  "generated": "2026-07-17T16:50:13.612312",
-  "phase": 9.8,
+  "version": "9.9",
+  "generated": "2026-07-17T19:15:41.786725",
+  "phase": 9.9,
   "nodes": {
-    "total": 441,
+    "total": 445,
     "scriptures": 54,
-    "entities": 387
+    "entities": 391
   },
   "edges": {
-    "total": 4976,
-    "mentioned_in": 4695,
-    "relationships": 281,
+    "total": 5044,
     "by_type": {
-      "MENTIONED_IN": 4695,
+      "MENTIONED_IN": 4763,
       "FATHER_OF": 32,
       "HUSBAND_OF": 11,
       "MOTHER_OF": 12,
@@ -82,21 +80,20 @@
       "DEFEATS": 1
     }
   },
-  "entity_breakdown": {
-    "Deity": 46,
-    "Person": 122,
-    "Place": 48,
-    "Concept": 50,
-    "Weapon": 23,
-    "Animal": 33,
-    "Dynasty": 11,
-    "Avatar": 7,
-    "Nakshatra": 5,
-    "Loka": 3,
-    "Ritual": 13,
-    "School": 2,
-    "Graha": 5,
-    "Text": 19
+  "recovery": {
+    "scriptures_recovered": [
+      "YOGA_SUTRA",
+      "MANU",
+      "KATH"
+    ],
+    "scriptures_certified_unrecoverable": [
+      "KEN",
+      "MUND",
+      "MAHAN",
+      "PARASHARA"
+    ],
+    "total_new_edges": 4,
+    "new_entities": 4
   },
   "orphan_nodes": 0,
   "broken_references": 0

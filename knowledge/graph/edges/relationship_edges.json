@@ -64124,5 +64124,889 @@
     "evidence": "canonical_scripture",
     "confidence": 90,
     "phase": "v9.7"
+  },
+  {
+    "GUID": "798099cc-30a0-4744-8154-3e172e3fedb7",
+    "type": "MENTIONED_IN",
+    "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Yama",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "3b77ba6b-e2cb-4b1a-88de-28365e5d4902",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Dharma",
+      "scripture": "Yogasūtra",
+      "mentions": 4
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "17c6d329-f529-4da6-98a3-6ff9284a3bd1",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Karma",
+      "scripture": "Yogasūtra",
+      "mentions": 7
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "09444fe2-3317-465f-ac16-b931def236ad",
+    "type": "MENTIONED_IN",
+    "source_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Moksha",
+      "scripture": "Yogasūtra",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "7e662b79-cac5-47d6-938c-1244d3763e9b",
+    "type": "MENTIONED_IN",
+    "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Yoga",
+      "scripture": "Yogasūtra",
+      "mentions": 4
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "20cd17a0-2edb-4972-8207-e864f67617f5",
+    "type": "MENTIONED_IN",
+    "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Brahman",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "79352ebb-e6e4-45f0-9bc1-b02691dc281c",
+    "type": "MENTIONED_IN",
+    "source_GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Purusha",
+      "scripture": "Yogasūtra",
+      "mentions": 11
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "eac762da-d23d-4e83-a31f-af2f3694cd1f",
+    "type": "MENTIONED_IN",
+    "source_GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Shraddha",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "876b1919-c339-4c96-b568-3e5c6042c2e4",
+    "type": "MENTIONED_IN",
+    "source_GUID": "58b7d7a5-9ea4-5fd4-80e3-e3ed9e02fa79",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Pranayama",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "75159d93-95e2-48a7-b19f-76d9a3441dd5",
+    "type": "MENTIONED_IN",
+    "source_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Vishnu",
+      "scripture": "Katha Upanishad",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "97b58c7f-3580-4e49-ba0b-28c1428094a9",
+    "type": "MENTIONED_IN",
+    "source_GUID": "9d9f5222-559c-5783-bbb9-87ebfe77f169",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Upanishad",
+      "scripture": "Katha Upanishad",
+      "mentions": 13
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "c8c7a406-09f9-4880-88ec-8303e53a6ccb",
+    "type": "MENTIONED_IN",
+    "source_GUID": "eebb15e3-2098-57e6-8bb0-66351ac2b001",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Vedanta",
+      "scripture": "Katha Upanishad",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "6607efca-fbab-4e7b-a579-f69588612119",
+    "type": "MENTIONED_IN",
+    "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Yama",
+      "scripture": "Yogasūtra",
+      "mentions": 3
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "935d5be0-4ee2-499a-a6e8-9b9979f5c337",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Dharma",
+      "scripture": "Yogasūtra",
+      "mentions": 4
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "68b6e474-86ae-4915-9a28-205fb7beacf1",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Karma",
+      "scripture": "Yogasūtra",
+      "mentions": 7
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "786540fe-6908-4053-ba01-05714fd7e99a",
+    "type": "MENTIONED_IN",
+    "source_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Moksha",
+      "scripture": "Yogasūtra",
+      "mentions": 3
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "3fbcf61d-3989-40a8-a032-79e69cda6a42",
+    "type": "MENTIONED_IN",
+    "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Yoga",
+      "scripture": "Yogasūtra",
+      "mentions": 7
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "d38b95d0-774c-41f2-ae45-ae08c3bdd005",
+    "type": "MENTIONED_IN",
+    "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Brahman",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "5c3af955-8768-4146-9c46-7fd483def8db",
+    "type": "MENTIONED_IN",
+    "source_GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Purusha",
+      "scripture": "Yogasūtra",
+      "mentions": 12
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "136e97e7-b3c6-4274-a4a7-56cc77da7ca7",
+    "type": "MENTIONED_IN",
+    "source_GUID": "2825f7a9-fb80-5f3e-84bc-f02d0135df85",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Gunas",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "c93c1e16-a54b-4e4b-9622-20c69806dda3",
+    "type": "MENTIONED_IN",
+    "source_GUID": "727d421b-7cfc-5431-97e0-4840b6fa1600",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Ahimsa",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "78d4e776-48f0-4d8f-8587-ac522e156b85",
+    "type": "MENTIONED_IN",
+    "source_GUID": "cd504b3b-da2e-5d89-96db-f0a0167e57b1",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Dhyana",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "6faaeec5-f785-4ad5-9340-b63b61432ec8",
+    "type": "MENTIONED_IN",
+    "source_GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Shraddha",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "159c37e9-da28-49a9-93a0-c1bda482044f",
+    "type": "MENTIONED_IN",
+    "source_GUID": "58b7d7a5-9ea4-5fd4-80e3-e3ed9e02fa79",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Pranayama",
+      "scripture": "Yogasūtra",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "804bae9a-8f68-41ef-8ac7-f285166467f6",
+    "type": "MENTIONED_IN",
+    "source_GUID": "1bfbdc97-c2f6-5184-894b-e63d980ff5e3",
+    "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+    "evidence": {
+      "entity": "Kurma Avatar",
+      "scripture": "Yogasūtra",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "db73227e-094c-460d-a8d5-c5e2328725f0",
+    "type": "MENTIONED_IN",
+    "source_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Vishnu",
+      "scripture": "Manusmṛti",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "1b944fe3-183c-4b4a-ac99-767d8cdc5530",
+    "type": "MENTIONED_IN",
+    "source_GUID": "e36e80e7-7bbb-5b63-aa27-14cefba19e5b",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Brahma",
+      "scripture": "Manusmṛti",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "1de7b2cd-a6fc-4c84-b3c7-fde311719b97",
+    "type": "MENTIONED_IN",
+    "source_GUID": "ca95e9d2-39b1-5fd3-b26e-d006cffeb2ff",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Indra",
+      "scripture": "Manusmṛti",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "cc082503-0a91-4517-9fa9-b4d75ff3ef2b",
+    "type": "MENTIONED_IN",
+    "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Yama",
+      "scripture": "Manusmṛti",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "f978c04d-1956-4109-839c-9ee0810284e3",
+    "type": "MENTIONED_IN",
+    "source_GUID": "3f117f52-2290-5558-b9cd-d5010b5c6328",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Chandra",
+      "scripture": "Manusmṛti",
+      "mentions": 8
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "3554897b-2361-4edc-89ba-7814afe4064b",
+    "type": "MENTIONED_IN",
+    "source_GUID": "98e57f14-f099-5db8-8936-3eec827847b2",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Gautama",
+      "scripture": "Manusmṛti",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "2c40eaaa-2f19-42e0-899f-ac9e817bb31b",
+    "type": "MENTIONED_IN",
+    "source_GUID": "f5b02e97-34f8-56f7-99eb-53b1ac7c0b97",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Manu",
+      "scripture": "Manusmṛti",
+      "mentions": 27
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "b0ec5bba-db6b-4f44-b414-ae4c0bb739d9",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Dharma",
+      "scripture": "Manusmṛti",
+      "mentions": 38
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "b5b99372-bde1-424d-a5bf-362c273d89e2",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Karma",
+      "scripture": "Manusmṛti",
+      "mentions": 45
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "49f0c6fd-6fe4-497e-b377-6f489690c971",
+    "type": "MENTIONED_IN",
+    "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Jnana",
+      "scripture": "Manusmṛti",
+      "mentions": 8
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "b6f6aba0-faf6-4e2a-992e-9dc1657e5a34",
+    "type": "MENTIONED_IN",
+    "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Brahman",
+      "scripture": "Manusmṛti",
+      "mentions": 24
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "f3901b71-708e-42c4-a6a9-5f18d69c0334",
+    "type": "MENTIONED_IN",
+    "source_GUID": "446d7abe-0630-597a-b67a-13137588c017",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Atman",
+      "scripture": "Manusmṛti",
+      "mentions": 3
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "49c0d243-9c30-4782-a53e-f92d446404e7",
+    "type": "MENTIONED_IN",
+    "source_GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Purusha",
+      "scripture": "Manusmṛti",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "38fdb965-0971-4f88-9150-fec0d3c7e849",
+    "type": "MENTIONED_IN",
+    "source_GUID": "2825f7a9-fb80-5f3e-84bc-f02d0135df85",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Gunas",
+      "scripture": "Manusmṛti",
+      "mentions": 3
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "f4b03d81-352b-4076-908a-b5bf0c2d5cee",
+    "type": "MENTIONED_IN",
+    "source_GUID": "727d421b-7cfc-5431-97e0-4840b6fa1600",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Ahimsa",
+      "scripture": "Manusmṛti",
+      "mentions": 3
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "f30ccc71-d6dc-43c5-a686-c68b687a311f",
+    "type": "MENTIONED_IN",
+    "source_GUID": "8076377a-f090-5041-8827-b34ed259f936",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Tapas",
+      "scripture": "Manusmṛti",
+      "mentions": 5
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "5952eaa3-68df-44b0-8e92-4640f1f679bc",
+    "type": "MENTIONED_IN",
+    "source_GUID": "2390c087-9d5b-536a-94f6-06e61f39e2b2",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Yajna",
+      "scripture": "Manusmṛti",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "8ae3a741-7ca4-4e8f-ae18-e585d2e915fb",
+    "type": "MENTIONED_IN",
+    "source_GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Shraddha",
+      "scripture": "Manusmṛti",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "1a661af5-f25b-4ef3-8728-5f474481679a",
+    "type": "MENTIONED_IN",
+    "source_GUID": "a4d1aed8-ce01-5370-bb4a-921dc5123d0d",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Diksha",
+      "scripture": "Manusmṛti",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "59b9acc0-d505-434c-b88e-cc32e80a3fd1",
+    "type": "MENTIONED_IN",
+    "source_GUID": "695636a4-4b5f-5a9e-881a-a0a854409a1a",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Vidya",
+      "scripture": "Manusmṛti",
+      "mentions": 8
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "0e520697-9eb6-40ba-a508-d8ff49cbf11b",
+    "type": "MENTIONED_IN",
+    "source_GUID": "17f73881-56d7-584d-8fd3-2f7dc78b2609",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Cow",
+      "scripture": "Manusmṛti",
+      "mentions": 5
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "0d4097ab-86b3-4b61-88c3-e92ec841bb1c",
+    "type": "MENTIONED_IN",
+    "source_GUID": "1bfbdc97-c2f6-5184-894b-e63d980ff5e3",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Kurma Avatar",
+      "scripture": "Manusmṛti",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "6c46ba97-c330-43f1-8eba-d574d5db183e",
+    "type": "MENTIONED_IN",
+    "source_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Vishnu",
+      "scripture": "Katha Upanishad",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "23f3c0bd-7820-46e4-8dc9-629a64e13a58",
+    "type": "MENTIONED_IN",
+    "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Yama",
+      "scripture": "Katha Upanishad",
+      "mentions": 27
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "7823c21d-6ebd-49c3-b553-e4f8b2dda80a",
+    "type": "MENTIONED_IN",
+    "source_GUID": "ca95e9d2-39b1-5fd3-b26e-d006cffeb2ff",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Indra",
+      "scripture": "Katha Upanishad",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "e92b1d80-bae7-49e2-bb98-ed04ff699557",
+    "type": "MENTIONED_IN",
+    "source_GUID": "d80fa61e-fa0f-58e0-a57b-000c08269b58",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Agni",
+      "scripture": "Katha Upanishad",
+      "mentions": 20
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "a58756b6-4d24-4f92-b77e-f6175d28667d",
+    "type": "MENTIONED_IN",
+    "source_GUID": "5c749089-2e3c-5780-bace-659e3cb36514",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Vayu",
+      "scripture": "Katha Upanishad",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "e56da049-9faa-4a03-8d3e-50ad1dd1d8ae",
+    "type": "MENTIONED_IN",
+    "source_GUID": "9e7876e4-8ac8-585a-9f2d-e3cf931dd48a",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Surya",
+      "scripture": "Katha Upanishad",
+      "mentions": 6
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "fad538ce-c813-4f02-a2ba-8792521ccb60",
+    "type": "MENTIONED_IN",
+    "source_GUID": "3f117f52-2290-5558-b9cd-d5010b5c6328",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Chandra",
+      "scripture": "Katha Upanishad",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "35ce7db2-3d4d-4f62-aead-6626076165ed",
+    "type": "MENTIONED_IN",
+    "source_GUID": "e36e80e7-7bbb-5b63-aa27-14cefba19e5b",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Brahma",
+      "scripture": "Katha Upanishad",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "b2de5350-6641-4644-91c3-82d10da630ff",
+    "type": "MENTIONED_IN",
+    "source_GUID": "98e57f14-f099-5db8-8936-3eec827847b2",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Gautama",
+      "scripture": "Katha Upanishad",
+      "mentions": 3
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "88517fe3-c24c-4224-8cbc-501b0b7ea4ff",
+    "type": "MENTIONED_IN",
+    "source_GUID": "fd51e7f2-81e6-59bb-ae50-d5ae9066244b",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Svarga",
+      "scripture": "Katha Upanishad",
+      "mentions": 9
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "a613b07f-29e8-4eee-8d11-469f5284a07c",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Karma",
+      "scripture": "Katha Upanishad",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "ab51c998-b10c-4402-8add-2185d4c4eb89",
+    "type": "MENTIONED_IN",
+    "source_GUID": "446d7abe-0630-597a-b67a-13137588c017",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Atman",
+      "scripture": "Katha Upanishad",
+      "mentions": 41
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "3d6c295b-d05c-459e-b586-2d7bed4a9494",
+    "type": "MENTIONED_IN",
+    "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Brahman",
+      "scripture": "Katha Upanishad",
+      "mentions": 18
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "2d5475ac-5fdc-4f97-a7e1-d149f0bda07a",
+    "type": "MENTIONED_IN",
+    "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Yoga",
+      "scripture": "Katha Upanishad",
+      "mentions": 4
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "cd4f9c58-04b6-4a9a-9039-2b85f626e6ec",
+    "type": "MENTIONED_IN",
+    "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Jnana",
+      "scripture": "Katha Upanishad",
+      "mentions": 13
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "73888973-04b0-4ad8-b9b8-2fb46bba7127",
+    "type": "MENTIONED_IN",
+    "source_GUID": "8076377a-f090-5041-8827-b34ed259f936",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Tapas",
+      "scripture": "Katha Upanishad",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "322e2380-ade8-48b8-a9aa-e668a4ca0e45",
+    "type": "MENTIONED_IN",
+    "source_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Samsara",
+      "scripture": "Katha Upanishad",
+      "mentions": 2
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "354053ba-b42b-45bd-87e5-172c7ec0bb90",
+    "type": "MENTIONED_IN",
+    "source_GUID": "c3ccde7e-a285-5126-9810-93fcc2faa2a7",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Nachiketas",
+      "scripture": "Katha Upanishad",
+      "mentions": 42
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "b857e4f1-381e-4ce7-9e74-693f3c8036e9",
+    "type": "MENTIONED_IN",
+    "source_GUID": "033ed403-1651-5bdb-ad42-fa103590087a",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Vajasravasa",
+      "scripture": "Katha Upanishad",
+      "mentions": 1
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "561f9323-4072-476d-9ecb-fcc295e02773",
+    "type": "MENTIONED_IN",
+    "source_GUID": "34ae537b-e037-5225-8abb-8bba8d45a6b5",
+    "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+    "evidence": {
+      "entity": "Prana",
+      "scripture": "Katha Upanishad",
+      "mentions": 4
+    },
+    "confidence": 85,
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "031ec1f0-22f6-4c17-834d-bccffe765a35",
+    "type": "MENTIONED_IN",
+    "source_GUID": "4a80812e-d33d-571c-9c01-6df9e40c33de",
+    "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+    "evidence": {
+      "entity": "Soma",
+      "scripture": "Manusmṛti",
+      "mentions": 8
+    },
+    "confidence": 85,
+    "phase": "v9.9"
   }
 ]

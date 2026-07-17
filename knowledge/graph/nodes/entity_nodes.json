@@ -4,7 +4,7 @@
     "name": "Vishnu",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 607,
+    "total_mentions": 610,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -35,7 +35,9 @@
       "Bhagavadāśayānusaraṇabhāsya",
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Mahābhāratatātparyanirṇaya",
-      "Śāṅkhāyanaśrautasūtra"
+      "Śāṅkhāyanaśrautasūtra",
+      "Katha Upanishad",
+      "Manusmṛti"
     ],
     "source_count": 30,
     "provenance": {
@@ -95,7 +97,7 @@
     "name": "Brahma",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 407,
+    "total_mentions": 411,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -142,7 +144,9 @@
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Brahmāṇḍapurāṇa"
+      "Brahmāṇḍapurāṇa",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 46,
     "provenance": {
@@ -247,7 +251,7 @@
     "name": "Surya",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 721,
+    "total_mentions": 727,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -289,7 +293,8 @@
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
-      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Katha Upanishad"
     ],
     "source_count": 41,
     "provenance": {
@@ -504,7 +509,7 @@
     "name": "Indra",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 1896,
+    "total_mentions": 1899,
     "sources": [
       "Vedārthasaṃgraha",
       "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
@@ -541,7 +546,9 @@
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
-      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 36,
     "provenance": {
@@ -555,7 +562,7 @@
     "name": "Yama",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 356,
+    "total_mentions": 389,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -595,7 +602,9 @@
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 39,
     "provenance": {
@@ -645,7 +654,7 @@
     "name": "Vayu",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 139,
+    "total_mentions": 141,
     "sources": [
       "Śāṅkhāyanaśrautasūtra",
       "Atharvavedapariśiṣṭas",
@@ -667,7 +676,8 @@
       "Bhāgavatapurāṇa",
       "Ṛgvedakhilāni",
       "Ṛgvedasaṃhitā, Padapāṭha",
-      "Āśvalāyanagṛhyasūtra"
+      "Āśvalāyanagṛhyasūtra",
+      "Katha Upanishad"
     ],
     "source_count": 21,
     "provenance": {
@@ -680,7 +690,7 @@
     "name": "Agni",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 300,
+    "total_mentions": 320,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -707,7 +717,8 @@
       "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
       "Atharvaprāyaścittāni",
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
-      "Śāṅkhāyanaśrautasūtra"
+      "Śāṅkhāyanaśrautasūtra",
+      "Katha Upanishad"
     ],
     "source_count": 26,
     "provenance": {
@@ -938,7 +949,7 @@
     "name": "Chandra",
     "type": "Deity",
     "entity_type": "Deity",
-    "total_mentions": 4413,
+    "total_mentions": 4422,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -968,7 +979,9 @@
       "Atharvaprāyaścittāni",
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Mahābhāratatātparyanirṇaya",
-      "Śāṅkhāyanaśrautasūtra"
+      "Śāṅkhāyanaśrautasūtra",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 29,
     "provenance": {
@@ -1283,7 +1296,7 @@
     "name": "Gautama",
     "type": "Person",
     "entity_type": "Person",
-    "total_mentions": 27,
+    "total_mentions": 32,
     "sources": [
       "Vedārthasaṃgraha",
       "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
@@ -1295,7 +1308,9 @@
       "Vaikhānasadharmasūtra",
       "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
       "Āśvalāyanagṛhyasūtra",
-      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 11,
     "provenance": {
@@ -2016,7 +2031,7 @@
     "name": "Manu",
     "type": "Person",
     "entity_type": "Person",
-    "total_mentions": 41,
+    "total_mentions": 68,
     "sources": [
       "Vedārthasaṃgraha",
       "Ṛgvedakhilāni",
@@ -2032,7 +2047,8 @@
       "Bhāgavatapurāṇa",
       "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
       "Bhagavadāśayānusaraṇabhāsya",
-      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "Manusmṛti"
     ],
     "source_count": 15,
     "provenance": {
@@ -2560,7 +2576,7 @@
     "name": "Svarga",
     "type": "Place",
     "entity_type": "Place",
-    "total_mentions": 170,
+    "total_mentions": 179,
     "sources": [
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
@@ -2584,7 +2600,8 @@
       "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
       "Pañcaviṃśabrāhmaṇa",
       "Bhagavadāśayānusaraṇabhāsya",
-      "Āśvalāyanagṛhyasūtra"
+      "Āśvalāyanagṛhyasūtra",
+      "Katha Upanishad"
     ],
     "source_count": 23,
     "provenance": {
@@ -3024,7 +3041,7 @@
     "name": "Dharma",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 566,
+    "total_mentions": 612,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3057,7 +3074,9 @@
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Yogasūtra",
+      "Manusmṛti"
     ],
     "source_count": 32,
     "provenance": {
@@ -3071,7 +3090,7 @@
     "name": "Karma",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 3236,
+    "total_mentions": 3297,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3119,7 +3138,10 @@
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Yogasūtra",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 47,
     "provenance": {
@@ -3133,7 +3155,7 @@
     "name": "Moksha",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 312,
+    "total_mentions": 317,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3190,7 +3212,7 @@
     "name": "Jnana",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 1583,
+    "total_mentions": 1604,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3226,7 +3248,9 @@
       "Uḍḍāmareśvaratantra",
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
-      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 35,
     "provenance": {
@@ -3240,7 +3264,7 @@
     "name": "Yoga",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 1450,
+    "total_mentions": 1465,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3267,7 +3291,8 @@
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Katha Upanishad"
     ],
     "source_count": 26,
     "provenance": {
@@ -3285,7 +3310,7 @@
     "name": "Brahman",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 3202,
+    "total_mentions": 3246,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3330,7 +3355,10 @@
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Yogasūtra",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 44,
     "provenance": {
@@ -3344,7 +3372,7 @@
     "name": "Atman",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 1080,
+    "total_mentions": 1124,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3380,7 +3408,9 @@
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
-      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 35,
     "provenance": {
@@ -3465,7 +3495,7 @@
     "name": "Purusha",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 519,
+    "total_mentions": 543,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3499,7 +3529,8 @@
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Manusmṛti"
     ],
     "source_count": 33,
     "provenance": {
@@ -3513,7 +3544,7 @@
     "name": "Gunas",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 1127,
+    "total_mentions": 1131,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3541,7 +3572,8 @@
       "Bhagavadāśayānusaraṇabhāsya",
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Śāṅkhāyanaśrautasūtra",
-      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Manusmṛti"
     ],
     "source_count": 27,
     "provenance": {
@@ -3555,7 +3587,7 @@
     "name": "Samsara",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 221,
+    "total_mentions": 223,
     "sources": [
       "Viṣṇudharma",
       "Vedārthasaṃgraha",
@@ -3570,7 +3602,8 @@
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
       "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
-      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya"
+      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+      "Katha Upanishad"
     ],
     "source_count": 14,
     "provenance": {
@@ -3584,7 +3617,7 @@
     "name": "Ahimsa",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 38,
+    "total_mentions": 42,
     "sources": [
       "Viṣṇudharma",
       "Yogasūtra",
@@ -3595,7 +3628,8 @@
       "Baudhāyanadharmasūtra",
       "Agnipurāṇa",
       "Bhagavadgītābhāṣya",
-      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Manusmṛti"
     ],
     "source_count": 10,
     "provenance": {
@@ -3645,7 +3679,7 @@
     "name": "Tapas",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 129,
+    "total_mentions": 135,
     "sources": [
       "Āpastambadharmasūtra",
       "Viṣṇudharma",
@@ -3663,7 +3697,9 @@
       "Pañcaviṃśabrāhmaṇa",
       "Śāṅkhāyanaśrautasūtra",
       "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
-      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya"
+      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+      "Manusmṛti",
+      "Katha Upanishad"
     ],
     "source_count": 17,
     "provenance": {
@@ -3706,7 +3742,7 @@
     "name": "Dhyana",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 86,
+    "total_mentions": 87,
     "sources": [
       "Vedārthasaṃgraha",
       "Yogasūtra",
@@ -3774,7 +3810,7 @@
     "name": "Yajna",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 728,
+    "total_mentions": 729,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3806,7 +3842,8 @@
       "Atharvaprāyaścittāni",
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Śāṅkhāyanaśrautasūtra",
-      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Manusmṛti"
     ],
     "source_count": 31,
     "provenance": {
@@ -3858,7 +3895,7 @@
     "name": "Shraddha",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 184,
+    "total_mentions": 187,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3887,7 +3924,9 @@
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Mahābhāratatātparyanirṇaya",
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Yogasūtra",
+      "Manusmṛti"
     ],
     "source_count": 28,
     "provenance": {
@@ -3901,7 +3940,7 @@
     "name": "Diksha",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 53,
+    "total_mentions": 54,
     "sources": [
       "Śivapurāṇa, Books 1 and 7",
       "Vāsiṣṭhadharmasūtra",
@@ -3914,7 +3953,8 @@
       "Śāṅkhāyanaśrautasūtra",
       "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
       "Pañcaviṃśabrāhmaṇa",
-      "Mṛgendrāgama (= Mrgendratantra)"
+      "Mṛgendrāgama (= Mrgendratantra)",
+      "Manusmṛti"
     ],
     "source_count": 12,
     "provenance": {
@@ -3928,7 +3968,7 @@
     "name": "Pranayama",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 23,
+    "total_mentions": 26,
     "sources": [
       "Yogasūtra",
       "Vāsiṣṭhadharmasūtra",
@@ -4034,7 +4074,7 @@
     "name": "Vidya",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 352,
+    "total_mentions": 360,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4067,7 +4107,8 @@
       "Uḍḍāmareśvaratantra",
       "Mahābhāratatātparyanirṇaya",
       "Śāṅkhāyanaśrautasūtra",
-      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Manusmṛti"
     ],
     "source_count": 32,
     "provenance": {
@@ -4081,13 +4122,14 @@
     "name": "Upanishad",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 7,
+    "total_mentions": 20,
     "sources": [
       "Vedārthasaṃgraha",
       "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
       "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
-      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya"
+      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+      "Katha Upanishad"
     ],
     "source_count": 5,
     "provenance": {
@@ -4186,14 +4228,15 @@
     "name": "Vedanta",
     "type": "Concept",
     "entity_type": "Concept",
-    "total_mentions": 77,
+    "total_mentions": 78,
     "sources": [
       "Vedārthasaṃgraha",
       "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
       "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
       "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
       "Bhagavadgītābhāṣya",
-      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Katha Upanishad"
     ],
     "source_count": 6,
     "provenance": {
@@ -4515,7 +4558,7 @@
     "name": "Cow",
     "type": "Animal",
     "entity_type": "Animal",
-    "total_mentions": 443,
+    "total_mentions": 448,
     "sources": [
       "Śāṅkhāyanaśrautasūtra",
       "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
@@ -4538,7 +4581,8 @@
       "Ṛgvedasaṃhitā, Padapāṭha",
       "Sāmavedasaṃhitā",
       "Pañcaviṃśabrāhmaṇa",
-      "Āśvalāyanagṛhyasūtra"
+      "Āśvalāyanagṛhyasūtra",
+      "Manusmṛti"
     ],
     "source_count": 22,
     "provenance": {
@@ -4896,7 +4940,7 @@
     "name": "Kurma Avatar",
     "type": "Avatar",
     "entity_type": "Avatar",
-    "total_mentions": 8,
+    "total_mentions": 10,
     "sources": [
       "Viṣṇusmṛti",
       "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
@@ -4904,7 +4948,8 @@
       "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
       "Yogasūtra",
       "Bhāgavatapurāṇa",
-      "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+      "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+      "Manusmṛti"
     ],
     "source_count": 7,
     "provenance": {
@@ -9543,5 +9588,53 @@
       "method": "saturation",
       "pass": 1
     }
+  },
+  {
+    "GUID": "c3ccde7e-a285-5126-9810-93fcc2faa2a7",
+    "name": "Nachiketas",
+    "type": "Person",
+    "entity_type": "Person",
+    "total_mentions": 42,
+    "sources": [
+      "Katha Upanishad"
+    ],
+    "description": "Son of Vajasravasa, protagonist of Katha Upanishad dialogue with Yama",
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "033ed403-1651-5bdb-ad42-fa103590087a",
+    "name": "Vajasravasa",
+    "type": "Person",
+    "entity_type": "Person",
+    "total_mentions": 1,
+    "sources": [
+      "Katha Upanishad"
+    ],
+    "description": "Father of Nachiketas who offered all wealth in sacrifice",
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "34ae537b-e037-5225-8abb-8bba8d45a6b5",
+    "name": "Prana",
+    "type": "Concept",
+    "entity_type": "Concept",
+    "total_mentions": 4,
+    "sources": [
+      "Katha Upanishad"
+    ],
+    "description": "Vital breath, life force in Upanishadic philosophy",
+    "phase": "v9.9"
+  },
+  {
+    "GUID": "4a80812e-d33d-571c-9c01-6df9e40c33de",
+    "name": "Soma",
+    "type": "Ritual",
+    "entity_type": "Ritual",
+    "total_mentions": 8,
+    "sources": [
+      "Manusmṛti"
+    ],
+    "description": "Soma sacrifice and ritual drink",
+    "phase": "v9.9"
   }
 ]

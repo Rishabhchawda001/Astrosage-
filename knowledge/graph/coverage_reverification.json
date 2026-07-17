@@ -1,0 +1,18 @@
+{
+  "generated": "2026-07-17T19:15:41.809585",
+  "phase": "9.9",
+  "total_scriptures": 54,
+  "zero_coverage_remaining": 4,
+  "zero_coverage": [
+    "KEN",
+    "MUND",
+    "MAHAN",
+    "PARASHARA"
+  ],
+  "recovered_count": 3,
+  "recovered": [
+    "YOGA_SUTRA",
+    "MANU",
+    "KATH"
+  ]
+}

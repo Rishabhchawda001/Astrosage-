@@ -1,715 +1,13 @@
 {
   "version": "9.8",
-  "generated": "2026-07-17T16:50:13.545242",
+  "generated": "2026-07-17T19:15:41.715759",
   "nodes": [
-    {
-      "type": "Scripture",
-      "GUID": "6d2798d7-5530-45da-96e3-702c196fde43",
-      "id": "AGNI",
-      "canonical_name": "AGNI",
-      "certification": "CERTIFIED",
-      "total_verses": 53616,
-      "expected_verses": 16000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/agni_puran_gita_press.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "37eb88ec-815c-4770-afa5-7125043e2224",
-      "id": "AITAREYA",
-      "canonical_name": "AITAREYA",
-      "certification": "CERTIFIED",
-      "total_verses": 3999,
-      "expected_verses": 33,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
-      "id": "APASTAMBA_DS",
-      "canonical_name": "APASTAMBA_DS",
-      "certification": "CERTIFIED",
-      "total_verses": 1560,
-      "expected_verses": 1500,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/apastamba_dharmasutra_gretil.xml",
-      "source_type": "xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "c52b8daa-fe19-479e-8a56-c131e070775e",
-      "id": "AV",
-      "canonical_name": "AV",
-      "certification": "CERTIFIED",
-      "total_verses": 23232,
-      "expected_verses": 6000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/atharvaveda_samhita_sanskrit.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "b17ee208-34f9-480a-a7e6-81d01dfd4cce",
-      "id": "BAUDHAYANA_DS",
-      "canonical_name": "BAUDHAYANA_DS",
-      "certification": "CERTIFIED",
-      "total_verses": 1893,
-      "expected_verses": 500,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/baudhayana_dharmasutra_gretil.xml",
-      "source_type": "xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
-      "id": "BG",
-      "canonical_name": "BG",
-      "certification": "CERTIFIED",
-      "total_verses": 8372,
-      "expected_verses": 700,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/bhagavad_gita_4comm_gretil.xml",
-      "source_type": "xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "277b8b82-c0f0-43a8-9e81-b6705fd048b9",
-      "id": "BHAG",
-      "canonical_name": "BHAG",
-      "certification": "CERTIFIED",
-      "total_verses": 112004,
-      "expected_verses": 18000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/bhagavat_gitapress_complete.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "725ccef9-cd4d-4228-84e5-b671e51281b2",
-      "id": "BRAH",
-      "canonical_name": "BRAH",
-      "certification": "CERTIFIED",
-      "total_verses": 21857,
-      "expected_verses": 14000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/brahma_puran_gita_press.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "6036d648-64fc-4205-b599-8b64ccf6514e",
-      "id": "BRAHMD",
-      "canonical_name": "BRAHMD",
-      "certification": "CERTIFIED",
-      "total_verses": 24663,
-      "expected_verses": 12000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/brahmanda_puran_ia_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "205f696d-9c96-463a-9fbc-379804c893cb",
-      "id": "BRIHAD",
-      "canonical_name": "BRIHAD",
-      "certification": "CERTIFIED",
-      "total_verses": 28997,
-      "expected_verses": 536,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/brhadaranyaka_upanishad_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "d5421c61-1797-453a-8277-9203d968e63b",
-      "id": "CHAND",
-      "canonical_name": "CHAND",
-      "certification": "CERTIFIED",
-      "total_verses": 14278,
-      "expected_verses": 634,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/chandogya_upanishad_giri_ia_ia_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "d226e5d7-440f-4b30-ab6d-a0e9ee20b916",
-      "id": "DEVI",
-      "canonical_name": "DEVI",
-      "certification": "CERTIFIED",
-      "total_verses": 105453,
-      "expected_verses": 18000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/devi_bhagwat_gita_press.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "95276066-c897-4df3-a534-f3ed1adf2139",
-      "id": "GARUDA",
-      "canonical_name": "GARUDA",
-      "certification": "CERTIFIED",
-      "total_verses": 32563,
-      "expected_verses": 8000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/garuda_puran.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
-      "id": "GAUTAMA_DS",
-      "canonical_name": "GAUTAMA_DS",
-      "certification": "CERTIFIED",
-      "total_verses": 1766,
-      "expected_verses": 1000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml",
-      "source_type": "xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "ef5961dc-169b-40e3-8275-d4ac7c799ddb",
-      "id": "HV",
-      "canonical_name": "HV",
-      "certification": "CERTIFIED",
-      "total_verses": 63777,
-      "expected_verses": 16000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/harivamsha_bori.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
-      "id": "ISHA",
-      "canonical_name": "ISHA",
-      "certification": "CERTIFIED",
-      "total_verses": 469,
-      "expected_verses": 18,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/isha_upanishad_gretil.xml",
-      "source_type": "xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "56940fe9-fb74-4d56-831c-81dd300e3a0e",
-      "id": "KALI",
-      "canonical_name": "KALI",
-      "certification": "PROVISIONALLY_CERTIFIED",
-      "total_verses": 1384,
-      "expected_verses": 9000,
-      "coverage": 15.4,
-      "primary_source": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
-      "id": "KATH",
-      "canonical_name": "KATH",
-      "certification": "CERTIFIED",
-      "total_verses": 369,
-      "expected_verses": 119,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/Upanishads_110.txt",
-      "source_type": "combined",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "cc357392-ab43-4df9-955e-1685423a1fd1",
-      "id": "KAUS",
-      "canonical_name": "KAUS",
-      "certification": "CERTIFIED",
-      "total_verses": 4936,
-      "expected_verses": 88,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "d8709e90-c10d-4899-815f-bfce5aa0c677",
-      "id": "KEN",
-      "canonical_name": "KEN",
-      "certification": "CERTIFIED",
-      "total_verses": 894,
-      "expected_verses": 32,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/kena_upanishad_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "4c134b9e-94a0-4fd6-8acf-bbde79ebe7bb",
-      "id": "KURM",
-      "canonical_name": "KURM",
-      "certification": "CERTIFIED",
-      "total_verses": 30355,
-      "expected_verses": 12000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/kurma_puran.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "d95a57cb-bc16-4c34-998f-c8889a06411a",
-      "id": "LING",
-      "canonical_name": "LING",
-      "certification": "CERTIFIED",
-      "total_verses": 50143,
-      "expected_verses": 11000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/linga_puran.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "998db58f-154a-4faf-8d75-f45df4119bf3",
-      "id": "MAHAN",
-      "canonical_name": "MAHAN",
-      "certification": "CERTIFIED",
-      "total_verses": 4755,
-      "expected_verses": 84,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "bd74802a-e5ab-4e46-af43-56b417248795",
-      "id": "MAITR",
-      "canonical_name": "MAITR",
-      "certification": "CERTIFIED",
-      "total_verses": 1563,
-      "expected_verses": 115,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "c50da43e-a6a5-4f47-b08a-c277b6def504",
-      "id": "MAND",
-      "canonical_name": "MAND",
-      "certification": "CERTIFIED",
-      "total_verses": 8424,
-      "expected_verses": 12,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/mandukya_upanishad_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
-      "id": "MANU",
-      "canonical_name": "MANU",
-      "certification": "CERTIFIED",
-      "total_verses": 50168,
-      "expected_verses": 2694,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/manusmriti_critical_ia_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "b1a6064a-72e5-4e6e-9149-1dfd5a9159e0",
-      "id": "MARK",
-      "canonical_name": "MARK",
-      "certification": "CERTIFIED",
-      "total_verses": 13239,
-      "expected_verses": 9000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/markandeya_puran_sanskrit.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "e42f6791-21d5-48e7-9318-8b9de6242177",
-      "id": "MATS",
-      "canonical_name": "MATS",
-      "certification": "CERTIFIED",
-      "total_verses": 68270,
-      "expected_verses": 13000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/matsya_puran.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "9aac315d-21cb-4231-b52e-6a33a696e899",
-      "id": "MBH",
-      "canonical_name": "MBH",
-      "certification": "PROVISIONALLY_CERTIFIED",
-      "total_verses": 60465,
-      "expected_verses": 100000,
-      "coverage": 69.0,
-      "primary_source": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "fd723e81-93f8-41c2-b25c-b3b342b7b347",
-      "id": "MUND",
-      "canonical_name": "MUND",
-      "certification": "CERTIFIED",
-      "total_verses": 740,
-      "expected_verses": 83,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/mundaka_upanishad_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "6d3f9a23-bcc1-4902-9a66-de82f8e8f2e2",
-      "id": "NARADA",
-      "canonical_name": "NARADA",
-      "certification": "CERTIFIED",
-      "total_verses": 41587,
-      "expected_verses": 18000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/naradiya_puran.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
-      "id": "NARADA_SM",
-      "canonical_name": "NARADA_SM",
-      "certification": "CERTIFIED",
-      "total_verses": 15548,
-      "expected_verses": 150,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "fa39e2b6-06b2-4766-9b85-a4a7aed928fb",
-      "id": "NYAYA_SUTRA",
-      "canonical_name": "NYAYA_SUTRA",
-      "certification": "CERTIFIED",
-      "total_verses": 1891,
-      "expected_verses": 560,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "91153d24-788d-43bf-9388-94263814d5ec",
-      "id": "PARASHARA",
-      "canonical_name": "PARASHARA",
-      "certification": "CERTIFIED",
-      "total_verses": 2572,
-      "expected_verses": 150,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "0488619c-7ad3-4dd5-9b2e-88fc20924512",
-      "id": "PRASHNA",
-      "canonical_name": "PRASHNA",
-      "certification": "CERTIFIED",
-      "total_verses": 16059,
-      "expected_verses": 64,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "bc7bd914-78d5-4710-8314-ba91485a8380",
-      "id": "RM",
-      "canonical_name": "RM",
-      "certification": "CERTIFIED",
-      "total_verses": 42043,
-      "expected_verses": 24000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/ramayana_baroda_critical_vol1.txt",
-      "source_type": "critical",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "84abffe7-9795-4f53-9625-418e60108b45",
-      "id": "RV",
-      "canonical_name": "RV",
-      "certification": "CERTIFIED",
-      "total_verses": 32858,
-      "expected_verses": 10600,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/rigveda_aufrecht_gretil.xml",
-      "source_type": "xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "a2709848-a80c-410b-96f6-86094188b92b",
-      "id": "SHIV",
-      "canonical_name": "SHIV",
-      "certification": "CERTIFIED",
-      "total_verses": 48331,
-      "expected_verses": 24000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/shiv_puran_gita_press.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "881b4041-05a2-4801-b832-9eb3cc0637dd",
-      "id": "SHVET",
-      "canonical_name": "SHVET",
-      "certification": "CERTIFIED",
-      "total_verses": 10184,
-      "expected_verses": 113,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "70c1deac-4191-4ece-8986-75e23140cd42",
-      "id": "SKAND",
-      "canonical_name": "SKAND",
-      "certification": "CERTIFIED",
-      "total_verses": 91984,
-      "expected_verses": 24000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/skanda_puran_full.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "23c41aea-db6c-4a18-9755-e8e4a30149d9",
-      "id": "SV",
-      "canonical_name": "SV",
-      "certification": "PROVISIONALLY_CERTIFIED",
-      "total_verses": 1833,
-      "expected_verses": 1875,
-      "coverage": 97.8,
-      "primary_source": "knowledge/downloads/samaveda_dli_vol2.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "034619bc-3564-4cd5-8883-1b10fd97b711",
-      "id": "TAITT",
-      "canonical_name": "TAITT",
-      "certification": "CERTIFIED",
-      "total_verses": 7339,
-      "expected_verses": 104,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/taittiriya_upanishad_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "e1aa5de2-0974-4700-ab28-9fcc8fb43cac",
-      "id": "VAISHESHIKA_SUTRA",
-      "canonical_name": "VAISHESHIKA_SUTRA",
-      "certification": "PROVISIONALLY_CERTIFIED",
-      "total_verses": 247,
-      "expected_verses": 370,
-      "coverage": 66.8,
-      "primary_source": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "f5063549-f560-4dc0-8778-df939e8439b5",
-      "id": "VAMAN",
-      "canonical_name": "VAMAN",
-      "certification": "CERTIFIED",
-      "total_verses": 30513,
-      "expected_verses": 10000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/vaman_puran_gita_press_new.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "0a8f8cdb-7888-4b43-ba60-3974d598014f",
-      "id": "VARAH",
-      "canonical_name": "VARAH",
-      "certification": "CERTIFIED",
-      "total_verses": 25898,
-      "expected_verses": 10000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/varaha_puran.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "ec74e6db-8960-44b6-98f0-8e21990bf4c3",
-      "id": "VEDANTA_SUTRA",
-      "canonical_name": "VEDANTA_SUTRA",
-      "certification": "CERTIFIED",
-      "total_verses": 12721,
-      "expected_verses": 555,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/brahma_sutra_shankara_bhashya.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "691516a0-1908-4b53-9a8d-741153c282f1",
-      "id": "VISH",
-      "canonical_name": "VISH",
-      "certification": "CERTIFIED",
-      "total_verses": 37243,
-      "expected_verses": 23000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/vishnu_puran.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
-      "id": "VISHNU_SM",
-      "canonical_name": "VISHNU_SM",
-      "certification": "CERTIFIED",
-      "total_verses": 10318,
-      "expected_verses": 100,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/vishnu_smriti_gretil.xml",
-      "source_type": "xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "da861ef7-835a-484e-9979-202e60015073",
-      "id": "VYASA_SM",
-      "canonical_name": "VYASA_SM",
-      "certification": "PROVISIONALLY_CERTIFIED",
-      "total_verses": 211,
-      "expected_verses": 250,
-      "coverage": 84.4,
-      "primary_source": "knowledge/downloads/vyasa_smriti_sanskrit.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
-      "id": "VYU",
-      "canonical_name": "VYU",
-      "certification": "CERTIFIED",
-      "total_verses": 7609,
-      "expected_verses": 11000,
-      "coverage": 69.2,
-      "primary_source": "knowledge/downloads/revakhanda_vayu_puran_gretil.xml",
-      "source_type": "tei_xml",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "59abc70a-f639-4b8e-8235-ca93a67f1d39",
-      "id": "YAJNAV",
-      "canonical_name": "YAJNAV",
-      "certification": "CERTIFIED",
-      "total_verses": 16290,
-      "expected_verses": 1054,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
-      "source_type": "ocr",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
-      "id": "YOGA_SUTRA",
-      "canonical_name": "YOGA_SUTRA",
-      "certification": "CERTIFIED",
-      "total_verses": 196,
-      "expected_verses": 196,
-      "coverage": 100,
-      "primary_source": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "11d3b083-727f-47c7-8343-5f4d40383ab3",
-      "id": "YVK",
-      "canonical_name": "YVK",
-      "certification": "CERTIFIED",
-      "total_verses": 22196,
-      "expected_verses": 2000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/yajurveda_jayadev.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
-    {
-      "type": "Scripture",
-      "GUID": "1ef7ae1f-f41c-4824-ae4e-a753c159c24f",
-      "id": "YVS",
-      "canonical_name": "YVS",
-      "certification": "CERTIFIED",
-      "total_verses": 52606,
-      "expected_verses": 2000,
-      "coverage": 100,
-      "primary_source": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt",
-      "source_type": "txt",
-      "node_type": "Scripture"
-    },
     {
       "GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
       "name": "Vishnu",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 607,
+      "total_mentions": 610,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -740,7 +38,9 @@
         "Bhagavadāśayānusaraṇabhāsya",
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Mahābhāratatātparyanirṇaya",
-        "Śāṅkhāyanaśrautasūtra"
+        "Śāṅkhāyanaśrautasūtra",
+        "Katha Upanishad",
+        "Manusmṛti"
       ],
       "source_count": 30,
       "provenance": {
@@ -800,7 +100,7 @@
       "name": "Brahma",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 407,
+      "total_mentions": 411,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -847,7 +147,9 @@
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Brahmāṇḍapurāṇa"
+        "Brahmāṇḍapurāṇa",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 46,
       "provenance": {
@@ -952,7 +254,7 @@
       "name": "Surya",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 721,
+      "total_mentions": 727,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -994,7 +296,8 @@
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
-        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Katha Upanishad"
       ],
       "source_count": 41,
       "provenance": {
@@ -1209,7 +512,7 @@
       "name": "Indra",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 1896,
+      "total_mentions": 1899,
       "sources": [
         "Vedārthasaṃgraha",
         "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
@@ -1246,7 +549,9 @@
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
-        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 36,
       "provenance": {
@@ -1260,7 +565,7 @@
       "name": "Yama",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 356,
+      "total_mentions": 389,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -1300,7 +605,9 @@
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 39,
       "provenance": {
@@ -1350,7 +657,7 @@
       "name": "Vayu",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 139,
+      "total_mentions": 141,
       "sources": [
         "Śāṅkhāyanaśrautasūtra",
         "Atharvavedapariśiṣṭas",
@@ -1372,7 +679,8 @@
         "Bhāgavatapurāṇa",
         "Ṛgvedakhilāni",
         "Ṛgvedasaṃhitā, Padapāṭha",
-        "Āśvalāyanagṛhyasūtra"
+        "Āśvalāyanagṛhyasūtra",
+        "Katha Upanishad"
       ],
       "source_count": 21,
       "provenance": {
@@ -1385,7 +693,7 @@
       "name": "Agni",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 300,
+      "total_mentions": 320,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -1412,7 +720,8 @@
         "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
         "Atharvaprāyaścittāni",
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
-        "Śāṅkhāyanaśrautasūtra"
+        "Śāṅkhāyanaśrautasūtra",
+        "Katha Upanishad"
       ],
       "source_count": 26,
       "provenance": {
@@ -1643,7 +952,7 @@
       "name": "Chandra",
       "type": "Deity",
       "entity_type": "Deity",
-      "total_mentions": 4413,
+      "total_mentions": 4422,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -1673,7 +982,9 @@
         "Atharvaprāyaścittāni",
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Mahābhāratatātparyanirṇaya",
-        "Śāṅkhāyanaśrautasūtra"
+        "Śāṅkhāyanaśrautasūtra",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 29,
       "provenance": {
@@ -1988,7 +1299,7 @@
       "name": "Gautama",
       "type": "Person",
       "entity_type": "Person",
-      "total_mentions": 27,
+      "total_mentions": 32,
       "sources": [
         "Vedārthasaṃgraha",
         "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
@@ -2000,7 +1311,9 @@
         "Vaikhānasadharmasūtra",
         "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
         "Āśvalāyanagṛhyasūtra",
-        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 11,
       "provenance": {
@@ -2721,7 +2034,7 @@
       "name": "Manu",
       "type": "Person",
       "entity_type": "Person",
-      "total_mentions": 41,
+      "total_mentions": 68,
       "sources": [
         "Vedārthasaṃgraha",
         "Ṛgvedakhilāni",
@@ -2737,7 +2050,8 @@
         "Bhāgavatapurāṇa",
         "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
         "Bhagavadāśayānusaraṇabhāsya",
-        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+        "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "Manusmṛti"
       ],
       "source_count": 15,
       "provenance": {
@@ -3265,7 +2579,7 @@
       "name": "Svarga",
       "type": "Place",
       "entity_type": "Place",
-      "total_mentions": 170,
+      "total_mentions": 179,
       "sources": [
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
@@ -3289,7 +2603,8 @@
         "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
         "Pañcaviṃśabrāhmaṇa",
         "Bhagavadāśayānusaraṇabhāsya",
-        "Āśvalāyanagṛhyasūtra"
+        "Āśvalāyanagṛhyasūtra",
+        "Katha Upanishad"
       ],
       "source_count": 23,
       "provenance": {
@@ -3729,7 +3044,7 @@
       "name": "Dharma",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 566,
+      "total_mentions": 612,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3762,7 +3077,9 @@
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Yogasūtra",
+        "Manusmṛti"
       ],
       "source_count": 32,
       "provenance": {
@@ -3776,7 +3093,7 @@
       "name": "Karma",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 3236,
+      "total_mentions": 3297,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3824,7 +3141,10 @@
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Yogasūtra",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 47,
       "provenance": {
@@ -3838,7 +3158,7 @@
       "name": "Moksha",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 312,
+      "total_mentions": 317,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3895,7 +3215,7 @@
       "name": "Jnana",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 1583,
+      "total_mentions": 1604,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3931,7 +3251,9 @@
         "Uḍḍāmareśvaratantra",
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
-        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 35,
       "provenance": {
@@ -3945,7 +3267,7 @@
       "name": "Yoga",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 1450,
+      "total_mentions": 1465,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -3972,7 +3294,8 @@
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Katha Upanishad"
       ],
       "source_count": 26,
       "provenance": {
@@ -3990,7 +3313,7 @@
       "name": "Brahman",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 3202,
+      "total_mentions": 3246,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4035,7 +3358,10 @@
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Yogasūtra",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 44,
       "provenance": {
@@ -4049,7 +3375,7 @@
       "name": "Atman",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 1080,
+      "total_mentions": 1124,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4085,7 +3411,9 @@
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
-        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 35,
       "provenance": {
@@ -4170,7 +3498,7 @@
       "name": "Purusha",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 519,
+      "total_mentions": 543,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4204,7 +3532,8 @@
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Manusmṛti"
       ],
       "source_count": 33,
       "provenance": {
@@ -4218,7 +3547,7 @@
       "name": "Gunas",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 1127,
+      "total_mentions": 1131,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4246,7 +3575,8 @@
         "Bhagavadāśayānusaraṇabhāsya",
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Śāṅkhāyanaśrautasūtra",
-        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Manusmṛti"
       ],
       "source_count": 27,
       "provenance": {
@@ -4260,7 +3590,7 @@
       "name": "Samsara",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 221,
+      "total_mentions": 223,
       "sources": [
         "Viṣṇudharma",
         "Vedārthasaṃgraha",
@@ -4275,7 +3605,8 @@
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
         "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
-        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya"
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Katha Upanishad"
       ],
       "source_count": 14,
       "provenance": {
@@ -4289,7 +3620,7 @@
       "name": "Ahimsa",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 38,
+      "total_mentions": 42,
       "sources": [
         "Viṣṇudharma",
         "Yogasūtra",
@@ -4300,7 +3631,8 @@
         "Baudhāyanadharmasūtra",
         "Agnipurāṇa",
         "Bhagavadgītābhāṣya",
-        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Manusmṛti"
       ],
       "source_count": 10,
       "provenance": {
@@ -4350,7 +3682,7 @@
       "name": "Tapas",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 129,
+      "total_mentions": 135,
       "sources": [
         "Āpastambadharmasūtra",
         "Viṣṇudharma",
@@ -4368,7 +3700,9 @@
         "Pañcaviṃśabrāhmaṇa",
         "Śāṅkhāyanaśrautasūtra",
         "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
-        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya"
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Manusmṛti",
+        "Katha Upanishad"
       ],
       "source_count": 17,
       "provenance": {
@@ -4411,7 +3745,7 @@
       "name": "Dhyana",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 86,
+      "total_mentions": 87,
       "sources": [
         "Vedārthasaṃgraha",
         "Yogasūtra",
@@ -4479,7 +3813,7 @@
       "name": "Yajna",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 728,
+      "total_mentions": 729,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4511,7 +3845,8 @@
         "Atharvaprāyaścittāni",
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Śāṅkhāyanaśrautasūtra",
-        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Manusmṛti"
       ],
       "source_count": 31,
       "provenance": {
@@ -4563,7 +3898,7 @@
       "name": "Shraddha",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 184,
+      "total_mentions": 187,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4592,7 +3927,9 @@
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Mahābhāratatātparyanirṇaya",
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
-        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)"
+        "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+        "Yogasūtra",
+        "Manusmṛti"
       ],
       "source_count": 28,
       "provenance": {
@@ -4606,7 +3943,7 @@
       "name": "Diksha",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 53,
+      "total_mentions": 54,
       "sources": [
         "Śivapurāṇa, Books 1 and 7",
         "Vāsiṣṭhadharmasūtra",
@@ -4619,7 +3956,8 @@
         "Śāṅkhāyanaśrautasūtra",
         "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
         "Pañcaviṃśabrāhmaṇa",
-        "Mṛgendrāgama (= Mrgendratantra)"
+        "Mṛgendrāgama (= Mrgendratantra)",
+        "Manusmṛti"
       ],
       "source_count": 12,
       "provenance": {
@@ -4633,7 +3971,7 @@
       "name": "Pranayama",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 23,
+      "total_mentions": 26,
       "sources": [
         "Yogasūtra",
         "Vāsiṣṭhadharmasūtra",
@@ -4739,7 +4077,7 @@
       "name": "Vidya",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 352,
+      "total_mentions": 360,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
@@ -4772,7 +4110,8 @@
         "Uḍḍāmareśvaratantra",
         "Mahābhāratatātparyanirṇaya",
         "Śāṅkhāyanaśrautasūtra",
-        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya"
+        "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+        "Manusmṛti"
       ],
       "source_count": 32,
       "provenance": {
@@ -4786,13 +4125,14 @@
       "name": "Upanishad",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 7,
+      "total_mentions": 20,
       "sources": [
         "Vedārthasaṃgraha",
         "Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara",
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
         "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
-        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya"
+        "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+        "Katha Upanishad"
       ],
       "source_count": 5,
       "provenance": {
@@ -4891,14 +4231,15 @@
       "name": "Vedanta",
       "type": "Concept",
       "entity_type": "Concept",
-      "total_mentions": 77,
+      "total_mentions": 78,
       "sources": [
         "Vedārthasaṃgraha",
         "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
         "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
         "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
         "Bhagavadgītābhāṣya",
-        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva"
+        "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "Katha Upanishad"
       ],
       "source_count": 6,
       "provenance": {
@@ -5220,7 +4561,7 @@
       "name": "Cow",
       "type": "Animal",
       "entity_type": "Animal",
-      "total_mentions": 443,
+      "total_mentions": 448,
       "sources": [
         "Śāṅkhāyanaśrautasūtra",
         "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
@@ -5243,7 +4584,8 @@
         "Ṛgvedasaṃhitā, Padapāṭha",
         "Sāmavedasaṃhitā",
         "Pañcaviṃśabrāhmaṇa",
-        "Āśvalāyanagṛhyasūtra"
+        "Āśvalāyanagṛhyasūtra",
+        "Manusmṛti"
       ],
       "source_count": 22,
       "provenance": {
@@ -5601,7 +4943,7 @@
       "name": "Kurma Avatar",
       "type": "Avatar",
       "entity_type": "Avatar",
-      "total_mentions": 8,
+      "total_mentions": 10,
       "sources": [
         "Viṣṇusmṛti",
         "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
@@ -5609,7 +4951,8 @@
         "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
         "Yogasūtra",
         "Bhāgavatapurāṇa",
-        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)"
+        "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+        "Manusmṛti"
       ],
       "source_count": 7,
       "provenance": {
@@ -10248,6 +9591,756 @@
         "method": "saturation",
         "pass": 1
       }
+    },
+    {
+      "GUID": "c3ccde7e-a285-5126-9810-93fcc2faa2a7",
+      "name": "Nachiketas",
+      "type": "Person",
+      "entity_type": "Person",
+      "total_mentions": 42,
+      "sources": [
+        "Katha Upanishad"
+      ],
+      "description": "Son of Vajasravasa, protagonist of Katha Upanishad dialogue with Yama",
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "033ed403-1651-5bdb-ad42-fa103590087a",
+      "name": "Vajasravasa",
+      "type": "Person",
+      "entity_type": "Person",
+      "total_mentions": 1,
+      "sources": [
+        "Katha Upanishad"
+      ],
+      "description": "Father of Nachiketas who offered all wealth in sacrifice",
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "34ae537b-e037-5225-8abb-8bba8d45a6b5",
+      "name": "Prana",
+      "type": "Concept",
+      "entity_type": "Concept",
+      "total_mentions": 4,
+      "sources": [
+        "Katha Upanishad"
+      ],
+      "description": "Vital breath, life force in Upanishadic philosophy",
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "4a80812e-d33d-571c-9c01-6df9e40c33de",
+      "name": "Soma",
+      "type": "Ritual",
+      "entity_type": "Ritual",
+      "total_mentions": 8,
+      "sources": [
+        "Manusmṛti"
+      ],
+      "description": "Soma sacrifice and ritual drink",
+      "phase": "v9.9"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "6d2798d7-5530-45da-96e3-702c196fde43",
+      "id": "AGNI",
+      "canonical_name": "AGNI",
+      "certification": "CERTIFIED",
+      "total_verses": 53616,
+      "expected_verses": 16000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/agni_puran_gita_press.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "37eb88ec-815c-4770-afa5-7125043e2224",
+      "id": "AITAREYA",
+      "canonical_name": "AITAREYA",
+      "certification": "CERTIFIED",
+      "total_verses": 3999,
+      "expected_verses": 33,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/aitareya_upanishad_gp_ia_ia_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "686fd6b9-5914-43ef-b26a-b320d7c24ce1",
+      "id": "APASTAMBA_DS",
+      "canonical_name": "APASTAMBA_DS",
+      "certification": "CERTIFIED",
+      "total_verses": 1560,
+      "expected_verses": 1500,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/apastamba_dharmasutra_gretil.xml",
+      "source_type": "xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "c52b8daa-fe19-479e-8a56-c131e070775e",
+      "id": "AV",
+      "canonical_name": "AV",
+      "certification": "CERTIFIED",
+      "total_verses": 23232,
+      "expected_verses": 6000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/atharvaveda_samhita_sanskrit.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "b17ee208-34f9-480a-a7e6-81d01dfd4cce",
+      "id": "BAUDHAYANA_DS",
+      "canonical_name": "BAUDHAYANA_DS",
+      "certification": "CERTIFIED",
+      "total_verses": 1893,
+      "expected_verses": 500,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/baudhayana_dharmasutra_gretil.xml",
+      "source_type": "xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "51a7c7fa-4352-4475-9313-5f2ae2af366f",
+      "id": "BG",
+      "canonical_name": "BG",
+      "certification": "CERTIFIED",
+      "total_verses": 8372,
+      "expected_verses": 700,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/bhagavad_gita_4comm_gretil.xml",
+      "source_type": "xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "277b8b82-c0f0-43a8-9e81-b6705fd048b9",
+      "id": "BHAG",
+      "canonical_name": "BHAG",
+      "certification": "CERTIFIED",
+      "total_verses": 112004,
+      "expected_verses": 18000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/bhagavat_gitapress_complete.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "725ccef9-cd4d-4228-84e5-b671e51281b2",
+      "id": "BRAH",
+      "canonical_name": "BRAH",
+      "certification": "CERTIFIED",
+      "total_verses": 21857,
+      "expected_verses": 14000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/brahma_puran_gita_press.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "6036d648-64fc-4205-b599-8b64ccf6514e",
+      "id": "BRAHMD",
+      "canonical_name": "BRAHMD",
+      "certification": "CERTIFIED",
+      "total_verses": 24663,
+      "expected_verses": 12000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/brahmanda_puran_ia_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "205f696d-9c96-463a-9fbc-379804c893cb",
+      "id": "BRIHAD",
+      "canonical_name": "BRIHAD",
+      "certification": "CERTIFIED",
+      "total_verses": 28997,
+      "expected_verses": 536,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/brhadaranyaka_upanishad_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "d5421c61-1797-453a-8277-9203d968e63b",
+      "id": "CHAND",
+      "canonical_name": "CHAND",
+      "certification": "CERTIFIED",
+      "total_verses": 14278,
+      "expected_verses": 634,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/chandogya_upanishad_giri_ia_ia_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "d226e5d7-440f-4b30-ab6d-a0e9ee20b916",
+      "id": "DEVI",
+      "canonical_name": "DEVI",
+      "certification": "CERTIFIED",
+      "total_verses": 105453,
+      "expected_verses": 18000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/devi_bhagwat_gita_press.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "95276066-c897-4df3-a534-f3ed1adf2139",
+      "id": "GARUDA",
+      "canonical_name": "GARUDA",
+      "certification": "CERTIFIED",
+      "total_verses": 32563,
+      "expected_verses": 8000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/garuda_puran.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "726ab6ea-12f0-4927-8bc3-7151df0ffe5a",
+      "id": "GAUTAMA_DS",
+      "canonical_name": "GAUTAMA_DS",
+      "certification": "CERTIFIED",
+      "total_verses": 1766,
+      "expected_verses": 1000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/gautama_dharmasutra_1_3_comm_gretil.xml",
+      "source_type": "xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "ef5961dc-169b-40e3-8275-d4ac7c799ddb",
+      "id": "HV",
+      "canonical_name": "HV",
+      "certification": "CERTIFIED",
+      "total_verses": 63777,
+      "expected_verses": 16000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/harivamsha_bori.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "b6455e1b-151b-4250-bc89-153273a8ddeb",
+      "id": "ISHA",
+      "canonical_name": "ISHA",
+      "certification": "CERTIFIED",
+      "total_verses": 469,
+      "expected_verses": 18,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/isha_upanishad_gretil.xml",
+      "source_type": "xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "56940fe9-fb74-4d56-831c-81dd300e3a0e",
+      "id": "KALI",
+      "canonical_name": "KALI",
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "total_verses": 1384,
+      "expected_verses": 9000,
+      "coverage": 15.4,
+      "primary_source": "knowledge/downloads/kalika_purana_kshemaraj_1907.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "id": "KATH",
+      "canonical_name": "KATH",
+      "certification": "CERTIFIED",
+      "total_verses": 369,
+      "expected_verses": 119,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/Upanishads_110.txt",
+      "source_type": "combined",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "cc357392-ab43-4df9-955e-1685423a1fd1",
+      "id": "KAUS",
+      "canonical_name": "KAUS",
+      "certification": "CERTIFIED",
+      "total_verses": 4936,
+      "expected_verses": 88,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/kaushitaki_brahmana_dli_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "d8709e90-c10d-4899-815f-bfce5aa0c677",
+      "id": "KEN",
+      "canonical_name": "KEN",
+      "certification": "CERTIFIED",
+      "total_verses": 894,
+      "expected_verses": 32,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/kena_upanishad_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "4c134b9e-94a0-4fd6-8acf-bbde79ebe7bb",
+      "id": "KURM",
+      "canonical_name": "KURM",
+      "certification": "CERTIFIED",
+      "total_verses": 30355,
+      "expected_verses": 12000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/kurma_puran.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "d95a57cb-bc16-4c34-998f-c8889a06411a",
+      "id": "LING",
+      "canonical_name": "LING",
+      "certification": "CERTIFIED",
+      "total_verses": 50143,
+      "expected_verses": 11000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/linga_puran.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "998db58f-154a-4faf-8d75-f45df4119bf3",
+      "id": "MAHAN",
+      "canonical_name": "MAHAN",
+      "certification": "CERTIFIED",
+      "total_verses": 4755,
+      "expected_verses": 84,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/mahan_archive_Mahanarayanopanishad_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "bd74802a-e5ab-4e46-af43-56b417248795",
+      "id": "MAITR",
+      "canonical_name": "MAITR",
+      "certification": "CERTIFIED",
+      "total_verses": 1563,
+      "expected_verses": 115,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/maitr_archive_maitriormaitrya00cowegoog_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "c50da43e-a6a5-4f47-b08a-c277b6def504",
+      "id": "MAND",
+      "canonical_name": "MAND",
+      "certification": "CERTIFIED",
+      "total_verses": 8424,
+      "expected_verses": 12,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/mandukya_upanishad_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "id": "MANU",
+      "canonical_name": "MANU",
+      "certification": "CERTIFIED",
+      "total_verses": 50168,
+      "expected_verses": 2694,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/manusmriti_critical_ia_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "b1a6064a-72e5-4e6e-9149-1dfd5a9159e0",
+      "id": "MARK",
+      "canonical_name": "MARK",
+      "certification": "CERTIFIED",
+      "total_verses": 13239,
+      "expected_verses": 9000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/markandeya_puran_sanskrit.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "e42f6791-21d5-48e7-9318-8b9de6242177",
+      "id": "MATS",
+      "canonical_name": "MATS",
+      "certification": "CERTIFIED",
+      "total_verses": 68270,
+      "expected_verses": 13000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/matsya_puran.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "9aac315d-21cb-4231-b52e-6a33a696e899",
+      "id": "MBH",
+      "canonical_name": "MBH",
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "total_verses": 60465,
+      "expected_verses": 100000,
+      "coverage": 69.0,
+      "primary_source": "knowledge/downloads/mahabharata_satwalekar_ia_ia_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "fd723e81-93f8-41c2-b25c-b3b342b7b347",
+      "id": "MUND",
+      "canonical_name": "MUND",
+      "certification": "CERTIFIED",
+      "total_verses": 740,
+      "expected_verses": 83,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/mundaka_upanishad_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "6d3f9a23-bcc1-4902-9a66-de82f8e8f2e2",
+      "id": "NARADA",
+      "canonical_name": "NARADA",
+      "certification": "CERTIFIED",
+      "total_verses": 41587,
+      "expected_verses": 18000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/naradiya_puran.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "882686fd-62f4-45fe-ad79-1e89c5cf6ab9",
+      "id": "NARADA_SM",
+      "canonical_name": "NARADA_SM",
+      "certification": "CERTIFIED",
+      "total_verses": 15548,
+      "expected_verses": 150,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/narada_smriti_commentary_ia_ia_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "fa39e2b6-06b2-4766-9b85-a4a7aed928fb",
+      "id": "NYAYA_SUTRA",
+      "canonical_name": "NYAYA_SUTRA",
+      "certification": "CERTIFIED",
+      "total_verses": 1891,
+      "expected_verses": 560,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/nyaya_sutra_archive_A Bilingual Index of Nyaya Bindu - Satish Chandra Vidyabhushana 1917 (BIS)_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "91153d24-788d-43bf-9388-94263814d5ec",
+      "id": "PARASHARA",
+      "canonical_name": "PARASHARA",
+      "certification": "CERTIFIED",
+      "total_verses": 2572,
+      "expected_verses": 150,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/parashara_archive_SriParasharaSmrithiPdf_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "0488619c-7ad3-4dd5-9b2e-88fc20924512",
+      "id": "PRASHNA",
+      "canonical_name": "PRASHNA",
+      "certification": "CERTIFIED",
+      "total_verses": 16059,
+      "expected_verses": 64,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/prashna_archive_108 Upanishad Part-1_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "bc7bd914-78d5-4710-8314-ba91485a8380",
+      "id": "RM",
+      "canonical_name": "RM",
+      "certification": "CERTIFIED",
+      "total_verses": 42043,
+      "expected_verses": 24000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/ramayana_baroda_critical_vol1.txt",
+      "source_type": "critical",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "84abffe7-9795-4f53-9625-418e60108b45",
+      "id": "RV",
+      "canonical_name": "RV",
+      "certification": "CERTIFIED",
+      "total_verses": 32858,
+      "expected_verses": 10600,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/rigveda_aufrecht_gretil.xml",
+      "source_type": "xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "a2709848-a80c-410b-96f6-86094188b92b",
+      "id": "SHIV",
+      "canonical_name": "SHIV",
+      "certification": "CERTIFIED",
+      "total_verses": 48331,
+      "expected_verses": 24000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/shiv_puran_gita_press.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "881b4041-05a2-4801-b832-9eb3cc0637dd",
+      "id": "SHVET",
+      "canonical_name": "SHVET",
+      "certification": "CERTIFIED",
+      "total_verses": 10184,
+      "expected_verses": 113,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/shvetashvatara_upanishad_gp_ia_ia_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "70c1deac-4191-4ece-8986-75e23140cd42",
+      "id": "SKAND",
+      "canonical_name": "SKAND",
+      "certification": "CERTIFIED",
+      "total_verses": 91984,
+      "expected_verses": 24000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/skanda_puran_full.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "23c41aea-db6c-4a18-9755-e8e4a30149d9",
+      "id": "SV",
+      "canonical_name": "SV",
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "total_verses": 1833,
+      "expected_verses": 1875,
+      "coverage": 97.8,
+      "primary_source": "knowledge/downloads/samaveda_dli_vol2.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "034619bc-3564-4cd5-8883-1b10fd97b711",
+      "id": "TAITT",
+      "canonical_name": "TAITT",
+      "certification": "CERTIFIED",
+      "total_verses": 7339,
+      "expected_verses": 104,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/taittiriya_upanishad_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "e1aa5de2-0974-4700-ab28-9fcc8fb43cac",
+      "id": "VAISHESHIKA_SUTRA",
+      "canonical_name": "VAISHESHIKA_SUTRA",
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "total_verses": 247,
+      "expected_verses": 370,
+      "coverage": 66.8,
+      "primary_source": "knowledge/downloads/vaisheshika_sutra_dli_496363.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "f5063549-f560-4dc0-8778-df939e8439b5",
+      "id": "VAMAN",
+      "canonical_name": "VAMAN",
+      "certification": "CERTIFIED",
+      "total_verses": 30513,
+      "expected_verses": 10000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/vaman_puran_gita_press_new.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "0a8f8cdb-7888-4b43-ba60-3974d598014f",
+      "id": "VARAH",
+      "canonical_name": "VARAH",
+      "certification": "CERTIFIED",
+      "total_verses": 25898,
+      "expected_verses": 10000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/varaha_puran.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "ec74e6db-8960-44b6-98f0-8e21990bf4c3",
+      "id": "VEDANTA_SUTRA",
+      "canonical_name": "VEDANTA_SUTRA",
+      "certification": "CERTIFIED",
+      "total_verses": 12721,
+      "expected_verses": 555,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/brahma_sutra_shankara_bhashya.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "691516a0-1908-4b53-9a8d-741153c282f1",
+      "id": "VISH",
+      "canonical_name": "VISH",
+      "certification": "CERTIFIED",
+      "total_verses": 37243,
+      "expected_verses": 23000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/vishnu_puran.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "46b3f600-eb8b-4d0f-9217-3fce5944a134",
+      "id": "VISHNU_SM",
+      "canonical_name": "VISHNU_SM",
+      "certification": "CERTIFIED",
+      "total_verses": 10318,
+      "expected_verses": 100,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/vishnu_smriti_gretil.xml",
+      "source_type": "xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "da861ef7-835a-484e-9979-202e60015073",
+      "id": "VYASA_SM",
+      "canonical_name": "VYASA_SM",
+      "certification": "PROVISIONALLY_CERTIFIED",
+      "total_verses": 211,
+      "expected_verses": 250,
+      "coverage": 84.4,
+      "primary_source": "knowledge/downloads/vyasa_smriti_sanskrit.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "eeb106b4-0315-4c30-9d08-393eed8d7a28",
+      "id": "VYU",
+      "canonical_name": "VYU",
+      "certification": "CERTIFIED",
+      "total_verses": 7609,
+      "expected_verses": 11000,
+      "coverage": 69.2,
+      "primary_source": "knowledge/downloads/revakhanda_vayu_puran_gretil.xml",
+      "source_type": "tei_xml",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "59abc70a-f639-4b8e-8235-ca93a67f1d39",
+      "id": "YAJNAV",
+      "canonical_name": "YAJNAV",
+      "certification": "CERTIFIED",
+      "total_verses": 16290,
+      "expected_verses": 1054,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/yajnavalkya_smriti_bombay_ia_ia_djvu.txt",
+      "source_type": "ocr",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "id": "YOGA_SUTRA",
+      "canonical_name": "YOGA_SUTRA",
+      "certification": "CERTIFIED",
+      "total_verses": 196,
+      "expected_verses": 196,
+      "coverage": 100,
+      "primary_source": "knowledge/gretil_parsed/yoga_sutra_gretil_iast.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "11d3b083-727f-47c7-8343-5f4d40383ab3",
+      "id": "YVK",
+      "canonical_name": "YVK",
+      "certification": "CERTIFIED",
+      "total_verses": 22196,
+      "expected_verses": 2000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/yajurveda_jayadev.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
+    },
+    {
+      "type": "Scripture",
+      "GUID": "1ef7ae1f-f41c-4824-ae4e-a753c159c24f",
+      "id": "YVS",
+      "canonical_name": "YVS",
+      "certification": "CERTIFIED",
+      "total_verses": 52606,
+      "expected_verses": 2000,
+      "coverage": 100,
+      "primary_source": "knowledge/downloads/yajurveda_madhyandina_ia_ia.txt",
+      "source_type": "txt",
+      "node_type": "Scripture"
     }
   ],
   "edges": [
@@ -74376,10 +74469,894 @@
       "evidence": "canonical_scripture",
       "confidence": 90,
       "phase": "v9.7"
+    },
+    {
+      "GUID": "798099cc-30a0-4744-8154-3e172e3fedb7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "3b77ba6b-e2cb-4b1a-88de-28365e5d4902",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "Yogasūtra",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "17c6d329-f529-4da6-98a3-6ff9284a3bd1",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "Yogasūtra",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "09444fe2-3317-465f-ac16-b931def236ad",
+      "type": "MENTIONED_IN",
+      "source_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Moksha",
+        "scripture": "Yogasūtra",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "7e662b79-cac5-47d6-938c-1244d3763e9b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Yoga",
+        "scripture": "Yogasūtra",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "20cd17a0-2edb-4972-8207-e864f67617f5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "79352ebb-e6e4-45f0-9bc1-b02691dc281c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Purusha",
+        "scripture": "Yogasūtra",
+        "mentions": 11
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "eac762da-d23d-4e83-a31f-af2f3694cd1f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Shraddha",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "876b1919-c339-4c96-b568-3e5c6042c2e4",
+      "type": "MENTIONED_IN",
+      "source_GUID": "58b7d7a5-9ea4-5fd4-80e3-e3ed9e02fa79",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Pranayama",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "75159d93-95e2-48a7-b19f-76d9a3441dd5",
+      "type": "MENTIONED_IN",
+      "source_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Vishnu",
+        "scripture": "Katha Upanishad",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "97b58c7f-3580-4e49-ba0b-28c1428094a9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9d9f5222-559c-5783-bbb9-87ebfe77f169",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Upanishad",
+        "scripture": "Katha Upanishad",
+        "mentions": 13
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "c8c7a406-09f9-4880-88ec-8303e53a6ccb",
+      "type": "MENTIONED_IN",
+      "source_GUID": "eebb15e3-2098-57e6-8bb0-66351ac2b001",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Vedanta",
+        "scripture": "Katha Upanishad",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "6607efca-fbab-4e7b-a579-f69588612119",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "Yogasūtra",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "935d5be0-4ee2-499a-a6e8-9b9979f5c337",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "Yogasūtra",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "68b6e474-86ae-4915-9a28-205fb7beacf1",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "Yogasūtra",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "786540fe-6908-4053-ba01-05714fd7e99a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "970f00be-bbeb-50c4-b179-4cd8e116297e",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Moksha",
+        "scripture": "Yogasūtra",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "3fbcf61d-3989-40a8-a032-79e69cda6a42",
+      "type": "MENTIONED_IN",
+      "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Yoga",
+        "scripture": "Yogasūtra",
+        "mentions": 7
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "d38b95d0-774c-41f2-ae45-ae08c3bdd005",
+      "type": "MENTIONED_IN",
+      "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "5c3af955-8768-4146-9c46-7fd483def8db",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Purusha",
+        "scripture": "Yogasūtra",
+        "mentions": 12
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "136e97e7-b3c6-4274-a4a7-56cc77da7ca7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2825f7a9-fb80-5f3e-84bc-f02d0135df85",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Gunas",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "c93c1e16-a54b-4e4b-9622-20c69806dda3",
+      "type": "MENTIONED_IN",
+      "source_GUID": "727d421b-7cfc-5431-97e0-4840b6fa1600",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Ahimsa",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "78d4e776-48f0-4d8f-8587-ac522e156b85",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cd504b3b-da2e-5d89-96db-f0a0167e57b1",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Dhyana",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "6faaeec5-f785-4ad5-9340-b63b61432ec8",
+      "type": "MENTIONED_IN",
+      "source_GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Shraddha",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "159c37e9-da28-49a9-93a0-c1bda482044f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "58b7d7a5-9ea4-5fd4-80e3-e3ed9e02fa79",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Pranayama",
+        "scripture": "Yogasūtra",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "804bae9a-8f68-41ef-8ac7-f285166467f6",
+      "type": "MENTIONED_IN",
+      "source_GUID": "1bfbdc97-c2f6-5184-894b-e63d980ff5e3",
+      "target_GUID": "a67274ce-b620-436d-a0b5-02ac03b2bd4b",
+      "evidence": {
+        "entity": "Kurma Avatar",
+        "scripture": "Yogasūtra",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "db73227e-094c-460d-a8d5-c5e2328725f0",
+      "type": "MENTIONED_IN",
+      "source_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Vishnu",
+        "scripture": "Manusmṛti",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "1b944fe3-183c-4b4a-ac99-767d8cdc5530",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e36e80e7-7bbb-5b63-aa27-14cefba19e5b",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Brahma",
+        "scripture": "Manusmṛti",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "1de7b2cd-a6fc-4c84-b3c7-fde311719b97",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca95e9d2-39b1-5fd3-b26e-d006cffeb2ff",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Indra",
+        "scripture": "Manusmṛti",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "cc082503-0a91-4517-9fa9-b4d75ff3ef2b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "Manusmṛti",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "f978c04d-1956-4109-839c-9ee0810284e3",
+      "type": "MENTIONED_IN",
+      "source_GUID": "3f117f52-2290-5558-b9cd-d5010b5c6328",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "Manusmṛti",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "3554897b-2361-4edc-89ba-7814afe4064b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "98e57f14-f099-5db8-8936-3eec827847b2",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Gautama",
+        "scripture": "Manusmṛti",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "2c40eaaa-2f19-42e0-899f-ac9e817bb31b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f5b02e97-34f8-56f7-99eb-53b1ac7c0b97",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Manu",
+        "scripture": "Manusmṛti",
+        "mentions": 27
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "b0ec5bba-db6b-4f44-b414-ae4c0bb739d9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Dharma",
+        "scripture": "Manusmṛti",
+        "mentions": 38
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "b5b99372-bde1-424d-a5bf-362c273d89e2",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "Manusmṛti",
+        "mentions": 45
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "49f0c6fd-6fe4-497e-b377-6f489690c971",
+      "type": "MENTIONED_IN",
+      "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "Manusmṛti",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "b6f6aba0-faf6-4e2a-992e-9dc1657e5a34",
+      "type": "MENTIONED_IN",
+      "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "Manusmṛti",
+        "mentions": 24
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "f3901b71-708e-42c4-a6a9-5f18d69c0334",
+      "type": "MENTIONED_IN",
+      "source_GUID": "446d7abe-0630-597a-b67a-13137588c017",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "Manusmṛti",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "49c0d243-9c30-4782-a53e-f92d446404e7",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2abc88f3-44d3-5461-8b32-b4d822522e81",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Purusha",
+        "scripture": "Manusmṛti",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "38fdb965-0971-4f88-9150-fec0d3c7e849",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2825f7a9-fb80-5f3e-84bc-f02d0135df85",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Gunas",
+        "scripture": "Manusmṛti",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "f4b03d81-352b-4076-908a-b5bf0c2d5cee",
+      "type": "MENTIONED_IN",
+      "source_GUID": "727d421b-7cfc-5431-97e0-4840b6fa1600",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Ahimsa",
+        "scripture": "Manusmṛti",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "f30ccc71-d6dc-43c5-a686-c68b687a311f",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8076377a-f090-5041-8827-b34ed259f936",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Tapas",
+        "scripture": "Manusmṛti",
+        "mentions": 5
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "5952eaa3-68df-44b0-8e92-4640f1f679bc",
+      "type": "MENTIONED_IN",
+      "source_GUID": "2390c087-9d5b-536a-94f6-06e61f39e2b2",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Yajna",
+        "scripture": "Manusmṛti",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "8ae3a741-7ca4-4e8f-ae18-e585d2e915fb",
+      "type": "MENTIONED_IN",
+      "source_GUID": "1a2d10ed-deb4-5bfc-a613-c3c7f0f13c14",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Shraddha",
+        "scripture": "Manusmṛti",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "1a661af5-f25b-4ef3-8728-5f474481679a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "a4d1aed8-ce01-5370-bb4a-921dc5123d0d",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Diksha",
+        "scripture": "Manusmṛti",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "59b9acc0-d505-434c-b88e-cc32e80a3fd1",
+      "type": "MENTIONED_IN",
+      "source_GUID": "695636a4-4b5f-5a9e-881a-a0a854409a1a",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Vidya",
+        "scripture": "Manusmṛti",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "0e520697-9eb6-40ba-a508-d8ff49cbf11b",
+      "type": "MENTIONED_IN",
+      "source_GUID": "17f73881-56d7-584d-8fd3-2f7dc78b2609",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Cow",
+        "scripture": "Manusmṛti",
+        "mentions": 5
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "0d4097ab-86b3-4b61-88c3-e92ec841bb1c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "1bfbdc97-c2f6-5184-894b-e63d980ff5e3",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Kurma Avatar",
+        "scripture": "Manusmṛti",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "6c46ba97-c330-43f1-8eba-d574d5db183e",
+      "type": "MENTIONED_IN",
+      "source_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Vishnu",
+        "scripture": "Katha Upanishad",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "23f3c0bd-7820-46e4-8dc9-629a64e13a58",
+      "type": "MENTIONED_IN",
+      "source_GUID": "cbbc4df7-f760-5d50-a87b-0a9e180e6feb",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Yama",
+        "scripture": "Katha Upanishad",
+        "mentions": 27
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "7823c21d-6ebd-49c3-b553-e4f8b2dda80a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "ca95e9d2-39b1-5fd3-b26e-d006cffeb2ff",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Indra",
+        "scripture": "Katha Upanishad",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "e92b1d80-bae7-49e2-bb98-ed04ff699557",
+      "type": "MENTIONED_IN",
+      "source_GUID": "d80fa61e-fa0f-58e0-a57b-000c08269b58",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Agni",
+        "scripture": "Katha Upanishad",
+        "mentions": 20
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "a58756b6-4d24-4f92-b77e-f6175d28667d",
+      "type": "MENTIONED_IN",
+      "source_GUID": "5c749089-2e3c-5780-bace-659e3cb36514",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Vayu",
+        "scripture": "Katha Upanishad",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "e56da049-9faa-4a03-8d3e-50ad1dd1d8ae",
+      "type": "MENTIONED_IN",
+      "source_GUID": "9e7876e4-8ac8-585a-9f2d-e3cf931dd48a",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Surya",
+        "scripture": "Katha Upanishad",
+        "mentions": 6
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "fad538ce-c813-4f02-a2ba-8792521ccb60",
+      "type": "MENTIONED_IN",
+      "source_GUID": "3f117f52-2290-5558-b9cd-d5010b5c6328",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Chandra",
+        "scripture": "Katha Upanishad",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "35ce7db2-3d4d-4f62-aead-6626076165ed",
+      "type": "MENTIONED_IN",
+      "source_GUID": "e36e80e7-7bbb-5b63-aa27-14cefba19e5b",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Brahma",
+        "scripture": "Katha Upanishad",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "b2de5350-6641-4644-91c3-82d10da630ff",
+      "type": "MENTIONED_IN",
+      "source_GUID": "98e57f14-f099-5db8-8936-3eec827847b2",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Gautama",
+        "scripture": "Katha Upanishad",
+        "mentions": 3
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "88517fe3-c24c-4224-8cbc-501b0b7ea4ff",
+      "type": "MENTIONED_IN",
+      "source_GUID": "fd51e7f2-81e6-59bb-ae50-d5ae9066244b",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Svarga",
+        "scripture": "Katha Upanishad",
+        "mentions": 9
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "a613b07f-29e8-4eee-8d11-469f5284a07c",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4493872b-d07f-56e4-b087-49f7c863e06f",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Karma",
+        "scripture": "Katha Upanishad",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "ab51c998-b10c-4402-8add-2185d4c4eb89",
+      "type": "MENTIONED_IN",
+      "source_GUID": "446d7abe-0630-597a-b67a-13137588c017",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Atman",
+        "scripture": "Katha Upanishad",
+        "mentions": 41
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "3d6c295b-d05c-459e-b586-2d7bed4a9494",
+      "type": "MENTIONED_IN",
+      "source_GUID": "84d590ac-e5b8-5677-8cd6-bb637324ac1e",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Brahman",
+        "scripture": "Katha Upanishad",
+        "mentions": 18
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "2d5475ac-5fdc-4f97-a7e1-d149f0bda07a",
+      "type": "MENTIONED_IN",
+      "source_GUID": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Yoga",
+        "scripture": "Katha Upanishad",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "cd4f9c58-04b6-4a9a-9039-2b85f626e6ec",
+      "type": "MENTIONED_IN",
+      "source_GUID": "3e3d7454-36b9-52b2-a758-811854b2a1cd",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Jnana",
+        "scripture": "Katha Upanishad",
+        "mentions": 13
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "73888973-04b0-4ad8-b9b8-2fb46bba7127",
+      "type": "MENTIONED_IN",
+      "source_GUID": "8076377a-f090-5041-8827-b34ed259f936",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Tapas",
+        "scripture": "Katha Upanishad",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "322e2380-ade8-48b8-a9aa-e668a4ca0e45",
+      "type": "MENTIONED_IN",
+      "source_GUID": "f22c1e30-c5c5-53f3-93a6-07b06602b1e4",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Samsara",
+        "scripture": "Katha Upanishad",
+        "mentions": 2
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "354053ba-b42b-45bd-87e5-172c7ec0bb90",
+      "type": "MENTIONED_IN",
+      "source_GUID": "c3ccde7e-a285-5126-9810-93fcc2faa2a7",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Nachiketas",
+        "scripture": "Katha Upanishad",
+        "mentions": 42
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "b857e4f1-381e-4ce7-9e74-693f3c8036e9",
+      "type": "MENTIONED_IN",
+      "source_GUID": "033ed403-1651-5bdb-ad42-fa103590087a",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Vajasravasa",
+        "scripture": "Katha Upanishad",
+        "mentions": 1
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "561f9323-4072-476d-9ecb-fcc295e02773",
+      "type": "MENTIONED_IN",
+      "source_GUID": "34ae537b-e037-5225-8abb-8bba8d45a6b5",
+      "target_GUID": "65237f71-1bfe-4e52-919c-7275d209e10f",
+      "evidence": {
+        "entity": "Prana",
+        "scripture": "Katha Upanishad",
+        "mentions": 4
+      },
+      "confidence": 85,
+      "phase": "v9.9"
+    },
+    {
+      "GUID": "031ec1f0-22f6-4c17-834d-bccffe765a35",
+      "type": "MENTIONED_IN",
+      "source_GUID": "4a80812e-d33d-571c-9c01-6df9e40c33de",
+      "target_GUID": "37af295a-f614-4e86-aa77-9fca5f4b28a0",
+      "evidence": {
+        "entity": "Soma",
+        "scripture": "Manusmṛti",
+        "mentions": 8
+      },
+      "confidence": 85,
+      "phase": "v9.9"
     }
   ],
   "stats": {
-    "total_nodes": 441,
-    "total_edges": 4976
+    "total_nodes": 445,
+    "total_edges": 5044
   }
 }
