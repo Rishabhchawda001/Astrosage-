@@ -1,0 +1,27 @@
+{
+  "generated": "2026-07-18T20:00:50.146197+00:00",
+  "version": "1.0.0",
+  "git_commit": "646d3eb80bf9aa9a7602836f16de1dacdca01e96",
+  "release_dir": "knowledge/releases/v1.0.0",
+  "frozen_files": 28,
+  "total_size_bytes": 4602413,
+  "verification": {
+    "all_files_hashed": true,
+    "reproducibility_check": "PASS",
+    "mismatches": 0,
+    "manifest_created": true,
+    "freeze_policy_created": true,
+    "ai_contract_created": true,
+    "migration_framework_created": true,
+    "self_index_updated": true,
+    "changelog_created": true,
+    "certification_created": true
+  },
+  "counts": {
+    "entities": 391,
+    "scriptures": 54,
+    "edges": 5044,
+    "edge_types": 68
+  },
+  "status": "PASS"
+}

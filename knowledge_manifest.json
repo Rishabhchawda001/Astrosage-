@@ -1,0 +1,846 @@
+{
+  "version": "1.0.0",
+  "knowledge_version": "1.0.0",
+  "git_commit": "646d3eb80bf9aa9a7602836f16de1dacdca01e96",
+  "repository_url": "https://github.com/Rishabhchawda001/Astrosage-.git",
+  "generated": "2026-07-18T20:00:50.146197+00:00",
+  "generator": "Phase 10 Knowledge Freeze Pipeline",
+  "schema_version": "1.0",
+  "graph_version": "9.9",
+  "certification": {
+    "level": "PASS WITH LIMITATIONS",
+    "date": "2026-07-18T20:00:50.146197+00:00",
+    "limitations": [
+      "KEN (Kena Upanishad): Category B — OCR unrecoverable",
+      "MUND (Mundaka Upanishad): Category B — OCR unrecoverable",
+      "MAHAN (Mahanarayana Upanishad): Category E — Missing corpus",
+      "PARASHARA (Parashara Smriti): Category E — Missing corpus"
+    ]
+  },
+  "counts": {
+    "scriptures": 54,
+    "canonical_units_total": 1322481,
+    "entities": 391,
+    "relationships": 5044,
+    "edge_types": 68,
+    "entity_types": {
+      "Deity": 46,
+      "Person": 124,
+      "Place": 48,
+      "Concept": 51,
+      "Weapon": 23,
+      "Animal": 33,
+      "Dynasty": 11,
+      "Avatar": 7,
+      "Nakshatra": 5,
+      "Loka": 3,
+      "Ritual": 14,
+      "School": 2,
+      "Graha": 5,
+      "Text": 19
+    },
+    "dialogues": 170,
+    "events": 29,
+    "concepts": 6,
+    "genealogy_edges": 84,
+    "cross_scripture_links": 5,
+    "dialogue_graph_edges": 170,
+    "astronomy_entries": 0,
+    "geography_entries": 0
+  },
+  "known_limitations": {
+    "zero_coverage_scriptures": [
+      "KEN",
+      "MUND",
+      "MAHAN",
+      "PARASHARA"
+    ],
+    "unrecoverable_categories": {
+      "B": "OCR quality prevents reliable extraction",
+      "E": "No authoritative corpus available in repository"
+    },
+    "dialogue_extraction": "Relies on known speaker patterns — may miss anonymous dialogues",
+    "cross_scripture_alignment": "Partially manual, not fully automated",
+    "genealogy_extraction": "Limited to known lineages"
+  },
+  "artifacts": {
+    "graph": {
+      "knowledge/graph/alignment_verification.json": {
+        "sha256": "e05639fc2bcfdc59fbad30b3582159c8996d421c5edcdc35a7885b24322dac62",
+        "size": 165
+      },
+      "knowledge/graph/association_graph.json": {
+        "sha256": "56a1d059a9cbfb6996f3b67df6101ff5caaac0d0397e317b5697fbb010f746f5",
+        "size": 14748
+      },
+      "knowledge/graph/astronomy_graph.json": {
+        "sha256": "0cd9ee05a8dbdb50a95fcb95a408d39d271af8071787e089bd99c817c747eb94",
+        "size": 1438
+      },
+      "knowledge/graph/benchmark_report.md": {
+        "sha256": "a32015d0e10485924ecc35bf073896facf61f8216c9545ce272fb7718505b737",
+        "size": 1478
+      },
+      "knowledge/graph/certification_report.md": {
+        "sha256": "85fc2afa121eb3362f79b7ec605c1b68f35ba9f5d0f83114cf97cc380cae2289",
+        "size": 1616
+      },
+      "knowledge/graph/concept_graph.json": {
+        "sha256": "c48f20942a887ea2cc1b4cccec615f0327b1b6599f39f92c759d6fe842f5f30a",
+        "size": 30425
+      },
+      "knowledge/graph/consistency_report.json": {
+        "sha256": "ffe32a6fc7657f057c0195c3fa3fd9395fc204b37cbaa51f461723ee1d54601a",
+        "size": 269
+      },
+      "knowledge/graph/corpus_completion_report.json": {
+        "sha256": "f1174b59dc1828c5efcbe150c63ad39cf105bd9b289b066f48122c6a69b9a4df",
+        "size": 1083
+      },
+      "knowledge/graph/coverage_dashboard.json": {
+        "sha256": "0db477c3fa6c7069b3cfc71fb744c4350d5800fd33238b261c55c6695a1a31c3",
+        "size": 1215
+      },
+      "knowledge/graph/coverage_report.json": {
+        "sha256": "5d3ea9800e065eb04f9a63e8624d10a38401d6e8980576d375c1a687cf2e2aee",
+        "size": 24269
+      },
+      "knowledge/graph/coverage_reverification.json": {
+        "sha256": "89305d670eb296f38dfd093b39e1b60a537f44ecfe67fedee71cd8789197e69d",
+        "size": 288
+      },
+      "knowledge/graph/coverage_verification.json": {
+        "sha256": "76cb495cbfa179254ca02ec2ba2a02a6a1140aa910260037613bc8cf7d48bd50",
+        "size": 14612
+      },
+      "knowledge/graph/cross_scripture_alignment.json": {
+        "sha256": "0a2af2c99bd15b9520511638bde57cddb58243e7bf937b84d51bc5568b8842c3",
+        "size": 29499
+      },
+      "knowledge/graph/cuid_index.json": {
+        "sha256": "efd901506d3f88109c1a315a00e88aacf46295298948e5a0ee3f4f0cc902885f",
+        "size": 20797
+      },
+      "knowledge/graph/devanagari_extraction_report.json": {
+        "sha256": "89176e5dc5c16c964d2bb3de9d9f138ada53537a020b7cf9450070c90ce37c0c",
+        "size": 379
+      },
+      "knowledge/graph/dialogue_graph.json": {
+        "sha256": "a38ef243270feceaccc60eb0d7408da0c0301f0045d893b18400b66cb35b4857",
+        "size": 78598
+      },
+      "knowledge/graph/dialogue_validation.json": {
+        "sha256": "178fff2d0be01897be95cd8b9056b759a19733092b0bd519603b944685441982",
+        "size": 362
+      },
+      "knowledge/graph/edge_verification.json": {
+        "sha256": "ed90661bc44a4969debe23401f36bf1d61bb8acd60752df9b140625a64a27724",
+        "size": 365
+      },
+      "knowledge/graph/event_graph.json": {
+        "sha256": "4133d78cfe2a1322c144a5ac450c2fd89bb421a933c3354660130a91e7347ddf",
+        "size": 9804
+      },
+      "knowledge/graph/event_validation.json": {
+        "sha256": "3c9ba3de53f6cbcc79f574af9c111129caa42fe36583afc61aae74725d2f9c76",
+        "size": 385
+      },
+      "knowledge/graph/extraction_stats_v96.json": {
+        "sha256": "98abfa0087f960c472573fdf992b26303dc907c6b3e52e0b478fc6a957b9fefa",
+        "size": 1586
+      },
+      "knowledge/graph/final_certification_report.md": {
+        "sha256": "d9063ab0b5106c99ad0514b3f996cb6b25ca9e0c5d26e94c0d16d404cba28026",
+        "size": 1622
+      },
+      "knowledge/graph/genealogy_graph.json": {
+        "sha256": "20c7306f8567476979f03697c082883801ab969b803fc1cb2e49fa19a5b6b1bb",
+        "size": 31944
+      },
+      "knowledge/graph/genealogy_validation.json": {
+        "sha256": "c525dab5311b6fe66829ed46246958d25a5942787d962b857c994244ccefa72f",
+        "size": 378
+      },
+      "knowledge/graph/geography_graph.json": {
+        "sha256": "be4d569551cfc6e5bf072985ec8cd17f5bb880992f157553befb6071d9e20d85",
+        "size": 6805
+      },
+      "knowledge/graph/graph.json": {
+        "sha256": "0555889897b3545c55b4fa7b21871a8081c2d05b0382e5b85ddea3df71752cb9",
+        "size": 2218389
+      },
+      "knowledge/graph/graph_audit.json": {
+        "sha256": "e3b1d182b133733774e1acfcc20589032f89453a1ef5e78ed15e0da5b636f561",
+        "size": 2805
+      },
+      "knowledge/graph/graph_completeness.json": {
+        "sha256": "2690e79d6480ae1fa292fc9d055956f6d5b4353fb87f264c818cd75fa1d77c65",
+        "size": 188
+      },
+      "knowledge/graph/graph_manifest.json": {
+        "sha256": "4add7878894788cbb21e5748e9a6fb7bd120cd5055f386c6b5635168ab29a96b",
+        "size": 2119
+      },
+      "knowledge/graph/graph_statistics.json": {
+        "sha256": "e2a8a33f4103b2c8d34d8ff4bccae6b5c4e626c0f8b8dc17fba0215d475af8c3",
+        "size": 2065
+      },
+      "knowledge/graph/graph_validation.json": {
+        "sha256": "256d1b08888ecc09b7a840a7ac43cd2ad47eaebdd71389743dbc863cd1f27e91",
+        "size": 303
+      },
+      "knowledge/graph/knowledge_freeze_readiness.md": {
+        "sha256": "8cb478876bee1cbf662ea1f9d3f3165995cf03faf5ada27c9850552bcc780348",
+        "size": 1054
+      },
+      "knowledge/graph/node_verification.json": {
+        "sha256": "41c21f281de1d41ce75d3388b5d9ed3c11432856c53206b567f031dcc24232d8",
+        "size": 438
+      },
+      "knowledge/graph/relationship_refinement.json": {
+        "sha256": "a1ca9eb1b28d07852b4a08e09827d53b0fd06781b75154215f11f5a1748d4e54",
+        "size": 1503
+      },
+      "knowledge/graph/remaining_limitations.json": {
+        "sha256": "6ff32f3f026873a2b67bfd09414f34ca0852774054aa1b4f7e81ec6cdf90df80",
+        "size": 1042
+      },
+      "knowledge/graph/reproducibility_report.json": {
+        "sha256": "5cf6aa04a1ac0063a6a844faf3f78afa87723ba2c1d76070f7aefccd5648ba70",
+        "size": 4996
+      },
+      "knowledge/graph/reproducibility_report_v2.json": {
+        "sha256": "813575ccae6d73fbc7c2f7e79df24b7a5d82e80a505cf99787f2a550241ccc41",
+        "size": 5789
+      },
+      "knowledge/graph/review_queue.json": {
+        "sha256": "503734211ed0d3bd28cc02ba77f7a87ee870566f784db5cb2f6f9ac58c8570c0",
+        "size": 353
+      },
+      "knowledge/graph/ritual_graph.json": {
+        "sha256": "c1b57aa687c56e0f4184f35f28e8975c8a6c49a84953bcb706f6cbc2d1c35d05",
+        "size": 12307
+      },
+      "knowledge/graph/saturation_loop_results.json": {
+        "sha256": "af5a8d280f9f856d869aefbaa5aa2e7767bec1cc16e7f4cb92bfa8af30ea5952",
+        "size": 1095
+      },
+      "knowledge/graph/semantic_coverage.json": {
+        "sha256": "a6916c11a78639319733f9759e6a56f721a3ea1874a74d6f51e568492200bff6",
+        "size": 2193
+      },
+      "knowledge/graph/semantic_gap_report.json": {
+        "sha256": "16e5310f99d7100cd4a5661a8155c8b8df8f1d622d63bb31e1269aed43489095",
+        "size": 906
+      },
+      "knowledge/graph/semantic_quality_report.json": {
+        "sha256": "bac2f25850b536fa26e5843e04b19373bb9f0656a4bc5c91e0b1f6721a429ebe",
+        "size": 180
+      },
+      "knowledge/graph/semantic_saturation_report.md": {
+        "sha256": "1ee79c8e5cc547ea8d44a782789b5517da5f91993b1cec80a0e7b39d5ebce6cb",
+        "size": 1964
+      },
+      "knowledge/graph/validation_report_v2.json": {
+        "sha256": "507509af2b350428bbe50f55ce01310110f4cc5b536a6a02c707e7166ab9a342",
+        "size": 1214
+      },
+      "knowledge/graph/edges/relationship_edges.json": {
+        "sha256": "3dfd87a26e4e30bfcc1cc25fc4207ec7c3f152baef3a1838edb1e44d3a7857ce",
+        "size": 1788275
+      },
+      "knowledge/graph/indexes/entity_index.json": {
+        "sha256": "110b7fed9ccc5a750a6aa29731b94e20343954478e6870691ff80862be808e67",
+        "size": 43915
+      },
+      "knowledge/graph/nodes/entity_nodes.json": {
+        "sha256": "d5d8e7c26e1c566d5eee68ce435ed24e6160bd8311c1311ff59db76f78d690b9",
+        "size": 258716
+      },
+      "knowledge/graph/nodes/scripture_nodes.json": {
+        "sha256": "76b25aa2543a54bf2550735d4d40cb4513d62a509c24f510ae0e2650e816639b",
+        "size": 20537
+      },
+      "knowledge/graph/schemas/graph_schema.json": {
+        "sha256": "61ef9d51034372d0abef79da661f63f30cd6bb5c88fbe6be3db04d3c5577cf84",
+        "size": 3385
+      },
+      "knowledge/graph/validation/devanagari_entity_mentions.json": {
+        "sha256": "9cbf90ab7fbe3a3346596223aa7cb35ad7f165187bdf4ab820334884c5566d37",
+        "size": 1758
+      },
+      "knowledge/graph/validation/entity_mentions.json": {
+        "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+        "size": 2
+      },
+      "knowledge/graph/validation/graph_validation.json": {
+        "sha256": "1d0eb0c8042ea13b5d41842eeff5c399f81d30fa323ea625df4f2ec3f6f30189",
+        "size": 1885
+      }
+    },
+    "canonical_units": {
+      "knowledge/cuv/gretil_prose_clean/abhinavagupta_bhairava_stava_gretil_prose.json": {
+        "sha256": "bf222e397a078a1a0d6c7f932628dbf7ee19423257ede540e506ee5add29536c",
+        "size": 344
+      },
+      "knowledge/cuv/gretil_prose_clean/abhinavagupta_krama_stotra_gretil_prose.json": {
+        "sha256": "77bb6e0ce21bfd609172f62d9f4f94e83eb19d086a7abdaeb882b90250f33f92",
+        "size": 363
+      },
+      "knowledge/cuv/gretil_prose_clean/agni_puran_gretil_prose.json": {
+        "sha256": "89e81c0992da10814317aa782ad5c431f1ce52f98d040561a3acd61e329aa977",
+        "size": 762374
+      },
+      "knowledge/cuv/gretil_prose_clean/aitareya_upanishad_gretil_prose.json": {
+        "sha256": "2cd2816bdc8ac731d9f17c5568bc88484c7f90c18955202b606bcf49519ed93d",
+        "size": 69926
+      },
+      "knowledge/cuv/gretil_prose_clean/angiras_smriti_gretil_prose.json": {
+        "sha256": "4ad0c0660b4f2352e98f71b51ae1ebe5d26eaafd9801dac183b9e3f8e5e69176",
+        "size": 2367
+      },
+      "knowledge/cuv/gretil_prose_clean/apastamba_dharmasutra_gretil_prose.json": {
+        "sha256": "aa70ab18e042cd10ea352e4ef624a451063308ece970af97a693c52018241139",
+        "size": 189615
+      },
+      "knowledge/cuv/gretil_prose_clean/apastamba_grihya_sutra_gretil_prose.json": {
+        "sha256": "bc71fa0de12d087bd71fb86cb54d08769b87b71d35b1a15aba0d89749fc71737",
+        "size": 628981
+      },
+      "knowledge/cuv/gretil_prose_clean/ashvalayana_grihya_sutra_gretil_prose.json": {
+        "sha256": "ad5527037fbb460a1a5f82a511f50e6aadb10c880562b8c31937cea1b7280f14",
+        "size": 109039
+      },
+      "knowledge/cuv/gretil_prose_clean/ashvalayana_shrauta_sutra_gretil_prose.json": {
+        "sha256": "b87f8833cf89bf93aba84550c472cf8d169f4a6446423c03cb01b134089217c0",
+        "size": 533587
+      },
+      "knowledge/cuv/gretil_prose_clean/atharva_prayashchittani_gretil_prose.json": {
+        "sha256": "757de5c17b819f169238ea7f8ce87c2d85b3ddbc121c332a73275f87dafcc02b",
+        "size": 149594
+      },
+      "knowledge/cuv/gretil_prose_clean/atharvashiras_upanishad_gretil_prose.json": {
+        "sha256": "237f4ea766dbc544ceb928fe5901146446beca1ccd99cf410ae217ca5e2348bc",
+        "size": 14372
+      },
+      "knowledge/cuv/gretil_prose_clean/atharvaveda_parisista_gretil_prose.json": {
+        "sha256": "2cc3d633bf6d1e53a4de73b5e5fc55c311af690100f2dbc8cb6fe7c42170a63c",
+        "size": 711878
+      },
+      "knowledge/cuv/gretil_prose_clean/baudhayana_dharmasutra_gretil_prose.json": {
+        "sha256": "3e67ae0bd8a1bdabf3656724675a6ef83020efd43325976647482651330e0d7b",
+        "size": 256409
+      },
+      "knowledge/cuv/gretil_prose_clean/bhagavad_gita_4comm_gretil_prose.json": {
+        "sha256": "d887b30826f9b00c7374e327ef97b23f37d6d2889aaa3b9a11b039f4e358ace6",
+        "size": 2121915
+      },
+      "knowledge/cuv/gretil_prose_clean/bhagavad_gita_shankara_gretil_prose.json": {
+        "sha256": "7948b7d5d15aaeccbe98c079aecd4ecc8b56069e9f70e61cde2ebe3f8636eaea",
+        "size": 481230
+      },
+      "knowledge/cuv/gretil_prose_clean/bhagavata_gretil_prose.json": {
+        "sha256": "a8a62d785245e15228473f661d671118c8f51bd9298b90736b224c5fd3816e2d",
+        "size": 531165
+      },
+      "knowledge/cuv/gretil_prose_clean/bhagavata_gretil_tei_prose.json": {
+        "sha256": "b919a35dd85292b35cf8e937e79cf973d42890ccc6e9e31297373760830135b1",
+        "size": 531169
+      },
+      "knowledge/cuv/gretil_prose_clean/bhaskara_gita_bhashya_gretil_prose.json": {
+        "sha256": "1082990f3b6c407dae4aa35ab691d0b9e07700aefa888d119afb5ad149c0359e",
+        "size": 485749
+      },
+      "knowledge/cuv/gretil_prose_clean/brahma_puran_gretil_prose.json": {
+        "sha256": "d5157eee6c8cb45c5b88dd33186eb4daa4066153fd53b1da034f7df3234e9bf8",
+        "size": 2490
+      },
+      "knowledge/cuv/gretil_prose_clean/brahma_samhita_gretil_prose.json": {
+        "sha256": "82dabb0eb7ab981707a6c7db04e9f5e78c1c35703b6d7a57803066ac949cce05",
+        "size": 106105
+      },
+      "knowledge/cuv/gretil_prose_clean/devi_gita_gretil_prose.json": {
+        "sha256": "1ed72d5fea8ab2c8987e80435652d9c4329ec94f7b05acde4882217ac4b24ae1",
+        "size": 6397
+      },
+      "knowledge/cuv/gretil_prose_clean/ganapati_stotra_gretil_prose.json": {
+        "sha256": "a085daee8bde8d3a1ab3b082ca3f1ae0d3edfb3bb2a4d6e91d408ef29419eb08",
+        "size": 6344
+      },
+      "knowledge/cuv/gretil_prose_clean/garuda_puran_gretil_prose.json": {
+        "sha256": "a174ba50f92aa340d59f510fe37fc0796ff77709bcc45854f8f5c0f6a158b403",
+        "size": 140873
+      },
+      "knowledge/cuv/gretil_prose_clean/gautama_dharmasutra_1_3_comm_gretil_prose.json": {
+        "sha256": "c4dbf0c20178953cc848d8d606f89c4c4b84465934ad5780a446ea9bdee74d58",
+        "size": 91801
+      },
+      "knowledge/cuv/gretil_prose_clean/gautama_dharmasutra_gretil_prose.json": {
+        "sha256": "121f2d9f6bbb154ad619b751b7c556f40db28331f55e3eb961dbb6b52d7b1332",
+        "size": 116317
+      },
+      "knowledge/cuv/gretil_prose_clean/gopatha_brahmana_gretil_prose.json": {
+        "sha256": "3872f49ac7e3939dacbd21df9cd84989b365ae848b5f79f420a0b15cb950f77a",
+        "size": 678574
+      },
+      "knowledge/cuv/gretil_prose_clean/ha_tha_yoga_pradipika_gretil2_prose.json": {
+        "sha256": "ce8b52609692e6f4c08220618084be8130a614bfdf5673359fc87bc22c469408",
+        "size": 3098
+      },
+      "knowledge/cuv/gretil_prose_clean/harivamsa_app1_gretil_prose.json": {
+        "sha256": "02847a9810d3d18cda72240feaed793654934c67158bb17b861ed6c9353f9656",
+        "size": 4845
+      },
+      "knowledge/cuv/gretil_prose_clean/harivamsa_gretil_prose.json": {
+        "sha256": "4e3c9c0a584041e90776c00f93226ae4c220d3da461919b35b8374b0b0bcafad",
+        "size": 545
+      },
+      "knowledge/cuv/gretil_prose_clean/hatha_yoga_pradipika_gretil_prose.json": {
+        "sha256": "295c079abcf6f92ff5130db2207f24e6b7782b0ea87030721f4f171aa2446555",
+        "size": 3096
+      },
+      "knowledge/cuv/gretil_prose_clean/isha_upanishad_gretil_prose.json": {
+        "sha256": "76eb520571ae8c97780489783812d19d1d304aa0f360b6a9ec21a37acecc864c",
+        "size": 26437
+      },
+      "knowledge/cuv/gretil_prose_clean/kalidasa_shyamaladandaka_gretil_prose.json": {
+        "sha256": "20b4b6abf33d2ed710b0d63d7d116fd3877e9ce3a490b3d685f8905a6386f1e2",
+        "size": 5570
+      },
+      "knowledge/cuv/gretil_prose_clean/kirana tantra_gretil_prose.json": {
+        "sha256": "d3da1844ce3a8f644c6d1c4a4b355beb46f44f431c6b1d8bb589fa039a96e869",
+        "size": 155077
+      },
+      "knowledge/cuv/gretil_prose_clean/kositaki_brahmana_gretil_prose.json": {
+        "sha256": "cd908d2b6087a3f3f21bf316ac539bc0d0d49a3cef4578763a63d4f105e36c6e",
+        "size": 827224
+      },
+      "knowledge/cuv/gretil_prose_clean/kubjikamata tantra_gretil_prose.json": {
+        "sha256": "279495dd75c04201166020dff001ac95fddcaf2e40c83e0bfa3cf5dddd33e213",
+        "size": 25629
+      },
+      "knowledge/cuv/gretil_prose_clean/kurma_puran_gretil_prose.json": {
+        "sha256": "c71edd26f933315be872955f5f88a14c5350dbd6364bc50d2f0e1259dd62c0a2",
+        "size": 18754
+      },
+      "knowledge/cuv/gretil_prose_clean/madhva_gita_bhashya_gretil_prose.json": {
+        "sha256": "c3ac80c4b80a31845b15a685e38f389d421f9d8ae6fe72af731709163aabb03b",
+        "size": 1134310
+      },
+      "knowledge/cuv/gretil_prose_clean/malinivijayottara tantra_gretil_prose.json": {
+        "sha256": "e85a1d3041e737e2b16e46247e04da285c6681d532cd1df935907308063433ff",
+        "size": 315022
+      },
+      "knowledge/cuv/gretil_prose_clean/manava_grihya_sutra_gretil_prose.json": {
+        "sha256": "b7e25a3bf872f71306f83a67912c154411d72569c1233493073f0b5ac39e440b",
+        "size": 34447
+      },
+      "knowledge/cuv/gretil_prose_clean/manusmriti_gretil_prose.json": {
+        "sha256": "d4721903d96696da256c3abc0cc5542ac1e58f22ab5347370919c6bad9570a53",
+        "size": 310
+      },
+      "knowledge/cuv/gretil_prose_clean/markandeya_puran_gretil_prose.json": {
+        "sha256": "61a60c24cc90d4cb38f5e2870f871f7729c2650da8d6ab60fadc716c3cf02c7b",
+        "size": 68749
+      },
+      "knowledge/cuv/gretil_prose_clean/matrkabhedatantra_gretil_prose.json": {
+        "sha256": "5929ff05b892b09c7269b8c9c5c667820be391912c30ba0cf799967f68ec3d5b",
+        "size": 5139
+      },
+      "knowledge/cuv/gretil_prose_clean/mrigendra_agama_gretil_prose.json": {
+        "sha256": "88a56fa7dabad4e6acbaa49aa117391f509578b288416e7eb36c4adc0cbdc18b",
+        "size": 67167
+      },
+      "knowledge/cuv/gretil_prose_clean/nadabindi_upanishad_gretil_prose.json": {
+        "sha256": "7379b1e8e3dd5187d7d183d2f109ee8d55a7e9067217b84a5ad695e464da69ed",
+        "size": 310
+      },
+      "knowledge/cuv/gretil_prose_clean/namaskaraikavimshati stotra_gretil_prose.json": {
+        "sha256": "a1baf4d5e2aa78c8deac157bbe7a8f2acf21bdb11e6208206fb0b123675b86ae",
+        "size": 543
+      },
+      "knowledge/cuv/gretil_prose_clean/narada_puran_gretil_prose.json": {
+        "sha256": "f5bd8184698eee5c7e1ceaf6a528009f03dc68066ca2aa327e675e99d964967b",
+        "size": 49712
+      },
+      "knowledge/cuv/gretil_prose_clean/narada_smriti_gretil_prose.json": {
+        "sha256": "ab399445170b8ab166be5a496b04b4c14923700c7ec3375a248bbe525e589458",
+        "size": 318
+      },
+      "knowledge/cuv/gretil_prose_clean/narasimha_puran_gretil_prose.json": {
+        "sha256": "8eb2208ac40ef0517f6db3dbe52d86f65cebfcd016e53bd379a121bce916edbb",
+        "size": 25147
+      },
+      "knowledge/cuv/gretil_prose_clean/nirukta_gretil_prose.json": {
+        "sha256": "0e5ad205c8d13bd2e4b4eada6d165d7cb18f178fa6c3d30bd269a86718a1f354",
+        "size": 608824
+      },
+      "knowledge/cuv/gretil_prose_clean/pancavimsha_brahmana_gretil_prose.json": {
+        "sha256": "a394d29f84716feb5f98924c39bd80f1601079211e52dda223481126c7c17ea1",
+        "size": 651011
+      },
+      "knowledge/cuv/gretil_prose_clean/ramanuja_gita_bhashya_gretil_prose.json": {
+        "sha256": "38f906f55a2d3d05790f36b9e0aeaad95cccd516fbf652db0d02e542e79a96fb",
+        "size": 854697
+      },
+      "knowledge/cuv/gretil_prose_clean/ramanuja_vedartha_gretil_prose.json": {
+        "sha256": "60bfa0da6e285fa23d6c00ee76d0c16782b71739396eb935c9bf457daf5c7d59",
+        "size": 314139
+      },
+      "knowledge/cuv/gretil_prose_clean/revakhanda_vayu_puran_gretil_prose.json": {
+        "sha256": "580d0beb312d4998cc8ee4075f31485db6516476d987b3988570dc46eb0a33e1",
+        "size": 86484
+      },
+      "knowledge/cuv/gretil_prose_clean/rigveda_khila_gretil_prose.json": {
+        "sha256": "508ccaa3bd40a7acb05cf88687ba41a35b73c881fc354e517f69396b76ab2809",
+        "size": 16229
+      },
+      "knowledge/cuv/gretil_prose_clean/rigveda_padapatha_gretil_prose.json": {
+        "sha256": "4bf9a29ab6b090fe2cf884aaf2b92d0b06f526859ad2472f426e654cf7b9c15c",
+        "size": 2651987
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_bAdarAyaNa-brahmasUtra-comm-subcomm2_prose.json": {
+        "sha256": "e3013e1605b932e004e09c8bbbfe52a8f7cdb50b4f342cc39c8e17f2e2dd429d",
+        "size": 2358145
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_bAdarAyaNa-brahmasUtra-comm_prose.json": {
+        "sha256": "74fe4d668d2936e6f2bb0fe763d513b90f20a661309ce38f0327064259725776",
+        "size": 1255403
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_bAdarAyaNa-brahmasUtra-subcomm2_prose.json": {
+        "sha256": "7a116a8ee25c5b0c7317b3736b005716c25cbd30abc19b4cec4153b478932221",
+        "size": 1252804
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_bAdarAyaNa-brahmasUtra-subcomm_prose.json": {
+        "sha256": "fc21e0b53c7bf0e1f7e27d8017e80520b0bff563bb1815b9bea5dc1325ea825c",
+        "size": 1134635
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_brahmANDapurANa_prose.json": {
+        "sha256": "7dce189bf983e48803e05584e9ad7f1d3fe5623eeeccd555270cb60902df1af5",
+        "size": 39530
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_brahmagupta-brAhmasphuTasiddhAnta_prose.json": {
+        "sha256": "62630f06bc9d1b85ef436f23f3603fddf450ce197090e54e9ed858d52e49ef42",
+        "size": 2472
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_pataJjali-yogasUtra-alt_prose.json": {
+        "sha256": "f6b1effd3d203fab9472cd0535ee82ad4ce7071d2e425ff140aa498681f122e9",
+        "size": 4809
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_pataJjali-yogasUtra-with-bhASya-alt_prose.json": {
+        "sha256": "26601502953c558b2e547ebb9230bd67e9e3491e52f5fc87ff505f6e2312ea02",
+        "size": 249681
+      },
+      "knowledge/cuv/gretil_prose_clean/sa_pataJjali-yogasUtra-with-bhASya_prose.json": {
+        "sha256": "20f01499789bcda3c7f7027d41306e8af3f7f5d9167880031c8f3c81ff567c2e",
+        "size": 146125
+      },
+      "knowledge/cuv/gretil_prose_clean/samaveda_gretil_prose.json": {
+        "sha256": "5270f2adb5c6c6310077acd37cbf006a9a85093f071202866c384eafcbfcb0bf",
+        "size": 462297
+      },
+      "knowledge/cuv/gretil_prose_clean/sarvadurgatiparishodhana tantra_gretil_prose.json": {
+        "sha256": "c95c5e714c7ac189b7bb217d46c6535d5610e3db6d77a8857a459c398f1e5856",
+        "size": 241101
+      },
+      "knowledge/cuv/gretil_prose_clean/shankhayana_shrauta_sutra_gretil_prose.json": {
+        "sha256": "0bec05cfe621f38c5304a66bf4a8b07d3b8fee97d823e8147044ebb90f5b85d2",
+        "size": 750650
+      },
+      "knowledge/cuv/gretil_prose_clean/shira_upanishad_gretil_prose.json": {
+        "sha256": "9507818086757f50d9096bfa1566a0ccf99f24362d2cd69986ae6180b65deeef",
+        "size": 14364
+      },
+      "knowledge/cuv/gretil_prose_clean/shiva_puran_gretil_prose.json": {
+        "sha256": "abb22f40c20c3cf1400dd14c02360eee4d35e1eb002a15a4662432bfbb04f725",
+        "size": 933690
+      },
+      "knowledge/cuv/gretil_prose_clean/shiva_sutra_varttika_gretil_prose.json": {
+        "sha256": "a7bd346bf45a67851186d56374cb2844df2ce97b10a3d902e5b400cb0ac42d58",
+        "size": 22923
+      },
+      "knowledge/cuv/gretil_prose_clean/shvetashvatara_upanishad_gretil_prose.json": {
+        "sha256": "f6ece4571c44af58aee1e346c9f3a4bd2a59863631db22c29bbe500480c3bb74",
+        "size": 325
+      },
+      "knowledge/cuv/gretil_prose_clean/skanda_puran_revakhanda_gretil_prose.json": {
+        "sha256": "1fdf263a49d5207165f5c931e20ddcae2be1978d7a2fb1d6ff37843e6096cf65",
+        "size": 95280
+      },
+      "knowledge/cuv/gretil_prose_clean/svayambhu_puran_gretil_prose.json": {
+        "sha256": "5569b3259e6279824edf42e509aa5573cf178e19306bb1771c27276035418ffe",
+        "size": 7139
+      },
+      "knowledge/cuv/gretil_prose_clean/taittiriya_upanishad_bhashya_gretil_prose.json": {
+        "sha256": "7af50c917802442ba499552728df13371f17b05f0c8ea9d4eb56b9a64879bca4",
+        "size": 172835
+      },
+      "knowledge/cuv/gretil_prose_clean/uddamareshvara tantra_gretil_prose.json": {
+        "sha256": "fbaba5ab0b068cad8a5b87e88125c48f79a94bc4aecf226c3684c661dc435c62",
+        "size": 90294
+      },
+      "knowledge/cuv/gretil_prose_clean/vaikhanasa_dharmasutra_gretil_prose.json": {
+        "sha256": "5f6dde8041ad6d5578eaec679d5516110252d501a8f0f818ff615069e77c6e32",
+        "size": 56586
+      },
+      "knowledge/cuv/gretil_prose_clean/vamana_puran_gretil_prose.json": {
+        "sha256": "31ee71c022d1a9dd5c996a49f9af51787f6b7dedf31f4ec407f9fc5d99457fc7",
+        "size": 27853
+      },
+      "knowledge/cuv/gretil_prose_clean/vamana_puran_saromahatmya_gretil_prose.json": {
+        "sha256": "6a75af31ac76755e5d201096a18bc409bc4b4b702161b1614634e599d151ca06",
+        "size": 7401
+      },
+      "knowledge/cuv/gretil_prose_clean/vasistha_dharmasutra_gretil_prose.json": {
+        "sha256": "cbea394fd5b2cf778b7072645970a756d7308ebb2982babd60b8066556ee3fa2",
+        "size": 198559
+      },
+      "knowledge/cuv/gretil_prose_clean/vijJAnabhairava_gretil_prose.json": {
+        "sha256": "1cc9167cd4d63c1c5d63b3587a4c3a6886e826a46a45b15309892541321b1f84",
+        "size": 1417
+      },
+      "knowledge/cuv/gretil_prose_clean/vijnana_bhairava_gretil_prose.json": {
+        "sha256": "fd8372dead34aa5f5baad60df248ebd07837e81cbe11b9032cdcad392f1abf44",
+        "size": 1418
+      },
+      "knowledge/cuv/gretil_prose_clean/vinaashikha tantra_gretil_prose.json": {
+        "sha256": "daa6269d279a30afe3336f37f69e007a7390fc9ef9f116d4dab3a5ad016f6715",
+        "size": 315
+      },
+      "knowledge/cuv/gretil_prose_clean/vishnu_dharma_gretil_prose.json": {
+        "sha256": "4a34808e36761dbd9c844afecd4400a81272640185063b4169572f84f0ed45e4",
+        "size": 779504
+      },
+      "knowledge/cuv/gretil_prose_clean/vishnu_puran_gretil_critical_prose.json": {
+        "sha256": "e1535eeb5d366055fd05526a0affc771af3dab9c27dc00c5da9c823b9ea2fde5",
+        "size": 142892
+      },
+      "knowledge/cuv/gretil_prose_clean/vishnu_puran_gretil_prose.json": {
+        "sha256": "c661d97bf0093916eb931ab55ad884bae8e79a3e8694cc6f896f8d08fc417025",
+        "size": 31242
+      },
+      "knowledge/cuv/gretil_prose_clean/vishnu_smriti_gretil_prose.json": {
+        "sha256": "7804ab33df8aac546afc6fd27210d2601b1a2e87ae6a71598b5da01c70d645d3",
+        "size": 527987
+      },
+      "knowledge/cuv/gretil_prose_clean/yoga_bija_gretil_prose.json": {
+        "sha256": "22de212fa427df87928780ebd4a69242f0fe605c90d128e8af45000d54aad8d4",
+        "size": 940
+      },
+      "knowledge/cuv/gretil_prose_clean/yoga_sutra_bhasya_gretil_prose.json": {
+        "sha256": "8175722a64a21fa4ba33802612c7b75a3e7d4353fb812fdec88e94dd1fdef93e",
+        "size": 146115
+      }
+    },
+    "cku_registry": {
+      "knowledge/cku_registry/agni_puran_authority_graph.json": {
+        "sha256": "f40c96054a5c94d444dffec9a6f5cf5d2afb4848573505cfd1fddfa3095d1e7a",
+        "size": 1527
+      },
+      "knowledge/cku_registry/all_scripture_canonical_trees.json": {
+        "sha256": "a7cdb081b783f431afc4710fba70bb875c141f62c61b194e9828b3788f3cc6d3",
+        "size": 6272
+      },
+      "knowledge/cku_registry/all_weighted_reconstructions.json": {
+        "sha256": "487790ea3073ffc02fd7653e9ea57c7dc7ed4f315fa51e6aff5dcaef69f2dd4d",
+        "size": 560
+      },
+      "knowledge/cku_registry/atharvaveda_authority_graph.json": {
+        "sha256": "c73e83da611cc41226b8e6487c39c54ce135043dbcabb91e96c9c6418dd14468",
+        "size": 1188
+      },
+      "knowledge/cku_registry/bhagavat_authority_graph.json": {
+        "sha256": "6dbe5dfdc57945a23abcce786b5ebc3422e15aaab0858c3abb9b378c2dc364a5",
+        "size": 3699
+      },
+      "knowledge/cku_registry/bhagavat_canonical_tree.json": {
+        "sha256": "457cc286b3aa2790a761b148daef366d5a01963c91088681157c0211d854e5cf",
+        "size": 419
+      },
+      "knowledge/cku_registry/bhagavat_canonical_tree_v2.json": {
+        "sha256": "9a56c2422a9d1366ea7be251aaa04dded10a6d807c85b8e4368368e67ca9a5c0",
+        "size": 376
+      },
+      "knowledge/cku_registry/bhagavat_weighted_reconstruction.json": {
+        "sha256": "01c773462087152bea714a4941b4674a6fb7cc80cafe05af7e6ce418bd7299a3",
+        "size": 1707
+      },
+      "knowledge/cku_registry/canonical_oracle.json": {
+        "sha256": "53411227623d8fa525d1908a9cb0674dac03b3937f1aebf9baa8f2525b91a83e",
+        "size": 44509
+      },
+      "knowledge/cku_registry/canonical_structures.json": {
+        "sha256": "f0e73ef086f0e051ba0d764bc774745e009bcc15a5aed1dc000f7ae89b58eac4",
+        "size": 32427
+      },
+      "knowledge/cku_registry/canonical_verification.json": {
+        "sha256": "605cf683b53321034e8cd92ee4f8df55e6e1118a1d2630352b0d9708c521651f",
+        "size": 3966
+      },
+      "knowledge/cku_registry/cku_classification.json": {
+        "sha256": "34023db9f41772af81a6c371f8675a46dc800b6cea7f689f280c662a25cfa713",
+        "size": 38110
+      },
+      "knowledge/cku_registry/cku_classification_final.json": {
+        "sha256": "0c5c85d4d4569b0ae7a68e452c03516fe14d4b6b011fcaa83d20f9e612dc83da",
+        "size": 327
+      },
+      "knowledge/cku_registry/cku_classification_report.json": {
+        "sha256": "1ac5777b62ceb34a1eb52718b24534d0259a3de8452cfc1ccad7da0d434689be",
+        "size": 1375
+      },
+      "knowledge/cku_registry/cku_deep_classification.json": {
+        "sha256": "1ef426ee272adf4d99f7ab637c03f72889f9aa950b3cb9f65a0a91649067a16c",
+        "size": 349
+      },
+      "knowledge/cku_registry/cku_extraction_report.json": {
+        "sha256": "35ac3e0ff3a32e5a4624788c1a5530463865532f262395d5340e373ffdb9a487",
+        "size": 429
+      },
+      "knowledge/cku_registry/cku_gap_analysis_post_recovery.json": {
+        "sha256": "5700bc6b437e67a76be60ac6f0b697ff82dfb1c127c5ee569febdcd77094b6df",
+        "size": 201
+      },
+      "knowledge/cku_registry/cku_gap_recovery_batch1.json": {
+        "sha256": "2126fc98b6077127108805f724a0fdf1f505b4c1a7c7894655f3401980a60750",
+        "size": 551
+      },
+      "knowledge/cku_registry/cku_gap_recovery_batch2.json": {
+        "sha256": "215269762914da3cd6c3e6bd2230cc756d02b93e05169ae7ad5a595557adcddf",
+        "size": 1097
+      },
+      "knowledge/cku_registry/cku_statistics_recomputed.json": {
+        "sha256": "55c06e039e64a3ab7c43eb62156bd89f96d3379acf300c9a083d30766ec63aa4",
+        "size": 363
+      },
+      "knowledge/cku_registry/comprehensive_cku_extraction.json": {
+        "sha256": "2b860a6c06c35b6f1e424386f32bb1cff5c45a9f28ca6f243a3c79882f879533",
+        "size": 582
+      },
+      "knowledge/cku_registry/comprehensive_gap_analysis.json": {
+        "sha256": "41a28a17e1a23d1c8e712b3dcdfb69509ed0b851ab0ecd31b05ae43ac85b0608",
+        "size": 163
+      },
+      "knowledge/cku_registry/devi_bhagwat_authority_graph.json": {
+        "sha256": "cd6a09f131e18f74df65c0fbd5c20d428d57c2ac5d13171ae6ebff8d6016929a",
+        "size": 1385
+      },
+      "knowledge/cku_registry/edition_coverage_analysis.json": {
+        "sha256": "9a20104f02b9204a16f2a9c5b2c61dc2d7347e7014ea66da941feb9a0d908178",
+        "size": 7340
+      },
+      "knowledge/cku_registry/final_cku_analysis.json": {
+        "sha256": "90b7f693d9a52084ea8c09242f303bfa45486a4d7297d4049daf409a9cfa08a8",
+        "size": 208
+      },
+      "knowledge/cku_registry/final_structural_assessment.json": {
+        "sha256": "59031b335e118d975cdaa1a6e0fd3a1988587e56de3c00f83b1094df6e8baeb4",
+        "size": 427
+      },
+      "knowledge/cku_registry/full_cku_extraction.json": {
+        "sha256": "75d40eafca3f49efa1538be6dc0ab2cb7a6dc826cbbed711edf852588574c973",
+        "size": 2893
+      },
+      "knowledge/cku_registry/gap_analysis.json": {
+        "sha256": "df151e79bc5ab8fe629da9eec5426e06588fc6eebf421d4d99fa49e9fa6e5345",
+        "size": 159
+      },
+      "knowledge/cku_registry/garuda_puran_authority_graph.json": {
+        "sha256": "0346f7b9a2e2feca99250ba57b53206f6e3e32b135b970b0c68a2591abecf82b",
+        "size": 634
+      },
+      "knowledge/cku_registry/harivansh_puran_authority_graph.json": {
+        "sha256": "afb48631314421c1274edb8af303b7a69325c4df6c8e26ff8f600074e6800a0e",
+        "size": 1407
+      },
+      "knowledge/cku_registry/kurma_puran_authority_graph.json": {
+        "sha256": "b1dc94b3dc5bb06bbbff1f8a6d729a1a709aa19cd7e1b56e916f92b999e8e68b",
+        "size": 1359
+      },
+      "knowledge/cku_registry/linga_puran_authority_graph.json": {
+        "sha256": "d405c866ed750b215b479fb71ac8ca95da6ac9625469bff1ccfa6a7fff125afa",
+        "size": 1036
+      },
+      "knowledge/cku_registry/markandeya_puran_authority_graph.json": {
+        "sha256": "c232d9a37948a2d57728f00f1635e28333f158be2524548d324573a0fb0e97c0",
+        "size": 1470
+      },
+      "knowledge/cku_registry/matsya_puran_authority_graph.json": {
+        "sha256": "e3a1e9ce07c5c3cd09eaf570d5a3204ad1bf79f9ae4d4a4e7a4dee01d9abdb3d",
+        "size": 1368
+      },
+      "knowledge/cku_registry/matsya_puran_structure.json": {
+        "sha256": "c9e24e0055f7a4031224db956b2cfd7d7aa49ff91a89777b985543f4752b0300",
+        "size": 58167
+      },
+      "knowledge/cku_registry/naradiya_puran_authority_graph.json": {
+        "sha256": "f82f7a64ce5eab3ff6c6269cf02e71b3d390e48007fe677362bd35ec4ae26acb",
+        "size": 1409
+      },
+      "knowledge/cku_registry/reconstruction_priority.json": {
+        "sha256": "6d4b54193bf6b44e7f1afb8cdcdbfefa8672a5ad39869e8f9a8ca4b3f387e920",
+        "size": 4733
+      },
+      "knowledge/cku_registry/rigveda_authority_graph.json": {
+        "sha256": "d6074fd9e183175ce16a964b4e735372ac1c309e9d736e7bcb8d7583b9bd6ae1",
+        "size": 1663
+      },
+      "knowledge/cku_registry/sadhak_sanjivini_authority_graph.json": {
+        "sha256": "d0b67ed69631c0ef8c07aaa540cf13ad35fd7e5d527e6c22f86825909d88c38f",
+        "size": 1402
+      },
+      "knowledge/cku_registry/samaveda_authority_graph.json": {
+        "sha256": "3b73ca6f64cf1fb1e8cc99e6d41e36f0a205aeb7148315e1f3338c4a01885deb",
+        "size": 620
+      },
+      "knowledge/cku_registry/scripture_inventory.json": {
+        "sha256": "d28dfeab78635355119e9a7338a27066978ca179c23a70915c48cdf0ce14a675",
+        "size": 52023
+      },
+      "knowledge/cku_registry/skand_puran_authority_graph.json": {
+        "sha256": "60b884cb2e57792b21c852691890eb8b63a506f8e69b662d6a081a7b49b4d2f5",
+        "size": 1335
+      },
+      "knowledge/cku_registry/valmiki_ramayana_authority_graph.json": {
+        "sha256": "86d703053eb178883cf2692a8809d2fb6978af6a5269df5cf4babf414ced018a",
+        "size": 1208
+      },
+      "knowledge/cku_registry/vaman_puran_authority_graph.json": {
+        "sha256": "72e07ec952ce0b3ea0040d96f491ba7e242d4b3c6ddc7f6020c87781e3cb023c",
+        "size": 1192
+      },
+      "knowledge/cku_registry/varaha_puran_authority_graph.json": {
+        "sha256": "42684d50bc3a82a2eb8af3c60c6b141f3f1bef5a7e1d44c442eedba1a7ed2391",
+        "size": 419
+      },
+      "knowledge/cku_registry/vidur_niti_authority_graph.json": {
+        "sha256": "a8f23757d25c7a0dcbecaac2f24b297c2b08964c827d63ab4ff5b26d1ab10d34",
+        "size": 829
+      },
+      "knowledge/cku_registry/vishnu_puran_authority_graph.json": {
+        "sha256": "0da47f84abf5a4a4225afa2b615483019b99df4b0869212616c70c93b106767f",
+        "size": 638
+      },
+      "knowledge/cku_registry/vishnu_sahasranama_authority_graph.json": {
+        "sha256": "dbb5dbf190052946bc4895794321b2335bb7fef7d6a009d46195923628cb683d",
+        "size": 974
+      },
+      "knowledge/cku_registry/witness_graph.json": {
+        "sha256": "e4cc0f9616a7c1af29bea856cce581c83599029b9423078a8d21095e052d0623",
+        "size": 97788
+      },
+      "knowledge/cku_registry/witness_registry.json": {
+        "sha256": "167975e6491670d810997469a89333cdea20aa2c69608a504481aa30e5ac6865",
+        "size": 24361
+      },
+      "knowledge/cku_registry/yajurveda_authority_graph.json": {
+        "sha256": "2dd9c284ecd9275aa0f4aa852f5c819b4627f833520c4978c4c8882993cf4e4f",
+        "size": 646
+      },
+      "knowledge/cku_registry/yogavasishtha_authority_graph.json": {
+        "sha256": "c0c598e848039ab45a643f12356100c5bebb909460308e912b2a1a9299872243",
+        "size": 5568
+      }
+    }
+  }
+}

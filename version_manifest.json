@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "created": "2026-07-18T20:00:50.146197+00:00",
+  "git_commit": "646d3eb80bf9aa9a7602836f16de1dacdca01e96",
+  "knowledge_manifest": "knowledge_manifest.json",
+  "release_dir": "knowledge/releases/v1.0.0",
+  "freeze_policy": "KNOWLEDGE_FREEZE.md",
+  "ai_contract": "AI_KNOWLEDGE_CONTRACT.md",
+  "certification": "FINAL_KNOWLEDGE_CERTIFICATION.md",
+  "changelog": "CHANGELOG.md",
+  "migration_log": "knowledge/migrations/MIGRATION_LOG.md",
+  "artifacts_frozen": 28,
+  "total_size": 4602413
+}
