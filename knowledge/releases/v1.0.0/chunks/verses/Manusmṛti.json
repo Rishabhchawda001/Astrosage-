@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "60ba2072078bd63df43c7e8c",
+    "level": "verse",
+    "scripture_id": "Manusmṛti",
+    "canonical_ref": "Manusmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Manusmṛti_ch0_aku?",
+    "text": "samāptaṃ mānavaṃ dharmaśāstram",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Manusmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "5093aa259353016b62ae7fe3575a9426a3ede3da28bca4544c2fcdd21754ab9c"
+  }
+]

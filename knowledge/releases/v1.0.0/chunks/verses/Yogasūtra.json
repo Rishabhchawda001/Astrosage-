@@ -1,0 +1,275 @@
+[
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "tatra sthitau yatno '-bhyāsaḥ ||1.13|| sa [?] tu [?] [ ] dīrgha-kāla-nairantarya-satkārāsevito [ ]dṛḍha-bhūmiḥ ||1.14|| dṛṣṭānuśravika-viṣaya-vitṛṣṇasya vaśīkāra-saṃjñā vairāgyam||15||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "a93ab4dd705b1cb5f4124de585cb2dc6857668022f2418e8ab1a42afdde80835"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "tā eva sabījaḥ samādhiḥ ||1.46|| nirvicāra-vaiśāradye '-dhyātma-prasādaḥ ||1.47||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "931f1ab18482e8b1d59fe7aa5754f6643a9c163ef5eaacc0068d58f0a974810e"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "[iti patañjali-viracite yoga-sūtre prathamaḥ samādhi-pādaḥ |] [ ]dvitīyaḥ sādhana-pādaḥ | tapaḥ-svādhyāyeśvara-praṇidhānāni kriyā-yogaḥ ||2.1||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "288ab6c58e9d471f5f81aea951223da08b4199d1052c153f5cd01e90a6ab626c"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "sukhānuśayī [ ] rāgaḥ ||2.7|| duḥkhānuśayī [ ] dveṣaḥ ||2.8||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "89a2746aaaa4473b3fe233b968b2401be33b8428037e1e81e619d1173b17a509"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "yama-niyamāsana-prāṇāyāma-pratyāhāra-dhāraṇā-dhyāna-samādhayo'-ṣṭāv aṅgāni ||2.29|| ahiṃsā-satyāsteya-brahmacaryāparigrahā [ ] yamāḥ ||2.30||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "7bce19f1f9820709cb38f20e7cbbae7935f2724aefcc00da0a5385532b9258e5"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "[iti patañjali-viracite yoga-sūtre dvitīyaḥ sādhana-pādaḥ |]",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "2a930e072feec1ea797a904c5fcfe4afd0c7e4ae736a85c00867748abbfeba97"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "kūrma-nāḍyāṃ sthairyam ||3.31|| mūrdha-jyotiṣi siddha-darśanam ||3.32||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "8833ca3aa69e3ab8535f583591a43ac40b8c75bb4863b4d831651257e6005a32"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "sattva-puruṣayor atyantāsaṃkīrṇayoḥ pratyayāviśeṣo [ ] bhogaḥparārthatvāt svārtha-saṃyamāt [ ] puruṣa-jñānam ||3.35|| tataḥ prātibha-śrāvaṇa-vedanādarśāsvāda-vārtā jāyante ||3.36||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "01320e7faccbe75d045e0a05f5419ee9beb1ffc394ea4796767c86eb9b4d4c3a"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "[iti patañjali-viracite yoga-sūtre tṛtīyo vibhūti-pādaḥ]",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "14af70d4cba151bcb284dfb2a1bc5d67954dd71922f8625520ddbdb55413018f"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "[iti patañjali-viracite yoga-sūtre caturthaḥ kaivalya-pādaḥ |]",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "c8fe3f8e0a807a509362181f5d5dc18844b48ac7134b621cea06ffd68e4b1a58"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "[|| iti pātañjala-yoga-sūtrāṇi ||]",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "0baab704bb97d89dfd95c33c3c61080304e458aae99bea832616018dc651d1dd"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "NOTES:",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "4d0d21aef5b7453eaac416d181ee356d5b0d89102cb51a07d1b23076143b7363"
+  },
+  {
+    "chunk_id": "33784744f4ec4c5990d5575f",
+    "level": "verse",
+    "scripture_id": "Yogasūtra",
+    "canonical_ref": "Yogasūtra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogasūtra_ch0_aku?",
+    "text": "1. kliṣṭākli# Jhajjar. 2. sa tu om. in Vivaraṇa. These two words could originally have been a part of the Bhāṣya. 3. #kālādaranai# KSS. #tkārase# KSS. 4. [sa] at the beginning in the Vivaraṇa edn. sa without brackets at the beginning in KSS. However,note: pātanikā '-'sa eṣa'-' iti. sūtraṃ '-'pūrveṣām api guruḥ, kālenānavacchedāt'-'- Vā. 5. #rbhāsān Vivaraṇa. 6. #bhyāṃ sāmānya# KSS. 7. iti not used at the end as it is used in the case of the last sūtras of the third and fourth pādas. 8. Colophons at the end of the pādas vary considerably in the editions. Mss. must be consulted to determine the original forms of such colophons. They have been supplied here by the editor. 9. #śāḥ pañca kle# Vidyāsāgara. 10. #nujanmā Vivaraṇa, which records also the reading accepted above. 11. #nujanmā Vivaraṇa, which records also the reading accepted above. 12. #trā-liṅgā Vivaraṇa. 13. #rvāṇaḥ Vivaraṇa. 14. #-satyamaste# Vidyāsāgara. 15. ete additional at the beginning KSS. 16. #kāgratendri# KSS. ekāgratā, not aikāgrya, is used in 3.11-12, but Bhāṣya, Vivaraṇa, and Vā. have aikāgrya here. 17. #ttamasu# i.e. a compound in Vidyāsāgara; Bhāṣya does not indicate how it read the sūtra. 18. #nantya-sa# KSS. 19. sa tu additional at the beginning in KSS; however, Vivaraṇa and Vā. clearly indicate that sa tu is not a part of the sūtra for them. 20. #ttasya sva# Vidyāsāgara; however, Bhāṣya, etc. clearly favor the compound reading. 21. tatra pu# Vivaraṇa edn. First two words om. KSS. 22. na tat KSS. ca sā# Vivaraṇa. 23. #śeṣād bho# KSS. 24. #rārthāt Vivaraṇa. #rārthānyasvā# KSS. svārthe saṃ# could have been the Vivaraṇa author'-s reading. 25. #jayāt prajva# KSS. 26. #javitvaṃ Vidyāsāgara, Jhajjar, KSS. Is #javatvaṃ in Vivaraṇa an attempt to eliminate a grammatically difficult matvarthīya ? 27. #pama# Vivaraṇa. 28. iti om. Jhajjar, KSS. iti[ḥ] sūtra-samāptau Vā. 29. #ditvam āśi# KSS. 30. viviktaḥ Vivaraṇa, KSS. 31. #pekṣitvāt Vidyāsāgara, Jhajjar, KSS. Is #pekṣatvāt in Vivaraṇa an attempt to eliminate a grammatically difficult matvarthīya? 32. #nābhiś ci# Vidyāsāgara, Jhajjar, KSS. Bhāṣya too could have read so. 33. #nā-ni# Vivaraṇa, KSS. 34. #krama-sa# Vidyāsāgara, Jhajjar, KSS. Reading of Vā. cannot be determined. 35. #śakter KSS. 36. sautra iti-śabdaḥ śāstra-parisamāptau Vā.",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "65a59b06492c785002695760285c7c86bc329519f8c3b2e0b7b02f5d9456be33"
+  }
+]

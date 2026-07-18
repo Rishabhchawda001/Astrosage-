@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "d2343d12bfeb651977910761",
+    "level": "verse",
+    "scripture_id": "Bhairavastava",
+    "canonical_ref": "Bhairavastava_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Bhairavastava_ch0_aku?",
+    "text": "samāptam stavam idam abhinavākhyam padyanavakam ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Bhairavastava",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "0b234e1e38a76b33a12da47eb3e558579467496f10ce77ed756db0100c266275"
+  }
+]

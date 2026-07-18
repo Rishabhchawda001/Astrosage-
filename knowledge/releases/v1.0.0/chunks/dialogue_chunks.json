@@ -1,0 +1,6632 @@
+[
+  {
+    "chunk_id": "c44039fb799787b7d201150a",
+    "level": "dialogue",
+    "scripture_id": "Bhagavad Gita",
+    "canonical_ref": "1.1-18.78",
+    "chapter": null,
+    "verse_range": "1.1-18.78",
+    "text": "Dialogue: Krishna speaks to Arjuna. Topic: dharma_and_duty. Context: Kurukshetra battlefield. Verses: 1.1-18.78. Scripture: Bhagavad Gita.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "Arjuna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "Arjuna",
+        "topic": "dharma_and_duty"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "Arjuna",
+      "topic": "dharma_and_duty",
+      "context": "Kurukshetra battlefield"
+    },
+    "hash": "769ad213ea1d4484563f6a7c54dbb3a79d769b730ad0b59dc81353d16149bca4"
+  },
+  {
+    "chunk_id": "27d31a5a6fb388b2deb98cac",
+    "level": "dialogue",
+    "scripture_id": "Kena Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Teacher speaks to Student. Topic: brahman_inquiry. Context: teaching. Verses: . Scripture: Kena Upanishad.",
+    "entity_links": [
+      {
+        "name": "Teacher"
+      },
+      {
+        "name": "Student"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Teacher",
+        "listener": "Student",
+        "topic": "brahman_inquiry"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Teacher",
+      "listener": "Student",
+      "topic": "brahman_inquiry",
+      "context": "teaching"
+    },
+    "hash": "e2e1dd569ee5d8151208a1de12a4fe47d7d96e980af390acf64372700488474f"
+  },
+  {
+    "chunk_id": "f2cfd25e1cd169521f0c127a",
+    "level": "dialogue",
+    "scripture_id": "Katha Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yama speaks to Nachiketa. Topic: death_and_atman. Context: afterlife. Verses: . Scripture: Katha Upanishad.",
+    "entity_links": [
+      {
+        "name": "Yama"
+      },
+      {
+        "name": "Nachiketa"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yama",
+        "listener": "Nachiketa",
+        "topic": "death_and_atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yama",
+      "listener": "Nachiketa",
+      "topic": "death_and_atman",
+      "context": "afterlife"
+    },
+    "hash": "1927c0259e270c157931627df00fb5eb6b2e24b3fcc5b14f6800077ea1e03665"
+  },
+  {
+    "chunk_id": "ca5d4b624a4d6a7dfd93660b",
+    "level": "dialogue",
+    "scripture_id": "Isha Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Teacher speaks to Student. Topic: isvara_and_atman. Context: teaching. Verses: . Scripture: Isha Upanishad.",
+    "entity_links": [
+      {
+        "name": "Teacher"
+      },
+      {
+        "name": "Student"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Teacher",
+        "listener": "Student",
+        "topic": "isvara_and_atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Teacher",
+      "listener": "Student",
+      "topic": "isvara_and_atman",
+      "context": "teaching"
+    },
+    "hash": "3e9a2fb161f6bdcef74cfe4ab7691d08d9710a317957b663325f45c796f39cd3"
+  },
+  {
+    "chunk_id": "9d8fde14ddbd0b5bef863bf4",
+    "level": "dialogue",
+    "scripture_id": "Mundaka Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Angiras speaks to Saunaka. Topic: higher_and_lower_knowledge. Context: teaching. Verses: . Scripture: Mundaka Upanishad.",
+    "entity_links": [
+      {
+        "name": "Angiras"
+      },
+      {
+        "name": "Saunaka"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Angiras",
+        "listener": "Saunaka",
+        "topic": "higher_and_lower_knowledge"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Angiras",
+      "listener": "Saunaka",
+      "topic": "higher_and_lower_knowledge",
+      "context": "teaching"
+    },
+    "hash": "ecb99acc818925efee8b17d791a294f67a846414543e09c7326e7a5666fee3c5"
+  },
+  {
+    "chunk_id": "7b5a2d444d9c76f5de493710",
+    "level": "dialogue",
+    "scripture_id": "Mandukya Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Teacher speaks to Student. Topic: om_and_consciousness. Context: teaching. Verses: . Scripture: Mandukya Upanishad.",
+    "entity_links": [
+      {
+        "name": "Teacher"
+      },
+      {
+        "name": "Student"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Teacher",
+        "listener": "Student",
+        "topic": "om_and_consciousness"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Teacher",
+      "listener": "Student",
+      "topic": "om_and_consciousness",
+      "context": "teaching"
+    },
+    "hash": "6af078d39d699df9fcba2995d0597c50b4b95e0d86849e1f6dadec0b16272497"
+  },
+  {
+    "chunk_id": "d891e5d7019b4dae2d974706",
+    "level": "dialogue",
+    "scripture_id": "Brihadaranyaka Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yajnavalkya speaks to Janaka. Topic: nature_of_atman. Context: sacrifice hall. Verses: . Scripture: Brihadaranyaka Upanishad.",
+    "entity_links": [
+      {
+        "name": "Yajnavalkya"
+      },
+      {
+        "name": "Janaka"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yajnavalkya",
+        "listener": "Janaka",
+        "topic": "nature_of_atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yajnavalkya",
+      "listener": "Janaka",
+      "topic": "nature_of_atman",
+      "context": "sacrifice hall"
+    },
+    "hash": "2ebec08dd4a8a7e6ce1ee2e8459fd1f026ffb00cc05c0a7e89a2938c765eee51"
+  },
+  {
+    "chunk_id": "f2d243f61a56e1c8321e5534",
+    "level": "dialogue",
+    "scripture_id": "Brihadaranyaka Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yajnavalkya speaks to Maitreyi. Topic: love_and_atman. Context: home. Verses: . Scripture: Brihadaranyaka Upanishad.",
+    "entity_links": [
+      {
+        "name": "Yajnavalkya"
+      },
+      {
+        "name": "Maitreyi"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yajnavalkya",
+        "listener": "Maitreyi",
+        "topic": "love_and_atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yajnavalkya",
+      "listener": "Maitreyi",
+      "topic": "love_and_atman",
+      "context": "home"
+    },
+    "hash": "3f27b9ec51434af160e0ca2cd593ffb7d2c0f713bd5ae678ac04631b67fae0a0"
+  },
+  {
+    "chunk_id": "e1d80a5737545e8e000555d3",
+    "level": "dialogue",
+    "scripture_id": "Chandogya Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Uddalaka speaks to Shvetaketu. Topic: tat_tvam_asi. Context: teaching. Verses: . Scripture: Chandogya Upanishad.",
+    "entity_links": [
+      {
+        "name": "Uddalaka"
+      },
+      {
+        "name": "Shvetaketu"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Uddalaka",
+        "listener": "Shvetaketu",
+        "topic": "tat_tvam_asi"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Uddalaka",
+      "listener": "Shvetaketu",
+      "topic": "tat_tvam_asi",
+      "context": "teaching"
+    },
+    "hash": "cb78e18463a11f869da647f74272327b546b1fbf2f96de50de7b87c332d903f3"
+  },
+  {
+    "chunk_id": "1ffc7baa97f04930c61cae94",
+    "level": "dialogue",
+    "scripture_id": "Aitareya Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Teacher speaks to Student. Topic: creation_and_consciousness. Context: teaching. Verses: . Scripture: Aitareya Upanishad.",
+    "entity_links": [
+      {
+        "name": "Teacher"
+      },
+      {
+        "name": "Student"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Teacher",
+        "listener": "Student",
+        "topic": "creation_and_consciousness"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Teacher",
+      "listener": "Student",
+      "topic": "creation_and_consciousness",
+      "context": "teaching"
+    },
+    "hash": "13fbaa46fb37781db8cf2ccd2c9737a3d05c93b27c37450609a8dadeea701422"
+  },
+  {
+    "chunk_id": "c600afadce914cdc0dd71526",
+    "level": "dialogue",
+    "scripture_id": "Taittiriya Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Father speaks to Son. Topic: truth_and_dharma. Context: blessing. Verses: . Scripture: Taittiriya Upanishad.",
+    "entity_links": [
+      {
+        "name": "Father"
+      },
+      {
+        "name": "Son"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Father",
+        "listener": "Son",
+        "topic": "truth_and_dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Father",
+      "listener": "Son",
+      "topic": "truth_and_dharma",
+      "context": "blessing"
+    },
+    "hash": "39cc71ebc509741c03b9d66377236296c29e576c3dbab42436f8f7861e902e0e"
+  },
+  {
+    "chunk_id": "fe938c056e4b87122a1a9770",
+    "level": "dialogue",
+    "scripture_id": "Shvetashvatara Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Teacher speaks to Student. Topic: isvara_and_meditation. Context: teaching. Verses: . Scripture: Shvetashvatara Upanishad.",
+    "entity_links": [
+      {
+        "name": "Teacher"
+      },
+      {
+        "name": "Student"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Teacher",
+        "listener": "Student",
+        "topic": "isvara_and_meditation"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Teacher",
+      "listener": "Student",
+      "topic": "isvara_and_meditation",
+      "context": "teaching"
+    },
+    "hash": "525f0ad4167e99fbfc0bfa6d70638f19b0bec25c92e39910790879385bc50a24"
+  },
+  {
+    "chunk_id": "f900051bc71fa8ae0870cb64",
+    "level": "dialogue",
+    "scripture_id": "Prashna Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Six Students speaks to Pippalada. Topic: cosmic_questions. Context: questioning. Verses: . Scripture: Prashna Upanishad.",
+    "entity_links": [
+      {
+        "name": "Six Students"
+      },
+      {
+        "name": "Pippalada"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Six Students",
+        "listener": "Pippalada",
+        "topic": "cosmic_questions"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Six Students",
+      "listener": "Pippalada",
+      "topic": "cosmic_questions",
+      "context": "questioning"
+    },
+    "hash": "c02890a5d522f1a183da0052b2f633a2554c3008bfe802d78a35f6fbe652c83c"
+  },
+  {
+    "chunk_id": "4fc5974db7f97195a8c05177",
+    "level": "dialogue",
+    "scripture_id": "Yoga Sutras",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Patanjali speaks to Student. Topic: yoga_and_citta. Context: teaching. Verses: . Scripture: Yoga Sutras.",
+    "entity_links": [
+      {
+        "name": "Patanjali"
+      },
+      {
+        "name": "Student"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Patanjali",
+        "listener": "Student",
+        "topic": "yoga_and_citta"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Patanjali",
+      "listener": "Student",
+      "topic": "yoga_and_citta",
+      "context": "teaching"
+    },
+    "hash": "a89f8e4ef6a517c972ea46132f7250aad297713ab725ab9739f91c9d37471df4"
+  },
+  {
+    "chunk_id": "65875d420cdebe9b87834380",
+    "level": "dialogue",
+    "scripture_id": "Manusmriti",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Manu speaks to Bhrigu. Topic: dharma_laws. Context: teaching. Verses: . Scripture: Manusmriti.",
+    "entity_links": [
+      {
+        "name": "Manu"
+      },
+      {
+        "name": "Bhrigu"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Manu",
+        "listener": "Bhrigu",
+        "topic": "dharma_laws"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Manu",
+      "listener": "Bhrigu",
+      "topic": "dharma_laws",
+      "context": "teaching"
+    },
+    "hash": "664f3fcd87fdc9ab1eba225879ee5ed2cd46058a3febe681e506a71ff559cc44"
+  },
+  {
+    "chunk_id": "78544bb3f85bc038b578218f",
+    "level": "dialogue",
+    "scripture_id": "Agnipurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Agnipurāṇa.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "b93f1443706643c5913604e2413838f5e1868398bcb086aab2ce1e8b99135d6a"
+  },
+  {
+    "chunk_id": "d064953c6b4dfcc24f8229f5",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "158acbe1f1092fca43ab4755be5c69cf11535918aa73bd5cd91573efa9ddb167"
+  },
+  {
+    "chunk_id": "9a1cd9cf5e5efe1aacdeafac",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "8ea0029f099de6609f632ad898da3fb07b74029941b1f55604b70ac5fd1c8a3c"
+  },
+  {
+    "chunk_id": "32e408d61513f510cd14b5e8",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "938ee42b25b9a05752732d3b9abb33031b38bffea5a2279d8a58b3870ef44e56"
+  },
+  {
+    "chunk_id": "ac9a239b6696f45f48549e62",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "18e66495aa77aa7cee346844eadb260c2b5fe54f08d1964d726ec856529fa965"
+  },
+  {
+    "chunk_id": "49d02643f3f307ac7a74a780",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: jnana. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 0"
+    },
+    "hash": "88d3ceea86b779e4dd884b805d7c8d457e79f4a5741a664bffd25c9a393d4ce1"
+  },
+  {
+    "chunk_id": "40bd2236631a83d4f1dea44b",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: puruśa. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "puruśa"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "puruśa",
+      "context": "chapter 0"
+    },
+    "hash": "c729cafd28ffaaadc6a6451f0bff4b80d121550b307526bb4ce75aa47d4c6378"
+  },
+  {
+    "chunk_id": "f1b732a77fab98ede7b05a81",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: moksha. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "moksha"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "moksha",
+      "context": "chapter 0"
+    },
+    "hash": "7d10ae522c8fcfa4706c71098538237bd763fe29584f79d11cb2bcccb9f39607"
+  },
+  {
+    "chunk_id": "4c5b37c0166775e3dedbcd7e",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "79b2f7922705acff0848f2dc0e551e48b444fe968bc8fc5ce50cbe7bd218d471"
+  },
+  {
+    "chunk_id": "da4b936ae31a519e2bfa05c7",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: maya. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "maya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "maya",
+      "context": "chapter 0"
+    },
+    "hash": "1ba810f62c43e943cc32b32d767bbabccad18560f21ea2a99adc96aa9bcfa777"
+  },
+  {
+    "chunk_id": "71c6384f6abe1509629a513a",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: bhakti. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "bhakti"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "bhakti",
+      "context": "chapter 0"
+    },
+    "hash": "41756030a56dffd684eb19b2d69e0e7a6015e6d9458abbdd787281c65e907912"
+  },
+  {
+    "chunk_id": "006f6ad0a17218bfcf313716",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: prakriti. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "prakriti"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "prakriti",
+      "context": "chapter 0"
+    },
+    "hash": "39f25b07a40341ce0ee282cbf2d46075311a6be7d61d459209c42f02a9c0b73b"
+  },
+  {
+    "chunk_id": "45fc96346ee2fed9f658ee06",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: gunas. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "gunas"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "gunas",
+      "context": "chapter 0"
+    },
+    "hash": "c1b8509b5adae7dd7c3df555077285e346c5f5710ff5cc828894460f7bcf6a50"
+  },
+  {
+    "chunk_id": "fbb2566abd13dd54d320374b",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: soul. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "soul"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "soul",
+      "context": "chapter 0"
+    },
+    "hash": "0eaff888cf31df8d85c963ab59ee0b397e19667241c5571e18a076bcfb2b189f"
+  },
+  {
+    "chunk_id": "25fb6574a05fb04c5a28b4c7",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: shraddha. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "shraddha"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "shraddha",
+      "context": "chapter 0"
+    },
+    "hash": "e9e76d8d838a741390d3c56f6b646b4247211b43ca9252b12733f5719122b337"
+  },
+  {
+    "chunk_id": "6abf13bb77fac526bb6720b0",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: prana. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "prana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "prana",
+      "context": "chapter 0"
+    },
+    "hash": "a7412c4d6f059cd335b98233e5d159a0cc23403a63ee62390036019ccbfefeda"
+  },
+  {
+    "chunk_id": "187317e40264336e27209b5b",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "15db6284ac7141570234468ded7fd097122d3215b656d101923a3b7fb7995255"
+  },
+  {
+    "chunk_id": "8ef962beb710632a6b98401c",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "8d1de63ec5881fe32f710d9b4e815dac7e084a6c7cb3dfad9e395aa3f0d8bafa"
+  },
+  {
+    "chunk_id": "ed9fe741e2c293d952799817",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: jnana. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 0"
+    },
+    "hash": "57c08faa4f43dca92ceb70f19dec5f1aad0d61bbe33c5db1fc6033ab1c28b1df"
+  },
+  {
+    "chunk_id": "96e586bf31eabd0dbbbcc9d2",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "eaeda39a8c4cb4ee4b0479bf8631540046022fe8f9e07aa2bc2ce8124e26994e"
+  },
+  {
+    "chunk_id": "7615f1f51d7ccd1069c6ce89",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "9c4c2d588b5792c5d20760ee01c8054d088dcea17c4065834e667fde4858a917"
+  },
+  {
+    "chunk_id": "abda50e044599c854ca4dbd2",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: jnana. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 0"
+    },
+    "hash": "6ee1a693adea8baa4e5d4fd20a334822e5768111b5b8cf9e1e68de72bb9dd328"
+  },
+  {
+    "chunk_id": "a34b4acca4c4df30d3788c1d",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "a6dc37d3c5109706ae8a3c853c9c52a43b49540e8462cac9c4aabaf76b467dc5"
+  },
+  {
+    "chunk_id": "04c7d72a66c9b29b257041c5",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: brahman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "brahman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "brahman",
+      "context": "chapter 0"
+    },
+    "hash": "f1d31e6a9d074271121412f71b6738cb5ec7e1f4fb32bcef2b6789e8a2225e78"
+  },
+  {
+    "chunk_id": "b0d1804dce67457fdeb3bf2a",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "4d98af838cf75489e2d6b64e2514f805e760c5981b608a420ae41720b3d0c3e3"
+  },
+  {
+    "chunk_id": "91eb8cd3dd9a5a8c86d70e19",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: yajna. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "yajna"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "yajna",
+      "context": "chapter 0"
+    },
+    "hash": "66d51157ae75bd46f9141630b6fc882d743646267501e9292afd1deeb3ee37a3"
+  },
+  {
+    "chunk_id": "bf6ac294ac270d9f9657b94c",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "b895c5029a6d11f26fdbf4016b0deec37a9dd2fabebedb1e618e6743c8b91b85"
+  },
+  {
+    "chunk_id": "2ee7db2c77047a1c4d9ee315",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: maya. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "maya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "maya",
+      "context": "chapter 0"
+    },
+    "hash": "f84f31595d34b7a971a9b6fd4ede0334fcc9ff8872211a99d9a8093a45d7f505"
+  },
+  {
+    "chunk_id": "136f3ac30566e22f8bbfc128",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: vrata. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "vrata"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "vrata",
+      "context": "chapter 0"
+    },
+    "hash": "85714c1ffd46a5d76513aaf8f754064781c93e58a7d8cf045f910fcf5c07c57b"
+  },
+  {
+    "chunk_id": "b9b02bb1c219ed4121e8fde8",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vidura speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vidura"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vidura",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vidura",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "707cfab7a3c5d3a173d6a2ba4d1e0128783fb9c81afb43e58a041b97293a01f6"
+  },
+  {
+    "chunk_id": "f92cc02814647e0c56b8d50f",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "98d380609e5f4d80b69e3a18754836b83022c236a53593d6e48c7063d2395a9f"
+  },
+  {
+    "chunk_id": "ec4a81a2f5e5af63afe24548",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "ccdcddcd57266ecbd6b65cc19417c870ac0bb3d0109081d3fbf3b7ff8982d0d2"
+  },
+  {
+    "chunk_id": "19f542bf6f3c3b35240f04a3",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: maya. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "maya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "maya",
+      "context": "chapter 0"
+    },
+    "hash": "b49621b9898768f0d2732ebc4bb8242fde2e0d17a4bdbbf5b009deac060fc3e7"
+  },
+  {
+    "chunk_id": "faf52604db1fdc19cda4634c",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: brahman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "brahman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "brahman",
+      "context": "chapter 0"
+    },
+    "hash": "4a722049a17cd017f1ebbe4146df11db1b6610d47e93b67e828dca321f0f1961"
+  },
+  {
+    "chunk_id": "c8e50167e67290488b28e4f9",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "567d58a68a3fb3de3b03ee96429c436b231c99dbab65ac9e1efdb261aa6d86b0"
+  },
+  {
+    "chunk_id": "821661cbcaeeba44baf8bbb3",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "fcf50b90a9364a5112fd1da5161bd50d81fa48b78237258abd61186bb020ae17"
+  },
+  {
+    "chunk_id": "c19669f06c03db9576301923",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "d5715bfcdd695a554641957c7f6327176e46aea9fa656dd99c133c493f36dd43"
+  },
+  {
+    "chunk_id": "91fabcbb99389ff52335a8d3",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: sin. Context: chapter 15. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "sin"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "sin",
+      "context": "chapter 15"
+    },
+    "hash": "269f78be981ae247dfb762e261647127ac6cdf6fd6fa7b56e83caceb0c46bc60"
+  },
+  {
+    "chunk_id": "b5f559db9d303345f11b067b",
+    "level": "dialogue",
+    "scripture_id": "Garuḍapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: general. Context: chapter 7. Verses: . Scripture: Garuḍapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 7"
+    },
+    "hash": "236b5618f6f323fc28082cf2bc5ecaeb926889b07b24d9eaaa365fbe331f2d9b"
+  },
+  {
+    "chunk_id": "1536f160cfaad3ea87878f64",
+    "level": "dialogue",
+    "scripture_id": "Mahābhāratatātparyanirṇaya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 8. Verses: . Scripture: Mahābhāratatātparyanirṇaya.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 8"
+    },
+    "hash": "f66914052adeb49e451e42821f12f31548bc50189333866d5d3eb9c9b90b6b2f"
+  },
+  {
+    "chunk_id": "3ee21d35d84e44e4d851c623",
+    "level": "dialogue",
+    "scripture_id": "Mārkaṇḍeyapurāṇa, 1-93",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Mārkaṇḍeyapurāṇa, 1-93.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "ff4f4da6db48e5cfc76f5cb8ead7d6a92e3cf381d3b717cae0e38b97ad1ee568"
+  },
+  {
+    "chunk_id": "3f5090c7623bd7861f487aae",
+    "level": "dialogue",
+    "scripture_id": "Mārkaṇḍeyapurāṇa, 1-93",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Mārkaṇḍeyapurāṇa, 1-93.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "3fbe05a125e290c02875de4c436658fd07e1456d7869b6260c142f41725b5d34"
+  },
+  {
+    "chunk_id": "27ff890d65d6e0b47372fd87",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītābhāṣya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: jnana. Context: chapter 0. Verses: . Scripture: Bhagavadgītābhāṣya.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 0"
+    },
+    "hash": "a36345c8f7881fd7e73d44ff5cc78ea07d69413d5477a06c8971d0309d01e813"
+  },
+  {
+    "chunk_id": "3eddaa7efd52dda576a9ccd2",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītābhāṣya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadgītābhāṣya.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "59456e5b2cea6c0494a02dbb10645bf5e2fdcffad04bfe0081589155cc84e5ee"
+  },
+  {
+    "chunk_id": "5fae967359f3f95ceb09c16d",
+    "level": "dialogue",
+    "scripture_id": "Ṛgvedasaṃhitā, Padapāṭha",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Ṛgvedasaṃhitā, Padapāṭha.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Arjuna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Arjuna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "7696e27e558919c1a7c4ed56e5595a5eba00cb1796c1aa126889725991da6af4"
+  },
+  {
+    "chunk_id": "b6dd34b3faf1bdfc5958f358",
+    "level": "dialogue",
+    "scripture_id": "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary).",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "390780c751cbcc1f58b69893c185d084ce79b9f08ff49dd0f74d03d2c5d7d676"
+  },
+  {
+    "chunk_id": "192ad2d546a182d1e4ba02c3",
+    "level": "dialogue",
+    "scripture_id": "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "f749ce08c43fe47eea9facb1c77c8f4985d78288dbaf78667288f9c676dd770b"
+  },
+  {
+    "chunk_id": "5c5815946e15c7f05c68a5b4",
+    "level": "dialogue",
+    "scripture_id": "Agnipurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vasistha speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Agnipurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vasistha"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vasistha",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vasistha",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "4b4feebef627646acf957f95126439973b09b26eca5a18d102b2f2cd108efb3b"
+  },
+  {
+    "chunk_id": "2474a17ad611319e71e7ea75",
+    "level": "dialogue",
+    "scripture_id": "Agnipurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Agnipurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "7e54ed5f0c3f8bfe9187ed457ebdcf843ab21d7a582432f4ee973954f84a6231"
+  },
+  {
+    "chunk_id": "2c6bc6415162194868f8d638",
+    "level": "dialogue",
+    "scripture_id": "Agnipurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Rama speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Agnipurāṇa.",
+    "entity_links": [
+      {
+        "name": "Rama"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Rama",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Rama",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "ee4291ea14c7cfa585b53c068455ac65342a4c8f37a8cd498225dd2e21335a85"
+  },
+  {
+    "chunk_id": "46b5b9886ae674b463e4bbf7",
+    "level": "dialogue",
+    "scripture_id": "Agnipurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Agnipurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "30d58b663b3f84989bd088a07376865fa3465a254689feecc0f2fe9c080512bf"
+  },
+  {
+    "chunk_id": "eb02db3fc2c29a95f8863581",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Dhritarashtra speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Dhritarashtra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Dhritarashtra",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Dhritarashtra",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "e99ac3c525c9941509caf962ad5989d1a62b32f35e8ebba3fe7764b5bd287a7a"
+  },
+  {
+    "chunk_id": "d7ad15fa1f31062a1c83053f",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Sanjaya speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Sanjaya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Sanjaya",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Sanjaya",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "e1179cb7bb9ab9c6f9289798b03488b0ad1db05e2518b8944cf74072a0cec085"
+  },
+  {
+    "chunk_id": "587bda35c500280c743c2f1f",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to Sanjaya. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "Sanjaya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "Sanjaya",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "Sanjaya",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "068ebd08b75123b0e5b5dfbbb81116af2d020b41f836377d2fed53462ef6a59e"
+  },
+  {
+    "chunk_id": "c118d2b60f98b908f040d455",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Sanjaya speaks to unknown. Topic: dana. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Sanjaya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Sanjaya",
+        "listener": "unknown",
+        "topic": "dana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Sanjaya",
+      "listener": "unknown",
+      "topic": "dana",
+      "context": "chapter 0"
+    },
+    "hash": "a8578bef3bd7fbc8d2cbcf5a404cb2c24d0c400d3e0dc4796ffdf1506ab2de8c"
+  },
+  {
+    "chunk_id": "c54a617862ed1d1f3a107156",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Sanjaya speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Sanjaya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Sanjaya",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Sanjaya",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "9fb48a9233236956a9817ec586922baa3b1ed09364c710aef6c19082916957ce"
+  },
+  {
+    "chunk_id": "c2e433fc90756f4a983e1df6",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "6ae4df7f501ccd081c2dc5307a9390e4baffea74f4993f8aa9efbf590932ec16"
+  },
+  {
+    "chunk_id": "430b7c30c924d3d9039745d3",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "0ef6021c83dd8f81030778fe82d999f7c29e303d446c4ae38c37a399c75b3504"
+  },
+  {
+    "chunk_id": "30effdee7ddd3aba89c40674",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "69f76104af173b16f2d41c5d451c342d42d2a995a3433ea8b1e3d2e81d3de425"
+  },
+  {
+    "chunk_id": "8bae74b21473c7aa31a6b709",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: moksha. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "moksha"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "moksha",
+      "context": "chapter 0"
+    },
+    "hash": "a1b9b1d5deb76e2d24116d50f46c6a9d0c04fee71b9f3aa968caea2865bf1351"
+  },
+  {
+    "chunk_id": "cce7c541afd1b319a4d8f0ce",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vasistha speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Vasistha"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vasistha",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vasistha",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "bf0e59dee8db77c443be6226e5b4221dc22c836a539a5e61c9968e228fbd1ba2"
+  },
+  {
+    "chunk_id": "aca729c707cf5f57eb3c5c4a",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "ee70f9870c4eea06049bce620aa94c1f5b5388efc68585b957cfd3b42bba6236"
+  },
+  {
+    "chunk_id": "764030060afbf3c0a3832f12",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: jnana. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 0"
+    },
+    "hash": "2ce3da68bb23306a2fe310e8988e7d301d09fc906dda7e72dfac6c5cd0ea159f"
+  },
+  {
+    "chunk_id": "4f62bd7e9d36d29f6b589e9d",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: bhakti. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "bhakti"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "bhakti",
+      "context": "chapter 0"
+    },
+    "hash": "b061eb22aec5f71c0edf38ab59c0c51ce21a9b75cecbc1c9f4066d44fb240401"
+  },
+  {
+    "chunk_id": "cdab2fc55cecf4a88c91eb77",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "6018c9a02b41dbd29213a0cec16c742870196ccd7a22f132977005bea4ff41d8"
+  },
+  {
+    "chunk_id": "80481431c80341146eb0f7b9",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "5fbaafa2634d0d1205be1975e832bcb4a58fda4ae2fa6808fae8e7d3de8da04d"
+  },
+  {
+    "chunk_id": "e6e9695ca21bda870a7d3b3b",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "ed158a0a5453441002c694fd6b0bba13071e5a1392e9951fcaf02da15e935d30"
+  },
+  {
+    "chunk_id": "4f4cb5ac3a77cba1af12b82c",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: moksha. Context: chapter 0. Verses: . Scripture: Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "moksha"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "moksha",
+      "context": "chapter 0"
+    },
+    "hash": "3d75649684f7848cc36a8e39dc3fc32b0718a42a4d0c4ce9af31f7867da2d5ba"
+  },
+  {
+    "chunk_id": "b8169d829927132e8c41c6d2",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "d17371261effb8fa929bf72b5dc8e45923624bfff42fe4a813186dc3fa788ad2"
+  },
+  {
+    "chunk_id": "c13b7ef39163721f971676b7",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "91d5225d45c13867925c68bf299ac38c29b05e9f1578540d64dbfbb8c9d10544"
+  },
+  {
+    "chunk_id": "8a65222506777a30c01d6e81",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "b0704e94127fd3526974c7ed8208e3f60b9b5475c03af85d49a3d08e42d99e51"
+  },
+  {
+    "chunk_id": "7b431ef9d5c1ee286878d3d3",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Bhishma speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Bhishma"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Bhishma",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Bhishma",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "cbb42e5682d1709b8a9edee41dd16910d5be5036ac66254ede82a3a97b2ed73b"
+  },
+  {
+    "chunk_id": "498dcc7f25cf33f902f9eee1",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yudhishthira speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Yudhishthira"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yudhishthira",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yudhishthira",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "d5de2b4ef71467773fa32164c659a2e32e1bd9fa16dc43c609f94926ea21e932"
+  },
+  {
+    "chunk_id": "ec137abf79d8bc20c6028c32",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Sanjaya speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Sanjaya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Sanjaya",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Sanjaya",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "afd3ce29811c6a47b1edd26f87e38e0cf8ca65caaae6a009d8040f4cea19152c"
+  },
+  {
+    "chunk_id": "87e656fd33608438c4aa67d4",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yudhishthira speaks to unknown. Topic: tapas. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Yudhishthira"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yudhishthira",
+        "listener": "unknown",
+        "topic": "tapas"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yudhishthira",
+      "listener": "unknown",
+      "topic": "tapas",
+      "context": "chapter 0"
+    },
+    "hash": "ca832d9b9418f462a96a08d00bb6bee23a647974053101b4e9a0ae82b7eeb7db"
+  },
+  {
+    "chunk_id": "4b37de11759cfb2f1fc63666",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yudhishthira speaks to unknown. Topic: dana. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Yudhishthira"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yudhishthira",
+        "listener": "unknown",
+        "topic": "dana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yudhishthira",
+      "listener": "unknown",
+      "topic": "dana",
+      "context": "chapter 0"
+    },
+    "hash": "73fb2fec4e33be7fd1efc9f8371cf654029110905af7c64bbf38489fb17fdafd"
+  },
+  {
+    "chunk_id": "1abd4d6fc0fff1cb057d2eb7",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "59254b93edca156258a64bdcce5fbf7668c67df955e21a18de01406210e36904"
+  },
+  {
+    "chunk_id": "8952752471b66d797ba96e3b",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: jnana. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 0"
+    },
+    "hash": "c56447fb0cfb957cb7bc97a7328bad0fa34ad5604ea0b10996c5e800d3a602ee"
+  },
+  {
+    "chunk_id": "444f27cf930a3a423ca589a9",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "ca61c04136453b4a46e9115ff65c9447660cfcd289019c9ec1190674e7b9e2ca"
+  },
+  {
+    "chunk_id": "45ef3ace447a182e87f3cc56",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: tapas. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "tapas"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "tapas",
+      "context": "chapter 0"
+    },
+    "hash": "f02524c398276d4587e32e0fe5ad5c52d3b414efee2b33b7a79246eb28ddc694"
+  },
+  {
+    "chunk_id": "55e172ec3fcec5d5ef47a36d",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: jnana. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 0"
+    },
+    "hash": "b69b305abfc7e6cc5e5c8ab6ab70759d8a9b56d73e7715c2e560d459f9f3952e"
+  },
+  {
+    "chunk_id": "7dff7a8269ffc441afb3c33d",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: cosmology. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "cosmology"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "cosmology",
+      "context": "chapter 0"
+    },
+    "hash": "7a2b388f465cd6d1b60f6e6f85db1958c561d52ba9b21d2f58afc6f6bcb7f5bf"
+  },
+  {
+    "chunk_id": "3e104e42e5f18922e10f2624",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "6c05eba4aca1d5229b911e4295d224608a4a9d91f48afde54cd0aa056823ed17"
+  },
+  {
+    "chunk_id": "a987af02a5cdb6c54f9ae2e2",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: satya. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "satya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "satya",
+      "context": "chapter 0"
+    },
+    "hash": "919ad8e5a53d6c4841372175f282c092e1789eed19200fefc6fab22a3aae8620"
+  },
+  {
+    "chunk_id": "e34c16fb5e0987d1b4fde4ee",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "80bdcb0a3d9d4187809382777d17bfdcd0ea14b565bc5a62fbacf5775cdde06a"
+  },
+  {
+    "chunk_id": "b082e7e55d6ac40b1d33eaa5",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "048d79b28b639fec30d88f467e8f795fe3c9dd9521eb340ee82955cbb329470b"
+  },
+  {
+    "chunk_id": "d7f499d3d0b7b1e5a26ee1c0",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: bhakti. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "bhakti"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "bhakti",
+      "context": "chapter 0"
+    },
+    "hash": "c002a85ef8ef3eb2aaf68a3b292b34e2ff2a1d27f28586c84568160a20126c7c"
+  },
+  {
+    "chunk_id": "843d35de42310a1ab3ae4b7e",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "9caa6989dfc8a4f802725b40ac8e23393978385dbb13e43e57a88a514953c83d"
+  },
+  {
+    "chunk_id": "6387e1468abf779fec157271",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "3967435474a03f61e5bf04d4ed10ce5f6380efd78a880ca326625eb4e2219f92"
+  },
+  {
+    "chunk_id": "d0deff4f58bb4f3e7928a9b2",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: bhakti. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "bhakti"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "bhakti",
+      "context": "chapter 0"
+    },
+    "hash": "0f94c902627222fc9c47e3756462a4b423d87f1ec6c38ff0729341f3aa603a31"
+  },
+  {
+    "chunk_id": "7d3fc31b9308e7711d5275be",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yudhishthira speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Yudhishthira"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yudhishthira",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yudhishthira",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "eb693b90da86b6dceb51cd71fbbca5469737652b47143b8a6a0393469bf1fe67"
+  },
+  {
+    "chunk_id": "8fc26459b35475d73003b421",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: tapas. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "tapas"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "tapas",
+      "context": "chapter 0"
+    },
+    "hash": "86fc792af1026fde429f7684aeef84f4a1c39c1e08f26b809a5f9f8fda74c6de"
+  },
+  {
+    "chunk_id": "4cd5826c0f35f58a77638a97",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "91af21739f600b2d8dba62703651bdde08402fc9f7759e157415069d1e8be5ca"
+  },
+  {
+    "chunk_id": "13a4ebefd76db4d189cebf89",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "4fdd0db55a0203f77646862956723862cab167b8a8f0847da1bb355815558de3"
+  },
+  {
+    "chunk_id": "899030781909610ebb38b810",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yudhishthira speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Yudhishthira"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yudhishthira",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yudhishthira",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "21b11b1a1a5d33b7511ba138b22af0207fa61793efc982c781a14e4d987d1d02"
+  },
+  {
+    "chunk_id": "68b1b00be8b37499938d5861",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: cosmology. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "cosmology"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "cosmology",
+      "context": "chapter 0"
+    },
+    "hash": "4c54f3a8be3e268d57857c0666bedf55f0d5f07779c01d0102d1fdba044eb68f"
+  },
+  {
+    "chunk_id": "8ca7acc64302d5d0f92a2411",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "f6c9e382bde00b8ede5712a6680d9833bd31245b33fb8ffddfd73aaf3f9a10a3"
+  },
+  {
+    "chunk_id": "cee664623e8469a284f1c4ed",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: moksha. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "moksha"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "moksha",
+      "context": "chapter 0"
+    },
+    "hash": "8fdfbf324405212e139b482c5a93c43434fcf759be62e99b2afa834349be50bf"
+  },
+  {
+    "chunk_id": "1ca78883d7170789d9022a38",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: brahman. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "brahman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "brahman",
+      "context": "chapter 0"
+    },
+    "hash": "e6899939b8fd5120a18d2457a8e91bc162ccb1e4cc690b02e98bbb5b6ebf7058"
+  },
+  {
+    "chunk_id": "69a45a31d952800cf77648ea",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shiva speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shiva"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shiva",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shiva",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "5e4ca92a1b84d1bb012e1d63d26b6b0b23e526441f058a8901351af1d461fad3"
+  },
+  {
+    "chunk_id": "ba2d21d56c7524436ea25c53",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: dana. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "dana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "dana",
+      "context": "chapter 0"
+    },
+    "hash": "49857173e7e9c1ee1f21c4f9ffca7ce8b071bf1ed7606e3b53f73a369d968e97"
+  },
+  {
+    "chunk_id": "1a4a716f1adc3f49f66757f0",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: homa. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "homa"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "homa",
+      "context": "chapter 0"
+    },
+    "hash": "3e96570456be313421d4776d6356466c4df2a6cc0315b035effdc42731a3090c"
+  },
+  {
+    "chunk_id": "ddcffb2d0d0a2b1fe449ddc7",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: maya. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "maya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "maya",
+      "context": "chapter 0"
+    },
+    "hash": "f127f7070cd02344abe93c41c9d648ea814ae1c4f89fe8c25b9c0e696f068f45"
+  },
+  {
+    "chunk_id": "c446b0b3c9ec912eefbcdeea",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "b7b0a3240b12e5467aa815f9b02a1b12d6babc6a1ae604820f3aaec5e9f4008a"
+  },
+  {
+    "chunk_id": "dc8f0f456b4362c4ad1fea32",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "6cabfcc310dd3f5606adab6c7205bcd30b4deae4fcb726ef24eec58c0b8ce591"
+  },
+  {
+    "chunk_id": "d23512a447d195b5bf2b703a",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: satya. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "satya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "satya",
+      "context": "chapter 0"
+    },
+    "hash": "b2dea531b0f720c73ac6881a9a914b17f16e9a0f7b04a2e965b242534a989a8e"
+  },
+  {
+    "chunk_id": "7b30633a7678b7ce6055cc57",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: yajna. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "yajna"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "yajna",
+      "context": "chapter 0"
+    },
+    "hash": "30c1715279cbe592f1be0360a9af834996e23377b82640942f026b903ad747e6"
+  },
+  {
+    "chunk_id": "786d5865d2531f0e4b49ee62",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: tapas. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "tapas"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "tapas",
+      "context": "chapter 0"
+    },
+    "hash": "23030f5c6c68ef9c47a92f8354fcfa902b39e53c749aeaba483311a04a70dde7"
+  },
+  {
+    "chunk_id": "b464feec8eaa5abd5be8166d",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Dhritarashtra speaks to unknown. Topic: dana. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Dhritarashtra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Dhritarashtra",
+        "listener": "unknown",
+        "topic": "dana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Dhritarashtra",
+      "listener": "unknown",
+      "topic": "dana",
+      "context": "chapter 0"
+    },
+    "hash": "a38e96b5e9732e55090cee24ca18b34c691a6928daee5d4331ae91f8c9b2bd4b"
+  },
+  {
+    "chunk_id": "0ae5693cb88f64ce457d385c",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: maya. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "maya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "maya",
+      "context": "chapter 0"
+    },
+    "hash": "809582aa720a5ad48138f616b42d7ae2c7ae9e7fc75bc7be81e936e2951c5717"
+  },
+  {
+    "chunk_id": "ffe33df50188c4872e980f10",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: maya. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "maya"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "maya",
+      "context": "chapter 0"
+    },
+    "hash": "1eb137be8c854c104bf33d47093153222d6cd2176ae24b94e67c730059c38752"
+  },
+  {
+    "chunk_id": "f0cb46514b04f0222935d0e6",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: cosmology. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "cosmology"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "cosmology",
+      "context": "chapter 0"
+    },
+    "hash": "0e6de8061f3832ba472eae96e46dbaa2e4efd454449f1df3463d85e2aaf25765"
+  },
+  {
+    "chunk_id": "6121e05165d3679e8447de8e",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yajnavalkya speaks to unknown. Topic: dana. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Yajnavalkya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yajnavalkya",
+        "listener": "unknown",
+        "topic": "dana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yajnavalkya",
+      "listener": "unknown",
+      "topic": "dana",
+      "context": "chapter 0"
+    },
+    "hash": "7ff9384dad28b4ea2cbfa42a4f9296eba4636fb908887464bacfd139d9c7e467"
+  },
+  {
+    "chunk_id": "cd1e361cfef9b40aac7b03e6",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: moksha. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "moksha"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "moksha",
+      "context": "chapter 0"
+    },
+    "hash": "def344faa5a7b83dfe52046a0947071200109a8de0460c61e56b4832405b4ac2"
+  },
+  {
+    "chunk_id": "0bbcd7c8d7846cbb09b22659",
+    "level": "dialogue",
+    "scripture_id": "Bhāgavatapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shuka speaks to unknown. Topic: brahman. Context: chapter 5. Verses: . Scripture: Bhāgavatapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Shuka"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shuka",
+        "listener": "unknown",
+        "topic": "brahman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shuka",
+      "listener": "unknown",
+      "topic": "brahman",
+      "context": "chapter 5"
+    },
+    "hash": "5d0366ca7630d7548ea986993c53250fc4a73a3ed807fc131a88bea40f8c811c"
+  },
+  {
+    "chunk_id": "b700260f8ff372fe626fd5b6",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Sanjaya speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+    "entity_links": [
+      {
+        "name": "Sanjaya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Sanjaya",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Sanjaya",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "b5b511a41d030cd91973350d145ece747285183f50399e086ef5ddf0e9efcc23"
+  },
+  {
+    "chunk_id": "904013b735d1471b73e21623",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "b98354d10c7a9eed7495b04627fb0bdbea0692bcb0a0beebe0c8e4926828cb4c"
+  },
+  {
+    "chunk_id": "097a6145e19f1b27b0358e57",
+    "level": "dialogue",
+    "scripture_id": "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "dfa7655be01548c50025c269f0247c583a1e80cead1abf80e665ac705e36342e"
+  },
+  {
+    "chunk_id": "067eb771a56fcb2d58343c49",
+    "level": "dialogue",
+    "scripture_id": "Garuḍapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to Indra. Topic: general. Context: chapter 7. Verses: . Scripture: Garuḍapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "Indra"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "Indra",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "Indra",
+      "topic": "general",
+      "context": "chapter 7"
+    },
+    "hash": "361936139a28eb26b42f2ba2b0546fae8cda79c7e83590a7a90467cca634f9ca"
+  },
+  {
+    "chunk_id": "14d84ab66a8783c70f462d0a",
+    "level": "dialogue",
+    "scripture_id": "Kūrmapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Kūrmapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "895cf38b1969bff46677168cbca40d19297413e5dc3e9f0a0934984738a441ce"
+  },
+  {
+    "chunk_id": "d31538727a84dd4f68404a74",
+    "level": "dialogue",
+    "scripture_id": "Mahābhāratatātparyanirṇaya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Bhishma speaks to unknown. Topic: general. Context: chapter 11. Verses: . Scripture: Mahābhāratatātparyanirṇaya.",
+    "entity_links": [
+      {
+        "name": "Bhishma"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Bhishma",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Bhishma",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 11"
+    },
+    "hash": "acafba3573f7582358cb37bc942617297cf1d863feb3d45574b6023ae62fe452"
+  },
+  {
+    "chunk_id": "808f71a2cc49ebfef39053cd",
+    "level": "dialogue",
+    "scripture_id": "Mahābhāratatātparyanirṇaya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Bhima speaks to unknown. Topic: dharma. Context: chapter 19. Verses: . Scripture: Mahābhāratatātparyanirṇaya.",
+    "entity_links": [
+      {
+        "name": "Bhima"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Bhima",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Bhima",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 19"
+    },
+    "hash": "de446150a72c04ecff1fd3e4e7ec8072a60737048463bdc8b2b478f1669f519f"
+  },
+  {
+    "chunk_id": "6a1947ddfd8fe38139d45ff7",
+    "level": "dialogue",
+    "scripture_id": "Mahābhāratatātparyanirṇaya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Drona speaks to unknown. Topic: general. Context: chapter 18. Verses: . Scripture: Mahābhāratatātparyanirṇaya.",
+    "entity_links": [
+      {
+        "name": "Drona"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Drona",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Drona",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 18"
+    },
+    "hash": "8bc289294156f1c52c7867aa715e76bb588c5931bca104ac5df4cfaffa0bd10c"
+  },
+  {
+    "chunk_id": "65cd667b5cbc476d2ffc6a9a",
+    "level": "dialogue",
+    "scripture_id": "Mahābhāratatātparyanirṇaya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Bhima speaks to unknown. Topic: general. Context: chapter 21. Verses: . Scripture: Mahābhāratatātparyanirṇaya.",
+    "entity_links": [
+      {
+        "name": "Bhima"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Bhima",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Bhima",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 21"
+    },
+    "hash": "950c94cdd103c4885f4f6bcfc402b1d4b1815c809f2f24f53d45aa27239b56db"
+  },
+  {
+    "chunk_id": "56651fc7259bca5795f7daa8",
+    "level": "dialogue",
+    "scripture_id": "Nāradapurāṇa (or Nāradīyapurāṇa)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Nāradapurāṇa (or Nāradīyapurāṇa).",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "3d81038426fe4c0e7033f29190895338d4dbb8eb6313c22f5886652ef20a9d36"
+  },
+  {
+    "chunk_id": "8c318bebd68e58db6522ff44",
+    "level": "dialogue",
+    "scripture_id": "Pañcaviṃśabrāhmaṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Indra speaks to unknown. Topic: general. Context: chapter 8. Verses: . Scripture: Pañcaviṃśabrāhmaṇa.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Indra",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Indra",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 8"
+    },
+    "hash": "523e5cdf455601f8eaa4b1f42f1bc4f5286eba2315d5ef983343eb2ba9f9f473"
+  },
+  {
+    "chunk_id": "9c8085179b40de0bb6f1a83d",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītābhāṣya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītābhāṣya.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "7d2c8246661966b113ef53d8cc7ce3ddea3010eceeb2fd0266b9a97530d62923"
+  },
+  {
+    "chunk_id": "8e682773ccbaaf217739398c",
+    "level": "dialogue",
+    "scripture_id": "Bhagavadgītābhāṣya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhagavadgītābhāṣya.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "b09b698d081d3d877ca3ceec7d724b66c988a70210f9088199fa13e2a8c49180"
+  },
+  {
+    "chunk_id": "8fa8a1076f8ec803773578fd",
+    "level": "dialogue",
+    "scripture_id": "Revākhāṇḍa of the Vāyupurāṇa (RKV)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Revākhāṇḍa of the Vāyupurāṇa (RKV).",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "588d314a16fc8ffd03e046974e2508588e35346bf99123a5cdb07b365a0a8f0e"
+  },
+  {
+    "chunk_id": "7e5440f5060d87fca1063613",
+    "level": "dialogue",
+    "scripture_id": "Revākhāṇḍa of the Vāyupurāṇa (RKV)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yudhishthira speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Revākhāṇḍa of the Vāyupurāṇa (RKV).",
+    "entity_links": [
+      {
+        "name": "Yudhishthira"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yudhishthira",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yudhishthira",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "d04dbf7d618d062b0a4bb08e4974444737d8d914a2168123675de3b97c147148"
+  },
+  {
+    "chunk_id": "20b6d8c06070b608f4491973",
+    "level": "dialogue",
+    "scripture_id": "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yajnavalkya speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary).",
+    "entity_links": [
+      {
+        "name": "Yajnavalkya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yajnavalkya",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yajnavalkya",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "88340bcd9d946641b1750f248efc6e5b8edc8edc9cffa6fd98ae8c467297d776"
+  },
+  {
+    "chunk_id": "6152ac71e2d0019e53d3b22e",
+    "level": "dialogue",
+    "scripture_id": "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yajnavalkya speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya.",
+    "entity_links": [
+      {
+        "name": "Yajnavalkya"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yajnavalkya",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yajnavalkya",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "c25f1796e8e6f30b961202969f1826fac156f619780cd14b666c378b3a5e0ec2"
+  },
+  {
+    "chunk_id": "29949c99668d8d8abf52e91d",
+    "level": "dialogue",
+    "scripture_id": "Brahmāṇḍapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vasistha speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Brahmāṇḍapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vasistha"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vasistha",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vasistha",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "03604d973b75a1fb7f14f5aebd3f1bcc115331a621e5738b4375d39302880b52"
+  },
+  {
+    "chunk_id": "7af3023fcd4369fc73bc76e0",
+    "level": "dialogue",
+    "scripture_id": "Brahmāṇḍapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Vasistha speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Brahmāṇḍapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Vasistha"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Vasistha",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Vasistha",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "38784fa6983888ec7f4ff74215b338c01afb370185e61afd8e9276271aef3d5b"
+  },
+  {
+    "chunk_id": "368ba0204512d592af2819d8",
+    "level": "dialogue",
+    "scripture_id": "Brahmāṇḍapurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Rama speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Brahmāṇḍapurāṇa.",
+    "entity_links": [
+      {
+        "name": "Rama"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Rama",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Rama",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "dc73308970adfe990435b8ffe087ffbf8c9520ba66a3de914b424a053c3f0e31"
+  },
+  {
+    "chunk_id": "4511fa2411438fc6fed89bdb",
+    "level": "dialogue",
+    "scripture_id": "Sarvadurgatipariśodhanatantra",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Sarvadurgatipariśodhanatantra.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "f0fae88bd16ab54a8692d3c85c1805c533b2da30489ba4e8f2e01c70632cdf85"
+  },
+  {
+    "chunk_id": "95ed3a73babb75c471a4370a",
+    "level": "dialogue",
+    "scripture_id": "Sarvadurgatipariśodhanatantra",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: moksha. Context: chapter 0. Verses: . Scripture: Sarvadurgatipariśodhanatantra.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "moksha"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "moksha",
+      "context": "chapter 0"
+    },
+    "hash": "f2c2e4e6b45a0ad5cb8de4ed30a7ca72fd17b2f9fb4b794b9e59497f4c4db085"
+  },
+  {
+    "chunk_id": "a95c4a1733287b3c6495f313",
+    "level": "dialogue",
+    "scripture_id": "Sarvadurgatipariśodhanatantra",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Sarvadurgatipariśodhanatantra.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "52cc0ffb3422734daa3d03dc7b11307723e7fa189f122c77934a28afc27ef03b"
+  },
+  {
+    "chunk_id": "ba38b1beffb0a05f51facb32",
+    "level": "dialogue",
+    "scripture_id": "Śivapurāṇa, Books 1 and 7",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shiva speaks to unknown. Topic: tapas. Context: chapter 0. Verses: . Scripture: Śivapurāṇa, Books 1 and 7.",
+    "entity_links": [
+      {
+        "name": "Shiva"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shiva",
+        "listener": "unknown",
+        "topic": "tapas"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shiva",
+      "listener": "unknown",
+      "topic": "tapas",
+      "context": "chapter 0"
+    },
+    "hash": "97a63b3a5cfb2841d2320c00b45d5cf7517ba2819502d045286f4ddf9109bbef"
+  },
+  {
+    "chunk_id": "21a5eb5c8a26845b05df969e",
+    "level": "dialogue",
+    "scripture_id": "Śivapurāṇa, Books 1 and 7",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shiva speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Śivapurāṇa, Books 1 and 7.",
+    "entity_links": [
+      {
+        "name": "Shiva"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shiva",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shiva",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "42e09e9710e08a5c9022f9b13412492f566c73c2ce8aa4e0cfa38ce7c3f02ec0"
+  },
+  {
+    "chunk_id": "ea71ef19ae643ef1efc26ab5",
+    "level": "dialogue",
+    "scripture_id": "Śivapurāṇa, Books 1 and 7",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 4. Verses: . Scripture: Śivapurāṇa, Books 1 and 7.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 4"
+    },
+    "hash": "eccf6c1c6e4c292c3d7211c6bbfb9770bad3d912e9e804d92b2b752968609327"
+  },
+  {
+    "chunk_id": "bffc66b6a4a95466686082b3",
+    "level": "dialogue",
+    "scripture_id": "Śivapurāṇa, Books 1 and 7",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Shiva speaks to unknown. Topic: yoga. Context: chapter 7. Verses: . Scripture: Śivapurāṇa, Books 1 and 7.",
+    "entity_links": [
+      {
+        "name": "Shiva"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Shiva",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Shiva",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 7"
+    },
+    "hash": "dfceea37d8973e3151465443a5c4e5f2d8fafc61b16c6da1d098cf3bfec2ff86"
+  },
+  {
+    "chunk_id": "dbd88ce1cd75d1d814f253cb",
+    "level": "dialogue",
+    "scripture_id": "Śivapurāṇa, Books 1 and 7",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: jnana. Context: chapter 12. Verses: . Scripture: Śivapurāṇa, Books 1 and 7.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "jnana"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "jnana",
+      "context": "chapter 12"
+    },
+    "hash": "e071d805cfd4d9cdfdb864fe7f0b829fd0eb9cb122de3023e7df30d52cbf7c8e"
+  },
+  {
+    "chunk_id": "93a339d9bc4bb4e970fcfea8",
+    "level": "dialogue",
+    "scripture_id": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Yudhishthira speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Skandapurāṇa: Revākhaṇḍa (RKS).",
+    "entity_links": [
+      {
+        "name": "Yudhishthira"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Yudhishthira",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Yudhishthira",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "e5a05bf0b508e3dcb5cc76df6359627461727d75d8a0bf0a22a173e5366cea65"
+  },
+  {
+    "chunk_id": "cedec16b36807797810e59c6",
+    "level": "dialogue",
+    "scripture_id": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Skandapurāṇa: Revākhaṇḍa (RKS).",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "2eb014d98a806708b92503b5be354bf94b1b03c4b5d1f51a51fa276060524db0"
+  },
+  {
+    "chunk_id": "83d40b91a2d8b3c35db8fdf9",
+    "level": "dialogue",
+    "scripture_id": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Pippalada speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Skandapurāṇa: Revākhaṇḍa (RKS).",
+    "entity_links": [
+      {
+        "name": "Pippalada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Pippalada",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Pippalada",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "fd623d38cc8338857d674fb17ea112ef4b6979d950a8760382f7a84ad3bb507a"
+  },
+  {
+    "chunk_id": "40201f26df5e5a2bbb73dc54",
+    "level": "dialogue",
+    "scripture_id": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Skandapurāṇa: Revākhaṇḍa (RKS).",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "f74bbdfb9467fc3a4883f5c8b0bc7ba7aa63a7c9637ad56e54760d7176722506"
+  },
+  {
+    "chunk_id": "9e95bc40fd814b1bcab3001a",
+    "level": "dialogue",
+    "scripture_id": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: yoga. Context: chapter 0. Verses: . Scripture: Skandapurāṇa: Revākhaṇḍa (RKS).",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "yoga"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "yoga",
+      "context": "chapter 0"
+    },
+    "hash": "b86cf10b1cd04c43080685760aa9432a1295650d629b38acac50b339ff9e1977"
+  },
+  {
+    "chunk_id": "606a21a89cfe3929b8a8748f",
+    "level": "dialogue",
+    "scripture_id": "Skandapurāṇa: Revākhaṇḍa (RKS)",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Parashara speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Skandapurāṇa: Revākhaṇḍa (RKS).",
+    "entity_links": [
+      {
+        "name": "Parashara"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Parashara",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Parashara",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "fd6f62ed2baa4d667f4a0bc6dc06448d15f0f8ee87f78f2a5a41e9a86595dd69"
+  },
+  {
+    "chunk_id": "9a2a9c655b00390cc7120998",
+    "level": "dialogue",
+    "scripture_id": "Vāmanapurāṇa, 1-69",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Vāmanapurāṇa, 1-69.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "karma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "karma",
+      "context": "chapter 0"
+    },
+    "hash": "782491d6c0d018f573ca1eb5894ddb6c25613ef4782e0b6f8b6830b812041bcb"
+  },
+  {
+    "chunk_id": "cde218d48f827af5aea5127d",
+    "level": "dialogue",
+    "scripture_id": "Vāmanapurāṇa, 1-69",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Narada speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Vāmanapurāṇa, 1-69.",
+    "entity_links": [
+      {
+        "name": "Narada"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Narada",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Narada",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "3b0920608e5d7c3082ef18d03f5d3c4d4e96577486151b32cf88f87047c66f44"
+  },
+  {
+    "chunk_id": "55d916c7f873b379f4f77f61",
+    "level": "dialogue",
+    "scripture_id": "Viṣṇudharma",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Krishna speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Viṣṇudharma.",
+    "entity_links": [
+      {
+        "name": "Krishna"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Krishna",
+        "listener": "unknown",
+        "topic": "dharma"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Krishna",
+      "listener": "unknown",
+      "topic": "dharma",
+      "context": "chapter 0"
+    },
+    "hash": "a80417f6649cc3e90ff7a4344552577bd9fc3909d1e68905ccbb1d5fd6075d38"
+  },
+  {
+    "chunk_id": "35ceb66fd056648e07536ea0",
+    "level": "dialogue",
+    "scripture_id": "Viṣṇupurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Parashara speaks to unknown. Topic: bhakti. Context: chapter 0. Verses: . Scripture: Viṣṇupurāṇa.",
+    "entity_links": [
+      {
+        "name": "Parashara"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Parashara",
+        "listener": "unknown",
+        "topic": "bhakti"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Parashara",
+      "listener": "unknown",
+      "topic": "bhakti",
+      "context": "chapter 0"
+    },
+    "hash": "3aed55ba1417ff5610ff5b19850e2d387d3cebaa92a2d50968b4935ed8ce5d8e"
+  },
+  {
+    "chunk_id": "f7ee6637960ad95df22d29d6",
+    "level": "dialogue",
+    "scripture_id": "Viṣṇupurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Parashara speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Viṣṇupurāṇa.",
+    "entity_links": [
+      {
+        "name": "Parashara"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Parashara",
+        "listener": "unknown",
+        "topic": "general"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Parashara",
+      "listener": "unknown",
+      "topic": "general",
+      "context": "chapter 0"
+    },
+    "hash": "5454a01621c2be696b89eb61976d9b037ccd42c46edc178cbf021cbc5769f566"
+  },
+  {
+    "chunk_id": "1de3a55f8778c57c7984da6b",
+    "level": "dialogue",
+    "scripture_id": "Viṣṇupurāṇa",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Dialogue: Parashara speaks to unknown. Topic: atman. Context: chapter 0. Verses: . Scripture: Viṣṇupurāṇa.",
+    "entity_links": [
+      {
+        "name": "Parashara"
+      },
+      {
+        "name": "unknown"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [
+      {
+        "speaker": "Parashara",
+        "listener": "unknown",
+        "topic": "atman"
+      }
+    ],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "speaker": "Parashara",
+      "listener": "unknown",
+      "topic": "atman",
+      "context": "chapter 0"
+    },
+    "hash": "0ca97b554fa7e5f02db8df737aebddc1bcc86e03c9e34d255bf714cf19911961"
+  }
+]

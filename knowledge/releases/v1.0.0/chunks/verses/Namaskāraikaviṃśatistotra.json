@@ -1,0 +1,44 @@
+[
+  {
+    "chunk_id": "29ee4df02b193a3df088ecae",
+    "level": "verse",
+    "scripture_id": "Namaskāraikaviṃśatistotra",
+    "canonical_ref": "Namaskāraikaviṃśatistotra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Namaskāraikaviṃśatistotra_ch0_aku?",
+    "text": "Ekaviṃśatistotra",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Namaskāraikaviṃśatistotra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "439c8b5f5d02e9ab7c965586054f265791bce51db9ca8f6731c513e8b9a139f3"
+  },
+  {
+    "chunk_id": "29ee4df02b193a3df088ecae",
+    "level": "verse",
+    "scripture_id": "Namaskāraikaviṃśatistotra",
+    "canonical_ref": "Namaskāraikaviṃśatistotra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Namaskāraikaviṃśatistotra_ch0_aku?",
+    "text": "iti śrīsaṃyaksaṃbuddhavairocanabhāṣitaṃ bhagavatyāryatāradevyā namaskāraikaviṃśatistotraṃ saṃpūrṇaṃ samāptaṃ // śubham //",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Namaskāraikaviṃśatistotra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "f1221b91de563d104ed7d9197a07f6999bba24c6dc0214fff3f2e71ba17b132f"
+  }
+]

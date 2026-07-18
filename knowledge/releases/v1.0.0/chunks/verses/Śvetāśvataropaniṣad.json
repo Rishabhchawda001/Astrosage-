@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "ee815bd8edbcdfb3ca99699c",
+    "level": "verse",
+    "scripture_id": "Śvetāśvataropaniṣad",
+    "canonical_ref": "Śvetāśvataropaniṣad_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Śvetāśvataropaniṣad_ch0_aku?",
+    "text": "oṃ brahmavādino vadanti",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Śvetāśvataropaniṣad",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "c9394f2e1c546808f9a9e63106f21b324f3cda0ffba896a2e214d133cb0496ff"
+  }
+]

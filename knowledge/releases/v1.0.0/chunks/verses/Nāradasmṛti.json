@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "b20b9d2cdc2440f57ca71f31",
+    "level": "verse",
+    "scripture_id": "Nāradasmṛti",
+    "canonical_ref": "Nāradasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Nāradasmṛti_ch0_aku?",
+    "text": "nāradīyadharmaśāstraḥ samāptaḥ.",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Nāradasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "95c649bf8345fea5faddc6a2a7464146dc3f895b7c231b1dd5109054602a9cf2"
+  }
+]

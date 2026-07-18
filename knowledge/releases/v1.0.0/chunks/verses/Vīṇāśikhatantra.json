@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "6e0cf3d23cff87ce50453605",
+    "level": "verse",
+    "scripture_id": "Vīṇāśikhatantra",
+    "canonical_ref": "Vīṇāśikhatantra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Vīṇāśikhatantra_ch0_aku?",
+    "text": "oṃ namo mahābhairavāya",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Vīṇāśikhatantra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "ea4426c7ed6d6c788cfb6ad5e64ff24d2e5dc392b7db744a9838381c3212e71c"
+  }
+]

@@ -1,0 +1,401 @@
+{
+  "version": "1.0.0",
+  "knowledge_version": "1.0.0",
+  "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+  "generated": "2026-07-18T20:19:53.062633+00:00",
+  "generator": "Phase 11 Semantic Chunking Pipeline",
+  "total_chunks": 120548,
+  "levels": {
+    "scripture": 54,
+    "verse": 119904,
+    "dialogue": 170,
+    "event": 29,
+    "entity": 391
+  },
+  "total_text_characters": 16387321,
+  "average_text_characters": 135,
+  "artifacts": {
+    "chunk_manifest.json": {
+      "sha256": "fe9d9c4904f46d5a97e81de5b5d12ca5cd0003fd4a1640212618fc0e28520997",
+      "size": 1296
+    },
+    "chunk_validation.json": {
+      "sha256": "1368cff31ecb01bee43941e2cd63558704015bbba3536c243e0f49fdd3011705",
+      "size": 157
+    },
+    "dialogue_chunks.json": {
+      "sha256": "9c9f66c518be7908037b0b3e83e36c55b65800a2f533094b6ebca108d16fdfa1",
+      "size": 186955
+    },
+    "entity_chunks.json": {
+      "sha256": "b6e4038b57abbb4e340cb61bffb4cdaebdb4bdb2d1b1d04a5e484844519f1e51",
+      "size": 1184383
+    },
+    "event_chunks.json": {
+      "sha256": "f6f456de8487e3fecf63860769d57f0bf9fd4b9804291041ce0dcca96729912b",
+      "size": 31751
+    },
+    "scripture_chunks.json": {
+      "sha256": "7278ac926bacb668e64917287de9d4db64583901bfa26c6378b1ec368f03e6ca",
+      "size": 170157
+    },
+    "verses/Agnipurāṇa.json": {
+      "sha256": "a3c61954b507eedd07ea6c29800c6ed83747eb56e52ae2adc367a8d7a8ce57cd",
+      "size": 3973425
+    },
+    "verses/Aitareyopaniṣad with the commentary ascribed to Śaṃkara.json": {
+      "sha256": "78c8b8dc6454db0a176f734e99bf056847eef1068528efdb02d3079028f5f1f1",
+      "size": 258888
+    },
+    "verses/Atharvaprāyaścittāni.json": {
+      "sha256": "68ba5e287454656e13b9a3af398f84fcf09bf2e12c7e0dcb8d0649d94e2c443d",
+      "size": 702843
+    },
+    "verses/Atharvavedapariśiṣṭas.json": {
+      "sha256": "36f9bf365e13786b0faf4288e7419c5743ac499f6a32a2022c14ed5885dd8123",
+      "size": 3075019
+    },
+    "verses/Baudhāyanadharmasūtra.json": {
+      "sha256": "b87ecced0c843929332dbae1c168647460f6ef06d721a71fda572a7914be95f7",
+      "size": 1174739
+    },
+    "verses/Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17).json": {
+      "sha256": "b3895d093f3059dae1aab5eaea9145c606ef5b9ec371e68a48a816a20bd1bc82",
+      "size": 1586085
+    },
+    "verses/Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.json": {
+      "sha256": "2a7e91f39accc6f18c9bf300000e02bb8d8ef52f5ee334268fc350daef5fdf2b",
+      "size": 6036985
+    },
+    "verses/Bhagavadgītābhāṣya.json": {
+      "sha256": "cdfb6c5698ea908ed7b6e02ce9381242746d2208b94e5c710c49dcb9c6435029",
+      "size": 1946466
+    },
+    "verses/Bhagavadāśayānusaraṇabhāsya.json": {
+      "sha256": "a1e2a449b45a06ab4e661cc8b501dc1b0ba84934cac9f4f789469f82aef46422",
+      "size": 2129143
+    },
+    "verses/Bhairavastava.json": {
+      "sha256": "73e6f5e7437c6368b409677b4a192239e3b5d66c9fa204a65a8832cbc1d49927",
+      "size": 711
+    },
+    "verses/Bhāgavatapurāṇa.json": {
+      "sha256": "fb9d1c5aaaf47b793c26c412abc6ba0a024b5082cdb14c344ffb3badfa37ff25",
+      "size": 3200298
+    },
+    "verses/Brahmapurāṇa 1-246.json": {
+      "sha256": "273b01731c1c822f65e2261a3968f95f7fc14c3ad28cf6a0528dd81144ca2183",
+      "size": 12255
+    },
+    "verses/Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā.json": {
+      "sha256": "00644c1b3546c859f5e8b48639c455a3c472a7e7dd31c7c7e4ec46a4d61be1cf",
+      "size": 436798
+    },
+    "verses/Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya.json": {
+      "sha256": "f532ddf12da76cc259dcaed20f426cc5598e12886848127e68ce3f41bb8966a8",
+      "size": 2419101
+    },
+    "verses/Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya.json": {
+      "sha256": "066c6e7cf8334631e5f3cff1aeae802d35dce58b2c413700091dd18b09e23ed6",
+      "size": 4048924
+    },
+    "verses/Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya).json": {
+      "sha256": "87001163bbaae6b364711163fb551c8d76fe5078abed9572e725354dde99d68a",
+      "size": 3019653
+    },
+    "verses/Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary).json": {
+      "sha256": "3b210eab5b82fc4718408a60cf20bb2add75ba8f282c645b776e665c674e17c3",
+      "size": 7048574
+    },
+    "verses/Brahmāṇḍapurāṇa.json": {
+      "sha256": "fea3fcc83148be3c20222037df9424b590ac47e3f527bc203e82a5773ce0ca80",
+      "size": 153435
+    },
+    "verses/Brāhmasphuṭasiddhānta.json": {
+      "sha256": "284559f805b226aceb4fb0af03790fec702e524c2abed88b258aa42d7715f246",
+      "size": 18872
+    },
+    "verses/Devīgītā (= Devībhāgavata-Purāṇa 7,31-40).json": {
+      "sha256": "d2018f4c02b61e568462c0a6c1db7199e32fd90d5eeb7542c9256bec2b4a94c2",
+      "size": 42953
+    },
+    "verses/Dharmasūtra, 1-3 with Maskari's commentary Gautamasmṛtibhāṣya.json": {
+      "sha256": "d80a96e4cde468cc56a35196a2d8a4331425eff665e4ea247177808f626bfc3f",
+      "size": 366169
+    },
+    "verses/Dharmasūtra.json": {
+      "sha256": "a0d996b42ee57269a49f4e08ba2cb405b8b114c592b6ac1aba03a7374a6a0117",
+      "size": 719777
+    },
+    "verses/Garuḍapurāṇa.json": {
+      "sha256": "4ea288b99226209d8f0a627e7a36bd832952b3225911a8804d823d410eb7adb2",
+      "size": 430886
+    },
+    "verses/Gopathabrāhmaṇa.json": {
+      "sha256": "33ca3f504241a1d5ec719c81f98ac194e3710b13de7e04111b2e1585a45f44ac",
+      "size": 3844908
+    },
+    "verses/Harivaṃśa constituted text with star passages.json": {
+      "sha256": "2f6a46af6ab55db40a93ed45bcde4855dec6cb4bba063388349cd483c82d3e62",
+      "size": 2500
+    },
+    "verses/Harivaṃśa, Appendix I.json": {
+      "sha256": "21f60c06f030b7f20b8a5fa14f99007f65833dba5a958a5a5377d14121280b8b",
+      "size": 16069
+    },
+    "verses/Haṭhayogapradīpikā.json": {
+      "sha256": "1e8bb5f4945d05d429a1c09524fc3b20ec485cf1f83361faa7f77f2f6c219b86",
+      "size": 26600
+    },
+    "verses/Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa).json": {
+      "sha256": "31231081ead734139f96a529dc6311d214d09bdf1241edb41ea303fd792baf2e",
+      "size": 6081602
+    },
+    "verses/Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha.json": {
+      "sha256": "a25c4840ab7e46442a8bca5dcfb0d5888ba580a087eba193b258d6278a7ae513",
+      "size": 602578
+    },
+    "verses/Kramastotra.json": {
+      "sha256": "8ebd3da2e6fdb324dfea42b204c857546cc09f302d3b1401d1700e09fd468cfb",
+      "size": 726
+    },
+    "verses/Kubjikamatatantra.json": {
+      "sha256": "21a22d510dd053facd28ea973e6add9d243856fa257cb13461d51509ff955c86",
+      "size": 85280
+    },
+    "verses/Kūrmapurāṇa.json": {
+      "sha256": "a54774a90131a62780719b725da87ae23b9c26c52698c05f358086f86aebc40e",
+      "size": 85140
+    },
+    "verses/Mahābhāratatātparyanirṇaya.json": {
+      "sha256": "2439440324b86f2e7e03aa982534ffd1327120f3a7146bc74cd02905583d3f52",
+      "size": 4567536
+    },
+    "verses/Mahāgaṇapatistotra with a commentary “by his disciple”.json": {
+      "sha256": "9678a46117116ffaad852e4098ab2f93d89dadeb0dde9ae8d60e49367fd2b822",
+      "size": 15490
+    },
+    "verses/Manusmṛti.json": {
+      "sha256": "5485721b5af114b6232a2af82cb69b6b73355901d2c296b1a829a2ca1f81099a",
+      "size": 689
+    },
+    "verses/Mālinīvijayottaratantra.json": {
+      "sha256": "92f8cad3d09e5db3008ecd6ceaa5908399797c666980da900c745623a08d6b93",
+      "size": 1925284
+    },
+    "verses/Mānavagṛhyasūtra (= Maitrāyaṇīyamānavagṛhyasūtra).json": {
+      "sha256": "e8fddc43fcb33a32f7849b41896dec777bbfcba0ffb82382cba85830dd7dd585",
+      "size": 230179
+    },
+    "verses/Mārkaṇḍeyapurāṇa, 1-93.json": {
+      "sha256": "469b1882444621c8fa9918f2b869748689e671402981d235cc629ba2da2fd82e",
+      "size": 539592
+    },
+    "verses/Mātṛkābhedatantra.json": {
+      "sha256": "0e76fb7c2956e78f56fd3e552991d5daf8d34c305176ff71fa427b39a2317793",
+      "size": 20945
+    },
+    "verses/Mṛgendrāgama (= Mrgendratantra).json": {
+      "sha256": "286d6e7720c12839785e03555eaf64e6fab4f1cb36f11c4213deddbc0fcd7037",
+      "size": 280546
+    },
+    "verses/Namaskāraikaviṃśatistotra.json": {
+      "sha256": "5ed52d0221929a4e69cd5a3e0dc24e411eff2d08cd2f05f0ac5f1bd58976fb00",
+      "size": 1615
+    },
+    "verses/Narasiṃhapurāṇa.json": {
+      "sha256": "464e9101429d76076ee629a74d8bf19a2b8be92c94c029bbdb107fd1bec1df10",
+      "size": 101804
+    },
+    "verses/Nirukta.json": {
+      "sha256": "4631fe9dc97b6cac060869db597f27bf0adbc4bcc01aa11b73005b52b6a1f5f2",
+      "size": 3403794
+    },
+    "verses/Nādabindūpaniṣad.json": {
+      "sha256": "719240ecb9ca4fb443b7ed55cabd774803b950d18d4fa5c52cf9eb89a3c3175d",
+      "size": 707
+    },
+    "verses/Nāradapurāṇa (or Nāradīyapurāṇa).json": {
+      "sha256": "1abc07b2b0e94ea7bc732ed36fa443e8fe2e049ab30a3ac694470ecdc337ef73",
+      "size": 230134
+    },
+    "verses/Nāradasmṛti.json": {
+      "sha256": "f710e39e99be522f99fca71ef8ff996c0d7de1b06adff704031a1c1832707697",
+      "size": 703
+    },
+    "verses/Pañcaviṃśabrāhmaṇa.json": {
+      "sha256": "924d0057c63ce379049f0c901ac5b5bf0300d4cba7b9d1bf213bfb4086cced63",
+      "size": 2912508
+    },
+    "verses/Revākhāṇḍa of the Vāyupurāṇa (RKV).json": {
+      "sha256": "f3bb45f236222bbf20ff54656eb6e4180b5dfde0f77cc1f44bd0051cbbc69b5e",
+      "size": 440172
+    },
+    "verses/Sarvadurgatipariśodhanatantra.json": {
+      "sha256": "5058f375b080df3fac7b034761f4a00f906c2448a12d194c9a38cd7e62c2f1b4",
+      "size": 1143445
+    },
+    "verses/Skandapurāṇa: Revākhaṇḍa (RKS).json": {
+      "sha256": "61fb08f71304f6002ca9ac78980ec7f5974c55d7d984e1a3641b66bb9dfe90b1",
+      "size": 598553
+    },
+    "verses/Svayaṃbhupurāṇa.json": {
+      "sha256": "b701c1fd2cfec6a3049198ada99c7be7a9542b9dd6337b62d6480e9457517651",
+      "size": 36599
+    },
+    "verses/Sāmavedasaṃhitā.json": {
+      "sha256": "d1160448af0c00e2debfd2ecfe2c7811f6877b3f492979311fb0d0404b902f90",
+      "size": 2784862
+    },
+    "verses/Taittirīya-Upaniṣad with Śaṃkarabhāṣya.json": {
+      "sha256": "9920dbcc5cb73c2ce2cb87c9f944c37ff0301dbe10032c6b763942fa65b7c40b",
+      "size": 372155
+    },
+    "verses/Uḍḍāmareśvaratantra.json": {
+      "sha256": "09d54676456dceadbfcca1b9c32e1244958b0f6e84799b281a7dd74b2f6af963",
+      "size": 262045
+    },
+    "verses/Vaikhānasadharmasūtra.json": {
+      "sha256": "bbf9b21c47d679691ac842441fff64ab5378c14784e41f306d124b8434b49e07",
+      "size": 58804
+    },
+    "verses/Vedārthasaṃgraha.json": {
+      "sha256": "06b29e0311ad4c6384e6566ef7cf50517606c105fdaa612a8d92a3cb6d32795e",
+      "size": 490004
+    },
+    "verses/Vijñānabhairava.json": {
+      "sha256": "7799e9898e7564bbe5a32522b01a5d28694944ae48fc52c84d4b211d3161abc0",
+      "size": 16988
+    },
+    "verses/Viṣṇudharma.json": {
+      "sha256": "7dc62d0ca5086b5138f17dbb569aa01a871464cd43e3a32309ba2d42732d8656",
+      "size": 779892
+    },
+    "verses/Viṣṇupurāṇa.json": {
+      "sha256": "6a62f265b441305578eac73204ffad13c340a586f49bc4f3db7da79fc2559439",
+      "size": 622905
+    },
+    "verses/Viṣṇusmṛti.json": {
+      "sha256": "dde64baec3f6cae8277f0c8c9ca7f6c9cd8109d5577aa0d0eb8733c2fe9c2b6b",
+      "size": 3395560
+    },
+    "verses/Vāmanapurāṇa, 1-69.json": {
+      "sha256": "894a007509e3c5890027784cc58e1f047165ff5da3b073bc91d58b2152bce33d",
+      "size": 123053
+    },
+    "verses/Vāmanapurāṇa, Saromāhātmya.json": {
+      "sha256": "431fbbc2461b414484c2aa96b2498893f7ab4c3941dc30ae59e947375339c751",
+      "size": 33397
+    },
+    "verses/Vāsiṣṭhadharmasūtra.json": {
+      "sha256": "9da210c9315a8e8052d4b276f2001ea5dd958e70939a19ea8afab727a2dfd5e3",
+      "size": 1080129
+    },
+    "verses/Vīṇāśikhatantra.json": {
+      "sha256": "0699cc5f1e8899826d480e1387bbda4e3b5b5e887329fc8f8989b06df5008e44",
+      "size": 713
+    },
+    "verses/Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra).json": {
+      "sha256": "27aa96c876449c3a6b18aff378c7d0a04f6b07c3e1c61d852de3859622d298fb",
+      "size": 694020
+    },
+    "verses/Yogasūtra with Bhāṣya.json": {
+      "sha256": "e4134fec9e0d78ab794c375368657388a03e1eeb9b6e1c40da4995e2b185d0ed",
+      "size": 1217115
+    },
+    "verses/Yogasūtra.json": {
+      "sha256": "3f3af1c3a276ade14dfb2e96332e86b303852c6805d2f309def757bc54bbf575",
+      "size": 12134
+    },
+    "verses/Yogaśataka.json": {
+      "sha256": "01a41cae86c087aa8f44212e6890c0dfa33d11bb3bed53a23e1766a16dbe8c40",
+      "size": 2488
+    },
+    "verses/Āpastambadharmasūtra.json": {
+      "sha256": "0381e5e8ce8031be960e128bb250ba62dd29e4856f13756e7ee4858fedd6b1fe",
+      "size": 993300
+    },
+    "verses/Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā.json": {
+      "sha256": "a0a83365182ce8010b394c38a4073ce541302b4fce31af1a75d6d97c6f65c3c6",
+      "size": 2840072
+    },
+    "verses/Āśvalāyanagṛhyasūtra.json": {
+      "sha256": "3daa52a54c2207db56763eae19b0fc61fba4accfe29d85fac096648868a733f9",
+      "size": 598241
+    },
+    "verses/Āśvalāyanaśrautasūtra.json": {
+      "sha256": "596fd9e22b805c53938fa9fde9491b980affd8ced483f4b43a7b7f79f5ac8df2",
+      "size": 2481932
+    },
+    "verses/Āṅgirasasmṛti.json": {
+      "sha256": "821eb52534f300b30a0e29962a4a5ebdfa3645823c450cf0c4aa6a998c71e04b",
+      "size": 11941
+    },
+    "verses/Īśopaniṣad (or Īśāvāsyopaniṣad), Kāṇva recension with the commentary ascribed to Śaṃkara.json": {
+      "sha256": "e2f5af79ac8a5ac739d3154719fd575cd9213334b123f919b9987943fe5e15dc",
+      "size": 110522
+    },
+    "verses/Śira-upaniṣad (= Atharvaśira-upanisad).json": {
+      "sha256": "76e52689538f5814fe682bdd86d3e7218b2de3cd74234354fad1a089b5146ac1",
+      "size": 87712
+    },
+    "verses/Śivapurāṇa, Books 1 and 7.json": {
+      "sha256": "242a6854f910e86dc57ca7a6d498d52cb1a2ccf4175b6e07f94b5f0e7db9a5fb",
+      "size": 5337030
+    },
+    "verses/Śivasūtra with vārttika.json": {
+      "sha256": "cdc16979e2c31846519c3feb869f5759199d2426ec883bde9b34e00ecc677dfa",
+      "size": 119289
+    },
+    "verses/Śvetāśvataropaniṣad.json": {
+      "sha256": "90a1b9a3d0c3ad40f5e959395d6c0309923a3c4eec65aa03b8876a2668c8aa9f",
+      "size": 729
+    },
+    "verses/Śyāmalādaṇḍaka.json": {
+      "sha256": "d8cfd4ce4ed55334dfefdeb40d533bbf8867d634f9165b5a7710e5a4fc20d8b0",
+      "size": 9085
+    },
+    "verses/Śāṅkhāyanaśrautasūtra.json": {
+      "sha256": "a462f26e4fe9b5a2a689c3b5c894e7843232ca2998578e67d35786f206a0c164",
+      "size": 4176747
+    },
+    "verses/Ṛgvedakhilāni.json": {
+      "sha256": "67b77d0843eda7f96f48dda118952701c1f66e29c57ae911a34cb49b153e6146",
+      "size": 29820
+    },
+    "verses/Ṛgvedasaṃhitā, Padapāṭha.json": {
+      "sha256": "065648761b2129c27b4230c412ee7bd9353f17e6419945ef0e9e8ad10a0b284b",
+      "size": 11730813
+    }
+  },
+  "schema": {
+    "fields": [
+      "chunk_id",
+      "level",
+      "scripture_id",
+      "canonical_ref",
+      "chapter",
+      "verse_range",
+      "text",
+      "entity_links",
+      "relationship_links",
+      "dialogue_links",
+      "event_links",
+      "concept_links",
+      "provenance",
+      "metadata",
+      "hash"
+    ],
+    "levels": [
+      "scripture",
+      "verse",
+      "dialogue",
+      "event",
+      "entity"
+    ],
+    "id_deterministic": true,
+    "id_algorithm": "SHA256(astrosage.chunk.v1.{scripture}.{level}.{ref})[:24]"
+  },
+  "total_files": 88,
+  "total_size": 112045893
+}

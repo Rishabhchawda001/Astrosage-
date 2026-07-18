@@ -1,0 +1,1274 @@
+[
+  {
+    "chunk_id": "7957206eef6b59133d0dc06c",
+    "level": "event",
+    "scripture_id": "Mahabharata",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Mahabharata War. Location: Kurukshetra. Participants: Arjuna, Bhima, Bhishma, Drona, Duryodhana, Karna, Krishna.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "Bhima"
+      },
+      {
+        "name": "Bhishma"
+      },
+      {
+        "name": "Drona"
+      },
+      {
+        "name": "Duryodhana"
+      },
+      {
+        "name": "Karna"
+      },
+      {
+        "name": "Krishna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Mahabharata War",
+        "location": "Kurukshetra"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Mahabharata War",
+      "location": "Kurukshetra",
+      "participants": [
+        "Arjuna",
+        "Bhima",
+        "Bhishma",
+        "Drona",
+        "Duryodhana",
+        "Karna",
+        "Krishna"
+      ]
+    },
+    "hash": "69b36992ed71663e54a51a7a5bcdf5b80be1ab39dd5a5a24394755e6f5657317"
+  },
+  {
+    "chunk_id": "4bb0c1468b1a93ae521500de",
+    "level": "event",
+    "scripture_id": "Bhagavad Gita",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Bhagavad Gita Teaching. Location: Kurukshetra. Participants: Arjuna, Krishna.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "Krishna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Bhagavad Gita Teaching",
+        "location": "Kurukshetra"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Bhagavad Gita Teaching",
+      "location": "Kurukshetra",
+      "participants": [
+        "Arjuna",
+        "Krishna"
+      ]
+    },
+    "hash": "881766a3def0b0dee7f14acf2202cdc625077567ca8da477b350d5d05c32ac08"
+  },
+  {
+    "chunk_id": "28a8c6aca746baea4a019ca1",
+    "level": "event",
+    "scripture_id": "Mahabharata",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Draupadi Vastraharana. Location: Hastinapura. Participants: Bhishma, Dhritarashtra, Draupadi, Duryodhana.",
+    "entity_links": [
+      {
+        "name": "Bhishma"
+      },
+      {
+        "name": "Dhritarashtra"
+      },
+      {
+        "name": "Draupadi"
+      },
+      {
+        "name": "Duryodhana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Draupadi Vastraharana",
+        "location": "Hastinapura"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Draupadi Vastraharana",
+      "location": "Hastinapura",
+      "participants": [
+        "Bhishma",
+        "Dhritarashtra",
+        "Draupadi",
+        "Duryodhana"
+      ]
+    },
+    "hash": "824d38c227c28237f515816ba1cb0d561d04332eddb7864b4bbab12edc1d7c18"
+  },
+  {
+    "chunk_id": "3791f90875637096f7671e9b",
+    "level": "event",
+    "scripture_id": "Mahabharata",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Burning of Khandava Forest. Location: Khandava. Participants: Agni, Arjuna, Krishna.",
+    "entity_links": [
+      {
+        "name": "Agni"
+      },
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "Krishna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Burning of Khandava Forest",
+        "location": "Khandava"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Burning of Khandava Forest",
+      "location": "Khandava",
+      "participants": [
+        "Agni",
+        "Arjuna",
+        "Krishna"
+      ]
+    },
+    "hash": "09a2da4b545938fd508fafcbbaa0330ee60af33ad173e43d4649581eb7d6329c"
+  },
+  {
+    "chunk_id": "32ecc6d30b561ba5b9725d29",
+    "level": "event",
+    "scripture_id": "Mahabharata",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Guru Dakshina War. Location: Kurukshetra. Participants: Arjuna, Drona, Duryodhana.",
+    "entity_links": [
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "Drona"
+      },
+      {
+        "name": "Duryodhana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Guru Dakshina War",
+        "location": "Kurukshetra"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Guru Dakshina War",
+      "location": "Kurukshetra",
+      "participants": [
+        "Arjuna",
+        "Drona",
+        "Duryodhana"
+      ]
+    },
+    "hash": "bdd3dc20d0454b82cd5a85f0a3ac99f7ef6133f5dd285336d40d79e956a889d7"
+  },
+  {
+    "chunk_id": "4493480677280fd761066255",
+    "level": "event",
+    "scripture_id": "Mahabharata",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Chakravyuha. Location: Kurukshetra. Participants: Abhimanyu, Arjuna, Drona.",
+    "entity_links": [
+      {
+        "name": "Abhimanyu"
+      },
+      {
+        "name": "Arjuna"
+      },
+      {
+        "name": "Drona"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Chakravyuha",
+        "location": "Kurukshetra"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Chakravyuha",
+      "location": "Kurukshetra",
+      "participants": [
+        "Abhimanyu",
+        "Arjuna",
+        "Drona"
+      ]
+    },
+    "hash": "c7ad7782fb15f11367308e7b4f37e44c09f772dc56a5a8675e0d0868c9d3a60b"
+  },
+  {
+    "chunk_id": "f362fa9426bc2883797dce24",
+    "level": "event",
+    "scripture_id": "Mahabharata",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Ghatotkacha Death. Location: Kurukshetra. Participants: Ghatotkacha, Karna.",
+    "entity_links": [
+      {
+        "name": "Ghatotkacha"
+      },
+      {
+        "name": "Karna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Ghatotkacha Death",
+        "location": "Kurukshetra"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Ghatotkacha Death",
+      "location": "Kurukshetra",
+      "participants": [
+        "Ghatotkacha",
+        "Karna"
+      ]
+    },
+    "hash": "b8043a58c004cf6194f575b3c3267f1795718e57f0bb71960f8849b6401ccb93"
+  },
+  {
+    "chunk_id": "5b20d843ebd5f308439d5732",
+    "level": "event",
+    "scripture_id": "Ramayana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Sita Swayamvara. Location: Mithila. Participants: Janaka, Lakshmana, Rama, Sita.",
+    "entity_links": [
+      {
+        "name": "Janaka"
+      },
+      {
+        "name": "Lakshmana"
+      },
+      {
+        "name": "Rama"
+      },
+      {
+        "name": "Sita"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Sita Swayamvara",
+        "location": "Mithila"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Sita Swayamvara",
+      "location": "Mithila",
+      "participants": [
+        "Janaka",
+        "Lakshmana",
+        "Rama",
+        "Sita"
+      ]
+    },
+    "hash": "58b82e5df4b2e3d8c2397d5f0303594853e2e35b1fa0e268709c7d0ce11dfdf8"
+  },
+  {
+    "chunk_id": "eb43fe9d82040057d028f909",
+    "level": "event",
+    "scripture_id": "Ramayana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Rama's Exile. Location: Ayodhya → Dandakaranya. Participants: Dasharatha, Lakshmana, Rama, Sita.",
+    "entity_links": [
+      {
+        "name": "Dasharatha"
+      },
+      {
+        "name": "Lakshmana"
+      },
+      {
+        "name": "Rama"
+      },
+      {
+        "name": "Sita"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Rama's Exile",
+        "location": "Ayodhya → Dandakaranya"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Rama's Exile",
+      "location": "Ayodhya → Dandakaranya",
+      "participants": [
+        "Dasharatha",
+        "Lakshmana",
+        "Rama",
+        "Sita"
+      ]
+    },
+    "hash": "c3ca6dfc0981768b0f83a59172307540351f613bcf25d09dcef7b55eff0b3c38"
+  },
+  {
+    "chunk_id": "37e120b87014e26af30eb60d",
+    "level": "event",
+    "scripture_id": "Ramayana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Sita Kidnapping. Location: Dandakaranya. Participants: Maricha, Ravana, Sita.",
+    "entity_links": [
+      {
+        "name": "Maricha"
+      },
+      {
+        "name": "Ravana"
+      },
+      {
+        "name": "Sita"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Sita Kidnapping",
+        "location": "Dandakaranya"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Sita Kidnapping",
+      "location": "Dandakaranya",
+      "participants": [
+        "Maricha",
+        "Ravana",
+        "Sita"
+      ]
+    },
+    "hash": "f484148f25b83dc394a81bdf3e0ba702021d0697a8a5fb368f2f251e8b3845ad"
+  },
+  {
+    "chunk_id": "f43aaa95f0984a3f9d4fa019",
+    "level": "event",
+    "scripture_id": "Ramayana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Hanuman's Leap to Lanka. Location: Lanka. Participants: Hanuman, Ravana.",
+    "entity_links": [
+      {
+        "name": "Hanuman"
+      },
+      {
+        "name": "Ravana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Hanuman's Leap to Lanka",
+        "location": "Lanka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Hanuman's Leap to Lanka",
+      "location": "Lanka",
+      "participants": [
+        "Hanuman",
+        "Ravana"
+      ]
+    },
+    "hash": "3799be047c8bc8f6c63cc48442a502aea67cc9d8799c5e70b8334d928a2ecf4c"
+  },
+  {
+    "chunk_id": "21e854582ff0c3b8b36ea369",
+    "level": "event",
+    "scripture_id": "Ramayana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Burning of Lanka. Location: Lanka. Participants: Hanuman, Ravana.",
+    "entity_links": [
+      {
+        "name": "Hanuman"
+      },
+      {
+        "name": "Ravana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Burning of Lanka",
+        "location": "Lanka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Burning of Lanka",
+      "location": "Lanka",
+      "participants": [
+        "Hanuman",
+        "Ravana"
+      ]
+    },
+    "hash": "572d1d21538f9734a127af0af1981fbb5267428f56ec7bd72919acf8e8039f34"
+  },
+  {
+    "chunk_id": "85eb9993e88771280ef1b3ff",
+    "level": "event",
+    "scripture_id": "Ramayana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Killing of Ravana. Location: Lanka. Participants: Hanuman, Indrajit, Kumbhakarna, Rama, Ravana.",
+    "entity_links": [
+      {
+        "name": "Hanuman"
+      },
+      {
+        "name": "Indrajit"
+      },
+      {
+        "name": "Kumbhakarna"
+      },
+      {
+        "name": "Rama"
+      },
+      {
+        "name": "Ravana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Killing of Ravana",
+        "location": "Lanka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Killing of Ravana",
+      "location": "Lanka",
+      "participants": [
+        "Hanuman",
+        "Indrajit",
+        "Kumbhakarna",
+        "Rama",
+        "Ravana"
+      ]
+    },
+    "hash": "4ccf368fcaa9b92c2c95a8a228f431ff07d635c87fe0a8161f3533b282fa7df5"
+  },
+  {
+    "chunk_id": "66931ac6d71596a9facbe4e7",
+    "level": "event",
+    "scripture_id": "Ramayana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Rama's Coronation. Location: Ayodhya. Participants: Bharata, Lakshmana, Rama, Sita.",
+    "entity_links": [
+      {
+        "name": "Bharata"
+      },
+      {
+        "name": "Lakshmana"
+      },
+      {
+        "name": "Rama"
+      },
+      {
+        "name": "Sita"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Rama's Coronation",
+        "location": "Ayodhya"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Rama's Coronation",
+      "location": "Ayodhya",
+      "participants": [
+        "Bharata",
+        "Lakshmana",
+        "Rama",
+        "Sita"
+      ]
+    },
+    "hash": "1cc8aeaa33e49b79d37fb005e650348a866e20bab7ee689f780471ebb1a17250"
+  },
+  {
+    "chunk_id": "00498dc21680dd850116102b",
+    "level": "event",
+    "scripture_id": "Bhagavata Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Samudra Manthan. Location: Kshirasagara. Participants: Asuras, Devas, Lakshmi, Shiva, Vishnu.",
+    "entity_links": [
+      {
+        "name": "Asuras"
+      },
+      {
+        "name": "Devas"
+      },
+      {
+        "name": "Lakshmi"
+      },
+      {
+        "name": "Shiva"
+      },
+      {
+        "name": "Vishnu"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Samudra Manthan",
+        "location": "Kshirasagara"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Samudra Manthan",
+      "location": "Kshirasagara",
+      "participants": [
+        "Asuras",
+        "Devas",
+        "Lakshmi",
+        "Shiva",
+        "Vishnu"
+      ]
+    },
+    "hash": "78e019fdea2bbfd98450a546e947f11003b596b29d4ea4ea9de83bd54c752e83"
+  },
+  {
+    "chunk_id": "bc85b998b48810c8fd444b34",
+    "level": "event",
+    "scripture_id": "Shiva Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Daksha Yajna. Location: Kailasa. Participants: Daksha, Sati, Shiva, Virabhadra.",
+    "entity_links": [
+      {
+        "name": "Daksha"
+      },
+      {
+        "name": "Sati"
+      },
+      {
+        "name": "Shiva"
+      },
+      {
+        "name": "Virabhadra"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Daksha Yajna",
+        "location": "Kailasa"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Daksha Yajna",
+      "location": "Kailasa",
+      "participants": [
+        "Daksha",
+        "Sati",
+        "Shiva",
+        "Virabhadra"
+      ]
+    },
+    "hash": "6179bce7d772b525a58ba9a12b24a50794349180ec2b7df4721d8e0c05424ae3"
+  },
+  {
+    "chunk_id": "1399e4fcab32cb7c9d59513d",
+    "level": "event",
+    "scripture_id": "Bhagavata Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Gajendra Moksha. Location: Bhuloka. Participants: Gajendra, Vishnu.",
+    "entity_links": [
+      {
+        "name": "Gajendra"
+      },
+      {
+        "name": "Vishnu"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Gajendra Moksha",
+        "location": "Bhuloka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Gajendra Moksha",
+      "location": "Bhuloka",
+      "participants": [
+        "Gajendra",
+        "Vishnu"
+      ]
+    },
+    "hash": "e2a1f46e97b6ae7ad2372b1a183fc4767cb19e3ca0036279e189e9e2c8f8f764"
+  },
+  {
+    "chunk_id": "222a812e42a41686df8ba882",
+    "level": "event",
+    "scripture_id": "Bhagavata Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Narasimha Avatar. Location: Bhuloka. Participants: Hiranyakashipu, Narasimha, Prahlada.",
+    "entity_links": [
+      {
+        "name": "Hiranyakashipu"
+      },
+      {
+        "name": "Narasimha"
+      },
+      {
+        "name": "Prahlada"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Narasimha Avatar",
+        "location": "Bhuloka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Narasimha Avatar",
+      "location": "Bhuloka",
+      "participants": [
+        "Hiranyakashipu",
+        "Narasimha",
+        "Prahlada"
+      ]
+    },
+    "hash": "cc4dc02cdc1074c1e117851c6d0c8c29bbad90fdb7fa310a8ca8b2f1ad510002"
+  },
+  {
+    "chunk_id": "a920b6ce1154061fb3447253",
+    "level": "event",
+    "scripture_id": "Vishnu Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Vamana Avatar. Location: Bhuloka. Participants: Bali, Indra, Vamana.",
+    "entity_links": [
+      {
+        "name": "Bali"
+      },
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "Vamana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Vamana Avatar",
+        "location": "Bhuloka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Vamana Avatar",
+      "location": "Bhuloka",
+      "participants": [
+        "Bali",
+        "Indra",
+        "Vamana"
+      ]
+    },
+    "hash": "9c999d203eba862aa8f890e65f8164b15d501ddb60e69079605159cbdcbb12a3"
+  },
+  {
+    "chunk_id": "db80d0176ca733ac12986d46",
+    "level": "event",
+    "scripture_id": "Bhagavata Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Varaha Avatar. Location: Cosmic. Participants: Hiranyaksha, Varaha.",
+    "entity_links": [
+      {
+        "name": "Hiranyaksha"
+      },
+      {
+        "name": "Varaha"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Varaha Avatar",
+        "location": "Cosmic"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Varaha Avatar",
+      "location": "Cosmic",
+      "participants": [
+        "Hiranyaksha",
+        "Varaha"
+      ]
+    },
+    "hash": "0b4b37d0c0f6def9ddc1edf388f4c186caedc23f7e787ab8d518a1d0e518c097"
+  },
+  {
+    "chunk_id": "9c12c0c50679f4e0f3b93dde",
+    "level": "event",
+    "scripture_id": "Bhagavata Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Krishna Lifting Govardhana. Location: Gokul. Participants: Indra, Krishna.",
+    "entity_links": [
+      {
+        "name": "Indra"
+      },
+      {
+        "name": "Krishna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Krishna Lifting Govardhana",
+        "location": "Gokul"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Krishna Lifting Govardhana",
+      "location": "Gokul",
+      "participants": [
+        "Indra",
+        "Krishna"
+      ]
+    },
+    "hash": "f8d81befa9ba103af18a05d10ed86f01071b44db86aa62429d01715208d551b1"
+  },
+  {
+    "chunk_id": "655abbd7225b01c8bc13bae4",
+    "level": "event",
+    "scripture_id": "Bhagavata Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Kaliya Mardana. Location: Yamuna. Participants: Kaliya, Krishna.",
+    "entity_links": [
+      {
+        "name": "Kaliya"
+      },
+      {
+        "name": "Krishna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Kaliya Mardana",
+        "location": "Yamuna"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Kaliya Mardana",
+      "location": "Yamuna",
+      "participants": [
+        "Kaliya",
+        "Krishna"
+      ]
+    },
+    "hash": "08a18621975b9b8018148fefd4850d87f95065bdac07e1f8563c51bb6ea0f48b"
+  },
+  {
+    "chunk_id": "2d0e057a32ba46ae928e1c2c",
+    "level": "event",
+    "scripture_id": "Katha Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Nachiketa and Yama. Location: Naraka. Participants: Nachiketa, Yama.",
+    "entity_links": [
+      {
+        "name": "Nachiketa"
+      },
+      {
+        "name": "Yama"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Nachiketa and Yama",
+        "location": "Naraka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Nachiketa and Yama",
+      "location": "Naraka",
+      "participants": [
+        "Nachiketa",
+        "Yama"
+      ]
+    },
+    "hash": "eacf8d652bfa7dd6e4bc4b658672bd040507d46b208926368d66c63ef305c211"
+  },
+  {
+    "chunk_id": "803813e1ddee1d3f30d0891b",
+    "level": "event",
+    "scripture_id": "Brihadaranyaka Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Yajnavalkya at Janaka's Court. Location: Mithila. Participants: Bhrigu, Janaka, Yajnavalkya.",
+    "entity_links": [
+      {
+        "name": "Bhrigu"
+      },
+      {
+        "name": "Janaka"
+      },
+      {
+        "name": "Yajnavalkya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Yajnavalkya at Janaka's Court",
+        "location": "Mithila"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Yajnavalkya at Janaka's Court",
+      "location": "Mithila",
+      "participants": [
+        "Bhrigu",
+        "Janaka",
+        "Yajnavalkya"
+      ]
+    },
+    "hash": "8ceca87adfe97c2f231e368aae982bfe1996c3463d2fd1290bdcdc9c32c024bf"
+  },
+  {
+    "chunk_id": "2c3eed454bf66fdc13bd5684",
+    "level": "event",
+    "scripture_id": "Chandogya Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Uddalaka Teaches Shvetaketu. Location: Kuru-Panchala. Participants: Shvetaketu, Uddalaka.",
+    "entity_links": [
+      {
+        "name": "Shvetaketu"
+      },
+      {
+        "name": "Uddalaka"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Uddalaka Teaches Shvetaketu",
+        "location": "Kuru-Panchala"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Uddalaka Teaches Shvetaketu",
+      "location": "Kuru-Panchala",
+      "participants": [
+        "Shvetaketu",
+        "Uddalaka"
+      ]
+    },
+    "hash": "5684bca3a14ca5cfcc78a21e1de2c5594fea35877c9e1182496c8b8da062bf32"
+  },
+  {
+    "chunk_id": "1aedb4acf22c61544c99e382",
+    "level": "event",
+    "scripture_id": "Prashna Upanishad",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Six Students Question Pippalada. Location: Unknown. Participants: Pippalada, Six Students.",
+    "entity_links": [
+      {
+        "name": "Pippalada"
+      },
+      {
+        "name": "Six Students"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Six Students Question Pippalada",
+        "location": "Unknown"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Six Students Question Pippalada",
+      "location": "Unknown",
+      "participants": [
+        "Pippalada",
+        "Six Students"
+      ]
+    },
+    "hash": "301632f173d07c82c547dab28dcfbf6e1bc00ee393e53a7320631635afb06ab3"
+  },
+  {
+    "chunk_id": "10135eb0b8f1b4c1a96cc5ba",
+    "level": "event",
+    "scripture_id": "Bhagavata Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Prahlada's Devotion. Location: Bhuloka. Participants: Hiranyakashipu, Narasimha, Prahlada.",
+    "entity_links": [
+      {
+        "name": "Hiranyakashipu"
+      },
+      {
+        "name": "Narasimha"
+      },
+      {
+        "name": "Prahlada"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Prahlada's Devotion",
+        "location": "Bhuloka"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Prahlada's Devotion",
+      "location": "Bhuloka",
+      "participants": [
+        "Hiranyakashipu",
+        "Narasimha",
+        "Prahlada"
+      ]
+    },
+    "hash": "3c6bd2d4c26ae61c58aeb95448866a2483bbf32ebf200f7281d680a106f9380f"
+  },
+  {
+    "chunk_id": "3f8a27f8562236b1a313583a",
+    "level": "event",
+    "scripture_id": "Various Puranas",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Bhagiratha's Penance. Location: Himalaya. Participants: Bhagiratha.",
+    "entity_links": [
+      {
+        "name": "Bhagiratha"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Bhagiratha's Penance",
+        "location": "Himalaya"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Bhagiratha's Penance",
+      "location": "Himalaya",
+      "participants": [
+        "Bhagiratha"
+      ]
+    },
+    "hash": "dff5640a87738f6bbbf2563ebe059342ef362fe8bbcd841e03ab715e796b74b8"
+  },
+  {
+    "chunk_id": "e2d54f9534a41d1fce0fc2e8",
+    "level": "event",
+    "scripture_id": "Shiva Purana",
+    "canonical_ref": "",
+    "chapter": null,
+    "verse_range": "",
+    "text": "Event: Shiva Drinking Halahala. Location: Kshirasagara. Participants: Parvati, Shiva.",
+    "entity_links": [
+      {
+        "name": "Parvati"
+      },
+      {
+        "name": "Shiva"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [
+      {
+        "name": "Shiva Drinking Halahala",
+        "location": "Kshirasagara"
+      }
+    ],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/event_graph.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "event_name": "Shiva Drinking Halahala",
+      "location": "Kshirasagara",
+      "participants": [
+        "Parvati",
+        "Shiva"
+      ]
+    },
+    "hash": "3373fa1ce095d0d07f0de83cb36a813ef1d56bbb79b996465328f01c11adb4f5"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "5c7ecabf5a1c0b1aed021caf",
+    "level": "verse",
+    "scripture_id": "Nādabindūpaniṣad",
+    "canonical_ref": "Nādabindūpaniṣad_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Nādabindūpaniṣad_ch0_aku?",
+    "text": "Nādabindūpaniṣat",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Nādabindūpaniṣad",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "d52251e7c70b170bc69e556cfe84e97eca1e28d20093ceffe09ad76c52a9cb53"
+  }
+]

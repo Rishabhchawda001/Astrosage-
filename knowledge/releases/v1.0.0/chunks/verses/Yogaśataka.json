@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "fe64d61c5c63b87797f00ab0",
+    "level": "verse",
+    "scripture_id": "Yogaśataka",
+    "canonical_ref": "Yogaśataka_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogaśataka_ch0_aku?",
+    "text": "oṃ namaḥ sarvajñāya //",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogaśataka",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "9a52a080d39c302c9440e3f835575e58de7f31cadbefa1335bb167b08266bedc"
+  },
+  {
+    "chunk_id": "fe64d61c5c63b87797f00ab0",
+    "level": "verse",
+    "scripture_id": "Yogaśataka",
+    "canonical_ref": "Yogaśataka_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogaśataka_ch0_aku?",
+    "text": "oṃ namo dhanvantarāye //",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogaśataka",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "2da624440b592fe595f21bd7c7ccf689a2ecfbbd36dbab8bb4771a1af8c7fbc1"
+  },
+  {
+    "chunk_id": "fe64d61c5c63b87797f00ab0",
+    "level": "verse",
+    "scripture_id": "Yogaśataka",
+    "canonical_ref": "Yogaśataka_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Yogaśataka_ch0_aku?",
+    "text": "natamadhukakarañjalākṣāpaṭolīsamaṅgāvacāpāṭalīhiṅgusiddhārthasiṃhīniśāyuglatārohiṇī- phalakhadirakaṭutrikākāṇḍadārukrimighnājagandhāmarāṅkollakośātakīśigrunimbāmbudendrāhvayaiḥ / gadaśukatarupuṣpabījāmbuyaṣṭyadrikarṇīnikumbhāgnibilvaiḥ samaiḥ kalkitair mūtravargeṇa siddhaṃ ghṛtaṃ vidhivinihitam āśu sarvaiḥ kramair yojitaṃ hanti sarvagrahonmādakuṣṭhajvarāṃs tan mahābhūtarāvaṃ smṛtam //",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Yogaśataka",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "2188145a9906229d7be2205cd8cf3b6162a301e4c790f023abe76f4dab715a7d"
+  }
+]

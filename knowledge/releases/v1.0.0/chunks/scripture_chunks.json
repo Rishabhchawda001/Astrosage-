@@ -1,0 +1,9308 @@
+[
+  {
+    "chunk_id": "cc88cfb935362a62a8a0394b",
+    "level": "scripture",
+    "scripture_id": "AGNI",
+    "scripture_name": "AGNI",
+    "title": "AGNI",
+    "canonical_ref": "AGNI",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: AGNI. Canonical units: 6872. Entities mentioned: 210.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Fish"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Budha"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Rishabhadeva"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Shambuka"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Boar"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Bharadvaja"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 53616,
+      "coverage": 100
+    },
+    "hash": "366bc1f11861b83dc29880b021033a17a3a539de751c2051e269aa93ec5dfde9"
+  },
+  {
+    "chunk_id": "f7a8d5232de1b2d9730a8084",
+    "level": "scripture",
+    "scripture_id": "AITAREYA",
+    "scripture_name": "AITAREYA",
+    "title": "AITAREYA",
+    "canonical_ref": "AITAREYA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: AITAREYA. Canonical units: 246. Entities mentioned: 60.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Satya"
+      },
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Rama"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Moksha"
+      },
+      {
+        "guid": null,
+        "name": "Hamsa"
+      },
+      {
+        "guid": null,
+        "name": "Tapas"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Sankhya"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Mesh"
+      },
+      {
+        "guid": null,
+        "name": "Kapala"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Svarloka"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Samsara"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Yadu"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Dasharatha"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Nyaya"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      },
+      {
+        "guid": null,
+        "name": "Bharata"
+      },
+      {
+        "guid": null,
+        "name": "Nashik"
+      },
+      {
+        "guid": null,
+        "name": "Ashrama"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Vyasa"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Avidya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 3999,
+      "coverage": 100
+    },
+    "hash": "c1e73321d21aff0190f7e8fa53553a12a15792d9a8c4280e38c1435aed198874"
+  },
+  {
+    "chunk_id": "0f7c9a029d7c14184bd493a7",
+    "level": "scripture",
+    "scripture_id": "APASTAMBA_DS",
+    "scripture_name": "APASTAMBA_DS",
+    "title": "APASTAMBA_DS",
+    "canonical_ref": "APASTAMBA_DS",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: APASTAMBA_DS. Canonical units: 0. Entities mentioned: 5.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Swan"
+      },
+      {
+        "guid": null,
+        "name": "Cow"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Kapala"
+      },
+      {
+        "guid": null,
+        "name": "Snake"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 1560,
+      "coverage": 100
+    },
+    "hash": "8ded867e194e2e697c0c298aa95c17300389d652d501e85c091c1ea0cd1e5057"
+  },
+  {
+    "chunk_id": "d34e865d52d83d0fc239960b",
+    "level": "scripture",
+    "scripture_id": "AV",
+    "scripture_name": "AV",
+    "title": "AV",
+    "canonical_ref": "AV",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: AV. Canonical units: 27856. Entities mentioned: 228.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Magha"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Fish"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Budha"
+      },
+      {
+        "guid": null,
+        "name": "Dvaita"
+      },
+      {
+        "guid": null,
+        "name": "Japa"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Nandi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Rishabhadeva"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Tapa"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Prajapati"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Peacock"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Boar"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Elephant"
+      },
+      {
+        "guid": null,
+        "name": "Bharadvaja"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 23232,
+      "coverage": 100
+    },
+    "hash": "be7a5bfaab053e24ec58f1d713f5f35c09213a15103f8ea980829e8476f67c41"
+  },
+  {
+    "chunk_id": "584e2a7740cdf06059cf109e",
+    "level": "scripture",
+    "scripture_id": "BAUDHAYANA_DS",
+    "scripture_name": "BAUDHAYANA_DS",
+    "title": "BAUDHAYANA_DS",
+    "canonical_ref": "BAUDHAYANA_DS",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: BAUDHAYANA_DS. Canonical units: 0. Entities mentioned: 65.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Shravana"
+      },
+      {
+        "guid": null,
+        "name": "Kartikeya"
+      },
+      {
+        "guid": null,
+        "name": "Shesha"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Ananta"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Fish"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Tapas"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Japa"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Crow"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Rabbit"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Tiger"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Kapala"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Vrata"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Swan"
+      },
+      {
+        "guid": null,
+        "name": "Sword"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Prajapati"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Horse"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Peacock"
+      },
+      {
+        "guid": null,
+        "name": "Varaha Avatar"
+      },
+      {
+        "guid": null,
+        "name": "Cow"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Guru"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Agnihotra"
+      },
+      {
+        "guid": null,
+        "name": "Donkey"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Hasta"
+      },
+      {
+        "guid": null,
+        "name": "Boar"
+      },
+      {
+        "guid": null,
+        "name": "Ashrama"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 1893,
+      "coverage": 100
+    },
+    "hash": "c65b74b3e27f056a38dd88697b0b443063ef6d363b8e720521303ede6727a2b0"
+  },
+  {
+    "chunk_id": "80233d1af3fdbadcf632e895",
+    "level": "scripture",
+    "scripture_id": "BG",
+    "scripture_name": "BG",
+    "title": "BG",
+    "canonical_ref": "BG",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: BG. Canonical units: 0. Entities mentioned: 45.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Mace"
+      },
+      {
+        "guid": null,
+        "name": "Shesha"
+      },
+      {
+        "guid": null,
+        "name": "Vasudeva"
+      },
+      {
+        "guid": null,
+        "name": "Ananta"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Fish"
+      },
+      {
+        "guid": null,
+        "name": "Ikshvaku"
+      },
+      {
+        "guid": null,
+        "name": "Rudra"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Sattva"
+      },
+      {
+        "guid": null,
+        "name": "Kurukshetra"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Shakuntala"
+      },
+      {
+        "guid": null,
+        "name": "Hastinapura"
+      },
+      {
+        "guid": null,
+        "name": "Satyaloka"
+      },
+      {
+        "guid": null,
+        "name": "Swan"
+      },
+      {
+        "guid": null,
+        "name": "Vrindavan"
+      },
+      {
+        "guid": null,
+        "name": "Bhishma"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Horse"
+      },
+      {
+        "guid": null,
+        "name": "Pippalada"
+      },
+      {
+        "guid": null,
+        "name": "Cow"
+      },
+      {
+        "guid": null,
+        "name": "Sanjaya"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Bharata"
+      },
+      {
+        "guid": null,
+        "name": "Manu"
+      },
+      {
+        "guid": null,
+        "name": "Rajas"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Prahlada"
+      },
+      {
+        "guid": null,
+        "name": "Snake"
+      },
+      {
+        "guid": null,
+        "name": "Elephant"
+      },
+      {
+        "guid": null,
+        "name": "Vasuki"
+      },
+      {
+        "guid": null,
+        "name": "Draupadi"
+      },
+      {
+        "guid": null,
+        "name": "Bhrigu"
+      },
+      {
+        "guid": null,
+        "name": "Tamas"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Chakra"
+      },
+      {
+        "guid": null,
+        "name": "Devaki"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Garuda"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Narada"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 8372,
+      "coverage": 100
+    },
+    "hash": "66e72c77c7ed289f4802fd215f1edc183bb0c25c3daaa19fe834ee8bf60730bb"
+  },
+  {
+    "chunk_id": "001400c02b3c9a736a5ac0d3",
+    "level": "scripture",
+    "scripture_id": "BHAG",
+    "scripture_name": "BHAG",
+    "title": "BHAG",
+    "canonical_ref": "BHAG",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: BHAG. Canonical units: 14161. Entities mentioned: 181.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Agneyastra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Rishabhadeva"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 112004,
+      "coverage": 100
+    },
+    "hash": "c620ee3aedd75c5977510530b21ab7652ddd2a95a479c29bb0db09c3b644de15"
+  },
+  {
+    "chunk_id": "d702eca43ce32ae9a5ecba87",
+    "level": "scripture",
+    "scripture_id": "BRAH",
+    "scripture_name": "BRAH",
+    "title": "BRAH",
+    "canonical_ref": "BRAH",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: BRAH. Canonical units: 28716. Entities mentioned: 227.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Fish"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Agneyastra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Nandi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Tadaka"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Tapa"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Boar"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 21857,
+      "coverage": 100
+    },
+    "hash": "160e35c07d8bf40fc757402dddc8f491663642c7b7f3c1334c76f0070e06d2d7"
+  },
+  {
+    "chunk_id": "912c0511ecf01fcfaa6c16a0",
+    "level": "scripture",
+    "scripture_id": "BRAHMD",
+    "scripture_name": "BRAHMD",
+    "title": "BRAHMD",
+    "canonical_ref": "BRAHMD",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: BRAHMD. Canonical units: 0. Entities mentioned: 36.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Saunaka"
+      },
+      {
+        "guid": null,
+        "name": "Kartikeya"
+      },
+      {
+        "guid": null,
+        "name": "Vasudeva"
+      },
+      {
+        "guid": null,
+        "name": "Ananta"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Rudra"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Kashyapa"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Bhishma"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Sanjaya"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Angirasa"
+      },
+      {
+        "guid": null,
+        "name": "Bali"
+      },
+      {
+        "guid": null,
+        "name": "Manu"
+      },
+      {
+        "guid": null,
+        "name": "Yamuna"
+      },
+      {
+        "guid": null,
+        "name": "Vasuki"
+      },
+      {
+        "guid": null,
+        "name": "Lanka"
+      },
+      {
+        "guid": null,
+        "name": "Bhrigu"
+      },
+      {
+        "guid": null,
+        "name": "Ayodhya"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Devaki"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Patala"
+      },
+      {
+        "guid": null,
+        "name": "Garuda"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Prayaga"
+      },
+      {
+        "guid": null,
+        "name": "Narada"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 24663,
+      "coverage": 100
+    },
+    "hash": "c8e233bb28c6d0a77e17ef32b181f37a17bc88d6cca772016745553ef56852b7"
+  },
+  {
+    "chunk_id": "a572fe5c9eb3eb5c245005f5",
+    "level": "scripture",
+    "scripture_id": "BRIHAD",
+    "scripture_name": "BRIHAD",
+    "title": "BRIHAD",
+    "canonical_ref": "BRIHAD",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: BRIHAD. Canonical units: 0. Entities mentioned: 70.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Satya"
+      },
+      {
+        "guid": null,
+        "name": "Rama"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Moksha"
+      },
+      {
+        "guid": null,
+        "name": "Hamsa"
+      },
+      {
+        "guid": null,
+        "name": "Tapas"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Ahalya"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Suparna"
+      },
+      {
+        "guid": null,
+        "name": "Mesh"
+      },
+      {
+        "guid": null,
+        "name": "Kapala"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Yudhishthira"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Vamana_Dev"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Svarloka"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Bhishma"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Yadu"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 28997,
+      "coverage": 100
+    },
+    "hash": "13f98903fb6ddde48fb7b01e08003767133f1b08284b838303a53baf71a285cb"
+  },
+  {
+    "chunk_id": "56fb4b1ee608aed6674dc751",
+    "level": "scripture",
+    "scripture_id": "CHAND",
+    "scripture_name": "CHAND",
+    "title": "CHAND",
+    "canonical_ref": "CHAND",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: CHAND. Canonical units: 0. Entities mentioned: 99.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Kurukshetra"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Svarloka"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 14278,
+      "coverage": 100
+    },
+    "hash": "01b491464a63b88a681746fc5bc372366d785c84ca6b185d51af650f2f37e8cf"
+  },
+  {
+    "chunk_id": "7800ea4b2febfb6c9cc30ce9",
+    "level": "scripture",
+    "scripture_id": "DEVI",
+    "scripture_name": "DEVI",
+    "title": "DEVI",
+    "canonical_ref": "DEVI",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: DEVI. Canonical units: 50. Entities mentioned: 182.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Agneyastra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 105453,
+      "coverage": 100
+    },
+    "hash": "9a1686563dc440388e3944f485f85d4fe34fe7a65f081f244296314b264a80b0"
+  },
+  {
+    "chunk_id": "17af2dd0af37dc6b954e8a70",
+    "level": "scripture",
+    "scripture_id": "GARUDA",
+    "scripture_name": "GARUDA",
+    "title": "GARUDA",
+    "canonical_ref": "GARUDA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: GARUDA. Canonical units: 483. Entities mentioned: 180.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Rishabhadeva"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Kamakhya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 32563,
+      "coverage": 100
+    },
+    "hash": "bbb3e084783c127fc0c933e5ab3d20d445e069d3681bb21deedf0444beebb630"
+  },
+  {
+    "chunk_id": "7fc4e265a237c5ee0b286027",
+    "level": "scripture",
+    "scripture_id": "GAUTAMA_DS",
+    "scripture_name": "GAUTAMA_DS",
+    "title": "GAUTAMA_DS",
+    "canonical_ref": "GAUTAMA_DS",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: GAUTAMA_DS. Canonical units: 0. Entities mentioned: 3.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Manu"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 1766,
+      "coverage": 100
+    },
+    "hash": "f5288d0cf83a3d36969d91e381cf08e4fb6c6edcb1347d103516cb3c38b14c56"
+  },
+  {
+    "chunk_id": "12f17433d722e54b87d11327",
+    "level": "scripture",
+    "scripture_id": "HV",
+    "scripture_name": "HV",
+    "title": "HV",
+    "canonical_ref": "HV",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: HV. Canonical units: 9246. Entities mentioned: 151.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Tadaka"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Krauncha"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Sugriva"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 63777,
+      "coverage": 100
+    },
+    "hash": "cb28af93526d04514539bcb24f346bdaef43c142ebfb50c24ea2dce9387abe58"
+  },
+  {
+    "chunk_id": "0865e1dc4224a764bb4aec8c",
+    "level": "scripture",
+    "scripture_id": "ISHA",
+    "scripture_name": "ISHA",
+    "title": "ISHA",
+    "canonical_ref": "ISHA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: ISHA. Canonical units: 699. Entities mentioned: 1.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Puri"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 469,
+      "coverage": 100
+    },
+    "hash": "bc386f3f98dc71f0ed6dae083fa6db64162fa9adfb9e16b1ad3d38f40114b6a8"
+  },
+  {
+    "chunk_id": "81e71bc2c0f791d09253a2e0",
+    "level": "scripture",
+    "scripture_id": "KALI",
+    "scripture_name": "KALI",
+    "title": "KALI",
+    "canonical_ref": "KALI",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: KALI. Canonical units: 6. Entities mentioned: 126.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Kamakhya"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Dvaraka"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Parashurama"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 1384,
+      "coverage": 15.4
+    },
+    "hash": "dd7617eb139a2e7e7638b1073c37c07908cd6f90901f00246c6bea081a91eeb5"
+  },
+  {
+    "chunk_id": "271ca60f5a1bacf17e11fabf",
+    "level": "scripture",
+    "scripture_id": "KATH",
+    "scripture_name": "KATH",
+    "title": "KATH",
+    "canonical_ref": "KATH",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: KATH. Canonical units: 0. Entities mentioned: 22.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Vajasravasa"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Tapas"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Svarga"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Prana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Karma"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Nachiketas"
+      },
+      {
+        "guid": null,
+        "name": "Samsara"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 369,
+      "coverage": 100
+    },
+    "hash": "830faff290cec4e2d922f1b99849bdb37942f5828dc2e33f23812858dd7b8029"
+  },
+  {
+    "chunk_id": "084f718f01fc51fe07c533a1",
+    "level": "scripture",
+    "scripture_id": "KAUS",
+    "scripture_name": "KAUS",
+    "title": "KAUS",
+    "canonical_ref": "KAUS",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: KAUS. Canonical units: 0. Entities mentioned: 65.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Satya"
+      },
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Rama"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Moksha"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Mesh"
+      },
+      {
+        "guid": null,
+        "name": "Kapala"
+      },
+      {
+        "guid": null,
+        "name": "Yudhishthira"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Vamana_Dev"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Samsara"
+      },
+      {
+        "guid": null,
+        "name": "Yadu"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Nyaya"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      },
+      {
+        "guid": null,
+        "name": "Bharata"
+      },
+      {
+        "guid": null,
+        "name": "Nashik"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Vyasa"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 4936,
+      "coverage": 100
+    },
+    "hash": "fe3d903f37c2b8249a94f3354978537b7641126d3819c114aa437dd004458dac"
+  },
+  {
+    "chunk_id": "13b74379286da628433b215b",
+    "level": "scripture",
+    "scripture_id": "KEN",
+    "scripture_name": "KEN",
+    "title": "KEN",
+    "canonical_ref": "KEN",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: KEN. Canonical units: 0. Entities mentioned: 0.",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 894,
+      "coverage": 100
+    },
+    "hash": "5dfc87b0c941457326ce9b1184f3381bfe45187c0aae55bdf93ebebb2a933b3d"
+  },
+  {
+    "chunk_id": "ce76a93cea8ffbdf231a1b03",
+    "level": "scripture",
+    "scripture_id": "KURM",
+    "scripture_name": "KURM",
+    "title": "KURM",
+    "canonical_ref": "KURM",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: KURM. Canonical units: 111. Entities mentioned: 181.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Agneyastra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Tadaka"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Shambuka"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 30355,
+      "coverage": 100
+    },
+    "hash": "0a6ef628d5ad3fa90ef03f85aae62bfb6b78bbacbf697ecb68486fc1201e789e"
+  },
+  {
+    "chunk_id": "04cfd8e96570f5cdb541610e",
+    "level": "scripture",
+    "scripture_id": "LING",
+    "scripture_name": "LING",
+    "title": "LING",
+    "canonical_ref": "LING",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: LING. Canonical units: 0. Entities mentioned: 173.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Shambuka"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Krauncha"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 50143,
+      "coverage": 100
+    },
+    "hash": "946f4a2dd86801fee58f60e19264f41613541691c7082e565e7233f29f8f55ed"
+  },
+  {
+    "chunk_id": "f6940d765e7fcfa1dd43f8e3",
+    "level": "scripture",
+    "scripture_id": "MAHAN",
+    "scripture_name": "MAHAN",
+    "title": "MAHAN",
+    "canonical_ref": "MAHAN",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MAHAN. Canonical units: 0. Entities mentioned: 0.",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 4755,
+      "coverage": 100
+    },
+    "hash": "ce3b96f53832644ecc317663d8f595127846594f52b4343c4e76544d1708fe0d"
+  },
+  {
+    "chunk_id": "6ebd204a753ad68933e9a80b",
+    "level": "scripture",
+    "scripture_id": "MAITR",
+    "scripture_name": "MAITR",
+    "title": "MAITR",
+    "canonical_ref": "MAITR",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MAITR. Canonical units: 250. Entities mentioned: 2.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Sword"
+      },
+      {
+        "guid": null,
+        "name": "Nandi"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 1563,
+      "coverage": 100
+    },
+    "hash": "3e351f83e2ed2f6a23de3d126102e035271a6e7559cb03e8fde6d180c8490395"
+  },
+  {
+    "chunk_id": "b9470d2be21bb58322bab08c",
+    "level": "scripture",
+    "scripture_id": "MAND",
+    "scripture_name": "MAND",
+    "title": "MAND",
+    "canonical_ref": "MAND",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MAND. Canonical units: 181. Entities mentioned: 46.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Rama"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Moksha"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Mesh"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Vamana_Dev"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Yadu"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Narada"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Vibhishana"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Chakra"
+      },
+      {
+        "guid": null,
+        "name": "Karma"
+      },
+      {
+        "guid": null,
+        "name": "Bali_Asura"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Shiva"
+      },
+      {
+        "guid": null,
+        "name": "Dana"
+      },
+      {
+        "guid": null,
+        "name": "Garuda"
+      },
+      {
+        "guid": null,
+        "name": "Shuka"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 8424,
+      "coverage": 100
+    },
+    "hash": "9d1088b48139acbf48c46b888129a5fd58eb8cca778f0497e159cb329ee9a9ff"
+  },
+  {
+    "chunk_id": "e4f5eecccde3532a9f780672",
+    "level": "scripture",
+    "scripture_id": "MANU",
+    "scripture_name": "MANU",
+    "title": "MANU",
+    "canonical_ref": "MANU",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MANU. Canonical units: 2015. Entities mentioned: 23.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Tapas"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Kurma Avatar"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Cow"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Soma"
+      },
+      {
+        "guid": null,
+        "name": "Manu"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Karma"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 50168,
+      "coverage": 100
+    },
+    "hash": "96305f67352e6180f0779937274e01c962bb2ca423dadca50111c6d91b44678e"
+  },
+  {
+    "chunk_id": "b5a0a2e1700342bde38967c2",
+    "level": "scripture",
+    "scripture_id": "MARK",
+    "scripture_name": "MARK",
+    "title": "MARK",
+    "canonical_ref": "MARK",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MARK. Canonical units: 714. Entities mentioned: 126.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Duryodhana"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Dvaraka"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Mathura"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Kurukshetra"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 13239,
+      "coverage": 100
+    },
+    "hash": "1217175192df87f213b1b1e518b141e51be7ebf9eba9df557cdfec1ca91d85a4"
+  },
+  {
+    "chunk_id": "c3442775630b92e4cfe86daf",
+    "level": "scripture",
+    "scripture_id": "MATS",
+    "scripture_name": "MATS",
+    "title": "MATS",
+    "canonical_ref": "MATS",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MATS. Canonical units: 0. Entities mentioned: 185.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Agneyastra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 68270,
+      "coverage": 100
+    },
+    "hash": "495e9b5a1567b449a544ff87c5e0b0f71a4ea419c4391461ffed2c9c23fdb18e"
+  },
+  {
+    "chunk_id": "4e4ac8985a15b1b03a9322eb",
+    "level": "scripture",
+    "scripture_id": "MBH",
+    "scripture_name": "MBH",
+    "title": "MBH",
+    "canonical_ref": "MBH",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MBH. Canonical units: 48. Entities mentioned: 142.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Sugriva"
+      },
+      {
+        "guid": null,
+        "name": "Duryodhana"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Kunta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Dvaraka"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 60465,
+      "coverage": 69.0
+    },
+    "hash": "fd0a9da4155bbb122ce30ac1b17f8f504bfad4403dab6b3dc25fbd225a94cc17"
+  },
+  {
+    "chunk_id": "7cdb1c85874d2cd383fa36f7",
+    "level": "scripture",
+    "scripture_id": "MUND",
+    "scripture_name": "MUND",
+    "title": "MUND",
+    "canonical_ref": "MUND",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: MUND. Canonical units: 0. Entities mentioned: 0.",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 740,
+      "coverage": 100
+    },
+    "hash": "aaf34465568018887e5a8d375c9cbc44d3fd2679832bc8f2bf4261a627fcf2f5"
+  },
+  {
+    "chunk_id": "28faa2868fbea93aa1570be2",
+    "level": "scripture",
+    "scripture_id": "NARADA",
+    "scripture_name": "NARADA",
+    "title": "NARADA",
+    "canonical_ref": "NARADA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: NARADA. Canonical units: 258. Entities mentioned: 180.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Agneyastra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Kamakhya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 41587,
+      "coverage": 100
+    },
+    "hash": "c6812324b36f38642fa2774e2b031b009c054242c49a402dee08de75de45c036"
+  },
+  {
+    "chunk_id": "a01404ab5c76dddccc1f418d",
+    "level": "scripture",
+    "scripture_id": "NARADA_SM",
+    "scripture_name": "NARADA_SM",
+    "title": "NARADA_SM",
+    "canonical_ref": "NARADA_SM",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: NARADA_SM. Canonical units: 1. Entities mentioned: 4.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Bali"
+      },
+      {
+        "guid": null,
+        "name": "Manu"
+      },
+      {
+        "guid": null,
+        "name": "Cow"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 15548,
+      "coverage": 100
+    },
+    "hash": "49232f0a9d7bd2ce6680fbb76a443e511241c68052a89ce01eac1c042d22f970"
+  },
+  {
+    "chunk_id": "995f531cc4c1c04ba0a9c14e",
+    "level": "scripture",
+    "scripture_id": "NYAYA_SUTRA",
+    "scripture_name": "NYAYA_SUTRA",
+    "title": "NYAYA_SUTRA",
+    "canonical_ref": "NYAYA_SUTRA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: NYAYA_SUTRA. Canonical units: 0. Entities mentioned: 18.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Dana"
+      },
+      {
+        "guid": null,
+        "name": "Shiva"
+      },
+      {
+        "guid": null,
+        "name": "Nyaya"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 1891,
+      "coverage": 100
+    },
+    "hash": "d6ab275bfdb0ebc638f72652fcc2ab85dd4362041ff63e7d67b25573686b10a0"
+  },
+  {
+    "chunk_id": "20a32aa819692d8b2ce6a791",
+    "level": "scripture",
+    "scripture_id": "PARASHARA",
+    "scripture_name": "PARASHARA",
+    "title": "PARASHARA",
+    "canonical_ref": "PARASHARA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: PARASHARA. Canonical units: 0. Entities mentioned: 0.",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 2572,
+      "coverage": 100
+    },
+    "hash": "8c04f01d433744c84cf6989a90a79b2dd68f01edc67d6283204b0aa38b4cefaf"
+  },
+  {
+    "chunk_id": "7ae397d18b17c4a3a8cee437",
+    "level": "scripture",
+    "scripture_id": "PRASHNA",
+    "scripture_name": "PRASHNA",
+    "title": "PRASHNA",
+    "canonical_ref": "PRASHNA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: PRASHNA. Canonical units: 0. Entities mentioned: 125.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Haridwar"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Parashurama"
+      },
+      {
+        "guid": null,
+        "name": "Mathura"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 16059,
+      "coverage": 100
+    },
+    "hash": "1a4c45d92a5780782cc692fcf38822488b7ed67a1a8540ccb7123ba9f3778155"
+  },
+  {
+    "chunk_id": "c3f351da85ebf5741d7efcd5",
+    "level": "scripture",
+    "scripture_id": "RM",
+    "scripture_name": "RM",
+    "title": "RM",
+    "canonical_ref": "RM",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: RM. Canonical units: 5651. Entities mentioned: 96.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Fish"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Japa"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Tapa"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Boar"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Elephant"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Aja"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Shesha"
+      },
+      {
+        "guid": null,
+        "name": "Budh"
+      },
+      {
+        "guid": null,
+        "name": "Ambarisha"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Narasimha Avatar"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Rabbit"
+      },
+      {
+        "guid": null,
+        "name": "Vashistha"
+      },
+      {
+        "guid": null,
+        "name": "Bhagiratha"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Vrata"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Donkey"
+      },
+      {
+        "guid": null,
+        "name": "Kusha"
+      },
+      {
+        "guid": null,
+        "name": "Nakula"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Pandu"
+      },
+      {
+        "guid": null,
+        "name": "Veda Vyasa"
+      },
+      {
+        "guid": null,
+        "name": "Bow"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 42043,
+      "coverage": 100
+    },
+    "hash": "b76695018eb91f08cd1f661f0994f2da4267a5a229e76c327dd4fb0c0f07aee6"
+  },
+  {
+    "chunk_id": "8d1368f1e5aad2a18f6e1aba",
+    "level": "scripture",
+    "scripture_id": "RV",
+    "scripture_name": "RV",
+    "title": "RV",
+    "canonical_ref": "RV",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: RV. Canonical units: 6062. Entities mentioned: 30.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Vajra"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Buddha"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Kuru"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Tapa"
+      },
+      {
+        "guid": null,
+        "name": "Sword"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Varaha Avatar"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Boar"
+      },
+      {
+        "guid": null,
+        "name": "Homa"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Chakra"
+      },
+      {
+        "guid": null,
+        "name": "Karma"
+      },
+      {
+        "guid": null,
+        "name": "Shiva"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Revati"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 32858,
+      "coverage": 100
+    },
+    "hash": "e4b44ef140ab6a0241f3e9164cb3c43242f46badb5621b85cba190156f058a6d"
+  },
+  {
+    "chunk_id": "5771ebc811b01a11d29de6dd",
+    "level": "scripture",
+    "scripture_id": "SHIV",
+    "scripture_name": "SHIV",
+    "title": "SHIV",
+    "canonical_ref": "SHIV",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: SHIV. Canonical units: 7003. Entities mentioned: 156.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Shambuka"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Kamakhya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Sugriva"
+      },
+      {
+        "guid": null,
+        "name": "Duryodhana"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 48331,
+      "coverage": 100
+    },
+    "hash": "7f345cbe069eaadd263a7cef956d38cc941b65cc7e4cf87bcb1a9ebb72ae0513"
+  },
+  {
+    "chunk_id": "ab6a75ad747923bc1c4876e9",
+    "level": "scripture",
+    "scripture_id": "SHVET",
+    "scripture_name": "SHVET",
+    "title": "SHVET",
+    "canonical_ref": "SHVET",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: SHVET. Canonical units: 1. Entities mentioned: 14.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Kartikeya"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Ananta"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Devaki"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Garuda"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Manu"
+      },
+      {
+        "guid": null,
+        "name": "Rudra"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 10184,
+      "coverage": 100
+    },
+    "hash": "20863be43195f83cbafec7a28756b1475a98a42f46ef7a03b09e92c07fd928c7"
+  },
+  {
+    "chunk_id": "5f13dcc5d1b29d3dc8e38433",
+    "level": "scripture",
+    "scripture_id": "SKAND",
+    "scripture_name": "SKAND",
+    "title": "SKAND",
+    "canonical_ref": "SKAND",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: SKAND. Canonical units: 728. Entities mentioned: 191.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Kausalya"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Kamakhya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 91984,
+      "coverage": 100
+    },
+    "hash": "da9c810679bc032a9aa4d62b05de868a81c132a5160e5452e56b775515785dec"
+  },
+  {
+    "chunk_id": "528176256e6b4ef4c826c4b9",
+    "level": "scripture",
+    "scripture_id": "SV",
+    "scripture_name": "SV",
+    "title": "SV",
+    "canonical_ref": "SV",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: SV. Canonical units: 472. Entities mentioned: 71.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Satya"
+      },
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Rama"
+      },
+      {
+        "guid": null,
+        "name": "Drona"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Vajra"
+      },
+      {
+        "guid": null,
+        "name": "Chyavana"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Vrsabha"
+      },
+      {
+        "guid": null,
+        "name": "Tapas"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Mesh"
+      },
+      {
+        "guid": null,
+        "name": "Kapala"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Vamana_Dev"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Samsara"
+      },
+      {
+        "guid": null,
+        "name": "Yadu"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Narada"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Nyaya"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 1833,
+      "coverage": 97.8
+    },
+    "hash": "f10ee97a989c80516c9820e699085fb2385883d1a9e0e40f108ddff0dddc233a"
+  },
+  {
+    "chunk_id": "a29e294c1ad19d136757cbf7",
+    "level": "scripture",
+    "scripture_id": "TAITT",
+    "scripture_name": "TAITT",
+    "title": "TAITT",
+    "canonical_ref": "TAITT",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: TAITT. Canonical units: 277. Entities mentioned: 87.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Japa"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Nandi"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Tapa"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Shesha"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Parashurama"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Tattva"
+      },
+      {
+        "guid": null,
+        "name": "Chakra"
+      },
+      {
+        "guid": null,
+        "name": "Bali_Asura"
+      },
+      {
+        "guid": null,
+        "name": "Vyaghra"
+      },
+      {
+        "guid": null,
+        "name": "Prayaga"
+      },
+      {
+        "guid": null,
+        "name": "Svarga"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 7339,
+      "coverage": 100
+    },
+    "hash": "6a7b487558354c5249bc995504617b437ce091232952db9d76fec9582f14269f"
+  },
+  {
+    "chunk_id": "9b2832132bca05e845bb2120",
+    "level": "scripture",
+    "scripture_id": "VAISHESHIKA_SUTRA",
+    "scripture_name": "VAISHESHIKA_SUTRA",
+    "title": "VAISHESHIKA_SUTRA",
+    "canonical_ref": "VAISHESHIKA_SUTRA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VAISHESHIKA_SUTRA. Canonical units: 0. Entities mentioned: 34.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Satya"
+      },
+      {
+        "guid": null,
+        "name": "Rama"
+      },
+      {
+        "guid": null,
+        "name": "Vaisheshika"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Moksha"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Atman"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Mesh"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Narada"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Nyaya"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      },
+      {
+        "guid": null,
+        "name": "Bharata"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Vyasa"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Avidya"
+      },
+      {
+        "guid": null,
+        "name": "Karma"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Shiva"
+      },
+      {
+        "guid": null,
+        "name": "Dana"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Prayaga"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 247,
+      "coverage": 66.8
+    },
+    "hash": "6c7542aef0ffe3f1c41e3381d02e93bf6a2d7a5e07045902aae16cfcac33881b"
+  },
+  {
+    "chunk_id": "1b7b8c7ec3b2cf25884d1962",
+    "level": "scripture",
+    "scripture_id": "VAMAN",
+    "scripture_name": "VAMAN",
+    "title": "VAMAN",
+    "canonical_ref": "VAMAN",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VAMAN. Canonical units: 194. Entities mentioned: 150.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Sugriva"
+      },
+      {
+        "guid": null,
+        "name": "Duryodhana"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 30513,
+      "coverage": 100
+    },
+    "hash": "7b370e414980d98415a31e5df2741b6e653828aa90f591b03bad5747afeb0b17"
+  },
+  {
+    "chunk_id": "471b3fb4b40177f53ef126b0",
+    "level": "scripture",
+    "scripture_id": "VARAH",
+    "scripture_name": "VARAH",
+    "title": "VARAH",
+    "canonical_ref": "VARAH",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VARAH. Canonical units: 0. Entities mentioned: 163.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Indrajit"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmana"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Krauncha"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Sugriva"
+      },
+      {
+        "guid": null,
+        "name": "Khatvanga"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 25898,
+      "coverage": 100
+    },
+    "hash": "6bbbb8f1e065695281661431a15259d2a982aee61021f1ab39c5dd85a36ada5d"
+  },
+  {
+    "chunk_id": "8acf2d20cc83544bbeac1436",
+    "level": "scripture",
+    "scripture_id": "VEDANTA_SUTRA",
+    "scripture_name": "VEDANTA_SUTRA",
+    "title": "VEDANTA_SUTRA",
+    "canonical_ref": "VEDANTA_SUTRA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VEDANTA_SUTRA. Canonical units: 0. Entities mentioned: 86.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Kunta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Svarloka"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Tattva"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Chakra"
+      },
+      {
+        "guid": null,
+        "name": "Bali_Asura"
+      },
+      {
+        "guid": null,
+        "name": "Vyaghra"
+      },
+      {
+        "guid": null,
+        "name": "Garuda"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 12721,
+      "coverage": 100
+    },
+    "hash": "810d6bf4edb5e436b8c20699b1e198bf11563f020c198f459cafcbc476243c8f"
+  },
+  {
+    "chunk_id": "5ea0ca1542d5627347c8c670",
+    "level": "scripture",
+    "scripture_id": "VISH",
+    "scripture_name": "VISH",
+    "title": "VISH",
+    "canonical_ref": "VISH",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VISH. Canonical units: 5487. Entities mentioned: 174.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Shrutakirti"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Hayagriva"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Trishula"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Rishabhadeva"
+      },
+      {
+        "guid": null,
+        "name": "Sudarshana"
+      },
+      {
+        "guid": null,
+        "name": "Brahmastra"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Sumitra"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Gandiva"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Kaushiki"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Indraprastha"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Solar Dynasty"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Krauncha"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 37243,
+      "coverage": 100
+    },
+    "hash": "c72775656c607c52333adbe7e7d53ea3607cde04a201fce60f75f31ef1a8a320"
+  },
+  {
+    "chunk_id": "e12464dbe2c902834aa968d3",
+    "level": "scripture",
+    "scripture_id": "VISHNU_SM",
+    "scripture_name": "VISHNU_SM",
+    "title": "VISHNU_SM",
+    "canonical_ref": "VISHNU_SM",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VISHNU_SM. Canonical units: 4748. Entities mentioned: 27.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Mace"
+      },
+      {
+        "guid": null,
+        "name": "Shesha"
+      },
+      {
+        "guid": null,
+        "name": "Ananta"
+      },
+      {
+        "guid": null,
+        "name": "Fish"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Narmada"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Swan"
+      },
+      {
+        "guid": null,
+        "name": "Svarloka"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Horse"
+      },
+      {
+        "guid": null,
+        "name": "Cow"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Bali"
+      },
+      {
+        "guid": null,
+        "name": "Yamuna"
+      },
+      {
+        "guid": null,
+        "name": "Rajas"
+      },
+      {
+        "guid": null,
+        "name": "Vaikuntha"
+      },
+      {
+        "guid": null,
+        "name": "Snake"
+      },
+      {
+        "guid": null,
+        "name": "Elephant"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Chakra"
+      },
+      {
+        "guid": null,
+        "name": "Monkey"
+      },
+      {
+        "guid": null,
+        "name": "Patala"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 10318,
+      "coverage": 100
+    },
+    "hash": "ccdeecb363d417b1f4817ff917f219abb4ce318511503302732cf517f850cb55"
+  },
+  {
+    "chunk_id": "d475ee42f03aac3d3939151d",
+    "level": "scripture",
+    "scripture_id": "VYASA_SM",
+    "scripture_name": "VYASA_SM",
+    "title": "VYASA_SM",
+    "canonical_ref": "VYASA_SM",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VYASA_SM. Canonical units: 0. Entities mentioned: 45.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Satya"
+      },
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Rama"
+      },
+      {
+        "guid": null,
+        "name": "Maya"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Naimisharanya"
+      },
+      {
+        "guid": null,
+        "name": "Tapas"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Vidya"
+      },
+      {
+        "guid": null,
+        "name": "Mesh"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Svarloka"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Mantra"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Yajna"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Gomata"
+      },
+      {
+        "guid": null,
+        "name": "Bharata"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Lanka"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Vyasa"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Homa"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Karma"
+      },
+      {
+        "guid": null,
+        "name": "Bali_Asura"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Shiva"
+      },
+      {
+        "guid": null,
+        "name": "Dana"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 211,
+      "coverage": 84.4
+    },
+    "hash": "ba20556b9a6b21c90f37f5ed199daf9f098f8e592da473c0a40a754656f8c453"
+  },
+  {
+    "chunk_id": "03cc90cbccc800b208a0d9b5",
+    "level": "scripture",
+    "scripture_id": "VYU",
+    "scripture_name": "VYU",
+    "title": "VYU",
+    "canonical_ref": "VYU",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: VYU. Canonical units: 0. Entities mentioned: 22.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Saunaka"
+      },
+      {
+        "guid": null,
+        "name": "Skanda"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Nandi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Narmada"
+      },
+      {
+        "guid": null,
+        "name": "Durga"
+      },
+      {
+        "guid": null,
+        "name": "Swan"
+      },
+      {
+        "guid": null,
+        "name": "Pippalada"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Yamuna"
+      },
+      {
+        "guid": null,
+        "name": "Snake"
+      },
+      {
+        "guid": null,
+        "name": "Kali"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Devaki"
+      },
+      {
+        "guid": null,
+        "name": "Monkey"
+      },
+      {
+        "guid": null,
+        "name": "Garuda"
+      },
+      {
+        "guid": null,
+        "name": "Narada"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 7609,
+      "coverage": 69.2
+    },
+    "hash": "7f38262eb9c19ad10d9749944e6b9208be3bd33a196fc298cddea411cab5d8e9"
+  },
+  {
+    "chunk_id": "36c70b38a27a91ef941fc6b1",
+    "level": "scripture",
+    "scripture_id": "YAJNAV",
+    "scripture_name": "YAJNAV",
+    "title": "YAJNAV",
+    "canonical_ref": "YAJNAV",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: YAJNAV. Canonical units: 0. Entities mentioned: 23.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Saunaka"
+      },
+      {
+        "guid": null,
+        "name": "Kartikeya"
+      },
+      {
+        "guid": null,
+        "name": "Ananta"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Rudra"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Parvati"
+      },
+      {
+        "guid": null,
+        "name": "Lakshmi"
+      },
+      {
+        "guid": null,
+        "name": "Kashyapa"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Yajnavalkya"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Bali"
+      },
+      {
+        "guid": null,
+        "name": "Manu"
+      },
+      {
+        "guid": null,
+        "name": "Lanka"
+      },
+      {
+        "guid": null,
+        "name": "Bhrigu"
+      },
+      {
+        "guid": null,
+        "name": "Ganga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Garuda"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Narada"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 16290,
+      "coverage": 100
+    },
+    "hash": "3fbf16a65da5eb4225d3fbee93a3e33832677ba0a88f4e81ce749b022aafaebb"
+  },
+  {
+    "chunk_id": "7ff7ba4119699eade31dd25d",
+    "level": "scripture",
+    "scripture_id": "YOGA_SUTRA",
+    "scripture_name": "YOGA_SUTRA",
+    "title": "YOGA_SUTRA",
+    "canonical_ref": "YOGA_SUTRA",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: YOGA_SUTRA. Canonical units: 268. Entities mentioned: 13.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Purusha"
+      },
+      {
+        "guid": null,
+        "name": "Pranayama"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Kurma Avatar"
+      },
+      {
+        "guid": null,
+        "name": "Yoga"
+      },
+      {
+        "guid": null,
+        "name": "Ahimsa"
+      },
+      {
+        "guid": null,
+        "name": "Karma"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Moksha"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 196,
+      "coverage": 100
+    },
+    "hash": "647d51bf1b7a461cb585474071379d80135d3d668e1ab5fa47e950e320224b5d"
+  },
+  {
+    "chunk_id": "2f0e644a88ecfa2b4aaeb9c7",
+    "level": "scripture",
+    "scripture_id": "YVK",
+    "scripture_name": "YVK",
+    "title": "YVK",
+    "canonical_ref": "YVK",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: YVK. Canonical units: 0. Entities mentioned: 97.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Mathura"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      },
+      {
+        "guid": null,
+        "name": "Puri"
+      },
+      {
+        "guid": null,
+        "name": "Suparna"
+      },
+      {
+        "guid": null,
+        "name": "Saraswati"
+      },
+      {
+        "guid": null,
+        "name": "Krishna"
+      },
+      {
+        "guid": null,
+        "name": "Pinaka"
+      },
+      {
+        "guid": null,
+        "name": "Vayu"
+      },
+      {
+        "guid": null,
+        "name": "Tattva"
+      },
+      {
+        "guid": null,
+        "name": "Chakra"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 22196,
+      "coverage": 100
+    },
+    "hash": "4e524adda3d6fc3788e744a13564d312791a5d36771c9e9616796709573009cb"
+  },
+  {
+    "chunk_id": "b9a65e920f703742fe58d1d3",
+    "level": "scripture",
+    "scripture_id": "YVS",
+    "scripture_name": "YVS",
+    "title": "YVS",
+    "canonical_ref": "YVS",
+    "chapter": null,
+    "verse_range": null,
+    "text": "Scripture: YVS. Canonical units: 0. Entities mentioned: 113.",
+    "entity_links": [
+      {
+        "guid": null,
+        "name": "Shakti"
+      },
+      {
+        "guid": null,
+        "name": "Meru"
+      },
+      {
+        "guid": null,
+        "name": "Arjuna"
+      },
+      {
+        "guid": null,
+        "name": "Varuna"
+      },
+      {
+        "guid": null,
+        "name": "Ravana"
+      },
+      {
+        "guid": null,
+        "name": "Kurma"
+      },
+      {
+        "guid": null,
+        "name": "Chandra"
+      },
+      {
+        "guid": null,
+        "name": "Sarpa"
+      },
+      {
+        "guid": null,
+        "name": "Kashi"
+      },
+      {
+        "guid": null,
+        "name": "Kailas"
+      },
+      {
+        "guid": null,
+        "name": "Gaja"
+      },
+      {
+        "guid": null,
+        "name": "Ashva"
+      },
+      {
+        "guid": null,
+        "name": "Vishvamitra"
+      },
+      {
+        "guid": null,
+        "name": "Pushkar"
+      },
+      {
+        "guid": null,
+        "name": "Vamana"
+      },
+      {
+        "guid": null,
+        "name": "Prakriti"
+      },
+      {
+        "guid": null,
+        "name": "Vishnu"
+      },
+      {
+        "guid": null,
+        "name": "Indra"
+      },
+      {
+        "guid": null,
+        "name": "Mimamsa"
+      },
+      {
+        "guid": null,
+        "name": "Brahman"
+      },
+      {
+        "guid": null,
+        "name": "Brahmaloka"
+      },
+      {
+        "guid": null,
+        "name": "Dhruva"
+      },
+      {
+        "guid": null,
+        "name": "Gautama"
+      },
+      {
+        "guid": null,
+        "name": "Simha"
+      },
+      {
+        "guid": null,
+        "name": "Agni"
+      },
+      {
+        "guid": null,
+        "name": "Chapa"
+      },
+      {
+        "guid": null,
+        "name": "Mayura"
+      },
+      {
+        "guid": null,
+        "name": "Shraddha"
+      },
+      {
+        "guid": null,
+        "name": "Kukkuta"
+      },
+      {
+        "guid": null,
+        "name": "Gunas"
+      },
+      {
+        "guid": null,
+        "name": "Subrahmanya"
+      },
+      {
+        "guid": null,
+        "name": "Kaurava"
+      },
+      {
+        "guid": null,
+        "name": "Naga"
+      },
+      {
+        "guid": null,
+        "name": "Ganesha"
+      },
+      {
+        "guid": null,
+        "name": "Surya"
+      },
+      {
+        "guid": null,
+        "name": "Madurai"
+      },
+      {
+        "guid": null,
+        "name": "Bhima"
+      },
+      {
+        "guid": null,
+        "name": "Dharma"
+      },
+      {
+        "guid": null,
+        "name": "Varaha"
+      },
+      {
+        "guid": null,
+        "name": "Vedanta"
+      },
+      {
+        "guid": null,
+        "name": "Dhyana"
+      },
+      {
+        "guid": null,
+        "name": "Diksha"
+      },
+      {
+        "guid": null,
+        "name": "Janaka"
+      },
+      {
+        "guid": null,
+        "name": "Bhakti"
+      },
+      {
+        "guid": null,
+        "name": "Yama"
+      },
+      {
+        "guid": null,
+        "name": "Upanishad"
+      },
+      {
+        "guid": null,
+        "name": "Jnana"
+      },
+      {
+        "guid": null,
+        "name": "Varna"
+      },
+      {
+        "guid": null,
+        "name": "Brahma"
+      },
+      {
+        "guid": null,
+        "name": "Karna"
+      }
+    ],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {
+      "total_verses": 52606,
+      "coverage": 100
+    },
+    "hash": "e097cf66a8eb26e6ac2d197181cc6874528938e0d271f6802e823fd823183438"
+  }
+]

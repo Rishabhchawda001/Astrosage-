@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "0ad98fa90eafc40cdc8548e8",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa constituted text with star passages",
+    "canonical_ref": "Harivaṃśa constituted text with star passages_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa constituted text with star passages_ch0_aku?",
+    "text": "||* śrīr astu *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa constituted text with star passages",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "feb4a4096c7f16839b9bb47934efccffd1f77a46f32095dbfc77548090fd7fc4"
+  },
+  {
+    "chunk_id": "0ad98fa90eafc40cdc8548e8",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa constituted text with star passages",
+    "canonical_ref": "Harivaṃśa constituted text with star passages_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa constituted text with star passages_ch0_aku?",
+    "text": "||* śrīvājivadanāya namaḥ *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa constituted text with star passages",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "01777b24ba8d2af2385c989708a119d4bb161f05534bc4856cd5898422389688"
+  },
+  {
+    "chunk_id": "0ad98fa90eafc40cdc8548e8",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa constituted text with star passages",
+    "canonical_ref": "Harivaṃśa constituted text with star passages_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa constituted text with star passages_ch0_aku?",
+    "text": "||* atha dvitīyaṃ viṣṇuparva samārabhyate *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa constituted text with star passages",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "f7b851729aca41852ec0ae15ffb988e05907044fabcd612ea6c05bd45879078d"
+  }
+]

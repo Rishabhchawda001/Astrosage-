@@ -1,0 +1,338 @@
+[
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "iti āṅgirasam |",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "69f81aa80286e7789c22352ac5ddbf0dc52b1a9e3e44bd21b4f45456fe2c883e"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasasmṛtau pūrvāṅgirasaṃ samāptam |",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "8134b8bfc42f33b7ae617a97ba9c747e777ec3fcef2181d9d4076d53b2bc8344"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityaṅgirasadharmaśāstre upoddhāto nāma prathamo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "634ca71888c0069b3ebb31bb015a62f597a21d5c550968b278232c96953eb060"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre pariṣadupasthānaṃ nāma dvitīyo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "16a71285e2eb746aa814fcb262c08eb67450add6efad6f183c6654be45a6ab71"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre prāyaścittavidhānaṃ nāma tṛtīyo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "191ad9a31d916ee05b884a5276797088362905bf07b5e6f94add815b34f6701f"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre pariṣallakṣaṇaṃ nāma caturtho 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "414775cfcd77cceb4fa448d71324095895ee2e3e2d7d62f24431ed7826395689"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre prāyaścittaniyantukathanaṃ nāma pañcamo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "2ecac372e2b0a25ffc6a623585a91adf9fcb6231101ba5625c42be98d2b0c5a8"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre prāyaścittācārakathanaṃ nāma ṣaṣṭho 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "1c6671894b31025a2035d76cf3a4b01e304e4e1ab522072414c14ea2e0aa8d39"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre pāpaparigaṇanaṃ nāma saptamo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "59da0941056a6fdff285477c96ed5e39e26bfcbbf5aecfdb87e1a52b07f6ae32"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre śūdrānnādiniṣedhakathanaṃ nāmāṣṭamo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "b71982f3bb08e4adb08ac74e8a0e9626c15aaac00d864a3f958726f5ae5c8121"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre abhakṣyabhakṣaṇaprāyaścittavidhirnāma navamo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "696d4dd0099dfefe1c80825ee699657405f58ebeb142bd33203d6deb77f41973"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre hiṃsāyāyaścittakathanaṃ nāma daśamo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "9b7f4a89218bdbf010c2c37852d2bd02cdf89f4d5b873933b10d2b4afa5cd242"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ityāṅgirasadharmaśāstre govadhaprāyaścittaṃ nāmaikādaśo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "edffaef2b3b902e8baf87201297e141939c6db66878da8114514eb6479941041"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ity āṅgirasadharmaśāstre kṛcchrādisvarūpakathanaṃ nāma dvādaśo 'dhyāyaḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "34446af333ba44cab9e700ac6d92309c08e067a0aa6e03867ae16bfb9033643e"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ity uttarāṅgirasam",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "53d29893c77bad8d940d90affe9e912bff2ae7bf225c620d7e82276747c9ed6c"
+  },
+  {
+    "chunk_id": "2535dd641848b7f887169742",
+    "level": "verse",
+    "scripture_id": "Āṅgirasasmṛti",
+    "canonical_ref": "Āṅgirasasmṛti_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Āṅgirasasmṛti_ch0_aku?",
+    "text": "ity āṅgirasasmṛtiḥ",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Āṅgirasasmṛti",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "27a09565daf8e16e69ad201e228194b52c6b01e2adae0a42393895d1306e13d4"
+  }
+]

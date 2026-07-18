@@ -1,0 +1,23 @@
+[
+  {
+    "chunk_id": "047d5d8d08dca016e77ddf4b",
+    "level": "verse",
+    "scripture_id": "Kramastotra",
+    "canonical_ref": "Kramastotra_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Kramastotra_ch0_aku?",
+    "text": "iti śrī abhinavaguptapādācāryakṛtaṃ kramastotraṃ sampūrṇam ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Kramastotra",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "48d96131445f203f2c9b6edc0fa9ac83b882eaa04b7ef24a4e9b0126a37ef3e5"
+  }
+]

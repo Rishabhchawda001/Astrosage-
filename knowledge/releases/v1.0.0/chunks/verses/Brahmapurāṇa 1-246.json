@@ -1,0 +1,338 @@
+[
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ viṣṇave namaḥ śiraḥ oṃ jvalanāya namaḥ śikhā | oṃ viṣṇave namaḥ kavacam oṃ viṣṇave namaḥ sphuraṇaṃ diśobandhāya | oṃ huṃphaḍastram oṃ śirasi śuklo vāsudeva iti | oṃ āṃ lalāṭe raktaḥ saṃkarṣaṇo garutmān vahnis teja āditya iti | oṃ āṃ grīvāyāṃ pītaḥ pradyumno vāyumegha iti | oṃ āṃ hṛdaye kṛṣṇo 'niruddhaḥ sarvaśaktisamanvita iti | evaṃ caturvyūham ātmānaṃ kṛtvā tataḥ karma samācaret ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "e36eb004bfcd34fd4a74042897da3504faf7f3c234e15f7b8b859072a01c26e0"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "āvāhanamantraḥ: mīnarūpo varāhaś ca narasiṃho 'tha vāmanaḥ | āyātu devo varado mama nārāyaṇo 'grataḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "fedc6a1db485f6759df84778fc2f68620938bd41758a5fdd9b6aa8bdd8004c4a"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "arghamantraḥ: oṃ trailokyapatīnāṃ pataye devadevāya hṛṣīkeśāya viṣṇave namaḥ | oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "5e01822bb6721e8951355140954ffb0fe67bf49f55e42fe0a0d7c314be20dadc"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  },
+  {
+    "chunk_id": "e38febd04f95568dd0513460",
+    "level": "verse",
+    "scripture_id": "Brahmapurāṇa 1-246",
+    "canonical_ref": "Brahmapurāṇa 1-246_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Brahmapurāṇa 1-246_ch0_aku?",
+    "text": "oṃ namo nārāyaṇāya namaḥ ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Brahmapurāṇa 1-246",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "dc018ee36f606c3f1932bdee1a6ada112cda2c51b937f84e03b9ab45006c5c68"
+  }
+]

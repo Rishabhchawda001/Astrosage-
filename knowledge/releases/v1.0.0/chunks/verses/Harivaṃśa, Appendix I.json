@@ -1,0 +1,380 @@
+[
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "(sthāneṣu nityaṃ pratimānayanti) ||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "bbb6d47069001ea42568124facec8626e074734e9687c4ed2c050530d8089e13"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "|| kecit tu saṃkhyākathanābhāvāt samatāniyamena daśasahasraślokasamāptiḥ pāraṇam *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "3f979a93ff934fd6e29f82fe09c0010410be437dc5a945fdb94bfcce160f8d47"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "|| kecit tu mahābhāratasya ekāvṛttir ekapāraṇam iti ca *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "b3706bf2455999fe03c3a3635ff6b58411dc0094fd30474df851dffa9f9befbd"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "(atha_prārthanā) /",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "406292f7bb4c962a2cd49d7703f1f69976a5697eb83bb2a69fcc6cdde6a726a0"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "(iti_prārthanā) /",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "c9ecbd2f10c3d83b4700948b361a2a517e028dfb50a9e2fe6391fde99730b5ed"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "(niyataṃ svargagāminau) |",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "deac9b24b66c2369f082a88cf6d781800b175e41693ff525b4bace7fe28161d2"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "(sa_yāti_paramaṃ_padam) |",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "1de0f0aae5d59600341a26e1a9d0a4ea6f016a4d844bae1abeae6ea93675c306"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "(kīrtayan_nāvasīdati) |",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "92bb289fe36cfe085aefb56825e201f555319b7df74e0b24ecd5f2a70aadc268"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* namo 'stu te devadeva ekaśṛṅga varāha vṛṣārciṣa vṛṣasindho vṛṣākape suravṛṣabha suranirmita anirmita bhadra kapila viṣvaksena dhruvadharma dharmarāja vaikuṇṭha śatāvarta anādimadhyanidhana dhanaṃjaya śuciśravaḥ agnija vṛṣṇija aja ajaya amṛteśa sanātana vidhātaḥ trikāma tridhāma trikakut kukudmin duṃdubhe mahānābha lokanābha padmanābha viriñce variṣṭha bahurūpa virūpa viśvarūpa akṣaya akṣara satyākṣara haṃsākṣara havyabhuja khaṇḍaparaśo śukra muñjakeśa haṃsa mahadakṣara hṛṣīkeśa sūkṣma paramasūkṣma turāṣāṭ viśvamūrte surāgraja nīla nistama viraja tamorajaḥsattvadhāma sarvalokapratiṣṭha śipiviṣṭa sutapaḥ tapogra agra agraja dharmanābha gabhastinābha dharmaneme satyadhāma satyākṣara gabhastineme vipāpman candraratha tvam eva samudravāsī aja ekapāt sahasraśīrṣa sahasrasaṃmita mahāśīrṣa sahasradṛk sahasrapāt adhomukha mahāmukha mahāpuruṣa puruṣottama sahasrabāho sahasramūrte sahasrāsya sahasrākṣa sahasrabhuja sahasrabhuva sahasraśas tvām āhur vedāḥ *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "9f5c6edf22e85c3d0b598ac12561ea2e244f0a0bf49f24ccc81825c8a710b5ad"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* viśvadeva viśvasaṃbhava sarveṣām eva devānāṃ saubhaga ādau gatiḥ viśvaṃ tvam āpyāyanaḥ viśvaṃ tvām āhuḥ puṣpahāsa paramavaradas tvam eva tvam eva vauṣaṭ *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "639ea100f67b0017f382a5957202d476a8c933d30572665332636dc0c6435eb2"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* oṃkāra vaṣaṭkāraṃ tvām ekam āhur agryaṃ makhabhāgaprāśinam *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "6d32c42829e0c1d11146934c746c5f7c6104c14aaa1c6339de065f4da74d8679"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* śatadhāra sahasradhāra bhūrda bhuvarda svarda bhūrbhuvaḥsvarda tvam eva bhūtaṃ bhuvanaṃ tvaṃ svadhā tvam eva brahmaśaya brahmamaya brahmādis tvam eva *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "6a53706942e5deae2fd47421d30eed3a69ff9c74aed961774009a4fd729dbe35"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* dyaur asi pṛthivy asi pūṣāsi mātariśvāsi dharmo 'si maghavāsi hotā potā netā hantā mantā homyahotā parātparas tvaṃ homyahotā tvam eva *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "93cf18bbdf0678c45a0e3bcc9192dc8e05c76a8717acb378e466a3df00dcce33"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* āpo 'si viśvavāk dhātrā parameṇa dhāmnā tvam eva digbhyaḥ sruk srugbhāṇḍa ijyo 'si īḍyo 'si tvaṣṭā tvam eva samiddhaḥ tvam eva gatir gatimatām asi mokṣo 'si yogo 'si guhyo 'si siddho 'si dhanyo 'si dhātāsi paramo 'si yajño 'si somo 'si yūpo 'si dakṣiṇāsi dīkṣāsi viśvam asi *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "d56e0eb7269dbf3b0b966a034447ed487297d01e00ccd5e625362ff56848d56d"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* sthaviṣṭha sthavira viśvaturāṣāṭ hiraṇyagarbha hiraṇyanābha hiraṇyanārāyaṇa nārāyaṇāntara nṛṇām ayana ādityavarṇa ādityatejaḥ mahāpuruṣa surottama ādideva padmanābha padmeśaya padmākṣa padmagarbha hiraṇyāgrakeśa śukla viśvadeva viśvatomukha viśvākṣa viśvasaṃbhava viśvabhuk tvam eva *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "3c3a6eb820a6c59aaa392490c6d9561d82b7b57a9b00bb7087b2d156160a0075"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "||* bhūrivikrama cakrakrama tribhuvanasuvikrama svavikrama svarvikrama babhruḥ suvibhuḥ prabhākaraḥ śaṃbhuḥ svayaṃbhūś ca bhūtādiḥ bhūtātman mahābhūta viśvabhuk tvam eva viśvagoptāsi viśvaṃbhara pavitram asi havirviśārada haviḥkarmā amṛtendhana surāsuraguro mahādideva nṛdeva ūrdhvakarman pūtātman amṛteśa divaspṛk viśvasthapate ghṛtācy asi anantakarman druhiṇavaṃśa svavaṃśa viśvapās tvaṃ tvam eva viśvaṃ bibharṣi varārthino nas trāyasveti *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "e7cbc04bd89e034d670ce63640e0801dab9ba02bd987ad0a713a7d8b51c5b87a"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "|| iti śrīmanmahābhārate śatasahasrasaṃhitāyāṃ vaiyyāsakyāṃ pārijāte sakalaharicarite khilasaṃjñaṃ samāptam *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "01ac8e9ec36e5300fa3ccbfe3f9954d106089739e5f41ba28192f234aaabaf2c"
+  },
+  {
+    "chunk_id": "7950ded334133566851f0c91",
+    "level": "verse",
+    "scripture_id": "Harivaṃśa, Appendix I",
+    "canonical_ref": "Harivaṃśa, Appendix I_ch0_aku?",
+    "chapter": 0,
+    "verse_range": "Harivaṃśa, Appendix I_ch0_aku?",
+    "text": "|| śrī prayāgamādhavārpaṇam astu *||",
+    "entity_links": [],
+    "relationship_links": [],
+    "dialogue_links": [],
+    "event_links": [],
+    "concept_links": [],
+    "provenance": {
+      "source": "knowledge/cuv/gretil_prose_clean/Harivaṃśa, Appendix I",
+      "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+      "knowledge_version": "1.0.0"
+    },
+    "metadata": {},
+    "hash": "b52718c42f6080e4938f5a000d366412de7147556aec2a9a0a6f1a09a5d02c21"
+  }
+]
