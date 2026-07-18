@@ -1,0 +1,206 @@
+{
+  "type": "geography_graph",
+  "edges": [
+    {
+      "GUID": "82766b8a-82a4-5b21-ab47-20b466e0217a",
+      "type": "RULER_OF",
+      "source_GUID": "16ba2662-ce07-5d43-a473-c76f315760b0",
+      "target_GUID": "4cf13b84-b13c-5498-ba25-010600b4cf89",
+      "source_ref": "Person:Ravana",
+      "target_ref": "Place:Lanka",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "a7088876-7d6a-515a-a07b-4413142993f8",
+      "type": "ABODE_OF",
+      "source_GUID": "42c61658-0ca0-5235-81c0-03f23126b067",
+      "target_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+      "source_ref": "Place:Vaikuntha",
+      "target_ref": "Deity:Vishnu",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "febce2ae-2131-5133-86be-2ebbe638382b",
+      "type": "ABODE_OF",
+      "source_GUID": "34d48199-90e4-591b-a713-c94337ff109e",
+      "target_GUID": "e8cff3ab-3cf2-525f-be9f-d2b44cb5fbf5",
+      "source_ref": "Place:Kailas",
+      "target_ref": "Deity:Shiva",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "1054408a-e0f0-5c3c-8a19-a28f9c651a5b",
+      "type": "BATTLEFIELD_OF",
+      "source_GUID": "b8c825d5-859c-5265-9305-0014af5262ce",
+      "target_GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
+      "source_ref": "Place:Kurukshetra",
+      "target_ref": "Person:Arjuna",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "90c66395-3938-5cc7-9548-313a33cbb2cd",
+      "type": "KINGDOM_OF",
+      "source_GUID": "4cf13b84-b13c-5498-ba25-010600b4cf89",
+      "target_GUID": "16ba2662-ce07-5d43-a473-c76f315760b0",
+      "source_ref": "Place:Lanka",
+      "target_ref": "Person:Ravana",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "82766b8a-82a4-5b21-ab47-20b466e0217a",
+      "type": "RULER_OF",
+      "source_GUID": "16ba2662-ce07-5d43-a473-c76f315760b0",
+      "target_GUID": "4cf13b84-b13c-5498-ba25-010600b4cf89",
+      "source_ref": "Person:Ravana",
+      "target_ref": "Place:Lanka",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "a7088876-7d6a-515a-a07b-4413142993f8",
+      "type": "ABODE_OF",
+      "source_GUID": "42c61658-0ca0-5235-81c0-03f23126b067",
+      "target_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+      "source_ref": "Place:Vaikuntha",
+      "target_ref": "Deity:Vishnu",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "febce2ae-2131-5133-86be-2ebbe638382b",
+      "type": "ABODE_OF",
+      "source_GUID": "34d48199-90e4-591b-a713-c94337ff109e",
+      "target_GUID": "e8cff3ab-3cf2-525f-be9f-d2b44cb5fbf5",
+      "source_ref": "Place:Kailas",
+      "target_ref": "Deity:Shiva",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "1054408a-e0f0-5c3c-8a19-a28f9c651a5b",
+      "type": "BATTLEFIELD_OF",
+      "source_GUID": "b8c825d5-859c-5265-9305-0014af5262ce",
+      "target_GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
+      "source_ref": "Place:Kurukshetra",
+      "target_ref": "Person:Arjuna",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "90c66395-3938-5cc7-9548-313a33cbb2cd",
+      "type": "KINGDOM_OF",
+      "source_GUID": "4cf13b84-b13c-5498-ba25-010600b4cf89",
+      "target_GUID": "16ba2662-ce07-5d43-a473-c76f315760b0",
+      "source_ref": "Place:Lanka",
+      "target_ref": "Person:Ravana",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "d5a9f093-aee6-5ea6-98c7-b31c55e6048c",
+      "type": "RULER_OF",
+      "source_GUID": "16ba2662-ce07-5d43-a473-c76f315760b0",
+      "target_GUID": "4cf13b84-b13c-5498-ba25-010600b4cf89",
+      "source_ref": "Person:Ravana",
+      "target_ref": "Place:Lanka",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "53110e18-86f0-5743-90c4-3a82bb576536",
+      "type": "ABODE_OF",
+      "source_GUID": "42c61658-0ca0-5235-81c0-03f23126b067",
+      "target_GUID": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+      "source_ref": "Place:Vaikuntha",
+      "target_ref": "Deity:Vishnu",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "c0a3a37a-1f52-51f6-84f3-3a8f2859c8b5",
+      "type": "ABODE_OF",
+      "source_GUID": "34d48199-90e4-591b-a713-c94337ff109e",
+      "target_GUID": "e8cff3ab-3cf2-525f-be9f-d2b44cb5fbf5",
+      "source_ref": "Place:Kailas",
+      "target_ref": "Deity:Shiva",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "b184f4c2-0976-53e8-97ad-e74ca5c72a9c",
+      "type": "BATTLEFIELD_OF",
+      "source_GUID": "b8c825d5-859c-5265-9305-0014af5262ce",
+      "target_GUID": "8bb32c8c-99df-567b-aed9-f753deddf065",
+      "source_ref": "Place:Kurukshetra",
+      "target_ref": "Person:Arjuna",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "280dec88-45b1-539c-b47e-a3b1de9c929e",
+      "type": "KINGDOM_OF",
+      "source_GUID": "4cf13b84-b13c-5498-ba25-010600b4cf89",
+      "target_GUID": "16ba2662-ce07-5d43-a473-c76f315760b0",
+      "source_ref": "Place:Lanka",
+      "target_ref": "Person:Ravana",
+      "evidence": "canonical_scripture",
+      "confidence": 95,
+      "phase": "v9"
+    },
+    {
+      "GUID": "a88f006c-34a2-5d4f-be1a-e704e9089f50",
+      "type": "KINGDOM_OF",
+      "source_GUID": "74065cbd-23a3-5198-a47d-97a918450241",
+      "target_GUID": "a1c9f91b-eacc-5ae1-98dd-cfb7837115eb",
+      "source_ref": "Panchala",
+      "target_ref": "Yudhishthira",
+      "evidence": "canonical_scripture",
+      "confidence": 90,
+      "phase": "v9"
+    },
+    {
+      "GUID": "0e832b9f-f989-5703-b965-3927a79ebc86",
+      "type": "ABODE_OF",
+      "source_GUID": "d281a87d-ef1e-543e-a6f2-3c03b45b1ec7",
+      "target_GUID": "ca95e9d2-39b1-5fd3-b26e-d006cffeb2ff",
+      "source_ref": "Svarloka",
+      "target_ref": "Indra",
+      "evidence": "canonical_scripture",
+      "confidence": 90,
+      "phase": "v9"
+    },
+    {
+      "GUID": "8d25546a-0b5a-5a30-bb07-a799d54e94a4",
+      "type": "ABODE_OF",
+      "source_GUID": "bf13f59b-6f45-5c96-b525-7a61c437eed4",
+      "target_GUID": "e36e80e7-7bbb-5b63-aa27-14cefba19e5b",
+      "source_ref": "Brahmaloka",
+      "target_ref": "Brahma",
+      "evidence": "canonical_scripture",
+      "confidence": 90,
+      "phase": "v9"
+    }
+  ],
+  "stats": {
+    "total": 18
+  }
+}

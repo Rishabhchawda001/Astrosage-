@@ -1,0 +1,463 @@
+{
+  "type": "event_graph",
+  "generated": "2026-07-17T15:24:24.647755",
+  "description": "Canonical events from Hindu scriptures",
+  "events": [
+    {
+      "name": "Mahabharata War",
+      "type": "battle",
+      "participants": [
+        "Arjuna",
+        "Bhima",
+        "Bhishma",
+        "Drona",
+        "Duryodhana",
+        "Karna",
+        "Krishna"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Bhagavad Gita Teaching",
+      "type": "teaching",
+      "participants": [
+        "Arjuna",
+        "Krishna"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Bhagavad Gita",
+      "aliases": [],
+      "confidence": 98,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Draupadi Vastraharana",
+      "type": "humiliation",
+      "participants": [
+        "Bhishma",
+        "Dhritarashtra",
+        "Draupadi",
+        "Duryodhana"
+      ],
+      "location": "Hastinapura",
+      "scripture": "Mahabharata",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Burning of Khandava Forest",
+      "type": "battle",
+      "participants": [
+        "Agni",
+        "Arjuna",
+        "Krishna"
+      ],
+      "location": "Khandava",
+      "scripture": "Mahabharata",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Guru Dakshina War",
+      "type": "battle",
+      "participants": [
+        "Arjuna",
+        "Drona",
+        "Duryodhana"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Chakravyuha",
+      "type": "battle",
+      "participants": [
+        "Abhimanyu",
+        "Arjuna",
+        "Drona"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Ghatotkacha Death",
+      "type": "death",
+      "participants": [
+        "Ghatotkacha",
+        "Karna"
+      ],
+      "location": "Kurukshetra",
+      "scripture": "Mahabharata",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Sita Swayamvara",
+      "type": "marriage",
+      "participants": [
+        "Janaka",
+        "Lakshmana",
+        "Rama",
+        "Sita"
+      ],
+      "location": "Mithila",
+      "scripture": "Ramayana",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Rama's Exile",
+      "type": "exile",
+      "participants": [
+        "Dasharatha",
+        "Lakshmana",
+        "Rama",
+        "Sita"
+      ],
+      "location": "Ayodhya → Dandakaranya",
+      "scripture": "Ramayana",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Sita Kidnapping",
+      "type": "abduction",
+      "participants": [
+        "Maricha",
+        "Ravana",
+        "Sita"
+      ],
+      "location": "Dandakaranya",
+      "scripture": "Ramayana",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Hanuman's Leap to Lanka",
+      "type": "journey",
+      "participants": [
+        "Hanuman",
+        "Ravana"
+      ],
+      "location": "Lanka",
+      "scripture": "Ramayana",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Burning of Lanka",
+      "type": "battle",
+      "participants": [
+        "Hanuman",
+        "Ravana"
+      ],
+      "location": "Lanka",
+      "scripture": "Ramayana",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Killing of Ravana",
+      "type": "battle",
+      "participants": [
+        "Hanuman",
+        "Indrajit",
+        "Kumbhakarna",
+        "Rama",
+        "Ravana"
+      ],
+      "location": "Lanka",
+      "scripture": "Ramayana",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Rama's Coronation",
+      "type": "coronation",
+      "participants": [
+        "Bharata",
+        "Lakshmana",
+        "Rama",
+        "Sita"
+      ],
+      "location": "Ayodhya",
+      "scripture": "Ramayana",
+      "aliases": [],
+      "confidence": 95,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Samudra Manthan",
+      "type": "yajna",
+      "participants": [
+        "Asuras",
+        "Devas",
+        "Lakshmi",
+        "Shiva",
+        "Vishnu"
+      ],
+      "location": "Kshirasagara",
+      "scripture": "Bhagavata Purana",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Daksha Yajna",
+      "type": "yajna",
+      "participants": [
+        "Daksha",
+        "Sati",
+        "Shiva",
+        "Virabhadra"
+      ],
+      "location": "Kailasa",
+      "scripture": "Shiva Purana",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Gajendra Moksha",
+      "type": "liberation",
+      "participants": [
+        "Gajendra",
+        "Vishnu"
+      ],
+      "location": "Bhuloka",
+      "scripture": "Bhagavata Purana",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Narasimha Avatar",
+      "type": "avatar",
+      "participants": [
+        "Hiranyakashipu",
+        "Narasimha",
+        "Prahlada"
+      ],
+      "location": "Bhuloka",
+      "scripture": "Bhagavata Purana",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Vamana Avatar",
+      "type": "avatar",
+      "participants": [
+        "Bali",
+        "Indra",
+        "Vamana"
+      ],
+      "location": "Bhuloka",
+      "scripture": "Vishnu Purana",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Varaha Avatar",
+      "type": "avatar",
+      "participants": [
+        "Hiranyaksha",
+        "Varaha"
+      ],
+      "location": "Cosmic",
+      "scripture": "Bhagavata Purana",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Krishna Lifting Govardhana",
+      "type": "miracle",
+      "participants": [
+        "Indra",
+        "Krishna"
+      ],
+      "location": "Gokul",
+      "scripture": "Bhagavata Purana",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Kaliya Mardana",
+      "type": "battle",
+      "participants": [
+        "Kaliya",
+        "Krishna"
+      ],
+      "location": "Yamuna",
+      "scripture": "Bhagavata Purana",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Nachiketa and Yama",
+      "type": "teaching",
+      "participants": [
+        "Nachiketa",
+        "Yama"
+      ],
+      "location": "Naraka",
+      "scripture": "Katha Upanishad",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Yajnavalkya at Janaka's Court",
+      "type": "teaching",
+      "participants": [
+        "Bhrigu",
+        "Janaka",
+        "Yajnavalkya"
+      ],
+      "location": "Mithila",
+      "scripture": "Brihadaranyaka Upanishad",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Uddalaka Teaches Shvetaketu",
+      "type": "teaching",
+      "participants": [
+        "Shvetaketu",
+        "Uddalaka"
+      ],
+      "location": "Kuru-Panchala",
+      "scripture": "Chandogya Upanishad",
+      "aliases": [],
+      "confidence": 90,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Six Students Question Pippalada",
+      "type": "teaching",
+      "participants": [
+        "Pippalada",
+        "Six Students"
+      ],
+      "location": "Unknown",
+      "scripture": "Prashna Upanishad",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Prahlada's Devotion",
+      "type": "devotion",
+      "participants": [
+        "Hiranyakashipu",
+        "Narasimha",
+        "Prahlada"
+      ],
+      "location": "Bhuloka",
+      "scripture": "Bhagavata Purana",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Bhagiratha's Penance",
+      "type": "meditation",
+      "participants": [
+        "Bhagiratha"
+      ],
+      "location": "Himalaya",
+      "scripture": "Various Puranas",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    },
+    {
+      "name": "Shiva Drinking Halahala",
+      "type": "cosmic",
+      "participants": [
+        "Parvati",
+        "Shiva"
+      ],
+      "location": "Kshirasagara",
+      "scripture": "Shiva Purana",
+      "aliases": [],
+      "confidence": 85,
+      "witnesses": 1,
+      "phase": "v9.7"
+    }
+  ],
+  "stats": {
+    "total": 29,
+    "by_type": {
+      "battle": 7,
+      "teaching": 5,
+      "humiliation": 1,
+      "death": 1,
+      "marriage": 1,
+      "exile": 1,
+      "abduction": 1,
+      "journey": 1,
+      "coronation": 1,
+      "yajna": 2,
+      "liberation": 1,
+      "avatar": 3,
+      "miracle": 1,
+      "devotion": 1,
+      "meditation": 1,
+      "cosmic": 1
+    },
+    "total_aliases": 0
+  }
+}

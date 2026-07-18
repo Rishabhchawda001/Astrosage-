@@ -1,0 +1,46 @@
+{
+  "generated": "2026-07-17T19:15:41.808880",
+  "phase": "9.9",
+  "total_scriptures": 54,
+  "recoverable_scriptures": 3,
+  "unrecoverable_scriptures": 4,
+  "recovery_results": {
+    "YOGA_SUTRA": {
+      "status": "recovered",
+      "entities": 22,
+      "edges": 22
+    },
+    "MANU": {
+      "status": "recovered",
+      "entities": 23,
+      "edges": 23
+    },
+    "KATH": {
+      "status": "recovered",
+      "entities": 23,
+      "edges": 23
+    }
+  },
+  "certification": {
+    "KEN": {
+      "status": "certified_unrecoverable",
+      "classification": "B",
+      "reason": "OCR quality prevents reliable extraction"
+    },
+    "MUND": {
+      "status": "certified_unrecoverable",
+      "classification": "B",
+      "reason": "OCR quality prevents reliable extraction"
+    },
+    "MAHAN": {
+      "status": "certified_unrecoverable",
+      "classification": "E",
+      "reason": "No authoritative corpus available"
+    },
+    "PARASHARA": {
+      "status": "certified_unrecoverable",
+      "classification": "E",
+      "reason": "No authoritative corpus available"
+    }
+  }
+}

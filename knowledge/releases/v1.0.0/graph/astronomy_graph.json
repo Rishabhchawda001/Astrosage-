@@ -1,0 +1,68 @@
+{
+  "type": "astronomy_graph",
+  "nodes": [
+    {
+      "name": "Ardra",
+      "GUID": "60fd5d4d-78ec-504b-82cb-0e84ac3e9b14",
+      "type": "Nakshatra",
+      "mentions": 3
+    },
+    {
+      "name": "Punarvasu",
+      "GUID": "5053a95a-e316-5f97-b91a-1b3f9e3af2f6",
+      "type": "Nakshatra",
+      "mentions": 3
+    },
+    {
+      "name": "Magha",
+      "GUID": "2665bb90-0a41-5720-84f5-3ceaa4002281",
+      "type": "Nakshatra",
+      "mentions": 251
+    },
+    {
+      "name": "Hasta",
+      "GUID": "beddfd15-d996-5b5c-bf15-c340d45b9e17",
+      "type": "Nakshatra",
+      "mentions": 49
+    },
+    {
+      "name": "Revati",
+      "GUID": "88fa8f74-aa14-551f-a3f0-22f16fbec54e",
+      "type": "Nakshatra",
+      "mentions": 5
+    },
+    {
+      "name": "Budha",
+      "GUID": "e9f65d08-c265-5195-b79f-890b616546d6",
+      "type": "Graha",
+      "mentions": 3
+    },
+    {
+      "name": "Ketu",
+      "GUID": "3b032486-c548-5d70-b0b7-1a42e57bfe9b",
+      "type": "Graha",
+      "mentions": 2
+    },
+    {
+      "name": "Ravi",
+      "GUID": "8e911605-7cf0-564d-b29b-2b7c1f1de311",
+      "type": "Graha",
+      "mentions": 7
+    },
+    {
+      "name": "Budh",
+      "GUID": "86cc9e28-10ee-52e3-af6a-5b4aff197112",
+      "type": "Graha",
+      "mentions": 2
+    },
+    {
+      "name": "Guru",
+      "GUID": "25dde5f8-f688-51bd-815b-5f88b6d97d20",
+      "type": "Graha",
+      "mentions": 138
+    }
+  ],
+  "stats": {
+    "nodes": 10
+  }
+}

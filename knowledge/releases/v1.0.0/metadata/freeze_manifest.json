@@ -1,0 +1,150 @@
+{
+  "version": "1.0.0",
+  "created": "2026-07-18T20:00:50.146197+00:00",
+  "git_commit": "646d3eb80bf9aa9a7602836f16de1dacdca01e96",
+  "generator": "Phase 10 Knowledge Freeze Pipeline",
+  "frozen_files": {
+    "graph/graph.json": {
+      "sha256": "0555889897b3545c55b4fa7b21871a8081c2d05b0382e5b85ddea3df71752cb9",
+      "size": 2218389,
+      "source": "knowledge/graph/graph.json"
+    },
+    "graph/graph_statistics.json": {
+      "sha256": "e2a8a33f4103b2c8d34d8ff4bccae6b5c4e626c0f8b8dc17fba0215d475af8c3",
+      "size": 2065,
+      "source": "knowledge/graph/graph_statistics.json"
+    },
+    "graph/nodes/entity_nodes.json": {
+      "sha256": "d5d8e7c26e1c566d5eee68ce435ed24e6160bd8311c1311ff59db76f78d690b9",
+      "size": 258716,
+      "source": "knowledge/graph/nodes/entity_nodes.json"
+    },
+    "graph/nodes/scripture_nodes.json": {
+      "sha256": "76b25aa2543a54bf2550735d4d40cb4513d62a509c24f510ae0e2650e816639b",
+      "size": 20537,
+      "source": "knowledge/graph/nodes/scripture_nodes.json"
+    },
+    "graph/edges/relationship_edges.json": {
+      "sha256": "3dfd87a26e4e30bfcc1cc25fc4207ec7c3f152baef3a1838edb1e44d3a7857ce",
+      "size": 1788275,
+      "source": "knowledge/graph/edges/relationship_edges.json"
+    },
+    "graph/schemas/graph_schema.json": {
+      "sha256": "61ef9d51034372d0abef79da661f63f30cd6bb5c88fbe6be3db04d3c5577cf84",
+      "size": 3385,
+      "source": "knowledge/graph/schemas/graph_schema.json"
+    },
+    "graph/indexes/entity_index.json": {
+      "sha256": "110b7fed9ccc5a750a6aa29731b94e20343954478e6870691ff80862be808e67",
+      "size": 43915,
+      "source": "knowledge/graph/indexes/entity_index.json"
+    },
+    "graph/dialogue_graph.json": {
+      "sha256": "a38ef243270feceaccc60eb0d7408da0c0301f0045d893b18400b66cb35b4857",
+      "size": 78598,
+      "source": "knowledge/graph/dialogue_graph.json"
+    },
+    "graph/event_graph.json": {
+      "sha256": "4133d78cfe2a1322c144a5ac450c2fd89bb421a933c3354660130a91e7347ddf",
+      "size": 9804,
+      "source": "knowledge/graph/event_graph.json"
+    },
+    "graph/genealogy_graph.json": {
+      "sha256": "20c7306f8567476979f03697c082883801ab969b803fc1cb2e49fa19a5b6b1bb",
+      "size": 31944,
+      "source": "knowledge/graph/genealogy_graph.json"
+    },
+    "graph/concept_graph.json": {
+      "sha256": "c48f20942a887ea2cc1b4cccec615f0327b1b6599f39f92c759d6fe842f5f30a",
+      "size": 30425,
+      "source": "knowledge/graph/concept_graph.json"
+    },
+    "graph/ritual_graph.json": {
+      "sha256": "c1b57aa687c56e0f4184f35f28e8975c8a6c49a84953bcb706f6cbc2d1c35d05",
+      "size": 12307,
+      "source": "knowledge/graph/ritual_graph.json"
+    },
+    "graph/astronomy_graph.json": {
+      "sha256": "0cd9ee05a8dbdb50a95fcb95a408d39d271af8071787e089bd99c817c747eb94",
+      "size": 1438,
+      "source": "knowledge/graph/astronomy_graph.json"
+    },
+    "graph/geography_graph.json": {
+      "sha256": "be4d569551cfc6e5bf072985ec8cd17f5bb880992f157553befb6071d9e20d85",
+      "size": 6805,
+      "source": "knowledge/graph/geography_graph.json"
+    },
+    "graph/cross_scripture_alignment.json": {
+      "sha256": "0a2af2c99bd15b9520511638bde57cddb58243e7bf937b84d51bc5568b8842c3",
+      "size": 29499,
+      "source": "knowledge/graph/cross_scripture_alignment.json"
+    },
+    "graph/association_graph.json": {
+      "sha256": "56a1d059a9cbfb6996f3b67df6101ff5caaac0d0397e317b5697fbb010f746f5",
+      "size": 14748,
+      "source": "knowledge/graph/association_graph.json"
+    },
+    "graph/cuid_index.json": {
+      "sha256": "efd901506d3f88109c1a315a00e88aacf46295298948e5a0ee3f4f0cc902885f",
+      "size": 20797,
+      "source": "knowledge/graph/cuid_index.json"
+    },
+    "graph/graph_validation.json": {
+      "sha256": "256d1b08888ecc09b7a840a7ac43cd2ad47eaebdd71389743dbc863cd1f27e91",
+      "size": 303,
+      "source": "knowledge/graph/graph_validation.json"
+    },
+    "graph/final_certification_report.md": {
+      "sha256": "d9063ab0b5106c99ad0514b3f996cb6b25ca9e0c5d26e94c0d16d404cba28026",
+      "size": 1622,
+      "source": "knowledge/graph/final_certification_report.md"
+    },
+    "graph/certification_report.md": {
+      "sha256": "85fc2afa121eb3362f79b7ec605c1b68f35ba9f5d0f83114cf97cc380cae2289",
+      "size": 1616,
+      "source": "knowledge/graph/certification_report.md"
+    },
+    "graph/coverage_verification.json": {
+      "sha256": "76cb495cbfa179254ca02ec2ba2a02a6a1140aa910260037613bc8cf7d48bd50",
+      "size": 14612,
+      "source": "knowledge/graph/coverage_verification.json"
+    },
+    "graph/corpus_completion_report.json": {
+      "sha256": "f1174b59dc1828c5efcbe150c63ad39cf105bd9b289b066f48122c6a69b9a4df",
+      "size": 1083,
+      "source": "knowledge/graph/corpus_completion_report.json"
+    },
+    "graph/remaining_limitations.json": {
+      "sha256": "6ff32f3f026873a2b67bfd09414f34ca0852774054aa1b4f7e81ec6cdf90df80",
+      "size": 1042,
+      "source": "knowledge/graph/remaining_limitations.json"
+    },
+    "graph/knowledge_freeze_readiness.md": {
+      "sha256": "8cb478876bee1cbf662ea1f9d3f3165995cf03faf5ada27c9850552bcc780348",
+      "size": 1054,
+      "source": "knowledge/graph/knowledge_freeze_readiness.md"
+    },
+    "graph/reproducibility_report_v2.json": {
+      "sha256": "813575ccae6d73fbc7c2f7e79df24b7a5d82e80a505cf99787f2a550241ccc41",
+      "size": 5789,
+      "source": "knowledge/graph/reproducibility_report_v2.json"
+    },
+    "graph/validation/devanagari_entity_mentions.json": {
+      "sha256": "9cbf90ab7fbe3a3346596223aa7cb35ad7f165187bdf4ab820334884c5566d37",
+      "size": 1758,
+      "source": "knowledge/graph/validation/devanagari_entity_mentions.json"
+    },
+    "graph/validation/entity_mentions.json": {
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "size": 2,
+      "source": "knowledge/graph/validation/entity_mentions.json"
+    },
+    "graph/validation/graph_validation.json": {
+      "sha256": "1d0eb0c8042ea13b5d41842eeff5c399f81d30fa323ea625df4f2ec3f6f30189",
+      "size": 1885,
+      "source": "knowledge/graph/validation/graph_validation.json"
+    }
+  },
+  "total_frozen_files": 28,
+  "total_frozen_size": 4602413
+}
