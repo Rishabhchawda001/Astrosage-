@@ -46,13 +46,20 @@ class HallucinationEvaluator:
         question: EvalQuestion,
         answer_result: dict,
     ) -> HallucinationResult:
-        """Score a single adversarial query result."""
-        confidence_str = answer_result.get("confidence", "low")
-        confidence_num = CONFIDENCE_MAP.get(confidence_str, 0.5)
+        """Score a single adversarial query result.
+        Handles both nested (AnswerService) and flat (mock) formats."""
+        if "answer" in answer_result and isinstance(answer_result["answer"], dict):
+            answer = answer_result["answer"]
+            confidence_str = answer.get("confidence", "low")
+            evidence_count = len(answer_result.get("sources", []))
+            entities_found = len(answer_result.get("entities", []))
+        else:
+            confidence_str = answer_result.get("confidence", "low")
+            evidence_count = len(answer_result.get("evidence", {}).get("sources", []))
+            entities_found = len(answer_result.get("entities", []))
 
-        evidence_count = len(answer_result.get("evidence", {}).get("sources", []))
+        confidence_num = CONFIDENCE_MAP.get(confidence_str, 0.5)
         top_match = answer_result.get("top_match_score", 0.0)
-        entities_found = len(answer_result.get("entities", []))
 
         # Adversarial queries should produce LOW confidence
         correctly_low = confidence_num <= self.threshold

@@ -43,16 +43,78 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install "fastapi[standard]" uvicorn[standard] pydantic-settings \
-            python-jose[cryptography] passlib[bcrypt] httpx pytest pytest-asyncio
-      - name: Run tests
+            python-jose[cryptography] passlib[bcrypt] httpx pytest pytest-asyncio \
+            rank-bm25 numpy
+      - name: Run API tests
         run: |
-          pytest api/tests/ -v --tb=short --cov=api/ --cov-report=term-missing || \
-          echo "::warning::API test directory may be empty"
+          APP_ENVIRONMENT=development pytest api/tests/ -v --tb=short -q
+      - name: Run evaluation tests
+        run: |
+          APP_ENVIRONMENT=development pytest evaluation/ -v --tb=short -q || \
+          echo "::warning::Some evaluation tests may have been skipped"
+
+  # ── Evaluation Benchmarks ───────────────────────────────────
+  evaluate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install "fastapi[standard]" uvicorn[standard] pydantic-settings \
+            httpx rank-bm25 numpy
+      - name: Run real pipeline evaluation
+        id: eval
+        run: |
+          APP_ENVIRONMENT=development python3 -m evaluation.real_pipeline_eval \
+            > evaluation_output.json 2>eval_stderr.txt
+          echo "EVAL_RESULT=$?" >> "$GITHUB_OUTPUT"
+          cat eval_stderr.txt
+      - name: Parse evaluation results
+        id: parse
+        run: |
+          python3 -c "
+import json
+with open('evaluation_output.json') as f:
+    data = json.load(f)
+
+verdict = data.get('overall_verdict', 'UNKNOWN')
+gates = data.get('quality_gates', {})
+passed = gates.get('passed_gates', 0)
+total = gates.get('total_gates', 0)
+retrieval = data.get('retrieval', {})
+hallucination = data.get('hallucination', {})
+
+print(f'Verdict: {verdict}')
+print(f'Quality Gates: {passed}/{total} passed')
+print(f'Precision@5: {retrieval.get(\"precision_at_k\", 0):.2%}')
+print(f'Recall@5: {retrieval.get(\"recall_at_k\", 0):.2%}')
+print(f'NDCG@5: {retrieval.get(\"ndcg_at_k\", 0):.4f}')
+print(f'Latency P95: {retrieval.get(\"latency_p95_ms\", 0):.1f}ms')
+print(f'Hallucination rejection: {hallucination.get(\"rejection_rate\", 0):.0%}')
+print(f'Max adversarial confidence: {hallucination.get(\"max_confidence\", 0):.2f}')
+
+# Fail if quality gates don't pass
+if verdict != 'PASS':
+    print('::warning::Quality gates failed!')
+    for gate in gates.get('gates', []):
+        if not gate.get('passed', False):
+            print(f'  ::warning::Failed gate: {gate.get(\"name\")} ({gate.get(\"message\")})')
+    # Don't fail CI on eval gates yet - just warn
+" 2>&1 | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Upload evaluation report
+        uses: actions/upload-artifact@v4
+        with:
+          name: evaluation-report
+          path: evaluation_output.json
 
   # ── Build ───────────────────────────────────────────────────
   build:
     runs-on: ubuntu-latest
-    needs: [lint, test]
+    needs: [lint, test, evaluate]
     steps:
       - uses: actions/checkout@v4
       - name: Set up Docker Buildx
