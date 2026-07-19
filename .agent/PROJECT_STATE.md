@@ -1,7 +1,7 @@
 # Project State — AstroSage
 
-**Last Updated**: 2026-07-19T02:52:00+00:00
-**Git Commit**: ca3b591
+**Last Updated**: 2026-07-19T06:10:00+00:00
+**Git Commit**: 6ee9201
 **Knowledge Version**: 1.0.0
 **Current Phase**: Phase 15 — Grounded Answer Generation COMPLETE
 **Status**: ✅ ROADMAP COMPLETE
@@ -16,6 +16,7 @@
 - Hybrid Retrieval: BM25 (375K vocab) + FAISS
 - Reasoning Engine: Entity + Question reasoning
 - Answer Generation: Provenance-traced, high confidence
+- Version 1.0 Audit: PASS WITH LIMITATIONS (3 documentation defects fixed)
 
 ## Quick Navigation
 
@@ -28,3 +29,7 @@
 | Answers | `knowledge/releases/v1.0.0/answers/` |
 | AI Contract | `AI_KNOWLEDGE_CONTRACT.md` |
 | Certification | `FINAL_KNOWLEDGE_CERTIFICATION.md` |
+| Acceptance Audit | `VERSION_1_ACCEPTANCE_REPORT.md` |
+| Scorecard | `VERSION_1_SCORECARD.md` |
+| Benchmarks | `FINAL_BENCHMARK_RESULTS.md` |
+| Known Limitations | `KNOWN_LIMITATIONS.md` |

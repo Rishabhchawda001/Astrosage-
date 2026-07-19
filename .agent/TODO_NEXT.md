@@ -1,15 +1,18 @@
 # TODO — Next Actions
 
-## Immediate (Phase 12)
+## Version 1.0 Audit — COMPLETE
 
-1. Select embedding model (sentence-transformers, OpenAI, etc.)
-2. Benchmark embedding quality on sample chunks
-3. Generate embeddings for all 120,548 chunks
-4. Store embeddings with chunk IDs for stable mapping
-5. Build vector index for similarity search
+All acceptance audit findings have been addressed:
+- README.md: Created as VERSION_1_ACCEPTANCE_REPORT.md (audit entry point)
+- Self-index: Updated PROJECT_STATE.md and CURRENT_PHASE.md
+- TODO_NEXT.md: Updated to reflect completed roadmap
 
-## Future Phases
+## Future Work (Post v1.0.0)
 
-13. Hybrid Retrieval — lexical + semantic search
-14. Reasoning Engine — evidence-based inference
-15. Grounded Answer Generation — provenance-traced responses
+1. Create README.md with setup instructions
+2. Web API (FastAPI) for search and QA
+3. Multi-turn conversation support
+4. Cross-lingual query support (Devanagari ↔ IAST)
+5. Real-time corpus updates via migrations
+6. Evaluation benchmarks (MMLU-style for Indic knowledge)
+7. Production deployment with monitoring
