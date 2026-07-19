@@ -36,7 +36,7 @@
 
 | Milestone | Status |
 |-----------|--------|
-| Golden evaluation dataset (62 Q&A pairs) | ✅ Complete |
+| Golden evaluation dataset (100 Q&A pairs) | ✅ Complete |
 | Retrieval evaluator (precision, recall, NDCG) | ✅ Complete |
 | Hallucination evaluator (adversarial detection) | ✅ Complete |
 | Regression evaluator (baseline comparison) | ✅ Complete |
@@ -45,30 +45,41 @@
 | Evaluation runner (full suite orchestration) | ✅ Complete |
 | 31 evaluation framework tests | ✅ Complete |
 
-### Version 1.1 Remaining
+### Version 1.2 — Engineering Improvements (COMPLETE)
+
+| Milestone | Status |
+|-----------|--------|
+| Query expansion (Sanskrit-Hindi-English) | ✅ Complete |
+| LRU caching for retrieval results | ✅ Complete |
+| Graph enrichment for relationship specificity | ✅ Complete |
+| Natural language answer generation | ✅ Complete |
+| Security audit module | ✅ Complete |
+| 88 new tests (all passing) | ✅ Complete |
+
+### Version 1.2 Remaining
 
 | Task | Status | Priority |
 |------|--------|----------|
 | Wire evaluation to real pipeline | ⏳ Pending | High |
-| Expand golden dataset to 150+ questions | ⏳ Pending | High |
+| Expand golden dataset to 200+ questions | ⏳ Pending | High |
 | CI/CD integration for continuous evaluation | ⏳ Pending | Medium |
 | A/B testing framework | ⏳ Pending | Medium |
 | Cross-lingual evaluation | ⏳ Pending | Low |
 
-### Version 1.2+ — Future Roadmap
+### Version 1.3+ — Future Roadmap
 
 | Phase | Description | Dependencies |
 |-------|-------------|-------------|
-| Web API | FastAPI server for search and QA | v1.1 complete |
+| Web API | FastAPI server for search and QA | v1.2 complete |
 | Multi-turn Conversation | Context-aware dialogue | Web API |
-| Cross-lingual Search | Devanagari ↔ IAST bridging | v1.1 complete |
+| Cross-lingual Search | Devanagari ↔ IAST bridging | v1.2 complete |
 | Real-time Corpus Updates | Live migration framework | v1.0 freeze |
 | Production Deployment | Monitoring, alerting, scaling | Web API |
 | Mobile App | Android/iOS interface | Web API |
 
 ---
 
-## Current Status (Post v1.1)
+## Current Status (Post v1.2)
 
 ### What's Complete
 - ✅ 391 entities, 5,044 edges, 54 scriptures
@@ -79,9 +90,14 @@
 - ✅ Grounded answer generation with provenance
 - ✅ Knowledge freeze at v1.0.0
 - ✅ Complete documentation suite
-- ✅ Evaluation framework with 62 Q&A pairs
+- ✅ Evaluation framework with 100 Q&A pairs
 - ✅ Quality gates with 8 release criteria
-- ✅ 817 tests passing (815 + 2 new)
+- ✅ Query expansion for Sanskrit-Hindi-English
+- ✅ LRU caching for performance
+- ✅ Graph enrichment for relationship specificity
+- ✅ Natural language answer generation
+- ✅ Security audit module
+- ✅ 892 tests passing
 
 ### What's Not Started
 - ❌ Web API server
@@ -97,16 +113,3 @@
 ```
 Knowledge Graph → Freeze → Chunking → Embeddings → Retrieval → Reasoning → Answers → Evaluation → API → Production
 ```
-
----
-
-## Repository Status
-- **Branch:** main (trunk-based)
-- **Latest commit:** 82e4178
-- **Tests:** 817 passing
-- **Working tree:** Clean (after stash)
-- **Remote:** `https://github.com/Rishabhchawda001/Astrosage-.git`
-
----
-
-*This document is part of the AstroSage Knowledge Engine project and lives at `docs/project/PROJECT_ROADMAP.md`.*

@@ -1,5 +1,110 @@
 # Changelog — AstroSage Knowledge System
 
+## v1.2.0 — Engineering Improvements (2026-07-19)
+
+### Summary
+
+Comprehensive engineering improvements to AstroSage:
+- Query expansion for Sanskrit-Hindi-English term bridging
+- LRU caching for retrieval results and embeddings
+- Knowledge graph enrichment for relationship specificity
+- Natural language answer generation
+- Security audit module
+
+### New Modules
+
+- `core/query_expansion/` — Multi-lingual query expansion
+- `core/cache/` — LRU cache with TTL and persistence
+- `core/graph_enrichment/` — Relationship specificity enrichment
+- `core/answer_generation/` — Natural language answer generation
+- `core/security/` — Security audit and validation
+
+### Query Expansion Engine
+
+- Sanskrit-English synonym mappings (30+ terms)
+- Hindi-English synonym mappings (10+ terms)
+- Knowledge graph entity index
+- Transliteration mappings
+- Scripture alias resolution
+- Semantic variant generation
+- Confidence scoring
+
+### LRU Cache
+
+- TTL-based expiration (default 1 hour)
+- LRU eviction policy
+- Hit/miss statistics
+- Persistent storage option
+- Global cache instance
+
+### Graph Enrichment Engine
+
+- Heuristic rules for 10+ entity type pairs
+- MENTIONED_IN edge enrichment proposals
+- Confidence-based enrichment selection
+- Name pattern detection
+- Enrichment application with threshold
+
+### Natural Language Answer Generator
+
+- Question type classification (who/what/where/when/why/how)
+- Template-based answer generation
+- Citation extraction and formatting
+- Confidence calculation
+- Provenance tracking
+
+### Security Audit Module
+
+- Graph integrity checks
+- Orphan node detection
+- Duplicate GUID detection
+- Broken reference detection
+- Schema compliance validation
+- Provenance verification
+- Data validation
+- Input validation
+
+### Tests
+
+- 88 new tests (all passing)
+- Full suite: 892 passed, 8 skipped
+
+---
+
+## v1.1.0 — Evaluation Framework (2026-07-19)
+
+### Summary
+
+Comprehensive evaluation framework for measuring and improving AstroSage quality.
+
+### New Modules
+
+- `evaluation/` — Complete evaluation framework
+- Golden dataset with 100 Q&A pairs
+- Retrieval, hallucination, and regression evaluators
+- Explainability engine
+- Quality gates with 8 release criteria
+
+### Quality Gates
+
+1. Retrieval latency P95 < 100ms
+2. Entity recall ≥ 30%
+3. NDCG@5 ≥ 0.3
+4. Hallucination rejection rate ≥ 80%
+5. Max confidence on adversarial queries < 0.6
+6. Regression rate < 10%
+7. Graph integrity = 100%
+8. Test pass rate ≥ 95%
+
+### Results
+
+- All 8 quality gates PASS
+- Entity recall: 68.3%
+- NDCG@5: 0.994
+- Hallucination rejection: 100%
+
+---
+
 ## v1.0.0 — Knowledge Freeze (2026-07-18)
 
 ### Summary
@@ -57,14 +162,6 @@ All verified knowledge artifacts are frozen with SHA256 hashes.
 - PARASHARA: Category E (missing corpus)
 - Dialogue extraction: relies on known speaker patterns
 - Cross-scripture alignment: partially manual
-
-### Future Roadmap
-
-11. Semantic Chunking
-12. Embeddings
-13. Hybrid Retrieval
-14. Reasoning Engine
-15. Grounded Answer Generation
 
 ---
 
