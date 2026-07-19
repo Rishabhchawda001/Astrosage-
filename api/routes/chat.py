@@ -38,6 +38,7 @@ class ChatCompletionRequest(BaseModel):
     top_p: float = Field(default=1.0, ge=0, le=1)
     frequency_penalty: float = Field(default=0, ge=-2, le=2)
     presence_penalty: float = Field(default=0, ge=-2, le=2)
+    conversation_id: str | None = Field(default=None, description="Existing conversation ID for multi-turn")
 
 
 class UsageInfo(BaseModel):
@@ -62,6 +63,8 @@ class ChatCompletionResponse(BaseModel):
 
 
 _service = ChatService()
+from api.services.conversation import ConversationManager
+_conversations = ConversationManager()
 
 
 @router.post("/completions")
@@ -87,8 +90,30 @@ async def chat_completions(body: ChatCompletionRequest):
 
 
 async def _non_stream_chat(body: ChatCompletionRequest) -> ChatCompletionResponse:
-    """Non-streaming chat completion."""
+    """Non-streaming chat completion with conversation persistence."""
     messages = [m.model_dump() for m in body.messages]
+
+    # Persist user messages
+    conv_id = body.conversation_id
+    user_msg = None
+    for m in body.messages:
+        if m.role == "user":
+            user_msg = m.content
+
+    if not conv_id:
+        # Auto-create conversation
+        title = (user_msg or "Chat")[:60]
+        conv = _conversations.create_conversation(user_id="anonymous", title=title)
+        conv_id = conv["id"]
+    else:
+        conv = _conversations.get_conversation(conv_id)
+        if not conv:
+            from api.exceptions import NotFoundError
+            raise NotFoundError(message=f"Conversation '{conv_id}' not found")
+
+    # Save user messages
+    for m in body.messages:
+        _conversations.add_message(conv_id, m.role, m.content)
 
     result = await _service.acompletion(
         messages=messages,
@@ -102,8 +127,15 @@ async def _non_stream_chat(body: ChatCompletionRequest) -> ChatCompletionRespons
     model_used = result.get("model", body.model)
     usage = result.get("usage", {})
 
+    # Save assistant response
+    if conv_id:
+        _conversations.add_message(
+            conv_id, "assistant", content,
+            token_count=usage.get("completion_tokens", 0),
+        )
+
     return ChatCompletionResponse(
-        id=f"chatcmpl-{int(time.time())}",
+        id=conv_id or f"chatcmpl-{int(time.time())}",
         created=int(time.time()),
         model=model_used,
         choices=[
@@ -125,7 +157,19 @@ async def _stream_chat(body: ChatCompletionRequest) -> AsyncGenerator[bytes, Non
     """SSE streaming chat completion."""
     messages = [m.model_dump() for m in body.messages]
 
-    # Send a thinking message (optional, can be used for "thinking..." animation)
+    conv_id = body.conversation_id
+    user_msg = None
+    for m in body.messages:
+        if m.role == "user":
+            user_msg = m.content
+    if not conv_id:
+        title = (user_msg or "Chat")[:60]
+        conv = _conversations.create_conversation(user_id="anonymous", title=title)
+        conv_id = conv["id"]
+    for m in body.messages:
+        _conversations.add_message(conv_id, m.role, m.content)
+
+    # Send a thinking message
     thinking_msg = {
         "choices": [{"delta": {"role": "assistant", "content": ""}, "finish_reason": None}],
         "created": int(time.time()),

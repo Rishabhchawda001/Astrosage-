@@ -56,6 +56,7 @@ from api.routes.search import router as search_router
 from api.routes.graph import router as graph_router
 from api.routes.answer import router as answer_router
 from api.routes.chat import router as chat_router
+from api.routes.conversation import router as conversation_router
 
 app.include_router(health_router)
 app.include_router(auth_router)
@@ -63,6 +64,7 @@ app.include_router(search_router)
 app.include_router(graph_router)
 app.include_router(answer_router)
 app.include_router(chat_router)
+app.include_router(conversation_router)
 
 
 # ── Root redirect ──

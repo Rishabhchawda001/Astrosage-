@@ -51,3 +51,8 @@ knowledge/dtc/phase4_corpus_index.json
 knowledge/dtc/phase4_universal_census.json
 knowledge/releases/v1.0.0/embeddings/embeddings.npy
 knowledge/releases/v1.0.0/embeddings/faiss_index.bin
+# Database files
+data/
+*.db
+*.db-journal
+*.db-wal
