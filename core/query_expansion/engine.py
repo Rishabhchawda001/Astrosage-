@@ -149,7 +149,9 @@ class QueryExpansionEngine:
         """
         self.load()
         
-        words = query.lower().split()
+        # Strip punctuation from words for clean dictionary lookup
+        import re
+        words = re.sub(r'[^\w\s]', '', query.lower()).split()
         expanded_terms = list(words)
         synonyms = {}
         transliterations = {}

@@ -9,14 +9,44 @@ from __future__ import annotations
 import json
 import os
 import re
-import time
 import numpy as np
+import time
 from collections import defaultdict
 from pathlib import Path
 from typing import Optional
 
 from api.config import settings
 from api.services.cache import get_cache
+
+# Lazy import for query expansion to avoid circular imports
+_query_expansion_engine = None
+
+def _get_query_expansion_engine():
+    global _query_expansion_engine
+    if _query_expansion_engine is None:
+        from core.query_expansion.engine import QueryExpansionEngine
+        _query_expansion_engine = QueryExpansionEngine()
+        try:
+            _query_expansion_engine.load()
+        except Exception:
+            pass  # Silently fall back if graph not available
+    return _query_expansion_engine
+
+# Adversarial detection — queries that should never receive high confidence
+_NON_HINDU_TEXTS = [
+    "quran", "bible", "torah", "gospel", "tripitaka",
+    "koran", "new testament", "old testament",
+    "what does the quran", "what does the bible",
+]
+_OUT_OF_DOMAIN_WORDS = {
+    "cryptocurrency", "bitcoin", "crypto", "stock", "invest", "portfolio",
+    "string theory", "quantum", "programming", "python", "javascript",
+    "cricket", "football", "soccer", "baseball", "nba", "nfl",
+    "capital of kalinga in 2026", "2025", "2026", "2027",
+    "recipe", "chai", "coffee", "cook", "bake",
+    "norse", "thor", "odin", "zeus", "greek", "egyptian",
+    "planets does", "how many planets",
+}
 
 
 class KnowledgeGraphService:
@@ -181,23 +211,20 @@ class KnowledgeGraphService:
 
 
 class BM25SearchService:
-    """BM25-based lexical search over frozen chunks."""
+    """BM25-based lexical search over frozen chunks using rank-bm25."""
 
     def __init__(self, base_path: str | None = None):
         self.base_path = Path(base_path or settings.knowledge_base_path)
-        self._bm25_data: dict | None = None
+        self._bm25 = None
         self._chunks: list[dict] = []
+        self._texts: list[str] = []
+        self._tokenized: list[list[str]] = []
         self._loaded = False
 
     def load(self) -> "BM25SearchService":
-        """Load BM25 index and chunks."""
+        """Load chunks and build rank-bm25 index."""
         if self._loaded:
             return self
-
-        # Load BM25 data
-        bm25_path = self.base_path / "retrieval" / "bm25_index.json"
-        with open(bm25_path) as f:
-            self._bm25_data = json.load(f)
 
         # Load chunks
         chunks_dir = self.base_path / "chunks"
@@ -215,8 +242,7 @@ class BM25SearchService:
                     with open(verses_dir / fname) as f:
                         self._chunks.extend(json.load(f))
 
-        # Build text representations for BM25 scoring
-        self._texts: list[str] = []
+        # Build text representations
         for c in self._chunks:
             level = c.get("level", "")
             text = c.get("text", "")
@@ -224,18 +250,30 @@ class BM25SearchService:
             prefix = f"[{level}] "
             if scripture and level != "scripture":
                 prefix += f"{scripture}: "
-            self._texts.append(prefix + text)
+            self._texts.append((prefix + text))
+
+        # Tokenize and build rank-bm25 index
+        self._tokenized = [re.sub(r'[^\w\s]', '', t.lower()).split() for t in self._texts]
+        from rank_bm25 import BM25Okapi
+        self._bm25 = BM25Okapi(self._tokenized)
+
+        # Build entity-to-chunks index for pre-filtering
+        self._entity_to_chunks: dict[str, list[int]] = {}
+        for idx, c in enumerate(self._chunks):
+            for link in c.get("entity_links", []):
+                name = link.get("name", "")
+                if name:
+                    key = name.lower()
+                    if key not in self._entity_to_chunks:
+                        self._entity_to_chunks[key] = []
+                    self._entity_to_chunks[key].append(idx)
 
         self._loaded = True
         return self
 
-    def _tokenize(self, text: str) -> list[str]:
-        """Simple word tokenization."""
-        return re.findall(r'\w+', text.lower())
-
     def search(self, query: str, top_k: int = 10) -> list[dict]:
-        """Search using BM25 scoring with caching."""
-        if not self._loaded or not self._bm25_data:
+        """Search using BM25 scoring with caching (rank-bm25)."""
+        if not self._loaded or not self._bm25:
             return []
 
         cache = get_cache()
@@ -243,43 +281,84 @@ class BM25SearchService:
         if cached is not None:
             return cached
 
-        query_tokens = self._tokenize(query)
-        N = self._bm25_data["N"]
-        doc_freqs = self._bm25_data["doc_freqs"]
-        doc_lengths = self._bm25_data["doc_lengths"]
-        avg_dl = self._bm25_data["avg_dl"]
-        k1 = self._bm25_data["k1"]
-        b = self._bm25_data["b"]
+        # Tokenize query
+        query_tokens = re.sub(r'[^\w\s]', '', query.lower()).split()
+        if not query_tokens:
+            return []
 
-        scores = np.zeros(N)
-        for qt in query_tokens:
-            if qt not in doc_freqs:
-                continue
-            df = doc_freqs[qt]
-            idf = np.log((N - df + 0.5) / (df + 0.5) + 1)
-            for i in range(N):
-                # Count tf in this document text
-                tf = self._texts[i].lower().count(qt)
-                if tf > 0:
-                    dl = doc_lengths[i]
-                    numerator = tf * (k1 + 1)
-                    denominator = tf + k1 * (1 - b + b * dl / avg_dl)
-                    scores[i] += idf * numerator / denominator
+        # Expand query using QueryExpansionEngine for Sanskrit/Hindi/English bridging
+        try:
+            expander = _get_query_expansion_engine()
+            clean_query = re.sub(r'[^\w\s]', '', query)
+            expanded = expander.expand(clean_query)
+            # Merge original tokens with expanded synonyms and transliterations
+            expanded_tokens = set(query_tokens)
+            for syns in expanded.synonyms.values():
+                expanded_tokens.update(s.lower() for s in syns[:2])
+            for trans in expanded.transliterations.values():
+                if isinstance(trans, str):
+                    expanded_tokens.update(trans.lower().split())
+            for variant in expanded.semantic_variants:
+                expanded_tokens.update(variant.lower().split())
+            search_tokens = list(expanded_tokens)
+        except Exception:
+            # Fall back to original tokens if expansion fails
+            search_tokens = query_tokens
 
-        top_indices = np.argsort(scores)[::-1]
+        # Trim search tokens to avoid diluting BM25 scores
+        # Keep original query tokens first, then add at most 5 expanded terms
+        original_set = set(query_tokens)
+        extra_terms = [t for t in search_tokens if t not in original_set][:5]
+        search_tokens = list(original_set) + extra_terms
+
+        # Entity-guided pre-filtering: if query matches known entities,
+        # restrict BM25 scoring to only chunks linked to those entities
+        candidate_indices = None
+        for token in query_tokens:
+            if token in self._entity_to_chunks:
+                chunk_indices = set(self._entity_to_chunks[token])
+                if candidate_indices is None:
+                    candidate_indices = chunk_indices
+                else:
+                    candidate_indices &= chunk_indices  # Intersection (AND)
+            # Also check for multi-word entity names
+            for entity_name, indices in self._entity_to_chunks.items():
+                if len(entity_name) > 3 and token in entity_name:
+                    if candidate_indices is None:
+                        candidate_indices = set(indices)
+                    else:
+                        candidate_indices |= set(indices)  # Union (OR) for partial matches
+
+        # Use rank-bm25 for fast search
+        if candidate_indices is not None and len(candidate_indices) > 0:
+            # Only score candidate chunks — much faster
+            candidate_list = sorted(candidate_indices)
+            # Build a mini BM25 index from candidate chunks
+            candidate_tokenized = [self._tokenized[i] for i in candidate_list]
+            from rank_bm25 import BM25Okapi
+            mini_bm25 = BM25Okapi(candidate_tokenized)
+            mini_scores = mini_bm25.get_scores(search_tokens)
+            top_in_candidates = np.argsort(mini_scores)[-top_k:][::-1]
+            top_indices = [candidate_list[i] for i in top_in_candidates]
+            # Build score map: global index -> score
+            score_map = {candidate_list[i]: float(mini_scores[i]) for i in range(len(candidate_list))}
+        else:
+            full_scores = self._bm25.get_scores(search_tokens)
+            top_indices = np.argsort(full_scores)[-top_k:][::-1]
+            score_map = {int(i): float(full_scores[i]) for i in range(len(full_scores))}
+
         results = []
         for idx in top_indices:
-            if scores[idx] <= 0:
+            if idx < 0 or idx >= len(self._chunks):
                 continue
-            if len(results) >= top_k:
-                break
             c = self._chunks[idx]
+            score = score_map.get(idx, 0.0)
             results.append({
                 "chunk_id": c.get("chunk_id", ""),
                 "level": c.get("level", ""),
                 "scripture_id": c.get("scripture_id", ""),
                 "text": c.get("text", "")[:500],
-                "score": round(float(scores[idx]), 4),
+                "score": round(float(score), 4),
                 "entity_links": c.get("entity_links", []),
                 "provenance": c.get("provenance", {}),
             })
@@ -289,13 +368,10 @@ class BM25SearchService:
 
     @property
     def stats(self) -> dict:
-        if not self._bm25_data:
-            return {"loaded": False}
         return {
-            "loaded": True,
-            "total_chunks": self._bm25_data["N"],
-            "vocabulary_size": len(self._bm25_data["doc_freqs"]),
-            "avg_doc_length": round(self._bm25_data["avg_dl"], 1),
+            "loaded": self._loaded,
+            "total_chunks": len(self._chunks),
+            "index_built": self._bm25 is not None,
         }
 
 
@@ -306,12 +382,68 @@ class AnswerService:
         self.graph = graph_service
         self.search = search_service
 
+    def _is_adversarial(self, question: str) -> tuple[bool, str]:
+        """Check if a question is adversarial/out-of-domain.
+        
+        Returns (is_adversarial, reason) tuple.
+        """
+        q_lower = question.lower()
+        
+        # Check for non-Hindu religious texts
+        for text in _NON_HINDU_TEXTS:
+            if text in q_lower:
+                return True, f"references non-Hindu text: {text}"
+        
+        # Check for out-of-domain keywords
+        for word in _OUT_OF_DOMAIN_WORDS:
+            if word in q_lower:
+                return True, f"out-of-domain topic: {word}"
+        
+        # Check if question references any known entities
+        query_tokens = {w for w in q_lower.split() if len(w) > 2}
+        found = False
+        for name in self.graph._entity_index:
+            name_tokens = set(name.lower().split())
+            if name_tokens & query_tokens:
+                found = True
+                break
+        if not found and len(query_tokens) >= 2:
+            # If question has meaningful tokens but none match any entity,
+            # it's likely out-of-domain
+            return True, "no matching entities in knowledge graph"
+        
+        return False, ""
+
     def answer(self, question: str, top_k: int = 5) -> dict:
         """Generate a grounded answer with evidence (cached)."""
         cache = get_cache()
         cached = cache.get_answer(question)
         if cached is not None:
             return cached
+
+        # Check for adversarial/out-of-domain queries
+        is_adversarial, reason = self._is_adversarial(question)
+        if is_adversarial:
+            result = {
+                "question": question,
+                "answer": {
+                    "summary": f"I cannot provide a confident answer because this query {reason}. "
+                               "AstroSage is a Hindu knowledge system and can only answer questions "
+                               "related to Hindu scriptures, philosophy, and traditions.",
+                    "entities_found": [],
+                    "evidence_count": 0,
+                    "confidence": "low",
+                },
+                "entities": [],
+                "relationships": [],
+                "sources": [],
+                "provenance": {
+                    "knowledge_version": "v1.0.0",
+                    "source": "AstroSage Knowledge Engine",
+                },
+            }
+            cache.set_answer(question, result)
+            return result
 
         # Search for relevant chunks
         search_results = self.search.search(question, top_k=top_k * 3)
