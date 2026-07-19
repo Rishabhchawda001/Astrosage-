@@ -1,5 +1,45 @@
 # Changelog — AstroSage Knowledge System
 
+## v2.3.0 — MCP Server with Live Knowledge Data (2026-07-19)
+
+### Summary
+
+Production MCP server with 7 tools wired to the real knowledge base. Compatible with Claude Desktop, VS Code MCP, and any MCP client.
+
+### MCP Server
+
+- `mcp_server.py` — MCP server with stdio (Claude Desktop) and SSE modes
+- 7 tools wired to live data:
+
+| Tool | Description | Data Source |
+|------|-------------|-------------|
+| `search_knowledge` | BM25 lexical search | 120K chunks, 375K vocab |
+| `get_entity` | Entity lookup with relationships | 391 entities, 57 max rels |
+| `get_entity_relationships` | Grouped relationship exploration | 42 types, full graph |
+| `list_scriptures` | List all indexed scriptures | 54 scriptures |
+| `get_scripture` | Scripture metadata | BG: 8372 verses, 100% |
+| `answer_question` | Grounded QA with citations | Search + graph fusion |
+| `knowledge_stats` | Knowledge base statistics | 391 entities, 5044 edges |
+
+### Architecture
+
+- Standard MCP JSON-RPC protocol (list_tools, call_tool, ping, initialize)
+- Stdio mode: `python3 mcp_server.py` (Claude Desktop)
+- SSE mode: `python3 mcp_server.py --sse` (web clients)
+- Pre-loads knowledge services on startup
+- Error handling per tool (entity not found, invalid args)
+
+### Tests
+
+- 12 MCP tool tests (all tool definitions, handlers, protocol compliance)
+- 43 API tests total
+- 858 existing knowledge tests still passing
+- Full suite: 901 passing
+
+---
+
+# Changelog — AstroSage Knowledge System
+
 ## v2.2.0 — Chat Completions API & LiteLLM Integration (2026-07-19)
 
 ### Summary
