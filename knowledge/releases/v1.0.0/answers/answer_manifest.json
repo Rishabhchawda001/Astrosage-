@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "knowledge_version": "1.0.0",
+  "git_commit": "829b00c3ce2915f48c8ebf9b0a38af5954131afa",
+  "generated": "2026-07-19T02:51:03.646646+00:00",
+  "generator": "Phase 15 Grounded Answer Generation",
+  "capabilities": [
+    "Provenance-traced answers",
+    "Evidence-backed responses",
+    "Confidence scoring",
+    "Multi-source synthesis",
+    "Graph + semantic evidence fusion"
+  ],
+  "stats": {
+    "questions_answered": 5,
+    "avg_evidence_sources": 11.2,
+    "confidence_distribution": {
+      "high": 5,
+      "medium": 0,
+      "low": 0
+    }
+  },
+  "artifacts": {
+    "grounded_answers.json": {
+      "sha256": "106b671b443c4245ba90067274bc275c84e6d56ced640eb51e62d2edd02929e2",
+      "size": 30958
+    },
+    "answer_manifest.json": {
+      "sha256": "c7075cf9f617b657fe096bf4400f52c7775e80c72e4c963e7a985ee30cc53fdc",
+      "size": 741
+    }
+  }
+}

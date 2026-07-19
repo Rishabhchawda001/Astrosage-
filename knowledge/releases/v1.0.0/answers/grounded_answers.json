@@ -1,0 +1,724 @@
+{
+  "Who is Vishnu and what is his role in Hindu philosophy?": {
+    "question": "Who is Vishnu and what is his role in Hindu philosophy?",
+    "answer_text": "Vishnu (Deity) has 610 mentions across 32 scriptures. Key relationships: MENTIONED_IN: 8, INCARNATION_OF: 7, WIELDED_BY: 3, ABODE_OF: 1, VEHICLE_OF: 1. [scripture] Scripture: VISHNU_SM. Canonical units: 4748. Entities mentioned: 27. [verse] nidrāstotrādau ca nārāyaṇabhaṭṭokta eva mahābhārate ca darśitaḥ [entity] Entity: Vishnu (type: Deity). Appears in: Vedārthasaṃgraha, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Vaikhānasadharmasūtr",
+    "confidence": "high",
+    "evidence": {
+      "semantic_sources": [
+        {
+          "chunk_id": "e12464dbe2c902834aa968d3",
+          "level": "scripture",
+          "scripture": "VISHNU_SM",
+          "score": 0.5032049417495728,
+          "text_preview": "Scripture: VISHNU_SM. Canonical units: 4748. Entities mentioned: 27.",
+          "provenance": {
+            "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "6e5d63050e004565adc48107",
+          "level": "verse",
+          "scripture": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+          "score": 0.5004777312278748,
+          "text_preview": "nidrāstotrādau ca nārāyaṇabhaṭṭokta eva mahābhārate ca darśitaḥ",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "e8fb26943f8fc7ee61e127a1",
+          "level": "entity",
+          "scripture": "global",
+          "score": 0.4880792200565338,
+          "text_preview": "Entity: Vishnu (type: Deity). Appears in: Vedārthasaṃgraha, Bhagavadgītā with the commentary ascribe",
+          "provenance": {
+            "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "6e5d63050e004565adc48107",
+          "level": "verse",
+          "scripture": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+          "score": 0.4865092635154724,
+          "text_preview": "ākāravāṃstvaṃ niyamādupāsyo na vastvanākāramupaiti buddhiḥ| iti|",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "6e5d63050e004565adc48107",
+          "level": "verse",
+          "scripture": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+          "score": 0.4844364523887634,
+          "text_preview": "atra parābhiprāyaḥ",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        }
+      ],
+      "graph_sources": [
+        {
+          "entity": "Vishnu",
+          "type": "Deity",
+          "mentions": 610,
+          "sources": [
+            "Vedārthasaṃgraha",
+            "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+            "Vaikhānasadharmasūtra",
+            "Dharmasūtra",
+            "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+            "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+            "Agnipurāṇa",
+            "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+            "Viṣṇudharma",
+            "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+            "Bhagavadgītābhāṣya",
+            "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+            "Harivaṃśa, Appendix I",
+            "Narasiṃhapurāṇa",
+            "Āpastambadharmasūtra",
+            "Nirukta",
+            "Garuḍapurāṇa",
+            "Vāmanapurāṇa, Saromāhātmya",
+            "Bhāgavatapurāṇa",
+            "Baudhāyanadharmasūtra",
+            "Āśvalāyanaśrautasūtra",
+            "Viṣṇusmṛti",
+            "Sāmavedasaṃhitā",
+            "Vāmanapurāṇa, 1-69",
+            "Ṛgvedasaṃhitā, Padapāṭha",
+            "Skandapurāṇa: Revākhaṇḍa (RKS)",
+            "Bhagavadāśayānusaraṇabhāsya",
+            "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+            "Mahābhāratatātparyanirṇaya",
+            "Śāṅkhāyanaśrautasūtra",
+            "Katha Upanishad",
+            "Manusmṛti"
+          ],
+          "top_relationships": [
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Vishnu', 'scripture': \"Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā\", 'mentions': 607}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Vishnu', 'scripture': 'Vaikhānasadharmasūtra', 'mentions': 607}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Vishnu', 'scripture': 'Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)', 'mentions': 607}",
+              "confidence": 90
+            }
+          ]
+        }
+      ],
+      "total_evidence_count": 11
+    },
+    "entities_referenced": [
+      "Vishnu"
+    ],
+    "scriptures_referenced": [
+      "VISHNU_SM",
+      "global",
+      "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha"
+    ],
+    "provenance_traced": true,
+    "hallucination_free": true
+  },
+  "What is the relationship between Krishna and Arjuna?": {
+    "question": "What is the relationship between Krishna and Arjuna?",
+    "answer_text": "Krishna (Deity) has 645 mentions across 31 scriptures. Key relationships: MENTIONED_IN: 16, HUSBAND_OF: 1, BROTHER_OF: 1, SISTER_OF: 1, INCARNATION_OF: 1. Arjuna (Person) has 407 mentions across 18 scriptures. Key relationships: MENTIONED_IN: 12, HUSBAND_OF: 2, FATHER_OF: 1, MOTHER_OF: 1, BROTHER_OF: 1. [verse] arjunaḥ (uvāca) --- [verse] arjuna uvāca --- [verse] bhagavantam arjuna",
+    "confidence": "high",
+    "evidence": {
+      "semantic_sources": [
+        {
+          "chunk_id": "7599ed652d59e1e29f97c369",
+          "level": "verse",
+          "scripture": "Bhagavadāśayānusaraṇabhāsya",
+          "score": 0.6019299030303955,
+          "text_preview": "arjunaḥ (uvāca) ---",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "7599ed652d59e1e29f97c369",
+          "level": "verse",
+          "scripture": "Bhagavadāśayānusaraṇabhāsya",
+          "score": 0.5983667373657227,
+          "text_preview": "arjuna uvāca ---",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "c1a1949c9457cfb65c8acb30",
+          "level": "verse",
+          "scripture": "Bhagavadāśayānusaraṇabhāsya",
+          "score": 0.5908420085906982,
+          "text_preview": "bhagavantam arjuna",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "9a1cd9cf5e5efe1aacdeafac",
+          "level": "dialogue",
+          "scripture": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+          "score": 0.567293107509613,
+          "text_preview": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagava",
+          "provenance": {
+            "source": "knowledge/releases/v1.0.0/graph/dialogue_graph.json",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "0958ee9147cdb0d9cc9ea858",
+          "level": "verse",
+          "scripture": "Bhagavadāśayānusaraṇabhāsya",
+          "score": 0.5663312673568726,
+          "text_preview": "praṣṭum arjuna uvāca ---",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        }
+      ],
+      "graph_sources": [
+        {
+          "entity": "Krishna",
+          "type": "Deity",
+          "mentions": 645,
+          "sources": [
+            "Vedārthasaṃgraha",
+            "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+            "Vaikhānasadharmasūtra",
+            "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+            "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+            "Agnipurāṇa",
+            "Brahmapurāṇa 1-246",
+            "Āśvalāyanagṛhyasūtra",
+            "Atharvavedapariśiṣṭas",
+            "Viṣṇudharma",
+            "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+            "Bhagavadgītābhāṣya",
+            "Narasiṃhapurāṇa",
+            "Āpastambadharmasūtra",
+            "Śivapurāṇa, Books 1 and 7",
+            "Garuḍapurāṇa",
+            "Bhāgavatapurāṇa",
+            "Baudhāyanadharmasūtra",
+            "Āśvalāyanaśrautasūtra",
+            "Viṣṇusmṛti",
+            "Viṣṇupurāṇa",
+            "Pañcaviṃśabrāhmaṇa",
+            "Vāmanapurāṇa, 1-69",
+            "Ṛgvedasaṃhitā, Padapāṭha",
+            "Vāsiṣṭhadharmasūtra",
+            "Skandapurāṇa: Revākhaṇḍa (RKS)",
+            "Bhagavadāśayānusaraṇabhāsya",
+            "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+            "Mahābhāratatātparyanirṇaya",
+            "Śāṅkhāyanaśrautasūtra",
+            "Brahmāṇḍapurāṇa"
+          ],
+          "top_relationships": [
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Krishna', 'scripture': \"Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā\", 'mentions': 385}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Krishna', 'scripture': 'Atharvavedapariśiṣṭas', 'mentions': 385}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Krishna', 'scripture': 'Vaikhānasadharmasūtra', 'mentions': 385}",
+              "confidence": 90
+            }
+          ]
+        },
+        {
+          "entity": "Arjuna",
+          "type": "Person",
+          "mentions": 407,
+          "sources": [
+            "Viṣṇudharma",
+            "Vedārthasaṃgraha",
+            "Ṛgvedasaṃhitā, Padapāṭha",
+            "Vāmanapurāṇa, 1-69",
+            "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+            "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+            "Garuḍapurāṇa",
+            "Vāmanapurāṇa, Saromāhātmya",
+            "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+            "Bhāgavatapurāṇa",
+            "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+            "Āśvalāyanaśrautasūtra",
+            "Bhagavadgītābhāṣya",
+            "Bhagavadāśayānusaraṇabhāsya",
+            "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+            "Mahābhāratatātparyanirṇaya",
+            "Mārkaṇḍeyapurāṇa, 1-93",
+            "Atharvavedapariśiṣṭas"
+          ],
+          "top_relationships": [
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Arjuna', 'scripture': 'Viṣṇudharma', 'mentions': 407}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Arjuna', 'scripture': 'Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva', 'mentions': 407}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Arjuna', 'scripture': \"Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā\", 'mentions': 407}",
+              "confidence": 90
+            }
+          ]
+        }
+      ],
+      "total_evidence_count": 12
+    },
+    "entities_referenced": [
+      "Krishna",
+      "Arjuna"
+    ],
+    "scriptures_referenced": [
+      "Bhāgavatapurāṇa",
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Bhagavadāśayānusaraṇabhāsya",
+      "Bhagavadgītābhāṣya"
+    ],
+    "provenance_traced": true,
+    "hallucination_free": true
+  },
+  "What are the main teachings of the Bhagavad Gita?": {
+    "question": "What are the main teachings of the Bhagavad Gita?",
+    "answer_text": "Bhagavad Gita (Text) has 0 mentions across 0 scriptures. Key relationships: TAUGHT_IN: 3, APPEARS_IN: 2, REFERRED_TO_IN: 2. [verse] brahmārpaṇam [Gītā [verse] brahmacāri-vrate sthitaḥ [Gītā [verse] sarvārambha-parityāgī [Gītā",
+    "confidence": "high",
+    "evidence": {
+      "semantic_sources": [
+        {
+          "chunk_id": "c0ee47ffdcd079c963cb071a",
+          "level": "verse",
+          "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+          "score": 0.6439346075057983,
+          "text_preview": "brahmārpaṇam [Gītā",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "aa353a5d475068fdcc083594",
+          "level": "verse",
+          "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+          "score": 0.639899492263794,
+          "text_preview": "brahmacāri-vrate sthitaḥ [Gītā",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "114542fdbaa3e283138dcce8",
+          "level": "verse",
+          "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+          "score": 0.6384778618812561,
+          "text_preview": "sarvārambha-parityāgī [Gītā",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "f240a422c0058b848f51a285",
+          "level": "verse",
+          "scripture": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+          "score": 0.6375535726547241,
+          "text_preview": "madhusūdanaḥ : sthita-prajñasya kā bhāṣā [Gītā",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "251f0ccb6553788c904ad33e",
+          "level": "verse",
+          "scripture": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+          "score": 0.6363897323608398,
+          "text_preview": "| brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati [Gītā",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        }
+      ],
+      "graph_sources": [
+        {
+          "entity": "Bhagavad Gita",
+          "type": "Text",
+          "mentions": 0,
+          "sources": [],
+          "top_relationships": [
+            {
+              "type": "APPEARS_IN",
+              "target": "Krishna",
+              "target_type": "Deity",
+              "evidence": "canonical_scripture",
+              "confidence": 88
+            },
+            {
+              "type": "APPEARS_IN",
+              "target": "Vishnu",
+              "target_type": "Deity",
+              "evidence": "canonical_scripture",
+              "confidence": 88
+            },
+            {
+              "type": "TAUGHT_IN",
+              "target": "Yoga",
+              "target_type": "Concept",
+              "evidence": "canonical_scripture",
+              "confidence": 88
+            }
+          ]
+        }
+      ],
+      "total_evidence_count": 11
+    },
+    "entities_referenced": [
+      "Bhagavad Gita"
+    ],
+    "scriptures_referenced": [
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)"
+    ],
+    "provenance_traced": true,
+    "hallucination_free": true
+  },
+  "Who are the Pandavas and what is their story?": {
+    "question": "Who are the Pandavas and what is their story?",
+    "answer_text": "Pandava (Dynasty) has 1077 mentions across 17 scriptures. Key relationships: MENTIONED_IN: 16. [verse] pāṇḍavacaritavarṇanam [verse] | tato yayuḥ kauravāḥ pāṇḍavāṇsca kurukṣetraṃ yoddhukāmāḥ sakṛṣṇāḥ | cakruśca te śibirāṇyatra sarve śubhe deśe pāṇḍavāḥ kṛṣṇabuddhyā | [entity] Entity: Pandava (type: Dynasty). Appears in: AGNI, BHAG, BRAH, BRAHMD, DEVI, GARUDA, HV, KURM, LING, MARK, MATS, MBH, NARADA, SHIV, SKAND, VARAH, VISH",
+    "confidence": "high",
+    "evidence": {
+      "semantic_sources": [
+        {
+          "chunk_id": "4e889f9e53bdb99120d37164",
+          "level": "verse",
+          "scripture": "Agnipurāṇa",
+          "score": 0.46121296286582947,
+          "text_preview": "pāṇḍavacaritavarṇanam",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Agnipurāṇa",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "924996f350abd2b30d020839",
+          "level": "verse",
+          "scripture": "Mahābhāratatātparyanirṇaya",
+          "score": 0.45851606130599976,
+          "text_preview": "| tato yayuḥ kauravāḥ pāṇḍavāṇsca kurukṣetraṃ yoddhukāmāḥ sakṛṣṇāḥ | cakruśca te śibirāṇyatra sarve ",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Mahābhāratatātparyanirṇaya",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "10ac92f1f036c29487efcd2b",
+          "level": "entity",
+          "scripture": "global",
+          "score": 0.4311552047729492,
+          "text_preview": "Entity: Pandava (type: Dynasty). Appears in: AGNI, BHAG, BRAH, BRAHMD, DEVI, GARUDA, HV, KURM, LING,",
+          "provenance": {
+            "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "c93867f463108de9317f956e",
+          "level": "verse",
+          "scripture": "Mahābhāratatātparyanirṇaya",
+          "score": 0.42226532101631165,
+          "text_preview": "| na pāṇḍaveṣvasti tato hi kiñcit pāpaṃ prayatnācca nisargato'pi | guṇādhikāste madapāṇsrayācca ko n",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Mahābhāratatātparyanirṇaya",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "41cb899e071fa7ec655cead0",
+          "level": "verse",
+          "scripture": "Pañcaviṃśabrāhmaṇa",
+          "score": 0.4208984971046448,
+          "text_preview": "pañdadaśa eva stomo bhavati",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Pañcaviṃśabrāhmaṇa",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        }
+      ],
+      "graph_sources": [
+        {
+          "entity": "Pandava",
+          "type": "Dynasty",
+          "mentions": 1077,
+          "sources": [
+            "AGNI",
+            "BHAG",
+            "BRAH",
+            "BRAHMD",
+            "DEVI",
+            "GARUDA",
+            "HV",
+            "KURM",
+            "LING",
+            "MARK",
+            "MATS",
+            "MBH",
+            "NARADA",
+            "SHIV",
+            "SKAND",
+            "VARAH",
+            "VISH"
+          ],
+          "top_relationships": [
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Pandava', 'scripture': 'AGNI', 'mentions': 1077}",
+              "confidence": 85
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Pandava', 'scripture': 'BHAG', 'mentions': 1077}",
+              "confidence": 85
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Pandava', 'scripture': 'BRAH', 'mentions': 1077}",
+              "confidence": 85
+            }
+          ]
+        }
+      ],
+      "total_evidence_count": 11
+    },
+    "entities_referenced": [
+      "Pandava"
+    ],
+    "scriptures_referenced": [
+      "global",
+      "Agnipurāṇa",
+      "Mahābhāratatātparyanirṇaya",
+      "Pañcaviṃśabrāhmaṇa"
+    ],
+    "provenance_traced": true,
+    "hallucination_free": true
+  },
+  "What is the concept of Dharma in Hindu scriptures?": {
+    "question": "What is the concept of Dharma in Hindu scriptures?",
+    "answer_text": "Dharma (Concept) has 612 mentions across 34 scriptures. Key relationships: MENTIONED_IN: 18, GUIDES: 1, FOLLOWED_BY: 1. [verse] dharmiṇāṃ viśeṣeṇa svargaṃ lokaṃ dharmavid āpnotijñānābhiniveśābhyām | [verse] tanmūlatvād dharmasya [verse] eteṣāṃ ca |",
+    "confidence": "high",
+    "evidence": {
+      "semantic_sources": [
+        {
+          "chunk_id": "b01625a7ae3e11cda4d4140b",
+          "level": "verse",
+          "scripture": "Dharmasūtra",
+          "score": 0.6428112387657166,
+          "text_preview": "dharmiṇāṃ viśeṣeṇa svargaṃ lokaṃ dharmavid āpnotijñānābhiniveśābhyām |",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "b01625a7ae3e11cda4d4140b",
+          "level": "verse",
+          "scripture": "Dharmasūtra",
+          "score": 0.6071863770484924,
+          "text_preview": "tanmūlatvād dharmasya",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "b01625a7ae3e11cda4d4140b",
+          "level": "verse",
+          "scripture": "Dharmasūtra",
+          "score": 0.5930688977241516,
+          "text_preview": "eteṣāṃ ca |",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "b01625a7ae3e11cda4d4140b",
+          "level": "verse",
+          "scripture": "Dharmasūtra",
+          "score": 0.5875362753868103,
+          "text_preview": "sākṣisabhyarājakartṛṣu doṣo dharmatantrapīḍāyām |",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        },
+        {
+          "chunk_id": "b01625a7ae3e11cda4d4140b",
+          "level": "verse",
+          "scripture": "Dharmasūtra",
+          "score": 0.5863898396492004,
+          "text_preview": "puruśavaśākumārīvehataś ca nityam |",
+          "provenance": {
+            "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+            "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+            "knowledge_version": "1.0.0"
+          }
+        }
+      ],
+      "graph_sources": [
+        {
+          "entity": "Dharma",
+          "type": "Concept",
+          "mentions": 612,
+          "sources": [
+            "Vedārthasaṃgraha",
+            "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+            "Vaikhānasadharmasūtra",
+            "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+            "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+            "Agnipurāṇa",
+            "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+            "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+            "Āśvalāyanagṛhyasūtra",
+            "Viṣṇudharma",
+            "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+            "Yogasūtra with Bhāṣya",
+            "Bhagavadgītābhāṣya",
+            "Āpastambadharmasūtra",
+            "Śivapurāṇa, Books 1 and 7",
+            "Nirukta",
+            "Bhāgavatapurāṇa",
+            "Gopathabrāhmaṇa",
+            "Baudhāyanadharmasūtra",
+            "Āśvalāyanaśrautasūtra",
+            "Viṣṇusmṛti",
+            "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+            "Mārkaṇḍeyapurāṇa, 1-93",
+            "Ṛgvedasaṃhitā, Padapāṭha",
+            "Vāsiṣṭhadharmasūtra",
+            "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+            "Bhagavadāśayānusaraṇabhāsya",
+            "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+            "Mahābhāratatātparyanirṇaya",
+            "Śāṅkhāyanaśrautasūtra",
+            "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+            "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+            "Yogasūtra",
+            "Manusmṛti"
+          ],
+          "top_relationships": [
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Dharma', 'scripture': \"Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)\", 'mentions': 566}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Dharma', 'scripture': 'Vaikhānasadharmasūtra', 'mentions': 566}",
+              "confidence": 90
+            },
+            {
+              "type": "MENTIONED_IN",
+              "target": "unknown",
+              "target_type": "",
+              "evidence": "{'entity': 'Dharma', 'scripture': 'Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)', 'mentions': 566}",
+              "confidence": 90
+            }
+          ]
+        }
+      ],
+      "total_evidence_count": 11
+    },
+    "entities_referenced": [
+      "Dharma"
+    ],
+    "scriptures_referenced": [
+      "Dharmasūtra",
+      "Vāsiṣṭhadharmasūtra"
+    ],
+    "provenance_traced": true,
+    "hallucination_free": true
+  }
+}

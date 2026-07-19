@@ -1,0 +1,340 @@
+{
+  "Who is Vishnu and what are his avatars?": {
+    "question": "Who is Vishnu and what are his avatars?",
+    "entities_found": [
+      "Vishnu"
+    ],
+    "semantic_evidence": [
+      {
+        "level": "entity",
+        "scripture": "global",
+        "text": "Entity: Buddha (type: Avatar). Appears in: Agnipurāṇa, Mālinīvijayottaratantra, Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva, Brahmasūtra with Śaṃkara's Ś",
+        "score": 0.588030219078064
+      },
+      {
+        "level": "entity",
+        "scripture": "global",
+        "text": "Entity: Varaha Avatar (type: Avatar). Appears in: Vedārthasaṃgraha, Nirukta, Agnipurāṇa, Viṣṇudharma, Viṣṇusmṛti, Ṛgvedasaṃhitā, Padapāṭha, Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā, Baudhāya",
+        "score": 0.5728923082351685
+      },
+      {
+        "level": "entity",
+        "scripture": "global",
+        "text": "Entity: Matsya Avatar (type: Avatar). Appears in: Śāṅkhāyanaśrautasūtra, Agnipurāṇa, Viṣṇusmṛti, Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva, Brahmasaṃhi",
+        "score": 0.5664601922035217
+      },
+      {
+        "level": "entity",
+        "scripture": "global",
+        "text": "Entity: Kurma Avatar (type: Avatar). Appears in: Viṣṇusmṛti, Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva, Śivapurāṇa, Books 1 and 7, Brahmasūtra with Gov",
+        "score": 0.5485689640045166
+      },
+      {
+        "level": "entity",
+        "scripture": "global",
+        "text": "Entity: Parashurama (type: Avatar). Appears in: Bhāgavatapurāṇa, Āśvalāyanaśrautasūtra, Viṣṇupurāṇa, Mahābhāratatātparyanirṇaya, Pañcaviṃśabrāhmaṇa, Atharvavedapariśiṣṭas. Total mentions: 18.",
+        "score": 0.5470888614654541
+      }
+    ],
+    "graph_evidence": [
+      {
+        "entity": "Vishnu",
+        "type": "Deity",
+        "mentions": 610,
+        "relationship_count": 57,
+        "top_relationships": [
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          }
+        ]
+      }
+    ],
+    "evidence_count": 11,
+    "confidence": "medium"
+  },
+  "What is the relationship between Krishna and Arjuna?": {
+    "question": "What is the relationship between Krishna and Arjuna?",
+    "entities_found": [
+      "Krishna",
+      "Arjuna"
+    ],
+    "semantic_evidence": [
+      {
+        "level": "verse",
+        "scripture": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "arjunaḥ (uvāca) ---",
+        "score": 0.6019299030303955
+      },
+      {
+        "level": "verse",
+        "scripture": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "arjuna uvāca ---",
+        "score": 0.5983667373657227
+      },
+      {
+        "level": "verse",
+        "scripture": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "bhagavantam arjuna",
+        "score": 0.5908420085906982
+      },
+      {
+        "level": "dialogue",
+        "scripture": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+        "score": 0.567293107509613
+      },
+      {
+        "level": "verse",
+        "scripture": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "praṣṭum arjuna uvāca ---",
+        "score": 0.5663312673568726
+      }
+    ],
+    "graph_evidence": [
+      {
+        "entity": "Krishna",
+        "type": "Deity",
+        "mentions": 645,
+        "relationship_count": 48,
+        "top_relationships": [
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          }
+        ]
+      },
+      {
+        "entity": "Arjuna",
+        "type": "Person",
+        "mentions": 407,
+        "relationship_count": 42,
+        "top_relationships": [
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "FATHER_OF",
+            "target": "Person:Arjuna"
+          },
+          {
+            "type": "HUSBAND_OF",
+            "target": "Person:Draupadi"
+          }
+        ]
+      }
+    ],
+    "evidence_count": 12,
+    "confidence": "high"
+  },
+  "What teachings does the Bhagavad Gita contain?": {
+    "question": "What teachings does the Bhagavad Gita contain?",
+    "entities_found": [
+      "Bhagavad Gita"
+    ],
+    "semantic_evidence": [
+      {
+        "level": "verse",
+        "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "text": "brahmārpaṇam [Gītā",
+        "score": 0.6737749576568604
+      },
+      {
+        "level": "verse",
+        "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "text": "sarvārambha-parityāgī [Gītā",
+        "score": 0.6719304919242859
+      },
+      {
+        "level": "verse",
+        "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "text": "brahmacāri-vrate sthitaḥ [Gītā",
+        "score": 0.6694247722625732
+      },
+      {
+        "level": "verse",
+        "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "text": "na sa bhūyo 'bhijāyate [Gītā",
+        "score": 0.6629776358604431
+      },
+      {
+        "level": "verse",
+        "scripture": "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+        "text": "evaṃ codito 'rjunena bhagavān uvāca -",
+        "score": 0.6531210541725159
+      }
+    ],
+    "graph_evidence": [
+      {
+        "entity": "Bhagavad Gita",
+        "type": "Text",
+        "mentions": 0,
+        "relationship_count": 7,
+        "top_relationships": [
+          {
+            "type": "APPEARS_IN",
+            "target": "Bhagavad Gita"
+          },
+          {
+            "type": "APPEARS_IN",
+            "target": "Bhagavad Gita"
+          },
+          {
+            "type": "TAUGHT_IN",
+            "target": "Bhagavad Gita"
+          },
+          {
+            "type": "TAUGHT_IN",
+            "target": "Bhagavad Gita"
+          },
+          {
+            "type": "TAUGHT_IN",
+            "target": "Bhagavad Gita"
+          }
+        ]
+      }
+    ],
+    "evidence_count": 11,
+    "confidence": "medium"
+  },
+  "Who are the Pandavas in the Mahabharata?": {
+    "question": "Who are the Pandavas in the Mahabharata?",
+    "entities_found": [
+      "Bharata",
+      "Pandava"
+    ],
+    "semantic_evidence": [
+      {
+        "level": "verse",
+        "scripture": "Mahābhāratatātparyanirṇaya",
+        "text": "Tai. Ā.",
+        "score": 0.6294867992401123
+      },
+      {
+        "level": "verse",
+        "scripture": "Mahābhāratatātparyanirṇaya",
+        "text": "Tai. U.",
+        "score": 0.6249321699142456
+      },
+      {
+        "level": "verse",
+        "scripture": "Mahābhāratatātparyanirṇaya",
+        "text": "Mahā. Ādi.",
+        "score": 0.6184766292572021
+      },
+      {
+        "level": "verse",
+        "scripture": "Mahābhāratatātparyanirṇaya",
+        "text": "Mahā.",
+        "score": 0.615120530128479
+      },
+      {
+        "level": "verse",
+        "scripture": "Mahābhāratatātparyanirṇaya",
+        "text": "Mahā.",
+        "score": 0.615120530128479
+      }
+    ],
+    "graph_evidence": [
+      {
+        "entity": "Bharata",
+        "type": "Person",
+        "mentions": 40,
+        "relationship_count": 32,
+        "top_relationships": [
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          }
+        ]
+      },
+      {
+        "entity": "Pandava",
+        "type": "Dynasty",
+        "mentions": 1077,
+        "relationship_count": 16,
+        "top_relationships": [
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          },
+          {
+            "type": "MENTIONED_IN",
+            "target": ""
+          }
+        ]
+      }
+    ],
+    "evidence_count": 12,
+    "confidence": "high"
+  }
+}

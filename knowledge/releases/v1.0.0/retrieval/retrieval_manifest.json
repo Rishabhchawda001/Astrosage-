@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "knowledge_version": "1.0.0",
+  "git_commit": "4fe139691985f4f4381243b1d4d75a3c66dce75f",
+  "generated": "2026-07-19T02:43:20.962202+00:00",
+  "generator": "Phase 13 Hybrid Retrieval Pipeline",
+  "search_engine": {
+    "lexical": "BM25 (k1=1.5, b=0.75)",
+    "semantic": "FAISS (all-MiniLM-L6-v2, 384d)",
+    "fusion": "alpha-weighted linear combination",
+    "default_alpha": 0.6
+  },
+  "stats": {
+    "total_chunks_indexed": 120548,
+    "vocabulary_size": 375327,
+    "faiss_vectors": 120548
+  },
+  "artifacts": {
+    "bm25_index.json": {
+      "sha256": "3f1a8f03ce1aace64d376cacae51cbb6cfaf575303b168bcbd2ff18b4241f22c",
+      "size": 12290321
+    },
+    "retrieval_manifest.json": {
+      "sha256": "524503c341bc1fa1b11338081ca0fb5ac9c9cc6b3a697511969df7630ab61388",
+      "size": 685
+    }
+  }
+}

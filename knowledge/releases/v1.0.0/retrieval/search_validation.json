@@ -1,0 +1,252 @@
+{
+  "Who is Vishnu and what is his role?": {
+    "results": [
+      {
+        "chunk_id": "a920b6ce1154061fb3447253",
+        "level": "event",
+        "scripture_id": "Vishnu Purana",
+        "text": "Event: Vamana Avatar. Location: Bhuloka. Participants: Bali, Indra, Vamana.",
+        "score": 0.7934,
+        "bm25_score": 0.6903,
+        "semantic_score": 0.8622
+      },
+      {
+        "chunk_id": "ef147129d6742ea4e8bcf01c",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Vishnu Purana (type: Text). Appears in: unknown. Total mentions: 0.",
+        "score": 0.7705,
+        "bm25_score": 0.6713,
+        "semantic_score": 0.8366
+      },
+      {
+        "chunk_id": "e12464dbe2c902834aa968d3",
+        "level": "scripture",
+        "scripture_id": "VISHNU_SM",
+        "text": "Scripture: VISHNU_SM. Canonical units: 4748. Entities mentioned: 27.",
+        "score": 0.6,
+        "bm25_score": 0.0,
+        "semantic_score": 1.0
+      },
+      {
+        "chunk_id": "e8fb26943f8fc7ee61e127a1",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Vishnu (type: Deity). Appears in: Vedārthasaṃgraha, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Vaikhānasadharmasūtra, Dharmasūtra, Brahmasūtra2 with Śaṃkara's Śārīra",
+        "score": 0.5393,
+        "bm25_score": 0.0,
+        "semantic_score": 0.8988
+      },
+      {
+        "chunk_id": "6e5d63050e004565adc48107",
+        "level": "verse",
+        "scripture_id": "Kiraṇatantra, 1-6 with the commentary of Rāmakaṇṭha",
+        "text": "nidrāstotrādau ca nārāyaṇabhaṭṭokta eva mahābhārate ca darśitaḥ",
+        "score": 0.5201,
+        "bm25_score": 0.0,
+        "semantic_score": 0.8668
+      }
+    ],
+    "time_ms": 1012
+  },
+  "What is the teaching about dharma in the Bhagavad Gita?": {
+    "results": [
+      {
+        "chunk_id": "c44039fb799787b7d201150a",
+        "level": "dialogue",
+        "scripture_id": "Bhagavad Gita",
+        "text": "Dialogue: Krishna speaks to Arjuna. Topic: dharma_and_duty. Context: Kurukshetra battlefield. Verses: 1.1-18.78. Scripture: Bhagavad Gita.",
+        "score": 0.8375,
+        "bm25_score": 0.6023,
+        "semantic_score": 0.9943
+      },
+      {
+        "chunk_id": "f240a422c0058b848f51a285",
+        "level": "verse",
+        "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "ity ekādaśoketḥ pratipadam eva bhajanānurūpa-bhagavad-anubhava-lābhāt | dharmyaṃ dharmād anapetaṃ sarva-dharmākaraṇe 'pi sarva-dharma-siddheḥ -",
+        "score": 0.7183,
+        "bm25_score": 0.3694,
+        "semantic_score": 0.9509
+      },
+      {
+        "chunk_id": "b01625a7ae3e11cda4d4140b",
+        "level": "verse",
+        "scripture_id": "Dharmasūtra",
+        "text": "bhāvaduṣṭam |",
+        "score": 0.6,
+        "bm25_score": 0.0,
+        "semantic_score": 1.0
+      },
+      {
+        "chunk_id": "c54a617862ed1d1f3a107156",
+        "level": "dialogue",
+        "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "Dialogue: Sanjaya speaks to unknown. Topic: dharma. Context: chapter 0. Verses: . Scripture: Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva.",
+        "score": 0.5867,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9779
+      },
+      {
+        "chunk_id": "f240a422c0058b848f51a285",
+        "level": "verse",
+        "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "vidharmaḥ para-dharmaś ca ābhāsa upamā chalaḥ | adharma-śākhāḥ pañcemā dharma-jño 'dharmavat tyajet || [BhP",
+        "score": 0.5865,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9775
+      }
+    ],
+    "time_ms": 962
+  },
+  "Tell me about the dialogue between Krishna and Arjuna": {
+    "results": [
+      {
+        "chunk_id": "c44039fb799787b7d201150a",
+        "level": "dialogue",
+        "scripture_id": "Bhagavad Gita",
+        "text": "Dialogue: Krishna speaks to Arjuna. Topic: dharma_and_duty. Context: Kurukshetra battlefield. Verses: 1.1-18.78. Scripture: Bhagavad Gita.",
+        "score": 0.978,
+        "bm25_score": 1.0,
+        "semantic_score": 0.9633
+      },
+      {
+        "chunk_id": "7615f1f51d7ccd1069c6ce89",
+        "level": "dialogue",
+        "scripture_id": "Bhāgavatapurāṇa",
+        "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhāgavatapurāṇa.",
+        "score": 0.6,
+        "bm25_score": 0.0,
+        "semantic_score": 1.0
+      },
+      {
+        "chunk_id": "3eddaa7efd52dda576a9ccd2",
+        "level": "dialogue",
+        "scripture_id": "Bhagavadgītābhāṣya",
+        "text": "Dialogue: Arjuna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadgītābhāṣya.",
+        "score": 0.5904,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9841
+      },
+      {
+        "chunk_id": "c8e50167e67290488b28e4f9",
+        "level": "dialogue",
+        "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "Dialogue: Arjuna speaks to unknown. Topic: general. Context: chapter 0. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+        "score": 0.5873,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9789
+      },
+      {
+        "chunk_id": "821661cbcaeeba44baf8bbb3",
+        "level": "dialogue",
+        "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "Dialogue: Arjuna speaks to unknown. Topic: karma. Context: chapter 0. Verses: . Scripture: Bhagavadāśayānusaraṇabhāsya.",
+        "score": 0.5826,
+        "bm25_score": 0.0,
+        "semantic_score": 0.971
+      }
+    ],
+    "time_ms": 745
+  },
+  "What are the yoga practices described in the Yoga Sutras?": {
+    "results": [
+      {
+        "chunk_id": "4d56b960395293b2b42e66d3",
+        "level": "verse",
+        "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "ity ādau tu samādhir yoga-śabdenoktaḥ | tatra mukhyo yogaḥ ka ity apekṣāyāṃ samādhim eva svarūpataḥ phalataś ca lakṣayan sa eva mukhyo yoga ity āha yatreti sārdhais tribhiḥ | yatra yasmin avasthā-viśe",
+        "score": 0.6,
+        "bm25_score": 0.0,
+        "semantic_score": 1.0
+      },
+      {
+        "chunk_id": "f240a422c0058b848f51a285",
+        "level": "verse",
+        "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "viśvanāthaḥ : nātyaśnatas tu yogo 'stīty ādau yoga-śabdena samādhir uktaḥ | sa ca saṃprajñāto 'saṃprajñātaś ca | sa-vitarka-sa-vicāra-bhedāt saṃprajñāto bahu-vidhaḥ | asaṃprajñāta-samādhi-rūpo yogaḥ k",
+        "score": 0.5893,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9821
+      },
+      {
+        "chunk_id": "f240a422c0058b848f51a285",
+        "level": "verse",
+        "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "yatroparamata ity ārabhya bahubhir viśeṣaṇair yo nivṛttikaḥ paramānandābhivyañjakaś cittāvasthā-viśeṣa uktas taṃ citta-vṛtti-nirodhaṃ citta-vṛtti-maya-sarva-duḥkha-virodhitvena duḥkha-viyogam eva sant",
+        "score": 0.5863,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9772
+      },
+      {
+        "chunk_id": "7ff7ba4119699eade31dd25d",
+        "level": "scripture",
+        "scripture_id": "YOGA_SUTRA",
+        "text": "Scripture: YOGA_SUTRA. Canonical units: 268. Entities mentioned: 13.",
+        "score": 0.5856,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9761
+      },
+      {
+        "chunk_id": "f240a422c0058b848f51a285",
+        "level": "verse",
+        "scripture_id": "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+        "text": "baladevaḥ : sa yogaḥ prārambha-daśāyāṃ niścayena prayatne kṛte saṃsetsyaty evety adhyavasāyena yoktavyo 'nuṣṭheyaḥ | ātmany ayogatva-mananaṃ nirvedas tad-rahitena cetasā hṛtāṇḍārṇava-śoṣakat-pakṣivat ",
+        "score": 0.5748,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9579
+      }
+    ],
+    "time_ms": 829
+  },
+  "Who are the Pandavas in the Mahabharata?": {
+    "results": [
+      {
+        "chunk_id": "2ae068561bf6de43483f1ce2",
+        "level": "verse",
+        "scripture_id": "Mahābhāratatātparyanirṇaya",
+        "text": "Tai. Ā.",
+        "score": 0.6,
+        "bm25_score": 0.0,
+        "semantic_score": 1.0
+      },
+      {
+        "chunk_id": "70f58fe69bbe8328b2327b50",
+        "level": "verse",
+        "scripture_id": "Mahābhāratatātparyanirṇaya",
+        "text": "Tai. U.",
+        "score": 0.5957,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9928
+      },
+      {
+        "chunk_id": "f6f096da9ec2d4d8b37e2904",
+        "level": "verse",
+        "scripture_id": "Mahābhāratatātparyanirṇaya",
+        "text": "Mahā. Ādi.",
+        "score": 0.5895,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9825
+      },
+      {
+        "chunk_id": "743440040001cc89d63e6441",
+        "level": "verse",
+        "scripture_id": "Mahābhāratatātparyanirṇaya",
+        "text": "Mahā.",
+        "score": 0.5863,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9772
+      },
+      {
+        "chunk_id": "fda94adbaefe93e2ec4e20cb",
+        "level": "verse",
+        "scripture_id": "Mahābhāratatātparyanirṇaya",
+        "text": "Mahā.",
+        "score": 0.5863,
+        "bm25_score": 0.0,
+        "semantic_score": 0.9772
+      }
+    ],
+    "time_ms": 745
+  }
+}

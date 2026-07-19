@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "knowledge_version": "1.0.0",
+  "git_commit": "fe505cef4cd674d53a235bc5d24fc89c6fdd1692",
+  "generated": "2026-07-18T21:02:40.007846+00:00",
+  "generator": "Phase 12 Embedding Pipeline",
+  "model": {
+    "name": "all-MiniLM-L6-v2",
+    "dimensions": 384,
+    "normalized": true,
+    "max_sequence_length": 256,
+    "parameters": "~22M",
+    "source": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  "stats": {
+    "total_chunks": 120548,
+    "embedding_shape": [
+      120548,
+      384
+    ],
+    "generation_time_seconds": 3406.1,
+    "chunks_per_second": 35.0
+  },
+  "artifacts": {
+    "embeddings.npy": {
+      "sha256": "65586fef0bfe9849e3c43051479931cf37a7904f5cf5936fc42e943735333bd2",
+      "size": 185161856
+    },
+    "chunk_id_mapping.json": {
+      "sha256": "e7b4bb8c407afa13bebbe196454324f53b98fba40b6bd00919ef7afa2fbf5415",
+      "size": 3375451
+    },
+    "faiss_index.bin": {
+      "sha256": "fddc90867e8797c3c4a479caaaedbcb5aa528b59450c882522b72d333407ed0c",
+      "size": 185161773
+    },
+    "embedding_manifest.json": {
+      "sha256": "7efdb26a42d285418b3b4648100c9af5647adbc8313cbe4c251693ac8cadf336",
+      "size": 1038
+    }
+  }
+}

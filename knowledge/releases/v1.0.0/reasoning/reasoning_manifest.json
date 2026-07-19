@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "knowledge_version": "1.0.0",
+  "git_commit": "7556006567f41edc7f21ee8409ec6373f1c7e90e",
+  "generated": "2026-07-19T02:47:25.437991+00:00",
+  "generator": "Phase 14 Reasoning Engine",
+  "capabilities": [
+    "Entity reasoning (relationships, mentions, sources)",
+    "Question answering (graph + semantic evidence)",
+    "Evidence chain construction",
+    "Confidence scoring"
+  ],
+  "stats": {
+    "entities_indexed": 391,
+    "edges_indexed": 5044,
+    "chunks_indexed": 120548,
+    "entity_tests": 5,
+    "question_tests": 4
+  },
+  "artifacts": {
+    "entity_reasoning.json": {
+      "sha256": "8b470582d35b90fdd203c1474401ec84edfd57fd5767537df6f28b4fe9353227",
+      "size": 84972
+    },
+    "question_reasoning.json": {
+      "sha256": "620d8d0a5fee995205318167eedb6e56dbc6f73c06b58b94f558903ef7f2fb4f",
+      "size": 9720
+    }
+  }
+}

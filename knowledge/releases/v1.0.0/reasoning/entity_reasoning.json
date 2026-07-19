@@ -1,0 +1,2662 @@
+{
+  "Vishnu": {
+    "entity": "Vishnu",
+    "type": "Deity",
+    "guid": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+    "total_mentions": 610,
+    "sources": [
+      "Vedārthasaṃgraha",
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "Vaikhānasadharmasūtra",
+      "Dharmasūtra",
+      "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+      "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+      "Agnipurāṇa",
+      "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+      "Viṣṇudharma",
+      "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Bhagavadgītābhāṣya",
+      "Aitareyopaniṣad with the commentary ascribed to Śaṃkara",
+      "Harivaṃśa, Appendix I",
+      "Narasiṃhapurāṇa",
+      "Āpastambadharmasūtra",
+      "Nirukta",
+      "Garuḍapurāṇa",
+      "Vāmanapurāṇa, Saromāhātmya",
+      "Bhāgavatapurāṇa",
+      "Baudhāyanadharmasūtra",
+      "Āśvalāyanaśrautasūtra",
+      "Viṣṇusmṛti",
+      "Sāmavedasaṃhitā",
+      "Vāmanapurāṇa, 1-69",
+      "Ṛgvedasaṃhitā, Padapāṭha",
+      "Skandapurāṇa: Revākhaṇḍa (RKS)",
+      "Bhagavadāśayānusaraṇabhāsya",
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Mahābhāratatātparyanirṇaya",
+      "Śāṅkhāyanaśrautasūtra",
+      "Katha Upanishad",
+      "Manusmṛti"
+    ],
+    "scriptures": [
+      "RM",
+      "BRAH",
+      "GARUDA",
+      "SHIV",
+      "VEDANTA_SUTRA",
+      "CHAND",
+      "VAISHESHIKA_SUTRA",
+      "VARAH",
+      "VAMAN",
+      "KATH",
+      "SV",
+      "NARADA",
+      "AGNI",
+      "HV",
+      "VISH",
+      "SKAND",
+      "KURM",
+      "MARK",
+      "AITAREYA",
+      "MBH",
+      "MATS",
+      "BAUDHAYANA_DS",
+      "BHAG",
+      "TAITT",
+      "YVK",
+      "DEVI",
+      "BRIHAD",
+      "MANU",
+      "PRASHNA",
+      "KAUS",
+      "VYASA_SM",
+      "MAND",
+      "YVS",
+      "KALI",
+      "AV",
+      "LING"
+    ],
+    "relationships": {
+      "MENTIONED_IN": [
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Brahmasa\\u1e43hit\\u0101 5 with J\\u012bvagosv\\u0101min's Digdar\\u015ban\\u012b\\u1e6d\\u012bk\\u0101\", \"mentions\": 607}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Vaikh\\u0101nasadharmas\\u016btra\", \"mentions\": 607}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Bhagavadg\\u012bt\\u0101 with the commentary ascribed to \\u015aa\\u1e43kara (Adhy\\u0101yas 1-17)\", \"mentions\": 607}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Agnipur\\u0101\\u1e47a\", \"mentions\": 607}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Baudh\\u0101yanadharmas\\u016btra\", \"mentions\": 607}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Skandapur\\u0101\\u1e47a: Rev\\u0101kha\\u1e47\\u1e0da (RKS)\", \"mentions\": 607}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"AITAREYA\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"BHAG\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"BRIHAD\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"CHAND\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"DEVI\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"GARUDA\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"HV\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"KALI\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"KAUS\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"KURM\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"LING\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"MAND\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"MARK\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"MATS\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"MBH\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"NARADA\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"PRASHNA\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"SHIV\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"SV\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"TAITT\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"VAISHESHIKA_SUTRA\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"VAMAN\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"VARAH\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"VEDANTA_SUTRA\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"VISH\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"VYASA_SM\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"YVK\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"YVS\", \"mentions\": 32687}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Katha Upanishad\", \"mentions\": 1}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Manusm\\u1e5bti\", \"mentions\": 1}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Vishnu\", \"scripture\": \"Katha Upanishad\", \"mentions\": 1}",
+          "confidence": 85
+        }
+      ],
+      "INCARNATION_OF": [
+        {
+          "name": "Matsya Avatar",
+          "type": "Avatar",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Kurma Avatar",
+          "type": "Avatar",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Varaha Avatar",
+          "type": "Avatar",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Narasimha Avatar",
+          "type": "Avatar",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Vamana Avatar",
+          "type": "Avatar",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Krishna",
+          "type": "Deity",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Parashurama",
+          "type": "Avatar",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "ABODE_OF": [
+        {
+          "name": "Vaikuntha",
+          "type": "Place",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "WIELDED_BY": [
+        {
+          "name": "Chakra",
+          "type": "Weapon",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Sharnga",
+          "type": "Weapon",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Sudarshana",
+          "type": "Weapon",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "VEHICLE_OF": [
+        {
+          "name": "Garuda",
+          "type": "Deity",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "APPEARS_IN": [
+        {
+          "name": "Rigveda",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Bhagavad Gita",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Vishnu Purana",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Bhagavata Purana",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Garuda Purana",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "DEVOTEE_OF": [
+        {
+          "name": "Prahlada",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "BLESSES": [
+        {
+          "name": "Bali",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "DEFEATS": [
+        {
+          "name": "Bali",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ]
+    },
+    "semantic_evidence": [
+      {
+        "chunk_id": "e12464dbe2c902834aa968d3",
+        "level": "scripture",
+        "scripture_id": "VISHNU_SM",
+        "text": "Scripture: VISHNU_SM. Canonical units: 4748. Entities mentioned: 27.",
+        "score": 0.5436137318611145,
+        "entity_links": [
+          {
+            "guid": null,
+            "name": "Mace"
+          },
+          {
+            "guid": null,
+            "name": "Shesha"
+          },
+          {
+            "guid": null,
+            "name": "Ananta"
+          },
+          {
+            "guid": null,
+            "name": "Fish"
+          },
+          {
+            "guid": null,
+            "name": "Varuna"
+          },
+          {
+            "guid": null,
+            "name": "Lakshmi"
+          },
+          {
+            "guid": null,
+            "name": "Puri"
+          },
+          {
+            "guid": null,
+            "name": "Narmada"
+          },
+          {
+            "guid": null,
+            "name": "Durga"
+          },
+          {
+            "guid": null,
+            "name": "Swan"
+          },
+          {
+            "guid": null,
+            "name": "Svarloka"
+          },
+          {
+            "guid": null,
+            "name": "Brahmaloka"
+          },
+          {
+            "guid": null,
+            "name": "Saraswati"
+          },
+          {
+            "guid": null,
+            "name": "Horse"
+          },
+          {
+            "guid": null,
+            "name": "Cow"
+          },
+          {
+            "guid": null,
+            "name": "Vayu"
+          },
+          {
+            "guid": null,
+            "name": "Bali"
+          },
+          {
+            "guid": null,
+            "name": "Yamuna"
+          },
+          {
+            "guid": null,
+            "name": "Rajas"
+          },
+          {
+            "guid": null,
+            "name": "Vaikuntha"
+          },
+          {
+            "guid": null,
+            "name": "Snake"
+          },
+          {
+            "guid": null,
+            "name": "Elephant"
+          },
+          {
+            "guid": null,
+            "name": "Ganga"
+          },
+          {
+            "guid": null,
+            "name": "Chakra"
+          },
+          {
+            "guid": null,
+            "name": "Monkey"
+          },
+          {
+            "guid": null,
+            "name": "Patala"
+          },
+          {
+            "guid": null,
+            "name": "Bhima"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/scripture_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "4a25fbeaa935635ec9b00646",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Nandi (type: Deity). Appears in: Taittirīya-Upaniṣad with Śaṃkarabhāṣya, Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya), Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya, Śivapurāṇa, Books 1 and 7, Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya ",
+        "score": 0.5122933387756348,
+        "entity_links": [
+          {
+            "guid": "8b3ac23a-c5e0-5884-bccb-ce86130f3566",
+            "name": "Nandi",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "e8fb26943f8fc7ee61e127a1",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Vishnu (type: Deity). Appears in: Vedārthasaṃgraha, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Vaikhānasadharmasūtra, Dharmasūtra, Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary), Brahmasaṃhitā 5 with Jīvagosv",
+        "score": 0.5106483697891235,
+        "entity_links": [
+          {
+            "guid": "6cdcd4d1-d8b4-53cf-83aa-0d3c6e309dbf",
+            "name": "Vishnu",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "13c3693db4b4b98cd3d0223c",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Vishvamitra (type: Deity). Appears in: Vaikhānasadharmasūtra, Nirukta, Skandapurāṇa: Revākhaṇḍa (RKS), Garuḍapurāṇa, Śāṅkhāyanaśrautasūtra, Mārkaṇḍeyapurāṇa, 1-93, Ṛgvedakhilāni, Atharvavedapariśiṣṭas. Total mentions: 46.",
+        "score": 0.505096971988678,
+        "entity_links": [
+          {
+            "guid": "da1b1330-4dfc-5b1a-8e1e-6bcb57d8e7c3",
+            "name": "Vishvamitra",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "eb9ee7b3a75a75064fedd85a",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Vayu (type: Deity). Appears in: Śāṅkhāyanaśrautasūtra, Atharvavedapariśiṣṭas, Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya, Vaikhānasadharmasūtra, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Nirukta, Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūd",
+        "score": 0.5004315972328186,
+        "entity_links": [
+          {
+            "guid": "5c749089-2e3c-5780-bace-659e3cb36514",
+            "name": "Vayu",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      }
+    ],
+    "evidence_chain": [
+      {
+        "type": "MENTIONED_IN",
+        "count": 37,
+        "evidence": "Found 37 MENTIONED_IN relationships with confidence >= 70"
+      },
+      {
+        "type": "INCARNATION_OF",
+        "count": 7,
+        "evidence": "Found 7 INCARNATION_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "ABODE_OF",
+        "count": 1,
+        "evidence": "Found 1 ABODE_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "WIELDED_BY",
+        "count": 3,
+        "evidence": "Found 3 WIELDED_BY relationships with confidence >= 70"
+      },
+      {
+        "type": "VEHICLE_OF",
+        "count": 1,
+        "evidence": "Found 1 VEHICLE_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "APPEARS_IN",
+        "count": 5,
+        "evidence": "Found 5 APPEARS_IN relationships with confidence >= 70"
+      },
+      {
+        "type": "DEVOTEE_OF",
+        "count": 1,
+        "evidence": "Found 1 DEVOTEE_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "BLESSES",
+        "count": 1,
+        "evidence": "Found 1 BLESSES relationships with confidence >= 70"
+      },
+      {
+        "type": "DEFEATS",
+        "count": 1,
+        "evidence": "Found 1 DEFEATS relationships with confidence >= 70"
+      }
+    ]
+  },
+  "Krishna": {
+    "entity": "Krishna",
+    "type": "Deity",
+    "guid": "835f182a-7890-5c65-8de2-e2510b95cc16",
+    "total_mentions": 645,
+    "sources": [
+      "Vedārthasaṃgraha",
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "Vaikhānasadharmasūtra",
+      "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+      "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+      "Agnipurāṇa",
+      "Brahmapurāṇa 1-246",
+      "Āśvalāyanagṛhyasūtra",
+      "Atharvavedapariśiṣṭas",
+      "Viṣṇudharma",
+      "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Bhagavadgītābhāṣya",
+      "Narasiṃhapurāṇa",
+      "Āpastambadharmasūtra",
+      "Śivapurāṇa, Books 1 and 7",
+      "Garuḍapurāṇa",
+      "Bhāgavatapurāṇa",
+      "Baudhāyanadharmasūtra",
+      "Āśvalāyanaśrautasūtra",
+      "Viṣṇusmṛti",
+      "Viṣṇupurāṇa",
+      "Pañcaviṃśabrāhmaṇa",
+      "Vāmanapurāṇa, 1-69",
+      "Ṛgvedasaṃhitā, Padapāṭha",
+      "Vāsiṣṭhadharmasūtra",
+      "Skandapurāṇa: Revākhaṇḍa (RKS)",
+      "Bhagavadāśayānusaraṇabhāsya",
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Mahābhāratatātparyanirṇaya",
+      "Śāṅkhāyanaśrautasūtra",
+      "Brahmāṇḍapurāṇa"
+    ],
+    "scriptures": [
+      "RM",
+      "BRAH",
+      "GARUDA",
+      "SHIV",
+      "VEDANTA_SUTRA",
+      "CHAND",
+      "VARAH",
+      "VAMAN",
+      "SV",
+      "NARADA",
+      "AGNI",
+      "HV",
+      "VISH",
+      "SKAND",
+      "KURM",
+      "MARK",
+      "AITAREYA",
+      "MBH",
+      "MATS",
+      "BAUDHAYANA_DS",
+      "BHAG",
+      "TAITT",
+      "YVK",
+      "DEVI",
+      "BRIHAD",
+      "PRASHNA",
+      "KAUS",
+      "VYASA_SM",
+      "MAND",
+      "YVS",
+      "KALI",
+      "AV",
+      "LING"
+    ],
+    "relationships": {
+      "MENTIONED_IN": [
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"Brahmasa\\u1e43hit\\u0101 5 with J\\u012bvagosv\\u0101min's Digdar\\u015ban\\u012b\\u1e6d\\u012bk\\u0101\", \"mentions\": 385}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"Atharvavedapari\\u015bi\\u1e63\\u1e6das\", \"mentions\": 385}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"Vaikh\\u0101nasadharmas\\u016btra\", \"mentions\": 385}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"Agnipur\\u0101\\u1e47a\", \"mentions\": 385}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"Baudh\\u0101yanadharmas\\u016btra\", \"mentions\": 385}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"Skandapur\\u0101\\u1e47a: Rev\\u0101kha\\u1e47\\u1e0da (RKS)\", \"mentions\": 385}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"AITAREYA\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"BHAG\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"BRIHAD\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"CHAND\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"DEVI\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"GARUDA\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"HV\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"KALI\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"KAUS\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"KURM\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"LING\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"MAND\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"MARK\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"MATS\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"MBH\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"NARADA\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"PRASHNA\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"SHIV\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"SV\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"TAITT\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"VAMAN\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"VARAH\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"VEDANTA_SUTRA\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"VISH\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"VYASA_SM\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"YVK\", \"mentions\": 16741}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Krishna\", \"scripture\": \"YVS\", \"mentions\": 16741}",
+          "confidence": 85
+        }
+      ],
+      "HUSBAND_OF": [
+        {
+          "name": "Subhadra",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "BROTHER_OF": [
+        {
+          "name": "Balarama",
+          "type": "Deity",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "SISTER_OF": [
+        {
+          "name": "Subhadra",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "INCARNATION_OF": [
+        {
+          "name": "Vishnu",
+          "type": "Deity",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "ANCESTOR_OF": [
+        {
+          "name": "Yadu",
+          "type": "Dynasty",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "FATHER_OF": [
+        {
+          "name": "Vasudeva",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "MOTHER_OF": [
+        {
+          "name": "Devaki",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "APPEARS_IN": [
+        {
+          "name": "Bhagavad Gita",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Bhagavata Purana",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Harivamsa",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Vishnu Purana",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Brahma Vaivarta Purana",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "TEACHES": [
+        {
+          "name": "Arjuna",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "GUIDES": [
+        {
+          "name": "Arjuna",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "PROTECTS": [
+        {
+          "name": "Arjuna",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ]
+    },
+    "semantic_evidence": [
+      {
+        "chunk_id": "ade66552a2446a095d4bcee7",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Krishna (type: Deity). Appears in: Vedārthasaṃgraha, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Vaikhānasadharmasūtra, Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary), Brahmasaṃhitā 5 with Jīvagosvāmin's Digda",
+        "score": 0.6060835123062134,
+        "entity_links": [
+          {
+            "guid": "835f182a-7890-5c65-8de2-e2510b95cc16",
+            "name": "Krishna",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "eb9ee7b3a75a75064fedd85a",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Vayu (type: Deity). Appears in: Śāṅkhāyanaśrautasūtra, Atharvavedapariśiṣṭas, Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya, Vaikhānasadharmasūtra, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Nirukta, Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūd",
+        "score": 0.5275179743766785,
+        "entity_links": [
+          {
+            "guid": "5c749089-2e3c-5780-bace-659e3cb36514",
+            "name": "Vayu",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "b5bbd5a99d0c12e4700ad9ac",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Shiva (type: Deity). Appears in: Vedārthasaṃgraha, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Dharmasūtra, Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary), Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā, A",
+        "score": 0.5255873799324036,
+        "entity_links": [
+          {
+            "guid": "e8cff3ab-3cf2-525f-be9f-d2b44cb5fbf5",
+            "name": "Shiva",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "52308a9ed8d882873ba31d8e",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Chandra (type: Deity). Appears in: Vedārthasaṃgraha, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Vaikhānasadharmasūtra, Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary), Brahmasaṃhitā 5 with Jīvagosvāmin's Digda",
+        "score": 0.5134715437889099,
+        "entity_links": [
+          {
+            "guid": "3f117f52-2290-5558-b9cd-d5010b5c6328",
+            "name": "Chandra",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "c31b0114b7a2cd39f6805b98",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Ganga (type: Deity). Appears in: Nāradapurāṇa (or Nāradīyapurāṇa), Vedārthasaṃgraha, Baudhāyanadharmasūtra, Skandapurāṇa: Revākhaṇḍa (RKS), Vāsiṣṭhadharmasūtra, Garuḍapurāṇa, Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva, Bhagavadgītā with the com",
+        "score": 0.5073128938674927,
+        "entity_links": [
+          {
+            "guid": "e395e18f-847e-5096-ac6b-d92198f1f902",
+            "name": "Ganga",
+            "type": "Deity"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      }
+    ],
+    "evidence_chain": [
+      {
+        "type": "MENTIONED_IN",
+        "count": 33,
+        "evidence": "Found 33 MENTIONED_IN relationships with confidence >= 70"
+      },
+      {
+        "type": "HUSBAND_OF",
+        "count": 1,
+        "evidence": "Found 1 HUSBAND_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "BROTHER_OF",
+        "count": 1,
+        "evidence": "Found 1 BROTHER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "SISTER_OF",
+        "count": 1,
+        "evidence": "Found 1 SISTER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "INCARNATION_OF",
+        "count": 1,
+        "evidence": "Found 1 INCARNATION_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "ANCESTOR_OF",
+        "count": 1,
+        "evidence": "Found 1 ANCESTOR_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "FATHER_OF",
+        "count": 1,
+        "evidence": "Found 1 FATHER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "MOTHER_OF",
+        "count": 1,
+        "evidence": "Found 1 MOTHER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "APPEARS_IN",
+        "count": 5,
+        "evidence": "Found 5 APPEARS_IN relationships with confidence >= 70"
+      },
+      {
+        "type": "TEACHES",
+        "count": 1,
+        "evidence": "Found 1 TEACHES relationships with confidence >= 70"
+      },
+      {
+        "type": "GUIDES",
+        "count": 1,
+        "evidence": "Found 1 GUIDES relationships with confidence >= 70"
+      },
+      {
+        "type": "PROTECTS",
+        "count": 1,
+        "evidence": "Found 1 PROTECTS relationships with confidence >= 70"
+      }
+    ]
+  },
+  "Arjuna": {
+    "entity": "Arjuna",
+    "type": "Person",
+    "guid": "8bb32c8c-99df-567b-aed9-f753deddf065",
+    "total_mentions": 407,
+    "sources": [
+      "Viṣṇudharma",
+      "Vedārthasaṃgraha",
+      "Ṛgvedasaṃhitā, Padapāṭha",
+      "Vāmanapurāṇa, 1-69",
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Garuḍapurāṇa",
+      "Vāmanapurāṇa, Saromāhātmya",
+      "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+      "Bhāgavatapurāṇa",
+      "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+      "Āśvalāyanaśrautasūtra",
+      "Bhagavadgītābhāṣya",
+      "Bhagavadāśayānusaraṇabhāsya",
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Mahābhāratatātparyanirṇaya",
+      "Mārkaṇḍeyapurāṇa, 1-93",
+      "Atharvavedapariśiṣṭas"
+    ],
+    "scriptures": [
+      "RM",
+      "BRAH",
+      "GARUDA",
+      "SHIV",
+      "VEDANTA_SUTRA",
+      "CHAND",
+      "VARAH",
+      "VAMAN",
+      "SV",
+      "NARADA",
+      "AGNI",
+      "HV",
+      "VISH",
+      "KURM",
+      "MARK",
+      "SKAND",
+      "MBH",
+      "MATS",
+      "BHAG",
+      "TAITT",
+      "YVK",
+      "DEVI",
+      "BRIHAD",
+      "PRASHNA",
+      "MAND",
+      "YVS",
+      "KALI",
+      "AV",
+      "LING"
+    ],
+    "relationships": {
+      "MENTIONED_IN": [
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"Vi\\u1e63\\u1e47udharma\", \"mentions\": 407}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"Bhagavadg\\u012bt\\u0101-4comm with the commentaries of \\u015ar\\u012bdhara, Madhus\\u016bdana, Vi\\u015bvan\\u0101tha and Baladeva\", \"mentions\": 407}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"Brahmasa\\u1e43hit\\u0101 5 with J\\u012bvagosv\\u0101min's Digdar\\u015ban\\u012b\\u1e6d\\u012bk\\u0101\", \"mentions\": 407}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"AGNI\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"BHAG\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"BRIHAD\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"CHAND\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"DEVI\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"GARUDA\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"HV\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"KALI\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"KURM\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"LING\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"MAND\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"MARK\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"MATS\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"MBH\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"NARADA\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"PRASHNA\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"SHIV\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"SKAND\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"SV\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"TAITT\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"VAMAN\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"VARAH\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"VEDANTA_SUTRA\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"VISH\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"YVK\", \"mentions\": 2297}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Arjuna\", \"scripture\": \"YVS\", \"mentions\": 2297}",
+          "confidence": 85
+        }
+      ],
+      "FATHER_OF": [
+        {
+          "name": "Pandu",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "HUSBAND_OF": [
+        {
+          "name": "Draupadi",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Subhadra",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "MOTHER_OF": [
+        {
+          "name": "Kunti",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "BROTHER_OF": [
+        {
+          "name": "Karna",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "TEACHER_OF": [
+        {
+          "name": "Drona",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        },
+        {
+          "name": "Kripacharya",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "BATTLEFIELD_OF": [
+        {
+          "name": "Kurukshetra",
+          "type": "Place",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "WIELDED_BY": [
+        {
+          "name": "Gandiva",
+          "type": "Weapon",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "SON_OF": [
+        {
+          "name": "Abhimanyu",
+          "type": "Person",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "TEACHES": [
+        {
+          "name": "Krishna",
+          "type": "Deity",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "GUIDES": [
+        {
+          "name": "Krishna",
+          "type": "Deity",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "PROTECTS": [
+        {
+          "name": "Krishna",
+          "type": "Deity",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ]
+    },
+    "semantic_evidence": [
+      {
+        "chunk_id": "7599ed652d59e1e29f97c369",
+        "level": "verse",
+        "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "arjunaḥ (uvāca) ---",
+        "score": 0.642916202545166,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "7599ed652d59e1e29f97c369",
+        "level": "verse",
+        "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "arjuna uvāca ---",
+        "score": 0.6408182382583618,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "a3aeb8dda8362ee1c1d3497a",
+        "level": "verse",
+        "scripture_id": "Mārkaṇḍeyapurāṇa, 1-93",
+        "text": "arjuna uvāca",
+        "score": 0.6309773921966553,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Mārkaṇḍeyapurāṇa, 1-93",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "a3aeb8dda8362ee1c1d3497a",
+        "level": "verse",
+        "scripture_id": "Mārkaṇḍeyapurāṇa, 1-93",
+        "text": "arjuna uvāca",
+        "score": 0.6309773921966553,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Mārkaṇḍeyapurāṇa, 1-93",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "c132d156b022f23e60050205",
+        "level": "entity",
+        "scripture_id": "global",
+        "text": "Entity: Arjuna (type: Person). Appears in: Viṣṇudharma, Vedārthasaṃgraha, Ṛgvedasaṃhitā, Padapāṭha, Vāmanapurāṇa, 1-69, Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17), Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya, Garuḍapurāṇa, Vāmanapurāṇa, Saromāhātmya, Brahmasūtra2 with ",
+        "score": 0.6245769262313843,
+        "entity_links": [
+          {
+            "guid": "8bb32c8c-99df-567b-aed9-f753deddf065",
+            "name": "Arjuna",
+            "type": "Person"
+          }
+        ],
+        "provenance": {
+          "source": "knowledge/releases/v1.0.0/graph/nodes/entity_nodes.json",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      }
+    ],
+    "evidence_chain": [
+      {
+        "type": "MENTIONED_IN",
+        "count": 29,
+        "evidence": "Found 29 MENTIONED_IN relationships with confidence >= 70"
+      },
+      {
+        "type": "FATHER_OF",
+        "count": 1,
+        "evidence": "Found 1 FATHER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "HUSBAND_OF",
+        "count": 2,
+        "evidence": "Found 2 HUSBAND_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "MOTHER_OF",
+        "count": 1,
+        "evidence": "Found 1 MOTHER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "BROTHER_OF",
+        "count": 1,
+        "evidence": "Found 1 BROTHER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "TEACHER_OF",
+        "count": 2,
+        "evidence": "Found 2 TEACHER_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "BATTLEFIELD_OF",
+        "count": 1,
+        "evidence": "Found 1 BATTLEFIELD_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "WIELDED_BY",
+        "count": 1,
+        "evidence": "Found 1 WIELDED_BY relationships with confidence >= 70"
+      },
+      {
+        "type": "SON_OF",
+        "count": 1,
+        "evidence": "Found 1 SON_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "TEACHES",
+        "count": 1,
+        "evidence": "Found 1 TEACHES relationships with confidence >= 70"
+      },
+      {
+        "type": "GUIDES",
+        "count": 1,
+        "evidence": "Found 1 GUIDES relationships with confidence >= 70"
+      },
+      {
+        "type": "PROTECTS",
+        "count": 1,
+        "evidence": "Found 1 PROTECTS relationships with confidence >= 70"
+      }
+    ]
+  },
+  "Dharma": {
+    "entity": "Dharma",
+    "type": "Concept",
+    "guid": "4e5b939f-f7be-5d9c-a737-db995d6a4ac0",
+    "total_mentions": 612,
+    "sources": [
+      "Vedārthasaṃgraha",
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "Vaikhānasadharmasūtra",
+      "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+      "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+      "Agnipurāṇa",
+      "Kauṣītakibrāhmaṇa (or Śāṅkhāyanabrāhmaṇa)",
+      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+      "Āśvalāyanagṛhyasūtra",
+      "Viṣṇudharma",
+      "Brahmasūtra with Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Yogasūtra with Bhāṣya",
+      "Bhagavadgītābhāṣya",
+      "Āpastambadharmasūtra",
+      "Śivapurāṇa, Books 1 and 7",
+      "Nirukta",
+      "Bhāgavatapurāṇa",
+      "Gopathabrāhmaṇa",
+      "Baudhāyanadharmasūtra",
+      "Āśvalāyanaśrautasūtra",
+      "Viṣṇusmṛti",
+      "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+      "Mārkaṇḍeyapurāṇa, 1-93",
+      "Ṛgvedasaṃhitā, Padapāṭha",
+      "Vāsiṣṭhadharmasūtra",
+      "Āpastambagṛhyasūtra with Haradatta's Anākulāvṛtti and Sudarśana's Gṛhyatātparyadarśanavyākhyā",
+      "Bhagavadāśayānusaraṇabhāsya",
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Mahābhāratatātparyanirṇaya",
+      "Śāṅkhāyanaśrautasūtra",
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Yogasūtra",
+      "Manusmṛti"
+    ],
+    "scriptures": [
+      "RM",
+      "BRAH",
+      "GARUDA",
+      "SHIV",
+      "VEDANTA_SUTRA",
+      "CHAND",
+      "YOGA_SUTRA",
+      "VAISHESHIKA_SUTRA",
+      "VARAH",
+      "VAMAN",
+      "SV",
+      "NARADA",
+      "AGNI",
+      "HV",
+      "VISH",
+      "KURM",
+      "MARK",
+      "SKAND",
+      "AITAREYA",
+      "MBH",
+      "MATS",
+      "BAUDHAYANA_DS",
+      "BHAG",
+      "TAITT",
+      "YVK",
+      "DEVI",
+      "BRIHAD",
+      "MANU",
+      "PRASHNA",
+      "KAUS",
+      "VYASA_SM",
+      "MAND",
+      "YVS",
+      "KALI",
+      "AV",
+      "LING"
+    ],
+    "relationships": {
+      "MENTIONED_IN": [
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Brahmas\\u016btra2 with V\\u0101caspati's Bh\\u0101mat\\u012b (a subcommentary on \\u015aa\\u1e43kara's \\u015a\\u0101r\\u012brakam\\u012bm\\u0101\\u1e43s\\u0101bh\\u0101\\u1e63ya)",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Vaikh\\u0101nasadharmas\\u016btra\", \"mentions\": 566}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Bhagavadg\\u012bt\\u0101 with the commentary ascribed to \\u015aa\\u1e43kara (Adhy\\u0101yas 1-17)\", \"mentions\": 566}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Agnipur\\u0101\\u1e47a\", \"mentions\": 566}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Baudh\\u0101yanadharmas\\u016btra\", \"mentions\": 566}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Taittir\\u012bya-Upani\\u1e63ad with \\u015aa\\u1e43karabh\\u0101\\u1e63ya\", \"mentions\": 566}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"AITAREYA\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"BHAG\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"BRIHAD\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"CHAND\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"DEVI\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"GARUDA\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"HV\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"KALI\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"KAUS\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"KURM\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"LING\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"MAND\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"MARK\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"MATS\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"MBH\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"NARADA\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"PRASHNA\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"SHIV\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"SKAND\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"SV\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"VAISHESHIKA_SUTRA\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"VAMAN\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"VARAH\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"VEDANTA_SUTRA\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"VISH\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"VYASA_SM\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"YVK\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"YVS\", \"mentions\": 16138}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Yogas\\u016btra\", \"mentions\": 4}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Yogas\\u016btra\", \"mentions\": 4}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Dharma\", \"scripture\": \"Manusm\\u1e5bti\", \"mentions\": 38}",
+          "confidence": 85
+        }
+      ],
+      "GUIDES": [
+        {
+          "name": "Karma",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "FOLLOWED_BY": [
+        {
+          "name": "Samavartana",
+          "type": "Ritual",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "INCLUDES": [
+        {
+          "name": "rta",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "SUBCATEGORY_OF": [
+        {
+          "name": "Satya",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        },
+        {
+          "name": "Dana",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        },
+        {
+          "name": "Varna",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        },
+        {
+          "name": "Ashrama",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        },
+        {
+          "name": "Ahimsa",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        },
+        {
+          "name": "Satya",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        },
+        {
+          "name": "Vrata",
+          "type": "Ritual",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ],
+      "TAUGHT_IN": [
+        {
+          "name": "Bhagavad Gita",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Manusmriti",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Dharmasutras",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ]
+    },
+    "semantic_evidence": [
+      {
+        "chunk_id": "b01625a7ae3e11cda4d4140b",
+        "level": "verse",
+        "scripture_id": "Dharmasūtra",
+        "text": "dharmiṇāṃ viśeṣeṇa svargaṃ lokaṃ dharmavid āpnotijñānābhiniveśābhyām |",
+        "score": 0.6807200312614441,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "b01625a7ae3e11cda4d4140b",
+        "level": "verse",
+        "scripture_id": "Dharmasūtra",
+        "text": "tanmūlatvād dharmasya",
+        "score": 0.6581481695175171,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "b01625a7ae3e11cda4d4140b",
+        "level": "verse",
+        "scripture_id": "Dharmasūtra",
+        "text": "eteṣāṃ ca |",
+        "score": 0.6124482750892639,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "b01625a7ae3e11cda4d4140b",
+        "level": "verse",
+        "scripture_id": "Dharmasūtra",
+        "text": "kuṇḍāśisomavikrayyagāradāhigaradāvakīrṇigaṇapreṣyāgamyāgāmihiṃsraparivittiparivettṛparyāhitaparyādhātṛtyaktātmadurbālakunakhiśyāvadantaśvitripaunarbhavakitavājaparājapreṣyaprātirūpikaśūdrāpatinirākṛtikilāsikusīdivaṇikśilpopajīvijyāvāditratālanṛtyagītaśīlān |",
+        "score": 0.6081463694572449,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "b01625a7ae3e11cda4d4140b",
+        "level": "verse",
+        "scripture_id": "Dharmasūtra",
+        "text": "anyatravyaśvasārathyāyudhakṛtāñjaliprakīrṇakeśaparāṅmukhopaviṣṭasthalavṛkṣādhirūḍhadūtagobrāhmaṇavādibhyaḥ |",
+        "score": 0.6081463694572449,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Dharmasūtra",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      }
+    ],
+    "evidence_chain": [
+      {
+        "type": "MENTIONED_IN",
+        "count": 37,
+        "evidence": "Found 37 MENTIONED_IN relationships with confidence >= 70"
+      },
+      {
+        "type": "GUIDES",
+        "count": 1,
+        "evidence": "Found 1 GUIDES relationships with confidence >= 70"
+      },
+      {
+        "type": "FOLLOWED_BY",
+        "count": 1,
+        "evidence": "Found 1 FOLLOWED_BY relationships with confidence >= 70"
+      },
+      {
+        "type": "INCLUDES",
+        "count": 1,
+        "evidence": "Found 1 INCLUDES relationships with confidence >= 70"
+      },
+      {
+        "type": "SUBCATEGORY_OF",
+        "count": 7,
+        "evidence": "Found 7 SUBCATEGORY_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "TAUGHT_IN",
+        "count": 3,
+        "evidence": "Found 3 TAUGHT_IN relationships with confidence >= 70"
+      }
+    ]
+  },
+  "Yoga": {
+    "entity": "Yoga",
+    "type": "Concept",
+    "guid": "be9b8d2b-61d1-5b63-b6d7-3cc1d30b018a",
+    "total_mentions": 1465,
+    "sources": [
+      "Vedārthasaṃgraha",
+      "Bhagavadgītā with the commentary ascribed to Śaṃkara (Adhyāyas 1-17)",
+      "Vaikhānasadharmasūtra",
+      "Brahmasūtra2 with Śaṃkara's Śārīrakamīmāṃsābhāṣya and Govindānanda's Ratnaprabhāvyākhyā (subcommentary)",
+      "Brahmasaṃhitā 5 with Jīvagosvāmin's Digdarśanīṭīkā",
+      "Taittirīya-Upaniṣad with Śaṃkarabhāṣya",
+      "Viṣṇudharma",
+      "Yogasūtra",
+      "Yogasūtra with Bhāṣya",
+      "Bhagavadgītābhāṣya",
+      "Āpastambadharmasūtra",
+      "Nirukta",
+      "Bhāgavatapurāṇa",
+      "Baudhāyanadharmasūtra",
+      "Āśvalāyanaśrautasūtra",
+      "Viṣṇusmṛti",
+      "Sāmavedasaṃhitā",
+      "Brahmasūtra2 with Vācaspati's Bhāmatī (a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya)",
+      "Pañcaviṃśabrāhmaṇa",
+      "Haṭhayogapradīpikā",
+      "Ṛgvedasaṃhitā, Padapāṭha",
+      "Bhagavadāśayānusaraṇabhāsya",
+      "Bhagavadgītā-4comm with the commentaries of Śrīdhara, Madhusūdana, Viśvanātha and Baladeva",
+      "Śāṅkhāyanaśrautasūtra",
+      "Brahmasūtra with Govindānanda's Ratnaprabhāvyākhyā, a subcommentary on Śaṃkara's Śārīrakamīmāṃsābhāṣya",
+      "Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra)",
+      "Katha Upanishad"
+    ],
+    "scriptures": [
+      "RM",
+      "BRAH",
+      "GARUDA",
+      "SHIV",
+      "VEDANTA_SUTRA",
+      "CHAND",
+      "YOGA_SUTRA",
+      "VAISHESHIKA_SUTRA",
+      "VARAH",
+      "VAMAN",
+      "KATH",
+      "SV",
+      "NARADA",
+      "AGNI",
+      "HV",
+      "VISH",
+      "KURM",
+      "MARK",
+      "SKAND",
+      "AITAREYA",
+      "MBH",
+      "MATS",
+      "BAUDHAYANA_DS",
+      "BHAG",
+      "TAITT",
+      "YVK",
+      "DEVI",
+      "BRIHAD",
+      "PRASHNA",
+      "KAUS",
+      "VYASA_SM",
+      "MAND",
+      "YVS",
+      "KALI",
+      "AV",
+      "NYAYA_SUTRA",
+      "LING"
+    ],
+    "relationships": {
+      "MENTIONED_IN": [
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Brahmas\\u016btra2 with V\\u0101caspati's Bh\\u0101mat\\u012b (a subcommentary on \\u015aa\\u1e43kara's \\u015a\\u0101r\\u012brakam\\u012bm\\u0101\\u1e43s\\u0101bh\\u0101\\u1e63ya)\",",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Vaikh\\u0101nasadharmas\\u016btra\", \"mentions\": 725}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Bhagavadg\\u012bt\\u0101 with the commentary ascribed to \\u015aa\\u1e43kara (Adhy\\u0101yas 1-17)\", \"mentions\": 725}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Baudh\\u0101yanadharmas\\u016btra\", \"mentions\": 725}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Taittir\\u012bya-Upani\\u1e63ad with \\u015aa\\u1e43karabh\\u0101\\u1e63ya\", \"mentions\": 725}",
+          "confidence": 90
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"AGNI\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"AITAREYA\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"BHAG\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"BRIHAD\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"CHAND\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"DEVI\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"GARUDA\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"HV\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"KALI\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"KAUS\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"KURM\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"LING\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"MAND\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"MARK\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"MATS\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"MBH\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"NARADA\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"NYAYA_SUTRA\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"PRASHNA\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"SHIV\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"SKAND\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"SV\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"VAISHESHIKA_SUTRA\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"VAMAN\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"VARAH\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"VEDANTA_SUTRA\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"VISH\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"VYASA_SM\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"YVK\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"YVS\", \"mentions\": 19969}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Yogas\\u016btra\", \"mentions\": 4}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Yogas\\u016btra\", \"mentions\": 7}",
+          "confidence": 85
+        },
+        {
+          "name": "unknown",
+          "type": "unknown",
+          "evidence": "{\"entity\": \"Yoga\", \"scripture\": \"Katha Upanishad\", \"mentions\": 4}",
+          "confidence": 85
+        }
+      ],
+      "PATH_TO": [
+        {
+          "name": "Moksha",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "REFERENCED_BY": [
+        {
+          "name": "Bhakti",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 95
+        }
+      ],
+      "SUBCATEGORY_OF": [
+        {
+          "name": "Dhyana",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        },
+        {
+          "name": "Pranayama",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "PREREQUISITE_FOR": [
+        {
+          "name": "Diksha",
+          "type": "Concept",
+          "evidence": "canonical_scripture",
+          "confidence": 90
+        }
+      ],
+      "TAUGHT_IN": [
+        {
+          "name": "Yoga Sutras",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Bhagavad Gita",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        },
+        {
+          "name": "Shvetashvatara Upanishad",
+          "type": "Text",
+          "evidence": "canonical_scripture",
+          "confidence": 88
+        }
+      ]
+    },
+    "semantic_evidence": [
+      {
+        "chunk_id": "d82a21f471fdd34cc5e8f5f2",
+        "level": "verse",
+        "scripture_id": "Yogasūtra with Bhāṣya",
+        "text": "\"yoga3..yoga1..jñātavya1..yoga1..yogāt..pravartate../..yo..+aprapattas..tu..yoga3..sa..yoga7..ramate..ciram\"..iti.",
+        "score": 0.6468126773834229,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra with Bhāṣya",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "7599ed652d59e1e29f97c369",
+        "level": "verse",
+        "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "na ca te sāṅkhyā yogāś",
+        "score": 0.6389701962471008,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "d82a21f471fdd34cc5e8f5f2",
+        "level": "verse",
+        "scripture_id": "Yogasūtra with Bhāṣya",
+        "text": "atha..yoga-anuśāsanam.....",
+        "score": 0.6377595663070679,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra with Bhāṣya",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "d82a21f471fdd34cc5e8f5f2",
+        "level": "verse",
+        "scripture_id": "Yogasūtra with Bhāṣya",
+        "text": "svādhyāyādiṣṭadevatāsamprayogaḥ.",
+        "score": 0.6364614963531494,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Yogasūtra with Bhāṣya",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      },
+      {
+        "chunk_id": "f7235a7833c8be72e74eae23",
+        "level": "verse",
+        "scripture_id": "Bhagavadāśayānusaraṇabhāsya",
+        "text": "yogād yogasakāśāc calitamānaso 'nivṛttamanāḥ / aprāpya yogasaṃsiddhiṃ",
+        "score": 0.635900616645813,
+        "entity_links": [],
+        "provenance": {
+          "source": "knowledge/cuv/gretil_prose_clean/Bhagavadāśayānusaraṇabhāsya",
+          "git_commit": "d2de9a459e230d27feb9f5db6279a26e9e90b4a3",
+          "knowledge_version": "1.0.0"
+        }
+      }
+    ],
+    "evidence_chain": [
+      {
+        "type": "MENTIONED_IN",
+        "count": 38,
+        "evidence": "Found 38 MENTIONED_IN relationships with confidence >= 70"
+      },
+      {
+        "type": "PATH_TO",
+        "count": 1,
+        "evidence": "Found 1 PATH_TO relationships with confidence >= 70"
+      },
+      {
+        "type": "REFERENCED_BY",
+        "count": 1,
+        "evidence": "Found 1 REFERENCED_BY relationships with confidence >= 70"
+      },
+      {
+        "type": "SUBCATEGORY_OF",
+        "count": 2,
+        "evidence": "Found 2 SUBCATEGORY_OF relationships with confidence >= 70"
+      },
+      {
+        "type": "PREREQUISITE_FOR",
+        "count": 1,
+        "evidence": "Found 1 PREREQUISITE_FOR relationships with confidence >= 70"
+      },
+      {
+        "type": "TAUGHT_IN",
+        "count": 3,
+        "evidence": "Found 3 TAUGHT_IN relationships with confidence >= 70"
+      }
+    ]
+  }
+}
