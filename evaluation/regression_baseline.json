@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-19T12:28:52.357539",
-  "commit": "HEAD",
+  "timestamp": "2026-07-19T13:21:48.716301+00:00",
+  "commit": "",
   "metrics": {
-    "retrieval_latency_p95_ms": 16.54,
-    "retrieval_entity_recall": 0.2124,
-    "retrieval_ndcg_at_5": 0.4987,
-    "hallucination_rejection_rate": 0.9,
-    "hallucination_max_confidence": 0.85,
+    "retrieval_latency_p95_ms": 16.51,
+    "retrieval_entity_recall": 0.6833,
+    "retrieval_ndcg_at_5": 0.9944,
+    "hallucination_rejection_rate": 1.0,
+    "hallucination_max_confidence": 0.25,
     "regression_rate": 0.0,
     "graph_integrity": 1.0,
     "test_pass_rate": 0.98
   },
-  "fingerprint": "07d887033fdc782dcda9c6e9bb5b597c7850bbc7db495318569618bd58505782"
+  "fingerprint": "d940b541a95968fbc0c417bc2967634b9bd09ce38451adcecccf940ce08d25a4"
 }

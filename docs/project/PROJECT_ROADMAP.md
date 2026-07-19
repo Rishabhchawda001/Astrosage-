@@ -1,215 +1,109 @@
 # AstroSage Knowledge Engine — Project Roadmap
 
-**Last Updated:** 2026-07-12
+**Last Updated:** 2026-07-19
 **Status:** ✅ ACTIVE
 
 ---
 
 ## Phase Status
 
-| Phase | Name | Status | Tests |
-|-------|------|--------|-------|
-| Phase 0–3 | Foundation | ✅ Complete | — |
-| Phase 1 | Knowledge Acquisition | ✅ Complete | — |
-| Phase 2 | Knowledge Normalization | ✅ Complete | 41 |
-| Phase 2.5 | Corpus Intelligence | ✅ Complete | 55 |
-| Phase 3 | Document Intelligence Lab | ✅ Complete | 66 |
-| Phase 3.1 | Document Forensics | ✅ Complete | 91 |
-| Phase 3.5 | Production Pipeline Validation | ✅ Complete | 108 |
-| Phase R1 | Research Stack & MCP | ✅ Complete | 134 |
-| Phase 4 | Production Document Processing | ✅ Complete | 134 |
-| Phase M1 | Permanent Agent Memory | ✅ Complete | 134 |
-| Phase 4.5 | Knowledge Recovery Infrastructure | ✅ Complete | 193 |
-| Phase 5 | Semantic Chunking | ⏳ Pending | — |
-| Phase 6 | Embeddings | ⏳ Pending | — |
-| Phase 7 | Vector Indexing | ⏳ Pending | — |
-| Phase 8 | Retrieval Pipeline | ⏳ Pending | — |
-| Phase 9 | Grounding & Anti-Hallucination | ⏳ Pending | — |
-| Phase 10 | MCP Integration | ⏳ Pending | — |
-| Phase 11 | Knowledge Graph | ⏳ Pending | — |
-| Phase 12 | User Interface | ⏳ Pending | — |
+### Version 1.0 — Knowledge System (COMPLETE)
+
+| Phase | Name | Status |
+|-------|------|--------|
+| Phase 0–3 | Foundation | ✅ Complete |
+| Phase 1 | Knowledge Acquisition | ✅ Complete |
+| Phase 2 | Knowledge Normalization | ✅ Complete |
+| Phase 2.5 | Corpus Intelligence | ✅ Complete |
+| Phase 3 | Document Intelligence Lab | ✅ Complete |
+| Phase 3.1 | Document Forensics | ✅ Complete |
+| Phase 3.5 | Production Pipeline Validation | ✅ Complete |
+| Phase R1 | Research Stack & MCP | ✅ Complete |
+| Phase 4 | Production Document Processing | ✅ Complete |
+| Phase M1 | Permanent Agent Memory | ✅ Complete |
+| Phase 4.5 | Knowledge Recovery Infrastructure | ✅ Complete |
+| Phase 5–8 | Knowledge Graph Construction | ✅ Complete |
+| Phase 9.1–9.9 | Graph Saturation + Corpus Recovery | ✅ Complete |
+| Phase 10 | Knowledge Freeze v1.0.0 | ✅ Complete |
+| Phase 11 | Semantic Chunking (120,548 chunks) | ✅ Complete |
+| Phase 12 | Embeddings (MiniLM-L6-v2, 384d) | ✅ Complete |
+| Phase 13 | Hybrid Retrieval (BM25 + FAISS) | ✅ Complete |
+| Phase 14 | Reasoning Engine | ✅ Complete |
+| Phase 15 | Grounded Answer Generation | ✅ Complete |
+| Documentation | README, Architecture, Dev/User/Ops Guides | ✅ Complete |
+
+### Version 1.1 — Evaluation Framework (COMPLETE)
+
+| Milestone | Status |
+|-----------|--------|
+| Golden evaluation dataset (62 Q&A pairs) | ✅ Complete |
+| Retrieval evaluator (precision, recall, NDCG) | ✅ Complete |
+| Hallucination evaluator (adversarial detection) | ✅ Complete |
+| Regression evaluator (baseline comparison) | ✅ Complete |
+| Explainability engine (reasoning traces) | ✅ Complete |
+| Quality gates (8 release criteria) | ✅ Complete |
+| Evaluation runner (full suite orchestration) | ✅ Complete |
+| 31 evaluation framework tests | ✅ Complete |
+
+### Version 1.1 Remaining
+
+| Task | Status | Priority |
+|------|--------|----------|
+| Wire evaluation to real pipeline | ⏳ Pending | High |
+| Expand golden dataset to 150+ questions | ⏳ Pending | High |
+| CI/CD integration for continuous evaluation | ⏳ Pending | Medium |
+| A/B testing framework | ⏳ Pending | Medium |
+| Cross-lingual evaluation | ⏳ Pending | Low |
+
+### Version 1.2+ — Future Roadmap
+
+| Phase | Description | Dependencies |
+|-------|-------------|-------------|
+| Web API | FastAPI server for search and QA | v1.1 complete |
+| Multi-turn Conversation | Context-aware dialogue | Web API |
+| Cross-lingual Search | Devanagari ↔ IAST bridging | v1.1 complete |
+| Real-time Corpus Updates | Live migration framework | v1.0 freeze |
+| Production Deployment | Monitoring, alerting, scaling | Web API |
+| Mobile App | Android/iOS interface | Web API |
 
 ---
 
-## Current Status (Post Phase 4)
+## Current Status (Post v1.1)
 
 ### What's Complete
-- ✅ 751 source files downloaded and archived
-- ✅ 601/602 PDFs processed (99.8%)
-- ✅ 920 bronze files (extracted text)
-- ✅ 920 silver files (structured markdown)
-- ✅ Document Intelligence v1.0 frozen and locked
-- ✅ Production pipeline certified (GO decision)
-- ✅ 26 technologies cataloged and scored
-- ✅ Plugin architecture implemented
-- ✅ 4 MCP server plugins
-- ✅ 134 tests passing
-- ✅ GitHub synchronized
+- ✅ 391 entities, 5,044 edges, 54 scriptures
+- ✅ 120,548 semantic chunks
+- ✅ 120,548 × 384d embeddings with FAISS index
+- ✅ BM25 + FAISS hybrid retrieval
+- ✅ Entity + question reasoning with evidence chains
+- ✅ Grounded answer generation with provenance
+- ✅ Knowledge freeze at v1.0.0
+- ✅ Complete documentation suite
+- ✅ Evaluation framework with 62 Q&A pairs
+- ✅ Quality gates with 8 release criteria
+- ✅ 817 tests passing (815 + 2 new)
 
 ### What's Not Started
-- ❌ Semantic chunking (gold layer)
-- ❌ Embedding generation
-- ❌ Vector indexing
-- ❌ Retrieval pipeline
-- ❌ Grounding/anti-hallucination
-- ❌ Knowledge graph
-- ❌ User interface
-
----
-
-## Phase 5: Semantic Chunking (Next Major Phase)
-
-### Objective
-Convert silver-layer structured documents into semantically meaningful chunks for embedding and retrieval.
-
-### Key Decisions
-- Chunking strategy: Semantic boundaries (not fixed token windows)
-- Preserve: page references, chapter structure, verse boundaries
-- Preserve: citations, footnotes, references
-- Never split mid-verse or mid-citation
-
-### Dependencies
-- Phase 4 complete (Knowledge Lake populated)
-- Bronze/silver layers stable
-
----
-
-## Phase 6: Embeddings
-
-### Objective
-Generate vector embeddings for all chunks using BGE-M3.
-
-### Key Decisions
-- Model: BGE-M3 (multilingual, supports Hindi/Sanskrit/English)
-- Dense + sparse embeddings for hybrid search
-- Store embeddings in gold layer
-- Qdrant for production, Chroma for development
-
-### Dependencies
-- Phase 5 (chunks available)
-- BGE-M3 model downloaded and tested
-
----
-
-## Phase 7–8: Vector Indexing & Retrieval
-
-### Objective
-Build hybrid retrieval (BM25 + Vector + Cross-Encoder Reranker).
-
-### Key Decisions
-- Hybrid search: BM25 + dense vector + reranker
-- Metadata filtering: by document, language, chapter, etc.
-- Top-20 retrieval → cross-encoder rerank → top-5
-
-### Dependencies
-- Phase 6 (embeddings generated)
-- Qdrant/Chroma configured
-
----
-
-## Phase 9: Grounding & Anti-Hallucination
-
-### Objective
-Every answer must be evidence-backed with sentence-level citations.
-
-### Key Decisions
-- Use RAGAS faithfulness metric
-- Use DeepEval hallucination detection
-- Every sentence maps to retrieved source material
-- Unsupported sentences removed
-- Fallback: "The indexed knowledge base does not contain sufficient evidence to answer this question."
-
-### Dependencies
-- Phase 8 (retrieval working)
-
----
-
-## Phase 10: MCP Integration
-
-### Objective
-Expose the knowledge engine through MCP tools for AI assistants.
-
-### Tools to Expose
-- search_books, search_pages, list_books
-- compare_sources, verify_answer
-- sync_library, reindex
-- pipeline_status, audit_status
-- ocr_statistics, index_statistics
-- knowledge_graph
-
-### Dependencies
-- Phase 9 (grounded retrieval working)
-
----
-
-## Phase 11: Knowledge Graph
-
-### Objective
-Build a knowledge graph connecting books, chapters, verses, people, places, concepts, scriptures.
-
-### Dependencies
-- Phase 5 (structured chunks)
-- Entity extraction capabilities
-
----
-
-## Phase 12: User Interface
-
-### Objective
-Build a web interface for interacting with the Knowledge Engine.
-
-### Dependencies
-- Phase 10 (MCP working)
+- ❌ Web API server
+- ❌ Multi-turn conversation
+- ❌ Cross-lingual search
+- ❌ Real-time corpus updates
+- ❌ Production deployment
+- ❌ Mobile app
 
 ---
 
 ## Critical Path
 ```
-Phase 4.5 (recovery infra) → Phase 5 (chunking) → Phase 6 (embeddings) → Phase 7–8 (vector/retrieval) → Phase 9 (grounding) → Phase 10 (MCP)
+Knowledge Graph → Freeze → Chunking → Embeddings → Retrieval → Reasoning → Answers → Evaluation → API → Production
 ```
-
----
-
-
-## Phase 4.5: Knowledge Recovery Infrastructure (Complete)
-
-### Objective
-Build the complete Knowledge Recovery Infrastructure — frameworks, interfaces, registries, queues, schemas, plugin contracts, confidence models, verification models, and provenance ledger.
-
-### Key Components
-- Knowledge Source Registry (5 default sources: Internet Archive, Open Library, Crossref, OpenAlex, Wikidata)
-- Trust Engine (configurable weights for source, edition, OCR, recovery, verification trust)
-- Knowledge Passport (complete provenance for recovered knowledge objects)
-- Recovery Queue (priority-based with retry and checkpointing)
-- Human Review Queue (5 states: pending, approved, rejected, deferred, needs_more_evidence)
-- Edition Registry (8 edition types, 7 relationship types)
-- Verification Interface (ABC-based, DefaultVerification with character/word similarity)
-- Conflict Engine (4 severity levels, stores all variants)
-- Confidence Engine (6 component types, configurable weights)
-- Source Connectors (4 stub connectors, ABC-based plugin interfaces)
-- Knowledge Provenance Ledger (11 entry types, append-only, chain tracing)
-- Plugin interfaces for recovery, verification, and source connectors
-
-### Tests
-59 new tests added, all passing. Total: 193 tests.
-
-### Dependencies
-- Phase 4 complete (Knowledge Lake populated)
-
-### What's Next
-- Phase 5: Semantic Chunking (now unblocked)
-
-## Blocked Work
-- Phase 5+ blocked until Phase 4.5 complete
-- Full corpus processing for Tier 2 languages blocked until OCR support added
-- Knowledge graph blocked on entity extraction model selection
 
 ---
 
 ## Repository Status
 - **Branch:** main (trunk-based)
-- **Latest commit:** `bb3343e` (Phase 4 fixup)
-- **Tests:** 134 passing
+- **Latest commit:** 82e4178
+- **Tests:** 817 passing
 - **Working tree:** Clean (after stash)
 - **Remote:** `https://github.com/Rishabhchawda001/Astrosage-.git`
 

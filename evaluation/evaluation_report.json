@@ -1,83 +1,83 @@
 {
-  "timestamp": "2026-07-19T12:36:21.603269+00:00",
+  "timestamp": "2026-07-19T13:23:28.294842+00:00",
   "version": "1.1.0",
   "commit": "test",
   "dataset_version": "1.0.0",
-  "total_questions": 62,
+  "total_questions": 100,
   "categories": {
-    "entity_factual": 18,
-    "relationship": 10,
-    "conceptual": 14,
-    "cross_scripture": 5,
-    "reasoning": 5,
-    "adversarial": 10
+    "entity_factual": 29,
+    "relationship": 15,
+    "conceptual": 20,
+    "cross_scripture": 11,
+    "reasoning": 10,
+    "adversarial": 15
   },
   "retrieval": {
-    "avg_latency_ms": 9.59,
-    "p50_latency_ms": 6.7,
-    "p95_latency_ms": 14.29,
-    "p99_latency_ms": 90.4,
-    "avg_precision_at_5": 0.1161,
-    "avg_recall_at_5": 0.1809,
-    "avg_ndcg_at_5": 0.4987,
-    "entity_recall": 0.2124,
-    "scripture_recall": 0.1237,
-    "total_queries": 62,
-    "passed_queries": 17,
-    "pass_rate": 0.2742,
+    "avg_latency_ms": 7.02,
+    "p50_latency_ms": 4.49,
+    "p95_latency_ms": 16.46,
+    "p99_latency_ms": 77.65,
+    "avg_precision_at_5": 0.228,
+    "avg_recall_at_5": 0.401,
+    "avg_ndcg_at_5": 0.9944,
+    "entity_recall": 0.6833,
+    "scripture_recall": 0.1933,
+    "total_queries": 100,
+    "passed_queries": 73,
+    "pass_rate": 0.73,
     "passed": false
   },
   "hallucination": {
-    "total_adversarial": 10,
-    "correctly_rejected": 9,
-    "rejection_rate": 0.9,
-    "false_positive_rate": 0.1,
-    "avg_confidence_on_adversarial": 0.31,
-    "avg_evidence_on_adversarial": 2.0,
-    "max_confidence_on_adversarial": 0.85,
-    "passed": false
+    "total_adversarial": 15,
+    "correctly_rejected": 15,
+    "rejection_rate": 1.0,
+    "false_positive_rate": 0.0,
+    "avg_confidence_on_adversarial": 0.25,
+    "avg_evidence_on_adversarial": 0.2,
+    "max_confidence_on_adversarial": 0.25,
+    "passed": true
   },
   "regression": {
-    "timestamp": "2026-07-19T12:36:21.602747+00:00",
-    "baseline_timestamp": "2026-07-19T12:28:52.357539",
+    "timestamp": "2026-07-19T13:23:28.291672+00:00",
+    "baseline_timestamp": "2026-07-19T13:21:48.716301+00:00",
     "total_metrics": 8,
-    "passed_metrics": 7,
-    "degraded_metrics": 1,
+    "passed_metrics": 8,
+    "degraded_metrics": 0,
     "improved_metrics": 0,
-    "regression_rate": 0.125,
+    "regression_rate": 0.0,
     "details": [
       {
         "metric": "retrieval_latency_p95_ms",
-        "baseline": 16.54,
-        "current": 14.29,
-        "delta_pct": 0.136,
-        "degraded": true
+        "baseline": 16.51,
+        "current": 16.46,
+        "delta_pct": 0.003,
+        "degraded": false
       },
       {
         "metric": "retrieval_entity_recall",
-        "baseline": 0.2124,
-        "current": 0.2124,
+        "baseline": 0.6833,
+        "current": 0.6833,
         "delta_pct": 0.0,
         "degraded": false
       },
       {
         "metric": "retrieval_ndcg_at_5",
-        "baseline": 0.4987,
-        "current": 0.4987,
+        "baseline": 0.9944,
+        "current": 0.9944,
         "delta_pct": 0.0,
         "degraded": false
       },
       {
         "metric": "hallucination_rejection_rate",
-        "baseline": 0.9,
-        "current": 0.9,
+        "baseline": 1.0,
+        "current": 1.0,
         "delta_pct": 0.0,
         "degraded": false
       },
       {
         "metric": "hallucination_max_confidence",
-        "baseline": 0.85,
-        "current": 0.85,
+        "baseline": 0.25,
+        "current": 0.25,
         "delta_pct": 0.0,
         "degraded": false
       },
@@ -103,51 +103,51 @@
         "degraded": false
       }
     ],
-    "passed": false
+    "passed": true
   },
   "quality_gates": {
-    "timestamp": "2026-07-19T12:36:21.600392+00:00",
+    "timestamp": "2026-07-19T13:23:28.289222+00:00",
     "version": "1.1.0",
-    "verdict": "FAIL",
+    "verdict": "PASS",
     "total_gates": 8,
-    "passed_gates": 6,
-    "failed_gates": 2,
-    "pass_rate": 0.75,
+    "passed_gates": 8,
+    "failed_gates": 0,
+    "pass_rate": 1.0,
     "gates": [
       {
         "name": "retrieval_latency_p95_ms",
         "threshold": 100.0,
-        "actual": 14.29,
+        "actual": 16.46,
         "passed": true,
-        "message": "P95 retrieval latency must be under 100ms: 14.29 vs 100.0"
+        "message": "P95 retrieval latency must be under 100ms: 16.46 vs 100.0"
       },
       {
         "name": "retrieval_entity_recall",
         "threshold": 0.3,
-        "actual": 0.2124,
-        "passed": false,
-        "message": "Entity recall must be at least 30%: 0.2124 vs 0.3"
+        "actual": 0.6833,
+        "passed": true,
+        "message": "Entity recall must be at least 30%: 0.6833 vs 0.3"
       },
       {
         "name": "retrieval_ndcg_at_5",
         "threshold": 0.3,
-        "actual": 0.4987,
+        "actual": 0.9944,
         "passed": true,
-        "message": "NDCG@5 must be at least 0.3: 0.4987 vs 0.3"
+        "message": "NDCG@5 must be at least 0.3: 0.9944 vs 0.3"
       },
       {
         "name": "hallucination_rejection_rate",
         "threshold": 0.8,
-        "actual": 0.9,
+        "actual": 1.0,
         "passed": true,
-        "message": "Must reject at least 80% of adversarial queries: 0.9 vs 0.8"
+        "message": "Must reject at least 80% of adversarial queries: 1.0 vs 0.8"
       },
       {
         "name": "hallucination_max_confidence",
         "threshold": 0.6,
-        "actual": 0.85,
-        "passed": false,
-        "message": "Max confidence on adversarial queries must be under 0.6: 0.85 vs 0.6"
+        "actual": 0.25,
+        "passed": true,
+        "message": "Max confidence on adversarial queries must be under 0.6: 0.25 vs 0.6"
       },
       {
         "name": "regression_rate",
@@ -175,18 +175,188 @@
   "sample_explainability": {
     "trace": {
       "question": "Who is Vishnu?",
-      "entities_identified": [],
-      "evidence_chains": [],
-      "confidence": "low",
-      "confidence_score": 0.25,
-      "summary": "Based on 0 evidence relationships involving , sourced from . Confidence: low.",
-      "supporting_scriptures": [],
-      "key_relationships": [],
+      "entities_identified": [
+        "Vishnu"
+      ],
+      "evidence_chains": [
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "Matsya Avatar",
+          "relationship": "INCARNATION_OF",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "Kurma Avatar",
+          "relationship": "INCARNATION_OF",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "Varaha Avatar",
+          "relationship": "INCARNATION_OF",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "Narasimha Avatar",
+          "relationship": "INCARNATION_OF",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "Vamana Avatar",
+          "relationship": "INCARNATION_OF",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "Krishna",
+          "relationship": "INCARNATION_OF",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "Parashurama",
+          "relationship": "INCARNATION_OF",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        },
+        {
+          "source": "Vishnu",
+          "target": "",
+          "relationship": "MENTIONED_IN",
+          "confidence": "medium",
+          "scripture": "SV",
+          "canonical_ref": ""
+        }
+      ],
+      "confidence": "high",
+      "confidence_score": 0.85,
+      "summary": "Based on 20 evidence relationships involving Vishnu, sourced from SV. Confidence: high.",
+      "supporting_scriptures": [
+        "SV"
+      ],
+      "key_relationships": [
+        "MENTIONED_IN",
+        "INCARNATION_OF"
+      ],
       "reasoning_steps": [
+        "Identified 1 relevant entities: Vishnu",
+        "Found 20 evidence sources across scriptures",
         "All evidence traces to canonical sources with provenance",
-        "Confidence assessment: low (25%)"
+        "Confidence assessment: high (85%)"
       ]
     },
-    "narrative": "Question: Who is Vishnu?\n\nReasoning chain:\n  1. All evidence traces to canonical sources with provenance\n  2. Confidence assessment: low (25%)\n\nOverall confidence: low"
+    "narrative": "Question: Who is Vishnu?\n\nEntities identified: Vishnu\n\nReasoning chain:\n  1. Identified 1 relevant entities: Vishnu\n  2. Found 20 evidence sources across scriptures\n  3. All evidence traces to canonical sources with provenance\n  4. Confidence assessment: high (85%)\n\nEvidence sources:\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[INCARNATION_OF]--> Matsya Avatar (confidence: medium, source: SV)\n  - Vishnu --[INCARNATION_OF]--> Kurma Avatar (confidence: medium, source: SV)\n  - Vishnu --[INCARNATION_OF]--> Varaha Avatar (confidence: medium, source: SV)\n  - Vishnu --[INCARNATION_OF]--> Narasimha Avatar (confidence: medium, source: SV)\n  - Vishnu --[INCARNATION_OF]--> Vamana Avatar (confidence: medium, source: SV)\n  - Vishnu --[INCARNATION_OF]--> Krishna (confidence: medium, source: SV)\n  - Vishnu --[INCARNATION_OF]--> Parashurama (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: SV)\n\nOverall confidence: high\nSupporting scriptures: SV"
   }
 }

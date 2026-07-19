@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "created": "2026-07-19",
-  "description": "Golden evaluation dataset for AstroSage v1.1 — curated Q&A pairs with expected evidence. Scripture IDs match graph node IDs.",
-  "total_questions": 65,
+  "description": "Golden evaluation dataset for AstroSage v1.1 \u2014 curated Q&A pairs with expected evidence. Scripture IDs match graph node IDs.",
+  "total_questions": 100,
   "categories": {
     "entity_factual": "Direct factual questions about specific entities",
     "relationship": "Questions about connections between entities",
@@ -16,9 +16,17 @@
       "id": "EF-001",
       "category": "entity_factual",
       "question": "Who is Vishnu?",
-      "expected_entities": ["Vishnu"],
-      "expected_scriptures": ["BG", "BHAG", "VISH"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Vishnu"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "BHAG",
+        "VISH"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -27,9 +35,18 @@
       "id": "EF-002",
       "category": "entity_factual",
       "question": "What are the avatars of Vishnu?",
-      "expected_entities": ["Vishnu", "Rama", "Krishna"],
-      "expected_scriptures": ["BHAG", "VISH"],
-      "expected_relationships": ["INCARNATION_OF"],
+      "expected_entities": [
+        "Vishnu",
+        "Rama",
+        "Krishna"
+      ],
+      "expected_scriptures": [
+        "BHAG",
+        "VISH"
+      ],
+      "expected_relationships": [
+        "INCARNATION_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -38,9 +55,17 @@
       "id": "EF-003",
       "category": "entity_factual",
       "question": "Who is Krishna?",
-      "expected_entities": ["Krishna"],
-      "expected_scriptures": ["BG", "BHAG", "MBH"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Krishna"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "BHAG",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -49,9 +74,16 @@
       "id": "EF-004",
       "category": "entity_factual",
       "question": "Who is Arjuna?",
-      "expected_entities": ["Arjuna"],
-      "expected_scriptures": ["BG", "MBH"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Arjuna"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -60,9 +92,16 @@
       "id": "EF-005",
       "category": "entity_factual",
       "question": "Who wrote the Bhagavad Gita?",
-      "expected_entities": ["Veda Vyasa"],
-      "expected_scriptures": ["BG", "MBH"],
-      "expected_relationships": ["COMPILER_OF"],
+      "expected_entities": [
+        "Veda Vyasa"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "COMPILER_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -71,9 +110,16 @@
       "id": "EF-006",
       "category": "entity_factual",
       "question": "Who is Shiva?",
-      "expected_entities": ["Shiva"],
-      "expected_scriptures": ["SHIV", "MBH"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Shiva"
+      ],
+      "expected_scriptures": [
+        "SHIV",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -82,9 +128,16 @@
       "id": "EF-007",
       "category": "entity_factual",
       "question": "Who is Garuda?",
-      "expected_entities": ["Garuda"],
-      "expected_scriptures": ["BHAG", "GARUDA"],
-      "expected_relationships": ["VEHICLE_OF"],
+      "expected_entities": [
+        "Garuda"
+      ],
+      "expected_scriptures": [
+        "BHAG",
+        "GARUDA"
+      ],
+      "expected_relationships": [
+        "VEHICLE_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -93,9 +146,16 @@
       "id": "EF-008",
       "category": "entity_factual",
       "question": "What is Kurukshetra?",
-      "expected_entities": ["Kurukshetra"],
-      "expected_scriptures": ["BG", "MBH"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Kurukshetra"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -104,9 +164,17 @@
       "id": "EF-009",
       "category": "entity_factual",
       "question": "Who are the Pandavas?",
-      "expected_entities": ["Arjuna", "Yudhishthira"],
-      "expected_scriptures": ["MBH", "BG"],
-      "expected_relationships": ["SON_OF"],
+      "expected_entities": [
+        "Arjuna",
+        "Yudhishthira"
+      ],
+      "expected_scriptures": [
+        "MBH",
+        "BG"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -115,9 +183,16 @@
       "id": "EF-010",
       "category": "entity_factual",
       "question": "Who is Rama?",
-      "expected_entities": ["Rama"],
-      "expected_scriptures": ["RM", "BHAG"],
-      "expected_relationships": ["INCARNATION_OF"],
+      "expected_entities": [
+        "Rama"
+      ],
+      "expected_scriptures": [
+        "RM",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "INCARNATION_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -126,9 +201,16 @@
       "id": "EF-011",
       "category": "entity_factual",
       "question": "Who is Brahma?",
-      "expected_entities": ["Brahma"],
-      "expected_scriptures": ["BRAH", "BHAG"],
-      "expected_relationships": ["CREATOR_OF"],
+      "expected_entities": [
+        "Brahma"
+      ],
+      "expected_scriptures": [
+        "BRAH",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "CREATOR_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -137,9 +219,16 @@
       "id": "EF-012",
       "category": "entity_factual",
       "question": "Who is Veda Vyasa?",
-      "expected_entities": ["Veda Vyasa"],
-      "expected_scriptures": ["MBH", "BG"],
-      "expected_relationships": ["COMPILER_OF"],
+      "expected_entities": [
+        "Veda Vyasa"
+      ],
+      "expected_scriptures": [
+        "MBH",
+        "BG"
+      ],
+      "expected_relationships": [
+        "COMPILER_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -148,9 +237,15 @@
       "id": "EF-013",
       "category": "entity_factual",
       "question": "Who is Yudhishthira?",
-      "expected_entities": ["Yudhishthira"],
-      "expected_scriptures": ["MBH"],
-      "expected_relationships": ["SON_OF"],
+      "expected_entities": [
+        "Yudhishthira"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -159,9 +254,15 @@
       "id": "EF-014",
       "category": "entity_factual",
       "question": "Who is Nandi?",
-      "expected_entities": ["Nandi"],
-      "expected_scriptures": ["SHIV"],
-      "expected_relationships": ["VEHICLE_OF"],
+      "expected_entities": [
+        "Nandi"
+      ],
+      "expected_scriptures": [
+        "SHIV"
+      ],
+      "expected_relationships": [
+        "VEHICLE_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 1
@@ -170,9 +271,16 @@
       "id": "EF-015",
       "category": "entity_factual",
       "question": "Who is Vashistha?",
-      "expected_entities": ["Vashistha"],
-      "expected_scriptures": ["RM", "VISH"],
-      "expected_relationships": ["TEACHER_OF"],
+      "expected_entities": [
+        "Vashistha"
+      ],
+      "expected_scriptures": [
+        "RM",
+        "VISH"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -181,9 +289,16 @@
       "id": "EF-016",
       "category": "entity_factual",
       "question": "Who is Parashara?",
-      "expected_entities": ["Parashara"],
-      "expected_scriptures": ["VISH", "BHAG"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Parashara"
+      ],
+      "expected_scriptures": [
+        "VISH",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -192,9 +307,15 @@
       "id": "EF-017",
       "category": "entity_factual",
       "question": "Who is Gautama?",
-      "expected_entities": ["Gautama"],
-      "expected_scriptures": ["GAUTAMA_DS"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Gautama"
+      ],
+      "expected_scriptures": [
+        "GAUTAMA_DS"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "medium",
       "min_evidence_sources": 1
@@ -203,9 +324,15 @@
       "id": "EF-018",
       "category": "entity_factual",
       "question": "Who is Shuka?",
-      "expected_entities": ["Shuka"],
-      "expected_scriptures": ["BHAG"],
-      "expected_relationships": ["TEACHER_OF"],
+      "expected_entities": [
+        "Shuka"
+      ],
+      "expected_scriptures": [
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "medium",
       "min_evidence_sources": 1
@@ -214,9 +341,17 @@
       "id": "RL-001",
       "category": "relationship",
       "question": "What is the relationship between Krishna and Arjuna?",
-      "expected_entities": ["Krishna", "Arjuna"],
-      "expected_scriptures": ["BG", "MBH"],
-      "expected_relationships": ["TEACHER_OF"],
+      "expected_entities": [
+        "Krishna",
+        "Arjuna"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -225,9 +360,15 @@
       "id": "RL-002",
       "category": "relationship",
       "question": "Who is the father of Rama?",
-      "expected_entities": ["Rama"],
-      "expected_scriptures": ["RM"],
-      "expected_relationships": ["FATHER_OF"],
+      "expected_entities": [
+        "Rama"
+      ],
+      "expected_scriptures": [
+        "RM"
+      ],
+      "expected_relationships": [
+        "FATHER_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -236,9 +377,18 @@
       "id": "RL-003",
       "category": "relationship",
       "question": "How is Vishnu related to Rama?",
-      "expected_entities": ["Vishnu", "Rama"],
-      "expected_scriptures": ["RM", "VISH", "BHAG"],
-      "expected_relationships": ["INCARNATION_OF"],
+      "expected_entities": [
+        "Vishnu",
+        "Rama"
+      ],
+      "expected_scriptures": [
+        "RM",
+        "VISH",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "INCARNATION_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -247,9 +397,18 @@
       "id": "RL-004",
       "category": "relationship",
       "question": "How is Vishnu related to Krishna?",
-      "expected_entities": ["Vishnu", "Krishna"],
-      "expected_scriptures": ["BHAG", "VISH", "BG"],
-      "expected_relationships": ["INCARNATION_OF"],
+      "expected_entities": [
+        "Vishnu",
+        "Krishna"
+      ],
+      "expected_scriptures": [
+        "BHAG",
+        "VISH",
+        "BG"
+      ],
+      "expected_relationships": [
+        "INCARNATION_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -258,9 +417,17 @@
       "id": "RL-005",
       "category": "relationship",
       "question": "What connects the Mahabharata and the Bhagavad Gita?",
-      "expected_entities": ["Mahabharata", "Bhagavad Gita"],
-      "expected_scriptures": ["MBH", "BG"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Mahabharata",
+        "Bhagavad Gita"
+      ],
+      "expected_scriptures": [
+        "MBH",
+        "BG"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -269,9 +436,17 @@
       "id": "RL-006",
       "category": "relationship",
       "question": "Who taught the Bhagavad Gita to Arjuna?",
-      "expected_entities": ["Krishna", "Arjuna"],
-      "expected_scriptures": ["BG"],
-      "expected_relationships": ["TEACHER_OF", "TAUGHT_IN"],
+      "expected_entities": [
+        "Krishna",
+        "Arjuna"
+      ],
+      "expected_scriptures": [
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF",
+        "TAUGHT_IN"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -280,9 +455,15 @@
       "id": "RL-007",
       "category": "relationship",
       "question": "What is the consort of Shiva?",
-      "expected_entities": ["Shiva"],
-      "expected_scriptures": ["SHIV"],
-      "expected_relationships": ["HUSBAND_OF"],
+      "expected_entities": [
+        "Shiva"
+      ],
+      "expected_scriptures": [
+        "SHIV"
+      ],
+      "expected_relationships": [
+        "HUSBAND_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -291,9 +472,15 @@
       "id": "RL-008",
       "category": "relationship",
       "question": "Who is the father of Arjuna?",
-      "expected_entities": ["Arjuna"],
-      "expected_scriptures": ["MBH"],
-      "expected_relationships": ["FATHER_OF"],
+      "expected_entities": [
+        "Arjuna"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "FATHER_OF"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -302,9 +489,16 @@
       "id": "RL-009",
       "category": "relationship",
       "question": "What is the relationship between the Solar Dynasty and Rama?",
-      "expected_entities": ["Rama"],
-      "expected_scriptures": ["RM", "VISH"],
-      "expected_relationships": ["SON_OF"],
+      "expected_entities": [
+        "Rama"
+      ],
+      "expected_scriptures": [
+        "RM",
+        "VISH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -313,9 +507,17 @@
       "id": "RL-010",
       "category": "relationship",
       "question": "Who are the brothers of Arjuna?",
-      "expected_entities": ["Arjuna", "Yudhishthira", "Bhima"],
-      "expected_scriptures": ["MBH"],
-      "expected_relationships": ["BROTHER_OF"],
+      "expected_entities": [
+        "Arjuna",
+        "Yudhishthira",
+        "Bhima"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "BROTHER_OF"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -324,9 +526,16 @@
       "id": "CP-001",
       "category": "conceptual",
       "question": "What is Dharma?",
-      "expected_entities": ["Dharma"],
-      "expected_scriptures": ["BG", "MANU"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Dharma"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MANU"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -335,9 +544,16 @@
       "id": "CP-002",
       "category": "conceptual",
       "question": "What is Karma?",
-      "expected_entities": ["Karma"],
-      "expected_scriptures": ["BG", "YOGA_SUTRA"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Karma"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "YOGA_SUTRA"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -346,9 +562,16 @@
       "id": "CP-003",
       "category": "conceptual",
       "question": "What is Moksha?",
-      "expected_entities": ["Moksha"],
-      "expected_scriptures": ["BG", "YOGA_SUTRA"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Moksha"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "YOGA_SUTRA"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 3
@@ -357,9 +580,16 @@
       "id": "CP-004",
       "category": "conceptual",
       "question": "What is Bhakti?",
-      "expected_entities": ["Bhakti"],
-      "expected_scriptures": ["BG", "BHAG"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Bhakti"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -368,9 +598,15 @@
       "id": "CP-005",
       "category": "conceptual",
       "question": "What is Jnana?",
-      "expected_entities": ["Jnana"],
-      "expected_scriptures": ["BG"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Jnana"
+      ],
+      "expected_scriptures": [
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "easy",
       "min_confidence": "high",
       "min_evidence_sources": 2
@@ -379,9 +615,15 @@
       "id": "CP-006",
       "category": "conceptual",
       "question": "What is Yoga according to the Yoga Sutras?",
-      "expected_entities": ["Yoga"],
-      "expected_scriptures": ["YOGA_SUTRA"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Yoga"
+      ],
+      "expected_scriptures": [
+        "YOGA_SUTRA"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -390,9 +632,16 @@
       "id": "CP-007",
       "category": "conceptual",
       "question": "What is the concept of Atman?",
-      "expected_entities": ["Atman"],
-      "expected_scriptures": ["BG", "BRIHAD"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Atman"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "BRIHAD"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -401,9 +650,15 @@
       "id": "CP-008",
       "category": "conceptual",
       "question": "What is the Advaita school of philosophy?",
-      "expected_entities": ["Advaita"],
-      "expected_scriptures": ["VEDANTA_SUTRA"],
-      "expected_relationships": ["SCHOOL_OF"],
+      "expected_entities": [
+        "Advaita"
+      ],
+      "expected_scriptures": [
+        "VEDANTA_SUTRA"
+      ],
+      "expected_relationships": [
+        "SCHOOL_OF"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 1
@@ -412,9 +667,15 @@
       "id": "CP-009",
       "category": "conceptual",
       "question": "What is the Dvaita school of philosophy?",
-      "expected_entities": ["Dvaita"],
-      "expected_scriptures": ["VEDANTA_SUTRA"],
-      "expected_relationships": ["SCHOOL_OF"],
+      "expected_entities": [
+        "Dvaita"
+      ],
+      "expected_scriptures": [
+        "VEDANTA_SUTRA"
+      ],
+      "expected_relationships": [
+        "SCHOOL_OF"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 1
@@ -423,9 +684,16 @@
       "id": "CP-010",
       "category": "conceptual",
       "question": "What is the Yajna ritual?",
-      "expected_entities": ["Yajna"],
-      "expected_scriptures": ["RV", "YVK"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Yajna"
+      ],
+      "expected_scriptures": [
+        "RV",
+        "YVK"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -434,9 +702,15 @@
       "id": "CP-011",
       "category": "conceptual",
       "question": "What is the concept of Samsara?",
-      "expected_entities": ["Samsara"],
-      "expected_scriptures": ["BG"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Samsara"
+      ],
+      "expected_scriptures": [
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -445,9 +719,15 @@
       "id": "CP-012",
       "category": "conceptual",
       "question": "What is the Ashvamedha ritual?",
-      "expected_entities": ["Ashvamedha"],
-      "expected_scriptures": ["MBH"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Ashvamedha"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 1
@@ -456,9 +736,15 @@
       "id": "CP-013",
       "category": "conceptual",
       "question": "What is the Gayatri Mantra?",
-      "expected_entities": ["Gayatri Mantra"],
-      "expected_scriptures": ["RV"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Gayatri Mantra"
+      ],
+      "expected_scriptures": [
+        "RV"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 1
@@ -467,9 +753,16 @@
       "id": "CP-014",
       "category": "conceptual",
       "question": "What is the concept of Brahman?",
-      "expected_entities": ["Brahman"],
-      "expected_scriptures": ["VEDANTA_SUTRA", "BRIHAD"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Brahman"
+      ],
+      "expected_scriptures": [
+        "VEDANTA_SUTRA",
+        "BRIHAD"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "medium",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -478,9 +771,17 @@
       "id": "CS-001",
       "category": "cross_scripture",
       "question": "How do the Bhagavad Gita and the Upanishads both discuss Moksha?",
-      "expected_entities": ["Moksha"],
-      "expected_scriptures": ["BG", "BRIHAD", "KATH"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Moksha"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "BRIHAD",
+        "KATH"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -489,9 +790,16 @@
       "id": "CS-002",
       "category": "cross_scripture",
       "question": "How do Vishnu Purana and Bhagavata Purana both describe Krishna?",
-      "expected_entities": ["Krishna"],
-      "expected_scriptures": ["VISH", "BHAG"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Krishna"
+      ],
+      "expected_scriptures": [
+        "VISH",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -500,9 +808,16 @@
       "id": "CS-003",
       "category": "cross_scripture",
       "question": "How do the Rigveda and Yajurveda both reference Agni?",
-      "expected_entities": ["Agni"],
-      "expected_scriptures": ["RV", "YVK"],
-      "expected_relationships": ["MENTIONED_IN"],
+      "expected_entities": [
+        "Agni"
+      ],
+      "expected_scriptures": [
+        "RV",
+        "YVK"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 2
@@ -511,9 +826,16 @@
       "id": "CS-004",
       "category": "cross_scripture",
       "question": "What teachings about Dharma appear in both the Manusmriti and Bhagavad Gita?",
-      "expected_entities": ["Dharma"],
-      "expected_scriptures": ["MANU", "BG"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Dharma"
+      ],
+      "expected_scriptures": [
+        "MANU",
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -522,9 +844,16 @@
       "id": "CS-005",
       "category": "cross_scripture",
       "question": "How do Yoga Sutras and Bhagavad Gita approach the concept of Yoga?",
-      "expected_entities": ["Yoga"],
-      "expected_scriptures": ["YOGA_SUTRA", "BG"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Yoga"
+      ],
+      "expected_scriptures": [
+        "YOGA_SUTRA",
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -533,9 +862,17 @@
       "id": "RS-001",
       "category": "reasoning",
       "question": "Why did Krishna choose to be Arjuna's charioteer in the Mahabharata war?",
-      "expected_entities": ["Krishna", "Arjuna"],
-      "expected_scriptures": ["BG", "MBH"],
-      "expected_relationships": ["TEACHER_OF"],
+      "expected_entities": [
+        "Krishna",
+        "Arjuna"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -544,9 +881,16 @@
       "id": "RS-002",
       "category": "reasoning",
       "question": "What philosophical connection exists between the concept of Dharma in the Bhagavad Gita and the Laws of Manu?",
-      "expected_entities": ["Dharma"],
-      "expected_scriptures": ["BG", "MANU"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Dharma"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MANU"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -555,9 +899,18 @@
       "id": "RS-003",
       "category": "reasoning",
       "question": "Why is Vishnu worshipped through multiple avatars?",
-      "expected_entities": ["Vishnu", "Rama", "Krishna"],
-      "expected_scriptures": ["BHAG", "VISH"],
-      "expected_relationships": ["INCARNATION_OF"],
+      "expected_entities": [
+        "Vishnu",
+        "Rama",
+        "Krishna"
+      ],
+      "expected_scriptures": [
+        "BHAG",
+        "VISH"
+      ],
+      "expected_relationships": [
+        "INCARNATION_OF"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -566,9 +919,17 @@
       "id": "RS-004",
       "category": "reasoning",
       "question": "What role does the concept of Karma play across the Upanishads and Bhagavad Gita?",
-      "expected_entities": ["Karma"],
-      "expected_scriptures": ["BG", "BRIHAD", "KATH"],
-      "expected_relationships": ["TEACHES"],
+      "expected_entities": [
+        "Karma"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "BRIHAD",
+        "KATH"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -577,9 +938,16 @@
       "id": "RS-005",
       "category": "reasoning",
       "question": "Why are the Pandavas considered rightful rulers of Hastinapura?",
-      "expected_entities": ["Arjuna", "Yudhishthira"],
-      "expected_scriptures": ["MBH"],
-      "expected_relationships": ["SON_OF"],
+      "expected_entities": [
+        "Arjuna",
+        "Yudhishthira"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 3
@@ -713,6 +1081,652 @@
       "max_confidence": "low",
       "min_evidence_sources": 0,
       "max_evidence_sources": 2
+    },
+    {
+      "id": "EF-019",
+      "category": "entity_factual",
+      "question": "Who is Bhima?",
+      "expected_entities": [
+        "Bhima"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "EF-020",
+      "category": "entity_factual",
+      "question": "Who is Nakula?",
+      "expected_entities": [
+        "Nakula"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "EF-021",
+      "category": "entity_factual",
+      "question": "Who is Sahadeva?",
+      "expected_entities": [
+        "Sahadeva"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "EF-022",
+      "category": "entity_factual",
+      "question": "Who is Drona?",
+      "expected_entities": [
+        "Drona"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "EF-023",
+      "category": "entity_factual",
+      "question": "Who is Karna?",
+      "expected_entities": [
+        "Karna"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "EF-024",
+      "category": "entity_factual",
+      "question": "Who is Duryodhana?",
+      "expected_entities": [
+        "Duryodhana"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "EF-025",
+      "category": "entity_factual",
+      "question": "Who is Sita?",
+      "expected_entities": [
+        "Sita"
+      ],
+      "expected_scriptures": [
+        "RM"
+      ],
+      "expected_relationships": [
+        "WIFE_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "EF-026",
+      "category": "entity_factual",
+      "question": "Who is Hanuman?",
+      "expected_entities": [
+        "Hanuman"
+      ],
+      "expected_scriptures": [
+        "RM",
+        "MBH"
+      ],
+      "expected_relationships": [
+        "DEVOTEE_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "RL-011",
+      "category": "relationship",
+      "question": "Who is the wife of Rama?",
+      "expected_entities": [
+        "Rama",
+        "Sita"
+      ],
+      "expected_scriptures": [
+        "RM"
+      ],
+      "expected_relationships": [
+        "WIFE_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "RL-012",
+      "category": "relationship",
+      "question": "Who is the father of Krishna?",
+      "expected_entities": [
+        "Krishna"
+      ],
+      "expected_scriptures": [
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "RL-013",
+      "category": "relationship",
+      "question": "What is the relationship between Duryodhana and Yudhishthira?",
+      "expected_entities": [
+        "Duryodhana",
+        "Yudhishthira"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "BROTHER_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "RL-014",
+      "category": "relationship",
+      "question": "Who taught Drona to fight?",
+      "expected_entities": [
+        "Drona"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
+      "difficulty": "medium",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "RL-015",
+      "category": "relationship",
+      "question": "Who is the mother of Bhima?",
+      "expected_entities": [
+        "Bhima"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "MOTHER_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "CP-015",
+      "category": "conceptual",
+      "question": "What is the concept of Puja?",
+      "expected_entities": [
+        "Puja"
+      ],
+      "expected_scriptures": [
+        "AGNI"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "medium",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "CP-016",
+      "category": "conceptual",
+      "question": "What is Dhyana in Hindu practice?",
+      "expected_entities": [
+        "Dhyana"
+      ],
+      "expected_scriptures": [
+        "YOGA_SUTRA",
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "medium",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "CP-017",
+      "category": "conceptual",
+      "question": "What is the concept of Tapas?",
+      "expected_entities": [
+        "Tapas"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "YOGA_SUTRA"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "medium",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "CP-018",
+      "category": "conceptual",
+      "question": "What is Ahimsa?",
+      "expected_entities": [
+        "Ahimsa"
+      ],
+      "expected_scriptures": [
+        "MANU",
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "medium",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "CP-019",
+      "category": "conceptual",
+      "question": "What is Sannyasa?",
+      "expected_entities": [
+        "Sannyasa"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "MANU"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "medium",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "CS-006",
+      "category": "cross_scripture",
+      "question": "How do the Mahabharata and Ramayana both portray the concept of Dharma?",
+      "expected_entities": [
+        "Dharma"
+      ],
+      "expected_scriptures": [
+        "MBH",
+        "RM"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 3
+    },
+    {
+      "id": "CS-007",
+      "category": "cross_scripture",
+      "question": "What teachings about devotion appear in both the Bhagavad Gita and Bhagavata Purana?",
+      "expected_entities": [
+        "Bhakti"
+      ],
+      "expected_scriptures": [
+        "BG",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 3
+    },
+    {
+      "id": "CS-008",
+      "category": "cross_scripture",
+      "question": "How do the Upanishads and Brahma Sutra discuss the nature of Brahman?",
+      "expected_entities": [
+        "Brahman"
+      ],
+      "expected_scriptures": [
+        "BRIHAD",
+        "VEDANTA_SUTRA"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "CS-009",
+      "category": "cross_scripture",
+      "question": "What common themes about liberation exist in the Yoga Sutras and Bhagavad Gita?",
+      "expected_entities": [
+        "Moksha",
+        "Yoga"
+      ],
+      "expected_scriptures": [
+        "YOGA_SUTRA",
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 3
+    },
+    {
+      "id": "CS-010",
+      "category": "cross_scripture",
+      "question": "How do Vishnu Purana and Bhagavata Purana both describe the Dasavatara?",
+      "expected_entities": [
+        "Vishnu",
+        "Rama",
+        "Krishna"
+      ],
+      "expected_scriptures": [
+        "VISH",
+        "BHAG"
+      ],
+      "expected_relationships": [
+        "INCARNATION_OF"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 3
+    },
+    {
+      "id": "RS-006",
+      "category": "reasoning",
+      "question": "Why did the Pandavas agree to 13 years of exile?",
+      "expected_entities": [
+        "Yudhishthira",
+        "Duryodhana"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "SON_OF"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "RS-007",
+      "category": "reasoning",
+      "question": "What is the philosophical significance of Krishna showing his universal form to Arjuna?",
+      "expected_entities": [
+        "Krishna",
+        "Arjuna"
+      ],
+      "expected_scriptures": [
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "RS-008",
+      "category": "reasoning",
+      "question": "Why is Rama considered an ideal king in Hindu tradition?",
+      "expected_entities": [
+        "Rama"
+      ],
+      "expected_scriptures": [
+        "RM"
+      ],
+      "expected_relationships": [
+        "INCARNATION_OF"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "RS-009",
+      "category": "reasoning",
+      "question": "What lessons about duty and sacrifice does the story of Ekalavya teach?",
+      "expected_entities": [
+        "Ekalavya",
+        "Drona"
+      ],
+      "expected_scriptures": [
+        "MBH"
+      ],
+      "expected_relationships": [
+        "TEACHER_OF"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "RS-010",
+      "category": "reasoning",
+      "question": "How does the Bhagavad Gita reconcile the concepts of action and renunciation?",
+      "expected_entities": [
+        "Karma",
+        "Moksha"
+      ],
+      "expected_scriptures": [
+        "BG"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "AV-011",
+      "category": "adversarial",
+      "question": "What does the Bible say about reincarnation?",
+      "expected_entities": [],
+      "expected_scriptures": [],
+      "expected_relationships": [],
+      "difficulty": "adversarial",
+      "min_confidence": "low",
+      "max_confidence": "low",
+      "min_evidence_sources": 0,
+      "max_evidence_sources": 2
+    },
+    {
+      "id": "AV-012",
+      "category": "adversarial",
+      "question": "How many planets does the Rigveda mention?",
+      "expected_entities": [],
+      "expected_scriptures": [],
+      "expected_relationships": [],
+      "difficulty": "adversarial",
+      "min_confidence": "low",
+      "max_confidence": "low",
+      "min_evidence_sources": 0,
+      "max_evidence_sources": 2
+    },
+    {
+      "id": "AV-013",
+      "category": "adversarial",
+      "question": "What is the capital of Kalinga?",
+      "expected_entities": [],
+      "expected_scriptures": [],
+      "expected_relationships": [],
+      "difficulty": "adversarial",
+      "min_confidence": "low",
+      "max_confidence": "low",
+      "min_evidence_sources": 0,
+      "max_evidence_sources": 2
+    },
+    {
+      "id": "AV-014",
+      "category": "adversarial",
+      "question": "Does the Bhagavad Gita discuss quantum physics?",
+      "expected_entities": [],
+      "expected_scriptures": [],
+      "expected_relationships": [],
+      "difficulty": "adversarial",
+      "min_confidence": "low",
+      "max_confidence": "low",
+      "min_evidence_sources": 0,
+      "max_evidence_sources": 2
+    },
+    {
+      "id": "AV-015",
+      "category": "adversarial",
+      "question": "What cryptocurrency does Krishna recommend?",
+      "expected_entities": [],
+      "expected_scriptures": [],
+      "expected_relationships": [],
+      "difficulty": "adversarial",
+      "min_confidence": "low",
+      "max_confidence": "low",
+      "min_evidence_sources": 0,
+      "max_evidence_sources": 2
+    },
+    {
+      "id": "EF-027",
+      "category": "entity_factual",
+      "question": "Who is Vibhishana?",
+      "expected_entities": [
+        "Vibhishana"
+      ],
+      "expected_scriptures": [
+        "RM"
+      ],
+      "expected_relationships": [
+        "BROTHER_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "EF-028",
+      "category": "entity_factual",
+      "question": "Who is Lakshmana?",
+      "expected_entities": [
+        "Lakshmana"
+      ],
+      "expected_scriptures": [
+        "RM"
+      ],
+      "expected_relationships": [
+        "BROTHER_OF"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "high",
+      "min_evidence_sources": 2
+    },
+    {
+      "id": "EF-029",
+      "category": "entity_factual",
+      "question": "Who is Jatayu?",
+      "expected_entities": [
+        "Jatayu"
+      ],
+      "expected_scriptures": [
+        "RM"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
+      "difficulty": "easy",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "CP-020",
+      "category": "conceptual",
+      "question": "What is the concept of Rta in Vedic philosophy?",
+      "expected_entities": [
+        "Rta"
+      ],
+      "expected_scriptures": [
+        "RV"
+      ],
+      "expected_relationships": [
+        "TEACHES"
+      ],
+      "difficulty": "medium",
+      "min_confidence": "medium",
+      "min_evidence_sources": 1
+    },
+    {
+      "id": "CS-011",
+      "category": "cross_scripture",
+      "question": "How do the Rigveda and Atharvaveda both reference healing practices?",
+      "expected_entities": [
+        "Agni"
+      ],
+      "expected_scriptures": [
+        "RV",
+        "AV"
+      ],
+      "expected_relationships": [
+        "MENTIONED_IN"
+      ],
+      "difficulty": "hard",
+      "min_confidence": "medium",
+      "min_evidence_sources": 2
     }
   ]
 }

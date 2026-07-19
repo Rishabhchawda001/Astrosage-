@@ -8,17 +8,22 @@ import pytest
 BASE = Path(__file__).parent.parent
 sys.path.insert(0, str(BASE / "src"))
 
+RAW_DIR = BASE / "knowledge" / "raw" / "source_library"
+SKIP_NO_RAW = not RAW_DIR.exists()
+SKIP_REASON_RAW = "Skipped: No raw source library found"
+
 
 class TestSampler:
     def test_sampler_imports(self):
         from astrosage.production.sampler import build_validation_corpus
         assert build_validation_corpus is not None
 
+    @pytest.mark.skipif(SKIP_NO_RAW, reason=SKIP_REASON_RAW)
     def test_sampler_returns_samples_and_summary(self):
         from astrosage.production.sampler import build_validation_corpus
         samples, summary = build_validation_corpus(
             forensics_results_path=BASE / "knowledge" / "benchmarks" / "forensics" / "forensic_results.json",
-            raw_dir=BASE / "knowledge" / "raw" / "source_library",
+            raw_dir=RAW_DIR,
             manifest_path=BASE / "knowledge" / "reports" / "manifest.csv",
             max_samples=10,
         )
@@ -26,11 +31,12 @@ class TestSampler:
         assert "total_selected" in summary
         assert "by_class" in summary
 
+    @pytest.mark.skipif(SKIP_NO_RAW, reason=SKIP_REASON_RAW)
     def test_sampler_covers_all_classes(self):
         from astrosage.production.sampler import build_validation_corpus
         samples, summary = build_validation_corpus(
             forensics_results_path=BASE / "knowledge" / "benchmarks" / "forensics" / "forensic_results.json",
-            raw_dir=BASE / "knowledge" / "raw" / "source_library",
+            raw_dir=RAW_DIR,
             manifest_path=BASE / "knowledge" / "reports" / "manifest.csv",
             max_samples=20,
         )
