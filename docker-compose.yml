@@ -1,0 +1,69 @@
+# ────────────────────────────────────────────────────────────────
+# AstroSage AI — Docker Compose Development Environment
+# ────────────────────────────────────────────────────────────────
+
+version: "3.9"
+
+services:
+  # ── API Server ──────────────────────────────────────────────
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: astrosage-api
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENVIRONMENT=development
+      - SECRET_KEY=dev-secret-key-change-in-production
+      - KNOWLEDGE_BASE_PATH=/app/knowledge/releases/v1.0.0
+      - CORS_ORIGINS=http://localhost:3000,http://localhost:5173
+      - LOG_LEVEL=DEBUG
+    volumes:
+      - ./knowledge/releases/v1.0.0:/app/knowledge/releases/v1.0.0:ro
+      - ./api:/app/api:ro
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+
+  # ── Redis (caching, rate limiting, sessions) ────────────────
+  redis:
+    image: redis:7-alpine
+    container_name: astrosage-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+    restart: unless-stopped
+
+  # ── PostgreSQL (user data, conversations) ───────────────────
+  postgres:
+    image: postgres:16-alpine
+    container_name: astrosage-postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: astrosage
+      POSTGRES_PASSWORD: astrosage-dev
+      POSTGRES_DB: astrosage
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U astrosage"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  redis_data:
+  postgres_data:

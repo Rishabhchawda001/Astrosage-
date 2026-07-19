@@ -1,6 +1,6 @@
 [project]
 name = "astrosage-knowledge-engine"
-version = "0.1.0"
+version = "2.0.0"
 description = "AstroSage Knowledge Operating System — a self-hosted, production-grade knowledge engine for indexing and querying Vedic texts, research papers, and books."
 requires-python = ">=3.11"
 license = {text = "MIT"}
@@ -45,8 +45,22 @@ dependencies = [
     "click>=8.0.0",
     "aiofiles>=24.0.0",
     "aiohttp>=3.10.0",
-]
 
+    # API Layer (Phase 0)
+    "fastapi[standard]>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+    "pydantic-settings>=2.5.0",
+
+    # Authentication
+    "python-jose[cryptography]>=3.3.0",
+    "bcrypt>=4.1.0",
+
+    # HTTP
+    "httpx>=0.27.0",
+
+    # Monitoring
+    "prometheus-fastapi-instrumentator>=7.0.0",
+]
 [project.optional-dependencies]
 dev = [
     "pytest>=8.0.0",

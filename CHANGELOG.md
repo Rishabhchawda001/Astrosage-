@@ -1,5 +1,56 @@
 # Changelog — AstroSage Knowledge System
 
+## v2.0.0 — AI Platform Foundation: API & Infrastructure (2026-07-19)
+
+### Summary
+
+Phase 0 of the AstroSage AI Platform roadmap — production API server, authentication, Docker, CI/CD, and middleware infrastructure. This is the foundation for all future AI capabilities.
+
+### New Modules
+
+- `api/` — Complete FastAPI application with modular architecture
+- `.github/workflows/` — CI/CD pipelines
+
+### API Server (api/)
+
+- **FastAPI application**: Async server with lifespan management, OpenAPI auto-docs (`/docs`, `/redoc`), and health endpoint
+- **Configuration**: Pydantic Settings loaded from environment variables, `.env.example` provided
+- **14 API tests passing**: Health check, user registration, authentication, token management, API key creation
+
+### Authentication System
+
+- **JWT-based auth**: Access token (30 min) + refresh token (7 day) flow
+- **API key support**: `ast-*` prefixed keys for programmatic access
+- **Password hashing**: bcrypt-based secure hashing
+- **Endpoints**: register, login, token refresh, get current user, create API key
+
+### Middleware Stack
+
+- **CORS**: Configurable origins for frontend integration
+- **Rate limiting**: In-memory sliding window (100 req/min per IP, configurable)
+- **Audit logging**: Structured JSON audit trail for every request with request ID tracking
+- **Error handling**: Global exception handler with structured JSON error responses for all 4xx/5xx cases
+
+### Infrastructure
+
+- **Docker**: Multi-stage Dockerfile (build → runtime), non-root user, healthcheck
+- **Docker Compose**: API + Redis + PostgreSQL services for local development
+- **CI/CD**: GitHub Actions workflows for lint, test, build, and deploy stages
+- **Makefile**: Common development commands (install, dev, lint, test, build, run)
+
+### Dependencies
+
+- Added: fastapi, uvicorn, pydantic-settings, python-jose, bcrypt, httpx, prometheus-fastapi-instrumentator
+
+### Tests
+
+- 14 new API tests (all passing)
+- Full suite: 858+14 = 872 passed (0 failures)
+
+---
+
+# Changelog — AstroSage Knowledge System
+
 ## v1.2.0 — Engineering Improvements (2026-07-19)
 
 ### Summary
