@@ -16,6 +16,7 @@ from pathlib import Path
 from typing import Optional
 
 from api.config import settings
+from api.services.cache import get_cache
 
 
 class KnowledgeGraphService:
@@ -233,9 +234,14 @@ class BM25SearchService:
         return re.findall(r'\w+', text.lower())
 
     def search(self, query: str, top_k: int = 10) -> list[dict]:
-        """Search using BM25 scoring."""
+        """Search using BM25 scoring with caching."""
         if not self._loaded or not self._bm25_data:
             return []
+
+        cache = get_cache()
+        cached = cache.get_search(query, top_k)
+        if cached is not None:
+            return cached
 
         query_tokens = self._tokenize(query)
         N = self._bm25_data["N"]
@@ -278,6 +284,7 @@ class BM25SearchService:
                 "provenance": c.get("provenance", {}),
             })
 
+        cache.set_search(query, top_k, results)
         return results
 
     @property
@@ -300,7 +307,12 @@ class AnswerService:
         self.search = search_service
 
     def answer(self, question: str, top_k: int = 5) -> dict:
-        """Generate a grounded answer with evidence."""
+        """Generate a grounded answer with evidence (cached)."""
+        cache = get_cache()
+        cached = cache.get_answer(question)
+        if cached is not None:
+            return cached
+
         # Search for relevant chunks
         search_results = self.search.search(question, top_k=top_k * 3)
 
