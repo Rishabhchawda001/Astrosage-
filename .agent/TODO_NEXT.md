@@ -1,18 +1,26 @@
 # TODO — Next Actions
 
-## Version 1.0 Audit — COMPLETE
+## Version 1.1 — Evaluation Framework (COMPLETE)
 
-All acceptance audit findings have been addressed:
-- README.md: Created as VERSION_1_ACCEPTANCE_REPORT.md (audit entry point)
-- Self-index: Updated PROJECT_STATE.md and CURRENT_PHASE.md
-- TODO_NEXT.md: Updated to reflect completed roadmap
+All evaluation modules built and tested:
+- Golden dataset: 62 questions
+- Retrieval, hallucination, regression, explainability evaluators
+- Quality gates with 8 release criteria
+- 31 tests passing
 
-## Future Work (Post v1.0.0)
+## Version 1.1 Remaining Work
 
-1. Create README.md with setup instructions
-2. Web API (FastAPI) for search and QA
-3. Multi-turn conversation support
-4. Cross-lingual query support (Devanagari ↔ IAST)
-5. Real-time corpus updates via migrations
-6. Evaluation benchmarks (MMLU-style for Indic knowledge)
-7. Production deployment with monitoring
+1. Wire evaluation to real pipeline (replace mock search_fn/answer_fn)
+2. Expand golden dataset to 150+ questions
+3. Add CI/CD integration for continuous evaluation
+4. Add A/B testing framework for pipeline changes
+5. Add cross-lingual evaluation (Devanagari ↔ IAST)
+
+## Future Work (Post v1.1)
+
+1. Web API (FastAPI) for search and QA
+2. Multi-turn conversation support
+3. Cross-lingual query support (Devanagari ↔ IAST)
+4. Real-time corpus updates via migrations
+5. Production deployment with monitoring
+6. Mobile app interface

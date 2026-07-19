@@ -1,33 +1,34 @@
-# Current Phase: 15 — Grounded Answer Generation
+# Current Phase: Version 1.1 — Evaluation Framework
 
-**Status**: ✅ COMPLETE — ALL ROADMAP PHASES DONE
+**Status**: ✅ COMPLETE — Evaluation framework built and tested
 
-## Completed Phases
+## Completed
 
-1-8: Knowledge Graph Construction ✅
-9.1-9.9: Graph Saturation + Corpus Recovery ✅
-10: Knowledge Freeze v1.0.0 ✅
-11: Semantic Chunking (120,548 chunks) ✅
-12: Embeddings (MiniLM-L6-v2, 384d) ✅
-13: Hybrid Retrieval (BM25 + FAISS) ✅
-14: Reasoning Engine ✅
-15: Grounded Answer Generation ✅
+1. Golden evaluation dataset (62 Q&A pairs across 6 categories)
+2. Retrieval evaluator (precision, recall, NDCG, latency)
+3. Hallucination evaluator (adversarial query detection)
+4. Regression evaluator (baseline comparison, tolerance-based)
+5. Explainability engine (reasoning traces, narrative generation)
+6. Quality gates (release criteria, pass/fail verdicts)
+7. Evaluation runner (full suite orchestration)
+8. 31 evaluation framework tests — all passing
 
 ## Version 1.0 Audit
 
 - Acceptance audit: PASS WITH LIMITATIONS
 - Scorecard: B+ (75/100 overall)
-- Documentation fixes applied: 3
-- Remaining: None blocking
+- All documentation defects resolved
 
-## System Capabilities
+## Version 1.1 Status
 
-- Entity reasoning with evidence chains
-- Question answering with provenance tracing
-- Hybrid semantic + lexical search
-- High-confidence answers from verified knowledge
+- Golden dataset: 62 questions (entity_factual, relationship, conceptual, cross_scripture, reasoning, adversarial)
+- Quality gates: 8 release criteria defined
+- Regression baseline: Saved
+- Mock search/answer: Graph-based, domain-aware
 
-## Next Phase
+## Next Steps
 
-No further phases in v1.0.0 scope.
-Future work: API server, multi-turn conversation, cross-lingual search.
+- Wire evaluation to real pipeline (search_fn, answer_fn)
+- Expand golden dataset to 150+ questions
+- Add CI/CD integration for continuous evaluation
+- Add A/B testing framework for pipeline changes
