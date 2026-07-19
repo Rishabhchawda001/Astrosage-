@@ -60,6 +60,9 @@ dependencies = [
 
     # Monitoring
     "prometheus-fastapi-instrumentator>=7.0.0",
+
+    # AI Chat
+    "litellm>=1.40.0",
 ]
 [project.optional-dependencies]
 dev = [

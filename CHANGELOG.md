@@ -1,5 +1,49 @@
 # Changelog — AstroSage Knowledge System
 
+## v2.2.0 — Chat Completions API & LiteLLM Integration (2026-07-19)
+
+### Summary
+
+Added an OpenAI-compatible chat completions API with LiteLLM model routing, SSE streaming, knowledge base context augmentation, and graceful fallback to the knowledge engine.
+
+### New Endpoint
+
+- **POST /api/v1/chat/completions** — OpenAI-compatible chat completions
+  - Supports streaming via Server-Sent Events
+  - LiteLLM routing: routes to any model (local vLLM, OpenAI, Claude, Gemini)
+  - Knowledge base context augmentation for relevant queries
+  - Graceful fallback to knowledge engine when model API is unavailable
+  - Full parameter support (temperature, max_tokens, top_p, frequency/penalty)
+
+### New Services
+
+- `api/services/chat.py` — ChatService with LiteLLM integration
+  - `acompletion()` — async completion with model routing
+  - `acompletion_stream()` — async SSE streaming
+  - `_build_context()` — knowledge base context augmentation
+  - `_fallback_answer()` — graceful degradation to knowledge engine
+
+### Architecture
+
+- OpenAI-compatible request/response format for easy frontend integration
+- SSE streaming with proper headers (Cache-Control, Connection, X-Accel-Buffering)
+- Automatic context injection from knowledge base
+- Falls back to grounded answer generation when no cloud API key is configured
+
+### Dependencies
+
+- Added: litellm (model routing across 100+ providers)
+
+### Tests
+
+- 5 new chat tests (basic completion, streaming, validation, fallback, system messages)
+- 31 API tests total, all passing
+- 858 existing knowledge tests still passing
+
+---
+
+# Changelog — AstroSage Knowledge System
+
 ## v2.1.0 — Search, Graph & Answer API (2026-07-19)
 
 ### Summary
