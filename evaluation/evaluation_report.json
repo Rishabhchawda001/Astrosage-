@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T20:02:12.305772+00:00",
+  "timestamp": "2026-07-19T20:19:42.980806+00:00",
   "version": "1.1.0",
   "commit": "test",
   "dataset_version": "1.0.0",
@@ -13,10 +13,10 @@
     "adversarial": 15
   },
   "retrieval": {
-    "avg_latency_ms": 6.77,
-    "p50_latency_ms": 4.47,
-    "p95_latency_ms": 16.56,
-    "p99_latency_ms": 46.67,
+    "avg_latency_ms": 6.65,
+    "p50_latency_ms": 4.54,
+    "p95_latency_ms": 16.59,
+    "p99_latency_ms": 39.5,
     "avg_precision_at_5": 0.228,
     "avg_recall_at_5": 0.401,
     "avg_ndcg_at_5": 0.9944,
@@ -38,7 +38,7 @@
     "passed": true
   },
   "regression": {
-    "timestamp": "2026-07-19T20:02:12.303141+00:00",
+    "timestamp": "2026-07-19T20:19:42.978255+00:00",
     "baseline_timestamp": "2026-07-19T13:21:48.716301+00:00",
     "total_metrics": 8,
     "passed_metrics": 8,
@@ -49,8 +49,8 @@
       {
         "metric": "retrieval_latency_p95_ms",
         "baseline": 16.51,
-        "current": 16.56,
-        "delta_pct": 0.003,
+        "current": 16.59,
+        "delta_pct": 0.0048,
         "degraded": false
       },
       {
@@ -106,7 +106,7 @@
     "passed": true
   },
   "quality_gates": {
-    "timestamp": "2026-07-19T20:02:12.299519+00:00",
+    "timestamp": "2026-07-19T20:19:42.974985+00:00",
     "version": "1.1.0",
     "verdict": "PASS",
     "total_gates": 8,
@@ -117,9 +117,9 @@
       {
         "name": "retrieval_latency_p95_ms",
         "threshold": 100.0,
-        "actual": 16.56,
+        "actual": 16.59,
         "passed": true,
-        "message": "P95 retrieval latency must be under 100ms: 16.56 vs 100.0"
+        "message": "P95 retrieval latency must be under 100ms: 16.59 vs 100.0"
       },
       {
         "name": "retrieval_entity_recall",
@@ -184,7 +184,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -192,7 +192,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -200,7 +200,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -208,7 +208,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -216,7 +216,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -224,7 +224,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -232,7 +232,7 @@
           "target": "Matsya Avatar",
           "relationship": "INCARNATION_OF",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -240,7 +240,7 @@
           "target": "Kurma Avatar",
           "relationship": "INCARNATION_OF",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -248,7 +248,7 @@
           "target": "Varaha Avatar",
           "relationship": "INCARNATION_OF",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -256,7 +256,7 @@
           "target": "Narasimha Avatar",
           "relationship": "INCARNATION_OF",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -264,7 +264,7 @@
           "target": "Vamana Avatar",
           "relationship": "INCARNATION_OF",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -272,7 +272,7 @@
           "target": "Krishna",
           "relationship": "INCARNATION_OF",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -280,7 +280,7 @@
           "target": "Parashurama",
           "relationship": "INCARNATION_OF",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -288,7 +288,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -296,7 +296,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -304,7 +304,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -312,7 +312,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -320,7 +320,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -328,7 +328,7 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         },
         {
@@ -336,15 +336,15 @@
           "target": "",
           "relationship": "MENTIONED_IN",
           "confidence": "medium",
-          "scripture": "ISHA",
+          "scripture": "RM",
           "canonical_ref": ""
         }
       ],
       "confidence": "high",
       "confidence_score": 0.85,
-      "summary": "Based on 20 evidence relationships involving Vishnu, sourced from ISHA. Confidence: high.",
+      "summary": "Based on 20 evidence relationships involving Vishnu, sourced from RM. Confidence: high.",
       "supporting_scriptures": [
-        "ISHA"
+        "RM"
       ],
       "key_relationships": [
         "MENTIONED_IN",
@@ -357,6 +357,6 @@
         "Confidence assessment: high (85%)"
       ]
     },
-    "narrative": "Question: Who is Vishnu?\n\nEntities identified: Vishnu\n\nReasoning chain:\n  1. Identified 1 relevant entities: Vishnu\n  2. Found 20 evidence sources across scriptures\n  3. All evidence traces to canonical sources with provenance\n  4. Confidence assessment: high (85%)\n\nEvidence sources:\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[INCARNATION_OF]--> Matsya Avatar (confidence: medium, source: ISHA)\n  - Vishnu --[INCARNATION_OF]--> Kurma Avatar (confidence: medium, source: ISHA)\n  - Vishnu --[INCARNATION_OF]--> Varaha Avatar (confidence: medium, source: ISHA)\n  - Vishnu --[INCARNATION_OF]--> Narasimha Avatar (confidence: medium, source: ISHA)\n  - Vishnu --[INCARNATION_OF]--> Vamana Avatar (confidence: medium, source: ISHA)\n  - Vishnu --[INCARNATION_OF]--> Krishna (confidence: medium, source: ISHA)\n  - Vishnu --[INCARNATION_OF]--> Parashurama (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: ISHA)\n\nOverall confidence: high\nSupporting scriptures: ISHA"
+    "narrative": "Question: Who is Vishnu?\n\nEntities identified: Vishnu\n\nReasoning chain:\n  1. Identified 1 relevant entities: Vishnu\n  2. Found 20 evidence sources across scriptures\n  3. All evidence traces to canonical sources with provenance\n  4. Confidence assessment: high (85%)\n\nEvidence sources:\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[INCARNATION_OF]--> Matsya Avatar (confidence: medium, source: RM)\n  - Vishnu --[INCARNATION_OF]--> Kurma Avatar (confidence: medium, source: RM)\n  - Vishnu --[INCARNATION_OF]--> Varaha Avatar (confidence: medium, source: RM)\n  - Vishnu --[INCARNATION_OF]--> Narasimha Avatar (confidence: medium, source: RM)\n  - Vishnu --[INCARNATION_OF]--> Vamana Avatar (confidence: medium, source: RM)\n  - Vishnu --[INCARNATION_OF]--> Krishna (confidence: medium, source: RM)\n  - Vishnu --[INCARNATION_OF]--> Parashurama (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n  - Vishnu --[MENTIONED_IN]-->  (confidence: medium, source: RM)\n\nOverall confidence: high\nSupporting scriptures: RM"
   }
 }

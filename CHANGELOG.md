@@ -1,5 +1,48 @@
 # Changelog — AstroSage Knowledge System
 
+## v2.1.0 — Search, Graph & Answer API (2026-07-19)
+
+### Summary
+
+Connected the API server to the frozen knowledge layer. The AstroSage API can now search the knowledge base, query the knowledge graph, and answer questions using the real BM25 index and knowledge graph data.
+
+### New Endpoints
+
+- **POST /api/v1/search** — BM25 lexical search over 120K frozen chunks (240ms avg latency)
+- **GET /api/v1/search** — GET variant for simple queries
+- **GET /api/v1/graph/entity/{name}** — Entity details with all relationships (Vishnu: 57 rels)
+- **GET /api/v1/graph/search** — Entity name search
+- **GET /api/v1/graph/scripture/{id}** — Scripture metadata
+- **GET /api/v1/graph/scriptures** — List all 54 scriptures
+- **GET /api/v1/graph/path** — BFS path finding between entities
+- **GET /api/v1/graph/stats** — Knowledge graph statistics (391 entities, 5,044 edges)
+- **POST /api/v1/answer** — Grounded answer with evidence, citations, and confidence scoring (593ms avg)
+
+### New Services
+
+- `api/services/knowledge.py` — KnowledgeGraphService, BM25SearchService, AnswerService
+  - In-memory BM25 search over 120K chunks (375K vocabulary)
+  - Knowledge graph entity/relationship traversal
+  - BFS path finding between entities
+  - Grounded answer generation with confidence scoring
+
+### Architecture
+
+- Services are lazy-loaded singletons (loaded on first request)
+- Pydantic models validate all request/response schemas
+- Structured JSON error responses for all 4xx/5xx cases
+- 14 OpenAPI paths now defined
+
+### Tests
+
+- 26 API tests passing (health, auth, search, graph, answer)
+- 858 existing knowledge tests still passing
+- Full suite: 884 passed, 0 failures
+
+---
+
+# Changelog — AstroSage Knowledge System
+
 ## v2.0.0 — AI Platform Foundation: API & Infrastructure (2026-07-19)
 
 ### Summary
