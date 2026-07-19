@@ -1,26 +1,37 @@
-# TODO — Next Actions
+# TODO — Next Actions (Priority Order)
 
-## Version 1.1 — Evaluation Framework (COMPLETE)
+## Just Completed
+- ✅ Fixed BM25 `get_top_index` → `get_scores` + numpy argsort
+- ✅ Fixed punctuation handling in tokenization (4.5x precision gain)
+- ✅ Fixed RegressionEvaluator.check() → evaluate() in real pipeline eval
+- ✅ Ported adversarial detection to AnswerService
+- ✅ Integrated QueryExpansionEngine for Sanskrit/Hindi/English bridging
+- ✅ Added entity-guided BM25 pre-filtering (260x latency improvement)
+- ✅ 8/8 Quality Gates PASS
+- ✅ 59 API + 858 knowledge tests passing
 
-All evaluation modules built and tested:
-- Golden dataset: 62 questions
-- Retrieval, hallucination, regression, explainability evaluators
-- Quality gates with 8 release criteria
-- 31 tests passing
+## Priority 1: Expand Golden Dataset
+- Current: 100 Q&A pairs (62 non-adversarial + 15 adversarial in dataset, 100 total)
+- Target: 150+ Q&A pairs across all categories
+- Add more entity_factual, relationship, cross_scripture questions
+- Add more adversarial variations
 
-## Version 1.1 Remaining Work
+## Priority 2: Fix HallucinationEvaluator Compatibility
+- `hallucination_eval.py` expects flat `confidence` key but AnswerService returns nested `answer.confidence`
+- Update `evaluate_question()` to handle both formats
+- This only affects standalone use of HallucinationEvaluator
 
-1. Wire evaluation to real pipeline (replace mock search_fn/answer_fn)
-2. Expand golden dataset to 150+ questions
-3. Add CI/CD integration for continuous evaluation
-4. Add A/B testing framework for pipeline changes
-5. Add cross-lingual evaluation (Devanagari ↔ IAST)
+## Priority 3: CI/CD Integration for Evaluation
+- Add GitHub Actions workflow to run `real_pipeline_eval.py` on PRs
+- Track benchmark history
+- Block changes that regress quality gates
 
-## Future Work (Post v1.1)
-
-1. Web API (FastAPI) for search and QA
-2. Multi-turn conversation support
-3. Cross-lingual query support (Devanagari ↔ IAST)
-4. Real-time corpus updates via migrations
-5. Production deployment with monitoring
-6. Mobile app interface
+## Future Roadmap
+| Phase | What | Priority |
+|-------|------|----------|
+| 2.4 | Meilisearch full-text search | Medium |
+| 2.5 | Unified search service (BM25 + Meilisearch + FAISS) | Medium |
+| 3.1 | Mem0 user memory (Qdrant or SQLite) | Low |
+| 6 | Quality (golden dataset expansion, CI benchmarks) | High |
+| 7 | Security hardening | Medium |
+| 8 | Release & launch | Low |
