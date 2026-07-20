@@ -10,6 +10,7 @@ import { ConversationSidebar } from "@/components/chat/ConversationSidebar";
 import { EvidenceDrawer } from "@/components/shared/EvidenceDrawer";
 import { StarField } from "@/components/landing/StarField";
 import { useChatStore } from "@/lib/store";
+import { toast } from "sonner";
 import { chatStream, answer, search as searchApi, conversations as convApi } from "@/lib/api";
 import type { ChatMessage, EvidenceItem, Conversation, SearchResult as ApiSearchResult } from "@/types/api";
 
@@ -40,7 +41,9 @@ export default function ChatPage() {
 
   // Load conversations
   useEffect(() => {
-    convApi.list().then(setConvList).catch(() => {});
+    convApi.list().then(setConvList).catch(() => {
+      // Silently fail — conversations will work for new users
+    });
   }, []);
 
   // Auto-scroll
@@ -64,6 +67,7 @@ export default function ChatPage() {
       const res = await searchApi.query({ query: q.trim(), top_k: 20 });
       setSearchResults(res.results);
     } catch {
+      toast.error("Search failed. Please try again.");
       setSearchResults([]);
     }
     setIsSearching(false);

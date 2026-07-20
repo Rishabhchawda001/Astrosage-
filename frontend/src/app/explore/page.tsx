@@ -6,6 +6,7 @@ import { Network, Search, ArrowRight, BookOpen, Users, GitFork, Loader2 } from "
 import { Navigation } from "@/components/shared/Navigation";
 import { StarField } from "@/components/landing/StarField";
 import { graph } from "@/lib/api";
+import { toast } from "sonner";
 import type { EntityDetail, EntitySummary, GraphStats, PathResult } from "@/types/api";
 import { GraphPreview } from "@/components/shared/GraphPreview";
 
@@ -20,7 +21,9 @@ export default function ExplorePage() {
   const [pathResult, setPathResult] = useState<PathResult | null>(null);
 
   useEffect(() => {
-    graph.stats().then(setStats).catch(() => {});
+    graph.stats().then(setStats).catch(() => {
+      toast.error("Could not load graph stats");
+    });
   }, []);
 
   const handleEntitySearch = async () => {
@@ -41,7 +44,7 @@ export default function ExplorePage() {
     try {
       const detail = await graph.entity(name);
       setSelectedEntity(detail);
-    } catch { /* ignore */ }
+    } catch { toast.error("Path search failed"); }
   };
 
   const handlePathSearch = async () => {

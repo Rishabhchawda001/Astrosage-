@@ -6,6 +6,7 @@ import { Search, Loader2, BookOpen, ScrollText, FileText } from "lucide-react";
 import { Navigation } from "@/components/shared/Navigation";
 import { StarField } from "@/components/landing/StarField";
 import { search as searchApi, graph } from "@/lib/api";
+import { toast } from "sonner";
 import type { SearchResult, EntitySummary } from "@/types/api";
 
 export default function SearchPage() {
@@ -27,7 +28,7 @@ export default function SearchPage() {
       setResults(searchRes.results);
       setEntities(entityRes);
     } catch {
-      // Handle error
+      toast.error("Search failed. Please try again.");
     } finally {
       setIsSearching(false);
     }
