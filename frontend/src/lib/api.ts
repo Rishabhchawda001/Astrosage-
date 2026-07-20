@@ -8,7 +8,7 @@ import type {
   Conversation, Message, CacheStats, HealthResponse,
 } from "@/types/api";
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || "";
 
 // ── Token Management ──
 
