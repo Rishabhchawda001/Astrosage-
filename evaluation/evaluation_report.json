@@ -1,70 +1,70 @@
 {
-  "timestamp": "2026-07-19T23:45:23.996283+00:00",
+  "timestamp": "2026-07-19T23:57:22.219607+00:00",
   "version": "1.1.0",
   "commit": "test",
   "dataset_version": "1.0.0",
-  "total_questions": 100,
+  "total_questions": 155,
   "categories": {
-    "entity_factual": 29,
-    "relationship": 15,
-    "conceptual": 20,
+    "entity_factual": 49,
+    "relationship": 25,
+    "conceptual": 30,
     "cross_scripture": 11,
-    "reasoning": 10,
-    "adversarial": 15
+    "reasoning": 15,
+    "adversarial": 25
   },
   "retrieval": {
-    "avg_latency_ms": 6.75,
-    "p50_latency_ms": 4.42,
-    "p95_latency_ms": 16.49,
-    "p99_latency_ms": 53.25,
-    "avg_precision_at_5": 0.228,
-    "avg_recall_at_5": 0.401,
-    "avg_ndcg_at_5": 0.9944,
-    "entity_recall": 0.6833,
-    "scripture_recall": 0.1933,
-    "total_queries": 100,
-    "passed_queries": 73,
-    "pass_rate": 0.73,
+    "avg_latency_ms": 6.34,
+    "p50_latency_ms": 3.91,
+    "p95_latency_ms": 16.52,
+    "p99_latency_ms": 19.94,
+    "avg_precision_at_5": 0.2181,
+    "avg_recall_at_5": 0.5297,
+    "avg_ndcg_at_5": 1.2018,
+    "entity_recall": 0.7118,
+    "scripture_recall": 0.1247,
+    "total_queries": 155,
+    "passed_queries": 117,
+    "pass_rate": 0.7548,
     "passed": false
   },
   "hallucination": {
-    "total_adversarial": 15,
-    "correctly_rejected": 15,
+    "total_adversarial": 25,
+    "correctly_rejected": 25,
     "rejection_rate": 1.0,
     "false_positive_rate": 0.0,
     "avg_confidence_on_adversarial": 0.25,
-    "avg_evidence_on_adversarial": 0.2,
+    "avg_evidence_on_adversarial": 0.12,
     "max_confidence_on_adversarial": 0.25,
     "passed": true
   },
   "regression": {
-    "timestamp": "2026-07-19T23:45:23.993843+00:00",
+    "timestamp": "2026-07-19T23:57:22.217185+00:00",
     "baseline_timestamp": "2026-07-19T13:21:48.716301+00:00",
     "total_metrics": 8,
     "passed_metrics": 8,
     "degraded_metrics": 0,
-    "improved_metrics": 0,
+    "improved_metrics": 3,
     "regression_rate": 0.0,
     "details": [
       {
         "metric": "retrieval_latency_p95_ms",
         "baseline": 16.51,
-        "current": 16.49,
-        "delta_pct": 0.0012,
+        "current": 16.52,
+        "delta_pct": 0.0006,
         "degraded": false
       },
       {
         "metric": "retrieval_entity_recall",
         "baseline": 0.6833,
-        "current": 0.6833,
-        "delta_pct": 0.0,
+        "current": 0.7118,
+        "delta_pct": 0.0417,
         "degraded": false
       },
       {
         "metric": "retrieval_ndcg_at_5",
         "baseline": 0.9944,
-        "current": 0.9944,
-        "delta_pct": 0.0,
+        "current": 1.2018,
+        "delta_pct": 0.2086,
         "degraded": false
       },
       {
@@ -106,7 +106,7 @@
     "passed": true
   },
   "quality_gates": {
-    "timestamp": "2026-07-19T23:45:23.992246+00:00",
+    "timestamp": "2026-07-19T23:57:22.215649+00:00",
     "version": "1.1.0",
     "verdict": "PASS",
     "total_gates": 8,
@@ -117,23 +117,23 @@
       {
         "name": "retrieval_latency_p95_ms",
         "threshold": 100.0,
-        "actual": 16.49,
+        "actual": 16.52,
         "passed": true,
-        "message": "P95 retrieval latency must be under 100ms: 16.49 vs 100.0"
+        "message": "P95 retrieval latency must be under 100ms: 16.52 vs 100.0"
       },
       {
         "name": "retrieval_entity_recall",
         "threshold": 0.3,
-        "actual": 0.6833,
+        "actual": 0.7118,
         "passed": true,
-        "message": "Entity recall must be at least 30%: 0.6833 vs 0.3"
+        "message": "Entity recall must be at least 30%: 0.7118 vs 0.3"
       },
       {
         "name": "retrieval_ndcg_at_5",
         "threshold": 0.3,
-        "actual": 0.9944,
+        "actual": 1.2018,
         "passed": true,
-        "message": "NDCG@5 must be at least 0.3: 0.9944 vs 0.3"
+        "message": "NDCG@5 must be at least 0.3: 1.2018 vs 0.3"
       },
       {
         "name": "hallucination_rejection_rate",
@@ -347,8 +347,8 @@
         "AV"
       ],
       "key_relationships": [
-        "MENTIONED_IN",
-        "INCARNATION_OF"
+        "INCARNATION_OF",
+        "MENTIONED_IN"
       ],
       "reasoning_steps": [
         "Identified 1 relevant entities: Vishnu",

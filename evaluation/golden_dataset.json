@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "created": "2026-07-19",
-  "description": "Golden evaluation dataset for AstroSage v1.1 \u2014 curated Q&A pairs with expected evidence. Scripture IDs match graph node IDs.",
+  "description": "Golden evaluation dataset for AstroSage v1.1 — curated Q&A pairs with expected evidence. Scripture IDs match graph node IDs.",
   "total_questions": 100,
   "categories": {
     "entity_factual": "Direct factual questions about specific entities",
@@ -1727,6 +1727,606 @@
       "difficulty": "hard",
       "min_confidence": "medium",
       "min_evidence_sources": 2
+    },
+    {
+      "id": "entity_generated_0",
+      "category": "entity_factual",
+      "question": "Describe Patala.",
+      "expected_entities": [
+        "Patala"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Place",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_1",
+      "category": "entity_factual",
+      "question": "Who is Puru?",
+      "expected_entities": [
+        "Puru"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Dynasty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_2",
+      "category": "entity_factual",
+      "question": "What is Pandava known for?",
+      "expected_entities": [
+        "Pandava"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Dynasty",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_3",
+      "category": "entity_factual",
+      "question": "Describe Dvaita.",
+      "expected_entities": [
+        "Dvaita"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: School",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_4",
+      "category": "entity_factual",
+      "question": "Who is Kailasa?",
+      "expected_entities": [
+        "Kailasa"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Place",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_5",
+      "category": "entity_factual",
+      "question": "Who is Gandhamadana?",
+      "expected_entities": [
+        "Gandhamadana"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Place",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_6",
+      "category": "entity_factual",
+      "question": "What is Sattva known for?",
+      "expected_entities": [
+        "Sattva"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Concept",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_7",
+      "category": "entity_factual",
+      "question": "Describe Panchala.",
+      "expected_entities": [
+        "Panchala"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Place",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_8",
+      "category": "entity_factual",
+      "question": "Describe Prahlada.",
+      "expected_entities": [
+        "Prahlada"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Person",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_9",
+      "category": "entity_factual",
+      "question": "What is Monkey known for?",
+      "expected_entities": [
+        "Monkey"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Animal",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_10",
+      "category": "entity_factual",
+      "question": "Describe Meru.",
+      "expected_entities": [
+        "Meru"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Place",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_11",
+      "category": "entity_factual",
+      "question": "What is Subrahmanya known for?",
+      "expected_entities": [
+        "Subrahmanya"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Deity",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_12",
+      "category": "entity_factual",
+      "question": "Describe Brahmanda Purana.",
+      "expected_entities": [
+        "Brahmanda Purana"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Text",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_13",
+      "category": "entity_factual",
+      "question": "What are the characteristics of Moksha?",
+      "expected_entities": [
+        "Moksha"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Concept",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_14",
+      "category": "entity_factual",
+      "question": "Describe Ashva.",
+      "expected_entities": [
+        "Ashva"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Animal",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_15",
+      "category": "entity_factual",
+      "question": "Who is Cuckoo?",
+      "expected_entities": [
+        "Cuckoo"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Animal",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_16",
+      "category": "entity_factual",
+      "question": "Who is Gaja?",
+      "expected_entities": [
+        "Gaja"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Animal",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_17",
+      "category": "entity_factual",
+      "question": "What are the characteristics of Shravana?",
+      "expected_entities": [
+        "Shravana"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Person",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_18",
+      "category": "entity_factual",
+      "question": "Describe Abhimanyu.",
+      "expected_entities": [
+        "Abhimanyu"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Person",
+      "difficulty": "easy"
+    },
+    {
+      "id": "entity_generated_19",
+      "category": "entity_factual",
+      "question": "Who is Dasharatha?",
+      "expected_entities": [
+        "Dasharatha"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Entity type: Person",
+      "difficulty": "easy"
+    },
+    {
+      "id": "relationship_generated_0",
+      "category": "relationship",
+      "question": "What is the relationship between Rama and Lava?",
+      "expected_entities": [
+        "Rama",
+        "Lava"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_1",
+      "category": "relationship",
+      "question": "How is Rama related to Kusha?",
+      "expected_entities": [
+        "Rama",
+        "Kusha"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_2",
+      "category": "relationship",
+      "question": "What is the relationship between Pandu and Yudhishthira?",
+      "expected_entities": [
+        "Pandu",
+        "Yudhishthira"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_3",
+      "category": "relationship",
+      "question": "What connects Pandu and Bhima?",
+      "expected_entities": [
+        "Pandu",
+        "Bhima"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_4",
+      "category": "relationship",
+      "question": "How is Pandu related to Arjuna?",
+      "expected_entities": [
+        "Pandu",
+        "Arjuna"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_5",
+      "category": "relationship",
+      "question": "What is the relationship between Pandu and Nakula?",
+      "expected_entities": [
+        "Pandu",
+        "Nakula"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_6",
+      "category": "relationship",
+      "question": "What connects Pandu and Sahadeva?",
+      "expected_entities": [
+        "Pandu",
+        "Sahadeva"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_7",
+      "category": "relationship",
+      "question": "How is Dhritarashtra related to Duryodhana?",
+      "expected_entities": [
+        "Dhritarashtra",
+        "Duryodhana"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: FATHER_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_8",
+      "category": "relationship",
+      "question": "What connects Yudhishthira and Draupadi?",
+      "expected_entities": [
+        "Yudhishthira",
+        "Draupadi"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: HUSBAND_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "relationship_generated_9",
+      "category": "relationship",
+      "question": "What connects Bhima and Draupadi?",
+      "expected_entities": [
+        "Bhima",
+        "Draupadi"
+      ],
+      "source": "knowledge_graph",
+      "notes": "Edge type: HUSBAND_OF",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_0",
+      "category": "conceptual",
+      "question": "Describe the concept of Dharma.",
+      "expected_entities": [
+        "Dharma"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['righteousness', 'duty', 'law']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_1",
+      "category": "conceptual",
+      "question": "What is Karma?",
+      "expected_entities": [
+        "Karma"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['action', 'deed', 'work']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_2",
+      "category": "conceptual",
+      "question": "What is Moksha?",
+      "expected_entities": [
+        "Moksha"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['liberation', 'salvation', 'enlightenment']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_3",
+      "category": "conceptual",
+      "question": "What is Bhakti?",
+      "expected_entities": [
+        "Bhakti"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['devotion', 'love', 'worship']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_4",
+      "category": "conceptual",
+      "question": "Explain Jnana.",
+      "expected_entities": [
+        "Jnana"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['knowledge', 'wisdom', 'understanding']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_5",
+      "category": "conceptual",
+      "question": "What is Yoga?",
+      "expected_entities": [
+        "Yoga"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['union', 'discipline', 'practice']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_6",
+      "category": "conceptual",
+      "question": "What does Atman mean?",
+      "expected_entities": [
+        "Atman"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['self', 'soul', 'spirit']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_7",
+      "category": "conceptual",
+      "question": "Explain Brahman.",
+      "expected_entities": [
+        "Brahman"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['absolute', 'ultimate reality', 'cosmic consciousness']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_8",
+      "category": "conceptual",
+      "question": "Describe the concept of Veda.",
+      "expected_entities": [
+        "Veda"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['knowledge', 'sacred text', 'revelation']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "conceptual_generated_9",
+      "category": "conceptual",
+      "question": "Explain Upanishad.",
+      "expected_entities": [
+        "Upanishad"
+      ],
+      "source": "sanskrit_lexicon",
+      "notes": "Synonyms: ['philosophical text', 'knowledge appendix', 'teaching']",
+      "difficulty": "medium"
+    },
+    {
+      "id": "adversarial_generated_0",
+      "category": "adversarial",
+      "question": "What is the Hindu view on quantum computing?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: quantum computing",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_1",
+      "category": "adversarial",
+      "question": "What does the Bhagavad Gita say about artificial intelligence?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: artificial intelligence",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_2",
+      "category": "adversarial",
+      "question": "What does the Bhagavad Gita say about blockchain?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: blockchain",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_3",
+      "category": "adversarial",
+      "question": "What is the Hindu view on democracy?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: democracy",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_4",
+      "category": "adversarial",
+      "question": "What does the Bhagavad Gita say about capitalism?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: capitalism",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_5",
+      "category": "adversarial",
+      "question": "What is the Hindu view on socialism?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: socialism",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_6",
+      "category": "adversarial",
+      "question": "Does any Hindu scripture mention evolution?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: evolution",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_7",
+      "category": "adversarial",
+      "question": "What is the Hindu view on dinosaurs?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: dinosaurs",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_8",
+      "category": "adversarial",
+      "question": "Does any Hindu scripture mention black holes?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: black holes",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "adversarial_generated_9",
+      "category": "adversarial",
+      "question": "What is the Hindu view on time travel?",
+      "expected_entities": [],
+      "source": "generated",
+      "notes": "Non-Hindu topic: time travel",
+      "difficulty": "adversarial"
+    },
+    {
+      "id": "reasoning_generated_0",
+      "category": "reasoning",
+      "question": "Why is Dharma important in Hindu philosophy?",
+      "expected_entities": [
+        "Dharma",
+        "Karma"
+      ],
+      "source": "generated",
+      "notes": "Concept pair: dharma-karma",
+      "difficulty": "hard"
+    },
+    {
+      "id": "reasoning_generated_1",
+      "category": "reasoning",
+      "question": "What is the significance of Moksha in the Bhagavad Gita?",
+      "expected_entities": [
+        "Moksha",
+        "Samsara"
+      ],
+      "source": "generated",
+      "notes": "Concept pair: moksha-samsara",
+      "difficulty": "hard"
+    },
+    {
+      "id": "reasoning_generated_2",
+      "category": "reasoning",
+      "question": "How does Bhakti relate to Jnana?",
+      "expected_entities": [
+        "Bhakti",
+        "Jnana"
+      ],
+      "source": "generated",
+      "notes": "Concept pair: bhakti-jnana",
+      "difficulty": "hard"
+    },
+    {
+      "id": "reasoning_generated_3",
+      "category": "reasoning",
+      "question": "Why is Yoga important in Hindu philosophy?",
+      "expected_entities": [
+        "Yoga",
+        "Meditation"
+      ],
+      "source": "generated",
+      "notes": "Concept pair: yoga-meditation",
+      "difficulty": "hard"
+    },
+    {
+      "id": "reasoning_generated_4",
+      "category": "reasoning",
+      "question": "What is the significance of Ahimsa in the Bhagavad Gita?",
+      "expected_entities": [
+        "Ahimsa",
+        "Satya"
+      ],
+      "source": "generated",
+      "notes": "Concept pair: ahimsa-satya",
+      "difficulty": "hard"
     }
   ]
 }

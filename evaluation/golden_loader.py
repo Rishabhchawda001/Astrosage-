@@ -18,6 +18,8 @@ class EvalQuestion:
     max_confidence: Optional[str] = None
     min_evidence_sources: int = 0
     max_evidence_sources: Optional[int] = None
+    source: str = ""
+    notes: str = ""
 
 
 class GoldenDatasetLoader:
