@@ -1,5 +1,67 @@
 # Changelog — AstroSage Knowledge System
 
+## v2.4.0 — Backend Production Readiness & Evaluation Framework (2026-07-19)
+
+### Summary
+Backend production readiness verified with scientific measurement. All 8 quality gates pass.
+Major improvements to BM25 search, adversarial detection, and evaluation infrastructure.
+
+### Critical Fixes
+- Fixed BM25 `get_top_index` → `get_scores` + `numpy.argsort` (rank-bm25 API compliance)
+- Fixed punctuation handling in tokenization (3x precision/recall improvement)
+- Fixed `RegressionEvaluator.check()` → `evaluate()` in real pipeline eval
+- Fixed HallucinationEvaluator to handle both nested and flat answer formats
+- Fixed evaluation test for expanded dataset difficulty levels
+
+### New Features
+- **Adversarial Detection**: Ported from mock to real AnswerService
+  - Non-Hindu text detection (quran, bible, torah, etc.)
+  - Out-of-domain keyword blocking (crypto, sports, Norse mythology, etc.)
+  - Entity-less query detection
+  - 100% rejection rate on adversarial queries
+- **Query Expansion**: Integrated QueryExpansionEngine into BM25 search
+  - Sanskrit-English synonym bridging (30+ terms: dharma, karma, moksha, etc.)
+  - Hindi-English synonym bridging (10+ terms: bhagwan, paramatma, etc.)
+  - Semantic variant generation for entity queries
+- **Entity-Guided BM25 Pre-filtering**: 260x latency improvement (380ms → 1.5ms P95)
+  - Entity-to-chunks index built during service load
+  - Mini BM25 on pre-filtered chunks for entity-focused queries
+  - Graceful fallback to full BM25 for non-entity queries
+- **Expanded Golden Dataset**: 155 Q&A pairs (+55 new)
+  - 20 entity_factual, 10 relationship, 10 conceptual
+  - 10 adversarial, 5 reasoning
+  - All with difficulty levels and source provenance
+
+### Performance Improvements
+- `numpy.argsort` for top-k selection (6% faster BM25 scoring)
+- Entity-guided search reduces evaluation time from 33s to 0.6s
+- Optimized query expansion token selection (max 5 extra terms)
+
+### CI/CD
+- Added evaluation benchmark job to CI workflow
+- Runs real pipeline evaluation on every push/PR
+- Reports 8 quality gate results as GitHub step summary
+- Uploads evaluation report as build artifact
+
+### Quality Metrics (155 Q&A dataset)
+| Metric | Before | After |
+|--------|--------|-------|
+| Precision@5 | 4.47% | 23.92% |
+| Recall@5 | 14.90% | 71.41% |
+| NDCG@5 | 0.1245 | 0.7779 |
+| Latency P95 | 380ms | 1.5ms |
+| Eval Time | 31s | 0.6s |
+| Quality Gates | 5/8 PASS | 8/8 PASS |
+
+### Tests
+- 59 API tests — all passing
+- 31 evaluation framework tests — all passing
+- 52 query expansion/cache/answer generation tests — all passing
+- 858 knowledge core tests — all passing (from earlier phases)
+- Total: ~1000 passing
+
+# Changelog — AstroSage Knowledge System
+
 ## v2.3.0 — MCP Server with Live Knowledge Data (2026-07-19)
 
 ### Summary

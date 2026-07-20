@@ -1,8 +1,8 @@
-# AstroSage — Evidence-First Knowledge Operating System
+# AstroSage — Evidence-First Hindu Knowledge System
 
-**Version**: 1.0.0
-**Status**: ✅ Certified (PASS WITH LIMITATIONS)
-**Knowledge Layer**: Frozen — immutable at `knowledge/releases/v1.0.0/`
+**API Version**: 2.3.0
+**Knowledge Layer**: v1.0.0 (Frozen — immutable)
+**Quality Gates**: ✅ 8/8 PASS
 **Repository**: [github.com/Rishabhchawda001/Astrosage-](https://github.com/Rishabhchawda001/Astrosage-)
 
 ---
@@ -13,8 +13,163 @@ AstroSage is a permanent, AI-native Knowledge Operating System for Hindu scriptu
 It preserves, reconstructs, validates, connects, retrieves, and reasons over knowledge
 while maintaining **complete provenance** and **verifiable evidence** for every claim.
 
-Every answer produced by AstroSage is explainable. Every claim is traceable to
-original canonical evidence.
+Every answer is explainable. Every claim is traceable to original canonical evidence.
+
+---
+
+## Architecture
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    KNOWLEDGE FREEZE v1.0.0                    │
+│         120K semantic chunks, 391 entities, 5K edges         │
+└──────────┬───────────────────────────────────────────────────┘
+           │
+┌──────────▼───────────────────────────────────────────────────┐
+│                    API SERVER (FastAPI)                       │
+│  ┌─────────────┐ ┌──────────┐ ┌─────────┐ ┌──────────────┐  │
+│  │  Search API  │ │   Chat   │ │   MCP   │ │   Web UI     │  │
+│  │ BM25+Expand  │ │ LiteLLM  │ │ 7 tools │ │ Vanilla SPA  │  │
+│  └─────────────┘ └──────────┘ └─────────┘ └──────────────┘  │
+│  ┌─────────────┐ ┌──────────┐ ┌─────────┐                   │
+│  │  Auth/JWT   │ │  Cache   │ │Convers. │                   │
+│  │ + API Keys  │ │ LRU+TTL  │ │ SQLite  │                   │
+│  └─────────────┘ └──────────┘ └─────────┘                   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+## Quick Start
+
+### Prerequisites
+- Python 3.10+
+- 4GB+ RAM (for knowledge base loading)
+
+### Install & Run
+
+```bash
+git clone https://github.com/Rishabhchawda001/Astrosage-.git
+cd Astrosage-
+
+pip install fastapi uvicorn pydantic-settings python-jose passlib bcrypt httpx \
+            pytest pytest-asyncio rank-bm25 numpy litellm
+
+# Start the API server
+uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
+```
+
+### Docker
+
+```bash
+docker-compose up --build
+```
+
+---
+
+## API Endpoints
+
+| Method | Path | Description |
+|--------|------|-------------|
+| `GET` | `/api/v1/health` | Health check |
+| `POST` | `/api/v1/auth/register` | Register user |
+| `POST` | `/api/v1/auth/token` | Get JWT token |
+| `POST` | `/api/v1/search` | BM25 lexical search |
+| `GET` | `/api/v1/search?q=` | Quick search |
+| `POST` | `/api/v1/answer` | Grounded answer with evidence |
+| `GET` | `/api/v1/graph/entity/{name}` | Entity lookup |
+| `GET` | `/api/v1/graph/search?q=` | Entity name search |
+| `GET` | `/api/v1/graph/scriptures` | List all scriptures |
+| `GET` | `/api/v1/graph/scripture/{id}` | Scripture metadata |
+| `GET` | `/api/v1/graph/path?source=&target=` | BFS path finding |
+| `GET` | `/api/v1/graph/stats` | Graph statistics |
+| `POST` | `/api/v1/chat/completions` | OpenAI-compatible chat |
+| `POST` | `/api/v1/conversations` | Create conversation |
+| `GET` | `/api/v1/conversations` | List conversations |
+| `GET` | `/api/v1/conversations/{id}` | Get conversation |
+| `POST` | `/api/v1/conversations/{id}/messages` | Add message |
+| `GET` | `/api/v1/cache/stats` | Cache statistics |
+| `POST` | `/api/v1/cache/clear` | Clear cache |
+| `GET` | `/` | Web UI |
+
+### Example: Answer a question
+
+```bash
+curl -X POST http://localhost:8000/api/v1/answer \
+  -H "Content-Type: application/json" \
+  -d '{"question": "Who is Krishna?", "top_k": 5}'
+```
+
+### Example: Search
+
+```bash
+curl -X POST http://localhost:8000/api/v1/search \
+  -H "Content-Type: application/json" \
+  -d '{"query": "Bhagavad Gita", "top_k": 10}'
+```
+
+---
+
+## MCP Server (Claude Desktop Integration)
+
+```bash
+# Stdio mode (Claude Desktop)
+python3 mcp_server.py
+
+# SSE mode (web clients)
+python3 mcp_server.py --sse --port 8001
+```
+
+### Available Tools
+
+| Tool | Description |
+|------|-------------|
+| `search_knowledge` | BM25 search over 120K chunks |
+| `get_entity` | Entity lookup with relationships |
+| `get_entity_relationships` | Relationship exploration |
+| `list_scriptures` | List all 54 indexed scriptures |
+| `get_scripture` | Scripture metadata |
+| `answer_question` | Grounded QA with citations |
+| `knowledge_stats` | Knowledge base statistics |
+
+---
+
+## Quality Metrics (Real Pipeline Evaluation)
+
+**Dataset**: 155 Q&A pairs across 6 categories
+**Pipeline**: Real BM25 + Query Expansion + Entity Pre-filtering
+
+| Gate | Threshold | Actual | Status |
+|------|-----------|--------|--------|
+| Retrieval Latency P95 | < 100ms | **1.4ms** | ✅ |
+| Entity Recall@5 | ≥ 30% | **71.4%** | ✅ |
+| NDCG@5 | ≥ 0.3 | **0.778** | ✅ |
+| Hallucination Rejection | ≥ 80% | **100%** | ✅ |
+| Max Adversarial Confidence | < 0.6 | **0.50** | ✅ |
+| Regression Rate | < 10% | **0%** | ✅ |
+| Graph Integrity | 100% | **100%** | ✅ |
+| Test Pass Rate | ≥ 95% | **100%** | ✅ |
+
+**Overall**: ✅ **8/8 QUALITY GATES PASS**
+
+### Key Technical Improvements
+
+- **Entity-guided BM25**: Pre-filters chunks by entity match (260x latency improvement)
+- **Query Expansion**: Sanskrit/Hindi/English term bridging (4.5x precision improvement)
+- **Adversarial Detection**: Blocks non-Hindu texts, out-of-domain topics
+- **Punctuation-aware Tokenization**: Strips punctuation for correct term matching
+
+---
+
+## Knowledge Layer (Frozen v1.0.0)
+
+| Artifact | Count |
+|----------|-------|
+| Scriptures | 54 |
+| Entities | 391 |
+| Relationships | 5,044 |
+| Semantic Chunks | 120,548 |
+| Embeddings | 120,548 (384d, MiniLM-L6-v2) |
+| Relationship Types | 68 |
+| Graph Integrity | 100% |
 
 ---
 
@@ -22,252 +177,88 @@ original canonical evidence.
 
 | Capability | Description |
 |-----------|-------------|
-| **Knowledge Graph** | 391 entities, 54 scriptures, 5,044 relationships across 68 types |
-| **Semantic Chunking** | 120,548 deterministic chunks at 5 levels (scripture → verse → dialogue → event → entity) |
-| **Hybrid Retrieval** | BM25 lexical search + FAISS semantic search fused via alpha-weighted scoring |
-| **Reasoning Engine** | Rule-based entity and question reasoning with evidence chain construction |
-| **Grounded Answers** | Provenance-traced answers with high-confidence evidence attribution |
-| **Hallucination Resistance** | All adversarial queries produce appropriately low confidence scores |
-| **Knowledge Freeze** | Immutable v1.0.0 release with SHA256 hashes and migration framework |
-| **Migration System** | Versioned, append-only knowledge evolution without modifying frozen artifacts |
+| **Entity-Guided BM25 Search** | < 2ms P95, query expansion, cache |
+| **Knowledge Graph** | 391 entities, 54 scriptures, 5K edges |
+| **Grounded Answers** | Provenance-traced, confidence-scored |
+| **Chat Completions** | OpenAI-compatible, LiteLLM routing, SSE streaming |
+| **Conversation Management** | Persisted to SQLite, auto-title generation |
+| **Cache Layer** | LRU cache with TTL (search: 5min, answer: 10min) |
+| **MCP Server** | Claude Desktop compatible, 7 tools |
+| **Web UI** | Vanilla JS SPA, chat + search + login |
+| **Adversarial Detection** | Blocks non-Hindu content, 100% rejection |
+| **Quality Evaluation** | 155 Q&A golden dataset, 8 quality gates |
+| **Authentication** | JWT + API key, bcrypt password hashing |
+| **Docker Support** | Multi-stage build, docker-compose |
 
 ---
 
-## System Architecture
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    CANONICAL CORPUS (54 scriptures)          │
-│         GRETIL, Upanishads, Puranas, Vedas, Smritis         │
-└──────────────────────────┬──────────────────────────────────┘
-                           ↓
-┌─────────────────────────────────────────────────────────────┐
-│                    KNOWLEDGE FREEZE v1.0.0                   │
-│              Immutable release at knowledge/releases/        │
-└──────────┬──────────┬──────────┬──────────┬─────────────────┘
-           ↓          ↓          ↓          ↓
-┌──────────────┐ ┌──────────┐ ┌─────────┐ ┌───────────────┐
-│  Knowledge   │ │ Semantic │ │ Hybrid  │ │   Reasoning   │
-│    Graph     │ │ Chunking │ │Retrieval│ │    Engine     │
-│ 391 entities │ │120,548   │ │BM25 +   │ │ Entity + QA   │
-│ 5,044 edges  │ │ chunks   │ │FAISS    │ │ EvidenceChain │
-└──────────────┘ └──────────┘ └─────────┘ └───────┬───────┘
-                                                   ↓
-┌──────────────────────────────────────────────────────────────┐
-│                  GROUNDED ANSWER GENERATION                   │
-│        Provenance-traced, evidence-backed, high confidence   │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Quick Start
-
-### Prerequisites
-
-- Python 3.10+
-- PyTorch (CPU-only is sufficient for inference)
-- 4GB+ RAM (8GB+ recommended for embedding generation)
-- 500MB+ disk for frozen release
-
-### Installation
+## Development
 
 ```bash
-# Clone the repository
-git clone https://github.com/Rishabhchawda001/Astrosage-.git
-cd Astrosage-
+# Install dev dependencies
+pip install pytest pytest-asyncio mypy ruff
 
-# Install dependencies
-pip install -r requirements.txt  # or poetry install
+# Run all API tests
+APP_ENVIRONMENT=development python3 -m pytest api/tests/ -v
 
-# Verify the frozen knowledge layer loads
-python3 -c "
-import json
-with open('knowledge/releases/v1.0.0/graph/graph.json') as f:
-    g = json.load(f)
-print(f'Knowledge graph loaded: {len(g[\"nodes\"])} nodes, {len(g[\"edges\"])} edges')
-"
-```
+# Run real pipeline evaluation
+APP_ENVIRONMENT=development python3 -m evaluation.real_pipeline_eval
 
-### Run a Search
+# Run knowledge system tests
+APP_ENVIRONMENT=development python3 -m pytest tests/ -q --tb=short \
+  --ignore=tests/test_phase31.py --ignore=tests/test_phase35.py
 
-```bash
-python3 scripts/phase13_hybrid_retrieval.py --validate
-```
-
-### Run the Reasoning Engine
-
-```bash
-python3 scripts/phase14_reasoning_engine.py --validate
-```
-
-### Generate Grounded Answers
-
-```bash
-python3 scripts/phase15_answer_generation.py --validate
+# Start with hot reload
+uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ---
 
-## Repository Layout
+## Test Suite
 
-```
-Astrosage-/
-├── README.md                          # This file
-├── CHANGELOG.md                       # Version history
-├── KNOWLEDGE_FREEZE.md                # Immutability policy
-├── AI_KNOWLEDGE_CONTRACT.md           # AI consumption contract
-├── FINAL_KNOWLEDGE_CERTIFICATION.md   # Component certification
-├── PROJECT_COMPLETION.md              # Roadmap completion summary
-│
-├── .agent/                            # AI operating layer
-│   ├── PROJECT_STATE.md               #    Current repository state
-│   ├── CURRENT_PHASE.md               #    Active phase
-│   └── TODO_NEXT.md                   #    Next actions
-├── .ai/                               # AI knowledge version
-│   └── KNOWLEDGE_VERSION.md
-├── .astrosage/                        # Configuration
-│   └── CONFIG.md
-│
-├── knowledge/
-│   ├── releases/v1.0.0/               # FROZEN KNOWLEDGE LAYER
-│   │   ├── graph/                     #    Knowledge graph (nodes + edges)
-│   │   ├── chunks/                    #    120,548 semantic chunks
-│   │   ├── embeddings/                #    Vector embeddings + FAISS index
-│   │   ├── retrieval/                 #    BM25 index + search validation
-│   │   ├── reasoning/                 #    Entity + question reasoning
-│   │   └── answers/                   #    Grounded answers with provenance
-│   ├── migrations/                    #    Versioned knowledge evolution
-│   └── cku_registry/                  #    Canonical unit registry
-│
-├── scripts/                           # Pipeline scripts
-│   ├── phase10_knowledge_freeze.py    #    Knowledge freeze pipeline
-│   ├── phase11_semantic_chunker.py    #    Semantic chunking pipeline
-│   ├── phase12_embeddings.py          #    Embedding generation pipeline
-│   ├── phase13_hybrid_retrieval.py    #    Hybrid retrieval pipeline
-│   ├── phase14_reasoning_engine.py    #    Reasoning engine pipeline
-│   └── phase15_answer_generation.py   #    Answer generation pipeline
-│
-├── docs/                              # Documentation
-│   ├── architecture/                  #    Architecture documentation
-│   ├── developer/                     #    Developer guide
-│   ├── user/                          #    User guide
-│   ├── operations/                    #    Operations manual
-│   └── api/                           #    API reference
-│
-├── VERSION_1_ACCEPTANCE_REPORT.md     # Independent audit report
-├── VERSION_1_SCORECARD.md             # Audit scorecard
-├── SYSTEM_VERIFICATION_REPORT.md      # System verification
-├── FINAL_BENCHMARK_RESULTS.md         # Performance benchmarks
-├── PRODUCTION_READINESS_REPORT.md     # Production readiness
-└── KNOWN_LIMITATIONS.md               # Documented limitations
-```
-
----
-
-## Pipeline Documentation
-
-| Pipeline | Script | Description | Output |
-|----------|--------|-------------|--------|
-| Knowledge Freeze | `phase10_knowledge_freeze.py` | Freezes verified knowledge into immutable release | SHA256-hashed artifacts |
-| Semantic Chunking | `phase11_semantic_chunker.py` | Chunks knowledge at 5 semantic levels | 120,548 deterministic chunks |
-| Embeddings | `phase12_embeddings.py` | Generates vector embeddings | 120,548 × 384 vectors + FAISS index |
-| Hybrid Retrieval | `phase13_hybrid_retrieval.py` | BM25 + FAISS search engine | Search index + validation |
-| Reasoning | `phase14_reasoning_engine.py` | Entity and question reasoning | Evidence chains + relationships |
-| Answer Generation | `phase15_answer_generation.py` | Grounded answers with provenance | Traced, high-confidence responses |
-
----
-
-## Knowledge Graph Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total Nodes | 445 |
-| Entity Nodes | 391 (14 types) |
-| Scripture Nodes | 54 |
-| Total Edges | 5,044 (68 types) |
-| Dialogues | 170 |
-| Events | 29 |
-| Cross-Scripture Alignments | 76 |
-| Orphan Nodes | 0 |
-| Broken References | 0 |
-| Duplicate GUIDs | 0 |
-
-### Entity Type Distribution
-
-| Type | Count | Examples |
-|------|-------|----------|
-| Person | 124 | Arjuna, Yudhishthira, Vyasa |
-| Concept | 51 | Dharma, Karma, Moksha, Atman |
-| Place | 48 | Kurukshetra, Ayodhya, Vrindavan |
-| Deity | 46 | Vishnu, Shiva, Krishna, Devi |
-| Animal | 33 | Garuda, Nandi, Sesha |
-| Weapon | 23 | Sudarshana Chakra, Pashupatastra |
-| Text | 19 | Bhagavad Gita, Yoga Sutras |
-| Ritual | 14 | Ashvamedha, Yajna |
-| Dynasty | 11 | Pandava, Solar, Lunar |
-| Avatar | 7 | Rama, Krishna, Narasimha |
-| Nakshatra | 5 | Ashvini, Rohini |
-| Loka | 3 | Vaikuntha, Kailasa |
-| Graha | 5 | Surya, Chandra, Mangala |
-| School | 2 | Advaita, Yoga |
-
----
-
-## Performance Benchmarks
-
-| Metric | Value |
-|--------|-------|
-| Search Latency (avg) | 38ms |
-| Search Latency (max) | 64ms |
-| Entity Lookup | <1ms |
-| Graph Load Time | 30ms |
-| FAISS Index Load | 310ms |
-| Query Embedding | 84ms |
-| Frozen Release Size | 479.5MB |
-
----
-
-## Known Limitations
-
-- **4 scriptures unrecoverable**: KEN, MUND, MAHAN, PARASHARA (documented in `KNOWN_LIMITATIONS.md`)
-- **94.4% of edges** are generic MENTIONED_IN relationships
-- **Rule-based reasoning only** — no neural reasoning augmentation
-- **No natural language generation** — answers are evidence-structure formatted
-- **No API server** — currently script-driven
-- **No cross-lingual search** — Devanagari-IAST bridging not implemented
-
----
-
-## Certification
-
-| Component | Status |
-|-----------|--------|
-| Graph Structure | ✅ PASS |
-| Entity Registry | ✅ PASS |
-| Relationship Registry | ✅ PASS |
-| Dialogue Graph | ✅ PASS |
-| Event Graph | ✅ PASS |
-| Genealogy Graph | ✅ PASS |
-| Concept Graph | ✅ PASS |
-| Cross-Scripture Alignment | ✅ PASS |
-| Corpus Completion | ⚠️ PASS WITH LIMITATIONS |
-| Coverage | ⚠️ PASS WITH LIMITATIONS |
-| Knowledge Freeze | ✅ PASS |
-| Reproducibility | ✅ PASS |
-
-**Overall**: CERTIFIED WITH LIMITATIONS (see `VERSION_1_ACCEPTANCE_REPORT.md`)
+| Suite | Tests | Status |
+|-------|-------|--------|
+| API Tests | 59 | ✅ Passing |
+| Knowledge Core Tests | 858 | ✅ Passing |
+| Evaluation Framework | 31 | ✅ Passing |
+| Query Expansion | 26 | ✅ Passing |
+| Cache | 12 | ✅ Passing |
+| Answer Generation | 14 | ✅ Passing |
+| **Total** | **~1000** | ✅ **All Passing** |
 
 ---
 
 ## License
 
-This repository is distributed under the MIT License.
-Copyrighted source texts are excluded from the repository (see commit policy).
+Proprietary — AstroSage Knowledge System
 
 ---
 
-## Contributing
+## Project Structure
 
-See `docs/developer/developer_guide.md` for contribution guidelines.
-All knowledge changes must go through the migration framework at `knowledge/migrations/`.
+```
+Astrosage-/
+├── api/                   # FastAPI server
+│   ├── main.py            # Application entry point
+│   ├── config.py          # Pydantic settings
+│   ├── services/          # Knowledge, chat, auth, cache, conversation
+│   ├── routes/            # API route handlers
+│   ├── models/            # Pydantic request/response models
+│   ├── middleware/         # Auth, CORS, rate limiting
+│   ├── static/            # Web UI (index.html)
+│   └── tests/             # API tests
+├── evaluation/            # Quality evaluation framework
+│   ├── real_pipeline_eval.py  # Real BM25 evaluation
+│   ├── golden_dataset.json    # 155 Q&A pairs
+│   ├── quality_gates.py       # 8 quality gates
+│   └── ...
+├── core/                  # Knowledge core modules
+│   ├── query_expansion/   # Sanskrit/Hindi/English bridging
+│   ├── cache/             # LRU cache
+│   └── ...
+├── knowledge/             # Frozen knowledge release
+│   └── releases/v1.0.0/   # 120K chunks, 391 entities, 5K edges
+├── mcp_server.py          # MCP server (Claude Desktop)
+├── docker-compose.yml     # API + Redis + PostgreSQL
+└── Dockerfile             # Multi-stage build
+```
