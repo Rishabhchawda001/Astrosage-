@@ -153,9 +153,16 @@ export default function SearchPage() {
                                     <span className="text-xs text-text-tertiary">{result.scripture_id}</span>
                                   </>
                                 )}
-                                <span className="ml-auto text-xs text-text-tertiary flex items-center gap-1">
-                                  <span className="w-1.5 h-1.5 rounded-full bg-gold-400/40" />
-                                  {(result.score * 100).toFixed(0)}%
+                                <span className="ml-auto flex items-center gap-2">
+                                  <div className="h-1.5 w-16 rounded-full bg-white/5 overflow-hidden">
+                                    <div
+                                      className="h-full rounded-full bg-gradient-to-r from-gold-500 to-gold-400"
+                                      style={{ width: `${result.score * 100}%` }}
+                                    />
+                                  </div>
+                                  <span className="text-[10px] text-text-tertiary font-mono">
+                                    {(result.score * 100).toFixed(0)}%
+                                  </span>
                                 </span>
                               </div>
                               <p className="text-sm text-text-primary leading-relaxed line-clamp-3">

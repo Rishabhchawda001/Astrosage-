@@ -28,6 +28,27 @@ async def lifespan(app: FastAPI):
     logger.info(f"Starting {settings.app_name} v{settings.app_version} ({settings.environment})")
     logger.info(f"Knowledge base: {settings.knowledge_base_path}")
 
+    # ── Validate knowledge base ────────────────────────────────
+    import os
+    kb_path = settings.knowledge_base_path
+    required_files = [
+        os.path.join(kb_path, "retrieval", "bm25_index.json"),
+        os.path.join(kb_path, "graph", "graph.json"),
+    ]
+    missing = [f for f in required_files if not os.path.isfile(f)]
+    if missing:
+        logger.error(
+            f"STARTUP: Knowledge base missing required files: {missing}. "
+            f"The API will start but all knowledge operations will fail."
+        )
+    else:
+        logger.info(f"Knowledge base validated: {len(required_files)} files present")
+    # ── Log knowledge base size ────────────────────────────────
+    import glob
+    kb_files = glob.glob(os.path.join(kb_path, "**", "*"), recursive=True)
+    total_size = sum(os.path.getsize(f) for f in kb_files if os.path.isfile(f))
+    logger.info(f"Knowledge base size: {len(kb_files)} files, {total_size / 1024 / 1024:.1f} MB")
+
     # ── Security warnings ─────────────────────────────────────
     if settings.secret_key == "change-me-in-production":
         logger.warning(

@@ -46,6 +46,16 @@ export default function ChatPage() {
     });
   }, []);
 
+  // Auto-focus chat input on mount
+  useEffect(() => {
+    // Small delay to ensure the component is mounted
+    const timer = setTimeout(() => {
+      const textarea = document.querySelector('textarea[placeholder*="Ask about Hindu"]');
+      if (textarea) (textarea as HTMLTextAreaElement).focus();
+    }, 300);
+    return () => clearTimeout(timer);
+  }, []);
+
   // Auto-scroll
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
