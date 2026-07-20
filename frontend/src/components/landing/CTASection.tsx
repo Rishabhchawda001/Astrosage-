@@ -18,7 +18,6 @@ export function CTASection() {
           transition={{ duration: 0.8 }}
         >
           <div className="glass-strong rounded-3xl p-12 sm:p-16 relative overflow-hidden">
-            {/* Background decoration */}
             <div className="absolute inset-0 bg-gradient-to-br from-gold-500/5 via-transparent to-sacred-500/5 pointer-events-none" />
             <div className="absolute top-0 right-0 w-64 h-64 bg-gold-500/5 rounded-full blur-3xl pointer-events-none" />
             <div className="absolute bottom-0 left-0 w-64 h-64 bg-sacred-500/5 rounded-full blur-3xl pointer-events-none" />
@@ -39,22 +38,13 @@ export function CTASection() {
                 verified knowledge, ready to answer your questions.
               </p>
 
-              <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <Link
-                  href="/chat"
-                  className="group inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-gold-500 text-surface font-semibold text-lg hover:bg-gold-400 transition-all duration-300 shadow-lg shadow-gold-500/20"
-                >
-                  Continue Your Journey
-                  <ArrowRight className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1" />
-                </Link>
-
-                <Link
-                  href="/login"
-                  className="px-8 py-4 rounded-xl glass text-text-primary font-medium hover:bg-white/10 transition-all duration-300"
-                >
-                  Sign In (for saved conversations)
-                </Link>
-              </div>
+              <Link
+                href="/chat"
+                className="group inline-flex items-center gap-2 px-10 py-5 rounded-xl bg-gold-500 text-surface font-semibold text-lg hover:bg-gold-400 transition-all duration-300 shadow-lg shadow-gold-500/20 hover:shadow-gold-500/30"
+              >
+                Continue Your Journey
+                <ArrowRight className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1" />
+              </Link>
             </div>
           </div>
         </motion.div>

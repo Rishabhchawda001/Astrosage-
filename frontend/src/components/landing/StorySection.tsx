@@ -3,94 +3,103 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import {
-  ShieldCheck,
-  ScrollText,
-  Network,
-  BookMarked,
-  Brain,
-  Eye,
-  Quote,
-  Library,
+  ShieldCheck, ScrollText, Network, BookMarked,
+  Brain, Eye, Quote, Library, Search, FileCheck,
+  ArrowRight, Scale, Compass
 } from "lucide-react";
 
 const stories = [
   {
+    icon: Scale,
+    title: "Why AstroSage Exists",
+    description:
+      "In an age of AI that fabricates confidently, AstroSage takes a different path. Every answer is grounded in actual scripture. Every claim has a source you can verify. We believe ancient wisdom deserves modern rigor.",
+    gradient: "from-gold-400 to-gold-600",
+    span: true,
+  },
+  {
     icon: ShieldCheck,
     title: "Truth Over Opinion",
     description:
-      "AstroSage never fabricates. Every answer is grounded in actual scripture — not speculation. If the evidence doesn't exist, we say so.",
-    gradient: "from-gold-400 to-gold-600",
+      "AstroSage never fabricates. If the evidence doesn't exist, we say so. Every answer is anchored to canonical scripture — not speculation, not interpretation, not confidence tricks.",
+    gradient: "from-amber-400 to-orange-500",
   },
   {
     icon: Brain,
     title: "Evidence Over Hallucination",
     description:
-      "Unlike generic AI, every claim includes a citation trail. You can verify each answer against the original source.",
+      "Generic AI hallucinates. AstroSage cites. Every claim includes a citation trail: scripture, chapter, verse. You can verify each answer against the original source in seconds.",
     gradient: "from-blue-400 to-purple-500",
   },
   {
     icon: Library,
     title: "Thousands of Scriptures",
     description:
-      "54 scriptures, 120K+ verses, 391 entities, and 5K+ relationships — indexed, cross-referenced, and ready to explore.",
+      "54 scriptures. 120,000+ verses. 391 entities. 5,044 relationships. All indexed, cross-referenced, and permanently frozen at v1.0.0 — immutable and auditable.",
     gradient: "from-emerald-400 to-teal-500",
   },
   {
     icon: Network,
     title: "The Knowledge Graph",
     description:
-      "Entities aren't just names — they're nodes in a vast network of relationships. Explore how Krishna connects to Arjuna, Vishnu, and the cosmos.",
+      "Entities aren't just names. They're nodes in a vast, interconnected network. Krishna connects to Arjuna. Arjuna connects to Dharma. Dharma connects to the Bhagavad Gita. Everything is linked.",
     gradient: "from-purple-400 to-pink-500",
   },
   {
-    icon: Eye,
-    title: "Verified Citations",
+    icon: Search,
+    title: "How Answers Are Generated",
     description:
-      "Every answer shows its sources. Hover any citation to see the original scripture text, chapter, and verse.",
-    gradient: "from-amber-400 to-orange-500",
-  },
-  {
-    icon: Quote,
-    title: "Ancient Wisdom for Modern Questions",
-    description:
-      "Ask about dharma, karma, moksha, or the nature of reality. Get answers rooted in thousands of years of philosophical tradition.",
-    gradient: "from-rose-400 to-red-500",
-  },
-  {
-    icon: ScrollText,
-    title: "Scripture-Grounded Reasoning",
-    description:
-      "Questions like 'What does the Bhagavad Gita say about duty?' produce answers that quote, cite, and explain — not guess.",
+      "Your question is expanded with Sanskrit and Hindi synonyms, matched against 120K verified chunks using BM25 search with entity-guided pre-filtering, and assembled into a grounded answer with confidence scoring.",
     gradient: "from-cyan-400 to-blue-500",
   },
   {
-    icon: BookMarked,
-    title: "Privacy & Transparency",
+    icon: FileCheck,
+    title: "Why Hallucinations Are Rejected",
     description:
-      "Your conversations stay private. No training on your data. No opaque algorithms. Open source, auditable, and trustworthy.",
+      "Questions about non-Hindu texts (Quran, Bible), out-of-domain topics (cryptocurrency, Norse mythology), or entities not in the knowledge graph are immediately detected and rejected with low confidence. We don't guess.",
+    gradient: "from-rose-400 to-red-500",
+  },
+  {
+    icon: Eye,
+    title: "Verified Citations You Can Trust",
+    description:
+      "Every answer shows its sources. Hover any citation to see the original scripture text. Every source has a score showing its relevance. Everything is transparent. Nothing is hidden.",
+    gradient: "from-amber-400 to-yellow-500",
+  },
+  {
+    icon: Compass,
+    title: "Why Trust Matters",
+    description:
+      "You're exploring thousands of years of philosophical tradition. You deserve answers you can trust. AstroSage is open source, auditable, and built with the highest quality standards — 8/8 quality gates pass before every release.",
     gradient: "from-green-400 to-emerald-500",
+    span: true,
   },
 ];
 
 function StoryCard({
-  story,
-  index,
+  story, index,
 }: {
   story: (typeof stories)[0];
   index: number;
 }) {
   const ref = useRef(null);
-  const inView = useInView(ref, { once: true, margin: "-100px" });
+  const inView = useInView(ref, { once: true, margin: "-80px" });
 
   return (
     <motion.div
       ref={ref}
-      initial={{ opacity: 0, y: 60 }}
+      initial={{ opacity: 0, y: 50 }}
       animate={inView ? { opacity: 1, y: 0 } : {}}
-      transition={{ duration: 0.7, delay: index * 0.1 }}
-      className="group"
+      transition={{ duration: 0.6, delay: index * 0.08 }}
+      className={story.span ? "md:col-span-2 lg:col-span-3" : ""}
     >
-      <div className="glass rounded-2xl p-8 h-full hover:bg-white/[0.04] transition-all duration-500">
+      <div
+        className={`glass rounded-2xl p-8 h-full transition-all duration-500 ${
+          story.span
+            ? "hover:bg-white/[0.04]"
+            : "hover:bg-white/[0.04]"
+        }`}
+      >
         <div
           className={`inline-flex items-center justify-center w-12 h-12 rounded-xl bg-gradient-to-br ${story.gradient} mb-5`}
         >
@@ -99,7 +108,9 @@ function StoryCard({
         <h3 className="font-serif text-xl font-semibold text-text-primary mb-3">
           {story.title}
         </h3>
-        <p className="text-text-secondary leading-relaxed">{story.description}</p>
+        <p className="text-text-secondary leading-relaxed text-[15px]">
+          {story.description}
+        </p>
       </div>
     </motion.div>
   );
@@ -108,17 +119,19 @@ function StoryCard({
 export function StorySection() {
   const titleRef = useRef(null);
   const titleInView = useInView(titleRef, { once: true });
+  const journeyRef = useRef(null);
+  const journeyInView = useInView(journeyRef, { once: true });
 
   return (
     <section className="relative py-32 px-6">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-6xl mx-auto">
         {/* Section title */}
         <motion.div
           ref={titleRef}
           initial={{ opacity: 0, y: 40 }}
           animate={titleInView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.8 }}
-          className="text-center mb-20"
+          className="text-center mb-6"
         >
           <h2 className="font-serif text-4xl sm:text-5xl font-bold mb-4">
             Built Different by{" "}
@@ -126,16 +139,64 @@ export function StorySection() {
           </h2>
           <p className="text-lg text-text-secondary max-w-2xl mx-auto">
             AstroSage combines modern AI engineering with rigorous scholarly standards.
-            Here&apos;s what makes it unique.
+            Here&apos;s how it works — and why you can trust it.
           </p>
         </motion.div>
 
+        {/* Visual divider */}
+        <motion.div
+          initial={{ scaleX: 0 }}
+          animate={titleInView ? { scaleX: 1 } : {}}
+          transition={{ duration: 0.8, delay: 0.3 }}
+          className="h-px bg-gradient-to-r from-transparent via-gold-500/30 to-transparent max-w-xs mx-auto mb-16"
+        />
+
         {/* Story cards grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
           {stories.map((story, i) => (
             <StoryCard key={story.title} story={story} index={i} />
           ))}
         </div>
+
+        {/* Knowledge base stats strip */}
+        <motion.div
+          ref={journeyRef}
+          initial={{ opacity: 0, y: 40 }}
+          animate={journeyInView ? { opacity: 1, y: 0 } : {}}
+          transition={{ duration: 0.8 }}
+          className="mt-20 glass rounded-3xl p-10 sm:p-14 text-center relative overflow-hidden"
+        >
+          <div className="absolute inset-0 bg-gradient-to-br from-gold-500/5 via-transparent to-sacred-500/5 pointer-events-none" />
+          <div className="relative z-10">
+            <Quote className="h-8 w-8 mx-auto text-gold-400/40 mb-6" />
+            <blockquote className="font-serif text-2xl sm:text-3xl text-text-primary mb-6 leading-relaxed max-w-3xl mx-auto">
+              &ldquo;Knowledge is structured in consciousness. AstroSage
+              makes that structure visible, verifiable, and eternally
+              accessible.&rdquo;
+            </blockquote>
+            <div className="flex flex-wrap items-center justify-center gap-8 text-sm">
+              <div className="text-center">
+                <div className="text-2xl font-bold text-gold-400 font-serif">120K+</div>
+                <div className="text-text-tertiary">Verified Chunks</div>
+              </div>
+              <div className="w-px h-10 bg-border" />
+              <div className="text-center">
+                <div className="text-2xl font-bold text-gold-400 font-serif">5K+</div>
+                <div className="text-text-tertiary">Relationships</div>
+              </div>
+              <div className="w-px h-10 bg-border" />
+              <div className="text-center">
+                <div className="text-2xl font-bold text-gold-400 font-serif">100%</div>
+                <div className="text-text-tertiary">Hallucination Rejection</div>
+              </div>
+              <div className="w-px h-10 bg-border" />
+              <div className="text-center">
+                <div className="text-2xl font-bold text-gold-400 font-serif">8/8</div>
+                <div className="text-text-tertiary">Quality Gates</div>
+              </div>
+            </div>
+          </div>
+        </motion.div>
       </div>
     </section>
   );

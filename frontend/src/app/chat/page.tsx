@@ -1,16 +1,16 @@
 "use client";
 
 import { useState, useEffect, useRef, useCallback } from "react";
-import { motion } from "framer-motion";
-import { Sparkles, BookOpen } from "lucide-react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Sparkles, BookOpen, MessageSquare, ArrowRight, Star } from "lucide-react";
 import { Navigation } from "@/components/shared/Navigation";
 import { MessageBubble } from "@/components/chat/MessageBubble";
 import { ChatInput } from "@/components/chat/ChatInput";
 import { ConversationSidebar } from "@/components/chat/ConversationSidebar";
 import { EvidenceDrawer } from "@/components/shared/EvidenceDrawer";
 import { StarField } from "@/components/landing/StarField";
-import { useChatStore, useAuthStore } from "@/lib/store";
-import { chatStream, answer, conversations as convApi, search } from "@/lib/api";
+import { useChatStore } from "@/lib/store";
+import { chatStream, answer, conversations as convApi } from "@/lib/api";
 import type { ChatMessage, EvidenceItem, Conversation } from "@/types/api";
 
 export default function ChatPage() {
@@ -20,33 +20,34 @@ export default function ChatPage() {
     setStreaming, setConversationId, setConversations, addConversation,
   } = useChatStore();
 
-  const { isAuthenticated } = useAuthStore();
   const [sidebarOpen, setSidebarOpen] = useState(true);
   const [convList, setConvList] = useState<Conversation[]>([]);
   const [sources, setSources] = useState<Record<number, EvidenceItem[]>>({});
+  const [isThinking, setIsThinking] = useState(false);
+  const [hasStarted, setHasStarted] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const abortRef = useRef<() => void>(undefined);
 
   // Load conversations
   useEffect(() => {
-    if (isAuthenticated) {
-      convApi.list().then(setConvList).catch(() => {});
-    }
-  }, [isAuthenticated]);
+    convApi.list().then(setConvList).catch(() => {});
+  }, []);
 
   // Auto-scroll
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
-  }, [messages]);
+  }, [messages, isThinking]);
 
   const handleNewChat = useCallback(() => {
     clearMessages();
     setConversationId(null);
     setSources({});
+    setHasStarted(false);
   }, [clearMessages, setConversationId]);
 
   const handleSelectConversation = useCallback(async (id: string) => {
     setConversationId(id);
+    setHasStarted(true);
     try {
       const conv = await convApi.get(id);
       if (conv.messages) {
@@ -55,40 +56,38 @@ export default function ChatPage() {
           content: m.content,
         })));
       }
-    } catch {
-      // Handle error silently
-    }
+    } catch { /* ignore */ }
   }, [setConversationId, setMessages]);
 
   const handleDeleteConversation = useCallback(async (id: string) => {
     try {
       await convApi.delete(id);
       setConvList((prev) => prev.filter((c) => c.id !== id));
-      if (currentConversationId === id) {
-        handleNewChat();
-      }
-    } catch {
-      // Handle error silently
-    }
+      if (currentConversationId === id) handleNewChat();
+    } catch { /* ignore */ }
   }, [currentConversationId, handleNewChat]);
 
   const handleSend = useCallback(async (input: string) => {
+    setHasStarted(true);
     const userMsg: ChatMessage = { role: "user", content: input };
     addMessage(userMsg);
     setStreaming(true);
+    setIsThinking(true);
+
+    // Brief thinking pause for UX
+    await new Promise((r) => setTimeout(r, 400));
+    setIsThinking(false);
 
     // Get answer from knowledge base
     let answerResult: EvidenceItem[] = [];
     try {
       const answerResp = await answer.ask({ question: input, top_k: 5 });
       answerResult = answerResp.sources;
-    } catch {
-      // Fall back to LLM-only
-    }
+    } catch { /* fall back to LLM */ }
 
-    // Create or get conversation
+    // Create conversation if needed
     let convId = currentConversationId;
-    if (isAuthenticated && !convId) {
+    if (!convId) {
       try {
         const conv = await convApi.create();
         convId = conv.id;
@@ -96,15 +95,9 @@ export default function ChatPage() {
         addConversation(conv);
         setConvList((prev) => [conv, ...prev]);
         await convApi.addMessage(convId, "user", input);
-      } catch {
-        // Continue without persistence
-      }
-    } else if (isAuthenticated && convId) {
-      try {
-        await convApi.addMessage(convId, "user", input);
-      } catch {
-        // Continue without persistence
-      }
+      } catch { /* continue without persistence */ }
+    } else {
+      try { await convApi.addMessage(convId, "user", input); } catch { /* ignore */ }
     }
 
     // Stream the response
@@ -114,8 +107,6 @@ export default function ChatPage() {
       { messages: [...messages, userMsg], stream: true },
       (token) => {
         assistantContent += token;
-        // Update the last assistant message in real-time
-
         const prev = useChatStore.getState().messages;
         const last = prev[prev.length - 1];
         if (last?.role === "assistant") {
@@ -129,17 +120,15 @@ export default function ChatPage() {
         if (answerResult.length > 0) {
           setSources((prev) => ({ ...prev, [msgIndex]: answerResult }));
         }
-        // Save assistant message to conversation
-        if (isAuthenticated && convId) {
+        if (convId) {
           convApi.addMessage(convId, "assistant", assistantContent).catch(() => {});
         }
       },
       () => {
         setStreaming(false);
-        // Fallback: if streaming fails, use knowledge base answer
         if (answerResult.length > 0) {
           const fallbackText = `Based on my knowledge of Hindu scriptures, here's what I found:\n\n${
-            answerResult.slice(0, 3).map((s, i) => 
+            answerResult.slice(0, 3).map((s, i) =>
               `**Source ${i + 1}** (${s.scripture || "Scripture"}, relevance: ${(s.score * 100).toFixed(0)}%):\n${s.text}`
             ).join("\n\n")
           }`;
@@ -148,17 +137,18 @@ export default function ChatPage() {
         } else {
           addMessage({
             role: "assistant",
-            content: "I apologize, but I'm having trouble retrieving an answer right now. Please try asking your question again.",
+            content: "I'm here to help explore Hindu scriptures. Please ask your question again, or try asking about a specific concept, entity, or scripture.",
           });
         }
       }
     );
     abortRef.current = abort;
-  }, [messages, isStreaming, currentConversationId, isAuthenticated, addMessage, setStreaming, setConversationId, addConversation, setMessages]);
+  }, [messages, isStreaming, currentConversationId, addMessage, setStreaming, setConversationId, addConversation, setMessages]);
 
   const handleStop = useCallback(() => {
     abortRef.current?.();
     setStreaming(false);
+    setIsThinking(false);
   }, [setStreaming]);
 
   return (
@@ -188,67 +178,83 @@ export default function ChatPage() {
                 {currentConversationId ? "Chat" : "New Chat"}
               </span>
               <span className="text-xs text-text-tertiary">·</span>
-              <span className="text-xs text-text-tertiary">Evidence-backed answers</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <div className="flex items-center gap-1.5 text-xs text-gold-400">
-                <Sparkles className="h-3 w-3" />
-                <span>Grounded</span>
-              </div>
+              <span className="text-xs text-text-tertiary flex items-center gap-1">
+                <Sparkles className="h-3 w-3 text-gold-400/60" />
+                Evidence-backed
+              </span>
             </div>
           </div>
 
           {/* Messages */}
           <div className="flex-1 overflow-y-auto px-4 sm:px-6 py-6">
             <div className="max-w-3xl mx-auto space-y-6">
-              {messages.length === 0 ? (
-                <div className="flex flex-col items-center justify-center h-full min-h-[60vh] text-center">
-                  <motion.div
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    className="max-w-md"
-                  >
-                    <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center mx-auto mb-6">
-                      <BookOpen className="h-8 w-8 text-surface" />
-                    </div>
-                    <h2 className="font-serif text-2xl font-bold text-text-primary mb-3">
-                      Ask Anything
-                    </h2>
-                    <p className="text-text-secondary leading-relaxed mb-8">
-                      Explore Hindu scriptures with evidence-backed answers.
-                      Every response is grounded in canonical sources.
-                    </p>
-
-                    {/* Example questions */}
-                    <div className="space-y-2">
-                      {[
-                        "Who is Vishnu?",
-                        "What is Dharma?",
-                        "Explain the concept of Karma",
-                        "What does the Bhagavad Gita say about duty?",
-                      ].map((q) => (
-                        <button
-                          key={q}
-                          onClick={() => handleSend(q)}
-                          disabled={isStreaming}
-                          className="w-full text-left glass rounded-xl px-4 py-3 text-sm text-text-secondary hover:text-text-primary hover:bg-white/[0.04] transition-all disabled:opacity-50"
-                        >
-                          {q}
-                        </button>
-                      ))}
-                    </div>
-                  </motion.div>
-                </div>
-              ) : (
-                messages.map((msg, i) => (
+              <AnimatePresence mode="popLayout">
+                {messages.map((msg, i) => (
                   <MessageBubble
-                    key={i}
+                    key={`msg-${i}`}
                     message={msg}
-                    isStreaming={isStreaming && i === messages.length - 1 && msg.role === "assistant"}
+                    isStreaming={isStreaming && i === messages.length - 1 && msg.role === "assistant" && !isThinking}
+                    isThinking={isThinking && i === messages.length - 1 && msg.role === "user"}
                     sources={sources[i + 1]}
                   />
-                ))
+                ))}
+              </AnimatePresence>
+
+              {/* Thinking indicator shown between user msg and response */}
+              {isThinking && (
+                <MessageBubble
+                  message={{ role: "assistant" as const, content: "" }}
+                  isThinking={true}
+                />
               )}
+
+              {/* Empty state */}
+              {!hasStarted && (
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  className="flex flex-col items-center justify-center min-h-[60vh] text-center"
+                >
+                  <motion.div
+                    initial={{ scale: 0.9 }}
+                    animate={{ scale: 1 }}
+                    transition={{ duration: 0.5 }}
+                    className="w-20 h-20 rounded-3xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center mb-8 shadow-2xl shadow-gold-500/20"
+                  >
+                    <Star className="h-10 w-10 text-surface" />
+                  </motion.div>
+
+                  <h2 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4">
+                    Ask <span className="gradient-gold">Anything</span>
+                  </h2>
+                  <p className="text-text-secondary text-base max-w-md mb-10 leading-relaxed">
+                    Explore Hindu scriptures with evidence-backed answers.
+                    Every response is grounded in canonical sources you can verify.
+                  </p>
+
+                  {/* Suggested questions */}
+                  <div className="grid sm:grid-cols-2 gap-2.5 w-full max-w-lg">
+                    {[
+                      { q: "Who is Vishnu?", icon: "🕉" },
+                      { q: "What is Dharma?", icon: "☸" },
+                      { q: "Explain the concept of Karma", icon: "🔄" },
+                      { q: "What does the Bhagavad Gita say about duty?", icon: "📜" },
+                    ].map((item) => (
+                      <button
+                        key={item.q}
+                        onClick={() => handleSend(item.q)}
+                        disabled={isStreaming}
+                        className="group flex items-center gap-3 glass rounded-xl px-4 py-3.5 text-left text-sm text-text-secondary hover:text-text-primary hover:bg-white/[0.04] transition-all disabled:opacity-50 border border-transparent hover:border-gold-500/10"
+                      >
+                        <span className="text-base">{item.icon}</span>
+                        <span className="flex-1">{item.q}</span>
+                        <ArrowRight className="h-3.5 w-3.5 text-text-tertiary opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200" />
+                      </button>
+                    ))}
+                  </div>
+                </motion.div>
+              )}
+
               <div ref={messagesEndRef} />
             </div>
           </div>
@@ -262,7 +268,6 @@ export default function ChatPage() {
         </div>
       </div>
 
-      {/* Evidence drawer */}
       <EvidenceDrawer />
     </div>
   );
