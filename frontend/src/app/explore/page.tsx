@@ -7,6 +7,7 @@ import { Navigation } from "@/components/shared/Navigation";
 import { StarField } from "@/components/landing/StarField";
 import { graph } from "@/lib/api";
 import type { EntityDetail, EntitySummary, GraphStats, PathResult } from "@/types/api";
+import { GraphPreview } from "@/components/shared/GraphPreview";
 
 export default function ExplorePage() {
   const [entityQuery, setEntityQuery] = useState("");
@@ -94,6 +95,34 @@ export default function ExplorePage() {
                   </div>
                 </div>
               )}
+
+              {/* Graph Visualization */}
+              <div className="glass rounded-2xl p-5">
+                <h3 className="text-sm font-semibold text-text-primary mb-3">Graph View</h3>
+                <div className="h-48 rounded-xl overflow-hidden">
+                  {selectedEntity ? (
+                    <GraphPreview
+                      nodes={[
+                        { name: selectedEntity.name, type: selectedEntity.type },
+                        ...selectedEntity.relationships.slice(0, 15).map((r) => ({
+                          name: r.target_name,
+                          type: r.target_type || "Entity",
+                        })),
+                      ]}
+                      edges={selectedEntity.relationships.slice(0, 20).map((r) => ({
+                        source: selectedEntity.name,
+                        target: r.target_name,
+                        type: r.type,
+                      }))}
+                      className="w-full h-full"
+                    />
+                  ) : (
+                    <div className="h-full flex items-center justify-center">
+                      <p className="text-xs text-text-tertiary">Select an entity to visualize</p>
+                    </div>
+                  )}
+                </div>
+              </div>
 
               {/* Entity search */}
               <div className="glass rounded-2xl p-5">

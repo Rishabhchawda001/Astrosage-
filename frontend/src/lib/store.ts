@@ -1,19 +1,24 @@
 // ── AstroSage Global State (Zustand) ──
 
 import { create } from "zustand";
-import type { Conversation, ChatMessage } from "@/types/api";
+import type { Conversation, ChatMessage, EvidenceItem } from "@/types/api";
 
+// ── Auth Store ──
 interface AuthState {
   isAuthenticated: boolean;
   username: string | null;
   login: (username: string, token: string, refresh: string) => void;
   logout: () => void;
-  setUser: (username: string) => void;
 }
 
 export const useAuthStore = create<AuthState>((set) => ({
-  isAuthenticated: typeof window !== "undefined" && !!localStorage.getItem("astrosage_access_token"),
-  username: typeof window !== "undefined" ? localStorage.getItem("astrosage_user") : null,
+  isAuthenticated:
+    typeof window !== "undefined" &&
+    !!localStorage.getItem("astrosage_access_token"),
+  username:
+    typeof window !== "undefined"
+      ? localStorage.getItem("astrosage_user")
+      : null,
   login: (username, _token, _refresh) => {
     localStorage.setItem("astrosage_user", username);
     set({ isAuthenticated: true, username });
@@ -24,17 +29,16 @@ export const useAuthStore = create<AuthState>((set) => ({
     localStorage.removeItem("astrosage_user");
     set({ isAuthenticated: false, username: null });
   },
-  setUser: (username) => {
-    localStorage.setItem("astrosage_user", username);
-    set({ username });
-  },
 }));
 
+// ── Chat Store ──
 interface ChatState {
   messages: ChatMessage[];
   isStreaming: boolean;
   currentConversationId: string | null;
   conversations: Conversation[];
+  pinnedConversations: string[]; // IDs of pinned conversations
+  conversationSearch: string;
   addMessage: (msg: ChatMessage) => void;
   setMessages: (msgs: ChatMessage[]) => void;
   clearMessages: () => void;
@@ -42,6 +46,8 @@ interface ChatState {
   setConversationId: (id: string | null) => void;
   setConversations: (convs: Conversation[]) => void;
   addConversation: (conv: Conversation) => void;
+  togglePinConversation: (id: string) => void;
+  setConversationSearch: (q: string) => void;
 }
 
 export const useChatStore = create<ChatState>((set) => ({
@@ -49,21 +55,38 @@ export const useChatStore = create<ChatState>((set) => ({
   isStreaming: false,
   currentConversationId: null,
   conversations: [],
-  addMessage: (msg) => set((s) => ({ messages: [...s.messages, msg] })),
+  pinnedConversations:
+    typeof window !== "undefined"
+      ? JSON.parse(localStorage.getItem("astrosage_pinned") || "[]")
+      : [],
+  conversationSearch: "",
+  addMessage: (msg) =>
+    set((s) => ({ messages: [...s.messages, msg] })),
   setMessages: (msgs) => set({ messages: msgs }),
   clearMessages: () => set({ messages: [] }),
   setStreaming: (v) => set({ isStreaming: v }),
   setConversationId: (id) => set({ currentConversationId: id }),
   setConversations: (convs) => set({ conversations: convs }),
-  addConversation: (conv) => set((s) => ({ conversations: [conv, ...s.conversations] })),
+  addConversation: (conv) =>
+    set((s) => ({ conversations: [conv, ...s.conversations] })),
+  togglePinConversation: (id) =>
+    set((s) => {
+      const pinned = s.pinnedConversations.includes(id)
+        ? s.pinnedConversations.filter((p) => p !== id)
+        : [id, ...s.pinnedConversations];
+      localStorage.setItem("astrosage_pinned", JSON.stringify(pinned));
+      return { pinnedConversations: pinned };
+    }),
+  setConversationSearch: (q) => set({ conversationSearch: q }),
 }));
 
+// ── Search Store ──
 interface SearchState {
   query: string;
-  results: import("@/types/api").SearchResult[];
+  results: EvidenceItem[];
   isSearching: boolean;
   setQuery: (q: string) => void;
-  setResults: (r: import("@/types/api").SearchResult[]) => void;
+  setResults: (r: EvidenceItem[]) => void;
   setSearching: (v: boolean) => void;
 }
 
@@ -76,14 +99,14 @@ export const useSearchStore = create<SearchState>((set) => ({
   setSearching: (v) => set({ isSearching: v }),
 }));
 
+// ── UI Store ──
 interface UIState {
   sidebarOpen: boolean;
   evidenceDrawerOpen: boolean;
-  selectedEvidence: import("@/types/api").EvidenceItem | null;
-  theme: "dark" | "light";
+  selectedEvidence: EvidenceItem | null;
   toggleSidebar: () => void;
   setSidebarOpen: (v: boolean) => void;
-  openEvidence: (item: import("@/types/api").EvidenceItem) => void;
+  openEvidence: (item: EvidenceItem) => void;
   closeEvidence: () => void;
 }
 
@@ -91,9 +114,10 @@ export const useUIStore = create<UIState>((set) => ({
   sidebarOpen: true,
   evidenceDrawerOpen: false,
   selectedEvidence: null,
-  theme: "dark",
   toggleSidebar: () => set((s) => ({ sidebarOpen: !s.sidebarOpen })),
   setSidebarOpen: (v) => set({ sidebarOpen: v }),
-  openEvidence: (item) => set({ evidenceDrawerOpen: true, selectedEvidence: item }),
-  closeEvidence: () => set({ evidenceDrawerOpen: false, selectedEvidence: null }),
+  openEvidence: (item) =>
+    set({ evidenceDrawerOpen: true, selectedEvidence: item }),
+  closeEvidence: () =>
+    set({ evidenceDrawerOpen: false, selectedEvidence: null }),
 }));
