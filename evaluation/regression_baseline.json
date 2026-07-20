@@ -1,15 +1,16 @@
 {
-  "timestamp": "2026-07-19T13:21:48.716301+00:00",
-  "commit": "",
+  "timestamp": "2026-07-20T00:30:37.469543+00:00",
+  "commit": "c1a344c",
   "metrics": {
-    "retrieval_latency_p95_ms": 16.51,
-    "retrieval_entity_recall": 0.6833,
-    "retrieval_ndcg_at_5": 0.9944,
+    "precision_at_k": 0.2392,
+    "recall_at_k": 0.7141,
+    "ndcg_at_k": 0.7779,
+    "entity_recall": 0.7141,
+    "latency_p95_ms": 1.36,
+    "latency_avg_ms": 2.56,
     "hallucination_rejection_rate": 1.0,
-    "hallucination_max_confidence": 0.25,
-    "regression_rate": 0.0,
-    "graph_integrity": 1.0,
-    "test_pass_rate": 0.98
+    "hallucination_max_confidence": 0.27,
+    "high_confidence_rate": 0.3846
   },
-  "fingerprint": "d940b541a95968fbc0c417bc2967634b9bd09ce38451adcecccf940ce08d25a4"
+  "fingerprint": "839ff418071368dc4f18e0543fad880077d4bf8cd382f7a096366b5e3527607b"
 }

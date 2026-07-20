@@ -203,7 +203,14 @@ class RealPipelineEvaluator:
         answer_quality = self.evaluate_answer_quality()
 
         # Check regression vs baseline
-        regression_report = self.regression_eval.evaluate(retrieval)
+        regression_report = self.regression_eval.evaluate(retrieval, directions={
+            "precision_at_k": "higher_is_better",
+            "recall_at_k": "higher_is_better",
+            "ndcg_at_k": "higher_is_better",
+            "entity_recall": "higher_is_better",
+            "latency_p95_ms": "lower_is_better",
+            "latency_avg_ms": "lower_is_better",
+        })
         regression = self.regression_eval.to_dict(regression_report)
 
         elapsed = round(time.time() - start, 1)
