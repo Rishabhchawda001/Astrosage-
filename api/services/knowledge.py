@@ -378,7 +378,7 @@ class BM25SearchService:
 class AnswerService:
     """Generates grounded answers from the knowledge graph."""
 
-    def __init__(self, graph_service: KnowledgeGraphService, search_service: BM25SearchService):
+    def __init__(self, graph_service: KnowledgeGraphService | None, search_service: BM25SearchService | None):
         self.graph = graph_service
         self.search = search_service
 

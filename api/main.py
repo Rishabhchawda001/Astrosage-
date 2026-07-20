@@ -101,7 +101,7 @@ class SecurityHeadersMiddleware(BaseHTTPMiddleware):
 app.add_middleware(SecurityHeadersMiddleware)
 
 # ── Request body size limit (prevents large payload attacks) ──
-MAX_BODY_SIZE = 1024 * 100  # 100KB
+MAX_BODY_SIZE = 1024 * 512  # 512KB — accommodates long chat histories
 
 class RequestBodySizeMiddleware(BaseHTTPMiddleware):
     """Limits request body size to prevent large payload attacks."""

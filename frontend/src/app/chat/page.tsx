@@ -198,7 +198,7 @@ export default function ChatPage() {
   }, [messages, addMessage, setMessages, setStreaming, currentConversationId, setConversationId, addConversation, setConvList]);
 
   const handleStop = useCallback(() => {
-    if (abortRef.current) {
+    if (typeof abortRef.current === 'function') {
       abortRef.current();
       abortRef.current = undefined;
     }
