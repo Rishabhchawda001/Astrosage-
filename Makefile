@@ -2,18 +2,20 @@
 # AstroSage AI — Makefile
 # ────────────────────────────────────────────────────────────────
 
-.PHONY: dev api api-dev frontend frontend-dev build test lint clean docker docker-up docker-down
+.PHONY: help dev api frontend test test-all build lint clean docker-up docker-down docker-prod
 
-# ── Default ──────────────────────────────────────────────────
 help:
 	@echo "AstroSage AI Commands"
-	@echo "  make api         - Start API server"
-	@echo "  make frontend    - Start frontend dev server"
-	@echo "  make dev         - Start both API and frontend"
-	@echo "  make test        - Run all tests"
-	@echo "  make build       - Build frontend"
-	@echo "  make docker-up   - Start all Docker services"
-	@echo "  make docker-down - Stop all Docker services"
+	@echo "  make dev          - Start API + Frontend (development)"
+	@echo "  make api           - Start API server"
+	@echo "  make frontend      - Start frontend dev server"
+	@echo "  make test          - Run API tests"
+	@echo "  make build         - Build frontend"
+	@echo "  make lint          - Lint all code"
+	@echo "  make docker-up     - Start all Docker services"
+	@echo "  make docker-prod   - Start production stack"
+	@echo "  make docker-down   - Stop all services"
+	@echo "  make clean         - Clean build artifacts"
 
 # ── API ──────────────────────────────────────────────────────
 api:
@@ -61,6 +63,12 @@ docker-up:
 	docker compose up --build -d
 	@echo "API:      http://localhost:8000"
 	@echo "Frontend: http://localhost:3000"
+
+docker-prod:
+	docker compose -f docker-compose.yml -f docker-compose.prod.yml up --build -d
+	@echo "API:      http://localhost:8000"
+	@echo "Frontend: http://localhost:3000"
+	@echo "Nginx:    http://localhost:80"
 
 docker-down:
 	docker compose down

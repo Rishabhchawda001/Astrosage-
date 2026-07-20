@@ -1,6 +1,9 @@
 # ────────────────────────────────────────────────────────────────
-# AstroSage AI — Docker Compose Development Environment
+# AstroSage AI — Docker Compose
 # ────────────────────────────────────────────────────────────────
+#
+# Development:  docker compose up --build
+# Production:   docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d
 
 version: "3.9"
 
@@ -21,7 +24,6 @@ services:
       - LOG_LEVEL=DEBUG
     volumes:
       - ./knowledge/releases/v1.0.0:/app/knowledge/releases/v1.0.0:ro
-      - ./api:/app/api:ro
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
       interval: 30s
@@ -39,7 +41,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - NEXT_PUBLIC_API_URL=http://api:8000
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
     depends_on:
       api:
         condition: service_healthy
