@@ -27,6 +27,18 @@ async def lifespan(app: FastAPI):
     """Application lifecycle — startup and shutdown."""
     logger.info(f"Starting {settings.app_name} v{settings.app_version} ({settings.environment})")
     logger.info(f"Knowledge base: {settings.knowledge_base_path}")
+
+    # ── Security warnings ─────────────────────────────────────
+    if settings.secret_key == "change-me-in-production":
+        logger.warning(
+            "SECURITY: Using default SECRET_KEY. Set a strong random key via "
+            "the SECRET_KEY environment variable for production deployments."
+        )
+    if settings.debug and settings.environment == "production":
+        logger.warning("SECURITY: Debug mode enabled in production. Disable for production use.")
+    if settings.cors_origins == ["*"]:
+        logger.warning("SECURITY: CORS allows all origins (*). Restrict in production.")
+
     yield
     logger.info(f"Shutting down {settings.app_name}")
 
@@ -45,6 +57,53 @@ app = FastAPI(
 app.add_middleware(AuditMiddleware)
 app.add_middleware(RateLimitMiddleware)
 setup_cors(app)
+
+# ── Security headers ──
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request
+from starlette.responses import Response
+
+class SecurityHeadersMiddleware(BaseHTTPMiddleware):
+    """Adds security headers to every response."""
+
+    async def dispatch(self, request: Request, call_next):
+        response: Response = await call_next(request)
+        response.headers["X-Content-Type-Options"] = "nosniff"
+        response.headers["X-Frame-Options"] = "DENY"
+        response.headers["X-XSS-Protection"] = "1; mode=block"
+        response.headers["Strict-Transport-Security"] = "max-age=31536000; includeSubDomains"
+        response.headers["Referrer-Policy"] = "strict-origin-when-cross-origin"
+        if settings.environment == "production":
+            response.headers["Permissions-Policy"] = "geolocation=(), microphone=(), camera=()"
+        return response
+
+app.add_middleware(SecurityHeadersMiddleware)
+
+# ── Request body size limit (prevents large payload attacks) ──
+MAX_BODY_SIZE = 1024 * 100  # 100KB
+
+class RequestBodySizeMiddleware(BaseHTTPMiddleware):
+    """Limits request body size to prevent large payload attacks."""
+
+    async def dispatch(self, request: Request, call_next):
+        if request.method in ("POST", "PUT", "PATCH"):
+            content_length = request.headers.get("content-length")
+            if content_length and int(content_length) > MAX_BODY_SIZE:
+                from fastapi.responses import JSONResponse
+                return JSONResponse(
+                    status_code=413,
+                    content={
+                        "error": {
+                            "code": "request_too_large",
+                            "message": f"Request body exceeds maximum size of {MAX_BODY_SIZE} bytes",
+                            "status_code": 413,
+                            "details": {},
+                        }
+                    },
+                )
+        return await call_next(request)
+
+app.add_middleware(RequestBodySizeMiddleware)
 
 # ── Error handlers ──
 setup_error_handlers(app)
