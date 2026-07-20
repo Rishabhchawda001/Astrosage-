@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { ArrowRight, Sparkles, Search, Shield } from "lucide-react";
+import { ArrowRight, Search, Shield } from "lucide-react";
 
 function StatItem({ value, label }: { value: string; label: string }) {
   return (

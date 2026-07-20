@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 import {
-  User, Bot, ChevronDown, ExternalLink, Copy, Check,
+  User, Bot, ChevronDown, Copy, Check,
   Sparkles, ScrollText, BookOpen, Bookmark, BookmarkCheck,
 } from "lucide-react";
 import type { ChatMessage, EvidenceItem } from "@/types/api";
@@ -216,7 +216,7 @@ export function MessageBubble({ message, isStreaming, isThinking, sources }: Mes
                 className="mt-2 space-y-1.5 overflow-hidden"
               >
                 {sources.map((source, i) => (
-                  <div className="relative group">
+                  <div key={i} className="relative group">
                     <button
                       onClick={() => openEvidence(source)}
                       className="w-full text-left glass rounded-xl p-3 hover:bg-white/[0.04] transition-all group/card border border-transparent hover:border-gold-500/10"

@@ -19,7 +19,7 @@ export const useAuthStore = create<AuthState>((set) => ({
     typeof window !== "undefined"
       ? localStorage.getItem("astrosage_user")
       : null,
-  login: (username, _token, _refresh) => {
+  login: (username) => {
     localStorage.setItem("astrosage_user", username);
     set({ isAuthenticated: true, username });
   },

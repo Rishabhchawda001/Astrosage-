@@ -2,17 +2,17 @@
 
 import { useState, useCallback } from "react";
 import { motion } from "framer-motion";
-import { Search, Loader2, BookOpen, ScrollText, ExternalLink, FileText, Sparkles } from "lucide-react";
+import { Search, Loader2, BookOpen, ScrollText, FileText } from "lucide-react";
 import { Navigation } from "@/components/shared/Navigation";
 import { StarField } from "@/components/landing/StarField";
 import { search as searchApi, graph } from "@/lib/api";
-import type { SearchResult, EntitySummary, ScriptureSummary } from "@/types/api";
+import type { SearchResult, EntitySummary } from "@/types/api";
 
 export default function SearchPage() {
   const [query, setQuery] = useState("");
   const [isSearching, setIsSearching] = useState(false);
   const [results, setResults] = useState<SearchResult[]>([]);
-  const [entities, setEntities] = useState<EntitySummary[]>([]);
+  const [, setEntities] = useState<EntitySummary[]>([]);
   const [activeTab, setActiveTab] = useState<"all" | "entities" | "verses">("all");
 
   const handleSearch = useCallback(async () => {

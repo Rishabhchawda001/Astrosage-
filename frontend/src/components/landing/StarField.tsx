@@ -52,7 +52,7 @@ export function StarField() {
     const ctx = canvas.getContext("2d");
     if (!ctx) return;
 
-    let dpr = resize(canvas);
+    let dpr = resize(canvas); // eslint-disable-line @typescript-eslint/no-unused-vars 
     const { w, h } = dimsRef.current;
 
     // ── Stars ──

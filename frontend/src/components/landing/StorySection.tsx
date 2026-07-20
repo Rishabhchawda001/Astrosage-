@@ -3,9 +3,9 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import {
-  ShieldCheck, ScrollText, Network, BookMarked,
+  ShieldCheck, Network,
   Brain, Eye, Quote, Library, Search, FileCheck,
-  ArrowRight, Scale, Compass
+  Scale, Compass
 } from "lucide-react";
 
 const stories = [

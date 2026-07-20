@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useRef, useEffect, KeyboardEvent } from "react";
-import { motion } from "framer-motion";
 import { Send, Sparkles, StopCircle } from "lucide-react";
 
 interface ChatInputProps {

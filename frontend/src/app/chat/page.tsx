@@ -18,8 +18,8 @@ type ChatMode = "chat" | "search";
 export default function ChatPage() {
   const {
     messages, isStreaming, currentConversationId,
-    conversations, addMessage, setMessages, clearMessages,
-    setStreaming, setConversationId, setConversations, addConversation,
+    addMessage, setMessages, clearMessages,
+    setStreaming, setConversationId, addConversation,
   } = useChatStore();
 
   const [sidebarOpen, setSidebarOpen] = useState(true);
@@ -181,7 +181,7 @@ export default function ChatPage() {
       }
     );
     abortRef.current = abort;
-  }, [messages, addMessage, setStreaming, currentConversationId, setConversationId, addConversation, setConvList]);
+  }, [messages, addMessage, setMessages, setStreaming, currentConversationId, setConversationId, addConversation, setConvList]);
 
   const handleStop = useCallback(() => {
     if (abortRef.current) {

@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useRef, useState, useCallback } from "react";
-import { motion } from "framer-motion";
 import { ZoomIn, ZoomOut, RotateCcw } from "lucide-react";
 
 interface GraphNode {
