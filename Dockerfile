@@ -43,8 +43,8 @@ COPY knowledge/releases/v1.0.0/graph/graph.json /app/knowledge/releases/v1.0.0/g
 COPY knowledge/releases/v1.0.0/retrieval/ /app/knowledge/releases/v1.0.0/retrieval/
 
 # Health check
-HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
-    CMD curl -f http://localhost:8000/api/v1/health || exit 1
+HEALTHCHECK --interval=15s --timeout=5s --start-period=15s --retries=2 \
+    CMD curl -f http://localhost:8000/readyz || exit 1
 
 # Non-root user
 RUN useradd -m -u 1000 astrosage && chown -R astrosage:astrosage /app
@@ -52,5 +52,6 @@ USER astrosage
 
 EXPOSE 8000
 
-# Run with uvicorn
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "4"]
+# Run with uvicorn (production: graceful shutdown, no reload)
+# Workers: 4 (configurable via environment)
+CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "4", "--timeout-graceful-shutdown", "30", "--limit-concurrency", "100", "--backlog", "2048"]

@@ -38,6 +38,24 @@ class HealthResponse(BaseModel):
 _start_time = time.time()
 
 
+@router.get("/readyz")
+async def readyz():
+    """Kubernetes readiness probe."""
+    # Check all critical components
+    kb_path = settings.knowledge_base_path
+    graph_ok = os.path.isfile(os.path.join(kb_path, "graph", "graph.json"))
+    bm25_ok = os.path.isfile(os.path.join(kb_path, "retrieval", "bm25_index.json"))
+    if graph_ok and bm25_ok:
+        return {"status": "ready"}
+    return {"status": "not_ready", "reason": "Knowledge base files missing"}, 503
+
+
+@router.get("/livez")
+async def livez():
+    """Kubernetes liveness probe."""
+    return {"status": "alive"}
+
+
 @router.get("/api/v1/health", response_model=HealthResponse)
 async def health_check():
     """Health check endpoint. Returns 200 if the API server is operational."""

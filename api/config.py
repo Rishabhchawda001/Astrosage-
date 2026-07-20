@@ -74,3 +74,48 @@ class Settings(BaseSettings):
 
 
 settings = Settings()
+
+
+def validate_environment() -> list[str]:
+    """Validate critical environment variables. Returns list of warnings."""
+    warnings = []
+
+    # Check required secrets
+    if settings.secret_key == "change-me-in-production":
+        warnings.append(
+            "SECRET_KEY is set to the default value. Generate a random 64-character "
+            "string with `openssl rand -hex 32` and set it via the SECRET_KEY env var."
+        )
+
+    # Check potentially problematic configurations
+    if settings.debug and settings.environment == "production":
+        warnings.append("DEBUG is enabled in production. Disable via DEBUG=false.")
+
+    if settings.cors_origins == ["*"]:
+        warnings.append(
+            "CORS allows all origins (*). Restrict to specific domains in production."
+        )
+
+    # Check Redis and database config for production
+    if settings.environment == "production":
+        if not settings.redis_url or settings.redis_url == "":
+            warnings.append(
+                "REDIS_URL is not set. Rate limiting will use in-memory storage "
+                "(not suitable for multi-worker deployments)."
+            )
+        if not settings.database_url or settings.database_url == "":
+            warnings.append(
+                "DATABASE_URL is not set. Conversations will use SQLite (development only)."
+            )
+
+    return warnings
+
+
+# Run validation on import
+_env_warnings = validate_environment()
+if _env_warnings:
+    import logging
+    _logger = logging.getLogger("astrosage.config")
+    for w in _env_warnings:
+        _logger.warning(f"Configuration: {w}")
+
