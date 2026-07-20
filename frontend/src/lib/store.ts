@@ -121,3 +121,39 @@ export const useUIStore = create<UIState>((set) => ({
   closeEvidence: () =>
     set({ evidenceDrawerOpen: false, selectedEvidence: null }),
 }));
+
+
+// ── Bookmarks Store ──
+interface BookmarkState {
+  bookmarks: EvidenceItem[];
+  addBookmark: (item: EvidenceItem) => void;
+  removeBookmark: (index: number) => void;
+  isBookmarked: (item: EvidenceItem) => boolean;
+}
+
+export const useBookmarkStore = create<BookmarkState>((set, get) => ({
+  bookmarks:
+    typeof window !== "undefined"
+      ? JSON.parse(localStorage.getItem("astrosage_bookmarks") || "[]")
+      : [],
+  addBookmark: (item) =>
+    set((s) => {
+      const exists = s.bookmarks.some(
+        (b) => b.text === item.text && b.scripture === item.scripture
+      );
+      if (exists) return s;
+      const bookmarks = [...s.bookmarks, item];
+      localStorage.setItem("astrosage_bookmarks", JSON.stringify(bookmarks));
+      return { bookmarks };
+    }),
+  removeBookmark: (index) =>
+    set((s) => {
+      const bookmarks = s.bookmarks.filter((_, i) => i !== index);
+      localStorage.setItem("astrosage_bookmarks", JSON.stringify(bookmarks));
+      return { bookmarks };
+    }),
+  isBookmarked: (item) =>
+    get().bookmarks.some(
+      (b) => b.text === item.text && b.scripture === item.scripture
+    ),
+}));

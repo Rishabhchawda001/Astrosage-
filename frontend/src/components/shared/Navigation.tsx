@@ -50,6 +50,14 @@ export function Navigation() {
                 {link.label}
               </Link>
             ))}
+            
+            {/* Quality gate badge */}
+            <div className="ml-2 px-2.5 py-1 rounded-lg bg-emerald-500/10 border border-emerald-500/20 flex items-center gap-1.5">
+              <div className="w-1.5 h-1.5 rounded-full bg-emerald-400" />
+              <span className="text-[10px] font-semibold text-emerald-400 tracking-wide whitespace-nowrap">
+                8/8 Quality Gates
+              </span>
+            </div>
           </div>
 
           {/* Direct to experience */}

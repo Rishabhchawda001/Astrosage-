@@ -43,17 +43,32 @@ export function ConversationSidebar({
   const hasPinned = pinned.length > 0;
 
   return (
-    <AnimatePresence mode="wait">
-      {isOpen ? (
-        <motion.aside
-          key="open"
-          initial={{ width: 0, opacity: 0 }}
-          animate={{ width: 300, opacity: 1 }}
-          exit={{ width: 0, opacity: 0 }}
-          transition={{ duration: 0.2, ease: "easeInOut" }}
-          className="flex-shrink-0 border-r border-border bg-surface overflow-hidden"
-        >
-          <div className="w-[300px] h-full flex flex-col">
+    <>
+      {/* Mobile overlay backdrop */}
+      <AnimatePresence>
+        {isOpen && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 bg-black/40 z-20 sm:hidden"
+            onClick={onToggle}
+          />
+        )}
+      </AnimatePresence>
+
+      <AnimatePresence mode="wait">
+        {isOpen ? (
+          <motion.aside
+            key="open"
+            initial={{ width: 0, opacity: 0 }}
+            animate={{ width: 300, opacity: 1 }}
+            exit={{ width: 0, opacity: 0 }}
+            transition={{ duration: 0.2, ease: "easeInOut" }}
+            className="flex-shrink-0 border-r border-border bg-surface overflow-hidden
+                      max-sm:fixed max-sm:left-0 max-sm:top-16 max-sm:bottom-0 max-sm:w-[85vw] max-sm:max-w-[320px] max-sm:z-30 max-sm:shadow-2xl"
+          >
+            <div className="w-[300px] max-sm:w-full h-full flex flex-col">
             {/* Header */}
             <div className="p-4 border-b border-border space-y-3">
               <div className="flex items-center justify-between">
@@ -173,6 +188,7 @@ export function ConversationSidebar({
         </motion.button>
       )}
     </AnimatePresence>
+    </>
   );
 }
 

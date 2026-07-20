@@ -4,10 +4,10 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import {
   User, Bot, ChevronDown, ExternalLink, Copy, Check,
-  Sparkles, ScrollText, BookOpen
+  Sparkles, ScrollText, BookOpen, Bookmark, BookmarkCheck,
 } from "lucide-react";
 import type { ChatMessage, EvidenceItem } from "@/types/api";
-import { useUIStore } from "@/lib/store";
+import { useUIStore, useBookmarkStore } from "@/lib/store";
 
 function MarkdownContent({ content }: { content: string }) {
   const parts = content.split(/(```[\s\S]*?```)/g);
@@ -216,37 +216,62 @@ export function MessageBubble({ message, isStreaming, isThinking, sources }: Mes
                 className="mt-2 space-y-1.5 overflow-hidden"
               >
                 {sources.map((source, i) => (
-                  <button
-                    key={i}
-                    onClick={() => openEvidence(source)}
-                    className="w-full text-left glass rounded-xl p-3 hover:bg-white/[0.04] transition-all group border border-transparent hover:border-gold-500/10"
-                  >
-                    <div className="flex items-center justify-between mb-1">
-                      <div className="flex items-center gap-2">
-                        <BookOpen className="h-3 w-3 text-gold-400/60" />
-                        <span className="text-xs font-medium text-gold-400">
-                          {source.scripture || "Source"}
-                        </span>
-                        <span className="text-[10px] text-text-tertiary uppercase tracking-wider">
-                          {source.level}
-                        </span>
-                      </div>
-                      <div className="flex items-center gap-1.5">
-                        <div className="h-1.5 w-12 rounded-full bg-white/5 overflow-hidden">
-                          <div
-                            className="h-full rounded-full bg-gradient-to-r from-gold-400 to-gold-600"
-                            style={{ width: `${source.score * 100}%` }}
-                          />
+                  <div className="relative group">
+                    <button
+                      onClick={() => openEvidence(source)}
+                      className="w-full text-left glass rounded-xl p-3 hover:bg-white/[0.04] transition-all group/card border border-transparent hover:border-gold-500/10"
+                    >
+                      <div className="flex items-center justify-between mb-1">
+                        <div className="flex items-center gap-2">
+                          <BookOpen className="h-3 w-3 text-gold-400/60" />
+                          <span className="text-xs font-medium text-gold-400">
+                            {source.scripture || "Source"}
+                          </span>
+                          <span className="text-[10px] text-text-tertiary uppercase tracking-wider">
+                            {source.level}
+                          </span>
                         </div>
-                        <span className="text-[10px] text-text-tertiary font-mono">
-                          {(source.score * 100).toFixed(0)}%
-                        </span>
+                        <div className="flex items-center gap-1.5">
+                          <div className="h-1.5 w-12 rounded-full bg-white/5 overflow-hidden">
+                            <div
+                              className="h-full rounded-full bg-gradient-to-r from-gold-400 to-gold-600"
+                              style={{ width: `${source.score * 100}%` }}
+                            />
+                          </div>
+                          <span className="text-[10px] text-text-tertiary font-mono">
+                            {(source.score * 100).toFixed(0)}%
+                          </span>
+                        </div>
                       </div>
-                    </div>
-                    <p className="text-xs text-text-secondary line-clamp-2 leading-relaxed">
-                      {source.text}
-                    </p>
-                  </button>
+                      <p className="text-xs text-text-secondary line-clamp-2 leading-relaxed pr-6">
+                        {source.text}
+                      </p>
+                    </button>
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        const { addBookmark, removeBookmark } = useBookmarkStore.getState();
+                        const bookmarks = useBookmarkStore.getState().bookmarks;
+                        const idx = bookmarks.findIndex(
+                          (b) => b.text === source.text && b.scripture === source.scripture
+                        );
+                        if (idx >= 0) {
+                          removeBookmark(idx);
+                        } else {
+                          addBookmark(source);
+                        }
+                      }}
+                      className="absolute top-3 right-3 p-1.5 rounded-lg transition-all opacity-0 group-hover:opacity-100
+                        {useBookmarkStore.getState().isBookmarked(source)
+                          ? 'text-gold-400 hover:bg-gold-500/10 bg-gold-500/10'
+                          : 'text-text-tertiary hover:text-text-primary hover:bg-white/5'}"
+                      title={useBookmarkStore.getState().isBookmarked(source) ? "Remove bookmark" : "Bookmark source"}
+                    >
+                      {useBookmarkStore.getState().isBookmarked(source)
+                        ? <BookmarkCheck className="h-3 w-3" />
+                        : <Bookmark className="h-3 w-3" />}
+                    </button>
+                  </div>
                 ))}
               </motion.div>
             )}

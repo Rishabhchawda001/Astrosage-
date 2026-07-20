@@ -115,6 +115,7 @@ export default function ExplorePage() {
                         type: r.type,
                       }))}
                       className="w-full h-full"
+                      onNodeClick={handleSelectEntity}
                     />
                   ) : (
                     <div className="h-full flex items-center justify-center">

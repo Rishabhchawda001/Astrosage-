@@ -1,11 +1,12 @@
 "use client";
 
 import { motion, AnimatePresence } from "framer-motion";
-import { X, BookOpen, ScrollText, ShieldCheck, FileCheck, ExternalLink } from "lucide-react";
-import { useUIStore } from "@/lib/store";
+import { X, BookOpen, ScrollText, ShieldCheck, FileCheck, ExternalLink, Bookmark, BookmarkCheck } from "lucide-react";
+import { useUIStore, useBookmarkStore } from "@/lib/store";
 
 export function EvidenceDrawer() {
   const { evidenceDrawerOpen, selectedEvidence, closeEvidence } = useUIStore();
+  const { bookmarks, addBookmark, removeBookmark, isBookmarked } = useBookmarkStore();
 
   return (
     <AnimatePresence>
@@ -20,14 +21,19 @@ export function EvidenceDrawer() {
             className="fixed inset-0 bg-black/50 backdrop-blur-sm z-40"
           />
 
-          {/* Drawer */}
+          {/* Drawer — bottom sheet on mobile, side drawer on desktop */}
           <motion.div
             initial={{ x: "100%" }}
             animate={{ x: 0 }}
             exit={{ x: "100%" }}
             transition={{ type: "spring", damping: 28, stiffness: 280 }}
-            className="fixed right-0 top-0 bottom-0 w-full max-w-lg z-50 bg-surface-elevated border-l border-border shadow-2xl"
+            className="fixed right-0 top-0 bottom-0 w-full max-w-lg z-50 bg-surface-elevated border-l border-border shadow-2xl
+                      max-sm:top-auto max-sm:bottom-0 max-sm:left-0 max-sm:max-w-full max-sm:max-h-[85vh] max-sm:rounded-t-3xl max-sm:border-l-0 max-sm:border-t"
           >
+            {/* Mobile drag handle */}
+            <div className="hidden max-sm:flex justify-center pt-2 pb-1">
+              <div className="w-10 h-1 rounded-full bg-text-tertiary/30" />
+            </div>
             <div className="h-full flex flex-col">
               {/* Header */}
               <div className="flex items-center justify-between p-5 border-b border-border">
@@ -80,6 +86,37 @@ export function EvidenceDrawer() {
                   <p className="text-sm text-text-primary leading-relaxed border-l-2 border-gold-500/20 pl-4 italic">
                     &ldquo;{selectedEvidence.text}&rdquo;
                   </p>
+
+                  {/* Bookmark button */}
+                  <button
+                    onClick={() => {
+                      const idx = bookmarks.findIndex(
+                        (b) => b.text === selectedEvidence.text && b.scripture === selectedEvidence.scripture
+                      );
+                      if (idx >= 0) {
+                        removeBookmark(idx);
+                      } else {
+                        addBookmark(selectedEvidence);
+                      }
+                    }}
+                    className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
+                      isBookmarked(selectedEvidence)
+                        ? "bg-gold-500/15 text-gold-400 border border-gold-500/20"
+                        : "text-text-tertiary hover:text-text-primary hover:bg-white/5 border border-transparent"
+                    }`}
+                  >
+                    {isBookmarked(selectedEvidence) ? (
+                      <>
+                        <BookmarkCheck className="h-3.5 w-3.5" />
+                        Bookmarked
+                      </>
+                    ) : (
+                      <>
+                        <Bookmark className="h-3.5 w-3.5" />
+                        Bookmark Source
+                      </>
+                    )}
+                  </button>
                 </div>
 
                 {/* Relevance score */}
@@ -123,6 +160,52 @@ export function EvidenceDrawer() {
                     Adversarial or out-of-domain queries are rejected with low confidence.
                   </p>
                 </div>
+
+                {/* Bookmarked sources */}
+                {bookmarks.length > 0 && (
+                  <div className="border-t border-border pt-4">
+                    <div className="flex items-center gap-1.5 mb-3">
+                      <BookmarkCheck className="h-3.5 w-3.5 text-gold-400" />
+                      <span className="text-[10px] text-text-tertiary uppercase tracking-wider font-medium">
+                        Bookmarked Sources ({bookmarks.length})
+                      </span>
+                    </div>
+                    <div className="space-y-2 max-h-48 overflow-y-auto">
+                      {bookmarks.map((bm, i) => (
+                        <div
+                          key={i}
+                          className="glass rounded-xl p-3 group"
+                        >
+                          <div className="flex items-start justify-between gap-2">
+                            <div className="flex-1 min-w-0">
+                              <div className="flex items-center gap-1.5 mb-1">
+                                <BookOpen className="h-3 w-3 text-gold-400/60" />
+                                <span className="text-[10px] font-medium text-gold-400">
+                                  {bm.scripture || "Source"}
+                                </span>
+                                <span className="text-[10px] text-text-tertiary">
+                                  · {(bm.score * 100).toFixed(0)}%
+                                </span>
+                              </div>
+                              <p className="text-[11px] text-text-secondary line-clamp-2 leading-relaxed">
+                                {bm.text}
+                              </p>
+                            </div>
+                            <button
+                              onClick={() => {
+                                removeBookmark(i);
+                              }}
+                              className="p-1 rounded-md text-text-tertiary hover:text-red-400 hover:bg-red-500/10 transition-all opacity-0 group-hover:opacity-100 flex-shrink-0"
+                              title="Remove bookmark"
+                            >
+                              <X className="h-3 w-3" />
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
 
                 {/* Provenance */}
                 <div className="border-t border-border pt-4">
