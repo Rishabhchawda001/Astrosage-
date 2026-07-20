@@ -1,0 +1,231 @@
+@import "tailwindcss";
+
+@plugin "tailwindcss-animate";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-astrosage-50: #f0f0ff;
+  --color-astrosage-100: #e0e0ff;
+  --color-astrosage-200: #c0c0ff;
+  --color-astrosage-300: #9090ff;
+  --color-astrosage-400: #6060ff;
+  --color-astrosage-500: #4040f0;
+  --color-astrosage-600: #3030d0;
+  --color-astrosage-700: #2020a0;
+  --color-astrosage-800: #181870;
+  --color-astrosage-900: #101050;
+
+  --color-gold-50: #fffdf0;
+  --color-gold-100: #fff8d6;
+  --color-gold-200: #ffec9e;
+  --color-gold-300: #ffd966;
+  --color-gold-400: #ffc433;
+  --color-gold-500: #f0b000;
+  --color-gold-600: #d09000;
+  --color-gold-700: #a07000;
+  --color-gold-800: #705000;
+  --color-gold-900: #403000;
+
+  --color-sacred-50: #faf5ff;
+  --color-sacred-100: #f0e6ff;
+  --color-sacred-200: #d9b3ff;
+  --color-sacred-300: #c080ff;
+  --color-sacred-400: #a64dff;
+  --color-sacred-500: #8c1aff;
+  --color-sacred-600: #7000e0;
+  --color-sacred-700: #5500a8;
+  --color-sacred-800: #3b0070;
+  --color-sacred-900: #200038;
+
+  --color-deep-50: #eef2ff;
+  --color-deep-100: #dce4ff;
+  --color-deep-200: #b9c8ff;
+  --color-deep-300: #97adff;
+  --color-deep-400: #7491ff;
+  --color-deep-500: #5175ff;
+  --color-deep-600: #4160d9;
+  --color-deep-700: #3148b3;
+  --color-deep-800: #21308c;
+  --color-deep-900: #101866;
+
+  --color-surface: #0a0a14;
+  --color-surface-elevated: #12121e;
+  --color-surface-overlay: #1a1a2e;
+  --color-border: rgba(255, 255, 255, 0.06);
+  --color-border-light: rgba(255, 255, 255, 0.12);
+  --color-text-primary: #f0f0f5;
+  --color-text-secondary: #9090a5;
+  --color-text-tertiary: #606070;
+  --color-accent: #f0b000;
+  --color-accent-subtle: rgba(240, 176, 0, 0.1);
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", "Georgia", serif;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.08) transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-surface);
+  color: var(--color-text-primary);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(240, 176, 0, 0.2);
+  color: var(--color-gold-200);
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.08); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.16); }
+
+/* ── Animations ── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 20px rgba(240, 176, 0, 0.1); }
+  50% { box-shadow: 0 0 40px rgba(240, 176, 0, 0.2); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes orbit {
+  from { transform: rotate(0deg) translateX(120px) rotate(0deg); }
+  to { transform: rotate(360deg) translateX(120px) rotate(-360deg); }
+}
+
+.animate-fade-in { animation: fadeIn 0.5s ease-out forwards; }
+.animate-fade-in-up { animation: fadeInUp 0.6s ease-out forwards; }
+.animate-slide-in-right { animation: slideInRight 0.4s ease-out forwards; }
+.animate-float { animation: float 6s ease-in-out infinite; }
+.animate-shimmer {
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.03), transparent);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+.stagger-1 { animation-delay: 0.1s; opacity: 0; }
+.stagger-2 { animation-delay: 0.2s; opacity: 0; }
+.stagger-3 { animation-delay: 0.3s; opacity: 0; }
+.stagger-4 { animation-delay: 0.4s; opacity: 0; }
+.stagger-5 { animation-delay: 0.5s; opacity: 0; }
+.stagger-6 { animation-delay: 0.6s; opacity: 0; }
+
+/* ── Typography ── */
+.font-serif { font-family: var(--font-serif); }
+
+/* ── Glass morphism ── */
+.glass {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.glass-strong {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(32px);
+  -webkit-backdrop-filter: blur(32px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ── Gradient text ── */
+.gradient-gold {
+  background: linear-gradient(135deg, #f0b000, #ffd700, #f0b000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, #5175ff, #8c1aff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Star field ── */
+.star {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border-radius: 50%;
+  background: white;
+}
+
+/* ── Reduced motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ── Markdown content ── */
+.prose-custom {
+  line-height: 1.75;
+  color: var(--color-text-primary);
+}
+
+.prose-custom p { margin-bottom: 1em; }
+.prose-custom strong { color: var(--color-gold-300); font-weight: 600; }
+.prose-custom code {
+  background: rgba(255, 255, 255, 0.06);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+.prose-custom pre {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 16px;
+  overflow-x: auto;
+}
+.prose-custom pre code {
+  background: none;
+  padding: 0;
+}
+.prose-custom ul { padding-left: 1.5em; margin-bottom: 1em; }
+.prose-custom li { margin-bottom: 0.25em; }
+.prose-custom blockquote {
+  border-left: 2px solid var(--color-gold-500);
+  padding-left: 1em;
+  color: var(--color-text-secondary);
+  font-style: italic;
+  margin: 1em 0;
+}

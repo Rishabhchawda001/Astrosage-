@@ -17,7 +17,7 @@ services:
       - APP_ENVIRONMENT=development
       - SECRET_KEY=dev-secret-key-change-in-production
       - KNOWLEDGE_BASE_PATH=/app/knowledge/releases/v1.0.0
-      - CORS_ORIGINS=http://localhost:3000,http://localhost:5173
+      - CORS_ORIGINS=http://localhost:3000,http://localhost:5173,http://frontend:3000
       - LOG_LEVEL=DEBUG
     volumes:
       - ./knowledge/releases/v1.0.0:/app/knowledge/releases/v1.0.0:ro
@@ -28,6 +28,21 @@ services:
       timeout: 5s
       retries: 3
       start_period: 10s
+    restart: unless-stopped
+
+  # ── Frontend (Next.js) ─────────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: astrosage-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
     restart: unless-stopped
 
   # ── Redis (caching, rate limiting, sessions) ────────────────
