@@ -14,7 +14,7 @@ const stories = [
     title: "Why AstroSage Exists",
     description:
       "In an age of AI that fabricates confidently, AstroSage takes a different path. Every answer is grounded in actual scripture. Every claim has a source you can verify. We believe ancient wisdom deserves modern rigor.",
-    gradient: "from-gold-400 to-gold-600",
+    gradient: "from-gold-400 to-amber-500",
     span: true,
   },
   {
@@ -36,28 +36,28 @@ const stories = [
     title: "Thousands of Scriptures",
     description:
       "54 scriptures. 120,000+ verses. 391 entities. 5,044 relationships. All indexed, cross-referenced, and permanently frozen at v1.0.0 — immutable and auditable.",
-    gradient: "from-emerald-400 to-teal-500",
+    gradient: "from-emerald-500 to-teal-500",
   },
   {
     icon: Network,
     title: "The Knowledge Graph",
     description:
       "Entities aren't just names. They're nodes in a vast, interconnected network. Krishna connects to Arjuna. Arjuna connects to Dharma. Dharma connects to the Bhagavad Gita. Everything is linked.",
-    gradient: "from-purple-400 to-pink-500",
+    gradient: "from-purple-500 to-pink-500",
   },
   {
     icon: Search,
     title: "How Answers Are Generated",
     description:
       "Your question is expanded with Sanskrit and Hindi synonyms, matched against 120K verified chunks using BM25 search with entity-guided pre-filtering, and assembled into a grounded answer with confidence scoring.",
-    gradient: "from-cyan-400 to-blue-500",
+    gradient: "from-cyan-500 to-blue-500",
   },
   {
     icon: FileCheck,
     title: "Why Hallucinations Are Rejected",
     description:
       "Questions about non-Hindu texts (Quran, Bible), out-of-domain topics (cryptocurrency, Norse mythology), or entities not in the knowledge graph are immediately detected and rejected with low confidence. We don't guess.",
-    gradient: "from-rose-400 to-red-500",
+    gradient: "from-rose-500 to-red-500",
   },
   {
     icon: Eye,
@@ -71,7 +71,7 @@ const stories = [
     title: "Why Trust Matters",
     description:
       "You're exploring thousands of years of philosophical tradition. You deserve answers you can trust. AstroSage is open source, auditable, and built with the highest quality standards — 8/8 quality gates pass before every release.",
-    gradient: "from-green-400 to-emerald-500",
+    gradient: "from-green-500 to-emerald-500",
     span: true,
   },
 ];
@@ -93,15 +93,9 @@ function StoryCard({
       transition={{ duration: 0.6, delay: index * 0.08 }}
       className={story.span ? "md:col-span-2 lg:col-span-3" : ""}
     >
-      <div
-        className={`glass rounded-2xl p-8 h-full transition-all duration-500 ${
-          story.span
-            ? "hover:bg-white/[0.04]"
-            : "hover:bg-white/[0.04]"
-        }`}
-      >
+      <div className="card-premium p-8 h-full">
         <div
-          className={`inline-flex items-center justify-center w-12 h-12 rounded-xl bg-gradient-to-br ${story.gradient} mb-5`}
+          className={`inline-flex items-center justify-center w-12 h-12 rounded-xl bg-gradient-to-br ${story.gradient} mb-5 shadow-sm`}
         >
           <story.icon className="h-6 w-6 text-white" />
         </div>
@@ -123,7 +117,7 @@ export function StorySection() {
   const journeyInView = useInView(journeyRef, { once: true });
 
   return (
-    <section className="relative py-32 px-6">
+    <section className="relative py-32 px-6 bg-surface">
       <div className="max-w-6xl mx-auto">
         {/* Section title */}
         <motion.div
@@ -133,9 +127,9 @@ export function StorySection() {
           transition={{ duration: 0.8 }}
           className="text-center mb-6"
         >
-          <h2 className="font-serif text-4xl sm:text-5xl font-bold mb-4">
+          <h2 className="font-serif text-4xl sm:text-5xl font-bold mb-4 text-text-primary">
             Built Different by{" "}
-            <span className="gradient-gold">Design</span>
+            <span className="gradient-warm">Design</span>
           </h2>
           <p className="text-lg text-text-secondary max-w-2xl mx-auto">
             AstroSage combines modern AI engineering with rigorous scholarly standards.
@@ -164,7 +158,7 @@ export function StorySection() {
           initial={{ opacity: 0, y: 40 }}
           animate={journeyInView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.8 }}
-          className="mt-20 glass rounded-3xl p-10 sm:p-14 text-center relative overflow-hidden"
+          className="mt-20 card-premium p-10 sm:p-14 text-center relative overflow-hidden"
         >
           <div className="absolute inset-0 bg-gradient-to-br from-gold-500/5 via-transparent to-sacred-500/5 pointer-events-none" />
           <div className="relative z-10">
@@ -176,22 +170,22 @@ export function StorySection() {
             </blockquote>
             <div className="flex flex-wrap items-center justify-center gap-8 text-sm">
               <div className="text-center">
-                <div className="text-2xl font-bold text-gold-400 font-serif">120K+</div>
+                <div className="text-2xl font-bold text-gold-600 font-serif">120K+</div>
                 <div className="text-text-tertiary">Verified Chunks</div>
               </div>
               <div className="w-px h-10 bg-border" />
               <div className="text-center">
-                <div className="text-2xl font-bold text-gold-400 font-serif">5K+</div>
+                <div className="text-2xl font-bold text-gold-600 font-serif">5K+</div>
                 <div className="text-text-tertiary">Relationships</div>
               </div>
               <div className="w-px h-10 bg-border" />
               <div className="text-center">
-                <div className="text-2xl font-bold text-gold-400 font-serif">100%</div>
+                <div className="text-2xl font-bold text-gold-600 font-serif">100%</div>
                 <div className="text-text-tertiary">Hallucination Rejection</div>
               </div>
               <div className="w-px h-10 bg-border" />
               <div className="text-center">
-                <div className="text-2xl font-bold text-gold-400 font-serif">8/8</div>
+                <div className="text-2xl font-bold text-gold-600 font-serif">8/8</div>
                 <div className="text-text-tertiary">Quality Gates</div>
               </div>
             </div>

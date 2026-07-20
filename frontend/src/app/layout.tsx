@@ -36,16 +36,16 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className="dark">
+    <html lang="en">
       <body className={`${inter.variable} ${cormorant.variable} font-sans antialiased`}>
         {children}
         <Toaster
           position="top-right"
           toastOptions={{
             style: {
-              background: "rgba(18, 18, 30, 0.95)",
-              border: "1px solid rgba(255, 255, 255, 0.1)",
-              color: "#f0f0f5",
+              background: "rgba(255, 255, 255, 0.9)",
+              border: "1px solid rgba(60, 45, 30, 0.10)",
+              color: "#2c2418",
               backdropFilter: "blur(20px)",
             },
           }}

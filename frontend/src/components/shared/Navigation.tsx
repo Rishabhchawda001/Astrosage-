@@ -21,14 +21,22 @@ export function Navigation() {
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50">
-      <div className={`mx-auto max-w-7xl px-4 sm:px-6 ${isHome ? "" : "glass-strong"}`}>
-        <div className="flex h-16 items-center justify-between">
+      <div className={cn(
+        "mx-auto max-w-7xl px-4 sm:px-6 transition-all duration-300",
+        isHome ? "py-3" : "py-0"
+      )}>
+        <div className={cn(
+          "flex h-16 items-center justify-between rounded-2xl px-4 transition-all duration-300",
+          isHome
+            ? "bg-white/40 backdrop-blur-xl border border-border shadow-sm"
+            : "bg-white/70 backdrop-blur-xl border border-border shadow-sm"
+        )}>
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
-            <div className="h-8 w-8 rounded-lg bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center group-hover:shadow-lg group-hover:shadow-gold-500/20 transition-all duration-300">
-              <span className="text-surface text-sm font-bold">🕉</span>
+            <div className="h-8 w-8 rounded-lg bg-gradient-to-br from-gold-500 to-gold-700 flex items-center justify-center group-hover:shadow-lg group-hover:shadow-gold-500/20 transition-all duration-300">
+              <span className="text-white text-sm font-bold">🕉</span>
             </div>
-            <span className="font-serif text-xl font-semibold gradient-gold hidden sm:block">
+            <span className="font-serif text-xl font-semibold text-text-primary hidden sm:block">
               AstroSage
             </span>
           </Link>
@@ -42,19 +50,19 @@ export function Navigation() {
                 className={cn(
                   "flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200",
                   pathname === link.href
-                    ? "bg-gold-500/10 text-gold-400"
-                    : "text-text-secondary hover:text-text-primary hover:bg-white/5"
+                    ? "bg-gold-500/10 text-gold-700"
+                    : "text-text-secondary hover:text-text-primary hover:bg-black/[0.04]"
                 )}
               >
                 <link.icon className="h-4 w-4" />
                 {link.label}
               </Link>
             ))}
-            
+
             {/* Quality gate badge */}
-            <div className="ml-2 px-2.5 py-1 rounded-lg bg-emerald-500/10 border border-emerald-500/20 flex items-center gap-1.5">
-              <div className="w-1.5 h-1.5 rounded-full bg-emerald-400" />
-              <span className="text-[10px] font-semibold text-emerald-400 tracking-wide whitespace-nowrap">
+            <div className="ml-2 px-2.5 py-1 rounded-lg bg-success/10 border border-success/20 flex items-center gap-1.5">
+              <div className="w-1.5 h-1.5 rounded-full bg-success" />
+              <span className="text-[10px] font-semibold text-success tracking-wide whitespace-nowrap">
                 8/8 Quality Gates
               </span>
             </div>
@@ -63,7 +71,7 @@ export function Navigation() {
           {/* Direct to experience */}
           <Link
             href="/chat"
-            className="hidden md:inline-flex items-center gap-2 px-5 py-2 rounded-lg bg-gold-500 text-surface text-sm font-semibold hover:bg-gold-400 transition-all duration-300 shadow-lg shadow-gold-500/10 hover:shadow-gold-500/20"
+            className="hidden md:inline-flex items-center gap-2 px-5 py-2 rounded-lg bg-gradient-to-br from-gold-500 to-gold-600 text-white text-sm font-semibold hover:from-gold-400 hover:to-gold-500 transition-all duration-300 shadow-lg shadow-gold-500/10 hover:shadow-gold-500/20"
           >
             <MessageSquare className="h-4 w-4" />
             Start Asking
@@ -72,7 +80,7 @@ export function Navigation() {
           {/* Mobile menu button */}
           <button
             onClick={() => setMobileOpen(!mobileOpen)}
-            className="md:hidden p-2 rounded-lg text-text-secondary hover:text-text-primary hover:bg-white/5 transition-all"
+            className="md:hidden p-2 rounded-lg text-text-secondary hover:text-text-primary hover:bg-black/[0.04] transition-all"
             aria-label="Toggle menu"
           >
             {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
@@ -87,7 +95,7 @@ export function Navigation() {
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
-            className="md:hidden glass-strong mx-4 mt-2 rounded-xl overflow-hidden border border-border"
+            className="md:hidden bg-white/90 backdrop-blur-xl mx-4 mt-2 rounded-xl overflow-hidden border border-border shadow-lg"
           >
             <div className="p-2 space-y-1">
               {navLinks.map((link) => (
@@ -98,8 +106,8 @@ export function Navigation() {
                   className={cn(
                     "flex items-center gap-3 px-4 py-3 rounded-lg text-sm font-medium transition-all",
                     pathname === link.href
-                      ? "bg-gold-500/10 text-gold-400"
-                      : "text-text-secondary hover:text-text-primary hover:bg-white/5"
+                      ? "bg-gold-500/10 text-gold-700"
+                      : "text-text-secondary hover:text-text-primary hover:bg-black/[0.04]"
                   )}
                 >
                   <link.icon className="h-4 w-4" />
@@ -110,7 +118,7 @@ export function Navigation() {
               <Link
                 href="/chat"
                 onClick={() => setMobileOpen(false)}
-                className="flex items-center justify-center gap-2 px-4 py-3 rounded-lg bg-gold-500 text-surface font-semibold"
+                className="flex items-center justify-center gap-2 px-4 py-3 rounded-lg bg-gradient-to-br from-gold-500 to-gold-600 text-white font-semibold"
               >
                 <MessageSquare className="h-4 w-4" />
                 Start Asking
