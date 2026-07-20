@@ -45,12 +45,16 @@ async def test_create_conversation(auth_client):
 
 
 @pytest.mark.asyncio
-async def test_create_conversation_no_auth(client):
+async def test_create_conversation_anonymous(client):
+    """Anonymous users can create conversations (public beta)."""
     response = await client.post("/api/v1/conversations", json={
-        "title": "Test",
+        "title": "Anonymous test",
         "model": "gpt-4o-mini",
     })
-    assert response.status_code == 401
+    assert response.status_code == 201
+    data = response.json()
+    assert data["title"] == "Anonymous test"
+    assert "id" in data
 
 
 @pytest.mark.asyncio
@@ -141,7 +145,10 @@ async def test_update_title(auth_client):
     create_resp = await auth_client.post("/api/v1/conversations", json={"title": "Old title"})
     conv_id = create_resp.json()["id"]
 
-    resp = await auth_client.patch(f"/api/v1/conversations/{conv_id}/title?title=New+title")
+    resp = await auth_client.patch(
+        f"/api/v1/conversations/{conv_id}/title",
+        json={"title": "New title"},
+    )
     assert resp.status_code == 200
 
     get_resp = await auth_client.get(f"/api/v1/conversations/{conv_id}")
