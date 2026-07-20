@@ -46,6 +46,18 @@ export function StarField() {
     return dpr;
   }, []);
 
+  // Pause animation when not visible (saves mobile battery)
+  const isVisible = useRef(true);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => { isVisible.current = entry.isIntersecting; },
+      { threshold: 0.1 }
+    );
+    if (canvasRef.current) observer.observe(canvasRef.current);
+    return () => observer.disconnect();
+  }, []);
+
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;

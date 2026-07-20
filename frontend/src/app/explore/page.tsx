@@ -36,7 +36,7 @@ export default function ExplorePage() {
         const detail = await graph.entity(results[0].name);
         setSelectedEntity(detail);
       }
-    } catch { /* ignore */ }
+    } catch { toast.error("Entity search failed"); }
     setIsLoading(false);
   };
 
@@ -44,7 +44,7 @@ export default function ExplorePage() {
     try {
       const detail = await graph.entity(name);
       setSelectedEntity(detail);
-    } catch { toast.error("Path search failed"); }
+    } catch { toast.error("Failed to load entity details"); }
   };
 
   const handlePathSearch = async () => {
@@ -52,7 +52,7 @@ export default function ExplorePage() {
     try {
       const result = await graph.path(pathSource, pathTarget);
       setPathResult(result);
-    } catch { /* ignore */ }
+    } catch { toast.error("Path search failed"); }
   };
 
   return (
@@ -248,15 +248,16 @@ export default function ExplorePage() {
                   </h3>
                   <div className="space-y-2 max-h-[60vh] overflow-y-auto">
                     {selectedEntity.relationships.map((rel, i) => (
-                      <div
+                      <button
                         key={i}
-                        className="flex items-center gap-3 p-3 rounded-xl bg-white/[0.02] hover:bg-white/[0.04] transition-all"
+                        onClick={() => handleSelectEntity(rel.target_name)}
+                        className="w-full flex items-center gap-3 p-3 rounded-xl bg-white/[0.02] hover:bg-white/[0.04] transition-all text-left group cursor-pointer"
                       >
                         <div className="flex-1 flex items-center gap-2 min-w-0">
                           <span className="text-xs text-text-secondary">
                             {rel.direction === "outgoing" ? "→" : "←"}
                           </span>
-                          <span className="text-xs font-medium text-text-primary truncate">
+                          <span className="text-xs font-medium text-text-primary truncate group-hover:text-gold-400 transition-colors">
                             {rel.target_name}
                           </span>
                         </div>
@@ -266,7 +267,7 @@ export default function ExplorePage() {
                         <span className="text-xs text-text-tertiary">
                           {(rel.confidence / 100).toFixed(0)}%
                         </span>
-                      </div>
+                      </button>
                     ))}
                     {selectedEntity.relationships.length === 0 && (
                       <p className="text-sm text-text-tertiary py-4 text-center">
