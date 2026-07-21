@@ -56,7 +56,7 @@ const stories = [
     icon: FileCheck,
     title: "Why Hallucinations Are Rejected",
     description:
-      "Questions about non-Hindu texts (Quran, Bible), out-of-domain topics (cryptocurrency, Norse mythology), or entities not in the knowledge graph are immediately detected and rejected with low confidence. We don't guess.",
+      "Questions about non-Hindu texts, out-of-domain topics, or entities not in the knowledge graph are immediately detected and rejected with low confidence. We don't guess.",
     gradient: "from-rose-500 to-red-500",
   },
   {
@@ -77,29 +77,30 @@ const stories = [
 ];
 
 function StoryCard({
-  story, index,
+  story,
+  index,
 }: {
   story: (typeof stories)[0];
   index: number;
 }) {
   const ref = useRef(null);
-  const inView = useInView(ref, { once: true, margin: "-80px" });
+  const inView = useInView(ref, { once: true, margin: "-60px" });
 
   return (
     <motion.div
       ref={ref}
-      initial={{ opacity: 0, y: 50 }}
+      initial={{ opacity: 0, y: 40 }}
       animate={inView ? { opacity: 1, y: 0 } : {}}
-      transition={{ duration: 0.6, delay: index * 0.08 }}
+      transition={{ duration: 0.55, delay: index * 0.06, ease: "easeOut" }}
       className={story.span ? "md:col-span-2 lg:col-span-3" : ""}
     >
-      <div className="card-premium p-8 h-full">
+      <div className="card-premium p-7 sm:p-8 h-full group hover:shadow-lg transition-shadow duration-300">
         <div
-          className={`inline-flex items-center justify-center w-12 h-12 rounded-xl bg-gradient-to-br ${story.gradient} mb-5 shadow-sm`}
+          className={`inline-flex items-center justify-center w-11 h-11 rounded-xl bg-gradient-to-br ${story.gradient} mb-5 shadow-sm`}
         >
-          <story.icon className="h-6 w-6 text-white" />
+          <story.icon className="h-5 w-5 text-white" />
         </div>
-        <h3 className="font-serif text-xl font-semibold text-text-primary mb-3">
+        <h3 className="font-serif text-xl font-semibold text-text-primary mb-3 tracking-tight">
           {story.title}
         </h3>
         <p className="text-text-secondary leading-relaxed text-[15px]">
@@ -113,36 +114,34 @@ function StoryCard({
 export function StorySection() {
   const titleRef = useRef(null);
   const titleInView = useInView(titleRef, { once: true });
-  const journeyRef = useRef(null);
-  const journeyInView = useInView(journeyRef, { once: true });
 
   return (
-    <section className="relative py-32 px-6 bg-surface">
+    <section className="relative py-28 sm:py-32 px-6 bg-surface">
       <div className="max-w-6xl mx-auto">
         {/* Section title */}
         <motion.div
           ref={titleRef}
-          initial={{ opacity: 0, y: 40 }}
+          initial={{ opacity: 0, y: 30 }}
           animate={titleInView ? { opacity: 1, y: 0 } : {}}
-          transition={{ duration: 0.8 }}
+          transition={{ duration: 0.7, ease: "easeOut" }}
           className="text-center mb-6"
         >
-          <h2 className="font-serif text-4xl sm:text-5xl font-bold mb-4 text-text-primary">
+          <h2 className="font-serif text-4xl sm:text-5xl font-bold mb-4 text-text-primary tracking-tight">
             Built Different by{" "}
             <span className="gradient-warm">Design</span>
           </h2>
-          <p className="text-lg text-text-secondary max-w-2xl mx-auto">
+          <p className="text-lg text-text-secondary max-w-2xl mx-auto leading-relaxed">
             AstroSage combines modern AI engineering with rigorous scholarly standards.
             Here&apos;s how it works — and why you can trust it.
           </p>
         </motion.div>
 
-        {/* Visual divider */}
+        {/* Divider */}
         <motion.div
           initial={{ scaleX: 0 }}
           animate={titleInView ? { scaleX: 1 } : {}}
-          transition={{ duration: 0.8, delay: 0.3 }}
-          className="h-px bg-gradient-to-r from-transparent via-gold-500/30 to-transparent max-w-xs mx-auto mb-16"
+          transition={{ duration: 0.8, delay: 0.25 }}
+          className="h-px bg-gradient-to-r from-transparent via-gold-500/30 to-transparent max-w-xs mx-auto mb-14"
         />
 
         {/* Story cards grid */}
@@ -154,39 +153,39 @@ export function StorySection() {
 
         {/* Knowledge base stats strip */}
         <motion.div
-          ref={journeyRef}
-          initial={{ opacity: 0, y: 40 }}
-          animate={journeyInView ? { opacity: 1, y: 0 } : {}}
-          transition={{ duration: 0.8 }}
-          className="mt-20 card-premium p-10 sm:p-14 text-center relative overflow-hidden"
+          initial={{ opacity: 0, y: 30 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-60px" }}
+          transition={{ duration: 0.7, ease: "easeOut" }}
+          className="mt-16 card-premium p-10 sm:p-14 text-center relative overflow-hidden"
         >
-          <div className="absolute inset-0 bg-gradient-to-br from-gold-500/5 via-transparent to-sacred-500/5 pointer-events-none" />
+          <div className="absolute inset-0 bg-gradient-to-br from-gold-500/[0.04] via-transparent to-sacred-500/[0.04] pointer-events-none" />
           <div className="relative z-10">
-            <Quote className="h-8 w-8 mx-auto text-gold-400/40 mb-6" />
-            <blockquote className="font-serif text-2xl sm:text-3xl text-text-primary mb-6 leading-relaxed max-w-3xl mx-auto">
+            <Quote className="h-7 w-7 mx-auto text-gold-400/35 mb-5" />
+            <blockquote className="font-serif text-2xl sm:text-3xl text-text-primary mb-8 leading-relaxed max-w-3xl mx-auto">
               &ldquo;Knowledge is structured in consciousness. AstroSage
               makes that structure visible, verifiable, and eternally
               accessible.&rdquo;
             </blockquote>
-            <div className="flex flex-wrap items-center justify-center gap-8 text-sm">
+            <div className="flex flex-wrap items-center justify-center gap-6 sm:gap-8 text-sm">
               <div className="text-center">
                 <div className="text-2xl font-bold text-gold-600 font-serif">120K+</div>
-                <div className="text-text-tertiary">Verified Chunks</div>
+                <div className="text-text-tertiary text-xs mt-1">Verified Chunks</div>
               </div>
-              <div className="w-px h-10 bg-border" />
+              <div className="w-px h-9 bg-border" />
               <div className="text-center">
                 <div className="text-2xl font-bold text-gold-600 font-serif">5K+</div>
-                <div className="text-text-tertiary">Relationships</div>
+                <div className="text-text-tertiary text-xs mt-1">Relationships</div>
               </div>
-              <div className="w-px h-10 bg-border" />
+              <div className="w-px h-9 bg-border" />
               <div className="text-center">
                 <div className="text-2xl font-bold text-gold-600 font-serif">100%</div>
-                <div className="text-text-tertiary">Hallucination Rejection</div>
+                <div className="text-text-tertiary text-xs mt-1">Hallucination Rejection</div>
               </div>
-              <div className="w-px h-10 bg-border" />
+              <div className="w-px h-9 bg-border" />
               <div className="text-center">
                 <div className="text-2xl font-bold text-gold-600 font-serif">8/8</div>
-                <div className="text-text-tertiary">Quality Gates</div>
+                <div className="text-text-tertiary text-xs mt-1">Quality Gates</div>
               </div>
             </div>
           </div>

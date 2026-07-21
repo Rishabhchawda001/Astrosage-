@@ -9,10 +9,11 @@ interface Cloud {
   height: number;
   speed: number;
   opacity: number;
+  drift: number;
 }
 
-interface MountainRange {
-  peaks: { x: number; y: number }[];
+interface MountainLayer {
+  points: { x: number; y: number }[];
   color: string;
   parallax: number;
 }
@@ -25,6 +26,7 @@ interface Particle {
   driftX: number;
   driftSpeed: number;
   phase: number;
+  life: number;
 }
 
 export function CinematicBackground() {
@@ -46,384 +48,440 @@ export function CinematicBackground() {
     const canvas = canvasRef.current;
     if (!canvas) return;
     let dpr = resize(canvas);
-
     const ctx = canvas.getContext("2d")!;
     let t = 0;
+    let w = canvas.width;
+    let h = canvas.height;
 
-    // ── Generate mountain ranges ──
-    function genMountainRange(
+    // ── Smooth mountain generation using bezier-like interpolation ──
+    function genMountainPoints(
       baseY: number,
       numPeaks: number,
-      w: number,
-      h: number
+      amplitude: number,
+      seed: number
     ): { x: number; y: number }[] {
-      const peaks: { x: number; y: number }[] = [];
-      for (let i = 0; i <= numPeaks; i++) {
-        peaks.push({
-          x: (i / numPeaks) * w * dpr,
-          y:
-            baseY * h * dpr +
-            (Math.random() - 0.5) * h * dpr * 0.08 -
-            Math.sin((i / numPeaks) * Math.PI) * h * dpr * 0.04,
-        });
+      const points: { x: number; y: number }[] = [];
+      const step = w / (numPeaks - 1);
+      for (let i = 0; i < numPeaks; i++) {
+        const x = i * step;
+        const noise =
+          Math.sin(i * 1.7 + seed) * 0.4 +
+          Math.sin(i * 3.1 + seed * 2) * 0.2 +
+          Math.sin(i * 0.5 + seed * 0.7) * 0.4;
+        const peakShape = Math.sin((i / (numPeaks - 1)) * Math.PI);
+        const y = baseY * h + noise * amplitude * h + peakShape * amplitude * h * 0.3;
+        points.push({ x, y });
       }
-      return peaks;
+      return points;
     }
 
-    const farMountains: MountainRange = {
-      peaks: [],
-      color: "rgba(140, 130, 120, 0.25)",
-      parallax: 0.003,
+    let farMountains: MountainLayer = {
+      points: [],
+      color: "rgba(150, 140, 128, 0.20)",
+      parallax: 0.002,
     };
-    const midMountains: MountainRange = {
-      peaks: [],
-      color: "rgba(100, 90, 80, 0.35)",
-      parallax: 0.006,
+    let midMountains: MountainLayer = {
+      points: [],
+      color: "rgba(110, 100, 88, 0.30)",
+      parallax: 0.005,
     };
-    const nearMountains: MountainRange = {
-      peaks: [],
-      color: "rgba(70, 62, 55, 0.45)",
-      parallax: 0.01,
+    let nearMountains: MountainLayer = {
+      points: [],
+      color: "rgba(75, 68, 58, 0.42)",
+      parallax: 0.009,
     };
 
     function initMountains() {
-      const w = canvas!.width;
-      const h = canvas!.height;
-      farMountains.peaks = genMountainRange(0.62, 12, w, h);
-      midMountains.peaks = genMountainRange(0.68, 10, w, h);
-      nearMountains.peaks = genMountainRange(0.74, 8, w, h);
+      if (!canvas) return;
+      w = canvas.width;
+      h = canvas.height;
+      farMountains.points = genMountainPoints(0.60, 14, 0.04, 42);
+      midMountains.points = genMountainPoints(0.66, 12, 0.05, 17);
+      nearMountains.points = genMountainPoints(0.73, 10, 0.04, 73);
     }
     initMountains();
 
-    // ── Generate clouds ──
+    // ── Clouds ──
     const clouds: Cloud[] = [];
-    for (let i = 0; i < 6; i++) {
+    for (let i = 0; i < 7; i++) {
       clouds.push({
-        x: Math.random() * 2 - 0.5,
-        y: 0.15 + Math.random() * 0.2,
-        width: 0.12 + Math.random() * 0.15,
-        height: 0.02 + Math.random() * 0.02,
-        speed: 0.00003 + Math.random() * 0.00004,
-        opacity: 0.12 + Math.random() * 0.15,
+        x: Math.random() * 2.5 - 0.75,
+        y: 0.10 + Math.random() * 0.22,
+        width: 0.10 + Math.random() * 0.18,
+        height: 0.015 + Math.random() * 0.02,
+        speed: 0.00002 + Math.random() * 0.00003,
+        opacity: 0.08 + Math.random() * 0.12,
+        drift: Math.sin(Math.random() * 10) * 0.00001,
       });
     }
 
-    // ── Floating particles (dust motes in sunlight) ──
+    // ── Particles ──
     let particles: Particle[] = [];
     function spawnParticle() {
-      const w = canvas!.width;
-      const h = canvas!.height;
       particles.push({
         x: Math.random() * w,
-        y: h * 0.4 + Math.random() * h * 0.4,
-        size: 1 + Math.random() * 2,
+        y: h * 0.35 + Math.random() * h * 0.5,
+        size: 0.8 + Math.random() * 1.8,
         opacity: 0,
-        driftX: (Math.random() - 0.5) * 0.15,
-        driftSpeed: 0.08 + Math.random() * 0.12,
+        driftX: (Math.random() - 0.5) * 0.12,
+        driftSpeed: 0.05 + Math.random() * 0.10,
         phase: Math.random() * Math.PI * 2,
+        life: 0,
       });
     }
 
-    // ── Draw functions ──
-
-    function drawSky(w: number, h: number) {
+    // ── Draw: Sky ──
+    function drawSky() {
       const grad = ctx.createLinearGradient(0, 0, 0, h);
-      // Top: soft warm gray-blue → middle: warm ivory → horizon: warm gold
-      grad.addColorStop(0, "#c8bfb4");
-      grad.addColorStop(0.3, "#e0d8cc");
-      grad.addColorStop(0.55, "#ede6d8");
-      grad.addColorStop(0.7, "#f0e0c0");
-      grad.addColorStop(0.85, "#e8c888");
-      grad.addColorStop(1.0, "#d4a050");
+      grad.addColorStop(0, "#b8b0a5");
+      grad.addColorStop(0.15, "#ccc4b8");
+      grad.addColorStop(0.30, "#ddd5c8");
+      grad.addColorStop(0.50, "#e8dece");
+      grad.addColorStop(0.65, "#f0e4cc");
+      grad.addColorStop(0.78, "#ecd0a0");
+      grad.addColorStop(0.90, "#d8b470");
+      grad.addColorStop(1.0, "#c49840");
       ctx.fillStyle = grad;
       ctx.fillRect(0, 0, w, h);
     }
 
-    function drawSun(w: number, h: number) {
-      const sunX = w * 0.65;
-      const sunY = h * 0.62;
-      const sunR = Math.min(w, h) * 0.06;
+    // ── Draw: Sun with glow ──
+    function drawSun() {
+      const sx = w * 0.62;
+      const sy = h * 0.60;
+      const sr = Math.min(w, h) * 0.055;
 
-      // Outer glow
-      const glow = ctx.createRadialGradient(sunX, sunY, 0, sunX, sunY, sunR * 5);
-      glow.addColorStop(0, "rgba(255, 210, 120, 0.25)");
-      glow.addColorStop(0.4, "rgba(255, 200, 100, 0.10)");
+      // Outer atmospheric glow
+      const glow = ctx.createRadialGradient(sx, sy, 0, sx, sy, sr * 6);
+      glow.addColorStop(0, "rgba(255, 215, 130, 0.22)");
+      glow.addColorStop(0.3, "rgba(255, 205, 110, 0.10)");
+      glow.addColorStop(0.7, "rgba(255, 190, 90, 0.03)");
       glow.addColorStop(1, "rgba(255, 180, 80, 0)");
       ctx.fillStyle = glow;
       ctx.fillRect(0, 0, w, h);
 
       // Sun disc
-      const sunGrad = ctx.createRadialGradient(sunX, sunY, 0, sunX, sunY, sunR);
-      sunGrad.addColorStop(0, "rgba(255, 220, 140, 0.9)");
-      sunGrad.addColorStop(0.6, "rgba(255, 200, 110, 0.6)");
-      sunGrad.addColorStop(1, "rgba(255, 180, 80, 0)");
-      ctx.fillStyle = sunGrad;
+      const sg = ctx.createRadialGradient(sx, sy, 0, sx, sy, sr);
+      sg.addColorStop(0, "rgba(255, 225, 155, 0.85)");
+      sg.addColorStop(0.5, "rgba(255, 210, 130, 0.55)");
+      sg.addColorStop(0.8, "rgba(255, 195, 105, 0.20)");
+      sg.addColorStop(1, "rgba(255, 180, 80, 0)");
+      ctx.fillStyle = sg;
       ctx.beginPath();
-      ctx.arc(sunX, sunY, sunR, 0, Math.PI * 2);
+      ctx.arc(sx, sy, sr, 0, Math.PI * 2);
       ctx.fill();
     }
 
-    function drawLightRays(w: number, h: number) {
-      const sunX = w * 0.65;
-      const sunY = h * 0.62;
+    // ── Draw: Light rays ──
+    function drawLightRays() {
+      const sx = w * 0.62;
+      const sy = h * 0.60;
       ctx.save();
-      ctx.globalAlpha = 0.04 + Math.sin(t * 0.0005) * 0.01;
-      for (let i = 0; i < 8; i++) {
-        const angle = (i / 8) * Math.PI * 0.6 - 0.1;
-        const rayLen = h * 0.8;
+      ctx.globalAlpha = 0.035 + Math.sin(t * 0.0004) * 0.01;
+      for (let i = 0; i < 12; i++) {
+        const angle = (i / 12) * Math.PI * 0.7 - 0.15;
+        const rayLen = h * 0.9;
+        const rayWidth = w * 0.02 + Math.sin(i * 2.1 + t * 0.0003) * w * 0.005;
         ctx.beginPath();
-        ctx.moveTo(sunX, sunY);
+        ctx.moveTo(sx, sy);
         ctx.lineTo(
-          sunX + Math.cos(angle - 0.015) * rayLen,
-          sunY + Math.sin(angle - 0.015) * rayLen
+          sx + Math.cos(angle - 0.015) * rayLen,
+          sy + Math.sin(angle - 0.015) * rayLen
         );
         ctx.lineTo(
-          sunX + Math.cos(angle + 0.015) * rayLen,
-          sunY + Math.sin(angle + 0.015) * rayLen
+          sx + Math.cos(angle + 0.015) * rayLen,
+          sy + Math.sin(angle + 0.015) * rayLen
         );
         ctx.closePath();
-        ctx.fillStyle = "rgba(255, 220, 140, 0.5)";
+        const rayGrad = ctx.createLinearGradient(
+          sx, sy,
+          sx + Math.cos(angle) * rayLen,
+          sy + Math.sin(angle) * rayLen
+        );
+        rayGrad.addColorStop(0, "rgba(255, 215, 140, 0.5)");
+        rayGrad.addColorStop(0.3, "rgba(255, 200, 120, 0.2)");
+        rayGrad.addColorStop(1, "rgba(255, 190, 100, 0)");
+        ctx.fillStyle = rayGrad;
         ctx.fill();
       }
       ctx.restore();
     }
 
-    function drawMountains(range: MountainRange, w: number, h: number) {
-      const offset = t * range.parallax;
-      ctx.beginPath();
-      ctx.moveTo(-10, h);
-      for (const peak of range.peaks) {
-        const x = ((peak.x + offset) % (w + 100)) - 50;
-        ctx.lineTo(x, peak.y);
-      }
-      ctx.lineTo(w + 10, h);
-      ctx.closePath();
-      ctx.fillStyle = range.color;
-      ctx.fill();
-    }
+    // ── Draw: Clouds ──
+    function drawClouds() {
+      for (const c of clouds) {
+        c.x += c.speed + c.drift;
+        if (c.x > 2) c.x = -c.width - 0.2;
 
-    function drawClouds(w: number, h: number) {
-      for (const cloud of clouds) {
-        cloud.x += cloud.speed;
-        if (cloud.x > 1.3) cloud.x = -cloud.width - 0.1;
-
-        const cx = cloud.x * w;
-        const cy = cloud.y * h;
-        const cw = cloud.width * w;
-        const ch = cloud.height * h;
+        const cx = c.x * w;
+        const cy = c.y * h;
+        const cw = c.width * w;
+        const ch = c.height * h;
 
         ctx.save();
-        ctx.globalAlpha = cloud.opacity;
-
-        // Cloud body - multiple overlapping ellipses
-        const drawBlob = (bx: number, by: number, rw: number, rh: number) => {
-          ctx.beginPath();
-          ctx.ellipse(bx, by, rw, rh, 0, 0, Math.PI * 2);
-          ctx.fill();
-        };
-
-        ctx.fillStyle = "rgba(255, 250, 240, 0.8)";
-        drawBlob(cx, cy, cw * 0.4, ch);
-        drawBlob(cx - cw * 0.25, cy + ch * 0.3, cw * 0.3, ch * 0.8);
-        drawBlob(cx + cw * 0.2, cy + ch * 0.2, cw * 0.35, ch * 0.7);
-        drawBlob(cx + cw * 0.4, cy + ch * 0.4, cw * 0.25, ch * 0.6);
-
-        // Cloud highlight
-        ctx.fillStyle = "rgba(255, 240, 200, 0.4)";
-        drawBlob(cx - cw * 0.1, cy - ch * 0.2, cw * 0.3, ch * 0.5);
-
+        ctx.globalAlpha = c.opacity + Math.sin(t * 0.0002 + c.x * 5) * 0.02;
+        const cg = ctx.createRadialGradient(cx, cy, 0, cx, cy, cw * 0.5);
+        cg.addColorStop(0, "rgba(240, 235, 225, 0.8)");
+        cg.addColorStop(0.5, "rgba(235, 228, 215, 0.4)");
+        cg.addColorStop(1, "rgba(230, 222, 208, 0)");
+        ctx.fillStyle = cg;
+        ctx.beginPath();
+        ctx.ellipse(cx, cy, cw * 0.5, ch, 0, 0, Math.PI * 2);
+        ctx.fill();
+        // Secondary lobe for organic shape
+        ctx.beginPath();
+        ctx.ellipse(cx + cw * 0.2, cy - ch * 0.3, cw * 0.3, ch * 0.7, 0, 0, Math.PI * 2);
+        ctx.fill();
         ctx.restore();
       }
     }
 
-    function drawTempleSilhouette(w: number, h: number) {
-      const tx = w * 0.35;
-      const ty = h * 0.72;
-      const tw = w * 0.04;
+    // ── Draw: Smooth mountains ──
+    function drawMountain(layer: MountainLayer) {
+      const pts = layer.points;
+      const offset = Math.sin(t * 0.0002) * layer.parallax * w * 0.3;
 
-      ctx.fillStyle = "rgba(80, 70, 55, 0.55)";
-
-      // Main temple body
+      ctx.save();
+      ctx.fillStyle = layer.color;
       ctx.beginPath();
-      ctx.moveTo(tx - tw * 0.5, ty);
-      ctx.lineTo(tx - tw * 0.4, ty - tw * 1.2);
-      ctx.lineTo(tx - tw * 0.25, ty - tw * 1.5);
-      ctx.lineTo(tx - tw * 0.15, ty - tw * 1.8);
-      ctx.lineTo(tx - tw * 0.08, ty - tw * 2.0);
-      ctx.lineTo(tx, ty - tw * 2.4);
-      ctx.lineTo(tx + tw * 0.08, ty - tw * 2.0);
-      ctx.lineTo(tx + tw * 0.15, ty - tw * 1.8);
-      ctx.lineTo(tx + tw * 0.25, ty - tw * 1.5);
-      ctx.lineTo(tx + tw * 0.4, ty - tw * 1.2);
-      ctx.lineTo(tx + tw * 0.5, ty);
+      ctx.moveTo(-10 + offset, h + 10);
+
+      // Draw smooth curve through points
+      ctx.moveTo(pts[0].x + offset, pts[0].y);
+      for (let i = 1; i < pts.length; i++) {
+        const prev = pts[i - 1];
+        const curr = pts[i];
+        const cpx = (prev.x + curr.x) / 2 + offset;
+        ctx.quadraticCurveTo(prev.x + offset, prev.y, cpx, (prev.y + curr.y) / 2);
+      }
+      ctx.lineTo(pts[pts.length - 1].x + offset, pts[pts.length - 1].y);
+      ctx.lineTo(w + 10, h + 10);
+      ctx.lineTo(-10, h + 10);
       ctx.closePath();
       ctx.fill();
-
-      // Temple spire glow
-      const spireGlow = ctx.createRadialGradient(
-        tx, ty - tw * 2.4, 0,
-        tx, ty - tw * 2.4, tw * 0.3
-      );
-      spireGlow.addColorStop(0, "rgba(212, 160, 48, 0.15)");
-      spireGlow.addColorStop(1, "rgba(212, 160, 48, 0)");
-      ctx.fillStyle = spireGlow;
-      ctx.beginPath();
-      ctx.arc(tx, ty - tw * 2.4, tw * 0.3, 0, Math.PI * 2);
-      ctx.fill();
-
-      // Pillars
-      ctx.fillStyle = "rgba(70, 62, 48, 0.45)";
-      for (let i = -2; i <= 2; i++) {
-        const px = tx + i * tw * 0.15;
-        ctx.fillRect(px - 1, ty - tw * 0.9, 2.5, tw * 0.9);
-      }
+      ctx.restore();
     }
 
-    function drawChariotSilhouette(w: number, h: number) {
-      const cx = w * 0.7;
-      const cy = h * 0.7;
+    // ── Draw: Temple silhouette ──
+    function drawTemple() {
+      const tx = w * 0.45;
+      const baseY = h * 0.70;
       const scale = Math.min(w, h) * 0.0008;
 
       ctx.save();
-      ctx.fillStyle = "rgba(65, 55, 42, 0.45)";
-      ctx.translate(cx, cy);
-      ctx.scale(scale, scale);
+      ctx.fillStyle = "rgba(60, 52, 42, 0.50)";
 
-      // Chariot body
+      // Main tower (shikhara)
       ctx.beginPath();
-      ctx.moveTo(-30, 0);
-      ctx.lineTo(-25, -25);
-      ctx.lineTo(25, -25);
-      ctx.lineTo(30, 0);
+      ctx.moveTo(tx - 18 * scale, baseY);
+      ctx.lineTo(tx - 12 * scale, baseY - 60 * scale);
+      ctx.lineTo(tx - 8 * scale, baseY - 90 * scale);
+      ctx.lineTo(tx - 4 * scale, baseY - 110 * scale);
+      ctx.lineTo(tx, baseY - 125 * scale);
+      ctx.lineTo(tx + 4 * scale, baseY - 110 * scale);
+      ctx.lineTo(tx + 8 * scale, baseY - 90 * scale);
+      ctx.lineTo(tx + 12 * scale, baseY - 60 * scale);
+      ctx.lineTo(tx + 18 * scale, baseY);
       ctx.closePath();
       ctx.fill();
 
-      // Chariot wheels
+      // Mandapa (base platform)
+      ctx.fillRect(tx - 30 * scale, baseY, 60 * scale, 8 * scale);
+
+      // Side pillars
+      ctx.fillRect(tx - 22 * scale, baseY - 30 * scale, 3 * scale, 30 * scale);
+      ctx.fillRect(tx + 19 * scale, baseY - 30 * scale, 3 * scale, 30 * scale);
+
+      // Kalasha (spire top)
       ctx.beginPath();
-      ctx.arc(-20, 5, 8, 0, Math.PI * 2);
-      ctx.fill();
-      ctx.beginPath();
-      ctx.arc(20, 5, 8, 0, Math.PI * 2);
+      ctx.arc(tx, baseY - 128 * scale, 3 * scale, 0, Math.PI * 2);
       ctx.fill();
 
-      // Horse silhouette (simplified)
+      // Gold glow on spire
+      ctx.globalAlpha = 0.25 + Math.sin(t * 0.0006) * 0.08;
+      const sg = ctx.createRadialGradient(
+        tx, baseY - 115 * scale, 0,
+        tx, baseY - 115 * scale, 25 * scale
+      );
+      sg.addColorStop(0, "rgba(212, 160, 48, 0.4)");
+      sg.addColorStop(1, "rgba(212, 160, 48, 0)");
+      ctx.fillStyle = sg;
       ctx.beginPath();
-      ctx.moveTo(-30, -10);
-      ctx.lineTo(-55, -15);
-      ctx.lineTo(-60, -35);
-      ctx.lineTo(-55, -42);
-      ctx.lineTo(-50, -38);
-      ctx.lineTo(-48, -30);
-      ctx.lineTo(-42, -25);
-      ctx.lineTo(-38, -15);
+      ctx.arc(tx, baseY - 115 * scale, 25 * scale, 0, Math.PI * 2);
+      ctx.fill();
+
+      ctx.restore();
+    }
+
+    // ── Draw: Chariot silhouette (Krishna & Arjuna) ──
+    function drawChariot() {
+      const cx = w * 0.68;
+      const cy = h * 0.72;
+      const s = Math.min(w, h) * 0.0006;
+
+      ctx.save();
+      ctx.fillStyle = "rgba(55, 48, 38, 0.45)";
+
+      // Chariot body
+      ctx.beginPath();
+      ctx.moveTo(cx - 10 * s, cy);
+      ctx.lineTo(cx + 30 * s, cy);
+      ctx.lineTo(cx + 32 * s, cy - 12 * s);
+      ctx.lineTo(cx - 8 * s, cy - 12 * s);
+      ctx.closePath();
+      ctx.fill();
+
+      // Wheels
+      ctx.beginPath();
+      ctx.arc(cx - 2 * s, cy + 3 * s, 4 * s, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.beginPath();
+      ctx.arc(cx + 22 * s, cy + 3 * s, 4 * s, 0, Math.PI * 2);
+      ctx.fill();
+
+      // Horse body
+      ctx.beginPath();
+      ctx.moveTo(cx - 10 * s, cy - 8 * s);
+      ctx.bezierCurveTo(cx - 30 * s, cy - 14 * s, cx - 40 * s, cy - 20 * s, cx - 48 * s, cy - 16 * s);
+      ctx.bezierCurveTo(cx - 52 * s, cy - 14 * s, cx - 54 * s, cy - 8 * s, cx - 50 * s, cy - 2 * s);
+      ctx.lineTo(cx - 10 * s, cy - 2 * s);
+      ctx.closePath();
+      ctx.fill();
+
+      // Horse neck and head
+      ctx.beginPath();
+      ctx.moveTo(cx - 42 * s, cy - 16 * s);
+      ctx.bezierCurveTo(cx - 48 * s, cy - 32 * s, cx - 52 * s, cy - 36 * s, cx - 56 * s, cy - 32 * s);
+      ctx.bezierCurveTo(cx - 58 * s, cy - 30 * s, cx - 56 * s, cy - 26 * s, cx - 50 * s, cy - 22 * s);
+      ctx.lineTo(cx - 42 * s, cy - 16 * s);
       ctx.closePath();
       ctx.fill();
 
       // Horse legs
-      ctx.fillRect(-58, -15, 2, 15);
-      ctx.fillRect(-52, -15, 2, 15);
-      ctx.fillRect(-45, -12, 2, 12);
-      ctx.fillRect(-40, -10, 2, 10);
+      ctx.fillRect(cx - 46 * s, cy - 2 * s, 1.5 * s, 8 * s);
+      ctx.fillRect(cx - 38 * s, cy - 2 * s, 1.5 * s, 7 * s);
+      ctx.fillRect(cx - 20 * s, cy - 2 * s, 1.5 * s, 8 * s);
+      ctx.fillRect(cx - 12 * s, cy - 2 * s, 1.5 * s, 7 * s);
 
-      // Figure 1 - Krishna (driver, slightly taller)
+      // Krishna (charioteer, taller)
       ctx.beginPath();
-      ctx.moveTo(-5, -25);
-      ctx.lineTo(-8, -55);
-      ctx.lineTo(-4, -62);
-      ctx.lineTo(0, -55);
-      ctx.lineTo(5, -25);
+      ctx.moveTo(cx + 2 * s, cy - 12 * s);
+      ctx.lineTo(cx + 1 * s, cy - 40 * s);
+      ctx.bezierCurveTo(cx + 1 * s, cy - 44 * s, cx + 3 * s, cy - 48 * s, cx + 5 * s, cy - 48 * s);
+      ctx.bezierCurveTo(cx + 7 * s, cy - 48 * s, cx + 9 * s, cy - 44 * s, cx + 9 * s, cy - 40 * s);
+      ctx.lineTo(cx + 8 * s, cy - 12 * s);
       ctx.closePath();
       ctx.fill();
-      // Head
+      // Krishna head
       ctx.beginPath();
-      ctx.arc(0, -65, 5, 0, Math.PI * 2);
+      ctx.arc(cx + 5 * s, cy - 51 * s, 4 * s, 0, Math.PI * 2);
       ctx.fill();
-
-      // Figure 2 - Arjuna (seated/reclining)
+      // Crown peak
       ctx.beginPath();
-      ctx.moveTo(8, -25);
-      ctx.lineTo(10, -45);
-      ctx.lineTo(16, -50);
-      ctx.lineTo(22, -45);
-      ctx.lineTo(20, -25);
+      ctx.moveTo(cx + 2 * s, cy - 53 * s);
+      ctx.lineTo(cx + 5 * s, cy - 58 * s);
+      ctx.lineTo(cx + 8 * s, cy - 53 * s);
       ctx.closePath();
       ctx.fill();
-      // Head
+
+      // Arjuna (seated)
       ctx.beginPath();
-      ctx.arc(18, -52, 4, 0, Math.PI * 2);
+      ctx.moveTo(cx + 14 * s, cy - 12 * s);
+      ctx.lineTo(cx + 15 * s, cy - 30 * s);
+      ctx.bezierCurveTo(cx + 15 * s, cy - 34 * s, cx + 17 * s, cy - 36 * s, cx + 19 * s, cy - 36 * s);
+      ctx.bezierCurveTo(cx + 21 * s, cy - 36 * s, cx + 23 * s, cy - 34 * s, cx + 23 * s, cy - 30 * s);
+      ctx.lineTo(cx + 24 * s, cy - 12 * s);
+      ctx.closePath();
+      ctx.fill();
+      // Arjuna head
+      ctx.beginPath();
+      ctx.arc(cx + 19 * s, cy - 38 * s, 3.5 * s, 0, Math.PI * 2);
       ctx.fill();
 
-      // Chariot flag (dharma flag)
+      // Dharma flag
+      ctx.strokeStyle = "rgba(55, 48, 38, 0.45)";
+      ctx.lineWidth = 1.5 * s;
       ctx.beginPath();
-      ctx.moveTo(0, -65);
-      ctx.lineTo(0, -85);
-      ctx.lineTo(15, -80);
-      ctx.lineTo(0, -75);
+      ctx.moveTo(cx + 5 * s, cy - 58 * s);
+      ctx.lineTo(cx + 5 * s, cy - 75 * s);
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.moveTo(cx + 5 * s, cy - 75 * s);
+      ctx.lineTo(cx + 18 * s, cy - 70 * s);
+      ctx.lineTo(cx + 5 * s, cy - 65 * s);
       ctx.closePath();
       ctx.fill();
 
       ctx.restore();
     }
 
-    function drawShivaPresence(w: number, h: number) {
-      // Subtle crescent moon in the upper sky
-      const mx = w * 0.2;
-      const my = h * 0.12;
-      const mr = Math.min(w, h) * 0.02;
+    // ── Draw: Shiva presence (crescent moon) ──
+    function drawShivaPresence() {
+      const mx = w * 0.18;
+      const my = h * 0.10;
+      const mr = Math.min(w, h) * 0.018;
 
       ctx.save();
-      ctx.globalAlpha = 0.15 + Math.sin(t * 0.0003) * 0.03;
+      ctx.globalAlpha = 0.14 + Math.sin(t * 0.0003) * 0.03;
 
       // Moon glow
-      const moonGlow = ctx.createRadialGradient(mx, my, 0, mx, my, mr * 4);
-      moonGlow.addColorStop(0, "rgba(200, 180, 160, 0.3)");
-      moonGlow.addColorStop(1, "rgba(200, 180, 160, 0)");
-      ctx.fillStyle = moonGlow;
+      const mg = ctx.createRadialGradient(mx, my, 0, mx, my, mr * 5);
+      mg.addColorStop(0, "rgba(210, 200, 185, 0.25)");
+      mg.addColorStop(0.5, "rgba(200, 190, 175, 0.08)");
+      mg.addColorStop(1, "rgba(200, 190, 175, 0)");
+      ctx.fillStyle = mg;
       ctx.beginPath();
-      ctx.arc(mx, my, mr * 4, 0, Math.PI * 2);
+      ctx.arc(mx, my, mr * 5, 0, Math.PI * 2);
       ctx.fill();
 
       // Crescent moon
-      ctx.fillStyle = "rgba(220, 210, 195, 0.8)";
+      ctx.fillStyle = "rgba(225, 218, 205, 0.8)";
       ctx.beginPath();
       ctx.arc(mx, my, mr, 0, Math.PI * 2);
       ctx.fill();
-      // Cut out to make crescent
       ctx.globalCompositeOperation = "destination-out";
       ctx.beginPath();
-      ctx.arc(mx + mr * 0.4, my - mr * 0.2, mr * 0.85, 0, Math.PI * 2);
+      ctx.arc(mx + mr * 0.4, my - mr * 0.15, mr * 0.82, 0, Math.PI * 2);
       ctx.fill();
       ctx.globalCompositeOperation = "source-over";
 
       ctx.restore();
     }
 
-    function drawMist(w: number, h: number) {
-      const mistY = h * 0.72;
+    // ── Draw: Valley mist ──
+    function drawMist() {
+      const mistY = h * 0.70;
       const grad = ctx.createLinearGradient(0, mistY, 0, h);
-      grad.addColorStop(0, "rgba(232, 222, 208, 0)");
-      grad.addColorStop(0.3, "rgba(232, 222, 208, 0.15)");
-      grad.addColorStop(0.6, "rgba(240, 232, 218, 0.25)");
-      grad.addColorStop(1, "rgba(248, 246, 242, 0.6)");
+      grad.addColorStop(0, "rgba(232, 224, 210, 0)");
+      grad.addColorStop(0.2, "rgba(235, 228, 215, 0.08)");
+      grad.addColorStop(0.5, "rgba(240, 234, 220, 0.18)");
+      grad.addColorStop(0.8, "rgba(245, 240, 230, 0.35)");
+      grad.addColorStop(1, "rgba(248, 246, 242, 0.65)");
       ctx.fillStyle = grad;
       ctx.fillRect(0, mistY, w, h - mistY);
     }
 
-    function drawParticles(w: number, h: number) {
-      if (Math.random() < 0.04) spawnParticle();
-      particles = particles.filter((p) => p.opacity > 0.001);
+    // ── Draw: Floating particles ──
+    function drawParticles() {
+      if (Math.random() < 0.03) spawnParticle();
+      particles = particles.filter((p) => p.life < 300);
 
       for (const p of particles) {
-        p.x += p.driftX + Math.sin(t * 0.001 + p.phase) * 0.08;
+        p.x += p.driftX + Math.sin(t * 0.0008 + p.phase) * 0.06;
         p.y -= p.driftSpeed;
-        p.opacity = Math.min(p.opacity + 0.005, 0.3) * (1 - (p.y / h) * 0.002);
+        p.life++;
 
-        if (p.y < 0) p.opacity *= 0.5;
+        // Fade in and out
+        if (p.life < 40) p.opacity = p.life / 40 * 0.25;
+        else if (p.life > 250) p.opacity = Math.max(0, (300 - p.life) / 50 * 0.25);
+        else p.opacity = 0.25;
+
+        if (p.y < 0) p.opacity *= 0.3;
 
         ctx.beginPath();
         ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
-        const warmth = Math.sin(t * 0.001 + p.phase) * 0.5 + 0.5;
-        ctx.fillStyle = `rgba(${200 + warmth * 55}, ${180 + warmth * 40}, ${140 + warmth * 30}, ${p.opacity})`;
+        const warmth = Math.sin(t * 0.0008 + p.phase) * 0.5 + 0.5;
+        ctx.fillStyle = `rgba(${210 + warmth * 40}, ${190 + warmth * 30}, ${150 + warmth * 20}, ${p.opacity})`;
         ctx.fill();
       }
     }
@@ -431,38 +489,40 @@ export function CinematicBackground() {
     // ── Main animation loop ──
     const animate = () => {
       t++;
-      const w = canvas.width;
-      const h = canvas.height;
+      w = canvas.width;
+      h = canvas.height;
 
       ctx.clearRect(0, 0, w, h);
 
-      drawSky(w, h);
-      drawSun(w, h);
-      drawLightRays(w, h);
-      drawShivaPresence(w, h);
-      drawClouds(w, h);
-      drawMountains(farMountains, w, h);
-      drawMountains(midMountains, w, h);
-      drawTempleSilhouette(w, h);
-      drawChariotSilhouette(w, h);
-      drawMountains(nearMountains, w, h);
-      drawMist(w, h);
-      drawParticles(w, h);
+      drawSky();
+      drawSun();
+      drawLightRays();
+      drawShivaPresence();
+      drawClouds();
+      drawMountain(farMountains);
+      drawMountain(midMountains);
+      drawTemple();
+      drawChariot();
+      drawMountain(nearMountains);
+      drawMist();
+      drawParticles();
 
-      // Bottom fade to match page background
-      const bottomGrad = ctx.createLinearGradient(0, h * 0.85, 0, h);
-      bottomGrad.addColorStop(0, "rgba(248, 246, 242, 0)");
-      bottomGrad.addColorStop(1, "rgba(248, 246, 242, 0.95)");
-      ctx.fillStyle = bottomGrad;
-      ctx.fillRect(0, h * 0.85, w, h * 0.15);
+      // Bottom fade to page background
+      const bGrad = ctx.createLinearGradient(0, h * 0.82, 0, h);
+      bGrad.addColorStop(0, "rgba(248, 246, 242, 0)");
+      bGrad.addColorStop(0.5, "rgba(248, 246, 242, 0.4)");
+      bGrad.addColorStop(1, "rgba(248, 246, 242, 0.97)");
+      ctx.fillStyle = bGrad;
+      ctx.fillRect(0, h * 0.82, w, h * 0.18);
 
       animRef.current = requestAnimationFrame(animate);
     };
-
     animate();
 
     const handleResize = () => {
       dpr = resize(canvas);
+      w = canvas.width;
+      h = canvas.height;
       initMountains();
     };
     window.addEventListener("resize", handleResize);

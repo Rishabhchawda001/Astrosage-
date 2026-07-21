@@ -14,8 +14,8 @@ export default function Home() {
       <CTASection />
 
       {/* Footer */}
-      <footer className="relative z-10 border-t border-border py-12 px-6 bg-surface/80 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
+      <footer className="relative z-10 border-t border-border py-10 px-6 bg-surface/80 backdrop-blur-sm">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-5">
           <div className="flex items-center gap-3">
             <div className="h-7 w-7 rounded-lg bg-gradient-to-br from-gold-500 to-gold-700 flex items-center justify-center">
               <span className="text-white text-xs font-bold">🕉</span>
@@ -29,12 +29,12 @@ export default function Home() {
               </p>
             </div>
           </div>
-          <div className="flex items-center gap-6 text-xs text-text-tertiary">
+          <div className="flex items-center gap-5 text-xs text-text-tertiary">
             <a
               href="https://github.com/Rishabhchawda001/Astrosage-"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-text-secondary transition-colors"
+              className="hover:text-text-secondary transition-colors duration-200"
             >
               GitHub
             </a>

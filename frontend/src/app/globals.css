@@ -372,6 +372,30 @@ body {
   box-shadow: 0 2px 8px rgba(60, 45, 30, 0.04);
 }
 
+/* ── Focus states (accessibility) ── */
+.btn-primary:focus-visible,
+.btn-secondary:focus-visible {
+  outline: 2px solid rgba(212, 160, 48, 0.5);
+  outline-offset: 2px;
+}
+
+.btn-primary:active,
+.btn-secondary:active {
+  transform: translateY(0);
+}
+
+a:focus-visible {
+  outline: 2px solid rgba(212, 160, 48, 0.5);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+button:focus-visible {
+  outline: 2px solid rgba(212, 160, 48, 0.5);
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
 /* ── Heading decorative line ── */
 .heading-ornament {
   display: flex;
