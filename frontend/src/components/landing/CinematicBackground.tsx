@@ -133,22 +133,22 @@ export function CinematicBackground() {
     // ── Draw: Sky ──
     function drawSky() {
       const grad = ctx.createLinearGradient(0, 0, 0, h);
-      grad.addColorStop(0, "#b8b0a5");
-      grad.addColorStop(0.15, "#ccc4b8");
+      grad.addColorStop(0, "#c0b8ae");
+      grad.addColorStop(0.15, "#d0c8bc");
       grad.addColorStop(0.30, "#ddd5c8");
       grad.addColorStop(0.50, "#e8dece");
       grad.addColorStop(0.65, "#f0e4cc");
-      grad.addColorStop(0.78, "#ecd0a0");
-      grad.addColorStop(0.90, "#d8b470");
-      grad.addColorStop(1.0, "#c49840");
+      grad.addColorStop(0.78, "#ecd4a8");
+      grad.addColorStop(0.90, "#e0c080");
+      grad.addColorStop(1.0, "#d0a858");
       ctx.fillStyle = grad;
       ctx.fillRect(0, 0, w, h);
     }
 
     // ── Draw: Sun with glow ──
     function drawSun() {
-      const sx = w * 0.62;
-      const sy = h * 0.60;
+      const sx = w * 0.60;
+      const sy = h * 0.55;
       const sr = Math.min(w, h) * 0.055;
 
       // Outer atmospheric glow
@@ -174,8 +174,8 @@ export function CinematicBackground() {
 
     // ── Draw: Light rays ──
     function drawLightRays() {
-      const sx = w * 0.62;
-      const sy = h * 0.60;
+      const sx = w * 0.60;
+      const sy = h * 0.55;
       ctx.save();
       ctx.globalAlpha = 0.035 + Math.sin(t * 0.0004) * 0.01;
       for (let i = 0; i < 12; i++) {
@@ -315,8 +315,8 @@ export function CinematicBackground() {
 
     // ── Draw: Chariot silhouette (Krishna & Arjuna) ──
     function drawChariot() {
-      const cx = w * 0.68;
-      const cy = h * 0.72;
+      const cx = w * 0.72;
+      const cy = h * 0.73;
       const s = Math.min(w, h) * 0.0006;
 
       ctx.save();
@@ -463,7 +463,7 @@ export function CinematicBackground() {
 
     // ── Draw: Floating particles ──
     function drawParticles() {
-      if (Math.random() < 0.03) spawnParticle();
+      if (Math.random() < 0.02) spawnParticle();
       particles = particles.filter((p) => p.life < 300);
 
       for (const p of particles) {
@@ -472,9 +472,9 @@ export function CinematicBackground() {
         p.life++;
 
         // Fade in and out
-        if (p.life < 40) p.opacity = p.life / 40 * 0.25;
-        else if (p.life > 250) p.opacity = Math.max(0, (300 - p.life) / 50 * 0.25);
-        else p.opacity = 0.25;
+        if (p.life < 50) p.opacity = p.life / 50 * 0.18;
+        else if (p.life > 240) p.opacity = Math.max(0, (300 - p.life) / 60 * 0.18);
+        else p.opacity = 0.18;
 
         if (p.y < 0) p.opacity *= 0.3;
 
@@ -508,9 +508,10 @@ export function CinematicBackground() {
       drawParticles();
 
       // Bottom fade to page background
-      const bGrad = ctx.createLinearGradient(0, h * 0.82, 0, h);
+      const bGrad = ctx.createLinearGradient(0, h * 0.78, 0, h);
       bGrad.addColorStop(0, "rgba(248, 246, 242, 0)");
-      bGrad.addColorStop(0.5, "rgba(248, 246, 242, 0.4)");
+      bGrad.addColorStop(0.4, "rgba(248, 246, 242, 0.25)");
+      bGrad.addColorStop(0.8, "rgba(248, 246, 242, 0.75)");
       bGrad.addColorStop(1, "rgba(248, 246, 242, 0.97)");
       ctx.fillStyle = bGrad;
       ctx.fillRect(0, h * 0.82, w, h * 0.18);

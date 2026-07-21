@@ -28,7 +28,7 @@ export function Navigation() {
         <div className={cn(
           "flex h-16 items-center justify-between rounded-2xl px-4 transition-all duration-300",
           isHome
-            ? "bg-white/40 backdrop-blur-xl border border-border shadow-sm"
+            ? "bg-white/35 backdrop-blur-xl border border-border/60 shadow-sm"
             : "bg-white/70 backdrop-blur-xl border border-border shadow-sm"
         )}>
           {/* Logo */}
@@ -58,17 +58,9 @@ export function Navigation() {
                 {link.label}
               </Link>
             ))}
-
-            {/* Quality gate badge */}
-            <div className="ml-2 px-2.5 py-1 rounded-lg bg-success/10 border border-success/20 flex items-center gap-1.5">
-              <div className="w-1.5 h-1.5 rounded-full bg-success" />
-              <span className="text-[10px] font-semibold text-success tracking-wide whitespace-nowrap">
-                8/8 Quality Gates
-              </span>
-            </div>
           </div>
 
-          {/* Direct to experience */}
+          {/* CTA */}
           <Link
             href="/chat"
             className="hidden md:inline-flex items-center gap-2 px-5 py-2 rounded-lg bg-gradient-to-br from-gold-500 to-gold-600 text-white text-sm font-semibold hover:from-gold-400 hover:to-gold-500 transition-all duration-300 shadow-lg shadow-gold-500/10 hover:shadow-gold-500/20"
