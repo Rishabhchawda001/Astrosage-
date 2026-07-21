@@ -1,0 +1,17 @@
+{
+  "versions": [
+    {
+      "version": "v1",
+      "image_filename": "v1_v3_painterly_tradition.jpg",
+      "prompt_id": "v3_painterly_tradition",
+      "provider": "pollinations",
+      "generation_settings": {},
+      "quality_scores": {},
+      "acceptance_notes": "Phase 3A selected artwork. Classical Indian painting style. Best composition from 4 candidates.",
+      "integration_commit": "",
+      "created_at": "2026-07-21T13:52:45.415059Z",
+      "is_active": true
+    }
+  ],
+  "next_version": 2
+}

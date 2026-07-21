@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# Generated images are large — track metadata, not binaries
+generated/*.jpg
+exports/*.jpg
