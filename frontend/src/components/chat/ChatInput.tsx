@@ -14,12 +14,11 @@ export function ChatInput({ onSend, onStop, isStreaming, disabled }: ChatInputPr
   const [input, setInput] = useState("");
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
-  // Auto-resize textarea
   useEffect(() => {
     const ta = textareaRef.current;
     if (ta) {
       ta.style.height = "auto";
-      ta.style.height = Math.min(ta.scrollHeight, 200) + "px";
+      ta.style.height = Math.min(ta.scrollHeight, 180) + "px";
     }
   }, [input]);
 
@@ -41,7 +40,7 @@ export function ChatInput({ onSend, onStop, isStreaming, disabled }: ChatInputPr
   };
 
   return (
-    <div className="border-t border-border p-4 bg-surface">
+    <div className="border-t border-border p-4 bg-surface/80 backdrop-blur-sm">
       <div className="max-w-3xl mx-auto">
         <div className="relative">
           <textarea
@@ -52,14 +51,14 @@ export function ChatInput({ onSend, onStop, isStreaming, disabled }: ChatInputPr
             placeholder="Ask about Hindu scriptures, philosophy, or concepts..."
             rows={1}
             disabled={isStreaming || disabled}
-            className="w-full resize-none rounded-xl border border-border bg-surface-elevated px-5 py-3.5 pr-24 text-sm text-text-primary placeholder-text-tertiary focus:outline-none focus:ring-1 focus:ring-gold-500/30 focus:border-gold-500/30 transition-all disabled:opacity-50"
+            className="w-full resize-none rounded-xl border border-border bg-surface-raised px-4 py-3 pr-20 text-sm text-text-primary placeholder-text-tertiary focus:outline-none focus:ring-1 focus:ring-accent/20 focus:border-border-strong transition-all disabled:opacity-50"
           />
 
           <div className="absolute right-2 bottom-2 flex items-center gap-1">
             {isStreaming ? (
               <button
                 onClick={onStop}
-                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-red-500/10 text-red-400 text-xs font-medium hover:bg-red-500/20 transition-all"
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-red-50 text-red-500 text-xs font-medium hover:bg-red-100 transition-all"
               >
                 <StopCircle className="h-3.5 w-3.5" />
                 Stop
@@ -68,7 +67,7 @@ export function ChatInput({ onSend, onStop, isStreaming, disabled }: ChatInputPr
               <button
                 onClick={handleSubmit}
                 disabled={!input.trim() || disabled}
-                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-gold-500 text-surface text-xs font-semibold hover:bg-gold-400 transition-all disabled:opacity-30 disabled:cursor-not-allowed"
+                className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-gold-500 text-white text-xs font-semibold hover:bg-gold-400 transition-all disabled:opacity-30 disabled:cursor-not-allowed"
               >
                 <Send className="h-3.5 w-3.5" />
                 Send
@@ -78,12 +77,12 @@ export function ChatInput({ onSend, onStop, isStreaming, disabled }: ChatInputPr
         </div>
 
         <div className="flex items-center gap-4 mt-2 px-1">
-          <div className="flex items-center gap-1.5 text-xs text-text-tertiary">
+          <div className="flex items-center gap-1.5 text-[11px] text-text-tertiary">
             <Sparkles className="h-3 w-3" />
             <span>Evidence-backed answers</span>
           </div>
-          <div className="text-xs text-text-tertiary">·</div>
-          <div className="text-xs text-text-tertiary">Shift+Enter for new line</div>
+          <div className="text-[11px] text-text-tertiary">·</div>
+          <div className="text-[11px] text-text-tertiary">Shift+Enter for new line</div>
         </div>
       </div>
     </div>

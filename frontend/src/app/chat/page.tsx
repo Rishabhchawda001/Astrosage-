@@ -31,7 +31,6 @@ export default function ChatPage() {
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const abortRef = useRef<() => void>(undefined);
 
-  // Search mode state
   const [chatMode, setChatMode] = useState<ChatMode>("chat");
   const [searchQuery, setSearchQuery] = useState("");
   const [searchResults, setSearchResults] = useState<ApiSearchResult[]>([]);
@@ -39,16 +38,11 @@ export default function ChatPage() {
   const [searchTab, setSearchTab] = useState<"all" | "entities" | "verses">("all");
   const searchInputRef = useRef<HTMLInputElement>(null);
 
-  // Load conversations
   useEffect(() => {
-    convApi.list().then(setConvList).catch(() => {
-      // Silently fail — conversations will work for new users
-    });
+    convApi.list().then(setConvList).catch(() => {});
   }, []);
 
-  // Auto-focus chat input on mount
   useEffect(() => {
-    // Small delay to ensure the component is mounted
     const timer = setTimeout(() => {
       const textarea = document.querySelector('textarea[placeholder*="Ask about Hindu"]');
       if (textarea) (textarea as HTMLTextAreaElement).focus();
@@ -56,19 +50,16 @@ export default function ChatPage() {
     return () => clearTimeout(timer);
   }, []);
 
-  // Auto-scroll
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages, isThinking]);
 
-  // Focus search input when switching to search mode
   useEffect(() => {
     if (chatMode === "search") {
       setTimeout(() => searchInputRef.current?.focus(), 100);
     }
   }, [chatMode]);
 
-  // Handle search
   const handleSearch = useCallback(async (q: string) => {
     if (!q.trim()) return;
     setIsSearching(true);
@@ -124,101 +115,64 @@ export default function ChatPage() {
     setStreaming(true);
     setIsThinking(true);
 
-    // Brief thinking pause for UX
     await new Promise((r) => setTimeout(r, 400));
     setIsThinking(false);
 
-    // Get answer from knowledge base
     let answerResult: EvidenceItem[] = [];
     try {
       const answerResp = await answer.ask({ question: input, top_k: 5 });
       answerResult = answerResp.sources;
     } catch { /* fall back to LLM */ }
 
-    // Create conversation if needed
-    let convId = currentConversationId;
-    if (!convId) {
-      try {
-        const conv = await convApi.create();
-        convId = conv.id;
-        // Auto-title with first user message
-        if (conv.title === "New conversation") {
-          convApi.updateTitle(convId, input.slice(0, 60)).catch(() => {});
-        }
-        setConversationId(convId);
-        addConversation(conv);
-        setConvList((prev) => [conv, ...prev]);
-        await convApi.addMessage(convId, "user", input);
-      } catch { /* continue without persistence */ }
-    } else {
-      try { await convApi.addMessage(convId, "user", input); } catch { /* ignore */ }
-    }
-
-    // Stream the response
     let assistantContent = "";
-    const msgIndex = messages.length + 1;
-    const abort = chatStream(
-      { messages: [...messages, userMsg], stream: true },
+    const assistantMsg: ChatMessage = { role: "assistant", content: "" };
+    addMessage(assistantMsg);
+
+    const stop = chatStream(
+      {
+        messages: [...messages, userMsg, { role: "system", content: "Answer using the provided evidence. Cite sources." }],
+        stream: true,
+      },
       (token) => {
         assistantContent += token;
-        const prev = useChatStore.getState().messages;
-        const last = prev[prev.length - 1];
-        if (last?.role === "assistant") {
-          setMessages([...prev.slice(0, -1), { ...last, content: assistantContent }]);
-        } else {
-          addMessage({ role: "assistant", content: assistantContent });
-        }
+        setMessages([
+          ...useChatStore.getState().messages.slice(0, -1),
+          { role: "assistant", content: assistantContent },
+        ]);
       },
       () => {
         setStreaming(false);
         if (answerResult.length > 0) {
-          setSources((prev) => ({ ...prev, [msgIndex]: answerResult }));
-        }
-        if (convId) {
-          convApi.addMessage(convId, "assistant", assistantContent).catch(() => {});
+          const msgIdx = useChatStore.getState().messages.length - 1;
+          setSources((prev) => ({ ...prev, [msgIdx]: answerResult }));
         }
       },
-      () => {
+      (err) => {
         setStreaming(false);
-        if (answerResult.length > 0) {
-          const fallbackText = `Based on my knowledge of Hindu scriptures, here's what I found:\n\n${
-            answerResult.slice(0, 3).map((s, i) =>
-              `**Source ${i + 1}** (${s.scripture || "Scripture"}, relevance: ${(s.score * 100).toFixed(0)}%):\n${s.text}`
-            ).join("\n\n")
-          }`;
-          addMessage({ role: "assistant", content: fallbackText });
-          setSources((prev) => ({ ...prev, [msgIndex]: answerResult }));
-        }
-        if (convId) {
-          convApi.addMessage(convId, "assistant", assistantContent || "I encountered an error processing your request.").catch(() => {});
-        }
+        toast.error(err.message || "Failed to get response");
       }
     );
-    abortRef.current = abort;
-  }, [messages, addMessage, setMessages, setStreaming, currentConversationId, setConversationId, addConversation, setConvList]);
+
+    abortRef.current = stop;
+  }, [messages, addMessage, setStreaming, setMessages]);
 
   const handleStop = useCallback(() => {
-    if (typeof abortRef.current === 'function') {
-      abortRef.current();
-      abortRef.current = undefined;
-    }
+    abortRef.current?.();
     setStreaming(false);
-    setIsThinking(false);
   }, [setStreaming]);
 
-  const filteredResults = useMemo(() => {
+  const filteredSearchResults = useMemo(() => {
     if (searchTab === "all") return searchResults;
     if (searchTab === "entities") return searchResults.filter(r => r.level === "entity");
-    if (searchTab === "verses") return searchResults.filter(r => r.level === "verse");
-    return searchResults;
+    return searchResults.filter(r => r.level === "verse");
   }, [searchResults, searchTab]);
 
   return (
-    <div className="relative min-h-screen">
+    <div className="relative h-screen flex flex-col overflow-hidden">
       <StarField />
       <Navigation />
 
-      <div className="relative z-10 pt-16 flex h-[calc(100vh-4rem)]">
+      <div className="relative z-10 flex flex-1 pt-16">
         {/* Sidebar */}
         <ConversationSidebar
           conversations={convList}
@@ -227,307 +181,199 @@ export default function ChatPage() {
           onNew={handleNewChat}
           onDelete={handleDeleteConversation}
           isOpen={sidebarOpen}
-          onToggle={() => setSidebarOpen(v => !v)}
+          onToggle={() => setSidebarOpen(!sidebarOpen)}
         />
 
-        {/* Main chat area */}
-        <div className="flex-1 flex flex-col min-w-0 relative">
-          {/* Chat header */}
-          <div className="flex items-center justify-between px-6 py-3 border-b border-border bg-surface/60 backdrop-blur-sm">
-            <div className="flex items-center gap-3">
-              {/* Mode toggle */}
-              <div className="flex items-center gap-1.5 bg-surface-elevated rounded-xl p-0.5 border border-border/50">
-                <button
-                  onClick={() => handleSwitchMode("chat")}
-                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
-                    chatMode === "chat"
-                      ? "bg-gold-500/15 text-gold-400 shadow-sm"
-                      : "text-text-tertiary hover:text-text-primary"
-                  }`}
-                >
-                  <MessageSquare className="h-3.5 w-3.5" />
-                  Chat
-                </button>
-                <button
-                  onClick={() => handleSwitchMode("search")}
-                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all ${
-                    chatMode === "search"
-                      ? "bg-gold-500/15 text-gold-400 shadow-sm"
-                      : "text-text-tertiary hover:text-text-primary"
-                  }`}
-                >
-                  <Search className="h-3.5 w-3.5" />
-                  Knowledge Search
-                </button>
-              </div>
-            </div>
-
-            <div className="flex items-center gap-2">
-              {chatMode === "chat" && (
-                <span className="text-xs text-text-tertiary flex items-center gap-1">
-                  <Sparkles className="h-3 w-3 text-gold-400/60" />
-                  Evidence-backed
-                </span>
-              )}
-              <button
-                onClick={() => setSidebarOpen(v => !v)}
-                className="p-1.5 rounded-lg text-text-tertiary hover:text-text-primary hover:bg-white/5 transition-all lg:hidden"
-                title="Toggle sidebar"
-              >
-                <PanelLeft className="h-4 w-4" />
-              </button>
-            </div>
+        {/* Main area */}
+        <div className="flex-1 flex flex-col min-w-0">
+          {/* Mode switcher */}
+          <div className="flex items-center gap-2 px-5 py-3 border-b border-border bg-surface/80 backdrop-blur-sm">
+            <button
+              onClick={() => handleSwitchMode("chat")}
+              className={`flex items-center gap-2 px-3 py-1.5 rounded-lg text-[13px] font-medium transition-all ${
+                chatMode === "chat"
+                  ? "bg-accent-subtle text-gold-700"
+                  : "text-text-tertiary hover:text-text-primary hover:bg-warm-100/60"
+              }`}
+            >
+              <MessageSquare className="h-3.5 w-3.5" />
+              Chat
+            </button>
+            <button
+              onClick={() => handleSwitchMode("search")}
+              className={`flex items-center gap-2 px-3 py-1.5 rounded-lg text-[13px] font-medium transition-all ${
+                chatMode === "search"
+                  ? "bg-accent-subtle text-gold-700"
+                  : "text-text-tertiary hover:text-text-primary hover:bg-warm-100/60"
+              }`}
+            >
+              <Search className="h-3.5 w-3.5" />
+              Search
+            </button>
           </div>
 
-          {/* Content area — switches between chat and search */}
-          <div className="flex-1 overflow-y-auto px-4 sm:px-6 py-6">
-            <div className="max-w-3xl mx-auto">
-              {chatMode === "chat" ? (
-                /* ── CHAT MODE ── */
-                <div className="space-y-6">
-                  <AnimatePresence mode="popLayout">
-                    {messages.map((msg, i) => (
-                      <MessageBubble
-                        key={`msg-${i}`}
-                        message={msg}
-                        isStreaming={isStreaming && i === messages.length - 1 && msg.role === "assistant" && !isThinking}
-                        isThinking={isThinking && i === messages.length - 1 && msg.role === "user"}
-                        sources={sources[i + 1]}
-                      />
-                    ))}
-                  </AnimatePresence>
-
-                  {/* Thinking indicator shown between user msg and response */}
-                  {isThinking && (
-                    <MessageBubble
-                      message={{ role: "assistant" as const, content: "" }}
-                      isThinking={true}
-                    />
-                  )}
-
-                  {/* Empty state */}
-                  {!hasStarted && (
-                    <motion.div
-                      initial={{ opacity: 0, y: 20 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      className="flex flex-col items-center justify-center min-h-[60vh] text-center"
-                    >
-                      <motion.div
-                        initial={{ scale: 0.9 }}
-                        animate={{ scale: 1 }}
-                        transition={{ duration: 0.5 }}
-                        className="w-20 h-20 rounded-3xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center mb-8 shadow-2xl shadow-gold-500/20"
-                      >
-                        <Star className="h-10 w-10 text-surface" />
-                      </motion.div>
-
-                      <h2 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4">
-                        Ask <span className="gradient-gold">Anything</span>
-                      </h2>
-                      <p className="text-text-secondary text-base max-w-md mb-10 leading-relaxed">
-                        Explore Hindu scriptures with evidence-backed answers.
-                        Every response is grounded in canonical sources you can verify.
-                      </p>
-
-                      {/* Suggested questions */}
-                      <div className="grid sm:grid-cols-2 gap-2.5 w-full max-w-lg">
-                        {[
-                          { q: "Who is Vishnu?", icon: "🕉" },
-                          { q: "What is Dharma?", icon: "☸" },
-                          { q: "Explain the concept of Karma", icon: "🔄" },
-                          { q: "What does the Bhagavad Gita say about duty?", icon: "📜" },
-                        ].map((item) => (
-                          <button
-                            key={item.q}
-                            onClick={() => handleSend(item.q)}
-                            disabled={isStreaming}
-                            className="group flex items-center gap-3 glass rounded-xl px-4 py-3.5 text-left text-sm text-text-secondary hover:text-text-primary hover:bg-white/[0.04] transition-all disabled:opacity-50 border border-transparent hover:border-gold-500/10"
-                          >
-                            <span className="text-base">{item.icon}</span>
-                            <span className="flex-1">{item.q}</span>
-                            <ArrowRight className="h-3.5 w-3.5 text-text-tertiary opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200" />
-                          </button>
-                        ))}
-                      </div>
-                    </motion.div>
-                  )}
-
-                  <div ref={messagesEndRef} />
-                </div>
-              ) : (
-                /* ── SEARCH MODE ── */
+          {/* Content area */}
+          <div className="flex-1 overflow-y-auto">
+            {!hasStarted && chatMode === "chat" ? (
+              /* Welcome state */
+              <div className="flex flex-col items-center justify-center h-full px-6 text-center">
                 <motion.div
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  className="flex flex-col min-h-[60vh]"
+                  initial={{ opacity: 0, y: 12 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.6, ease: "easeOut" }}
                 >
-                  {/* Search bar */}
-                  <div className="relative mb-8">
-                    <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-text-tertiary" />
-                    <input
-                      ref={searchInputRef}
-                      type="text"
-                      value={searchQuery}
-                      onChange={(e) => setSearchQuery(e.target.value)}
-                      onKeyDown={(e) => e.key === "Enter" && handleSearch(searchQuery)}
-                      placeholder="Search scriptures, entities, concepts..."
-                      className="w-full pl-12 pr-4 py-4 rounded-2xl glass text-text-primary placeholder-text-tertiary text-lg focus:outline-none focus:ring-1 focus:ring-gold-500/30 transition-all"
-                    />
-                    <button
-                      onClick={() => handleSearch(searchQuery)}
-                      disabled={!searchQuery.trim() || isSearching}
-                      className="absolute right-3 top-1/2 -translate-y-1/2 px-5 py-2 rounded-xl bg-gold-500 text-surface text-sm font-semibold hover:bg-gold-400 transition-all disabled:opacity-30"
-                    >
-                      {isSearching ? (
-                        <Loader2 className="h-4 w-4 animate-spin" />
-                      ) : (
-                        "Search"
-                      )}
-                    </button>
+                  <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-gold-500 to-gold-600 flex items-center justify-center mx-auto mb-5">
+                    <Sparkles className="h-7 w-7 text-white" />
                   </div>
-
-                  {/* Search empty state */}
-                  {searchResults.length === 0 && !isSearching && !searchQuery && (
-                    <div className="flex flex-col items-center justify-center flex-1 text-center">
-                      <motion.div
-                        initial={{ scale: 0.9 }}
-                        animate={{ scale: 1 }}
-                        transition={{ duration: 0.5 }}
-                        className="w-20 h-20 rounded-3xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center mb-8 shadow-2xl shadow-gold-500/20"
+                  <h2 className="font-serif text-3xl font-bold text-text-primary mb-3 tracking-tight">
+                    Ask AstroSage
+                  </h2>
+                  <p className="text-text-secondary text-base max-w-md mb-8 leading-relaxed">
+                    Explore thousands of years of verified Hindu scripture.
+                    Every answer is grounded in evidence.
+                  </p>
+                  <div className="flex flex-wrap justify-center gap-2 max-w-lg">
+                    {[
+                      "What is Dharma?",
+                      "Tell me about the Bhagavad Gita",
+                      "Who is Krishna?",
+                      "What are the Vedas?",
+                    ].map((q) => (
+                      <button
+                        key={q}
+                        onClick={() => handleSend(q)}
+                        className="px-4 py-2 rounded-xl bg-warm-50 border border-border text-sm text-text-secondary hover:text-text-primary hover:bg-warm-100 hover:border-border-strong transition-all"
                       >
-                        <Search className="h-10 w-10 text-surface" />
-                      </motion.div>
-
-                      <h2 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4">
-                        Knowledge <span className="gradient-gold">Search</span>
-                      </h2>
-                      <p className="text-text-secondary text-base max-w-md mb-10 leading-relaxed">
-                        Search across 120K+ scripture chunks, 391 entities, and 54 scriptures.
-                        Find evidence-backed knowledge instantly.
-                      </p>
-
-                      {/* Suggested search queries */}
-                      <div className="grid sm:grid-cols-2 gap-2.5 w-full max-w-lg">
-                        {[
-                          { q: "Vishnu avataras", icon: "🕉" },
-                          { q: "Bhagavad Gita verses on karma", icon: "📜" },
-                          { q: "Rama and Sita", icon: "🏹" },
-                          { q: "Pandavas Mahabharata", icon: "⚔️" },
-                        ].map((item) => (
-                          <button
-                            key={item.q}
-                            onClick={() => handleSearch(item.q)}
-                            disabled={isSearching}
-                            className="group flex items-center gap-3 glass rounded-xl px-4 py-3.5 text-left text-sm text-text-secondary hover:text-text-primary hover:bg-white/[0.04] transition-all disabled:opacity-50 border border-transparent hover:border-gold-500/10"
-                          >
-                            <span className="text-base">{item.icon}</span>
-                            <span className="flex-1">{item.q}</span>
-                            <ArrowRight className="h-3.5 w-3.5 text-text-tertiary opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200" />
-                          </button>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {/* Search results */}
-                  {searchResults.length > 0 && (
-                    <>
-                      {/* Tabs */}
-                      <div className="flex gap-2 mb-6">
-                        {(["all", "entities", "verses"] as const).map((tab) => (
-                          <button
-                            key={tab}
-                            onClick={() => setSearchTab(tab)}
-                            className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
-                              searchTab === tab
-                                ? "bg-gold-500/10 text-gold-400 border border-gold-500/20"
-                                : "text-text-tertiary hover:text-text-primary hover:bg-white/5"
-                            }`}
-                          >
-                            {tab === "all" ? "All Results" : tab.charAt(0).toUpperCase() + tab.slice(1)}
-                            <span className="ml-1.5 text-xs opacity-60">
-                              ({tab === "all" ? searchResults.length :
-                                tab === "entities" ? searchResults.filter(r => r.level === "entity").length :
-                                searchResults.filter(r => r.level === "verse").length})
-                            </span>
-                          </button>
-                        ))}
-                      </div>
-
-                      {/* Results */}
-                      <div className="space-y-4">
-                        {filteredResults.map((result, i) => (
-                          <motion.div
-                            key={result.chunk_id}
-                            initial={{ opacity: 0, y: 10 }}
-                            animate={{ opacity: 1, y: 0 }}
-                            transition={{ delay: i * 0.03 }}
-                            className="glass rounded-2xl p-5 hover:bg-white/[0.04] transition-all group"
-                          >
-                            <div className="flex items-start gap-3">
-                              <div className="flex-shrink-0 w-10 h-10 rounded-xl bg-gradient-to-br from-gold-400/20 to-gold-600/20 flex items-center justify-center">
-                                {result.level === "entity" ? (
-                                  <BookOpen className="h-5 w-5 text-gold-400" />
-                                ) : result.level === "verse" ? (
-                                  <ScrollText className="h-5 w-5 text-gold-400" />
-                                ) : (
-                                  <FileText className="h-5 w-5 text-gold-400" />
-                                )}
-                              </div>
-                              <div className="flex-1 min-w-0">
-                                <div className="flex items-center gap-2 mb-1">
-                                  <span className="text-xs font-medium text-gold-400 uppercase tracking-wider">
-                                    {result.level}
-                                  </span>
-                                  {result.scripture_id && (
-                                    <>
-                                      <span className="text-xs text-text-tertiary">·</span>
-                                      <span className="text-xs text-text-tertiary">{result.scripture_id}</span>
-                                    </>
-                                  )}
-                                  <span className="ml-auto text-xs text-text-tertiary">
-                                    Score: {(result.score * 100).toFixed(0)}%
-                                  </span>
-                                </div>
-                                <p className="text-sm text-text-primary leading-relaxed line-clamp-3">
-                                  {result.text}
-                                </p>
-                                {result.entity_links && result.entity_links.length > 0 && (
-                                  <div className="flex flex-wrap gap-1.5 mt-2">
-                                    {result.entity_links.slice(0, 5).map((link, j) => (
-                                      <span
-                                        key={j}
-                                        className="px-2 py-0.5 rounded-md bg-white/5 text-xs text-text-secondary"
-                                      >
-                                        {link.name}
-                                      </span>
-                                    ))}
-                                  </div>
-                                )}
-                              </div>
-                            </div>
-                          </motion.div>
-                        ))}
-
-                        {filteredResults.length === 0 && (
-                          <div className="text-center py-12">
-                            <p className="text-text-tertiary">No results in this category</p>
-                          </div>
-                        )}
-                      </div>
-                    </>
-                  )}
-
-                  {searchQuery && !isSearching && searchResults.length === 0 && (
-                    <div className="text-center pt-12">
-                      <Search className="h-12 w-12 mx-auto text-text-tertiary mb-4" />
-                      <p className="text-text-secondary">No results found for &ldquo;{searchQuery}&rdquo;</p>
-                      <p className="text-text-tertiary text-sm mt-1">Try a different search term</p>
-                    </div>
-                  )}
+                        {q}
+                      </button>
+                    ))}
+                  </div>
                 </motion.div>
-              )}
-            </div>
+              </div>
+            ) : chatMode === "search" ? (
+              /* Search mode */
+              <div className="max-w-4xl mx-auto px-5 py-8">
+                {/* Search input */}
+                <div className="relative mb-6">
+                  <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-text-tertiary" />
+                  <input
+                    ref={searchInputRef}
+                    type="text"
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    onKeyDown={(e) => e.key === "Enter" && handleSearch(searchQuery)}
+                    placeholder="Search entities, scriptures, concepts..."
+                    className="w-full pl-12 pr-4 py-3.5 rounded-2xl glass text-text-primary placeholder-text-tertiary focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
+                  />
+                </div>
+
+                {/* Tabs */}
+                {searchResults.length > 0 && (
+                  <div className="flex gap-1.5 mb-5">
+                    {(["all", "entities", "verses"] as const).map((tab) => (
+                      <button
+                        key={tab}
+                        onClick={() => setSearchTab(tab)}
+                        className={`px-3 py-1.5 rounded-lg text-[13px] font-medium transition-all ${
+                          searchTab === tab
+                            ? "bg-accent-subtle text-gold-700 border border-gold-500/15"
+                            : "text-text-tertiary hover:text-text-primary hover:bg-warm-100/60"
+                        }`}
+                      >
+                        {tab === "all" ? "All" : tab.charAt(0).toUpperCase() + tab.slice(1)}
+                        <span className="ml-1.5 text-xs opacity-60">
+                          ({tab === "all" ? searchResults.length :
+                            tab === "entities" ? searchResults.filter(r => r.level === "entity").length :
+                            searchResults.filter(r => r.level === "verse").length})
+                        </span>
+                      </button>
+                    ))}
+                  </div>
+                )}
+
+                {/* Results */}
+                {isSearching ? (
+                  <div className="flex items-center justify-center py-12">
+                    <Loader2 className="h-6 w-6 animate-spin text-gold-500" />
+                  </div>
+                ) : filteredSearchResults.length > 0 ? (
+                  <div className="space-y-3">
+                    {filteredSearchResults.map((result, i) => (
+                      <motion.div
+                        key={result.chunk_id}
+                        initial={{ opacity: 0, y: 8 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: i * 0.03, duration: 0.4, ease: "easeOut" }}
+                        className="card p-5 hover:shadow-md transition-all group"
+                      >
+                        <div className="flex items-start gap-3">
+                          <div className="flex-shrink-0 w-9 h-9 rounded-xl bg-gradient-to-br from-gold-400/15 to-gold-500/15 flex items-center justify-center">
+                            {result.level === "entity" ? (
+                              <BookOpen className="h-4 w-4 text-gold-600" />
+                            ) : result.level === "verse" ? (
+                              <ScrollText className="h-4 w-4 text-gold-600" />
+                            ) : (
+                              <FileText className="h-4 w-4 text-gold-600" />
+                            )}
+                          </div>
+                          <div className="flex-1 min-w-0">
+                            <div className="flex items-center gap-2 mb-1">
+                              <span className="text-[11px] font-medium text-gold-600 uppercase tracking-wider">
+                                {result.level}
+                              </span>
+                              {result.scripture_id && (
+                                <>
+                                  <span className="text-[11px] text-text-tertiary">·</span>
+                                  <span className="text-[11px] text-text-tertiary">{result.scripture_id}</span>
+                                </>
+                              )}
+                              <span className="ml-auto text-[11px] text-text-tertiary">
+                                Score: {(result.score * 100).toFixed(0)}%
+                              </span>
+                            </div>
+                            <p className="text-sm text-text-primary leading-relaxed line-clamp-3">
+                              {result.text}
+                            </p>
+                            {result.entity_links && result.entity_links.length > 0 && (
+                              <div className="flex flex-wrap gap-1.5 mt-2">
+                                {result.entity_links.slice(0, 5).map((link, j) => (
+                                  <span
+                                    key={j}
+                                    className="px-2 py-0.5 rounded-md bg-warm-100 text-[11px] text-text-secondary"
+                                  >
+                                    {link.name}
+                                  </span>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      </motion.div>
+                    ))}
+                  </div>
+                ) : searchQuery && !isSearching ? (
+                  <div className="text-center pt-12">
+                    <Search className="h-12 w-12 mx-auto text-text-tertiary/20 mb-4" />
+                    <p className="text-text-secondary">No results found for &ldquo;{searchQuery}&rdquo;</p>
+                    <p className="text-text-tertiary text-sm mt-1">Try a different search term</p>
+                  </div>
+                ) : null}
+              </div>
+            ) : (
+              /* Chat messages */
+              <div className="max-w-3xl mx-auto px-5 py-6 space-y-5">
+                {messages.map((msg, i) => (
+                  <MessageBubble
+                    key={i}
+                    message={msg}
+                    isStreaming={i === messages.length - 1 && isStreaming}
+                    isThinking={i === messages.length - 1 && isThinking}
+                    sources={sources[i]}
+                  />
+                ))}
+                <div ref={messagesEndRef} />
+              </div>
+            )}
           </div>
 
           {/* Input — only in chat mode */}

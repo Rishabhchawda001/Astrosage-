@@ -25,7 +25,6 @@ export default function RegisterPage() {
   const handleRegister = async (e: React.FormEvent) => {
     e.preventDefault();
     setError("");
-
     if (password !== confirmPassword) {
       setError("Passwords do not match");
       return;
@@ -34,11 +33,9 @@ export default function RegisterPage() {
       setError("Password must be at least 8 characters");
       return;
     }
-
     setIsLoading(true);
     try {
       await auth.register({ username, password });
-      // Auto-login after registration
       const tokens = await auth.login(username, password);
       setTokens(tokens.access_token, tokens.refresh_token);
       login(username, tokens.access_token, tokens.refresh_token);
@@ -58,16 +55,17 @@ export default function RegisterPage() {
       <Navigation />
 
       <motion.div
-        initial={{ opacity: 0, y: 20 }}
+        initial={{ opacity: 0, y: 16 }}
         animate={{ opacity: 1, y: 0 }}
-        className="relative z-10 w-full max-w-md mx-4"
+        transition={{ duration: 0.6, ease: "easeOut" }}
+        className="relative z-10 w-full max-w-md mx-5"
       >
-        <div className="glass-strong rounded-3xl p-8">
+        <div className="card-elevated p-8">
           <div className="text-center mb-8">
-            <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center mx-auto mb-4">
-              <UserPlus className="h-7 w-7 text-surface" />
+            <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-gold-500 to-gold-600 flex items-center justify-center mx-auto mb-4">
+              <UserPlus className="h-6 w-6 text-white" />
             </div>
-            <h1 className="font-serif text-2xl font-bold text-text-primary">
+            <h1 className="font-serif text-2xl font-bold text-text-primary tracking-tight">
               Create Account
             </h1>
             <p className="text-text-secondary text-sm mt-2">
@@ -75,9 +73,9 @@ export default function RegisterPage() {
             </p>
           </div>
 
-          <form onSubmit={handleRegister} className="space-y-5">
+          <form onSubmit={handleRegister} className="space-y-4">
             <div>
-              <label htmlFor="reg-username" className="block text-sm font-medium text-text-primary mb-1.5">
+              <label htmlFor="reg-username" className="block text-[13px] font-medium text-text-primary mb-1.5">
                 Username
               </label>
               <input
@@ -86,14 +84,14 @@ export default function RegisterPage() {
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 placeholder="Choose a username"
-                className="w-full bg-surface-elevated rounded-xl px-4 py-3 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                className="w-full bg-warm-50 rounded-xl px-4 py-3 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                 required
                 minLength={3}
               />
             </div>
 
             <div>
-              <label htmlFor="reg-password" className="block text-sm font-medium text-text-primary mb-1.5">
+              <label htmlFor="reg-password" className="block text-[13px] font-medium text-text-primary mb-1.5">
                 Password
               </label>
               <div className="relative">
@@ -103,7 +101,7 @@ export default function RegisterPage() {
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   placeholder="At least 8 characters"
-                  className="w-full bg-surface-elevated rounded-xl px-4 py-3 pr-10 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                  className="w-full bg-warm-50 rounded-xl px-4 py-3 pr-10 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                   required
                   minLength={8}
                 />
@@ -117,8 +115,8 @@ export default function RegisterPage() {
               </div>
               {password && (
                 <div className="flex items-center gap-1 mt-1.5">
-                  <Check className={`h-3 w-3 ${password.length >= 8 ? "text-green-400" : "text-text-tertiary"}`} />
-                  <span className={`text-xs ${password.length >= 8 ? "text-green-400" : "text-text-tertiary"}`}>
+                  <Check className={`h-3 w-3 ${password.length >= 8 ? "text-success" : "text-text-tertiary"}`} />
+                  <span className={`text-[11px] ${password.length >= 8 ? "text-success" : "text-text-tertiary"}`}>
                     {password.length}/8 characters
                   </span>
                 </div>
@@ -126,7 +124,7 @@ export default function RegisterPage() {
             </div>
 
             <div>
-              <label htmlFor="reg-confirm" className="block text-sm font-medium text-text-primary mb-1.5">
+              <label htmlFor="reg-confirm" className="block text-[13px] font-medium text-text-primary mb-1.5">
                 Confirm Password
               </label>
               <input
@@ -135,13 +133,13 @@ export default function RegisterPage() {
                 value={confirmPassword}
                 onChange={(e) => setConfirmPassword(e.target.value)}
                 placeholder="Repeat your password"
-                className="w-full bg-surface-elevated rounded-xl px-4 py-3 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                className="w-full bg-warm-50 rounded-xl px-4 py-3 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                 required
               />
             </div>
 
             {error && (
-              <div className="p-3 rounded-xl bg-red-500/10 border border-red-500/20 text-sm text-red-400">
+              <div className="p-3 rounded-xl bg-red-50 border border-red-100 text-sm text-red-600">
                 {error}
               </div>
             )}
@@ -149,7 +147,7 @@ export default function RegisterPage() {
             <button
               type="submit"
               disabled={isLoading || !username.trim() || !password || password !== confirmPassword}
-              className="w-full py-3 rounded-xl bg-gold-500 text-surface font-semibold hover:bg-gold-400 transition-all disabled:opacity-30 flex items-center justify-center gap-2"
+              className="w-full py-3 rounded-xl bg-gold-500 text-white font-semibold hover:bg-gold-400 transition-all disabled:opacity-30 flex items-center justify-center gap-2"
             >
               {isLoading ? (
                 <Loader2 className="h-4 w-4 animate-spin" />
@@ -164,7 +162,7 @@ export default function RegisterPage() {
 
           <p className="text-center text-sm text-text-tertiary mt-6">
             Already have an account?{" "}
-            <Link href="/login" className="text-gold-400 hover:text-gold-300 transition-colors">
+            <Link href="/login" className="text-gold-600 hover:text-gold-500 font-medium transition-colors">
               Sign in
             </Link>
           </p>

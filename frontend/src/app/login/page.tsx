@@ -23,10 +23,8 @@ export default function LoginPage() {
   const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!username.trim() || !password) return;
-
     setIsLoading(true);
     setError("");
-
     try {
       const tokens = await auth.login(username, password);
       setTokens(tokens.access_token, tokens.refresh_token);
@@ -46,17 +44,18 @@ export default function LoginPage() {
       <Navigation />
 
       <motion.div
-        initial={{ opacity: 0, y: 20 }}
+        initial={{ opacity: 0, y: 16 }}
         animate={{ opacity: 1, y: 0 }}
-        className="relative z-10 w-full max-w-md mx-4"
+        transition={{ duration: 0.6, ease: "easeOut" }}
+        className="relative z-10 w-full max-w-md mx-5"
       >
-        <div className="glass-strong rounded-3xl p-8">
+        <div className="card-elevated p-8">
           {/* Header */}
           <div className="text-center mb-8">
-            <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center mx-auto mb-4">
-              <LogIn className="h-7 w-7 text-surface" />
+            <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-gold-500 to-gold-600 flex items-center justify-center mx-auto mb-4">
+              <LogIn className="h-6 w-6 text-white" />
             </div>
-            <h1 className="font-serif text-2xl font-bold text-text-primary">
+            <h1 className="font-serif text-2xl font-bold text-text-primary tracking-tight">
               Welcome Back
             </h1>
             <p className="text-text-secondary text-sm mt-2">
@@ -65,9 +64,9 @@ export default function LoginPage() {
           </div>
 
           {/* Form */}
-          <form onSubmit={handleLogin} className="space-y-5">
+          <form onSubmit={handleLogin} className="space-y-4">
             <div>
-              <label htmlFor="username" className="block text-sm font-medium text-text-primary mb-1.5">
+              <label htmlFor="username" className="block text-[13px] font-medium text-text-primary mb-1.5">
                 Username
               </label>
               <input
@@ -76,13 +75,13 @@ export default function LoginPage() {
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 placeholder="Enter your username"
-                className="w-full bg-surface-elevated rounded-xl px-4 py-3 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                className="w-full bg-warm-50 rounded-xl px-4 py-3 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                 required
               />
             </div>
 
             <div>
-              <label htmlFor="password" className="block text-sm font-medium text-text-primary mb-1.5">
+              <label htmlFor="password" className="block text-[13px] font-medium text-text-primary mb-1.5">
                 Password
               </label>
               <div className="relative">
@@ -92,7 +91,7 @@ export default function LoginPage() {
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   placeholder="Enter your password"
-                  className="w-full bg-surface-elevated rounded-xl px-4 py-3 pr-10 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                  className="w-full bg-warm-50 rounded-xl px-4 py-3 pr-10 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                   required
                 />
                 <button
@@ -106,7 +105,7 @@ export default function LoginPage() {
             </div>
 
             {error && (
-              <div className="p-3 rounded-xl bg-red-500/10 border border-red-500/20 text-sm text-red-400">
+              <div className="p-3 rounded-xl bg-red-50 border border-red-100 text-sm text-red-600">
                 {error}
               </div>
             )}
@@ -114,7 +113,7 @@ export default function LoginPage() {
             <button
               type="submit"
               disabled={isLoading || !username.trim() || !password}
-              className="w-full py-3 rounded-xl bg-gold-500 text-surface font-semibold hover:bg-gold-400 transition-all disabled:opacity-30 flex items-center justify-center gap-2"
+              className="w-full py-3 rounded-xl bg-gold-500 text-white font-semibold hover:bg-gold-400 transition-all disabled:opacity-30 flex items-center justify-center gap-2"
             >
               {isLoading ? (
                 <Loader2 className="h-4 w-4 animate-spin" />
@@ -129,7 +128,7 @@ export default function LoginPage() {
 
           <p className="text-center text-sm text-text-tertiary mt-6">
             Don&apos;t have an account?{" "}
-            <Link href="/register" className="text-gold-400 hover:text-gold-300 transition-colors">
+            <Link href="/register" className="text-gold-600 hover:text-gold-500 font-medium transition-colors">
               Create one
             </Link>
           </p>

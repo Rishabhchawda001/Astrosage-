@@ -21,7 +21,6 @@ export default function SearchPage() {
   const handleSearch = useCallback(async () => {
     if (!query.trim()) return;
     setIsSearching(true);
-
     try {
       const [searchRes, entityRes] = await Promise.all([
         searchApi.query({ query: query.trim(), top_k: 20 }),
@@ -45,15 +44,16 @@ export default function SearchPage() {
       <StarField />
       <Navigation />
 
-      <main className="relative z-10 pt-24 px-4 sm:px-6 pb-16">
+      <main className="relative z-10 pt-24 px-5 sm:px-8 pb-16">
         <div className="max-w-4xl mx-auto">
           {/* Hero */}
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, ease: "easeOut" }}
             className="text-center mb-10"
           >
-            <h1 className="font-serif text-4xl sm:text-5xl font-bold mb-4">
+            <h1 className="font-serif text-4xl sm:text-5xl font-bold mb-4 tracking-tight">
               Knowledge <span className="gradient-gold">Search</span>
             </h1>
             <p className="text-text-secondary text-lg max-w-xl mx-auto">
@@ -63,9 +63,9 @@ export default function SearchPage() {
 
           {/* Search bar */}
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
+            transition={{ duration: 0.6, delay: 0.1, ease: "easeOut" }}
             className="relative mb-8"
           >
             <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-text-tertiary" />
@@ -75,32 +75,28 @@ export default function SearchPage() {
               onChange={(e) => setQuery(e.target.value)}
               onKeyDown={(e) => e.key === "Enter" && handleSearch()}
               placeholder="Search entities, scriptures, concepts..."
-              className="w-full pl-12 pr-4 py-4 rounded-2xl glass text-text-primary placeholder-text-tertiary text-lg focus:outline-none focus:ring-1 focus:ring-gold-500/30 transition-all"
+              className="w-full pl-12 pr-4 py-4 rounded-2xl glass text-text-primary placeholder-text-tertiary text-lg focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
             />
             <button
               onClick={handleSearch}
               disabled={!query.trim() || isSearching}
-              className="absolute right-3 top-1/2 -translate-y-1/2 px-5 py-2 rounded-xl bg-gold-500 text-surface text-sm font-semibold hover:bg-gold-400 transition-all disabled:opacity-30"
+              className="absolute right-3 top-1/2 -translate-y-1/2 px-5 py-2 rounded-xl bg-gold-500 text-white text-sm font-semibold hover:bg-gold-400 transition-all disabled:opacity-30"
             >
-              {isSearching ? (
-                <Loader2 className="h-4 w-4 animate-spin" />
-              ) : (
-                "Search"
-              )}
+              {isSearching ? <Loader2 className="h-4 w-4 animate-spin" /> : "Search"}
             </button>
           </motion.div>
 
           {/* Tabs */}
           {results.length > 0 && (
-            <div className="flex gap-2 mb-6">
+            <div className="flex gap-1.5 mb-6">
               {(["all", "entities", "verses"] as const).map((tab) => (
                 <button
                   key={tab}
                   onClick={() => setActiveTab(tab)}
-                  className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
+                  className={`px-3.5 py-1.5 rounded-lg text-[13px] font-medium transition-all ${
                     activeTab === tab
-                      ? "bg-gold-500/10 text-gold-400 border border-gold-500/20"
-                      : "text-text-tertiary hover:text-text-primary hover:bg-white/5"
+                      ? "bg-accent-subtle text-gold-700 border border-gold-500/15"
+                      : "text-text-tertiary hover:text-text-primary hover:bg-warm-100/60"
                   }`}
                 >
                   {tab === "all" ? "All Results" : tab.charAt(0).toUpperCase() + tab.slice(1)}
@@ -115,76 +111,76 @@ export default function SearchPage() {
           )}
 
           {/* Results */}
-          <div className="space-y-4">
+          <div className="space-y-3">
             {filteredResults.map((result, i) => {
-                      const evidenceItem = {
-                        text: result.text,
-                        scripture: result.scripture_id || "",
-                        level: result.level,
-                        score: result.score,
-                      };
-                      return (
-                        <motion.button
-                          key={result.chunk_id}
-                          initial={{ opacity: 0, y: 10 }}
-                          animate={{ opacity: 1, y: 0 }}
-                          transition={{ delay: i * 0.03 }}
-                          onClick={() => useUIStore.getState().openEvidence(evidenceItem)}
-                          className="w-full text-left glass rounded-2xl p-5 hover:bg-white/[0.04] transition-all group border border-transparent hover:border-gold-500/10 cursor-pointer"
-                        >
-                          <div className="flex items-start gap-3">
-                            <div className="flex-shrink-0 w-10 h-10 rounded-xl bg-gradient-to-br from-gold-400/20 to-gold-600/20 flex items-center justify-center">
-                              {result.level === "entity" ? (
-                                <BookOpen className="h-5 w-5 text-gold-400" />
-                              ) : result.level === "verse" ? (
-                                <ScrollText className="h-5 w-5 text-gold-400" />
-                              ) : (
-                                <FileText className="h-5 w-5 text-gold-400" />
-                              )}
-                            </div>
-                            <div className="flex-1 min-w-0">
-                              <div className="flex items-center gap-2 mb-1">
-                                <span className="text-xs font-medium text-gold-400 uppercase tracking-wider">
-                                  {result.level}
-                                </span>
-                                {result.scripture_id && (
-                                  <>
-                                    <span className="text-xs text-text-tertiary">·</span>
-                                    <span className="text-xs text-text-tertiary">{result.scripture_id}</span>
-                                  </>
-                                )}
-                                <span className="ml-auto flex items-center gap-2">
-                                  <div className="h-1.5 w-16 rounded-full bg-white/5 overflow-hidden">
-                                    <div
-                                      className="h-full rounded-full bg-gradient-to-r from-gold-500 to-gold-400"
-                                      style={{ width: `${result.score * 100}%` }}
-                                    />
-                                  </div>
-                                  <span className="text-[10px] text-text-tertiary font-mono">
-                                    {(result.score * 100).toFixed(0)}%
-                                  </span>
-                                </span>
-                              </div>
-                              <p className="text-sm text-text-primary leading-relaxed line-clamp-3">
-                                {result.text}
-                              </p>
-                              {result.entity_links.length > 0 && (
-                                <div className="flex flex-wrap gap-1.5 mt-2">
-                                  {result.entity_links.slice(0, 5).map((link, j) => (
-                                    <span
-                                      key={j}
-                                      className="px-2 py-0.5 rounded-md bg-white/5 text-xs text-text-secondary"
-                                    >
-                                      {link.name}
-                                    </span>
-                                  ))}
-                                </div>
-                              )}
-                            </div>
+              const evidenceItem = {
+                text: result.text,
+                scripture: result.scripture_id || "",
+                level: result.level,
+                score: result.score,
+              };
+              return (
+                <motion.button
+                  key={result.chunk_id}
+                  initial={{ opacity: 0, y: 8 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ delay: i * 0.03, duration: 0.4, ease: "easeOut" }}
+                  onClick={() => useUIStore.getState().openEvidence(evidenceItem)}
+                  className="w-full text-left card p-5 hover:shadow-md transition-all group cursor-pointer"
+                >
+                  <div className="flex items-start gap-3">
+                    <div className="flex-shrink-0 w-9 h-9 rounded-xl bg-gradient-to-br from-gold-400/15 to-gold-500/15 flex items-center justify-center">
+                      {result.level === "entity" ? (
+                        <BookOpen className="h-4 w-4 text-gold-600" />
+                      ) : result.level === "verse" ? (
+                        <ScrollText className="h-4 w-4 text-gold-600" />
+                      ) : (
+                        <FileText className="h-4 w-4 text-gold-600" />
+                      )}
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-center gap-2 mb-1">
+                        <span className="text-[11px] font-medium text-gold-600 uppercase tracking-wider">
+                          {result.level}
+                        </span>
+                        {result.scripture_id && (
+                          <>
+                            <span className="text-[11px] text-text-tertiary">·</span>
+                            <span className="text-[11px] text-text-tertiary">{result.scripture_id}</span>
+                          </>
+                        )}
+                        <span className="ml-auto flex items-center gap-2">
+                          <div className="h-1 w-14 rounded-full bg-warm-200 overflow-hidden">
+                            <div
+                              className="h-full rounded-full bg-gradient-to-r from-gold-500 to-gold-400"
+                              style={{ width: `${result.score * 100}%` }}
+                            />
                           </div>
-                        </motion.button>
-                      );
-                    })}
+                          <span className="text-[10px] text-text-tertiary font-mono">
+                            {(result.score * 100).toFixed(0)}%
+                          </span>
+                        </span>
+                      </div>
+                      <p className="text-sm text-text-primary leading-relaxed line-clamp-3">
+                        {result.text}
+                      </p>
+                      {result.entity_links.length > 0 && (
+                        <div className="flex flex-wrap gap-1.5 mt-2">
+                          {result.entity_links.slice(0, 5).map((link, j) => (
+                            <span
+                              key={j}
+                              className="px-2 py-0.5 rounded-md bg-warm-100 text-[11px] text-text-secondary"
+                            >
+                              {link.name}
+                            </span>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                </motion.button>
+              );
+            })}
 
             {results.length > 0 && filteredResults.length === 0 && (
               <div className="text-center py-12">

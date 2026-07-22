@@ -60,14 +60,15 @@ export default function ExplorePage() {
       <StarField />
       <Navigation />
 
-      <main className="relative z-10 pt-24 px-4 sm:px-6 pb-16">
+      <main className="relative z-10 pt-24 px-5 sm:px-8 pb-16">
         <div className="max-w-6xl mx-auto">
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
+            initial={{ opacity: 0, y: 16 }}
             animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, ease: "easeOut" }}
             className="mb-10"
           >
-            <h1 className="font-serif text-4xl sm:text-5xl font-bold mb-4">
+            <h1 className="font-serif text-4xl sm:text-5xl font-bold mb-4 tracking-tight">
               Knowledge <span className="gradient-gold">Graph</span>
             </h1>
             <p className="text-text-secondary text-lg">
@@ -75,24 +76,24 @@ export default function ExplorePage() {
             </p>
           </motion.div>
 
-          <div className="grid lg:grid-cols-3 gap-6">
-            {/* Left panel: Entity search */}
-            <div className="lg:col-span-1 space-y-6">
+          <div className="grid lg:grid-cols-3 gap-5">
+            {/* Left panel */}
+            <div className="lg:col-span-1 space-y-5">
               {/* Stats */}
               {stats && (
-                <div className="glass rounded-2xl p-5">
-                  <h3 className="text-sm font-semibold text-text-primary mb-4">Graph Stats</h3>
-                  <div className="grid grid-cols-2 gap-4">
+                <div className="card p-5">
+                  <h3 className="text-[13px] font-semibold text-text-primary mb-4">Graph Stats</h3>
+                  <div className="grid grid-cols-2 gap-3">
                     {[
                       { label: "Entities", value: stats.entities, icon: Users },
                       { label: "Scriptures", value: stats.scriptures, icon: BookOpen },
                       { label: "Edges", value: stats.edges, icon: GitFork },
                       { label: "Edge Types", value: stats.edge_types, icon: Network },
                     ].map((s) => (
-                      <div key={s.label} className="text-center">
-                        <s.icon className="h-4 w-4 mx-auto text-gold-400 mb-1" />
-                        <div className="text-lg font-bold text-gold-400">{s.value}</div>
-                        <div className="text-xs text-text-tertiary">{s.label}</div>
+                      <div key={s.label} className="text-center p-3 rounded-xl bg-warm-50">
+                        <s.icon className="h-4 w-4 mx-auto text-gold-600 mb-1" />
+                        <div className="text-lg font-bold text-gold-600">{s.value}</div>
+                        <div className="text-[11px] text-text-tertiary">{s.label}</div>
                       </div>
                     ))}
                   </div>
@@ -100,9 +101,9 @@ export default function ExplorePage() {
               )}
 
               {/* Graph Visualization */}
-              <div className="glass rounded-2xl p-5">
-                <h3 className="text-sm font-semibold text-text-primary mb-3">Graph View</h3>
-                <div className="h-48 rounded-xl overflow-hidden">
+              <div className="card p-5">
+                <h3 className="text-[13px] font-semibold text-text-primary mb-3">Graph View</h3>
+                <div className="h-48 rounded-xl overflow-hidden bg-warm-50">
                   {selectedEntity ? (
                     <GraphPreview
                       nodes={[
@@ -117,89 +118,94 @@ export default function ExplorePage() {
                         target: r.target_name,
                         type: r.type,
                       }))}
-                      className="w-full h-full"
+                      className="h-full"
                       onNodeClick={handleSelectEntity}
                     />
                   ) : (
                     <div className="h-full flex items-center justify-center">
-                      <p className="text-xs text-text-tertiary">Select an entity to visualize</p>
+                      <Network className="h-8 w-8 text-text-tertiary/30" />
                     </div>
                   )}
                 </div>
               </div>
 
-              {/* Entity search */}
-              <div className="glass rounded-2xl p-5">
-                <h3 className="text-sm font-semibold text-text-primary mb-3">Find Entity</h3>
-                <div className="flex gap-2 mb-4">
+              {/* Entity Search */}
+              <div className="card p-5">
+                <h3 className="text-[13px] font-semibold text-text-primary mb-3">Find Entity</h3>
+                <div className="relative mb-3">
+                  <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-text-tertiary" />
                   <input
                     type="text"
                     value={entityQuery}
                     onChange={(e) => setEntityQuery(e.target.value)}
                     onKeyDown={(e) => e.key === "Enter" && handleEntitySearch()}
-                    placeholder="Search entities..."
-                    className="flex-1 bg-surface-elevated rounded-xl px-4 py-2.5 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                    placeholder="e.g., Krishna, Dharma..."
+                    className="w-full pl-10 pr-3 py-2.5 rounded-xl bg-warm-50 border border-border text-sm text-text-primary placeholder-text-tertiary focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                   />
-                  <button
-                    onClick={handleEntitySearch}
-                    disabled={!entityQuery.trim()}
-                    className="px-4 py-2.5 rounded-xl bg-gold-500 text-surface text-sm font-semibold hover:bg-gold-400 disabled:opacity-30"
-                  >
-                    {isLoading ? <Loader2 className="h-4 w-4 animate-spin" /> : <Search className="h-4 w-4" />}
-                  </button>
                 </div>
+                <button
+                  onClick={handleEntitySearch}
+                  disabled={!entityQuery.trim() || isLoading}
+                  className="w-full py-2 rounded-xl bg-gold-500 text-white text-sm font-semibold hover:bg-gold-400 transition-all disabled:opacity-30 flex items-center justify-center gap-2"
+                >
+                  {isLoading ? <Loader2 className="h-4 w-4 animate-spin" /> : "Search"}
+                </button>
 
-                <div className="space-y-1 max-h-60 overflow-y-auto">
-                  {entityResults.map((e) => (
-                    <button
-                      key={e.guid}
-                      onClick={() => handleSelectEntity(e.name)}
-                      className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-all ${
-                        selectedEntity?.name === e.name
-                          ? "bg-gold-500/10 text-gold-400"
-                          : "text-text-secondary hover:text-text-primary hover:bg-white/5"
-                      }`}
-                    >
-                      <span className="font-medium">{e.name}</span>
-                      <span className="text-xs text-text-tertiary ml-2">({e.type})</span>
-                    </button>
-                  ))}
-                </div>
+                {/* Entity results */}
+                {entityResults.length > 0 && (
+                  <div className="mt-3 space-y-1 max-h-48 overflow-y-auto">
+                    {entityResults.map((e) => (
+                      <button
+                        key={e.guid}
+                        onClick={() => handleSelectEntity(e.name)}
+                        className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-all ${
+                          selectedEntity?.name === e.name
+                            ? "bg-accent-subtle text-gold-700"
+                            : "text-text-secondary hover:bg-warm-100/60 hover:text-text-primary"
+                        }`}
+                      >
+                        <span className="font-medium">{e.name}</span>
+                        <span className="text-[11px] text-text-tertiary ml-2">{e.type}</span>
+                      </button>
+                    ))}
+                  </div>
+                )}
               </div>
 
               {/* Path finder */}
-              <div className="glass rounded-2xl p-5">
-                <h3 className="text-sm font-semibold text-text-primary mb-3">Find Path</h3>
+              <div className="card p-5">
+                <h3 className="text-[13px] font-semibold text-text-primary mb-3">Find Path</h3>
                 <div className="space-y-2">
                   <input
                     type="text"
                     value={pathSource}
                     onChange={(e) => setPathSource(e.target.value)}
-                    placeholder="Source entity..."
-                    className="w-full bg-surface-elevated rounded-xl px-4 py-2.5 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                    placeholder="Source entity"
+                    className="w-full px-3 py-2 rounded-lg bg-warm-50 border border-border text-sm text-text-primary placeholder-text-tertiary focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                   />
                   <input
                     type="text"
                     value={pathTarget}
                     onChange={(e) => setPathTarget(e.target.value)}
-                    placeholder="Target entity..."
-                    className="w-full bg-surface-elevated rounded-xl px-4 py-2.5 text-sm text-text-primary placeholder-text-tertiary border border-border focus:outline-none focus:ring-1 focus:ring-gold-500/30"
+                    placeholder="Target entity"
+                    className="w-full px-3 py-2 rounded-lg bg-warm-50 border border-border text-sm text-text-primary placeholder-text-tertiary focus:outline-none focus:ring-1 focus:ring-accent/30 transition-all"
                   />
                   <button
                     onClick={handlePathSearch}
                     disabled={!pathSource.trim() || !pathTarget.trim()}
-                    className="w-full px-4 py-2.5 rounded-xl bg-gold-500 text-surface text-sm font-semibold hover:bg-gold-400 disabled:opacity-30"
+                    className="w-full py-2 rounded-xl bg-warm-100 text-text-primary text-sm font-medium hover:bg-warm-200 transition-all disabled:opacity-30 flex items-center justify-center gap-2"
                   >
-                    Find Connection
+                    <ArrowRight className="h-3.5 w-3.5" />
+                    Find Path
                   </button>
                 </div>
                 {pathResult && pathResult.depth > 0 && (
-                  <div className="mt-3 p-3 rounded-xl bg-white/5">
-                    <p className="text-xs text-gold-400 mb-2">Path found ({pathResult.depth} hops):</p>
+                  <div className="mt-3 p-3 rounded-xl bg-warm-50">
+                    <p className="text-[11px] text-gold-600 mb-2">Path found ({pathResult.depth} hops):</p>
                     <div className="flex flex-wrap items-center gap-1">
                       {pathResult.path_names.map((name, i) => (
                         <span key={i} className="flex items-center gap-1">
-                          <span className="text-xs text-text-primary">{name}</span>
+                          <span className="text-xs text-text-primary font-medium">{name}</span>
                           {i < pathResult.path_names.length - 1 && (
                             <ArrowRight className="h-3 w-3 text-text-tertiary" />
                           )}
@@ -209,7 +215,7 @@ export default function ExplorePage() {
                   </div>
                 )}
                 {pathResult && pathResult.depth === 0 && (
-                  <p className="mt-3 text-xs text-text-tertiary">No path found between these entities</p>
+                  <p className="mt-3 text-[11px] text-text-tertiary">No path found between these entities</p>
                 )}
               </div>
             </div>
@@ -218,53 +224,53 @@ export default function ExplorePage() {
             <div className="lg:col-span-2">
               {selectedEntity ? (
                 <motion.div
-                  initial={{ opacity: 0, y: 20 }}
+                  initial={{ opacity: 0, y: 16 }}
                   animate={{ opacity: 1, y: 0 }}
-                  className="glass rounded-2xl p-6"
+                  transition={{ duration: 0.5, ease: "easeOut" }}
+                  className="card p-6"
                 >
                   <div className="flex items-center gap-4 mb-6">
-                    <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-gold-400/20 to-gold-600/20 flex items-center justify-center">
-                      <Network className="h-7 w-7 text-gold-400" />
+                    <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-gold-400/15 to-gold-500/15 flex items-center justify-center">
+                      <Network className="h-6 w-6 text-gold-600" />
                     </div>
                     <div>
-                      <h2 className="font-serif text-2xl font-bold text-text-primary">
+                      <h2 className="font-serif text-2xl font-bold text-text-primary tracking-tight">
                         {selectedEntity.name}
                       </h2>
                       <div className="flex items-center gap-2 mt-1">
-                        <span className="text-xs font-medium text-gold-400 uppercase tracking-wider">
+                        <span className="text-[11px] font-medium text-gold-600 uppercase tracking-wider">
                           {selectedEntity.type}
                         </span>
-                        <span className="text-xs text-text-tertiary">·</span>
-                        <span className="text-xs text-text-tertiary">
+                        <span className="text-[11px] text-text-tertiary">·</span>
+                        <span className="text-[11px] text-text-tertiary">
                           {selectedEntity.total_mentions} mentions
                         </span>
                       </div>
                     </div>
                   </div>
 
-                  {/* Relationships */}
-                  <h3 className="text-sm font-semibold text-text-primary mb-3">
+                  <h3 className="text-[13px] font-semibold text-text-primary mb-3">
                     Relationships ({selectedEntity.relationships.length})
                   </h3>
-                  <div className="space-y-2 max-h-[60vh] overflow-y-auto">
+                  <div className="space-y-1.5 max-h-[60vh] overflow-y-auto">
                     {selectedEntity.relationships.map((rel, i) => (
                       <button
                         key={i}
                         onClick={() => handleSelectEntity(rel.target_name)}
-                        className="w-full flex items-center gap-3 p-3 rounded-xl bg-white/[0.02] hover:bg-white/[0.04] transition-all text-left group cursor-pointer"
+                        className="w-full flex items-center gap-3 p-3 rounded-xl bg-warm-50/50 hover:bg-warm-100/80 transition-all text-left group cursor-pointer"
                       >
                         <div className="flex-1 flex items-center gap-2 min-w-0">
-                          <span className="text-xs text-text-secondary">
+                          <span className="text-[11px] text-text-tertiary">
                             {rel.direction === "outgoing" ? "→" : "←"}
                           </span>
-                          <span className="text-xs font-medium text-text-primary truncate group-hover:text-gold-400 transition-colors">
+                          <span className="text-[13px] font-medium text-text-primary truncate group-hover:text-gold-600 transition-colors">
                             {rel.target_name}
                           </span>
                         </div>
-                        <span className="text-xs text-gold-400/80 truncate max-w-[200px]">
+                        <span className="text-[11px] text-gold-600/80 truncate max-w-[200px]">
                           {rel.type}
                         </span>
-                        <span className="text-xs text-text-tertiary">
+                        <span className="text-[11px] text-text-tertiary">
                           {(rel.confidence / 100).toFixed(0)}%
                         </span>
                       </button>
@@ -277,8 +283,8 @@ export default function ExplorePage() {
                   </div>
                 </motion.div>
               ) : (
-                <div className="glass rounded-2xl p-12 flex flex-col items-center justify-center text-center min-h-[400px]">
-                  <Network className="h-16 w-16 text-text-tertiary mb-4" />
+                <div className="card p-12 flex flex-col items-center justify-center text-center min-h-[400px]">
+                  <Network className="h-14 w-14 text-text-tertiary/20 mb-4" />
                   <h3 className="font-serif text-xl text-text-secondary mb-2">
                     Explore the Knowledge Graph
                   </h3>

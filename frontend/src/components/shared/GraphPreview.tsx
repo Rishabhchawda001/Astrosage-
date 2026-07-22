@@ -23,16 +23,16 @@ interface GraphPreviewProps {
 }
 
 const TYPE_COLORS: Record<string, string> = {
-  Scripture: "rgba(100, 180, 255, 0.6)",
-  Concept: "rgba(160, 120, 255, 0.6)",
-  Entity: "rgba(240, 176, 0, 0.6)",
-  Person: "rgba(255, 140, 68, 0.6)",
-  Place: "rgba(68, 200, 160, 0.6)",
-  Deity: "rgba(255, 200, 50, 0.7)",
+  Scripture: "rgba(90, 127, 160, 0.5)",
+  Concept: "rgba(148, 163, 184, 0.5)",
+  Entity: "rgba(212, 168, 74, 0.5)",
+  Person: "rgba(180, 140, 100, 0.5)",
+  Place: "rgba(100, 160, 130, 0.5)",
+  Deity: "rgba(212, 168, 74, 0.6)",
 };
 
 function getTypeColor(type: string): string {
-  return TYPE_COLORS[type] || "rgba(240, 176, 0, 0.6)";
+  return TYPE_COLORS[type] || "rgba(212, 168, 74, 0.5)";
 }
 
 export function GraphPreview({ nodes: rawNodes, edges: rawEdges, className = "", onNodeClick }: GraphPreviewProps) {
@@ -290,21 +290,21 @@ export function GraphPreview({ nodes: rawNodes, edges: rawEdges, className = "",
       <div className="absolute bottom-3 right-3 flex items-center gap-1.5">
         <button
           onClick={() => setZoom(prev => Math.min(3, prev * 1.3))}
-          className="p-1.5 rounded-lg bg-surface/80 backdrop-blur-sm border border-border/50 text-text-tertiary hover:text-text-primary hover:bg-surface transition-all"
+          className="p-1.5 rounded-lg bg-surface/80 backdrop-blur-sm border border-border text-text-tertiary hover:text-text-primary hover:bg-warm-100/60 transition-all"
           title="Zoom in"
         >
           <ZoomIn className="h-3.5 w-3.5" />
         </button>
         <button
           onClick={() => setZoom(prev => Math.max(0.3, prev * 0.7))}
-          className="p-1.5 rounded-lg bg-surface/80 backdrop-blur-sm border border-border/50 text-text-tertiary hover:text-text-primary hover:bg-surface transition-all"
+          className="p-1.5 rounded-lg bg-surface/80 backdrop-blur-sm border border-border text-text-tertiary hover:text-text-primary hover:bg-warm-100/60 transition-all"
           title="Zoom out"
         >
           <ZoomOut className="h-3.5 w-3.5" />
         </button>
         <button
           onClick={handleReset}
-          className="p-1.5 rounded-lg bg-surface/80 backdrop-blur-sm border border-border/50 text-text-tertiary hover:text-text-primary hover:bg-surface transition-all"
+          className="p-1.5 rounded-lg bg-surface/80 backdrop-blur-sm border border-border text-text-tertiary hover:text-text-primary hover:bg-warm-100/60 transition-all"
           title="Reset view"
         >
           <RotateCcw className="h-3.5 w-3.5" />
@@ -312,7 +312,7 @@ export function GraphPreview({ nodes: rawNodes, edges: rawEdges, className = "",
       </div>
 
       {/* Zoom level indicator */}
-      <div className="absolute top-3 left-3 px-2 py-1 rounded-md bg-surface/60 backdrop-blur-sm border border-border/30 text-[10px] text-text-tertiary font-mono">
+      <div className="absolute top-3 left-3 px-2 py-1 rounded-md bg-warm-50/80 backdrop-blur-sm border border-border text-[10px] text-text-tertiary font-mono">
         {(zoom * 100).toFixed(0)}%
       </div>
     </div>

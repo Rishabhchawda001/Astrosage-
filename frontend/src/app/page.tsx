@@ -14,22 +14,22 @@ export default function Home() {
       <CTASection />
 
       {/* Footer */}
-      <footer className="relative z-10 border-t border-border py-10 px-6 bg-surface/80 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-5">
-          <div className="flex items-center gap-3">
-            <div className="h-7 w-7 rounded-lg bg-gradient-to-br from-gold-500 to-gold-700 flex items-center justify-center">
-              <span className="text-white text-xs font-bold">🕉</span>
+      <footer className="relative z-10 border-t border-border py-8 px-6 bg-surface/80 backdrop-blur-sm">
+        <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+          <div className="flex items-center gap-2.5">
+            <div className="h-6 w-6 rounded-md bg-gradient-to-br from-gold-500 to-gold-600 flex items-center justify-center">
+              <span className="text-white text-[10px] font-bold">🕉</span>
             </div>
             <div>
-              <span className="font-serif text-sm text-text-primary">
+              <span className="font-serif text-sm text-text-primary tracking-tight">
                 AstroSage AI
               </span>
-              <p className="text-[11px] text-text-tertiary">
+              <p className="text-[10px] text-text-tertiary">
                 Ancient Wisdom, Verified
               </p>
             </div>
           </div>
-          <div className="flex items-center gap-5 text-xs text-text-tertiary">
+          <div className="flex items-center gap-4 text-[11px] text-text-tertiary">
             <a
               href="https://github.com/Rishabhchawda001/Astrosage-"
               target="_blank"

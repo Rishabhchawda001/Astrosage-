@@ -22,7 +22,7 @@ function MarkdownContent({ content }: { content: string }) {
           return (
             <div key={i} className="relative group my-3">
               {lang && (
-                <div className="text-xs text-text-tertiary px-3 py-1.5 border-b border-border bg-white/[0.02] rounded-t-xl">
+                <div className="text-[11px] text-text-tertiary px-3 py-1.5 border-b border-border bg-warm-50 rounded-t-xl">
                   {lang}
                 </div>
               )}
@@ -48,23 +48,16 @@ function StreamingIndicator() {
     <motion.span
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      className="inline-flex items-center gap-1.5 ml-1"
+      className="inline-flex items-center gap-1 ml-1"
     >
-      <motion.span
-        animate={{ opacity: [0.2, 1, 0.2] }}
-        transition={{ duration: 1.2, repeat: Infinity, delay: 0 }}
-        className="w-2 h-2 rounded-full bg-gradient-to-br from-gold-400 to-gold-600"
-      />
-      <motion.span
-        animate={{ opacity: [0.2, 1, 0.2] }}
-        transition={{ duration: 1.2, repeat: Infinity, delay: 0.2 }}
-        className="w-2 h-2 rounded-full bg-gradient-to-br from-gold-400 to-gold-600"
-      />
-      <motion.span
-        animate={{ opacity: [0.2, 1, 0.2] }}
-        transition={{ duration: 1.2, repeat: Infinity, delay: 0.4 }}
-        className="w-2 h-2 rounded-full bg-gradient-to-br from-gold-400 to-gold-600"
-      />
+      {[0, 0.2, 0.4].map((delay, i) => (
+        <motion.span
+          key={i}
+          animate={{ opacity: [0.2, 1, 0.2] }}
+          transition={{ duration: 1.2, repeat: Infinity, delay }}
+          className="w-1.5 h-1.5 rounded-full bg-gold-400"
+        />
+      ))}
     </motion.span>
   );
 }
@@ -72,28 +65,21 @@ function StreamingIndicator() {
 function ThinkingIndicator() {
   return (
     <motion.div
-      initial={{ opacity: 0, y: 8 }}
+      initial={{ opacity: 0, y: 6 }}
       animate={{ opacity: 1, y: 0 }}
-      className="flex items-center gap-3 px-4 py-3 rounded-xl glass max-w-fit"
+      className="flex items-center gap-2.5 px-3 py-2 rounded-xl glass max-w-fit"
     >
-      <div className="flex items-center gap-1">
-        <motion.div
-          animate={{ scale: [1, 1.3, 1] }}
-          transition={{ duration: 1, repeat: Infinity, delay: 0 }}
-          className="w-1.5 h-1.5 rounded-full bg-gold-400/60"
-        />
-        <motion.div
-          animate={{ scale: [1, 1.3, 1] }}
-          transition={{ duration: 1, repeat: Infinity, delay: 0.15 }}
-          className="w-1.5 h-1.5 rounded-full bg-gold-400/60"
-        />
-        <motion.div
-          animate={{ scale: [1, 1.3, 1] }}
-          transition={{ duration: 1, repeat: Infinity, delay: 0.3 }}
-          className="w-1.5 h-1.5 rounded-full bg-gold-400/60"
-        />
+      <div className="flex items-center gap-0.5">
+        {[0, 0.15, 0.3].map((delay, i) => (
+          <motion.div
+            key={i}
+            animate={{ scale: [1, 1.2, 1] }}
+            transition={{ duration: 1, repeat: Infinity, delay }}
+            className="w-1 h-1 rounded-full bg-gold-400/50"
+          />
+        ))}
       </div>
-      <span className="text-xs text-text-secondary font-medium">
+      <span className="text-[11px] text-text-secondary font-medium">
         Consulting the knowledge base
       </span>
       <BookOpen className="h-3 w-3 text-text-tertiary" />
@@ -122,20 +108,20 @@ export function MessageBubble({ message, isStreaming, isThinking, sources }: Mes
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: 12 }}
+      initial={{ opacity: 0, y: 8 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.3, ease: "easeOut" }}
-      className={`flex gap-4 ${isUser ? "flex-row-reverse" : ""}`}
+      className={`flex gap-3 ${isUser ? "flex-row-reverse" : ""}`}
     >
       {/* Avatar */}
       <div
-        className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center ring-2 ring-white/5 ${
+        className={`flex-shrink-0 w-7 h-7 rounded-full flex items-center justify-center ring-1 ring-white/10 ${
           isUser
-            ? "bg-gold-500/15 text-gold-400 ring-gold-500/10"
-            : "bg-gradient-to-br from-gold-400 to-gold-600 text-surface ring-gold-500/20"
+            ? "bg-accent-subtle text-gold-600"
+            : "bg-gradient-to-br from-gold-500 to-gold-600 text-white"
         }`}
       >
-        {isUser ? <User className="h-4 w-4" /> : <Bot className="h-4 w-4" />}
+        {isUser ? <User className="h-3.5 w-3.5" /> : <Bot className="h-3.5 w-3.5" />}
       </div>
 
       {/* Content */}
@@ -143,139 +129,122 @@ export function MessageBubble({ message, isStreaming, isThinking, sources }: Mes
         {isThinking ? (
           <ThinkingIndicator />
         ) : (
-          <>
-            <div
-              className={`rounded-2xl px-5 py-3.5 ${
-                isUser
-                  ? "bg-gold-500/10 border border-gold-500/20"
-                  : "glass"
-              }`}
+          <div
+            className={`rounded-2xl px-4 py-3 ${
+              isUser
+                ? "bg-warm-100 text-text-primary"
+                : "bg-surface-raised border border-border shadow-xs"
+            }`}
+          >
+            <MarkdownContent content={message.content} />
+            {isStreaming && <StreamingIndicator />}
+          </div>
+        )}
+
+        {/* Actions */}
+        {!isUser && !isStreaming && !isThinking && message.content && (
+          <div className="flex items-center gap-1.5 mt-1.5 ml-1">
+            <button
+              onClick={handleCopy}
+              className="p-1.5 rounded-lg text-text-tertiary hover:text-text-primary hover:bg-warm-100/60 transition-all"
+              title="Copy"
             >
-              {isUser ? (
-                <p className="text-sm leading-relaxed">{message.content}</p>
-              ) : (
-                <div className="relative">
-                  <MarkdownContent content={message.content} />
-                  {isStreaming && (
-                    <motion.div
-                      initial={{ opacity: 0 }}
-                      animate={{ opacity: 1 }}
-                      className="inline-block"
-                    >
-                      <StreamingIndicator />
-                    </motion.div>
-                  )}
-                </div>
-              )}
-            </div>
+              {copied ? <Check className="h-3 w-3 text-success" /> : <Copy className="h-3 w-3" />}
+            </button>
 
-            {/* Actions bar */}
-            <div className={`flex items-center gap-1 mt-1.5 ${isUser ? "justify-end" : ""}`}>
+            {sources && sources.length > 0 && (
               <button
-                onClick={handleCopy}
-                className="p-1.5 rounded-lg text-text-tertiary hover:text-text-primary hover:bg-white/5 transition-all"
-                title="Copy message"
+                onClick={() => setShowSources(!showSources)}
+                className={`flex items-center gap-1.5 px-2 py-1 rounded-lg text-[11px] font-medium transition-all ${
+                  showSources
+                    ? "bg-accent-subtle text-gold-700"
+                    : "text-text-tertiary hover:text-text-primary hover:bg-warm-100/60"
+                }`}
               >
-                {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-3.5 w-3.5" />}
+                <ScrollText className="h-3 w-3" />
+                {sources.length} source{sources.length > 1 ? "s" : ""}
+                <ChevronDown
+                  className={`h-3 w-3 transition-transform duration-200 ${showSources ? "rotate-180" : ""}`}
+                />
               </button>
-
-              {sources && sources.length > 0 && !isStreaming && (
-                <button
-                  onClick={() => setShowSources(!showSources)}
-                  className={`flex items-center gap-1.5 px-2.5 py-1 rounded-lg text-xs font-medium transition-all ${
-                    showSources
-                      ? "bg-gold-500/15 text-gold-400"
-                      : "text-text-tertiary hover:text-text-primary hover:bg-white/5"
-                  }`}
-                >
-                  <ScrollText className="h-3 w-3" />
-                  {sources.length} source{sources.length > 1 ? "s" : ""}
-                  <ChevronDown
-                    className={`h-3 w-3 transition-transform duration-200 ${
-                      showSources ? "rotate-180" : ""
-                    }`}
-                  />
-                </button>
-              )}
-
-              {!isUser && !isStreaming && !sources?.length && (
-                <div className="flex items-center gap-1 text-xs text-text-tertiary">
-                  <Sparkles className="h-3 w-3 text-gold-400/60" />
-                  <span>Grounded</span>
-                </div>
-              )}
-            </div>
-
-            {/* Expandable sources */}
-            {showSources && sources && sources.length > 0 && (
-              <motion.div
-                initial={{ opacity: 0, height: 0 }}
-                animate={{ opacity: 1, height: "auto" }}
-                exit={{ opacity: 0, height: 0 }}
-                transition={{ duration: 0.2 }}
-                className="mt-2 space-y-1.5 overflow-hidden"
-              >
-                {sources.map((source, i) => (
-                  <div key={i} className="relative group">
-                    <button
-                      onClick={() => openEvidence(source)}
-                      className="w-full text-left glass rounded-xl p-3 hover:bg-white/[0.04] transition-all group/card border border-transparent hover:border-gold-500/10"
-                    >
-                      <div className="flex items-center justify-between mb-1">
-                        <div className="flex items-center gap-2">
-                          <BookOpen className="h-3 w-3 text-gold-400/60" />
-                          <span className="text-xs font-medium text-gold-400">
-                            {source.scripture || "Source"}
-                          </span>
-                          <span className="text-[10px] text-text-tertiary uppercase tracking-wider">
-                            {source.level}
-                          </span>
-                        </div>
-                        <div className="flex items-center gap-1.5">
-                          <div className="h-1.5 w-12 rounded-full bg-white/5 overflow-hidden">
-                            <div
-                              className="h-full rounded-full bg-gradient-to-r from-gold-400 to-gold-600"
-                              style={{ width: `${source.score * 100}%` }}
-                            />
-                          </div>
-                          <span className="text-[10px] text-text-tertiary font-mono">
-                            {(source.score * 100).toFixed(0)}%
-                          </span>
-                        </div>
-                      </div>
-                      <p className="text-xs text-text-secondary line-clamp-2 leading-relaxed pr-6">
-                        {source.text}
-                      </p>
-                    </button>
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        const { addBookmark, removeBookmark } = useBookmarkStore.getState();
-                        const bookmarks = useBookmarkStore.getState().bookmarks;
-                        const idx = bookmarks.findIndex(
-                          (b) => b.text === source.text && b.scripture === source.scripture
-                        );
-                        if (idx >= 0) {
-                          removeBookmark(idx);
-                        } else {
-                          addBookmark(source);
-                        }
-                      }}
-                      className="absolute top-3 right-3 p-1.5 rounded-lg transition-all opacity-0 group-hover:opacity-100
-                        {useBookmarkStore.getState().isBookmarked(source)
-                          ? 'text-gold-400 hover:bg-gold-500/10 bg-gold-500/10'
-                          : 'text-text-tertiary hover:text-text-primary hover:bg-white/5'}"
-                      title={useBookmarkStore.getState().isBookmarked(source) ? "Remove bookmark" : "Bookmark source"}
-                    >
-                      {useBookmarkStore.getState().isBookmarked(source)
-                        ? <BookmarkCheck className="h-3 w-3" />
-                        : <Bookmark className="h-3 w-3" />}
-                    </button>
-                  </div>
-                ))}
-              </motion.div>
             )}
-          </>
+
+            {!sources?.length && (
+              <div className="flex items-center gap-1 text-[11px] text-text-tertiary">
+                <Sparkles className="h-3 w-3 text-gold-500/50" />
+                <span>Grounded</span>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Expandable sources */}
+        {showSources && sources && sources.length > 0 && (
+          <motion.div
+            initial={{ opacity: 0, height: 0 }}
+            animate={{ opacity: 1, height: "auto" }}
+            exit={{ opacity: 0, height: 0 }}
+            transition={{ duration: 0.2 }}
+            className="mt-2 space-y-1.5 overflow-hidden"
+          >
+            {sources.map((source, i) => (
+              <div key={i} className="relative group">
+                <button
+                  onClick={() => openEvidence(source)}
+                  className="w-full text-left card p-3 hover:shadow-sm transition-all group/card cursor-pointer"
+                >
+                  <div className="flex items-center justify-between mb-1">
+                    <div className="flex items-center gap-2">
+                      <BookOpen className="h-3 w-3 text-gold-500/50" />
+                      <span className="text-[11px] font-medium text-gold-600">
+                        {source.scripture || "Source"}
+                      </span>
+                      <span className="text-[10px] text-text-tertiary uppercase tracking-wider">
+                        {source.level}
+                      </span>
+                    </div>
+                    <div className="flex items-center gap-1.5">
+                      <div className="h-1 w-10 rounded-full bg-warm-100 overflow-hidden">
+                        <div
+                          className="h-full rounded-full bg-gradient-to-r from-gold-500 to-gold-400"
+                          style={{ width: `${source.score * 100}%` }}
+                        />
+                      </div>
+                      <span className="text-[10px] text-text-tertiary font-mono">
+                        {(source.score * 100).toFixed(0)}%
+                      </span>
+                    </div>
+                  </div>
+                  <p className="text-[11px] text-text-secondary line-clamp-2 leading-relaxed pr-6">
+                    {source.text}
+                  </p>
+                </button>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    const { addBookmark, removeBookmark } = useBookmarkStore.getState();
+                    const bookmarks = useBookmarkStore.getState().bookmarks;
+                    const idx = bookmarks.findIndex(
+                      (b) => b.text === source.text && b.scripture === source.scripture
+                    );
+                    if (idx >= 0) {
+                      removeBookmark(idx);
+                    } else {
+                      addBookmark(source);
+                    }
+                  }}
+                  className="absolute top-2.5 right-2.5 p-1 rounded-md transition-all opacity-0 group-hover:opacity-100"
+                  title={useBookmarkStore.getState().isBookmarked(source) ? "Remove bookmark" : "Bookmark source"}
+                >
+                  {useBookmarkStore.getState().isBookmarked(source) ? (
+                    <BookmarkCheck className="h-3 w-3 text-gold-500" />
+                  ) : (
+                    <Bookmark className="h-3 w-3 text-text-tertiary hover:text-text-primary" />
+                  )}
+                </button>
+              </div>
+            ))}
+          </motion.div>
         )}
       </div>
     </motion.div>
