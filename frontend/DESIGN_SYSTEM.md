@@ -1,291 +1,241 @@
-# AstroSage AI — Design System
+# AstroSage Design System v2.0
 
 ## Purpose
 
-This document is AstroSage's permanent visual constitution. Every UI decision must comply with it. Deviations require explicit justification documented in code comments.
+AstroSage's permanent visual constitution. Every UI decision must comply with this document.
 
 ---
 
 ## 1. Visual Philosophy
 
-AstroSage is not software. It is a gateway to timeless knowledge. The interface must feel like entering a premium ancient library that happens to be powered by modern engineering.
+AstroSage is not software. It is a gateway to timeless knowledge. The interface must feel like entering a premium ancient library powered by modern engineering.
 
-**Core emotions**: Trust · Calm · Wisdom · Timelessness · Reverence
+**Core emotions**: Trust · Calm · Wisdom · Timelessness · Reverence · Discovery
 
-**Anti-patterns**: No neon. No gaming aesthetics. No heavy gradients. No clutter. No flashiness. No template feel.
+**Anti-patterns**: No neon. No gaming aesthetics. No heavy gradients. No clutter. No flashiness. No template feel. No generic SaaS.
 
 ---
 
-## 2. Color Tokens
+## 2. Color System
 
-### Surfaces
+### Surface Colors
 | Token | Value | Usage |
 |-------|-------|-------|
-| `surface` | `#f8f6f2` | Page background |
-| `surface-elevated` | `#ffffff` | Cards, elevated elements |
-| `surface-overlay` | `rgba(255,255,255,0.85)` | Modal overlays, glass panels |
+| `surface` | `#fefdfb` | Page background (warm ivory) |
+| `surface-raised` | `#ffffff` | Cards, modals, elevated surfaces |
+| `surface-overlay` | `rgba(255,255,255,0.92)` | Glass panels, overlays |
+| `surface-sunken` | `#f5f3ef` | Recessed areas |
 
-### Text
+### Text Colors
 | Token | Value | Usage |
 |-------|-------|-------|
-| `text-primary` | `#2c2418` | Headlines, body |
-| `text-secondary` | `#6b5d4f` | Descriptions |
-| `text-tertiary` | `#9a8b7a` | Captions, labels |
+| `text-primary` | `#1a1612` | Headlines, body text |
+| `text-secondary` | `#5c5347` | Descriptions, secondary content |
+| `text-tertiary` | `#9a9083` | Captions, labels, placeholders |
 
-### Accent — Gold
+### Gold Accent (Subtle)
 | Token | Value | Usage |
 |-------|-------|-------|
-| `gold-50` | `#fefcf5` | Tinted backgrounds |
-| `gold-100` | `#fdf5e0` | Hover states |
-| `gold-300` | `#f5d68a` | Highlights |
-| `gold-500` | `#d4a030` | Primary accent, buttons |
-| `gold-600` | `#b88820` | Hover accent |
-| `gold-700` | `#9a6e18` | Active accent |
-
-### Accent — Sacred
-| Token | Value | Usage |
-|-------|-------|-------|
-| `sacred-500` | `#7a56e0` | Subtle spiritual accents |
-| `sacred-400` | `#9a7aff` | Decorative glow |
-
-### Semantic
-| Token | Value | Usage |
-|-------|-------|-------|
-| `success` | `#4a9e6a` | Quality gates, positive |
-| `error` | `#c45050` | Errors, low confidence |
-| `warning` | `#d4a030` | Warnings |
+| `gold-50` to `gold-900` | Warm gold scale | Accent, buttons, emphasis |
+| `accent` | `#d4a84a` | Primary accent |
+| `accent-subtle` | `rgba(212,168,74,0.06)` | Subtle accent backgrounds |
+| `accent-muted` | `rgba(212,168,74,0.12)` | Muted accent backgrounds |
 
 ### Borders
 | Token | Value | Usage |
 |-------|-------|-------|
-| `border` | `rgba(60,45,30,0.08)` | Default dividers |
-| `border-light` | `rgba(60,45,30,0.15)` | Subtle emphasis |
+| `border` | `rgba(26,22,18,0.06)` | Default dividers |
+| `border-subtle` | `rgba(26,22,18,0.04)` | Very subtle dividers |
+| `border-strong` | `rgba(26,22,18,0.10)` | Emphasis borders |
+| `border-accent` | `rgba(212,168,74,0.15)` | Gold accent borders |
 
 ---
 
 ## 3. Typography
 
-### Typefaces
-- **Display / Headlines**: Cormorant Garamond — serif, elegant, museum-quality
-- **Body / UI**: Inter — clean, modern, excellent readability
+### Font Families
+- **Display / Headlines**: Cormorant Garamond (serif, elegant, museum-quality)
+- **Body / UI**: Inter (sans-serif, clean, excellent readability)
 
-### Scale (Desktop)
-| Level | Size | Weight | Font | Line-height |
-|-------|------|--------|------|-------------|
-| Hero | `text-7xl` (72px) | Bold | Serif | 1.1 |
-| Section title | `text-4xl`–`text-5xl` | Bold | Serif | 1.15 |
-| Card title | `text-xl` | Semibold | Serif | 1.3 |
-| Body large | `text-lg` | Normal | Sans | 1.6 |
-| Body | `text-base` | Normal | Sans | 1.6 |
-| Small | `text-sm` | Normal | Sans | 1.5 |
-| Caption | `text-xs` | Medium | Sans | 1.4 |
+### Type Scale
+| Level | Size | Weight | Font | Usage |
+|-------|------|--------|------|-------|
+| Display | `text-5xl` to `text-7xl` (48-72px) | Bold | Serif | Hero headings |
+| Section | `text-4xl` to `text-5xl` (36-48px) | Bold | Serif | Section titles |
+| Card | `text-xl` (20px) | Semibold | Serif | Card titles |
+| Body LG | `text-lg` (18px) | Normal | Sans | Lead paragraphs |
+| Body | `text-base` (16px) | Normal | Sans | Body text |
+| Small | `text-sm` (14px) | Normal | Sans | UI text |
+| Caption | `text-xs` (12px) | Medium | Sans | Captions |
+| Micro | `text-[11px]` | Normal | Sans | Fine print |
+| Label | `text-[11px] uppercase tracking-wider` | Medium | Sans | Section labels |
 
 ### Rules
 - Headlines always use serif font
-- Body text never exceeds 680px width for readability
-- Gold gradient text for emphasis only on key words (max 1-2 per heading)
-- Letter spacing: tight on headings (`tracking-tight`), normal on body
+- Body text never exceeds 680px width
+- Gold gradient text only for key emphasis words (max 1-2 per heading)
+- Letter spacing: tight on headings, normal on body
 
 ---
 
-## 4. Spacing Scale
+## 4. Spacing
 
-Base unit: `4px` (Tailwind default)
+Base unit: 4px (Tailwind default)
 
 | Token | Value | Usage |
 |-------|-------|-------|
-| `xs` | `4px` | Tight gaps |
-| `sm` | `8px` | Icon gaps |
-| `md` | `16px` | Card padding |
-| `lg` | `24px` | Section gaps |
-| `xl` | `32px` | Card internal spacing |
-| `2xl` | `48px` | Section padding |
-| `3xl` | `64px` | Major section spacing |
-| `4xl` | `128px` | Hero spacing |
+| `p-1` / `gap-1` | 4px | Tight gaps |
+| `p-2` / `gap-2` | 8px | Icon gaps, small padding |
+| `p-3` | 12px | Button padding, card internal |
+| `p-4` | 16px | Card padding, input padding |
+| `p-5` | 20px | Card internal spacing |
+| `p-6` | 24px | Section gaps |
+| `p-7` / `p-8` | 28-32px | Card large padding |
+| `p-10` | 40px | Section padding |
+| `p-12` | 48px | Major section padding |
+| `p-16` | 64px | Hero CTA padding |
+| `py-28` / `py-32` | 112-128px | Section vertical spacing |
+| `pt-24` | 96px | Page top offset (nav) |
 
 ---
 
-## 5. Elevation & Glass
+## 5. Elevation & Shadows
 
-### Shadows
+### Shadow Scale
 ```css
-shadow-sm:  0 1px 3px rgba(60,45,30,0.04)
-shadow-md:  0 4px 12px rgba(60,45,30,0.06)
-shadow-lg:  0 8px 32px rgba(60,45,30,0.06)
+shadow-xs:  0 1px 2px rgba(26,22,18,0.03)
+shadow-sm:  0 1px 3px rgba(26,22,18,0.04), 0 1px 2px rgba(26,22,18,0.02)
+shadow-md:  0 4px 12px rgba(26,22,18,0.04), 0 2px 4px rgba(26,22,18,0.02)
+shadow-lg:  0 8px 24px rgba(26,22,18,0.05), 0 4px 8px rgba(26,22,18,0.02)
+shadow-xl:  0 16px 48px rgba(26,22,18,0.06), 0 8px 16px rgba(26,22,18,0.03)
+shadow-2xl: 0 24px 64px rgba(26,22,18,0.08), 0 12px 24px rgba(26,22,18,0.04)
+shadow-glow: 0 0 40px rgba(212,168,74,0.08)
 ```
 
-### Glass
-```css
-glass:       bg-white/50 + blur(20px) + border
-glass-strong: bg-white/75 + blur(32px) + border
-glass-warm:  bg-[#fcf9f2]/70 + blur(24px) + gold border
-```
-
-### Cards
-- `card-premium`: white, rounded-2xl, shadow-md, border, hover shadow-gold glow
-- No dark backgrounds on landing page
-- Warm shadows only (brown-tinted, never blue/black)
+### Glass Morphism
+| Class | Background | Blur | Border |
+|-------|-----------|------|--------|
+| `.glass` | `rgba(255,255,255,0.55)` | 20px | `border` |
+| `.glass-strong` | `rgba(255,255,255,0.78)` | 32px | `border-strong` |
+| `.glass-subtle` | `rgba(255,255,255,0.35)` | 12px | `border-subtle` |
 
 ---
 
-## 6. Buttons
+## 6. Border Radius
 
-### Primary
-- Gold gradient background (`gold-500` → `gold-600`)
+| Element | Radius | Value |
+|---------|--------|-------|
+| Buttons | `rounded-xl` | 18px |
+| Cards | `rounded-2xl` | 24px |
+| Nav pill | `rounded-2xl` | 24px |
+| Badges | `rounded-full` | 9999px |
+| Inputs | `rounded-xl` | 18px |
+| Modals | `rounded-3xl` | 32px |
+
+---
+
+## 7. Card System
+
+- `.card`: Base card — white, rounded-2xl, border, shadow-sm, hover shadow-md
+- `.card-elevated`: Higher elevation — white, rounded-2xl, border, shadow-lg
+- `.card-premium`: Premium card — white, rounded-2xl, border, shadow-md, hover glow + lift
+
+---
+
+## 8. Button System
+
+### Primary (`.btn-primary`)
+- Gold gradient background
 - White text, semibold
 - Rounded-xl, generous padding
-- Hover: lift (-1px), stronger shadow, brighter gradient
-- Active: settle back
+- Hover: brighter gradient, stronger shadow, lift
 
-### Secondary
-- White glass background, border
-- Dark text
-- Hover: brighter white, gold border tint
-
-### CTA (Hero)
-- Primary style, larger (px-10 py-5, text-lg)
+### Secondary (`.btn-secondary`)
+- White surface background
+- Dark text, medium weight
+- Border, rounded-xl
+- Hover: warm-50 background, stronger border
 
 ---
 
-## 7. Motion
+## 9. Motion
 
-### Duration
-| Type | Duration | Easing |
-|------|----------|--------|
-| Micro | 150ms | ease-out |
-| Standard | 300ms | ease-out |
-| Entrance | 600ms | ease-out |
-| Cinematic | 800ms | ease-out |
+### Duration Tokens
+| Token | Value | Usage |
+|-------|-------|-------|
+| `duration-fast` | 120ms | Micro interactions |
+| `duration-normal` | 200ms | Standard transitions |
+| `duration-slow` | 350ms | Page transitions |
+| `duration-slower` | 500ms | Complex animations |
+| `duration-slowest` | 700ms | Cinematic entrances |
+
+### Easing
+| Token | Value | Usage |
+|-------|-------|-------|
+| `ease-out` | `cubic-bezier(0.16, 1, 0.3, 1)` | Most transitions |
+| `ease-in-out` | `cubic-bezier(0.65, 0, 0.35, 1)` | Bidirectional |
+| `ease-spring` | `cubic-bezier(0.34, 1.56, 0.64, 1)` | Bouncy entrances |
+
+### Framer Motion Presets
+| Name | Duration | Easing | Usage |
+|------|----------|--------|-------|
+| Hero entrance | 0.8-1.0s | easeOut | Staggered fade-in-up |
+| Card entrance | 0.5s | easeOut | Scroll-triggered |
+| Section entrance | 0.6s | easeOut | Scroll-triggered |
+| Drawer slide | spring | damping:30, stiffness:300 | Evidence drawer |
+| Sidebar toggle | 0.2s | easeOut | Width animation |
+| Message enter | 0.3s | easeOut | Chat messages |
 
 ### Rules
-- Entrance animations: fade-in-up (8-20px translation)
-- Stagger delays: 80-100ms between sibling elements
-- Scroll reveals: `useInView` with `once: true`, margin `-80px`
-- Background canvas: continuous, 60fps target, never blocks interaction
+- Entrance animations: fade-in-up (6-16px translation)
+- Scroll reveals: `useInView` with `once: true`
+- Canvas: continuous, 60fps, never blocks interaction
 - `prefers-reduced-motion`: disable all animations except canvas background
 
-### Canvas Background
-- Never animate deity figures
-- Animate: clouds, light rays, dust particles, mist, parallax
-- Cloud speed: imperceptibly slow drift
-- Particles: gentle upward float with sine drift
-- Light rays: subtle opacity pulsing (4-6% alpha)
+---
+
+## 10. Canvas Backgrounds
+
+### Home Page: CinematicBackground
+- Sacred geometry (concentric circles, lotus petal patterns)
+- Flowing river geometry (sine waves)
+- Light rays from above
+- Mountain silhouettes
+- Atmospheric particles (dust, petals, pollen)
+- Mist gradient at bottom
+- Soft vignette
+- DPR capped at 2
+
+### Other Pages: StarField
+- Sparse floating gold particles
+- Warm radial gradient
+- Pauses when not visible (IntersectionObserver)
+- DPR capped at 2
 
 ---
 
-## 8. Border Radius
+## 11. Accessibility
 
-| Element | Radius |
-|---------|--------|
-| Buttons | `rounded-xl` (12px) |
-| Cards | `rounded-2xl` (16px) |
-| Nav pill | `rounded-2xl` (16px) |
-| Badges | `rounded-full` |
-| Icons | `rounded-xl` |
-
----
-
-## 9. Decorative Elements
-
-- Gold gradient line divider: `h-px bg-gradient-to-r from-transparent via-gold-500/30 to-transparent`
-- Section ornaments: never more than 1 decorative line per section
-- Glow blobs: `bg-gold-500/5 rounded-full blur-3xl` — max 2 per card
-- Heading ornament: optional flex row with gradient lines before/after text
-
----
-
-## 10. Accessibility
-
-- **Contrast**: all text must pass WCAG AA (4.5:1 for body, 3:1 for large text)
-- **Focus**: visible focus ring on all interactive elements (`ring-2 ring-gold-500/40`)
-- **Screen readers**: canvas is `aria-hidden="true"`, semantic HTML throughout
+- **Contrast**: all text passes WCAG AA (4.5:1 body, 3:1 large)
+- **Focus**: visible focus ring on all interactive elements
+- **Screen readers**: canvas is `aria-hidden="true"`, semantic HTML
 - **Reduced motion**: `@media (prefers-reduced-motion: reduce)` disables animations
 - **Keyboard**: all links/buttons focusable, logical tab order
 - **Touch targets**: minimum 44px for mobile interactive elements
 
 ---
 
-## 11. Responsive Breakpoints
+## 12. Responsive Breakpoints
 
-| Breakpoint | Width | Adjustments |
-|------------|-------|-------------|
-| Mobile | < 640px | Single column, reduced text, stacked CTAs |
-| Tablet | 640-1024px | 2-column grids, moderate text |
-| Desktop | > 1024px | Full layout, 3-column grids |
-
-### Mobile-specific
-- Hero text: `text-5xl` max
-- Cards: full-width
-- Nav: hamburger menu
-- CTAs: stacked vertically
+| Name | Min Width | Strategy |
+|------|-----------|----------|
+| Mobile | 0px | Single column, stacked |
+| `sm` | 640px | Minor adjustments |
+| `md` | 768px | Two-column, horizontal CTAs |
+| `lg` | 1024px | Full layout, three-column |
+| `xl` | 1280px | Maximum width containers |
 
 ---
 
-## 12. Component Rules
-
-### Navigation
-- Frosted glass pill on landing page
-- Fixed position, z-50
-- Logo: gold gradient square with Om symbol
-- Active route: gold background tint
-- Mobile: slide-down menu with backdrop
-
-### Hero
-- Full viewport height (`min-h-screen`)
-- Centered content, max-w-5xl
-- Trust badge above heading (pill, glass, icon + text)
-- Heading: 2-line, gradient word + plain word
-- Subtitle: 1-2 lines max
-- CTAs: 2 buttons side by side (desktop) or stacked (mobile)
-- Stats: grid below divider line
-- Scroll indicator: subtle mouse icon at bottom
-
-### Story Section
-- Card grid: 2-3 columns
-- Each card: icon (gradient bg) + title (serif) + description (sans)
-- Quote block at bottom: serif blockquote with stats
-
-### CTA Section
-- Single centered card
-- Badge + heading + description + button
-- Decorative glow blobs
-
-### Footer
-- Minimal, single line
-- Logo left, links/status right
-- Border-top separator
-
----
-
-## 13. Canvas Background Rules
-
-The procedural background is AstroSage's most distinctive element. It must:
-
-1. Fill the hero viewport (`position: fixed`)
-2. Layer from back to front: sky → sun → rays → moon → clouds → far mountains → mid mountains → temple → chariot → near mountains → mist → particles
-3. Use warm dawn palette (ivory → gold → amber)
-4. Silhouette style for all figures (no detail rendering)
-5. Blend seamlessly into page background at bottom
-6. Never consume input events (`pointer-events: none`)
-7. Respond to window resize
-8. Cap DPR at 2 for performance
-9. Respect `prefers-reduced-motion` (optional: reduce particle count)
-
----
-
-## 14. Illustration Rules
-
-- **Style**: Silhouettes only — dark shapes against atmospheric gradient background
-- **Color**: Dark warm brown/charcoal silhouettes
-- **No**: outlines, details, facial features, colors on figures
-- **Respectful**: Deity figures are part of the environment, not decorations
-- **Proportions**: Krishna taller than Arjuna, both proportional to chariot
-
----
-
-## 15. File Organization
-
-- `src/app/globals.css` — all CSS tokens, utilities, animations
-- `src/components/landing/` — landing page components only
-- `src/components/shared/` — reusable across pages
-- `DESIGN_SYSTEM.md` — this document (source of truth)
+*Generated: 2026-07-22*
+*Version: 2.0*
